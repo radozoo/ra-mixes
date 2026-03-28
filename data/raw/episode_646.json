@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "646",
+  "url": "https://ra.co/podcast/646",
+  "id": "646",
+  "__typename": "Podcast",
+  "title": "RA.646 Lil Mofo",
+  "date": "2018-10-15T00:00:54.000Z",
+  "fileSize": 192933742,
+  "duration": "01:20:17",
+  "imageUrl": "https://static.ra.co/images/podcast/ra646-lil-mofo-cvr.jpg",
+  "contentUrl": "/podcast/646",
+  "tracklist": "Kocmoc (Kosmos) - Syväkosmos\nBlectum From Blechdom - Cosmic Carwash\nAdd N To X - Meetings In Compact Boxes\nChristian Vogel - 16 Bit The 8\nL.T.J. Bukem - Music (Happy Raw)\nDillinja - Gangsta\nJimmy Cliff ?– I Can See Clearly\nDJ Connie - Together\nDJ DR-660 - Phonky No. 69\nDMX Krew - Bad Vibes\nSkanna - Untitled (Nightstalker EP)\nDJ Richard - Benzos\nDJ Deeon - Exta-C (909-Rzi Rx)\nDee Jay Nehpets - I Came To Bring The Pain\nBandulu - Ishmaelite\nThe Dark Man - Return 1\nHoldie Gawn - Hypoferm\nDHS - Hypnosis\nErrorsmith & Mark Fell - Protogravity\nJoy Orbison - Fuerza\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/514533093",
+  "keywords": "Tokyo, Grassroots, NTS, Only the Lonely, LYL Radio",
+  "artist": {
+    "id": "75176",
+    "__typename": "Artist",
+    "name": "Lil Mofo"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Lil Mofo is a hard-working DJ, playing up to three or four gigs a week in her home city, Tokyo. She travels around the Japanese capital's <a href=\"/features/2724\">rich network</a> of venues, just as content playing reggae in a backstreet bar as she is banging out techno in a large nightclub. (She recorded this podcast in Grassroots, one of the city's best-loved small venues.) It was at one of these gigs that she caught the attention of The Trilogy Tapes founder Will Bankhead, who heard her playing dancehall records and commissioned a TTT mixtape, which came out earlier this year. Like many of her peers in Tokyo, she juggles her gigs with a day job—she says it's her aim as a DJ to help overworked people \"feel better in this super-stressed society.\"\n\nLil Mofo returned to Japan about 12 months back after a couple of years in London, where she held a regular NTS Radio slot, Only The Lonely, that showcased her tastes in everything from reggae and dancehall to techno, ambient and drum & bass. On her RA podcast, she pushes the tempo past the 140 BPM mark, bringing together gnarly electronics, jungle, hardcore, electro, techno and trance. \n\n<b>What have you been up to recently?</b>\n\nDay job and DJing. \n\n<b>How and where was the mix recorded?</b>\n\nRecorded live at Q's Bar Grassroots, our local spot and where I grew up. I used an Alpha music mixer made for Grassroots, 2 SL-1200MK5G, Edirol and Audacity.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nImage of a night out. Anxiety, expectation, trouble and fun. Every tune is my favourite.\n\n<b>You keep up a busy DJ schedule in Tokyo. How would you describe the health of the scene right now?</b>\n\nNearly dying. Everybody's desperate, most of all talented young people dreaming to get out of here. What I can do is just do what I can do (DJ) to mix up the people to feel better in this super-stressed society.\n\n<b>What are your favourite places to play in Tokyo?</b>\n\nI love playing at small bars, reggae soundsystems, techno clubs and warehouses—it's all fun and I've been doing it in parallel for long time. No place is always fresh and banging these days, sadly, but if you're keen I'm sure you can bump into something nice!\n\n<b>What are you up to next?</b>\n\nExcited to start a show on LYL Radio from this month. Also I'm going out to play in Shanghai, NYC and Taipei this year so really looking forward to it!\n",
+    "blurb": "The Tokyo DJ ramps up the tempo. "
+  }
+}

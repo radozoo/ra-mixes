@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "231",
+  "url": "https://ra.co/podcast/231",
+  "id": "231",
+  "__typename": "Podcast",
+  "title": "RA.231 Space Dimension Controller",
+  "date": "2010-11-01T00:00:53.000Z",
+  "fileSize": 107906845,
+  "duration": "01:29:53",
+  "imageUrl": "https://static.ra.co/images/podcast/ra231-sdc-cover.jpg",
+  "contentUrl": "/podcast/231",
+  "tracklist": "<i>No tracklist provided</i>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra231/",
+  "keywords": "Space, Dimension, Controller, SDC, belfast, R and S, Temporary Thrillz",
+  "artist": {
+    "id": "11257",
+    "__typename": "Artist",
+    "name": "Space Dimension Controller"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Space Dimension Controller was born sometime in the 24th century. Lucky for us, then, that he traveled back in time, crashed his Electropod and has been stuck here for just long enough to release some of the finest and funkiest electro-tinged records of 2010. (That, or he's Jack Hamill, a young Belfast producer obsessed with hardware.) SDC's sound may be retro-tinged, but it has excited everyone from Kyle Hall (who remixed SDC on Clone's Royal Oak) to Josh Wink to the brains behind legendary techno label R&S. The latter will likely put out SDC's debut full-length next year. To tide us over, SDC has found time in between repairs on his Electropod, filling in for Tensnake at <a href=\"/event.aspx?181613\">our ADE party</a> this year when the Hamburg producer found himself with wisdom tooth troubles and otherwise touring around the world on old-fashioned airplanes to put together a mix that stitches together his own tracks with a healthy dose of (mostly) old school treats. \n\n<b>What have you been up to recently?</b>\n\nSince narrowly avoiding death by sending myself back in time to the year 2010, I've just been enjoying myself on Planet Earth. Of course, I need to get back to my own time, but unfortunately my Electropod was damaged when I crash landed on Earth. I'm trying to fix it, but there are so many distractions here... So many synthesizers and other hardware that I could never obtain in the future are easily accessible and, with all this access to amazing equipment, I just finished my debut EP for the label R&S. Along with the EP, I've also just done a remix of Model 500 for R&S and a remix of Anthony Shakir for Rush Hour. The annoying thing is that I had already been in contact with R&S from the future and had a whole album's worth of music aboard my main vessel, but that will have to stay there until I fix my time travel device and I can send it back to them for Earth to enjoy.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded aboard my Electropod which is docked in my secret base in an uncharted area of the Atlantic Ocean. I used my laptop, various machines and hardware effects plus a few old mixers to give it a real gritty feel.\n\n<b>Can you tell us a little bit more about your idea behind the mix?</b>\n\nI didn't want it to be just another laptop mix, so I kind of treated it like I treat my own tracks when was making it. I like scrutinising tiny details and starting to loop tracks out of nowhere, then bringing in a drum machine or two or filter a tiny bit here and there. I don't like things being repetitive for too long, which could be seen as a bad thing if you're playing a set in a club, but I don't really care. I'd rather do what feels right in my head even if it means the dance floor gets angry because I cut out of a track before it even gets to the peak time full support bangerschnerden bit.\n\n<b>What are you up to next?</b>\n\nDepending on how long I'm back in your time, I might end up making another single for R&S before I fix my time travel device. Once I'm back in the year 2352, I'll make sure to send my album back in time for R&S to release it to the world. Those guys at R&S really are the best and they know exactly what's going down. They have made my stay here on this primitive, yet funky planet so much easier. I'm a complicated man, but no one understands me like my synthesizers.",
+    "blurb": "The time-traveling producer brings out a funk-filled selection for the RA podcast."
+  }
+}

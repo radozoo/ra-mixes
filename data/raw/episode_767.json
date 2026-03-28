@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "767",
+  "url": "https://ra.co/podcast/767",
+  "id": "767",
+  "__typename": "Podcast",
+  "title": "RA.767 Andrea",
+  "date": "2021-02-14T23:00:49.000Z",
+  "fileSize": 161003960,
+  "duration": "01:06:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra767-andrea-cvr.jpg",
+  "contentUrl": "/podcast/767",
+  "tracklist": "Cocktail Party Effect - Radioactive Fruit \nAmen Ra - One Door Isn't Enough feat. No Fixed Abode\nTwoman - Stratosphere\nMr Beatnick - Broken Fury (Ikonika Remix)\nUnslaved - Punjab\nNo Fixed Abode - Sunset (Mumbai Slum Edition)\nD. Tiffany - Get Back To You Soon\nKidkut - ILove04\nHerva - No Money No Honey\nBreak The Limits - Nectarine\nMani Festo - Baltic Sea\nDenham Audio - Keep Your Distance\nDanny Goliger - Counting Flowers\nParadox - Octa4\nCalibre - Break That\nMathis Ruffing - Spirited Within\nRiko - Softie\nYosh - On Your Own\nBasic Rhythm - Maintain\nSonar's Ghost - Cannes-Where Was I-Who Loves You - 02 Where Was I\nLUZ1E - Ridin\nPerson of Interest - Actual Freak\nEtch - Emmageddon Snow Waltz\nEOD - Evenhark",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/985895047",
+  "keywords": "Ilian Tape, Ritorno, D. Tiffany, Basic Rhythhm, Etch, Paradox,",
+  "artist": {
+    "id": "35726",
+    "__typename": "Artist",
+    "name": "Andrea"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Andrea is one of the most distinctive artists on Ilian Tape, which is one of the most distinguished labels in techno. He embodies the label's ethos, infusing breakbeat techno with influences not only from hip-hop, dubstep and UK garage, but increasingly, jungle and drum & bass. Those influences were all over last year's stunning <a href=\"/reviews/25032\"><i>Ritorno</i></a>, an album that viewed contemporary techno through the lens of the UK dance music, including wobbly LFOs, trip-hop and uplifting liquid drum & bass.\n\nThe Italian producer's <i>RA</i> Podcast, on the other hand, is like listening to that record dismantled into its constituent parts, all the ideas and sounds on display on their own. By his own admission, it's not a club-ready mix (though it could certainly work in that context), instead inspired by time spent at home during the pandemic—a dual sensibility that shines through records like <i>Ritorno</i>. It's a steady but adventurous ride, where four-to-the-floor beats morph into brisk 2-step or rolling breaks, all buoyed by strong, often bittersweet melodies. D. Tiffany, Basic Rhythhm, Etch, Paradox, even a vintage Kidkut track—those names should give you an idea of what to expect.\n\n<b>What have you been up to recently?</b>\n\nI am spending my time mostly at home. We moved into our new house last summer and spent some time to arrange everything properly, including my studio. We're still in the process, but basically staying home all the time for the lockdown, so we could concentrate on this and do it in a calm manner.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my home studio, with two Pioneer CDJ-850s, an Allen & Heath Xone:92 and then adjusted on Ableton Live 10.\n\n<b>Can you tell us the idea behind the mix?</b>\n\nI wanted to maintain a relaxed vibe, but also add some club tunes and tried to find the right balance going through the rhythms and genres which I do really enjoy listening to both at home and in the club.\n\n<b>Though many would call you a techno artist, I hear a lot of drum & bass in what you do (and obviously in what you play). What's your history with the genre, and who are some of your favourite producers right now?</b>\n\nI've always been fascinated by jungle and drum & bass, since I discovered it during my adolescence attending some raves and underground parties in my city.  During my musical development, I learned to appreciate to mix more different sounds and styles into my music, and jungle, or broken beats in general, became very relevant time by time. I have a lot of favourite producers and labels, but I would definitely mention Paradox, who I also had the pleasure to meet last summer during a festival in Lithuania.\n\n<b>Has the pandemic and ongoing club closures changed the way you feel about making, and playing, dance music?</b>\n\nNot really, even if before the lockdown I was busy most of the time preparing my next live sets, while now I have more time to focus on different sounds and approaches in the studio. But I definitely miss the spontaneity of the situations that have always inspired me a lot, like traveling, listening to other artists and DJs in the clubs and meeting people. I'm trying to cover this gap by listening to a lot of new music of many different genres, even ones I wasn't really used to listening to.\n\n<b>What are you up to next?</b>\n\nThere will be a new EP released this year and I'm working on new tracks as I would like to start planning a new album for the future.",
+    "blurb": "Shapeshifting techno."
+  }
+}

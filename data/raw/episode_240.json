@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "240",
+  "url": "https://ra.co/podcast/240",
+  "id": "240",
+  "__typename": "Podcast",
+  "title": "RA.240 Mathew Jonson",
+  "date": "2011-01-03T00:00:56.000Z",
+  "fileSize": 101694374,
+  "duration": "01:24:43",
+  "imageUrl": "https://static.ra.co/images/podcast/ra240-mathew-jonson-cover.jpg",
+  "contentUrl": "/podcast/240",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra240/",
+  "keywords": "Mathew Jonson, Wagon Repair, Minus, minimal, techno, live, decompression, marionette",
+  "artist": {
+    "id": "681",
+    "__typename": "Artist",
+    "name": "Mathew Jonson"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Mathew Jonson's substantial contribution to electronic music this past decade should be evident to anyone who has ever caught his live show. His pool of original material is teaming with prodigious 12-inches, released chiefly via his own Wagon Repair imprint, while tracks like \"Marionette\" and \"Decompression\" are rightly considered as techno classics. You may recognize much of what Jonson plays during performances in clubs and festivals around the world, but it will no doubt have been expertly reconfigured, right there and then on the fly. This virtuosity at the helm of hardware carries over to Cobblestone Jazz, the live electronic improv group Jonson formed with friends Tyger Dhula and Danuel Tate back in 2002. The group has since released a pair of albums–<i>23 Seconds</i> and <i>The Modern Deep Left Quartet</i>–while Jonson explored the format solo in 2010 through the warmly received <i>Agents of Time</i>. \n\nJonson's podcast for us captures the producer in his full majestic flow. The set was recorded at <a href=\"/event.aspx?171415\">Labyrinth festival 2010</a> in Japan, and finds Jonson maneuvering among a substantial array of gear for what is undoubtedly one of his favourite places to play.  \n\n<b>What have you been up to recently?</b>\n\nI have been spending a lot of time on my label, Wagon Repair, this year. I also just purchased the rights to Spencer Drennan's Itiswhatitis Recordings and so have been re-mastering the catalog, getting it ready to release in the New Year.  Itiswhatitis was the start for Cobblestone Jazz, Hrdvsion and myself.  It seems only right to keep the music where it started rather than re-release it on Wagon Repair or elsewhere. Wagon Repair is catching speed again with some nice singles coming soon as well as an all-stars compilation we are putting together.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded live at the Labyrinth festival, about four hours north of Tokyo up in the mountains. I played live on the last day of the festival right before Donato Dozzy took over to rock it till the end. He is a great DJ and friend so it felt awesome for us both to be up there together again! I love sound systems that make you feel like you're swimming in bass, and this is was the biggest Funktion One system that I have ever seen. Russ doesn't fuck around!\n\n<b>What is your preferred live set-up?</b>\n\nThere is actually a picture on the Labyrinth feature that RA did <a href=\"/feature.aspx?1258\">here</a>. I was using two SH-101s, a 909 and 808, an Elektron Machinedrum, a Midas V320, Yamaha and Eventide effects and some MIDI controllers for the computer. Usually I only have one SH-101 but they had a spare for me at the festival so it was better than usual! It's also the reason why you hear so many new synth parts being played like in the beginning of \"Symphony for the Apocalypse.\" (Hopefully it's not too busy.) \n\n<b>Can you tell us a bit more about your experiences of Labyrinth this year?</b>\n\nI always stay for the whole weekend. It's in a really beautiful location, the people are really sweet and the music is always killer! In the previous location, the artists stayed in an Onsen hotel and this year it was a nice ski hotel close to the springs.  It was hard to decide when to sleep, though, as I really didn't want to miss anyone's set. Everyone played amazingly well. For me I think A Guy Called Gerald was what really turned me on my head—his set was bad ass! Super wide frequency range and so much funk in the basslines... the man is talented!  Dancing to Scuba with my girlfriend totally wasted the first night was super fun too. Function, Dozzy etc, etc… I could go on and on about how good it was there. \n\n<b>What are you up to next?</b>\n\nBeen writing a lot these days, getting ready for the festival shows this coming summer.  I don't want to go into it too much yet but for the first time I will be working with more of a stage show, but I'm (as always) putting focus on the music and want to make this new show something really special. Actually, you can hear some of the new stuff I have been writing in this set. I plan to have it so there is 80 or 90% new music and all played differently so spending the majority of my spare time in the studio right now. Other than that, my band Cobblestone Jazz will tour in India again, following that we will go to my house in Goa together to write some new music in that environment. Don't worry—it's not going to be Goa Trance. It might have some bird noises leaking through the mics, though, as we are going to try and set up in my backyard and do it all outside!  \n",
+    "blurb": "The Canadian producer offers up his live set from Labyrinth festival 2010."
+  }
+}

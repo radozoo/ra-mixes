@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "49",
+  "url": "https://ra.co/podcast/49",
+  "id": "49",
+  "__typename": "Podcast",
+  "title": "RA.049 Alex Smoke",
+  "date": "2007-03-19T15:00:53.000Z",
+  "fileSize": 70712531,
+  "duration": "00:58:54",
+  "imageUrl": "https://static.ra.co/images/podcast/ra049-alex-smoke-cover.jpg",
+  "contentUrl": "/podcast/49",
+  "tracklist": "Mumia Abu Jamal - Spoken Word (Alternative Tentacles)\n<a href=\"dj-page.aspx?id=573\">Luciano</a> - Problem Kidz (Mental Groove)\nFenin - South (Shitkatapult)\nDa Lub Masheen - Rented Room (Swayzak mix)\nDeadbeat - Fun...k? (Scape)\nMaurizio - M5 (Basic Channel)\nI - Small Words (Echospace Mix) (Soul Dub Sounds)\n<a href=\"dj-page.aspx?id=814\">Rhythm & Sound</a> - Queen In My Empire (Basic Channel)\nT++ - Storm (Erosion)\n<a href=\"dj-page.aspx?id=617\">Ellen Allien</a> - Sweet (BPitch)\nCH-Signal Laboratories - Scale 1 (Sandwell District)\nSound Stream - Freakin' (Soundstream)\nHeckmann_Kauffelt - Espectaculo (AFULtd)\nDJ Bone - Platform 9 3/4 (Subject Detroit)\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra049/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:691"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As a producer, Alex Smoke is a makes electronic records that blur together European minimalism, pop structures and emotional strings and pads. He has released two full length albums, ‘Incommunicado’ and 'Paradolia' [Soma Records] and a slew of singles and remixes, including RA’s <a href=\"http://www.residentadvisor.net/feature-read.aspx?id=789\">runner-up remix of 2006</a> ‘In the Morning’.\n\nHis electronic debut arrived in 2002, but Smoke has always been immersed in music. In his youth he sang in a choir for four years (a far cry no doubt from his mournful tones on tracks such as ‘Don’t See the Point’ or ‘Never Want to See You Again’) and he has classical training in cello and piano (check ‘Prima Materia’ for the influence.)\n\nSmoke’s own productions are often described as moody, a reputation he doesn’t shy away from. His debut on Soma was the euphoric ‘Chica Wappa’, described by Smoke as “undoubtedly the most optimistic track I'll ever write. My music will never be this upbeat again.” His wish might have come true: recently Smoke’s work has focused heavily on melancholic electronica, although he has a noisy, brash side too, evidenced on big tracks such as ‘Meany’ and ‘Brian’s Lung’.\n\nOut in the clubs, Smoke both DJs and performs live. His DJ agenda is perhaps best represented by ‘Sci-Fi-Hi-Fi Vol. 3’ [2006], which combined a fascination with dub techno, classic Detroit (Smoke is not adverse to playing old records at all) and new European minimal techno. Similar leanings are evident on his podcast for RA; Smoke finds space for Luciano-end minimal, German schaffel as well as a chunk of shimmering dub techno cuts.\n\n<b>What have you been working on recently?</b>\n\nJust doing as much as possible for the new label. I may put out a downtempo album as well as the usual techno 12\"s. I've been doing some cooking too.\n\n<b>Where was the mix recorded?</b>\n\nMy living room.\n\n<b>What are you up to next?</b>\n\nThere's the classical commission previously mentioned on RA, a load of stuff for the new label and some production work for another artist.",
+    "blurb": "Sixty minutes of minimal and dub techno from Scottish talent Alex Smoke."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "558",
+  "url": "https://ra.co/podcast/558",
+  "id": "558",
+  "__typename": "Podcast",
+  "title": "RA.558 Egyptrixx",
+  "date": "2017-02-06T00:00:16.000Z",
+  "fileSize": 158079371,
+  "duration": "01:05:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra558-egyptrixx-cvr.jpg",
+  "contentUrl": "/podcast/558",
+  "tracklist": "Matt Carlson - The Non- Entity - Shelter Press\nMetataktics - Granularity - Forthcoming Tactical Music Group\nKarl Fousek - Isotopies I - Phinery Tapes\nKhaki Blazer - Sensei - Experimedia\nMotion Graphics - Vista Brick - Domino\nEgyptrixx - VEPN - Halocline Trance\nTribe of Colin - Communion of Ancient (Protect Your Children) - 5 Gate Temple\nJeremy Greenspan - Guu - Jiaolong \nDeveloper - Hypno Theme - Developer Archive\nJesse Osborne-Lanthier - The Zika Slam - Raster-Noton\nRainforest Spiritual Enslavement - Full Moon Moth - Hospital Productions \nPressa - Deadmihana - Blue Feathers Records \nIkonika + Optimum - ????????? - CDR\nLayla Hendrix - Runnin feat. Ca$tro Guapo - Self-released\nCeramic TL - this looks just like it, the answer to my prayers - I thought my life was over until two years later I arrived - Halocline Trance\nMark Fell & Gabor Lazar - Untitled 1 - The Death of Rave\n8ulentina - Adana - CDR\nTaraval - Streetways - Text Records\nDance System - DOS 4 - Ultramajic \nDolo Percussion - Dolo 8 - Future Times\nTapirus - Role One Myself - Midnight Shift\nDJ Deeon - Hoodrat - Dance Mania\nLeonce - Marimba Track - Fade 2 Mind\nReckonwrong - Luscious Lips - Whities\nLimit - Limit#06 - Halocline Trance \nNisennenmondai - Fan (excerpt) - Bijin Record\nUntold - Tear Up The Club - CDR",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra558-egyptrixx",
+  "keywords": "Night Slugs, Halocline Trance, Bass, Techno, Experimental",
+  "artist": {
+    "id": "18829",
+    "__typename": "Artist",
+    "name": "Egyptrixx"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It may be difficult to reconcile the earliest Egyptrixx releases with the music he makes today, but, as he explains below, the project has \"always centred on the same basic idea of grabbing structural and experiential ideas from club music and expressing them in different, sometimes unconventional ways.\" David Psutka initially explored this idea through club-orientated releases for the influential UK label Night Slugs. His tracks were often driven by the adventurous beats that characterised Night Slugs, but Psutka also had an obvious taste for sound design and sonic texturing, which seemed to fully blossom with 2013's <a href=\"/reviews/13991\"><i>A/B Til Infinity</i></a>, an album that in places dropped beats altogether. \n\nSince that point, Psutka's music has only become more ambitious, the last 12 months being a particularly interesting period in his development. Through his label Halocline Trance, he released an album as <a href=\"/reviews/18836\">Ceramic TL</a> that RA's Angus Finlayson compared to the revered experimental metal band Sunn O)))—\"both terrifying and meditative\"—and last week Psutka followed it up with <a href=\"/reviews/20614\"><i>Pure, Beyond Reproach</i></a>, a somewhat brighter album that moved, liquid-like, through ten striking pieces, occasionally recalling his more traditional, song-orientated work as part of the groups Hiawatha and ANAMAI. He also had an engineering credit on two of the best recent synth pop albums, Jessy Lanza's <i>Oh No</i> and Junior Boys' <i>Big Black Coat</i>, a footnote that illustrates just how expansive Psutka's career has become. \n\nOn Psutka's RA podcast, we enter a zone where the music of DJ Deeon, Nisennenmondai, Jeremy Greenspan and Mark Fell happily coexists. The club is at the heart of the mix, but at any given moment, a mind-bending passage of experimental electronics is never far away.  \n\n\n<b>What have you been up to recently?</b>\n\nWriting, reading, rehearsing, recording and kickboxing. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded this mix in chunks over two days at my studio in Etobicoke. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's a summary of ideas, feelings and sounds that end up (in general and specifics ways) in the Halocline Trance material. \n\n<b>What is pure and beyond reproach these days?</b>\n \nLately I've been reading Christina Sharpe, listening to Top5, Petit Singe, Carla Dal Forno, watching Cassandra Witteman and following @_remmidemmi. \n\n<b>You were known for a certain style of music and now make something quite different. Electronic music artists often say this is a tricky process to navigate, but what has it been like in your experience?</b>  \n\nThe Egyptrixx project has pretty much always centered on the same basic idea of grabbing structural and experiential ideas from club music and expressing them in different, sometimes unconventional ways. Across the material there is a strong continuity.  Believe it or not, the idea and approach still feels kinda new and engaging to me. \n\n<b>What are you up to next?</b> \n\nPlaying shows, recording, writing and reading. \n",
+    "blurb": "The Canadian artist drops a deliciously warped club mix."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "562",
+  "url": "https://ra.co/podcast/562",
+  "id": "562",
+  "__typename": "Podcast",
+  "title": "RA.562 Nathan Fake",
+  "date": "2017-03-06T00:00:55.000Z",
+  "fileSize": 145468017,
+  "duration": "01:00:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra562-nathan-fake-cvr.jpg",
+  "contentUrl": "/podcast/562",
+  "tracklist": "Mi Ami - Sunrise\nVatican Shadow - More Of The Same (Tunisia)\nSamo DJ - Lkf\nOptic Nerve - At Twilight\nAvus - Wfc\nI-Liner - S-Bahn\nOrbital - The Moebius\nMinor Science - Underipe\nGreg Beato - Haunting\nAphex Twin - Saw2 Original\nOmar S - Here's Your Trance Now Dance\nSantiago Salazar - Arcade\nSteven Julien - Kingdom\nArmando - Confusion's Revenge\nOrbital - Lush 3\nNf - Klea In A Minor\nBenge - Fairlight Cmi\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/310952764",
+  "keywords": "Ninja Tune, Border Community, Outhouse, Drowning in a sea of love, Glaive",
+  "artist": {
+    "id": "636",
+    "__typename": "Artist",
+    "name": "Nathan Fake"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "For the past 14 years, there's a been a noticeable thread running through Nathan Fake's music. Trace a line from his first single, <i>Outhouse</i>, in 2003, via his debut album, <i>Drowning In A Sea Of Love</i>, to <i>Glaive</i>, a 2015 single, and for the most part you'll find the same sense of whimsy and optimism. But now, it seems, something has changed. Towards the end of last year, Fake raised eyebrows by announcing a collaboration with Dominick Fernow, a prolific noise artist who under the names Prurient and Vatican Shadow is known for the ferocity of his sounds. \"DEGREELESSNESS\" was the first to come from <i>Providence</i>, Fake's fourth full-length, which further confirms his subtle new direction. The most important bit of context here is that for a couple years Fake was suffering from writer's block. He was touring constantly, and when he finally found time to make music nothing was coming out. The sense of relief that that came with his revived creativity feels obvious on <i>Providence</i>, which is released this week on Ninja Tune. \"It felt like I'd come alive again,\" Fake said. There's something sharper and more urgent about these tracks, the sound of an artist quickly trapping his ideas before they escape him. Fake's trademark soaring melodies and freeform arrangements are still there, but the overall flavour is salty, not sweet. The album is a shift of gears, but that's not to say Fake hasn't been moving forward all these years. Through his distinctive releases on Border Community and his countless live shows, he amassed a deep body of work that's made him one of the most popular and respected figures in a scene we used to call \"electronica.\" \n\nFake somewhat cryptically says that his RA podcast is a \"mixtape recorded for someone.\" We can only assume that someone is a fan of classic house and tracks with an IDM twist. A mix around the midsection sums it up: Aphex Twin into Omar-S. \n\n \n<b>What have you been up to recently?</b>\n\nWorking pretty heavily on the live set for the upcoming tour, and kind of spontaneously making some new tracks in between, which I'm well happy with.\n\n<b>How and where was the mix recorded?</b>\n\nIn my studio in Norwich. Did it live in one take using Traktor. I like mixes to be a bit rough and messy, adds a good energy I think. I like how Traktor kind of allows for errors.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt was recorded as a mixtape for someone. Even though it's pretty \"clubby\" it's still quite intimate and different to what I'd play if I was DJing in a club. \n\n<b>Discussing the album, you said, \"It felt like I'd come alive again.\" What did you mean by that?</b>\n\nJust being inspired by some weird new gear I'd bought, and getting back into the flow after being busy with pretty much nothing but gigs for the previous two or three years.\n \n<b>How did you wind up working with Dominick Fernow?</b> \n\nHe was playing as Vatican Shadow at a festival in Switzerland a couple of years ago. We just kind of became friends and had a mutual appreciation for each other's music. The collaboration happened quite naturally after we both came up with the idea of working on something together. We knew it'd be seen as an unexpected collaboration, but that's what's so good about it, I guess. And the track's really good!\n\n<b>What are you up to next?</b> \n\nGoing on tour in Europe, Australia and Asia this year with the new album and new visual live show. And putting together another record. It's going to be a collection of incredibly spontaneous tracks.\n",
+    "blurb": "The much-loved UK artist blends classic house with left-field electronics.  \r\n"
+  }
+}

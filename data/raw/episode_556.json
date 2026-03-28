@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "556",
+  "url": "https://ra.co/podcast/556",
+  "id": "556",
+  "__typename": "Podcast",
+  "title": "RA.556 Varg",
+  "date": "2017-01-23T00:00:46.000Z",
+  "fileSize": 107920545,
+  "duration": "00:45:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra556-varg-cvr.jpg",
+  "contentUrl": "/podcast/556",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/304099761",
+  "keywords": "Techno, Jonas Ronnberg, Northern Electronics, Nordic Flora, ",
+  "artist": {
+    "id": "42319",
+    "__typename": "Artist",
+    "name": "Varg²™"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jonas Rönnberg makes his prolific work rate look effortless. Not many producers would hide an hour and a half of <a href=\"https://www.discogs.com/Varg-Nordic-Flora-Pt-2-En-Ros-Röd-Som-Blod/release/9518634\">stunning techno</a> on a small, cassette-only run, but then not many producers can write tracks with the quality and consistency Rönnberg has over recent years. While his records vary from dark ambient to techno to industrial and noise, the one thing they have in common is a sense of melody that feels as <a href=\"https://www.youtube.com/watch?v=DhG6eUZrvSA\">bleak</a> as it is <a href=\"https://www.youtube.com/watch?v=Ufkf_1_wv5w\">rousing</a>. Perhaps more than any other artist on Northern Electronics, he embodies the Swedish label's recipe of techno fused with experimentalism and Nordic black-metal aesthetics. \n\nWe get the full spectrum of Rönnberg's discography in this 45-minute live set. It's comprised of loops from his ongoing <i>Nordic Flora</i> series, which has been among the best work of his career, including the RA-Recommended <a href=\"/reviews/20384\">first EP</a>. It begins eerily, builds to a face-melting peak, and then settles into broken beats, all with the beautiful yet unsettling melodies that Rönnberg has built his name on. It's an album's worth of original material that shows Rönnberg's singular take on techno. \n\n\n<b>What have you been up to recently?</b>\n\nMy mother just found a PS4 on a sale for around 200€, she got that and <i>GTA V</i> for me as a Christmas gift and I have been playing that a lot. Besides that, I've been watching a Norwegian series called <i>Skam</i> with my girlfriend in bed. I also climbed a mountain in Georgia with my girlfriend and made some music on my new iPad Pro.\n\n<b>How and where was the mix recorded?</b>\n\nIt's based on using loops from my upcoming releases via the Octatrack. And then it's a shitload of stuff like the TR-808, Orgon Energiser and EDP Wasp, tape echoes bla bla old stuff. Recorded to GarageBand and then uploaded on the internet. Oh and it was all done in the studio I share with Vit Fana at Kungsholmen in Stockholm while drinking some Lithuanian booze that tasted of cinnamon.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's me.\n\n<b>We'd seen the <i>Nordic Flora</i> series described as a \"smirking fuck off.\" Who (or what) is it a smirking fuck off to?</b>\n  \nAlways to the border force, always to the police and to the Swedish government and to everything that is wrong in this world (not smirking, just a fuck off). To the people that can't handle this. Also a bit to myself (smirking).\n\n<b>How does a conceptually-driven work like <i>Nordic Flora</i> come about? Do you tend generate the idea and then pursue it with music?</b>\n\nThis <i>Nordic Flora</i> series is my most honest and personal work to date, it's Jonas Rönnberg. This is who I am and what I do. Who are you?\n\n<b>What are you up to next?</b>\n\n<i>Diablo III</i>, Foreign Exchange, learning to DJ and probably making like 45 new records... Oh and seeing Lil Yachty live in Stockholm! RIP Etos, RIP Asoc, RIP Onda, RIP Aole.\n",
+    "blurb": "Exquisite techno from an in-form Swedish artist. "
+  }
+}

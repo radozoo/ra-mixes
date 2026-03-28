@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "232",
+  "url": "https://ra.co/podcast/232",
+  "id": "232",
+  "__typename": "Podcast",
+  "title": "RA.232 KiNK",
+  "date": "2010-11-08T00:00:34.000Z",
+  "fileSize": 83649249,
+  "duration": "01:09:41",
+  "imageUrl": "https://static.ra.co/images/podcast/ra232-kink-cover.jpg",
+  "contentUrl": "/podcast/232",
+  "tracklist": "Bnjmn - Blocks - Rush Hour \nJeff Mills - Every Dog Has its day - C2 - Axis \nHunee - Bobo - Rush Hour \nLemos - Sher Base - Bass Culture \nKiNK - Psyche Funk - Undertones \nUnknown - Untitled \nBnjmn - Untitled  \nMaskin Ljud - Filtrerad Symfoni - Färden Records \nSTL - Jungle Sometimes - Something \nStefan Goldmann - The Maze Part 1 - Macro \nMarcello Neapolitano - Everyday Madness - HHYR \nRiva Starr - More (KiNK mix) - Snatch!  \nLone - Angel Brain - Magic Wire Recordings \nK Alexi Shelby - My Medusa - Transmat \nhole in one - x-paradise (DJ G-Spot mix) - See Saw \nSendai - Northeast - Time To Express \nAutechre - Eutow - Warp",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra232/",
+  "keywords": "KiNK, Strahil Velchev, Ovum, Liebe Detail, House",
+  "artist": {
+    "id": "2887",
+    "__typename": "Artist",
+    "name": "KiNK"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It's been a bit of a whirlwind of late for Strahil Velchev, AKA KiNK. The Bulgarian-based producer has become one of house and techno's hottest names over the past 12 months due to a string of well-received productions for labels like Rush House, Liebe*Detail, Systematic and Ovum. KiNK's sound fits neatly into the current appetite for old-school sounds with a modern edge, and as you'll hear in his mix in advance of his performance at RA's <a href=\"/event.aspx?181083\">Warehouse Project shindig</a>, he loves to DJ in the same manner, finding pleasure in \"old and new, harsh and mellow, straight and broken.\" \n\n<b>What have you been up to recently?</b> \n\nBusy! DJing and playing live, mostly in Europe, trying to work on some music in my free days here in Sofia. I just finished a funny remix of the hottest Dutch singer at the moment—Caro Emerald—also have a few more underground remixes and  new material with Neville Watson for Rush Hour. Sharivari Records also just released my experimental 12-inch EP which contains weird music that I composed between 2003 - 2009.     \n\n<b>How and where was the mix recorded? </b>  \n\nI did it at home. Although normally I prefer to DJ without the help of the computer, this time I extracted some vinyl and mixed it with some digital files into a simple software, with the nice name \"ACID.\"  \n\n<b>Can you tell us a little bit more about the idea behind the mix? </b>\n\nI became a music fan in a time when everything from house through to jungle, breakbeat and acid was called techno and I was listening to mixtapes, where you could hear the ultra-heavy \"Acid Trax\" was mixed with the joyful \"Love Thang.\" So, in this mix, I explored the hidden link between the old and new, harsh and mellow, straight and broken...\n\n<b>You played live at Panorama Bar with a singer earlier this year. Do you plan to record more vocal tracks for potential release?</b> \n\nThe singer at Panorama Bar is called Rachel. She is my girlfriend and that night we had our ten year anniversary! Playing in Panorama Bar and listening to one of my favorite DJs (Neville Watson) was a great way for me to celebrate it! I've made music with Rachel and other vocalists for the last ten years and I will continue doing it. I just haven't  released much of that specific material. Hopefully it will happen next year. \n\n<b>What are you up to next?</b>\n\nWe're planning an album on Ovum. Also I would love to continue working with imprints like Rush Hour, liebe*detail, and Systematic. But, first of all, I want to concentrate on the artistic part of the music making again. To put my head even deeper into the modular software platforms, to try some weird hardware and to find even more exciting ways to perform my music live.",
+    "blurb": "Bulgarian acid: The leading light of house and techno in Sofia gets raw."
+  }
+}

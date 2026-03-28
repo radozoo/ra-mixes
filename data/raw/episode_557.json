@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "557",
+  "url": "https://ra.co/podcast/557",
+  "id": "557",
+  "__typename": "Podcast",
+  "title": "RA.557 Inga Mauer ",
+  "date": "2017-01-30T00:00:25.000Z",
+  "fileSize": 169018854,
+  "duration": "01:10:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra557-inga-mauer-cvr.jpg",
+  "contentUrl": "/podcast/557",
+  "tracklist": "Esplendor Geometrico - Sheikh\nActeurs - I W I\nClock DVA - Pool Of Shades\nShiny Black Mater - The Sun Is Its Father, The Moon Is Its Mother, The Wind Have\nPassarani 2099 - New Wave 2\nVarg - A Destructive Flame\nKirk Degiorgio - Membrane (C2 remix) \nThe Rattler Proxy - Dead City (Khidja remix)\nEvigt Mörker - Nada Reincarnation\nKirk Degiorgio - Borel (NX1 remix)\nSlam - Stepback\nVan Kaye & Ignit - Picassos On The Wall\nSteve Stoll - Check One\nThe Rattler Proxy - Day To Day\nGabeen - Enemy\nNostalgie Eternelle - Too Late To Be Sad ",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/305215108",
+  "keywords": "Radio Comeme, Industrial, EBM, new wave, techno, Stackenschneider",
+  "artist": {
+    "id": "63105",
+    "__typename": "Artist",
+    "name": "Inga Mauer"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "For lots of touring DJs, travel is something to be endured, a means to an end. But for the Russian DJ Inga Mauer, travel is something to be embraced and to be influenced by. She hosts a show called Bon Voyage for Radio Cómeme, and on each episode she compiles a playlist with a particular place or person in mind. (She dedicated her first show to the 19th century Russian explorer Nicholas Miklouho-Maclay, and she's talked proudly about having no fixed address.) Bon Voyage spans an impressively vast range of styles, but Mauer seems particularly drawn to a lineage of industrial, EBM, new wave and techno. Her tastes were shaped growing up in isolation in a remote Russian village. She became a dedicated follower of Bunker Records, Cybernetic Broadcasting System (which later became Intergalactic.fm) and other outlets for leftfield electronic music. This made her a good fit for Stackenschneider (or Stacken, as it's known locally), the tiny club in St. Petersburg where Mauer became a resident DJ and began honing her craft. By 2016, word of her talents had spread and Mauer was travelling regularly, playing at highly respected clubs like Berghain, De School, Nitsa, OHM and Kaiku. It also helped that after years spent working away in the studio she put out her first release, <i>From Cologne To Clone</i>, six grinding machine jams for the Hivern Discs sub-label HVNX. Next week, she'll follow it up with an excellent 12-inch for Shtum, further fuelling the sense that Mauer is destined for big things. \n\nWe get yet more proof of this on Mauer's RA podcast. The mix is both a strange and alluring trip through her tastes and a fantastic example of how a dance floor can be moved through unconventional sounds. \n\n\n<b>What have you been up to recently?</b>\n\nI spent almost the whole month of January in Russia, mostly shovelling snow!\n\n<b>How and where was the mix recorded?</b>\n\nThis mix was recorded in my friend's garage with two turntables, two CD players, a mixer and a computer. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThere wasn't anything in particular, to be honest. I simply put together my favourite tracks of the last weeks. So it's a very here and now thing.\n\n<b>Radio seems to play a large role in your identity as a DJ. Tell us about your show and why you enjoy the radio format.</b>\n \nI actually disagree with that, and here's why. I know some people might find it shocking, but things exist even if one doesn't find it online. There are plenty people who haven't heard a single radio show of mine, yet they quite like to dance to my rather rough tunes at parties. There are others who think that I just recently started creating my own sounds, since, you know, my first LP came out only in September. I have been sitting in a studio pretty much since I started living the life of a DJ. What I am trying to say is that my Bon Voyage shows are simply a set of playlists that I create for myself for the long hours of travelling. \n\nBon Voyage is genre-neutral, it's for thoughts and feelings and moments of contemplation, for goodness and anger that we all have inside. So, you might like what I pick for these mixes or not really, but it's because you and I are real people, and that's how it should be! Things change too much and nothing really stays constant, so my music, a little like the real people, is diverse. There is always a spectrum of feelings, but each of these feelings is precious! I don't like to put my music in a box, the same way that I don't put my life in a box or a place or a city. The fluidity of living everywhere but also not really living anywhere is liberating!\n\n<b>As someone who explores a vast range of styles in her DJ sets, how do you decide what to focus on when you make music?</b> \n\nI legit never thought about it. What comes, comes!\n\n<b>What are you up to next?</b> \n\nI want to learn and speak more languages.\n",
+    "blurb": "One of our favourite new DJs steps up. \r\n"
+  }
+}

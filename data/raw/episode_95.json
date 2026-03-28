@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "95",
+  "url": "https://ra.co/podcast/95",
+  "id": "95",
+  "__typename": "Podcast",
+  "title": "RA.095 Kevin Saunderson",
+  "date": "2008-03-25T05:38:47.000Z",
+  "fileSize": 76514962,
+  "duration": "01:03:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra095-kevin-saunderson-cover.jpg",
+  "contentUrl": "/podcast/95",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra095/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:111"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<span class=\"f16\">This week on the RA pod: An exclusive mix from dance music legend Kevin Saunderson.</span>\n\nAlong with Juan Atkins and Derrick May, Kevin Saunderson is a card-carrying member of the Belleville Three, the trio credited with creating the Detroit techno sound. Most pop music audiences, however, will most remember him as one-half of the pop-house group Inner City from back in the eighties. Saunderson and Chicago vocalist Paris Grey had numerous hits, most notably ‘Big Fun’ and ‘Good Life’, which arguably did more than any other dance music tracks to push the genre music into the mainstream.\n\nWhat many forget, though, is that Saunderson has always been just as committed to the underground. He's been a tireless presence on the DJ circuit for many years, and on record via KMS he's responsible for releasing some of the best music in the genre, most recently a set of remixes of classic Saunderson tracks by the likes of Joris Voorn, Loco Dice and Mathew Jonson. For his RA podcast, Saunderson pulls together a likewise diverse stack of records into a whole—somehow making Detroit meat of producers as diverse as Fedde Le Grand, David Duriez and Vincenzo. In short, it’s a 64-minute set from a DJ that sounds like he has years of experience under his belt, although there's definitely a surprise or two along the way.\n\nAs well as a fantastic mix, Kevin has put together a first for RA: <a href=\"http://ra1.residentadvisor.net/audio/RA095_080324_Kevin_Saunderson-residentadvisor-tracklist.mp3\" target=\"_blank\">A spoken word</a> tracklist for RA readers (and blind people).\n\n\n<b>Where and how was the mix recorded?</b>\n\nAt my studio in Detroit. Well, I should say a suburb of Detroit. I recorded it with a combination of CDs and Ableton as that's how I play.\n\n<b>What was the idea behind the mix?</b>\n\nThe idea behind the mix is to show the sound that Kevin Saunderson is playing right now, the music I'm supporting and just to give people a listen to what I'm doing if they haven't heard me for a while and what I'm playing. Also there are some special unreleased versions of songs there from my <i>History</i> album that other producers have remixed.\n\n<b>Can you tell us a more little about the <i>History</i> project?</b>\n\nIt started out with me doing a tour to give people (or the younger generation) an idea of how long I've been around, the history and different age of tracks. So I did that for a year as well as mixing video, DVD's and stuff like that. \n\nThe next part of the project was to remix those special tracks and put them back out there with some of the remixers that are right now, with people like Carl Craig, Joris Voorn, Loco Dice, Mathew Jonson and Samuel L Sessions. So that's what we've been doing. We're in a series of three right now. We've just re-released 'Good Life' and on the flip side is John Tejeda's remix of 'Just Want Another Chance' and there's gonna be more. We're gonna continue and from there there's gonna be an album that will come out. Probably September time I think.\n\n<b>You're off to Miami, what else is on the horizon?</b>\n\nI'm playing the <a href=\"/event-detail.aspx?id=44346\">Hi-Tek Soul party</a> in Miami and from there I'm just doing remixes and I'm going to continue to remix productions and that's my plan.",
+    "blurb": "This week on the RA pod: dance music legend Kevin Saunderson."
+  }
+}

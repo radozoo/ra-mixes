@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "69",
+  "url": "https://ra.co/podcast/69",
+  "id": "69",
+  "__typename": "Podcast",
+  "title": "RA.069 Swayzak",
+  "date": "2007-09-10T09:00:38.000Z",
+  "fileSize": 72458556,
+  "duration": "01:00:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra069-swayzak-cover.jpg",
+  "contentUrl": "/podcast/69",
+  "tracklist": "01. Clara Rockmore  - Valse Sentiment \n02. Sian - Apple Tree (Efdemin Mix) - <a href=\"record-label.aspx?id=796\">Aus Music</a>\n03. Caviar - Easy Changes - <a href=\"record-label.aspx?id=1026\">Found Sound</a>\n04. Cobblestone Jazz - Lime In Da Coconut - <a href=\"record-label.aspx?id=827\">Wagon Repair</a>\n05. Benno Blohme - Saratov Airlines - <a href=\"record-label.aspx?id=659\">Sender</a>\n06. Marcel Dettmann - A Req (T+++ Mix) - <a href=\"record-label.aspx?id=1016\">MDR</a>\n07. Swayzak - Smile And Receive (Apparat Mix) - <a href=\"record-label.aspx?id=526\">!K7</a>\n08. Philip Sherburne - Lumberjacking - <a href=\"record-label.aspx?id=870\">Lan Muzik</a>\n09. Richard Davis - Bring Me Closer - <a href=\"record-label.aspx?id=1176\">240 Volts</a>\n10. Will Saul And Tam Cooper - Sequential Circus (Konrad Black Mix) - <a href=\"record-label.aspx?id=254\">Simple</a>\n11. Estroe - Bellismore -  <a href=\"record-label.aspx?id=1177\">Seventh Sign</a>\n12. Mesuma - Gyal Flex / Left Then Up - <a href=\"record-label.aspx?id=1177\">Seventh Sign</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra069/",
+  "keywords": "",
+  "artist": {
+    "id": "589",
+    "__typename": "Artist",
+    "name": "Swayzak"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Rumour has it that Swayzak took their name from Patrick Swayze, even releasing an album titled 'Dirty Dancing' in the great American actor's honour. Which is to say they do things their own way. Formed in the nineties, Swayzak have always made music with their feet in both camps: They're probably the only act to have both released on M_nus (waaay back in 2000) and been spun by the Armin Van Bureen set (many a lighter has been held aloft to 'State of Grace'). Swayzak's trick is to always proudly make music two steps out sync with the British mainstream: Their first moves were dub house classics such as 'Speedboat/Low-Res Skyline' and 'Snowboarding in Argentina', while this decade they've gone in the opposite direction to most '90s minimalists, adding hooks, vocals and electro-pop on albums such as 'Loops From the Bergerie' and their latest record <a href=\"/news.aspx?id=8818\">'Some Other Country'</a> out this month. Not the easiest act to pin down then, but then genre drift is part of their unique appeal. As David Brown put it to website Club Vibes: “The future of music according to me is taking combinations of techno music and other forms of electronic music and mixing it with more commercial pop music and mixing all styles of music together and not being too particular with the phrase 'techno' which everyone associates with Detroit or Belgium or something - it’s not like that anymore.”\n\nSwayzak bring the same openminded philosophy to their DJing - theirs is the first RA mix ever to kick off with a  theremin. Not as careerist as DJs as many of their contemporaries, Swayzak's approach has always been to bring the unknown gems rather than polished mixing skills to the tables. Like their two official mixes from a couple of years back ('Fabric 11' and 'Groovetechnlogy 1.3'), Swayzak's RA mix is an essential selection of must-own records from the more emotional end of the minimal house spectrum.",
+    "blurb": "London duo Swayzak deliver this week's RA podcast."
+  }
+}

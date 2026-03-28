@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "510",
+  "url": "https://ra.co/podcast/510",
+  "id": "510",
+  "__typename": "Podcast",
+  "title": "RA.510 DJ Deeon",
+  "date": "2016-03-07T00:00:31.000Z",
+  "fileSize": 157585743,
+  "duration": "01:05:32",
+  "imageUrl": "https://static.ra.co/images/podcast/ra510-dj-deeon-cvr.jpg",
+  "contentUrl": "/podcast/510",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/250623590",
+  "keywords": "House, Dancemania, 50 Hz, Databass, Deeon Boyd",
+  "artist": {
+    "id": "20050",
+    "__typename": "Artist",
+    "name": "DJ Deeon"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Last year, Numbers released <a href=\"/review-view.aspx?id=16657\"><i>Deeon Doez Deeon!</i></a>, a compilation EP that reissued some of the Chicago producer's best work. The selection was incredibly on-point, emphasizing the qualities that make ghetto house, the genre Deeon helped create, so good. \"House-O-Matic,\" \"Freak Like Me,\" \"2 B Free\"—these are fast, funky, sample-heavy party jams that sound as slamming now as they did in the mid-'90s. The style's longevity could be due to its feeling of authenticity. The vast number of tracks scene leaders like Deeon, DJ Funk, Jammin' Gerald, DJ Slugo, DJ Milton and Paul Johnson pumped out were a representation of—or a response to—the raw and chaotic surroundings of parties in Chicago's South Side. \"I got a hold of a Roland 606 drum machine and a 303 and started just customizing the tracks with the different projects where people were from, different areas... cause everybody came from every area of the South Side to the parties,\" Deeon said in our <a href=\"/feature.aspx?1806\">profile</a> on Dance Mania, the label that's known as the home of ghetto house. \n\nDeeon got his start playing sweaty house parties in the projects and selling mixtapes in a parking lot. Eventually he started making music. According to Deeon, ghetto house's infamously erotic lyrics and track titles (\"Let Me Bang,\" \"Freak Like Me\" and \"Shake What Your Mama Gave Ya\" are just a few from Deeon's catalogue) made it OK for local guys to like house music. \"You had regular guys, in gangs and stuff, they would dance just to dance with the females,\" Deeon told us. \"That crossed it over... because once it got to the ghetto house with profanity in it... it bridged the gap.\" Deeon wound up releasing around 30 singles in four years for Dance Mania, and has continued to build upon his classic recordings with tracks and DJ sets that carry on the raw spirit of ghetto house. \n\nOn RA.510 Deeon draws links between classic ghetto house and newer unruly strains of house and techno. But whatever the era, these tracks are bound by a swinging sense of abandon. There's been plenty of talk about Deeon making his UK debut at <a href=\"/event.aspx?784721\">XOYO</a> in London this weekend (it actually turns out he played the country back in '94), and through a combination of a Crowd Funder <a href=\"http://www.crowdfunder.co.uk/get-dj-deeon-to-bloc\">campaign</a> and the festival organisers themselves, he'll also been banging it out at <a href=\"/event.aspx?774445\">Bloc</a> in Minehead.  \n\n\n<b>What have you been up to recently?</b>\n\nI've been gearing up on more analogue equipment to get finished on my upcoming album.\n\n<b>How and where was the mix recorded?</b>\n\nMix was recorded at my house in the family room, dogs and kids running back and forth. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nNot really set in idea, it's just an excuse to play loud music! \n\n<b>There's been a sense of disbelief in the UK scene that you're only just now playing your debut in the country. Why do you think it's taken so long?</b> \n\nWell, it's not my debut. But it's been so long—1994, I believe. I just had a few legal issues to sort out and of course some health issues. But I'm back now. I miss the UK. They are so awesome and appreciative of music, and it's a satisfying thrill to play abroad.\n\n<b>In addition to XOYO, you're now also playing Bloc. festival. What's the story there?</b> \n\nI don't know! It's another blessing from god! I'm a bit nervous. But I won't question it. Just thanks to all those that got me to be there!\n\n<b>What are you up to next?</b> \n\nPlenty of work and getting my health in order. An album or two, a few collaborations with some artists, TBA. Really just want to make music to last a couple lifetimes for the future generations of party people, and get paid for it. Oh let's not forget my FreakMode label is gonna pick up where Dance Mania left off.\n",
+    "blurb": "The ghetto house pioneer lets loose.  \r\n"
+  }
+}

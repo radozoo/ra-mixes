@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "551",
+  "url": "https://ra.co/podcast/551",
+  "id": "551",
+  "__typename": "Podcast",
+  "title": "RA.551 Black Motion",
+  "date": "2016-12-19T00:00:24.000Z",
+  "fileSize": 148051148,
+  "duration": "01:01:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra551-black-motion-cvr.jpg",
+  "contentUrl": "/podcast/551",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/298588672",
+  "keywords": "House, Rob Murdah, Thabo Smol, Ya Badimo, South Africa,",
+  "artist": {
+    "id": "37407",
+    "__typename": "Artist",
+    "name": "Black Motion"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In September 2012, a small camera crew from RA travelled to Soshanguve, a township just north of Pretoria. They were shooting <a href=\"/features/1754\"><i>Real Scenes Johannesburg</i></a>, and the purpose of the 90km-drive was to meet Black Motion, one of South Africa's leading house acts. About ten minutes into the journey, they were stopped by police and asked for documents, a frequent reality for motorists in Johannesburg. It wasn't looking good. The police officer seemed suspicious—\"Where's your permit? What are you doing here?\" Suddenly, though, his tone changed: \"You're interviewing Black Motion? Ah, cool. Be on your way...\" \n\nThis exchange tells you plenty about Black Motion and South African house music in general. It's a sound that permeates all walks of life, and Black Motion are one of the country's most treasured outfits. Rob Murdah and Thabo Smol's style reflects a rich heritage of indigenous local music, drawing upon rhythms in a way that feels innate. Where so much house music elsewhere in the world uses dark sounds to evoke joy, Black Motion make that joy overt—tracks like \"Imali,\" \"Banane Mavoko\" and \"Rainbow\" (just a few of their many hits) are bursting with positivity and emotion. \n\nYoung DJs in the South African scene tend to go the extra mile when it comes to performing, taking their cues from the all-action style of national icons like Black Coffee, and indeed, Black Motion's sets are a <a href=\"https://www.youtube.com/watch?v=O8_A3juzav8\">sight to behold</a>. Their shows are a blur of activity, as Rob Murdah mans the CDJs and Thabo Smol plays live drums and percussion (they're sometimes also joined by a small team of dancers). This energy is on full display in their RA podcast, a selection of their own tracks and forthcoming material from the South African scene. It's 61 minutes of house that will melt away winter blues. \n\n\n<b>What have you been up to recently?</b>\n\nWe are busy promoting our latest album, <i>Ya Badimo</i>, which just recently got certified Gold. We have also been working on some tracks we have been exploring with our friends around the world.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at our studio at our home. We always work from here because it's a great space for us to work from.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe just wanted to take it easy and show our appreciation to—and give you a taste of—some of the SA tracks to look forward to in 2017, including some material from our latest album. You will also find some new elements we have added to our sound. We have various styles of the dance music we play, from your mainstream soulful to Afro soul and some tribal soul. It's feel-good music. \n\n<b>How was 2016 for you guys on a personal level?</b>\n\nIt's been a great year, where we did a lot of work finalising and preparing to launch the album. We also started a brand campaign with Ballantine's (in Southern Africa). One of our productions, \"Rejoice,\" has been on high rotation since its release back in April. We have also seen our sound and approach to music mature. All in all, the year has been very positive and has created a great springboard for even greater things in 2017 and beyond.\n\n<b>Do you have any favourite releases from other artists from this year?</b>\n\nCuloe de Song's <i>Washa</i> album was a great release. Prince Kaybee has also been dropping some sounds we've been appreciating. The same goes for Louie Vega's <a href=\"/reviews/18646\"><i>Starring...XXVIII</i></a>, that was an exciting package. But we have also been enjoying a lot of (unreleased) tracks from some rising stars like EnoSoul, Dvine Brothers and Drummatic Boyz.\n\n<b>What are you up to next?</b>\n\nFor 2017 we have a lot in store for our fans, as we have various projects that we are embarking on. There's a special musical project that will celebrate the musical spirit and soul of our continent. On the performance side, we will be doing more shows outside the continent to just spread our gospel—and from that we will work on more collaboration projects with our peers around the world. We will also see our artists, Brenden Praise and Miss P, release their debut albums. ",
+    "blurb": "One of South Africa's favourite house acts step up. "
+  }
+}

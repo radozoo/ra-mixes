@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "162",
+  "url": "https://ra.co/podcast/162",
+  "id": "162",
+  "__typename": "Podcast",
+  "title": "RA.162 nsi.",
+  "date": "2009-07-06T09:00:01.000Z",
+  "fileSize": 46914007,
+  "duration": "00:48:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra162-nsi-cover.jpg",
+  "contentUrl": "/podcast/162",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra162/",
+  "keywords": "Tobias Freund, Max Loderbauer, nsi, play non standards, techno, experimental, mutek",
+  "artist": {
+    "__ref": "Artist:833"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The Berlin apartment that houses Tobias Freund and Max Loderbauer's Non Standard Studios is a quaint place that complements the oddness of the duo's output. In one room you've got a toilet, sink and a gold disc of Milli Vanilli's breakthrough album <i>Girl You Know It's True</i> (Freund worked as an engineer on the record), and in the other are two racks of vintage analogue equipment that would be enough to make any self-respecting gear fanatic wildly jealous. But while they may have all sorts of Roland drum machines and a Doepfer modular synth that Kraftwerk had a hand in making, it's their experience behind the mixing desk that helps to make their visceral and uncompromising take on minimalism and techno possible.\n\nAs well as working as an engineer on commercial projects, Freund has been steadily releasing his own electronic music since 1989, encompassing breakbeat, trance, techno and electro under various guises before settling on tobias. as the moniker of choice for his dance floor-focused material. Loderbauer's work with Sun Electric, Chica & The Folder and The Moritz von Oswald Trio, meanwhile, speaks for itself, and his obvious passion for both playing and tweaking his vintage synthesisers is the cornerstone of the nsi. sound. As well as producing some of the most inventive and aurally accomplished minimal techno around on their twelve-inch singles for both Cadenza and their own Non Standard Productions imprint, Freund and Loderbauer have also ventured into the modern classical arena with their almost entirely beatless <i>Non Standard Institute Plays Non Standards</i> record on Sahko. \n\nMost of their records are recorded entirely live, and on this week's RA podcast we've got a recording of the duo in their element at this year's <a href=\"/feature.aspx?1059\">Mutek festival</a> in Montreal. We caught up with Tobias to ask him about the performance, ballet and what they've got coming up later this year.\n\n<b>What have you been working on recently?</b>\n\nRecently we prepared our live performance for Mutek in Montreal, but we're also working on our next CD release.\n\n<b>How and where was the set recorded?</b>\n\nThe set was recorded live at Mutek on Friday, 29th May.\n\n<b>Can you tell us a little about the performance?</b>\n\nThe performance is an improvisation with analogue equipment. Max is playing a Doepfer A-100 modular synth, a Clavia Nordlead 1 and a piano keyboard, all triggered with a hardware sequencer. I am playing a Roland TR-808, a synth module from Pearls and effect units.\n\n<b>Do you and Max tend to have big discussions before you start a piece, or is it largely borne out of improvisation?</b>\n\nNo, actually we just start playing and listening to each other.\n\n<b>How long does it usually take to produce an nsi. twelve-inch from start to finish?</b>\n\nIt depends on our inspiration. There is no formula. Usually we produce a song while we play together. Most of the songs we do are live performances in the studio so they take as long as they are.\n\n<b>You both did a track for Ostgut Ton's <i>Shut Up And Dance! Updated</i> project. What did you think of the ballet performance to \"Bridge And Tunnel People\"</b>\n\nWe were really surprised how our music sounded when we saw the choreography to it. It is very nice to see how the dancers interpret your music. It's like listening to a new track.\n\n<b>What are you up to next?</b>\n\nWe will finish our next CD, which will probably be out at the end of the year!\n\n<span class=\"f10 grey\">Photo credit: MUTEK10 / Caroline Hayeur</span>",
+    "blurb": "This week's RA podcast sees Tobias Freund and Max Loderbauer showcase their trippy live show."
+  }
+}

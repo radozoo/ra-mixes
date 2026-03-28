@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "374",
+  "url": "https://ra.co/podcast/374",
+  "id": "374",
+  "__typename": "Podcast",
+  "title": "RA.374 Outboxx",
+  "date": "2013-07-29T00:00:10.000Z",
+  "fileSize": 98745476,
+  "duration": "01:22:02",
+  "imageUrl": "https://static.ra.co/images/podcast/ra374-outboxx-cvr.jpg",
+  "contentUrl": "/podcast/374",
+  "tracklist": "Outboxx - Letting Go feat. Naomi Jeremy [ Forthcoming Future Boogie ]\nOutboxx - All The Right Moves [ Idle Hands ]\nWill Maddams - Get High (I Like It) [Traxx Underground]\nMotor City Drum Ensemble - Send A Prayer [MCDE]\nSoundstream - Julies Theme [Soundstream] \nUnknown Artist - Switch Track (Theo Parris Re-Edit) [White Label]\nGregory Porter - 1960 What? (Opolopo Kick & Bass Rerub) [Soul Jazz]\nMood II Swing - Sunlight in my Eyes [King Street] \nOmar S - For Us All [FXHE]\n Jay L - Together [Unreleased]\nSeven Grand Housing Authority - Loves Got Me High [Intangible Records and Soundworks]\nJanet Rushmore - Joy (Choice Mix) [Choice Records]\nShanti Celeste - Need Your Lovin' (baby) [Forthcoming BRSTL 05]\nOutboxx - Need You [Forthcoming Futureboogie]\nMateio and Oldrich - Drop the Bomb [metropolitan limited ]\nKevin Mcphee - Unwind [Idle Hands]\nOutboxx - Reflections [Boe Recordings]",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra374/",
+  "keywords": "Outboxx, Jake Martin, Hodge, Matthew Lambert, Kate Libby, Immerse Records, Aporia, Idle Hands, Naomi Jeremy, house",
+  "artist": {
+    "__ref": "Artist:26772"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Melody, harmony and song writing lead Outboxx's music. It's a style that's stood them apart from the lo-fi insouciance and early '90s reverence that have recently been so prevalent in house. Their sound was born a couple of years back in Bristol through a meeting of methods. Jake Martin had been producing music for a while but wanted to move away from the bass-influenced stuff he was writing as Hodge; Matthew Lambert was a production novice but an accomplished keys player with an ear for a lead line. \n\nThey hit it off right away. \"Kate Libby,\" a track that delicately dripped with funk, came from their first studio session together, and was immediately signed to Immerse Records. The warmth they induced that day has been a blueprint for them since. Tracks like \"Aporia,\" \"Through The Night\" and \"Sunshine Mills\" have all been excellent examples of how a sunshine vibe in house doesn't have to be cheesy. Pleasingly enough, their self-titled <a href=\"/review-view.aspx?id=12774\">debut album</a>, released earlier this year on Idle Hands, also moved through shadows in its second half. Aligning more closely with Hodge's solo work, the record's run-in had a spacious, twilight feel.     \n\nThe Outboxx live experience has been continually evolving throughout all of this. Naomi Jeremy, the group's unofficial third member who has sung on much of their music, used to join them for DJ performances, which eventually morphed into a live set. On RA.374 they've opted for turntables, lining up a selection of house music that works best with the windows open.     \n\n<b>What have you been up to recently?</b>\n\nWe've just released our first album on Idle hands and have been gigging a fair amount over the summer, which has been amazing. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded with Technics turntables, two Pioneer CDJs and an Allen & Heath mixer in the Peng Sound HQ, surrounded by thousands of records. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe just had some fun and played some records that we're both into at the minute, including some unreleased and forthcoming tunes from some friends. We also took it as a chance to play some of our new material—the first track is a new one with Naomi Jeremy called \"Letting Go,\" and is coming out on Futureboogie around September. \n\n<b>Was there an overall mood you were gunning for with the album?</b> \n\nThe mood in the album kind of progresses from what feels natural, so a lighter summer house vibe to tracks that are a bit darker and more experimental, which felt natural given the opportunity.\n\n<b>Shimmering Rhodes chords seems to be an integral part of your music. Do you guys have favourite keyboard players?</b> \n\nWe love house music so the keys played in the old King Street stuff, for example, is definitely up there. And then outside of dance music, to name a few, we'd say Philip Glass, Yann Tiersen, Herbie Hancock, and Robert Glasper are definitely key players for us.  \n\n<b>What are you up to next?</b>\n\nWe're currently catching up on some much needed studio time, expanding on the live show, buying records and some more studio gear.  ",
+    "blurb": "Summer sounds. "
+  }
+}

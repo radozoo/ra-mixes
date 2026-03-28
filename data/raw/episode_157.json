@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "157",
+  "url": "https://ra.co/podcast/157",
+  "id": "157",
+  "__typename": "Podcast",
+  "title": "RA.157 Tony Lionni",
+  "date": "2009-06-01T09:00:55.000Z",
+  "fileSize": 60868557,
+  "duration": "01:03:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra157-tony-lionni-cover.jpg",
+  "contentUrl": "/podcast/157",
+  "tracklist": "Marco Bernardi - Mystery of Nazerus - <a href=\"/record-label.aspx?id=752\">Clone Records</a>\n<a href=\"/dj-page.aspx?id=765\">Jimpster</a> - Sleeper - <a href=\"/record-label.aspx?id=798\">Freerange Records</a>\nAndre Lodemann - Where Are You Now - <a href=\"/record-label.aspx?id=2267\">Best Works Records</a> \n<a href=\"/dj-page.aspx?id=5276\"></a><a href=\"/dj-page.aspx?id=5276\">Tony Lionni</a> - The Brain - Polymorph Records\nThe Chain - Letting Go (Original Mix) – <a href=\"/record-label.aspx?id=1812\"> R&S Records</a>\nGeo - The Chain - <a href=\"/record-label.aspx?id=1812\"> R&S Records</a>\n<a href=\"/dj-page.aspx?id=233\">Slam</a> - Hot Knives – <a href=\"/record-label.aspx?id=2375\">Paragraph</a>\nKalva and Paul Thomas - Rizer - Leaders Of The New School\n<a href=\"/dj-page.aspx?id=1886\">Len Faki</a> - BX3 - <a href=\"/record-label.aspx?id=803\">Ostgut Ton</a>\n<a href=\"/dj-page.aspx?id=5276\">Tony Lionni</a> - Astroblack - <a href=\"/record-label.aspx?id=1436\">Aesthetic Audio</a>\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra157/",
+  "keywords": "Tony Lionni, Ostgut, Berghain, Freerange, Found a place, RA by Day",
+  "artist": {
+    "__ref": "Artist:5276"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Whether it's house or techno that floats your musical boat, the chances are that you'll have seen Tony Lionni's name cropping up on new release lists at an almost alarming frequency. Lionni has only been releasing music for just over a year now, but has already amassed quite a catalogue of releases on a series of well respected labels. Versatile, Aesthetic Audio, Wave, Mule, Figure and Ostgut Ton are just some of the imprints that have committed his house and techno fusion to wax, and there's very little sign of Lionni's frenetic work rate slowing up. Electronic music wasn't Lionni's first musical passion, however. As a B-boy with Manchester-based collective The Rebels In Effect, Lionni fully immersed himself into the fresh and exciting world of hip-hop, before proceeding to research and DJ a wide spectrum of black music.\n\nLiverpool-born Lionni moved to the nearby musical melting pot of Manchester quite early in his life, and it was there that he cut his DJing teeth playing a mix of rare groove, funk and hip-hop. His thirst to continue to live in a city with a hotbed of electronic music took him to Madrid six years ago, and he's recently taken up home in Berlin to surround himself with a larger community of fellow producers. He'll be making a return to Spain in a couple of weeks time for our <a href=\"event.aspx?99530\">rooftop pool party</a> in Barcelona during this year's Sonar festival, so we thought it'd be just the right time for Tony to showcase his sound on the RA podcast. We caught up with Tony to ask him about the mix, what he's got in store for our pool party in Barcelona and how his house music love affair first started.\n\n<b>What have you been working on recently?</b>\n\nVarious remix work which hasn´t been confirmed yet apart from one to be released soon for Alton Miller.\n\n<b>How and where was the mix recorded?</b>\n\nMix was recorded at Sneaky´s studio Friedrichschain Berlin using Ableton.\n\n<b>Can you tell us a little about the mix?</b>\n\nI tried to incorporate the different sides to my own productions starting off deep and ending techno.\n\n<b>You release on quite a few different labels. Do you feel a particular affinity to any of them?</b>\n\nCan´t say I have a preference and only work with the labels I have love and respect for.\n\n<b>After starting off being in to hip hop, what records steered you into house and techno?</b>\n\nFor me what I considered hard house music back in the day like Todd Terry which incorporated samples which would set off the dance floor for the Fusion dancers back then. \n\n<b>What can we expect from your set at the RA pool party?</b>\n\nA time to relax, reflect and kick back a little and forget your worries and troubles its summer time.\n\n<b>What are you up to next?</b>\n\nLooking after my next planned releases on Freerange, Polymorph and Deep City Prog Trax and trying to get rid of my screen tan and get a sun tan hopefully?",
+    "blurb": "The prolific producer blurs the line between techno and house on this week's RA podcast."
+  }
+}

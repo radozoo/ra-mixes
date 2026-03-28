@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "131",
+  "url": "https://ra.co/podcast/131",
+  "id": "131",
+  "__typename": "Podcast",
+  "title": "RA.131 Johnno Burgess",
+  "date": "2008-12-01T10:00:45.000Z",
+  "fileSize": 78584032,
+  "duration": "01:05:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra131-johnno-burgess-cover.jpg",
+  "contentUrl": "/podcast/131",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra131/",
+  "keywords": "",
+  "artist": {
+    "id": "5300",
+    "__typename": "Artist",
+    "name": "Johnno Burgess"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The Bugged Out brand is one that is recognised and appreciated worldwide, with passions being fuelled both by their record label and the hugely successful parties that they promote. Johnno Burgess and Paul Benney started the night in 1994 to reflect the music that they were writing about at the time in <i>Jockey Slut</i> magazine. The duo hosted LFO and Autechre at Manchester's Sankeys Soap for their first ever event, but have since gone on to have residencies in London, Barcelona and at their original home of Sankeys, whilst also putting on additional events in countries all over the globe.\n\nBugged Out isn't Burgess' only venture into clubland, however. He also promotes a Sunday pub session in London that goes by the name Erection Section. Titled after the time of the night when DJs play slower records for the more romantically inclined members of the crowd, these parties are where Burgess lets his musical hair down, playing all sorts of records that don't get airtime at a normal Bugged Out event. For his RA podcast, Burgess has put together a master class in \"yacht rock,\" a selection full of '80s pop classics, Balearic gems and a couple of recent tracks that embody the Erection Section spirit. We caught up with Johnno by e-mail to chat about Phil Collins, Bugged Out and Basshunter.\n\n\n<b>What have you been working on recently? </b>\n\nWe've got a busy December for Bugged Out with shows in Manchester, London, Verona, Milan, Rome and Tokyo. Unfortunately I'm not getting to go anywhere fancy. I drew the short straw and am doing, er... London! We've got our New Years Eve party coming up at Fire with Trailer Trash and Disco Bloodbath followed, of course, by our New Year's Day party at the Old Queens Head in Islington which is where we get to let our hair down (if I had any left to let down that is) and play pop, disco, vintage handbag, old rave and yacht rock.\n\n<b>Could you explain \"yacht rock\" for the uninitiated? </b>\n\nIt's a term for music made by a group of artists in the mid '70s to mid '80s. People like Don Henley from the Eagles, Christopher Cross, Michael McDonald and Kenny \"Footloose\" Loggins used to write for each other, play on each other's records and, I guess, hang out on each other's yachts a lot. It now encapsulates any music that has that era's buffed synthetic production sound.\n\n<b>Where and how was the mix recorded? </b>\n\nIt was recorded in my lounge (two Pioneer CDJs and two cups of tea were utilised in the process). I segued the tracks as you can't really mix them unless you want Michael McDonald to sing in an even higher falsetto by pitching him up. I played it as I would do in a pub on a Sunday or on New Year's Day with a pint of Guinness in one hand while attempting to tell anyone nearby that will listen that Michael Jackson's \"Human Nature\" was written by Steve Porcaro from Toto, or some other boring yacht rock \"fact.\"\n\n<b>Can you tell us about the history behind the mix? </b>\n\nI suppose I am a bit schizo in my tastes. I love the mutant techno we put on at Bugged Out, but the day after the night before I want to listen to pop. I used to play music in the corner of the Social pub in Islington every Sunday from 2001 - 2003 and a lot of these tracks featured in my sets there. The promoters and DJs from Fabric and clubbers from nights like 21st Century Bodyrockers used to end up there still \"out of sorts\" and end up getting into Toto and Doobie Brothers. Pop, disco and yacht rock are a welcome respite from German techno on a Sunday afternoon or on a day like January 1st when everyone's edges need to be smoothed out a bit. Other fans of yacht rock: Justice, Hot Chip, Thomas Bangalter and most disco aficionados.\n\n<b>How did you select the tracks? </b>\n\nWell, there are some very obvious choices but I also wanted some modern examples which the French seem very good at—Phoenix and The Paradise. I also wrote a blog for the Guardian about New Balearic earlier this year and someone sent me Norwegian dude Rune Lindbaek's version of Toto's \"Africa\" and also the Phil Collins re-edit by the Idjut Boys. I also wanted to re-claim KC & The Sunshine Band's \"Please Don't Go\" from Basshunter.",
+    "blurb": "Bugged Out's Johnno Burgess brings us a colourful selection of yacht rock for this week's RA podcast."
+  }
+}

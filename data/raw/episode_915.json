@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "915",
+  "url": "https://ra.co/podcast/915",
+  "id": "915",
+  "__typename": "Podcast",
+  "title": "RA.915 Quest",
+  "date": "2023-12-17T23:00:35.000Z",
+  "fileSize": 180743357,
+  "duration": "01:15:19",
+  "imageUrl": "https://static.ra.co/images/podcast/ra915-quest-cvr.jpg",
+  "contentUrl": "/podcast/915",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra915-quest/",
+  "keywords": "",
+  "artist": {
+    "id": "76003",
+    "__typename": "Artist",
+    "name": "Quest (IT)"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Quest's <i>RA</i> Podcast starts slowly, with a thrum of synths that feels like watching a rocket take off in slow motion. Before you know it, you're in outer space, floating through zero gravity with waves of synths and gentle breakbeats. The Italian DJ is a premiere selector in the <a href=\"/films/4249\" target=\"_blank\">world of digging</a> for rare records, but his outré taste shouldn't be confused with willful obscurity. He's a beloved DJ partly because of his approachability. There's a serene, early '90s feel to RA.915 that's reminiscent of some of the earliest and best ambient techno.\n\nWhen he's not DJing, Quest runs the label La Nota Del Diablo. He's only put out two records, including this year's <i>Red Tears</i> EP from his dear friend (and fellow esteemed DJ) Christian AB, which <i>RA</i>'s Henry Ivry <a href=\"/reviews/35700\">described</a> as \"a careful balance of late-night tension and early morning twilight.\" That's not a bad way to describe Quest's <i>RA</i> Podcast—if it's not a soundtrack for an astral journey, then it's perfect for an afterhours, for when the laid-back vibes come to a simmer for one last stretch of dancing.\n\n<b>What have you been up to recently?</b>\n\nRecently, I've been predominantly immersed in playing gigs, traveling and exploring music wherever I go! \n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b> \n\nThe mix was recorded using two Technics SL-1200 turntables and a XONE:92 mixer in the studio of my dear friend LVUCA. As with all my live performances, the underlying idea is to narrate a story. Even though the duration may not be significant, I aimed to deliver the same impactful experience.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nUndoubtedly, ALL the parties and clubs have played a pivotal role in shaping me into the DJ I am today.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nUnfortunately, in today's world, there are numerous issues that I believe deserve more attention, and I find it challenging to prioritize one over the other, as they all hold personal significance to me.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm eagerly anticipating carving out dedicated time to consistently start creating music. Of course, I also look forward to countless moments behind the decks, surrounded by like-minded people and others.\n",
+    "blurb": "A trip to outer space with the revered digger DJ.\r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "260",
+  "url": "https://ra.co/podcast/260",
+  "id": "260",
+  "__typename": "Podcast",
+  "title": "RA.260 Matthew Burton & Kate Rathod",
+  "date": "2011-05-23T00:01:51.000Z",
+  "fileSize": 73695898,
+  "duration": "01:01:21",
+  "imageUrl": "https://static.ra.co/images/podcast/ra260-burton-rathod-cvr.jpg",
+  "contentUrl": "/podcast/260",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra260/",
+  "keywords": "Matthew Burton, Kate Rathod, retrofit, ultrastretch, minimal, berlin",
+  "artist": {
+    "id": "9320",
+    "__typename": "Artist",
+    "name": "Matthew Burton"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "We'd usually start here by giving you some biographical details on our featured podcasters, but this week we're going to go right ahead and cut to the chase. Setting the tempo to a steady 120 BPM, Matthew Burton and Kate Rathod here fashion their own sonic microcosm. Weirdo flourishes coalesce with balmy chords and suggestive vocals, evoking the sunnier side of Pronsato or Villalobos. UK production duo Matthew Burton and Kate Rathod have only appeared on record together a couple of times to date, with remixes and original material on Jay Shepheard's Retrofit label, although Burton has had a somewhat more storied journey hitherto. A handful of digital releases on various labels culminated in Burton producing the maiden 12-inch for Sammy Dee's new Ultrastretch label, coupled with appearances at a selection of top-tier nightspots in and around his former hometown of Berlin. \n\n<b>What have you been up to recently?</b>\n\nWe have mainly been concentrating on the live performance as we have had a couple of shows in the last month. I've been quite busy with gigs recently so Kate's been able to concentrate on some solo work too.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at home. We use Cubase for the live sequencing and also an Akai MPC 500 to play in live melodies, pads and stabs. Then on top of that a microphone going through a reverb and delay unit for both mine and Kate's vocals. All of this goes through a Xone 92 Allen & Heath mixer. Everything was recorded live but we had to go back and edit the vocals here and there. \n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nWe wanted to do a mix that wasn't strictly for the dance floor. We wanted to show the more mellow side to our work so decided to start slow and build it up using various loops and swoops that both of us have worked on over the last few years.\n\n<b>How did you hook up with Sammy Dee for the first release on his Ultrastrech label?</b>\n\nI had been going to the Perlon nights at Panorama Bar since we first moved to Berlin and then eventually got round to giving him a couple of my records. A week or so later a friend told me he had heard Sammy playing mine and Kate's first Retrofit release we did with Jay Shepheard so I got in touch. It's been love ever since. Sammy's been great to both of us and has helped us out whenever he can.\n\n<b>Does producing with your other half ever lead to difficulties?</b>\n\nOn the whole we are quite compatible when it comes to making music. Kate brings a more musical element to the music. She's always good at busting out melodies, chords and pads which I always found more difficult. I usually start things off with getting a good groove together. Music comes really naturally to Kate so she's picked it up a lot quicker than I did when I first started. We do have disagreements (mainly when I wanna add sleazy vocals to everything) but they never last that long when you can make up with a quick kiss and a cuddle. \n\n<b>What are you up to next?</b>\n\nWe've got a couple of joint releases coming up including an EP on Visionquest with our track \"Flip Reverse Girl\" that we are really proud of. We will also have future releases together with Retrofit and Ultrastretch. I have a couple of solo releases coming out on Organic Art Movement and Back To You in the next few of months, also a track I made with Nick Lawson coming out on a Visionquest release. Over the summer I've got monthly parties with Sammy Dee at Club der Visionaire and also the Busta Groove parties in the UK that I run with Nick Lawson. Other than that just working on music together and working on our live act.",
+    "blurb": "Standout live business from the breakthrough UK duo. "
+  }
+}

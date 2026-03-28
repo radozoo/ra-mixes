@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "385",
+  "url": "https://ra.co/podcast/385",
+  "id": "385",
+  "__typename": "Podcast",
+  "title": "RA.385 Daniel Avery ",
+  "date": "2013-10-14T00:00:39.000Z",
+  "fileSize": 167618667,
+  "duration": "01:09:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra385-daniel-avery-cvr.jpg",
+  "contentUrl": "/podcast/385",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra385/",
+  "keywords": "Daniel Avery, Stopmakingme, Phantasy Sound, Divided Love, Drone Logic",
+  "artist": {
+    "id": "28967",
+    "__typename": "Artist",
+    "name": "Daniel Avery"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Daniel Avery has brought something a little different to table since he started releasing music under his given name at the beginning of last year. He's crafted a sound that feels at odds with the recently prevalent club styles—a place in between house, techno and electro in which he's been unafraid to make some noise. His background has a lot to do with this. Avery came to dance music late, growing up listening to guitar-based music before connecting with the scene through parties like Trash and Bugged Out!, events that were themselves indie-influenced. It was at the latter party that he met Erol Alkan, whose Phantasy Sound label has become the primary outlet for Avery's music. London's fabric has also been key in Avery's rapid rise. The club installed him as a resident back when he was DJing and producing under the name Stopmakingme, and last year commissioned him for <a href=\"/review-view.aspx?id=12034\">an instalment</a> in their revered mix series. The natural culmination of all of this arrived last week with Avery's debut album, <i>Drone Logic</i>, which eased into subtler textures while refining and solidifying his established sound.  \n\nWithout even knowing the DJ behind RA.385, you'd might be able to guess who it was. Avery has one of those styles of mixing and producing that could belong to no one else. \n\n<b>What have you been up to recently?</b>\n\nI've been super busy getting everything ready for the album and DJing a lot. I'm loving playing out more than ever before. \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in the little studio I have in my house in London using CD-Js and a flood of Space Echo. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to have something that represented where my head was at for the making of the album. On the record there are a lot of looping effects and things put through guitar pedals to create quite tripped out drones so, whilst it's still \"dance floor,\" the mix continues with some of those ideas. \n\n<b>Did you have an aim or ambition when you were putting together <i>Drone Logic</i>?</b> \n\nI knew from the beginning that it had to work as an album. Something you can put on, sit back and let play out because that's how I was first introduced to dance music and, in fact, music in general. It had to be something that's enjoyed as a whole.\n\n<b>Where are the best places in London to hear indie-influenced dance music these days?</b> \n\nI wouldn't know. That whole notion of \"alternative\" music has changed so much in the last decade. Also, I really don't want anyone to think that I'm trying to bring back some form of \"rock meets rave\"—I couldn't be less interested in that idea. I like psychedelic records, whether it's hypnotic shoegaze or mind-expanding techno, to me they all share a common heart. But the album I've made, whilst it takes on a lot of different influences and can hopefully work in a number of settings, is definitely based from within the club. \n\n<b>What are you up to next?</b> \n\nAside from DJing loads, I'm finishing a remix for Factory Floor and producing a couple of tracks for a new band from LA. I can't say anything else about it at the moment but I'm really excited about how it's sounding. \n\n<span class=\"grey\">Photo credit: <a href=\"http://www.gullickphoto.com/\" class=\"grey\">Steve Gullick</a></span>",
+    "blurb": "70 minutes of machine funk. \r\n"
+  }
+}

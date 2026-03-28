@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "187",
+  "url": "https://ra.co/podcast/187",
+  "id": "187",
+  "__typename": "Podcast",
+  "title": "RA.187 Tensnake",
+  "date": "2009-12-28T00:00:35.000Z",
+  "fileSize": 94807791,
+  "duration": "01:18:59",
+  "imageUrl": "https://static.ra.co/images/podcast/ra187-tensnake-cover.jpg",
+  "contentUrl": "/podcast/187",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra187/",
+  "keywords": "Tensnake, Miura, disco, house, running back, holding back my love, in the end I want you to cry",
+  "artist": {
+    "__ref": "Artist:3530"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It seemed like any other year for Marco Niemerski in 2009. The man known as Tensnake put out one single, released a few records by others on his Mirau imprint and had a DJ gig here and there. The difference? Each of them was among the finest of the past 365 days. Niemerski's single for Running Back netted two <a href=\"/feature.aspx?1122\">Top 50 tracks of 2009</a>, he further introduced us to rising star Iron Curtis via Mirau, and his sets have ensured him a spate of repeat performances scheduled for 2010 in some of the most celebrated clubs in the world. Needless to say, 2009 was unlike any other year for Tensnake.\n\nIt's a success that is well deserved though, as the Hamburg-based DJ and producer has worked hard at creating the sort of electronic disco that stands out from his peers. Building up melodies that take far longer than the usual eight bars to unfold, his productions sound less like tracks and more like songs. It's something that he also favors here on his RA podcast, a collection of disco, house and fireworks that should hopefully provide—as Niemerski puts it—an ideal soundtrack to a silly New Year's Eve.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the set at my studio using Ableton Live, an AKAI APC40 for controlling the EQs and effects and a bottle of red wine.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt is just a motley collection of some of my favourite tunes from the present and the past. All mixed together for a silly NYE.\n\n<b>Are you playing any DJ sets right now or is it all live shows?</b>\n\nNo DJ sets planned at the moment, only live shows. There is so much music coming out these days, it would take too much time to get all through it. So I decided to focus on producing and presenting the results in my live sets.\n\n<b>What should people expect from your live sets? Are you a \"faithful recreation\" type, or more into improvisation?</b>\n\nI would say it is more a faithful recreation type of set. As my music is not based on loop patterns that much and the melodies are very often built up over eight bars and more, I find it hard to do a live improvisation of all tracks. But since I got the APC40 I am pretty happy with the result. Combined with MAX for Live, you have a mighty weapon for live sets.\n\n<b>You're in line for the first the release on <a href=\"/dj-page.aspx?id=899\">Tim Sweeney</a>'s <a href=\"/record-label.aspx?id=3161\">Beats in Space</a> label. How did you guys become acquainted?</b>\n\nI am huge fan of Tim's <a href=\"http://www.beatsinspace.net\">BIS show</a>. So I was really happy when he asked me to do <a href=\"http://www.beatsinspace.net/playlists/474\">a mix</a> for his show some time ago. And he also liked some of my recent productions and remixes and just asked me if I would be up for a release on his new BIS label. It didn't take a second for me to agree.\n\n<b>What else have you got coming up? We've heard rumours of a Tensnake album during 2010.</b>\n\nYeah, I am working on it. But I can't say if it will happen in 2010 or not. To be honest, I am not that happy with the recorded songs/tracks so far and I am thinking about a fresh start for the album. I would also like to work more with artists/ vocalists for the album, if you know any good ones, please give them my email!\n\n<b>How's everything going with regards to your Mirau label?</b>\n\nThere are some exciting releases coming up in 2010. The first will be out in January. The EP is called <i>Eurodancer (Dances for Euros)</i>, produced by Mano Le Tough—a Berlin based producer—accompanied by remixes from Azari & III and Tensnake.",
+    "blurb": "Hamburg's Marco Niemerski brings in a new decade with a collection of house and disco."
+  }
+}

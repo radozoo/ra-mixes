@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "315",
+  "url": "https://ra.co/podcast/315",
+  "id": "315",
+  "__typename": "Podcast",
+  "title": "RA.315 Kerri Chandler",
+  "date": "2012-06-11T00:01:59.000Z",
+  "fileSize": 114267821,
+  "duration": "01:35:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra315-kerri-chandler-cvr.jpg",
+  "contentUrl": "/podcast/315",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra315/",
+  "keywords": "Kerri Chandler, house, deep house, new jersey, new york, sonar",
+  "artist": {
+    "id": "741",
+    "__typename": "Artist",
+    "name": "Kerri Chandler"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"It feels like I started all over from scratch,\" Kerri Chandler told us in a recent <a href=\"/feature.aspx?1621\">interview</a>. He was of course referring to his relationship with Circo Loco, the Italian party brand based out of DC-10 in Ibiza. After a period of persuasion Chandler agreed to play for the crew at their 2010 opening/closing party and has since become an integral part of the family, making multiple appearances throughout the 2011 season and generally stepping up his worldwide DJ presence. It was evident in our talking with Chandler that the partnership had rejuvenated him in many ways, although that's not to say he was somehow struggling before. Chandler is known as one of New Jersey/New York's most celebrated and important house music practitioners, with a recording career stretching back to 1991 and a classics-lined discography to prove it. As part of our on-going VS series, Chandler will link up with Chez Damier—himself a revered house music institution—for a <a href=\"/event.aspx?348785\">back-to-back session</a> this coming Saturday night at BeCool in Barcelona for our annual <a href=\"/off-sonar.aspx\">off-Sonar</a> soiree.   \n\nRolling, timeless house music is the order of the day on RA.315, a warm-up to this Saturday's festivities and a showcase of where Chandler is at in 2012. \n\n<b>What have you been up to recently?</b>\n\nI've restarted Madhouse and started a new label, MadTech. I originally started Madhouse way back and it's a project that's always been close to my heart. I've got a great team of people around me and we have some really interesting records out and forthcoming. It doesn't just follow one line of sound, there's something there for everyone—I guess that's something that's reflected in my DJ sets.\n\nOther than that, I've a really exciting tour schedule coming up including the RA event with Chez Damier this weekend in Barcelona and my residency with Circo Loco at DC-10.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded at my house with turntables and CDJs. I have the whole basement of my house as my studio (playground!) which is completely full of kit from vintage drum machines, synthesises and turntables to the latest NI soft/hardware. When I tour I usually play from two Technics and two CDJs, depending on my mood, so that's how I did this mix.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt was a reflection of my mood at the moment. Anyone who's heard me play knows I can (and do!) go everywhere, so the mix is just a snapshot of my mind at the time.\n\n<b>How do you plan to approach the back-to-back set with Chez this coming weekend?</b>\n\nI haven't seen Chez in a long time—I'm just going to go and have fun!\n\n<b>What are you up to next?</b>\n\nTouring, touring and more touring, and studio work in between! No sleep 'till Brooklyn! See you in Barcelona!",
+    "blurb": "New Jersey's deep house deity turns in a rare recorded mix."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "274",
+  "url": "https://ra.co/podcast/274",
+  "id": "274",
+  "__typename": "Podcast",
+  "title": "RA.274 George FitzGerald ",
+  "date": "2011-08-29T00:01:28.000Z",
+  "fileSize": 64670534,
+  "duration": "00:53:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra274-george-fitzgerald-cvr.jpg",
+  "contentUrl": "/podcast/274",
+  "tracklist": "Tim Hecker - Incurably Optimistic! - Alien8 Recordings\nSigha - The Politics of Dying - Our Circula Sound\nAppleblim - Moonlight - forthcoming Vitalik\nBraille - A Meaning - forthcoming Hotflush\nJosh Wink - Sixth Sense - S3\nGeorge FitzGerald - Feel Like (Rough Mix) - forthcoming Hotflush\nJack Dixon - Low Tide (Rick Grant remix) - CDR\nDFRNT - True (Jack Dixon remix) - Nu Directions\nJazz Neversleeps - Diepgank - On Point\nGeorge FitzGerald - Shackled - forthcoming Hotflush\nScuba - Adrenaline - forthcoming Hotflush\nSCB - Overlay - forthcoming Hotflush\nSBTRKT - Wildfire (Objekt Dub Mix) - Young Turks\nGeorge FitzGerald - Reset - Aus\nGeorge FitzGerald - Hearts - forthcoming ManMakeMusic",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra274/",
+  "keywords": "George FitzGerald, Bass, Hotflush, dubstep, Aus, ManMakeMusic, grime, garage",
+  "artist": {
+    "id": "14092",
+    "__typename": "Artist",
+    "name": "George FitzGerald"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Although operating in a grey area between genres is hardly a novelty these days—particularly for a London-based producer—George FitzGerald is one of those pulling off the trick better than most. He's closely associated with Hotflush Recordings—itself a bastion of ambiguity—thanks to a pair of 12-inches that came at bass music from a house and garage starting point. (Or was it the other way around?) FitzGerald built his grounding in the scene as a co-promoter of <a href=\"/promoter.aspx?id=2126\">Man Make Music</a>, the London party that has been showcasing, well, a little bit of everything since its inception back in 2007. The crew behind the event has now begun an offshoot imprint of the same name, with FitzGerald helming its maiden release, <i>Fernweh / Hearts</i>, which coincidently hits record shops next week. \n\nFitzGerald leverages his ties to Hotflush on RA.247 by bringing bags of the label's unreleased material to the table, interspersed with the types of hybrid sounds that have made London arguably the most exciting destination in electronic music at present. \n\n<b>What have you been up to recently?</b>\n\nPutting the finishing touches to a couple of EPs, running around signing music for my new label, ManMakeMusic, avoiding looters, finishing a postgrad at university. It's been busy!  \n\n<b>How and where was the mix recorded?</b>\n\nI'm not going to bullshit you. It was done on Ableton. Too many people lie about that... \n\n<b>Can you tell us about the idea behind the mix.</b>\n\nMuch of the inspiration for the vibe of the mix came from a set I did recently at the Sub:stance birthday party in Berghain. I feel that was one of the first chances I've had to completely represent all the different facets of my sound. There's a disparate mix of house, garage and techno in there—of hard, soft, vocal and sparse varieties, but I feel those juxtapositions still make sense if you put them together correctly. \n\n<b>You've displayed a propensity for vocals on your releases to date. What are some of your sample sources?</b>\n\nI try to use vocals from singers whose voices I really admire, and then pick out those small phrases or sounds in the vocal which are unusual or particularly expressive; more than that I can't say. Not that they're at all obscure or anything—I just don't want to get sued! What I'm producing at the moment isn't as vocal-led, though. I feel I'm slowly moving away from all that... \n\n<b>What are you up to next?</b>\n\nThe first release on my label is out on 5th September. After that I've got EPs coming up on Hotflush, Aus and Chez Damier's Balance label, all of which I'm very excited about. I also want to concentrate on growing ManMakeMusic as a label and giving a platform to the great producers we're working with. Next year I'll start work on an album too...    ",
+    "blurb": "House meets garage meets bass."
+  }
+}

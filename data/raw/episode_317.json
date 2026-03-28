@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "317",
+  "url": "https://ra.co/podcast/317",
+  "id": "317",
+  "__typename": "Podcast",
+  "title": "RA.317 Benoit and Sergio",
+  "date": "2012-06-25T00:01:48.000Z",
+  "fileSize": 65965467,
+  "duration": "00:54:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra317-benoit-sergio-cvr.jpg",
+  "contentUrl": "/podcast/317",
+  "tracklist": "DJ Steef - Black Savates - Magic Wand\nFree Magic and J Kriv - Chant (Benoit & Sergio Slo-Mo Edit) - Discovery\nMale Madame - Sunny St. Mark - Unreleased\nJeremy Glenn - New Life (Perseus 'Summer of '83' remix) - Future Classic\nVirgo Four - Sex - Rush Hour\nSlow Hands - Rough Patch - DJ Kicks\nBirds & Souls - Socially Conscious - Unreleased\nNew Look - Nap On The Bow - !K7 \nRosie Gaines - Closer than Close (Mentor original radio edit) - Bigbang\nRainer - 8000 Feet Up (Shaun Reeves and Tale Of Us edit) -Serialism\nFrankie Knuckles - The Whistle Song - Virgin\nDani Casarano, Felipe Valenzuela & Demian Muller - Hole in the Middle - Cadenza\nC-Edits - Make It Happen\nNew Order - The Village - Factory\nSeth Troxler - Black Clap - Unreleased\nMetro Area - Orange Alert - Environ\nMatt John - Radio Self - Perlon\nAir - Run - Virgin",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra317/",
+  "keywords": "Benoit and Sergio, benoit, sergio, Walk and Talk, Principles, Visionquest, DFA, Spectral",
+  "artist": {
+    "id": "20801",
+    "__typename": "Artist",
+    "name": "Benoit & Sergio"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Benoit & Sergio are an electronic house and pop duo from Washington DC who have a knack for crafting earworms. Who else in recent memory had you idly humming a song about an apathetic ketamine addict? Or wailing cat-like to a track concerning principles? \"Walk and Talk\" and \"Principles\" made it to number #18 and #12 respectively in our 2011 singles poll, proof (if it were needed) that the dance floor will always cherish a chance to sing-along. Across their releases for Visionquest, DFA and Spectral Sound the pair has created a concise discography that seems to indulge equally in their love for acts like Talking Heads and Roxy Music as it does in contemporary electronic styles. This twin pursuit has lent itself effortlessly to live performance. For a relatively new act Benoit & Sergio have gigged globally and extensively over the past two years, utilizing a simple set-up and letting the songs do the talking. \n\nSo yeah, Benoit & Sergio aren't DJs. But as they've shown in the past, and again show here on RA.317, they know how to put together a stylish mixtape. \n\n<b>What have you been up to recently?</b>\n\nWe just finished two EPs. The first is the follow-up to our Visionquest record from last year. It took us a while to get it together due to touring, etc. but we are really happy with it. It's called <i>New Ships</i> and it consists of three tracks. Each of them has its own genre, a little bit like our first EP for Visionquest. The second EP, for Hot Creations, came about after hanging out with Jamie Jones while all touring together in Australia in March. So we sent him and Lee a couple tracks. The EP is called <i>Bridge So Far</i>. Again, we are really happy with this EP.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in Berlin and DC. We used Ableton, since neither of us knows how to mix that well. Just being honest. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe started it in February during the long Berlin winter, thinking about the summer, imagining ourselves and others on some halcyon rooftop or beach party. We wanted the podcast to be low-key, melodic, somewhat tropical, a series of waves fellating the shore. \n\n<b>Have you guys been interested/involved in DJing much down the years?</b>\n\nWe haven't been involved in DJing so much. Our friends, of course, all DJ, but we have never gotten into it until we started making podcasts last year. We're more like bedroom DJs who like to put music together that isn't our own sometimes. In this sense, though, we've been doing mixes since our teenage years, making tapes for girls or friends.  \n\n<b>How is work on your album coming along? Any ideas with whom it might be released?</b>\n\nIn our hearts and minds, the album is coming along quite well. We find ourselves being drawn to the album tracks more and more, though we don't generally play them in our live set at the moment. The album stuff is slower, less dance-oriented per se. We just set up a studio in Berlin and Paris to finish it up by summer's end. All the ideas are there. Now we just need to polish it. We don't know yet who will put it out since we haven't really given it to anyone to listen to yet. We're keeping it in the pocket. \n\n<b>What are you up to next?</b>\n\nWe are going to try to finish the album. We've cleared up space and time for it and we want to make it epic. ",
+    "blurb": "Summer songs. "
+  }
+}

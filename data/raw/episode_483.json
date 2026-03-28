@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "483",
+  "url": "https://ra.co/podcast/483",
+  "id": "483",
+  "__typename": "Podcast",
+  "title": "RA.483 Sassy J",
+  "date": "2015-08-31T00:00:58.000Z",
+  "fileSize": 157239937,
+  "duration": "01:05:26",
+  "imageUrl": "https://static.ra.co/images/podcast/ra483-sassy-j-cvr.jpg",
+  "contentUrl": "/podcast/483",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra483/",
+  "keywords": "Patchwork, Bern, Moodymann, House, Trilogy Tapes, disco",
+  "artist": {
+    "id": "58944",
+    "__typename": "Artist",
+    "name": "Sassy J"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There's no shortage of exceptional resident DJs plying their trade in small cities around the world. Sassy J is one of those DJs. She's had plenty of esteemed guests at her Patchwork night in Bern, Switzerland—Moodymann, MF Doom, Theo Parrish, Sadar Bahar and Floating Points among them—but it's her own wide-ranging approach to playing records that has shaped the party. There's a sense of handcrafted care attached to anything she puts her name to. As well as DJing and promoting, she designs a colourful range of clothes, flyers and record sleeves. \n\nGrowing up in Bern, Sassy J didn't have to look far for musical inspiration—her mother had her own radio show and her father was a jazz musician. As a teenager she began travelling from Switzerland to London to attend Co-Op nights. These parties, initially held at Velvet Rooms and later at Plastic People, were a vital incubator for London's broken-beat scene. Co-Op's sense of freedom and musicality informed Sassy J's own approach to DJing, one that she has fine-tuned at Patchwork. These talents are increasingly in demand outside her native country—she now holds down a steady international touring schedule and in 2014 she was lined up to record a cassette mix for Will Bankhead's label, The Trilogy Tapes. Her style is on full display throughout RA 483, an hour-long selection that builds from smooth house to full-throttle disco. \n\n<b>What have you been up to recently?</b>\n\nJust was in the mountains this weekend, reloading the batteries before recording the mix. Teaching at school. Looking for new music, listening to music, reading, working on one off clothing, watching birds and finding feathers, cooking and a lot of swimming before summer is gone!\n\n<b>How and where was the mix recorded?</b>\n\nWith a Zoom recorder at my soul-brother's place: two turntables, one CDJ and an E&S DJR400. I can focus better there, there's no escaping and he has the same mixer as me. Plus he makes me coffee and snacks!\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWell, I guess I always like to set a mood to start off, then take the journey from there. No strict idea, the music just leads me through it. I go through my records and make piles with tunes I'd like to use for the mix on the rug next to the booth in my living room; a little ordered chaos in various moods. I choose tracks until I feel the journey has its path. That's how this journey happened. Another dance floor meditation. The music speaks for itself.\n\n<b>You used to travel from Switzerland to attend Co-Op parties in London. How influential were these events in your musical education?</b>\n\nCo-Op was a big influence regarding the vibe and the dance. So intense, strictly about the music. Plastic People was a huge inspiration. Another big influence was Theo Parrish playing there. His journeys on the dance floor are still the most precious to me.\n\n<b>What are you up to next?</b>\n\nLooking forward to play at The Trilogy Tapes Vs. Crème Organisazion night at ADE. Working on an exhibition of my work within the near future. And otherwise enjoying life, doing my thing and letting life surprise me.",
+    "blurb": "Dance floor meditation with the Bern DJ."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "570",
+  "url": "https://ra.co/podcast/570",
+  "id": "570",
+  "__typename": "Podcast",
+  "title": "RA.570 Wolfgang Voigt",
+  "date": "2017-05-01T00:00:25.000Z",
+  "fileSize": 146704909,
+  "duration": "01:01:01",
+  "imageUrl": "https://static.ra.co/images/podcast/ra570-wolfgang-voigt-cvr.jpg",
+  "contentUrl": "/podcast/570",
+  "tracklist": "Prefab Sprout - All The World Loves Lovers\nRoy Black - In Japan Geht Die Sonne Auf\nBob Marley - Waiting In Vain\nTexas - You Can Say What You Want\nRobert Palmer - Every Kinda People\nGeorge Michael - A Different Corner\nT. Rex - Hot Love\nScritti Politti - The Word Girl\nCulture Club - Time\nSmokey Robinson - Being With You\nABC - The Night You Murdered Love\nRoxy Music - True To Life\nBarry White - Love's Theme\nBlow Monkeys - Digging Your Scene\nScritti Politti - Absolute\nPrefab Sprout - When Love Breaks Down ",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/320323972",
+  "keywords": "Gas, Kompakt, Pop, Narkopop, poplovesongs, Cologne",
+  "artist": {
+    "id": "1332",
+    "__typename": "Artist",
+    "name": "Wolfgang Voigt"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "This month, Wolfgang Voigt revived his legendary ambient techno project with <i>Narkopop</i>, the first Gas album in 17 years. Gas, with its baroque classical samples and misty atmospheres, was a tribute to Voigt's childhood experiences in German forests, places where he felt most at peace. Voigt's RA podcast taps into a similar swell of memories, chronicling a wide spectrum of pop music from down the years. \n\nVoigt is no stranger to pop music, as anyone familiar with Kompakt, the label he cofounded, should know. A few years ago, he <a href=\"http://www.factmag.com/2014/05/06/my-favourite-record-wolfgang-voigt/\">called</a> Scritti Politti's <i>Cupid & Psyche '85</i> his favourite-ever record. \"The Word Girl,\" the opening track from that pivotal LP, features here, alongside kindred spirits like Prefab Sprout, Culture Club, ABC and outliers like Bob Marley, T. Rex and Texas. It's a trip through lushly-arranged pop and view of the musical history that helped shape the sweeter strains of Kompakt. Voigt will readily admit that he's no DJ, but the mix, which he calls the \"All The World Loves Lovers Happy Hour Popcast,\" is sequenced with the care and tenderness of a true music lover.\n\n\n<b>What have you been up to recently?</b>\n\nWorking on the Gas live performance, rebuilding my home, recording a podcast.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in my studio. I was trying hard to connect (\"mix\") some of my all-time favorite \"poplovesongs\" as good as a \"no-DJ-for-life\" like me might be able to.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nFirst I thought to mix up even more contradictory tracks and styles. But then it felt better to me to focus on this personal kind of \"pop diary.\" It's actually the first time I did that. And I must say I like it.\n\n<b>You've got '80s pop, schlager, '90s rock and reggae all in this mix—what ties these tracks together for you?</b>\n\nPersonal memories, my personal history, irresistibility, secrets.\n\n<b>You're looking back with this mix, and you just released your first Gas album in 17 years. Was returning to the project a nostalgic experience for you?</b>\n\nAbsolutely not. Regarding my age, I am connected with decades of musical history. But I'm not nostalgic in any way, and I do hate retro. I got my very own way and perspective to feel timeless, ageless and up to date all the time. Let's say, in a way, like Karl Lagerfeld or Gerhard Richter.\n\n<b>Is the Gas project influenced by this kind of pop music?</b>\n\nNot in any direct way. But Gas is created by a man who has grown up with, and was influenced by, this kind of pop music.\n\n<b>What are you up to next?</b>\n\nIf I knew that...\n",
+    "blurb": "The Kompakt cofounder writes a personal pop music diary. "
+  }
+}

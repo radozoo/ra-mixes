@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "634",
+  "url": "https://ra.co/podcast/634",
+  "id": "634",
+  "__typename": "Podcast",
+  "title": "RA.634 Acronym",
+  "date": "2018-07-23T00:00:01.000Z",
+  "fileSize": 150154494,
+  "duration": "01:02:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra634-acronym-cvr.jpg",
+  "contentUrl": "/podcast/634",
+  "tracklist": "[<i>Tracks that appear in the mix, in alphabetical order.</i>]\nAmong Spoons - Organik Kayak\nAnonymous - Untitled\nArchetype - Learned Objects\nAural Expansion - Sonic Soil\nBiosphere - The Eye Of The Cyclone\nCabanne - Digital\nChris McCormack - Longwave\nChris McCormack - Fishui\nCristian Vogel - Untitled\nDHS - As High As It Can Go\nEl Turco Loco - 14 Amp\nFym - Science Realism\nMarco Lenzi - Loop 2\nMeat Beat Manifesto - Radiation Dub\nPan Sonic - Kone\nPan Sonic - Vaihtovirta\nRezzQ -  Hump Around\nSamuli Kemppi - Välitila\nSketch - Arbitrary Patterns\nSketch - Inbetween Rocks And Highlands\nStewart Walker - Drive\nUzect Plaush - Discrete Global\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/475473525",
+  "keywords": "Dan Vicente, Northern Electronics, Fluxion, Basic Channel, Stilla Ton, Planetary Boundaries, Semantica",
+  "artist": {
+    "id": "40016",
+    "__typename": "Artist",
+    "name": "Acronym"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Back in April, Dan Vicente, the Swedish artist known as Acronym, gave his first-ever <a href=\"https://www.xlr8r.com/features/get-familiar-acronym\">interview</a>. His answers were sometimes terse, and he didn't seem entirely comfortable, but the exchange did help give a backstory to his music, some of the most affecting techno and ambient of recent memory. Vicente said he listened to extreme metal as a teenager, which could explain the endlessly rolling midrange textures in his techno tracks. Dub techno acts like Fluxion and Basic Channel were also an influence, something you can hear in the vast meditative spaces his music often creates. He also revealed some of the emotions that were channelled into his releases: grief following a friend's suicide, depression that shut him off from the world, anxiety over climate change and the state of the environment. These parts of the interview made plenty of sense. From his early records on Northern Electronics, right through to <i>Burgundy</i>, an EP he released last month on Stilla Ton, his new label, Vicente's music has achieved an incredible sense of emotional depth. \"<a href=\"https://www.youtube.com/watch?v=mU6TcFcmonE\">Mu 1</a>,\" from his first album, is the kind of daybreak ambient track that makes you contemplate existence. \"<a href=\"https://www.youtube.com/watch?v=L_o4oCdyV3c\">Planetary Boundaries</a>,\" released this year on Semantica, evokes the feeling of being lost inside your own mind on a dance floor. \n\nWe get plenty of that on RA.634. Vicente built this 62-minute session using records, studio gear and Ableton, creating a sonic whirlpool that sucks in ambient, house, techno and broken beats. Vicente describes it more simply: \"psychedelic dance music.\" \n\n\n<b>What have you been up to recently?</b>\n\nI have been making/finishing new and old music while preparing the next couple of releases on my newly started label, Stilla Ton. \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in different instances, during a period of about a couple of weeks or so. It was partly recorded in the studio and partly arranged on the road. I used a turntable, a mixer, a bunch of synths, drum machines and effects. Everything was then put together using a computer running Ableton Live.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to present a somewhat current take on psychedelic dance music. It turned out pretty eclectic.\n\n<b>How has 2018 been for you creatively so far?</b>\n \nIt has been a very interesting and good year for me, I think that this might have reflected itself on my creativity and output. I am pretty satisfied with what I have accomplished this year so far, but there always is room for improvement.\n\n<b>What are some of your inspirations outside of music?</b> \n\nThis list could be very long, but to keep it brief: life and death.\n\n<b>What are you up to next?</b>\n\nI probably have around a hundred unreleased pieces of music, it's a good time to start to find ways to present them to my surroundings. Besides that, I will be playing shows around Europe and the Americas as a DJ and live musician.\n\n",
+    "blurb": "One of techno's most inspired artists steps up. "
+  }
+}

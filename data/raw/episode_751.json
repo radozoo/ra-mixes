@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "751",
+  "url": "https://ra.co/podcast/751",
+  "id": "751",
+  "__typename": "Podcast",
+  "title": "RA.751 patten",
+  "date": "2020-10-26T00:00:06.000Z",
+  "fileSize": 132372021,
+  "duration": "00:55:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra751-patten-cvr.jpg",
+  "contentUrl": "/podcast/751",
+  "tracklist": "patten - iiiiio5, [UNRELEASED] (2012)\npatten - Memory Flood, from FLEX [555-5555] (2019)\npatten - Torque, from Aegis [555-5555] (2020)\npatten - Shadowcast, from FLEX [555-5555] (2019)\npatten - Vertigo, from Aegis [555-5555] (2020)\npatten - Slipstream, from FLEX [555-5555] (2019)\npatten - Drip, from Aegis [555-5555] (2020)\npatten - Flame, from FLEX [555-5555] (2019)\npatten - Optics, from Aegis [555-5555] (2020)\npatten - Chimera, from FLEX [555-5555] (2019)\npatten - Empathy Index, from FLEX [555-5555] (2019)\npatten - Labyrinth, from Aegis [555-5555] (2020)\npatten - Snake Eyes, from FLEX [555-5555] (2019)\npatten - Cloak, from Aegis [555-5555] (2020)\npatten - ffffff9, [UNRELEASED] (2012)\npatten - Night Vision, from FLEX [555-5555] (2019)\npatten - VelvetScans, from FLEX [555-5555] (2019)\npatten - Life2, from FLEX [555-5555] (2019)\npatten - Piri Reis, [UNRELEASED] (2005)\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/917712232",
+  "keywords": "Flex, IDM, ambient, jungle, rave, glow, Aegis, ",
+  "artist": {
+    "id": "33701",
+    "__typename": "Artist",
+    "name": "patten"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "One of the four albums that UK artist patten has released in the last year is called <i>FLEX</i>. The title describes his music: in his <a href=\"http://truantsblog.com/2020/interview-patten/\">own words</a>, \"unfixed, liquid.\" In patten's discography, sounds and rhythms flow freely through each other, and genres melt. His work covers ambient, IDM, jungle, even approaching trap and breakcore, and lately, he hasn't been shy about showcasing his love for rave music, or just how well he can make it. (Joe Muggs' <i>RA</i> <a href=\"/reviews/24454\">review</a> of <i>FLEX</i> said it \"oozes old school-rave values.\") Of course, that's not all he can do—he also released a gorgeous ambient album <a href=\"/news/72901\"><i>GLOW</i></a>, a doom metal-inspired counterpart called <a href=\"https://patttten.bandcamp.com/album/glo\"><i>GLO)))</i></a> and, most recently, <a href=\"/news/73667\"><i>Aegis</i></a>, which sounds like mid-'90s IDM chewed up and spat out. (Oh, he also made a beautiful ambient <a href=\"/news/73120\">mix</a> out of pulverized Ariel Pink tracks.)\n\nHis <i>RA</i> podcast, made entirely of original music—some from those recent records, some never released, some from all the way back in 2005—is a showcase of not only patten's versatility but his originality, and the way he can cut through so many styles of music and leave his own mark behind. This could easily be a banging club mix from a DJ with a bag of secret weapons, but it's even more impressive that they're all by the same person. There are stretches of flighty jungle, booming hip-hop drums, techno and more, all with the detailed, liquid and unpredictable sound design that makes patten's work so distinctive.\n\n<b>What have you been up to recently?</b>\n\nEverything and nothing. Like a mad amount, but pretty much all in one place. It's weird right now how people are restricted physically, so compensating on the mental side. Fully insane how the government here is basically sidestepping any decent support for people working in the arts when what they make is exactly what's keeping everyone sane right now.\n\n<b>How and where was the mix recorded?</b>\n\nYesterday. Firing synapses.\n\n<b>Can you tell us the idea behind the mix?</b>\n\nIt's stuff from <i>FLEX</i> and <i>Aegis</i>, and a few unreleased tracks from 2012 and 2005. Time flies by so fast. Seemed right to collect a few of these things in one place. That 2005 might be one of the first patten tracks.\n\n<b>You've released four albums in the past year, including several releases since the pandemic happened. Has this otherwise tough period been especially productive for you, and why?</b>\n\nNot massively more productive than usual. Made whole albums of music over the years that were never released.\n\n<b>555-5555 started as a message board and has since become a label and creative agency. Has it created the kind of community you hoped for? What are your future plans for 555-5555 and what would you like it to be?</b>\n\n555-5555 was the clubnights first, then the agency, radio show, forum, and then label. 555-5555 can be anything. There's another iteration incoming soon. Really surprised by the forum. It's still going strong years down the line from the launch. People massively go in on stuff in there. Nothing else like it really right now. Somehow it's stayed really civil and respectful with almost zero intervention in all that time. \n\n<b>What are you up to next?</b>\n\nEverything. More everything.\n",
+    "blurb": "An hour of decade-spanning, rave-ready original material.\r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "291",
+  "url": "https://ra.co/podcast/291",
+  "id": "291",
+  "__typename": "Podcast",
+  "title": "RA.291 Lee Foss",
+  "date": "2011-12-26T00:01:28.000Z",
+  "fileSize": 116168781,
+  "duration": "01:36:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra291-lee-foss-cvr.jpg",
+  "contentUrl": "/podcast/291",
+  "tracklist": "Melchior Productions - Her Majesty\nSBTRKT - Pharoahs\nJoyce Muniz - Malacia Feat Sket H\nFranck Rodger - After All\nTyto Alba - Dusky\nStorm Queen - It Goes On (Vox)\nNo Artificial Colors - Girl You Know\nRemain - Rogue (Populette Remix)\nBongo Born (Tale Of Us Edit)\nT-Boy & Wildkats - To Be\nNina Kraviz - Ghetto Kraviz\nDaphni - Yes, I Know\ntbc\nSuperfunk - Lucky Star (Solomun Remix)\nFred Falke - Love Theme\ntbc\nOliver Nickels - Velvet Graveyard\ntbc\nMidland - Through Motion (Tevo Howard Remix)\nDaniel Bortz - Can't Sleep At Night\ntbc",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra291/",
+  "keywords": "Lee Foss, Hot Natured, House, hot, creations, Party, Jamie Jones, RnB",
+  "artist": {
+    "id": "2703",
+    "__typename": "Artist",
+    "name": "Lee Foss"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jamie Jones may be the more widely recognized half of Hot Natured, but this is no Batman/Robin dynamic. Lee Foss' background in '90s hip-hop and R&B has arguably been the defining influence on the house sound that's propelled the duo and their label, Hot Creations, to the global position in which they now find themselves. This fusion has, for countless people, been the soundtrack to 2011. There's been quite a journey up to this point, though. Foss was a full-time DJ back in his hometown of Chicago, travelling to London and Ibiza for seasons, and eventually relocating west to LA. It was, however, his more recent move to London—and with it an opportunity to work more closely with Jones—that the pieces began to properly fall into place. What's followed is world tours, critical acclaim and <a href=\"/event.aspx?305539\">a party</a> that sold out in (literally) hours.  \n\nNever one to shy away from the party vibes, Foss here dips into a selection of his recent favourites—a no brainer for New Year's Eve, then. \n\n<b>What have you been up to recently?</b>\n\nA lot of traveling, in the last month especially. Occasionally getting the chance to get in the studio to work on my album or the Hot Natured album. Done some work with MK recently as well.\n\n<b>How and where was the mix recorded?</b>\n\nI did it in November while touring N/S America in airports and hotel rooms, and made a few changes in December. I did it in Ableton.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI think it was just some of the stuff that's been moving me in the late fall that I thought would work at home or in the car or at an afterparty.\n\n<b>You and the imprint have enjoyed a huge amount of success this year. What do you personally chalk this up to?</b>\n\nI think that Hot Creations is successful because we're coming from an honest place musically and we try to make sure everything is perfect before we move forward with anything. Those things in concert usually win people over. We really feel all the music that we make and release and were excited about it. It shines through at the parties and in the music.\n\nJamie and I are also really lucky to be in the position we are. We've been working DJs and producers long enough to be very good at both crafts in our own right and they really tie into each other more than you can explain. It does feel nice at the end of the year to look back and feel like as a brand we accomplished everything we set out to do. It energizes me for next year for sure.\n\n<b>You've spoken before about there being a backlash against what you guys do at some point. What are your thoughts on this?</b>\n\nYeah I've been asked the backlash question and I've answered it. Why would you think about the haters or the backlash at all? All you can do is improve what you do creatively. If people love the product, cool…If they don't then OK, move on…From a personal standpoint as an artist I have a plan for what I need to do to grow as a musician and I've taken those steps. As a label I think we need to work even harder.\n\nI mean, yeah, a target is on our back, but so what? There are a lot of DJs out there who'd love for the target to be on theirs. All you can do is make the best music you can and constantly evolve with what's inspiring you. Any thoughts you have about changing or not changing based on hate are counterproductive. Grow with what moves you.\n\n<b>What are you up to next?</b>\n\nI'm in the process of finishing my artist album and the Hot Natured album; I'm doing some studio work with MK as well this winter, which is cool. I'm taking all of February off from touring, which is weird for me, but I'm excited about it as I'm on the personal growth tip. Looking forward to spending time with my cats Devin and Hester. Also looking forward to <a href=\"/news.aspx?id=15200\">BPM Festival</a> and Miami at the beginning of the year and a two week tour of Brazil. I spend all of January - March in N/S America.",
+    "blurb": "House party house from one half of Hot Natured."
+  }
+}

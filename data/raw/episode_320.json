@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "320",
+  "url": "https://ra.co/podcast/320",
+  "id": "320",
+  "__typename": "Podcast",
+  "title": "RA.320 Shlohmo ",
+  "date": "2012-07-16T00:01:30.000Z",
+  "fileSize": 62268716,
+  "duration": "00:51:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra320-shlohmo-cvr.jpg",
+  "contentUrl": "/podcast/320",
+  "tracklist": "Sandro Silva & Quintino - Epic (Screwed edit)\nRas G - Coto Loco\nDuke Dumont - Lean & Bounce (Screw edit)\nDJ Slugo - ___ (Screw edit)\nWinx - Hypnotizin Remix (Screwed)\nDJ Lemo - ___ (Screw edit)\nJeff Phelps - Sometime Lover (Screwed)\nRemarc - R.I.P. (Phillip D. Kick Footwork Jungle Remix) ((Screw edit))\nDJ Rashad - Teknitian (Screw edit)\nDJ Nate - Ima Burn Him (Screwed)\nLapalux - Time Spike Jamz (Devonwho Remix) ((Screw edit))\nJa Rule & Ashanti - What's Love (Screw edit)\nBurial - Stolen Dog (Screwed)\nGroundislava - Cider (Screwed)\nZomby - She Loves Me Not (Screwed)\nFibre Foundation - Free Your Mind (Screwed)\nDark Sky - High Rise (Screwed)\nRl Grime - Amphibian (Shlohmo + 2kwtvr Remix) ((Screwed))\nRyan Hemsworth - Overthinking (Screwed)\nRick Ross Feat. T Pain - Bag Of Money (Screwed)\nBlackstreet - Deep (Screwed)\nJacques Greene - Another Girl (Screwed)\nGroundislava - My Birthday (Screwed)\nRicky Eat Acid - Only Girl ((Xxxl Screwed))",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra320/",
+  "keywords": "Shlohmo, bad vibes, Henry Laufer, hip hop, shoegaze, lo-fi, Friends of Friends",
+  "artist": {
+    "id": "24210",
+    "__typename": "Artist",
+    "name": "Shlohmo"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"...a breakthrough for a young producer finally emerging with an individual and inventive style previously only hinted at,\" wrote Andrew Ryce on 2011's <i>Bad Vibes</i>, the <a href=\"/review-view.aspx?id=9535\">RA recommended</a> full-length from Henry Laufer as Shlohmo. The album had shed what Ryce referred to as a density in Laufer's previous work, presenting 13 tracks that attached hip-hop, shoegaze and lo-fi signifiers to its highly intimate central narrative. Voice manipulation was another of the album's key facets. Laufer later <a href=\"/feed-item.aspx?id=47973\">explained</a> that his fascination with sample-based vocal acrobatics stemmed from late '90s / early '00s R&B but also screwed music, the style of '90s hip-hop that originated in Houston and was pioneered by the late DJ Screw and labels like Swishahouse. Laufer returned to Friends of Friends (the former RA <a href=\"/feature.aspx?1358\">label of the month</a> that released <i>Bad Vibes</i>) with the <i>Vacation EP</i> earlier this year, a package that through its remixes—Airhead, Nicolas Jaar—drew intriguing parallels between the LA beat scene Laufer is loosely affiliated with and what was going on much further afield. \n\nOn RA.320 Laufer takes his previously stated love for chopped n screwed music, tilts back the heads of hip-hop, house, juke and R&B, and throws gallons of purple drank down their collective throats.     \n\n<b>What have you been up to recently?</b> \n\nI'm out in Berlin at the moment. Been touring around Europe playing at some festivals. Shit's been crazy + cool + rad 2 me. \n \n<b>How and where was the mix recorded?</b>\n\nAt my apartment in New York. I take a really long time to make mixes. I'm on some weird OCD shit. I guess I worked on this one on and off for like a month.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nBasically me and my Wedidit brethren have been fucking around recently slowing down big room house tunes and old d&b and '90s vocal house shit real, real slow. Like taking 160 BPM d&b tunes and screwing them down half speed to 80. Then we realized you could mash that shit with double time footwork stuff and it sounds real 2 us. \n \n<b>Have you had an opportunity to play out this type of set before?</b>\n\nIt's super rare, just cus it's like generally too bizarre for the club. In the right setting though...\n\n<b>What are you up to next?</b>\n\nMoving back to LA. Trying to start working on a new album this year. About to be doing a lot more shit with Wedidit, our imprint/collective. Hopefully get on some more production and remix shit for folks. Speaking of which, there's some cool stuff in that vein of things on its way too. Don't wanna say too much I guess. You'll see. ",
+    "blurb": "The dance floor gets chopped n screwed. "
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "52",
+  "url": "https://ra.co/podcast/52",
+  "id": "52",
+  "__typename": "Podcast",
+  "title": "RA.052 Alexander Robotnick",
+  "date": "2007-04-09T00:00:52.000Z",
+  "fileSize": 97735039,
+  "duration": "01:21:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra052-alexander-robotnick-c.jpg",
+  "contentUrl": "/podcast/52",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra052/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:911"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Robotnick has had a long and colorful history, including scoring films in the eighties and joining a world music troupe in the nineties, but he’s most celebrated for his pioneering electro tracks such as ‘Problèmes D'Amour’ from 1983. “When I first made the track, I was Italian and I didn’t speak English. I was a really provincial man from Italy,” Robotnick told Jonty Skrufff in 2005. “So I was aware of the quality of the track but I didn’t believe it would get successful at all.” It did, becoming one of the cult classics of the genre. Fast forward twenty years and when a younger generation of musicians revived Italo and electro, and paid tribute to Robotnick in their mixes, Robotnick had a change of heart, putting aside ambient and world music to return to electro in 2001. First out of the block was the artist album ‘Oh no…Robotnick’ and the mix compilation ‘The Disco Tech of...Alexander Robotnick’ [2005], the success of which encouraged Robotnick to embark upon a rather belated new career as a DJ/live act. But it wasn’t quite a return to the old school: After years of hating vinyl, Robotnick bought a laptop and got back into the club act with Ableton Live and a unique DJ act/live show that’s been popular at nights throughout Europe, America and Japan.\n\nToday Alexander Robotnick still lives in the Italian countryside. He even sent his mix to the RA office via post, because “they don’t have broadband where I live.” But there’s nothing provincial about his mix, which stitches together acid, electro, eighties pop and even a bit of progressive in a timeless and hugely fun fashion.\n",
+    "blurb": "This week’s podcast is a selection from electro godfather Alexander Robotnick."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "22",
+  "url": "https://ra.co/podcast/22",
+  "id": "22",
+  "__typename": "Podcast",
+  "title": "RA.021 Maurice Fulton",
+  "date": "2006-08-21T09:00:31.000Z",
+  "fileSize": 53245187,
+  "duration": "00:55:26",
+  "imageUrl": "https://static.ra.co/images/podcast/ra021-fulton-cover.jpg",
+  "contentUrl": "/podcast/22",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra021/",
+  "keywords": "",
+  "artist": {
+    "id": "768",
+    "__typename": "Artist",
+    "name": "Maurice Fulton"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "His name is one of those unexpected recurrences in dance music: in the nineties his hand was behind ‘Gypsy Woman’ by Crystal Waters, one of the most successful house tunes of era, and these days he’s the darling of both the underground house and leftfield scenes both as a DJ and a producer.\n\nAs a producer, Fulton’s fingers were behind the desk on his wife Mu’s longplayer ‘Out of Breach’ in 2005, and his own productions on Transfusion and Discfunction are well worth checking. Recently Fulton has been bringing home the bacon as a remixer, with his name in brackets on tracks by Walter Jones, Annie, !!!, Icube, The Rapture, Fred Everything, Chicken Lips and Chateau Flight. See the pattern? Neither do we, and his RA mix is similarly surprising, connecting the dots between between soul, house, disco and experimental electronics in a confounding and convincing fashion. Retro future music sitting a little out left of the middle, on a journey to who knows where. Enjoy.\n",
+    "blurb": "One of house music's true originals, Maurice Fulton, graces the RA Podcast with a mix that connects the dots between soul and experimental electronics."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "904",
+  "url": "https://ra.co/podcast/904",
+  "id": "904",
+  "__typename": "Podcast",
+  "title": "RA.904 Diskonnected",
+  "date": "2023-10-01T23:00:56.000Z",
+  "fileSize": 284769519,
+  "duration": "01:58:39",
+  "imageUrl": "https://static.ra.co/images/podcast/ra904-diskonnected-cvr.jpg",
+  "contentUrl": "/podcast/904",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra904-diskonnected/",
+  "keywords": "",
+  "artist": {
+    "id": "14814",
+    "__typename": "Artist",
+    "name": "Diskonnected"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When <a href=\"https://soundcloud.com/smokemachinetaipei\" target=\"_blank\">Smoke Machine</a> started doing parties in Taipei, and then created a revered online mix series, it was clear that it was the work of someone with impeccable taste. That would be Diskonnected, once a resident at the beloved Taiwan club Korner who now posts up at Pawnshop and 宀 in Hong Kong. He's also behind <a href=\"/features/4178\" target=\"_blank\">Organik</a>, a festival that takes place on the coast of Taiwan and has become one of the world's top techno gatherings in just over a decade.\n\nTrue to his alias, the elusive artist likes to switch off from the world. He rarely makes his presence known online, sparingly accepting press and mix requests. He's not one to seek attention—in fact, he actively avoids it—but there's a spotlight on him regardless.\n\nEverything Diskonnected does is executed with patience and class, but don't mistake that for restraint. His style of weightless techno shimmers with the spirit of nature, moving with aerodynamic force. On his <i>RA</i> Podcast, we hear a six-hour all-night set recorded at 宀 earlier this year, keeping an open-ended view of techno as it barrels on, gradually getting faster all the while. It's clichéd to say that if you know you know, but truly, anyone who knows about Diskonnected knows that he's one of the world's greatest techno DJs, with a style and flair that feels both old-school—or maybe just late '00s—but also cutting-edge.\n\n<b>What have you been up to recently?</b>\n\nFirst of all, many thanks for this invite and the question. I had quite a hectic summer, with a long tour through the US, which was wonderful, and several shorter tours in Asia in August. The latter has been particularly lovely, showing that we are building a good, well-connected scene in Asia that can provide gigs for artists and a pathway to becoming a professional artist. When not touring, I am either on Discogs or playing <i>Zelda: Tears of the Kingdom</i>.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded early March 2023 at 宀 Club in Hong Kong. It was a special night to me, and hopefully for the audience also, as it was the start of a new residency at this club. As one of the finest clubs in Asia, with an excellent capacity of around 100 people and one of the better-tuned sound systems, having a residency there has been bliss. As part of the residency I play six times a year, all night long sets, and this is a recording of the first night. Starting at 11 PM at 90 BPM and finishing at 5 AM at around 160 BPM was quite a trip—an opportunity I rarely get. When you asked for a podcast, the recording of this night immediately came to mind, illustrating the vibrancy of the club and the music, as well as showcasing how music can, throughout the night, create so many different energies. \n\nAll night long sets are very challenging, but entirely conducting a night is also very rewarding, especially in a place like 宀 where people behind the space and generally their crowds have precise ideas of what they want.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nUndoubtedly, the club Korner, which was located southwest of Taipei. The club, itself a spontaneous electronic music club that evolved from a rock venue, was where I got my first residency. It was home to the Smoke Machine parties, and I spent most of the nights of the prior decade there. The space was free, open, and accessible, providing a friendly crowd of music heads, rockers, and the occasional tourist. A bit after the closure of Korner, I settled in Pawnshop, the current center for my music experiments, with great crowds and parties that go until early in the morning.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nI will be happy if people find more dialogue and listen to each other. We should hear and respect that diversity is a given and a blessing.\n\n<b>What are you looking forward to in the near future?</b>\n\nIt sounds a bit cliché, and indeed, that has been written here on the platform, but after a long summer of touring, it has been nice to wind down, relax and dig for new music. While touring is excellent, as it is the best way to connect my music with the audiences, digging for music is just something that feels natural to me. ",
+    "blurb": "One of techno's most exciting DJs recorded live in Hong Kong."
+  }
+}

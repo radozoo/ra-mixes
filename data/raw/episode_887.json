@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "887",
+  "url": "https://ra.co/podcast/887",
+  "id": "887",
+  "__typename": "Podcast",
+  "title": "RA.887 Shinedoe",
+  "date": "2023-06-04T22:00:46.000Z",
+  "fileSize": 187218095,
+  "duration": "01:17:49",
+  "imageUrl": "https://static.ra.co/images/podcast/ra887-Shinedoe-cvr.jpg",
+  "contentUrl": "/podcast/887",
+  "tracklist": "Imaginary Softwoods - Mr. Big Volume\nDJ Godfather - 1200s Are Lit\nHemka - Great Basin\nShinedoe – Expressionisme (Truncate Remix) \nJon Hester – Expanse \nMarcal – Bionic Jungle\nR.M.K – Mind\nDimi Angélis - Exile (Oscar Mulero 1969 Remix)\nDeetron – Friction \nDispar Vulgo - Daydreams Of A Megalomaniac \nShinedoe - SHINE (Ritzi Lee Remix)\nJames Ruskin - From The Ashes\nMarco Effe - Systematism \nProcomb - Fury\nRemco Beekwilder – Transmax\nJ.C. - Farewell For Walls\nBjarki – Do You Like Yourself\nShlomi Aber – Agua\nShinedoe - Wake Up (Keith Carnal Remix)\nShinedoe – Floor Action\nShinedoe – Freedom Riders\nEspion- Laserboy\nSlam – Beat Control\nFilipe Barbosa - Teatro",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra887-shinedoe",
+  "keywords": "",
+  "artist": {
+    "id": "807",
+    "__typename": "Artist",
+    "name": "Shinedoe"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "At the age of 16, Shinedoe was already comfortable in the club. The Dutch artist started dancing at parties as a part-time job while studying before finding her way behind the decks. She landed her first big DJ booking at Amsterdam club Paradiso at the tender age of 19 and her first single, \"<a href=\"https://www.youtube.com/watch?v=aqo9JrAkl-Y\" target=\"_blank\">Dilemma</a>,\" from 2004, quickly became an Ibiza favourite. All of this is to say that she knows how to move a room.\n\nInfluenced by Detroit techno pioneers like Robert Hood, Shinedoe's mixes and productions are full of jacking kicks and big-room basslines. Funky, slamming rhythms are her forte and even when she focuses on minimalist tech house or darker sounds, there's always some zest sprinkled in, in the form of electro and breaks.\n\nFor her <i>RA</i> Podcast, the Intacto Records and Music That Moves founder offers a variety of powerful techno cuts. There's DJ Godfather's turntablist take, her own acid-tinged mindbenders and a hard, no-nonsense banger from Glasgow duo Slam to conclude. It's the kind of punchy mix that can pull in any kind of dance music fan, techno head or not. \n\n<b>What have you been up to recently?</b>\n\nI have been travelling for gigs. Busy with the upcoming <i>Freedom Riders</i> album remix package on my label MTM Records. The remixes are by Truncate, Keith Carnal, Ritzi Lee and Lawrence. I just approved the test pressing, so the vinyl will be pressed soon.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix is recorded at my home. This set reflects what I like to play in the clubs and also what I enjoy listening to—a variation of techno (hypnotic, deep, raw and strong), acid and electro. I love to play different sounds of dance music. I just let my soul lead the way. It’s all in the moment.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nI don’t have a particular spot. I just love taking the crowd on a journey and giving them a special experience. How small or big it is doesn’t matter, for me it’s all about the energy.\n\n<b>You're one of the more prominent techno producers in Amsterdam, and have been DJing and making music for a long time. Do you think there's anything unique about the Amsterdam techno scene and the sound of the city's music?</b>\n\nThe techno scene in Amsterdam is very strong. You can see it in the programming of the clubs, parties and festivals. The sound of the city is also very diverse, and that makes it special. There is music for everyone.\n\n<b>How has your own approach to techno changed over the years?</b>\n\nI started DJing when I was 19 years old. DJs back then played a mix of every sound they liked. There was not strong genre labelling and categorising as there is now. For me it was all about the sound, not the genre, who produced the track or the label. \n\nIn the mid-'90s I played really fast, a mix of (Detroit) techno mixed with Swedish and UK sounds. Beginning in 2000, I was fed up with the loopy techno sound and played deeper, minimal techno, house and other stuff. Now I play diverse sounds of techno, and mix it up sometimes with electro, house or ambient. It all depends on the event. I love to take the crowd on a journey.\n\nFor me it is important that each track I play or produce has to resonate with my soul. My approach is still the same.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nA big question. What pops into my mind is respect, love and equality.\n\n<b>What are you looking forward to in the near future?</b>\n\nI have been looking often forward to the near future with my album, releases etc. Now I just want to be in the here and now. Go with the flow of life. Anything can happen in the future. For now, it's about DJing and producing.",
+    "blurb": "Mighty, melodic techno old and new from an Amsterdam icon."
+  }
+}

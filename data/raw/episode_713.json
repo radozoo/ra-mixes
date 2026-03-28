@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "713",
+  "url": "https://ra.co/podcast/713",
+  "id": "713",
+  "__typename": "Podcast",
+  "title": "RA.713 Rosa Pistola",
+  "date": "2020-01-27T00:00:29.000Z",
+  "fileSize": 119784588,
+  "duration": "00:49:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra713-rosa-pistola-cvr.jpg",
+  "contentUrl": "/podcast/713",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/750164242",
+  "keywords": "Reggaeton, Melting Point, Hinge Finger, EDOMEX, mambo urbano",
+  "artist": {
+    "id": "91613",
+    "__typename": "Artist",
+    "name": "Rosa Pistola"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"I think reggaeton is going to continue conquering the entire world,\" Rosa Pistola told us in the interview below. \"It already is a kind of pop music, and over time, it's going to become more international, with different fusions.\" The Colombian DJ is doing her bit to drive things forward. She has in recent times become a kind of unofficial ambassador for the sound, playing New York's <a href=\"/features/3536\">Melting Point</a> party, a Hinge Finger night in South London, and appearing at influential festivals like Unsound and Primavera. Her international reputation is on the uptick, but in Mexico she's already an established star. \"I swear it's like I'm fucking Madonna,\" she told <a href=\"https://www.dazeddigital.com/music/article/45049/1/rosa-pistola-dazed-mix-interview\"><i>Dazed</i></a> about her gigs in the region surrounding Mexico City. \"People cry, there's like a three-hour line to take a photo with me.\"\n\nIt's easy to see why she's so popular. Pistola plays a raw, street-level style of reggaeton, tapping into her home country's deep well of producers, and she brings a swagger, attitude and energy to her sets. On her RA Podcast, which Pistola recorded inside her home studio in Mexico City, she is in all-out party mode, throwing down a rowdy selection of floor-fillers.\n\n\n<b>What have you been up to recently?</b>\n\nI'm making a lot of music and searching out new artists. I want my focus professionally this year on collaborations with South and Central American artists.\n\n<b>How and where was the mix recorded?</b>\n\nI did the mixtape in my studio at home on my cd players, a very chill and private space. (my little bubble).\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nI usually like making more thematic mixtapes, but this time, I wanted to show how my set would sound in a party. I put a little bit of everything... most importantly, a lot of Mexican reggaeton.\n\n<b>What's the club scene like in Mexico City right now?</b>\n\nI work every weekend so I don't get to see much of what's happening at the other parties in the city, but what's exciting for me are the underground parties in the EDOMEX (Estado de México)... they are usually in very random places, they usually don't have the best sound, but definitely the best vibe.\n\n<b>As we head into a new decade, where do you see reggaeton heading?</b>\n\nI think it's going to continue conquering the entire world. It already is a kind of pop music, and over time, it's going to become more international and with different fusions, because of the mix of cultures. \n\n<b>What are you up to next?</b>\n\nThis year I want to make three albums, so I'm working hard. Also, I'm experimenting more and more with merengue and mambo urbano. \n\n",
+    "blurb": "The reggaeton sound of Mexico City. \r\n"
+  }
+}

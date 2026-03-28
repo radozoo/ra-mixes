@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "310",
+  "url": "https://ra.co/podcast/310",
+  "id": "310",
+  "__typename": "Podcast",
+  "title": "RA.310 Shifted",
+  "date": "2012-05-07T00:01:30.000Z",
+  "fileSize": 72062564,
+  "duration": "01:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra310-shifted-cvr.jpg",
+  "contentUrl": "/podcast/310",
+  "tracklist": "Prurient - Mask Of Roses - Hospital Productions\nAncient Methods - AM - 1 A1 - Ancient Methods\nProduction Unit - Broken20.1 - Broken20\nSHXCXCHCXSH - kxxkxxxkkxx - Semantica\nNX1- NX1_02_004 - NX1\nTerrence Fixmer - When The Sun - Electric Deluxe\nRodhad - Thoughtcrime - Dystopian\nROD - HGB - CLR\nDamon Wild - Linear - Synewave\nMarkus Suckut - False\nReeko - Segmento 1 - Ella\nTruss - Beacon - Our Circula Sound\nForward Strategy Group - Labour Division - Perc Trax\nRoberto - Stepping Stones (ROD Remix)\nAlexander D'niel - Klona (Truncate Remix) - EarToGround\nShifted - Suffocate - Mote-Evolver\nESP - Idiom ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra310/",
+  "keywords": "Shifted, techno, drained, Our Circula Sound, Syndrome Z, Crossed Paths",
+  "artist": {
+    "id": "20122",
+    "__typename": "Artist",
+    "name": "Shifted"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In order to avert attention from a famed career within another genre, the guy behind Shifted chooses to remain anonymous. It appears to have worked. Rather than comparisons to his prior achievements, the talk regarding his output over the past 12 months has been centred on Shifted's often bleak—and always textually rich—run of releases. In truth, he was always likely to be taken in earnest with a debut (<i>Drained</i>) on Luke Slater's Mote-Evolver. Evidently buoyed by his new-found creative freedom, Shifted went on to work with promising upstart techno imprints Our Circula Sound and Syndrome Z (and started his own, Avian, with fellow shadow-seeker Ventress) while continuing a relationship with Mote-Evolver which culminated in April of this year with <i>Crossed Paths</i>, his striking debut album. \n\nAs you'll likely be able to tell from the tracklist below, Shifted's interest in techno predates any serious involvement with the music industry, with time-honoured tracks by ESP and Damon Wild rubbing up against exciting newcomers like ROD, Markus Suckut and Rødhåd. \n\n<b>How and where was the mix recorded?</b>\n\nWhen I DJ in clubs I use vinyl and CDs, but this mix was completed in Ableton. I tried to do it in the most natural way possible, didn't do much pre-planning and just rolled it out from the session view, making a few edits and changes once the body of it was down.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's basically just trying to represent what I might do in a club, playing new music from my peers and also digging into older stuff to pull out some things that people are either not aware of or don't hear often.\n\n<b>How did you become involved with Luke Slater's Mote-Evolver imprint?</b>\n\nI've known Heidy, who is the label manager at Mote-Evolver, for some time. She used to work at fabric back in the day so I met her there. We got in contact again and when she told me what she was doing now I sent over a bunch of music for her and Luke to check out. Thankfully they were into it and we did the first Shifted record from that first bunch of tracks. \n\n<b>Lots of commenters seem to have picked up on the sound design aspect of <i>Crossed Paths</i>. Is this a particular passion of yours?</b>\n\nYeah, it's interesting you say that because I always thought that was my weakest area. I write very quickly compared to a lot of people I know, and have no patience for sitting down obsessing over one sound for days on end. I guess over time I've been writing music I've just picked up a lot of techniques that make it sound like there is more going on than there actually is. I'm not a fan of over-produced music. I'd much rather something was a little rough around the edges but still had character.\n\n<b>What are you up to next?</b>\n\nAside from the projects that I mentioned before I'm just touring, thinking about album number two, completing a number of remixes and trying to turn Avian into a proper label rather than something that pops up twice a year with a hand-stamped 12-inch. I'm also starting a project with another producer and friend that will involve guitar and vocal elements. \n\nPhoto credit: Jimmy Mould",
+    "blurb": "Textured techno from one of the genre's new key players. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "257",
+  "url": "https://ra.co/podcast/257",
+  "id": "257",
+  "__typename": "Podcast",
+  "title": "RA.257 O/V/R",
+  "date": "2011-05-02T00:01:22.000Z",
+  "fileSize": 68103181,
+  "duration": "00:56:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra257-ovr-cvr.jpg",
+  "contentUrl": "/podcast/257",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra257/",
+  "keywords": "OVR, O/V/R, Ruskin, Regis, techno, Berghain, Sandwell",
+  "artist": {
+    "id": "24780",
+    "__typename": "Artist",
+    "name": "O/V/R"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "O/V/R is the production outfit of James Ruskin and Karl O'Connor, AKA Regis. The pair are techno figureheads in their own right. Ruskin is boss of the long-serving Blueprint label, an outlet which since 1996 has been one of the go-to platforms for quality UK techno. Regis, meanwhile, has been playing and producing music since the early '90s. He began the seminal Downwards imprint in 1993, which to this day is still emitting \"bleak, imperious\" post-punk and techno, and rolls as part of the Sandwell District collective. As O/V/R the pair has proffered a pair of 12-inches to date. The most recent, 2010's <i>Post-Traumatic Son</i>, was fleshed out by three sets of remixes, which featured versions from Marcel Dettmann, Ben Klock, DVS1 and Robert Hood. \n\n\"The O/V/R live shows are based around a collection of increasingly random equipment, and tend to swing between structure and total chaos,\" Ruskin told <i>Juno Plus</i> earlier this year, although you wouldn't necessarily have guessed as such from this measured performance. Over the course of an hour their set is at once imposing, bleak and triumphant—techno at its most refined. \n\n<b>How and where was the mix recorded?</b>\n\nThe set was recorded live in Berlin earlier this year.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nIt's a live interpretation of the O/V/R sound.\n\n<b>How and why did the O/V/R project start out?</b>\n\nThe project began around five years ago. We were working together at various gigs and from that we decided to move the project into the studio, but allow the music to evolve before anything was released. It was important that we began releasing the material at the right time, and the re-launch of Blueprint was the perfect opportunity.\n\n<b>How does the project work in the live setting? Who does what?</b>\n\nWe have a main idea of how the set will be structured and how it will evolve, but this can be deconstructed to suit the environment we are playing. The sequenced material is coupled with various effects units and sound generators that are manipulated and played manually within the set.\n\n<b>What are you up to next?</b>\n\nWe have various ideas and material ready, and now that the <i>Post-Traumatic Son</i> series has come to an end we can put together the next release.",
+    "blurb": "Ruskin and Regis are live. "
+  }
+}

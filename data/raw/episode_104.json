@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "104",
+  "url": "https://ra.co/podcast/104",
+  "id": "104",
+  "__typename": "Podcast",
+  "title": "RA.104 Quiet Village",
+  "date": "2008-05-26T00:00:14.000Z",
+  "fileSize": 72045648,
+  "duration": "01:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra104-quiet-village-cover.jpg",
+  "contentUrl": "/podcast/104",
+  "tracklist": "01  <a href=\"/dj-page.aspx?id=3307\">Quiet Village</a> - Victoria's Secret - <a href=\"http://www.residentadvisor.net/record-label.aspx?id=526\">!K7</a>\n02  <a href=\"http://www.residentadvisor.net/dj-page.aspx?id=814\">Rhythm & Sound</a> - Jah Version - <a href=\"http://www.residentadvisor.net/record-label.aspx?id=821\">Burial Mix</a>\n03  Jackie Mittoo - After Xmas - <a href=\"http://www.residentadvisor.net/record-label.aspx?id=949\">Soul Jazz</a>\n04  Warp 69 - Natural High (Global Communication remix) - Dedicated\n05  Led Zeppelin - Babe I'm Gonna Leave You - <a href=\"http://www.residentadvisor.net/record-label.aspx?id=1051\">Atlantic Records</a>\n06  Stelvio Cipriani - Main Theme from Blindman - Digitmovies\n07  <a href=\"http://www.residentadvisor.net/dj-page.aspx?id=3307\">Quiet Village</a> - Gold Rush - <a href=\"http://www.residentadvisor.net/record-label.aspx?id=526\">!K7</a>\n08  Sergio Mendes - Crystal Illusions - A&M\n09  Celestine Okwu - Okwukwe Na Nchekwube - Soundway\n10  US69 - On My Way - Buddah",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra104/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:3307"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Joel Martin and Matt \"Radio Slave\" Edwards are the two men that make up Quiet Village, but it might be more accurate to say that the records that Martin and Edwards own are Quiet Village. <i>Silent Movie</i>, their debut full-length, is about as sample-heavy as any hip-hop offering, utilizing obscure and not-so-obscure sources to create up 21st century update on loungey exotica. Martin and Edwards aren't so much beat merchants, though, as much as they're interested in vibes. <i>Silent Movie</i> is a voyage into Balearic territory, where '50s eccentricity sits alongside the Chi-Lites and dub matches well with Italian film soundtracks.\n\nThe same can be said for the duo's RA podcast. An hour-long home-listening mix, the duo floats along with some of their favourite records in tow, including a healthy dose of dub (Rhythm & Sound, Jackie Mittoo), ambient, downtempo and even a little bit of Led Zeppelin. Turn off the lights, sit back and drift away.",
+    "blurb": "Musical holidaymakers Quiet Village take a psychedelic voyage on RA.104."
+  }
+}

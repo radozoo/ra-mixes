@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "438",
+  "url": "https://ra.co/podcast/438",
+  "id": "438",
+  "__typename": "Podcast",
+  "title": "RA.438 Aquarian",
+  "date": "2014-10-20T00:00:04.000Z",
+  "fileSize": 132383356,
+  "duration": "00:55:03",
+  "imageUrl": "https://static.ra.co/images/podcast/ra438-aquarian-cvr.jpg",
+  "contentUrl": "/podcast/438",
+  "tracklist": "Graze - Thundare\nBarker - Like An Animal (Chrome Fist VIP)\nAkkord - Typeface\nAnD - Lights Down\nSigha - Scene Couple\nGingy - Fukushima\nPris - Dust\nAden - Move\nKamikaze Space Programme - Leyland Daf 45\nAquarian - SOMA\nClouds - Blood Skating\nObjekt - Balloons\nPearson Sound - Quivver\nDistal - The Jaws of Deltroy (Aquarian Edit)\nAquarian - Tarp2",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra438/",
+  "keywords": "Aquarian, techno, Uno, Motherisk, Chris Leung, Fan Death, ",
+  "artist": {
+    "id": "48837",
+    "__typename": "Artist",
+    "name": "Aquarian"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Something special happens on Aquarian's <a href=\"/review-view.aspx?id=11954\">debut EP</a>: the brutishly functional techno of \"Motherisk\" gets ripped to shreds by an amen break. In the midst of an ongoing <a href=\"/feature.aspx?1974\">jungle revival</a>, that might not sound surprising, but in 2012 he managed to predict what would become a major trend in dance music. Since then, Aquarian mapped his dark techno textures to footwork with <a href=\"/review-view.aspx?id=14200\"><i>Fan Death</i></a>. Now with his latest, self-titled EP, he turns his attention to the sonic assault of darkside jungle and peak-era drum & bass. Full of rocketing Reese basslines and breaks even more savage than before, <i>Aquarian</i> is techno on a stadium scale, showing a penchant for highly aggressive dance music with sleek, futurist sound design.\n\nAquarian's podcast shows he takes the same approach to DJing. RA.438 explores the glistening metal of Graze and Akkord, more pummelling selections from the likes of AnD and Pris and finishes off with a run of broken, breaks-driven madness.\n\n\n<b>What have you been up to recently?</b>\n\nIt was just Canadian Thanksgiving. Every year I celebrate by roasting a turkey and having friends over for dinner. Right now, I'm making a stew with the leftovers. Turkey, carrot, onion, celery, tomatoes, cumin, chillies, red wine, salt, pepper. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded it in my apartment in Brooklyn, and in a couple of coffee shops in my neighbourhood. I used Ableton Live and a pair of headphones. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe mix is a pretty good representation of my tastes, particularly in the techno spectrum. Though the second half is a bit more typical of what I'd play out in a club, plus some grime if I can get away with it.\n\n<b>Jungle and drum & bass seem like a big influence on the new EP. Are you a drum & bass head? Do you follow the genre these days?</b>\n\nI wouldn't consider myself a \"head\" per se, but I've always loved jungle and it's always been an influence on my music. These days I follow the scene pretty loosely, but I'll definitely go digging for it once in a while. \n\n<b>What do you think it is about those sounds that go so well with techno?</b>\n\nAside from a somewhat common lineage, the darker aspects of the genres mesh well. Mostly I find that the interplay between linear minimalism in techno and the maximalism in (earlier) jungle adds an interesting tension.\n\n<b>What are you up to next?</b>\n\nWorking on getting new music out, and developing a live audiovisual show with my roommate, who is a projection mapping and lighting designer. Eating this stew.",
+    "blurb": "Unleaded techno from an UNO associate."
+  }
+}

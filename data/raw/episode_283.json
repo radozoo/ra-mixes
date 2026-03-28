@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "283",
+  "url": "https://ra.co/podcast/283",
+  "id": "283",
+  "__typename": "Podcast",
+  "title": "RA.283 Tale Of Us",
+  "date": "2011-10-31T00:00:21.000Z",
+  "fileSize": 63079918,
+  "duration": "00:52:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra283-tale-of-us-cvr.jpg",
+  "contentUrl": "/podcast/283",
+  "tracklist": "Village & City - Gang Colours\nMorgan Geist - Lullaby (Erlend Oye DJ Kicks Remix)\nTennis Feat. Fink - Make It Good (Dub)\nDer Zyklus II (Heinrich Muller) - Formenverwandler\nScuba - Never\nPhotek - 101\nWoodkid - Iron (Gucci Vump Remix)\nKoreless - 4d / Seth Troxler Acappella / Pional - Into A Trap\nMetro Area - Let's Get (Tennis Re-Edit)\nFugazi - Sweet And Low (Life And Death Live Keyboard)\nSBTRKT - Hold On Feat. Sampha (Matthias Meyer Remix) LUV003\nSteffi - Sadness\nThe Emperor Machine - Dying By Wits\nConnan Mockasin - Its Choade My Dear ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra283/",
+  "keywords": "Tale Of Us, Crosstown Rebels, Visionquest, house",
+  "artist": {
+    "id": "14523",
+    "__typename": "Artist",
+    "name": "Tale Of Us"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Italian-raised, Berlin-based duo Tale of Us are part of a movement, the signifiers of which can at times be nebulous. Hot Natured are a good point of reference. As is Damian Lazarus' Crosstown Rebels imprint and parties like Circoloco at DC-10 in Ibiza. In fact, viewed through a wider lens it's evident that the house sound with which the duo have become famed is a widespread trend. The sound arguably has its base in London but it's unlikely that there's a corner of clubland that it hasn't touched in the last 12 months. It may have dropped at the end of last year, but the Tale of Us remix of Thugfucker's \"<a href=\"/track.aspx?223873\">Disco Gnome</a>\" serves as a perfect encapsulation. Carmine Conte and Matteo Milleri have also completed re-rubs for Maceo Plex, WhoMadeWho, DJ T. and Gus Gus (among others) during 2011; coupled with the fact they've released only a pair of original EPs to date—through Visionquest and Barraca Music—they've rightly been marked out as remix specialists. In any case, it's a tag that has facilitated them becoming one of the <a href=\"dj/taleofus/dates\">busiest</a> breakthrough acts of the year. \n\nWith all this scene setting, you'd be forgiven for thinking that RA. 283 was comprised solely of druggy basslines, judicious sampling and DC-10 anthems, ticking along steadily at 120 BPM. Sure, there is some of that. But in the main the mix is delicate and displays what Tale of Us are about beyond their growing dance floor reputation. \n\n<b>What have you been up to recently?</b>\n\nMM: We have been gratefully touring and when not doing so working on new material, something we do constantly.\n\nCC: And I have been searching the fridge for fresh food and eating cereal with my bare hands.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at home in Berlin using straightforward Traktor with vinyl and then some final touch ups on Ableton live.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nQuite simply the concept behind the mix was to put together some of our influences of the music we are feeling and some really cool new stuff that was around us. We didn't plan it for too long and it all came together quite nicely actually. The mix spaces though different genres and areas of music, from deep house to disco and also into bass/dubstep (whatever this is now?). This is an overall idea of how we envisage music to sound nowadays and what we will be aiming for in the future.\n\n<b>You seem to have been favouring remixes over original productions to date. Is there a particular reason behind this?</b> \n\nBasically we are our own biggest judges and are super critical of our productions. We really only have released one full EP up until now but still we are constantly inspired by the music people send. We always have an opinion on it and that is why we took on so many remixes in the first place, we enjoy giving our atmosphere and dimension to other people's ideas and art. Taking somebody else's art and then giving our own interpretation of it is super challenging for us. This being said, we have a lot of unreleased original material, which will stay so and we will pick only the best for our future EPs and album. \n\n<b>What do you feel has been the biggest component in your rapid ascent this year?</b>\n\nCC: I think it has been a combination of popular productions, fresh ideas and lively DJ sets accompanied by the whole breeze (not winds) of change that has overcome electronic dance music recently (more song based productions and pop melodies). We were inspired by it from the very beginning and we decided this was our time to start. Another component has been our management team and co-label owner (Life And Death) Manfredi Romano, who has helped us bring our concept to the next level. Two of his mash-up edits are actually in the podcast under his artist alias, Tennis.\n\nMM: I think a lot of the rapid ascent has to do with our haircuts also. \n\n<b>What are you up to next?</b>\n\nMM: We have the next release forthcoming on Life And Death alongside Fink and Tennis and featuring a super remix from Ryan Elliott. Hold tight for that one!\n\nCC: I'm going Halloween shopping.",
+    "blurb": "A wonderfully composed selection from the breakthrough duo."
+  }
+}

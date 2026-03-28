@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1043",
+  "url": "https://ra.co/podcast/1043",
+  "id": "1043",
+  "__typename": "Podcast",
+  "title": "RA.1024 African-American Sound Recordings",
+  "date": "2026-02-02T00:00:50.000Z",
+  "fileSize": 0,
+  "duration": "00:57:04",
+  "imageUrl": "https://static.ra.co/images/podcast/aasr2.0.jpg",
+  "contentUrl": "/podcast/1043",
+  "tracklist": "African-American Sound Recordings - Untitled (TAPE RIP)\nGodel - Song Number Five (CD RIP)\nGloria McGhee & The Pada Family - Formerly 14 (CD RIP)\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1024-african-american-sound",
+  "keywords": "",
+  "artist": {
+    "id": "0",
+    "__typename": "Artist",
+    "name": null
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Since his first release in 2010, Gavin Mays, AKA African-American Sound Recordings and Cities Aviv, has been living multiple lives. The D.O.T. label boss has put out work under various aliases, spanning post-hip-hop, ambient electronics and soul-inflected abstraction, consistently challenging and rearranging the scope of every genre he works within.\n\nAfrican-American Sound Recordings is Mays' \"side project\"—as hobbies go, it's a formidable one. Since its launch in 2019, he's released ten albums built from a dense palette of samples: distorted voices drift alongside warm currents of jazz and acoustic instrumentation, painting ambient vignettes that swerve between the serene and the industrial, evoking Dean Blunt if his ear was tuned to the church. \n\nIt's no coincidence that Mays cites Sunday service as a formative space. Samples of gospel worship and memories of communal ritual are the <i>fil rouge</i> running through the project, reimagining Black musical traditions as a living system, rather than a static artefact. So for the beginning of US Black History Month, he's a natural choice.\n\nRA.1024 has one of the shortest tracklists in the series to date: three total. The first, just over 45 minutes long, is part of an alternate album idea, presented here \"intentionally unedited.\" Cast like a fog of drones, it leans into African-American Sound Recordings' most minimal tendencies, with echoes of themes that'd later surface on 2025's <i>Be Somewhere Twice</i> LP. The final two tracks, gospel recordings ripped from his own CD collection, arrive like sunlight breaking through the clouds. - <i>Bella Aquilina</i>\n\n<b>What have you been up to recently?</b>\n\nLiving Nice & Existing Twice.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded midday, New York City. The weight of the mix came from an alternate album idea. It appears here intentionally unedited. The two final additions arrived after a trip to Tennessee and Arkansas. A stroll through storage and memories. I wanted to include a memory.\n\n<b>What are you looking forward to in the near future?</b>\n\nNew D.O.T. releases in 2026.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nReparations for African-Americans.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nCLUB - CANDYLAND - Memphis, TN\nPARTY - Sunday Service at World Overcomers Outreach Ministries - Memphis, TN.\n\nTwo spectacles. Different coins. When I was 15 or 16, I got to witness Vanity (of Vanity 6) give a revival sermon at World Overcomers. She prayed for the sick. There were droves of people waiting to see her in a line that wrapped around the entire congregation. She laid hands on a person who couldn't walk and prayed over them for ten minutes. Immediately after, the person took steps again for the first time. It was a church—so nothing is what it seems. Regardless, the spectacle will stay with me forever. \n\n<b>The mix includes a significant amount of unreleased album material. How does your production process evolve at this stage of creating new work?</b>\n\nThe process fluctuates and changes in response to the urgency and immediacy of the materials at play.\n\n<b>What's the story behind this project's name, and how does it sit in continuity with your broader work as Cities Aviv?</b>\n\nThe name speaks for itself and stands alone.\n",
+    "blurb": "The Memphis artist AKA Cities Aviv delivers 60 minutes of stirring electronics and industrial abstractions."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "411",
+  "url": "https://ra.co/podcast/411",
+  "id": "411",
+  "__typename": "Podcast",
+  "title": "RA.411 Awanto 3",
+  "date": "2014-04-14T00:00:12.000Z",
+  "fileSize": 146718145,
+  "duration": "01:00:59",
+  "imageUrl": "https://static.ra.co/images/podcast/ra411-awanto3-cvr.jpg",
+  "contentUrl": "/podcast/411",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra411/",
+  "keywords": "Steven van Hulle, Rush Hour, Rednose Distrikt, Kid Sublime, Alfabet, Hell of Samba, house",
+  "artist": {
+    "id": "35298",
+    "__typename": "Artist",
+    "name": "Awanto 3"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Steven van Hulle adores making music with an MPC, and you can hear it in his grooves. Go back to Rednose Distrikt, a project he worked on in the early '00s with Kid Sublime (and latter Aardvarck), and you can feel the legendary sampler in the group's loose and soulful style. It's also there in Alfabet, a partnership van Hulle formed with fellow Amsterdam denizen Tom Trago. The pair's three EPs for Rush Hour were alive with vibrant samples and wobbly drums—see the excellent \"Lap The Music\" or \"Hell Of Samba.\" And the MPC's rough-and-ready vibe is obvious on van Hulle's tracks as Awanto 3, his main alias—on \"The Gun\" and \"Pregnant\" you can almost hear him bashing out rhythms on its grid of pads. It's also important to note van Hulle's roots in jazz, Latin, hip-hop and soul, styles that greatly influenced <a href=\"/review-view.aspx?id=14643\"><i>Opel Mantra</i></a>, his first album as Awanto 3, which came out last month on Rush Hour. The record soared thanks to its intuitive production and bright patchwork of styles.  \n\nThe dance floor is the focus on RA.411. Van Hulle applies the pressure early on, and keeps the mix's heavy, free-flowing groove bubbling over throughout.  \n\n<b>What have you been up to recently?</b>\n\nJust recovered from the release party of my new album in Trouw last Friday. Did some traveling by train and made a few tracks on my beloved MPC. And I had great meals and amazing wines. I lost it a little bit at some point but found it again luckily, although I'm still wondering what it was I had lost. \n\n<b>How and where was the mix recorded?</b>\n\nThis mix is actually a multi-faceted music puzzle, which includes cutting, pasting and mixing. I used a computer, CDJs and turntables. Somehow I ended up with hours of mixed-up music, over which I became a bit puzzled myself. In the end I worked it all out and edited it back to an hour of music. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nMy idea was to do a mix dedicated to music from local friends and relatives, but a lot of those tracks got lost in the final edit. In the end I just tried to keep the groove, and showcase some of my favorite club tracks. I actually prefer DJing to an audience and not think about how to put a mix together too much. I miss that live element in the studio, but anyway, blabla, I hope you enjoy my mix.\n\n<b>Tell us about Piranha club. Your biography describes it as notorious.</b>\n\nPiranha was the first club where I became a resident DJ, at age 18. The audience was more mature, but didn't act that way. They were a strange mix of all walks of life. A bunch of sleazy and shady types that visited all the bars and clubs in the Koningstraat, a street in the city centre of Den Helder—that was notorious indeed. They also had this big aquarium with real piranhas and people were feeding these fish with hamburgers and shawarma. No leftovers. \n\n<b>What are you up to next?</b> \n\nI am updating my home studio to work on my upcoming live sets and remixes. Will also continue to collaborate with my pal Dexter. And there should be more releases out soon in the Alfabet series I'm doing with my buddy Tom Trago. There are a few other projects I'm looking into, but for now I'm trying to stay close to the seaside, where I keep myself busy on my baby MPC.",
+    "blurb": "One of Amsterdam's best DJs makes his mark. "
+  }
+}

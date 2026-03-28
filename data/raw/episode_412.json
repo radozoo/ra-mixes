@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "412",
+  "url": "https://ra.co/podcast/412",
+  "id": "412",
+  "__typename": "Podcast",
+  "title": "RA.412 Dana Ruh",
+  "date": "2014-04-21T00:00:07.000Z",
+  "fileSize": 184204378,
+  "duration": "01:16:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra412-dana-ruh-cvr.jpg",
+  "contentUrl": "/podcast/412",
+  "tracklist": "STL - Disconnected \nVan Bonn - Baumgartner\nNyra - Diagonal State\nDana Ruh - The Wish You Told Me \nFP 197 - Comes With Fries \nMai Hai - Vrajitoroo\nPantal - Story 007\nJesus The dancer - TKolai\nPanash - Cheval (Przewalski's Eastern Bounce) \nDorisburg - Smuts\nDJ Jaz - Skyler - \nLost Evidence - Dilated Pupils (unreleased)\nDivers - Diuasiv (unreleased)\n#####. 1 - Rush Hour\nChevel - Harsh Times (edit)\nPhil Kieran - Getting Away (Ryan Elliott Remix)\nU.1.1 - Miltiades",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra412/",
+  "keywords": "Underground quality, house, Brougade, Mawan",
+  "artist": {
+    "id": "4342",
+    "__typename": "Artist",
+    "name": "Dana Ruh"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Dana Ruh is what you might call a quiet achiever. The German DJ and producer has built herself an impressive CV down the years without the attention of a hit record. There has been plenty for DJs to get excited about, though: since 2007, Ruh has released the sort of deep and groovy house music that stays in a record bag for months at a time. The same is true of the label she runs, Brouqade Records, which, in addition to plenty of releases from Ruh herself, has hosted music by Benjamin Fehr, Anthea and Danilo Schneider. Some of Ruh's best material has come through Brouqade, including \"MAWAN,\" an exquisite percussion-tool she released late last year that came backed with a Fred P remix. \n\nAway from the label there's been music on Barraca, Buzzin' Fly and Perspectiv Records, while her work with Berlin DJ and producer André Galluzzi has been an important part of her journey. The pair run the Aras label together and, in addition to writing two of its four records, have released an EP on Ostgut Ton. Her style has also caught the attention of respected figures outside of Berlin. Ruh is a busy international DJ who's played regularly at Cocoon's parties in Ibiza, and earlier this year it was <a href=\"/news.aspx?id=22494\">announced</a> that she'd release <i>Naturally</i>, her debut album, through Jus-Ed's Connecticut-based Underground Quality label.  \n\nPlaced next to each other, Ruh's RA podcast and the album show that she's currently in a bright, creative place. Both have the depth that's become Ruh's trademark, but a shared lightness of touch gives things a fresh feeling of warmth. \n\n<b>What have you been up to recently?</b>\n \nI just returned from a busy weekend DJing in Italy that I really enjoyed. Besides that, I've done a lot of music—remixes, some productions for others and for myself. I'm generally just enjoying life!  \n\n<b>How and where was the mix recorded?</b>\n \nI recorded the mix in my studio with a fairly basic setup: turntables, one Pioneer CDJ and an Allen & Heath mixer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nTo be honest, there was no real concept. I just put together the tracks that I was feeling and tracks I play in my sets. So some of it is forthcoming music, some of it is timeless stuff. When it comes to music and DJing, I've got a wide range of influences, so I wanted to show this in the mix.\n\n<b>How did you end up releasing your album with Underground Quality?</b> \n \nIt was actually Jus-Ed's idea. Over the years I've done a lot of music and collected it all on my hard drive. But naturally there comes a point when you want to share it. So I decided to send two CDs to Ed and see what happened. I thought he'd be the right person to send it to because he's very open-minded about music and isn't interested in what sells or trends etc. After a few weeks he got back to me with an email saying, \"This is what I think about your music,\" and in the email there was a link to a radio show where he featured a load of the tracks that really excited me. Then we met at Sonar last year and later in Berlin. We sat at the studio and listened to all the music that I did and later that day he said, \"This could be an album!\"\n\n<b>Did you have any particular aims in mind when you were writing the record?</b>\n \nAs I wrote all these tracks, there was no original plan to release it as an album at all; it was just something I did for myself. It all came out very naturally and without any expectations or thoughts about where I wanted to release it. The only aim, and this is my personal aim—I just wanted to capture the moment I was in straight away without over-thinking or deleting anything! \n\n<b>What are you up to next?</b>\n\nI've got some cool gigs lined up in the summer, and I'll play in Japan for the first time. I'm also looking forward to our monthly night at Club der Visionäre in Berlin, and I'll be taking care of Brouqade with my label mates, too.",
+    "blurb": "Deep, groovy business from Underground Quality's latest signing. "
+  }
+}

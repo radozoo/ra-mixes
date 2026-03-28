@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1011",
+  "url": "https://ra.co/podcast/1011",
+  "id": "1011",
+  "__typename": "Podcast",
+  "title": "RA.1000 Mark Ernestus",
+  "date": "2025-08-12T11:59:11.000Z",
+  "fileSize": 0,
+  "duration": "01:57:37",
+  "imageUrl": "https://static.ra.co/images/podcast/markernestus.png",
+  "contentUrl": "/podcast/1011",
+  "tracklist": "W4DE - Elhubu (feat. Etollie)\nTonton Lusambo & DJ ANUNNAKI - Ukyepu\nKitoko Sound - Keep It True feat. Kanda Beats, Din BEATS & Jazzy Rhodes\nKailen - MIL Track 3\nKayGee DaKing & Bizizi - Andizi\nCaltonic SA - Bambelela (feat. Sje Konka, Mawhoo & Thabz Le Madonga) [Vocal Mix]\nCaltonic SA - Bambelela\nCyfred & M.J - Bafowethu\nOfficixl RSA & Mr JazziQ - New Sex\nScoop Lezinto, Djy Ma'Ten & Shakes & Les - Bavumile (feat. Jaylokas)\nIce Beats Slide & Sbuda Maleather - My Brada (feat. Mr JazziQ)\nHouse Of ESAMA, KS Hub & 100Kay - uPoison (feat. Ice Beats Slide, Sbuda Maleather, Leecose & LRDE)\nGemValleyMusiq - Something Spiritual (feat. Goat Sounds)\nSayfar - Shoota (feat. Chley & Ceeka RSA)\nSayfar, Cyfred & 2woBunnies - Ak47\nNaco & Mphoet - Sh\"Ngane\nDJ EDOTT & PYY Log Drum King - Avengers (feat. Tshepo Mr Movement, Hip-Naughtic Sean & Citykingrsa)\nFLUXX, TheBoyTapes & 2woBunnies - Sheik Money\nDaJiggySA & Mfana Mdu - Gun Down\nNgobz & Snyper Reloaded - Canadian Way (feat. Fister)\nHFLY & Mbuso De Mbazo - Masingitah (feat. London SA, Soloh, Little Moore & Bless DeLa Sol)\nDe Tories - Resurrections (feat. The Exclusive K-1)\n\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1000-mark-ernestus",
+  "keywords": "",
+  "artist": {
+    "id": "14597",
+    "__typename": "Artist",
+    "name": "Mark Ernestus"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Trace Mark Ernestus's path, and you trace the evolution of electronic sound itself. In the mid '80s, Ernestus craved a place to share and sell the mind-blowing records he was listening to coming out of the US. \"I had the very naive and cliché dream of being in a record store,\" he told the <a href=\"https://www.goethe.de/ins/ca/de/kul/kue/tkl/22890445.html\" target=\"_blank\">Goethe-Institut</a>, \"surrounded by good music all day long, sharing it with like-minded people and to sit at the source, so to speak.\"\n\nLittle did Ernestus know the role that store, Hard Wax, would go on to play. The city's musical mythology is unimaginable without it; flip through biographies of Berlin's most influential contemporary figures and, sooner or later, the thread leads back to the Kreuzberg record store. Hard Wax carried records, hosted artists and acted as a crucial conduit between Berlin and Detroit, laying the groundwork for the city's techno revolution. Carl Craig once said it plainly: \"Mark was ground zero.\"\n\nAnd then there's <a href=\"https://ra.co/features/3365\" target=\"_blank\">Basic Channel</a>. The project, led by Ernestus and Moritz von Oswald, would invent dub techno, and in doing so, produce a near-flawless catalogue of records that came to redefine what techno could be. Decades on, and you'll still find Ernestus facilitating new creative leaps. Immersing himself in Senegal's rich <i>mbalax</i> culture in the mid-2010's, he and a troupe of the country's finest musicians would form their joint live project, Ndagga Rhythm Force. To add, he's also played a crucial role in <a href=\"https://ra.co/features/4444\" target=\"_blank\">Open Ground</a>, the Wuppertal bunker club that has become <i>the</i> new underground club in Europe. \n\nFor RA.1000, Ernestus—who releases official DJ mixes once in a blue moon—contributes a two-hour amapiano set. As you might expect, it's technically immaculate, but more than that, it feels like a quiet leap forward, the sound of an artist still restless and open to exploration. Amapiano, one of the world's most vital new genres, remains scarce in European and North American clubs, and underexplored in music media. Publications like our own are still learning to keep pace with the South African sound's global pull. As you'll hear across the near two-hour mix, the genre rich in quirks and range that deserves critical appreciation: from the gothic, percussive stomp of Caltetonic's \"Bambela\"  to the devotional glow of GemValleyMusiq's \"Something Spiritual.\"\n\nThrough all of this, Ernestus has remained understated, almost elusive. As you'll see in the interview below, he's not the type to wax lyrical about his own legacy. He lets the music speak for him, with a quiet honesty that lies in decades of opening doors—creating the conditions for new sounds and scenes to emerge, flourish and carry electronic music forward. <i>– Bella Aquilina</i>\n\n<b>Can you tell us the idea behind this mix, and what do you hope listeners take away from it?</b>\n\nThe mix features a range of amapiano tunes that I really enjoy playing these days. Such a great generation of producers.\n\n<b>Is there a particular RA Podcast that has had a significant impact on you? If so, why?</b>\n\nNo.\n\n<b>Can you share a mix that's particularly special to you? What makes it a stand out?</b>\n\nNo.\n\n<b>In a world where technology is rapidly changing the way we DJ, how do you see the future of DJing and mixing evolving?</b>\n\nA big question that I don't feel I have an answer for.\n\n",
+    "blurb": "The mastermind behind Basic Channel, Hard Wax and Rhythm & Sound doesn't do mixes. For RA.1000, he made an exception. "
+  }
+}

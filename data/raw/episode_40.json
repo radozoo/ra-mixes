@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "40",
+  "url": "https://ra.co/podcast/40",
+  "id": "40",
+  "__typename": "Podcast",
+  "title": "RA.040 M.A.N.D.Y.",
+  "date": "2007-01-08T05:30:09.000Z",
+  "fileSize": 67140431,
+  "duration": "01:09:54",
+  "imageUrl": "https://static.ra.co/images/podcast/ra040-mandy-cover.jpg",
+  "contentUrl": "/podcast/40",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra040/",
+  "keywords": "",
+  "artist": {
+    "id": "550",
+    "__typename": "Artist",
+    "name": "M.A.N.D.Y."
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Patrick Bodmer & Philipp Jung are one of the most heavily booked German DJ acts. Resident in Berlin, recently they’ve been clocking up serious air miles with club dates in North America, South America, Australia, Japan and Europe. In their spare time, they like to run Get Physical, one of the hottest house labels around, releasing the likes of Booka Shade, DJ. T, Djuma Soundsystem and Chelonis L. Jones. \n\nRelease-wise, M.A.N.D.Y. have mixed three compilations on Get Physical including last year’s ‘At the Controls’, voted RA’s <a href=\"http://www.residentadvisor.net/feature_view.asp?ID=785\">top compilation of 2006</a>. Although primarily DJs, M.A.N.D.Y. also produce too: their 2005 collaboration with Booka Shade ‘Body Language’ scored them ‘Ibiza Track of the Season 2005’ and has since been licensed to over one hundred compilations. As remixers, they’ve also retooled The Knife, Lindstrom, Mylo, Royksopp, the Sugarbabes and Laurie Anderson.\n\nTheir sound? M.A.N.D.Y. weave together house, electro house, techno and a slice of pop or two, all stitched together with a feeling for both musical ingenuity and for the dancefloor. But they’re not musical purists about it: ‘At the Controls’ even featured a Cat Steven track or two, but their RA podcast delivers a deeper, clubbier vibe, featuring prime cuts from the likes of Martin Buttrich, Villalobos and Exercise One. It’s been on constant rotation round here since it landed.",
+    "blurb": "Get Physical DJ team M.A.N.D.Y take on the RA podcast."
+  }
+}

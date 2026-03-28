@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "629",
+  "url": "https://ra.co/podcast/629",
+  "id": "629",
+  "__typename": "Podcast",
+  "title": "RA.629 Amelie Lens",
+  "date": "2018-06-18T00:00:03.000Z",
+  "fileSize": 132989961,
+  "duration": "00:55:17",
+  "imageUrl": "https://static.ra.co/images/podcast/ra629-amelie-lens-cvr.jpg",
+  "contentUrl": "/podcast/629",
+  "tracklist": "Unreleased\nElectronome - Bass Commander\nUnreleased\nUnreleased\nUnreleased\nRecall IV - Contrast\nUnreleased\nUnreleased\nLowfish - 8_OP\nScan 7 - Triple Darkness\nUnreleased\nSync 24 - Resynth\nUnreleased\nFarrago - Risin' (Kobosil remix)\nUnreleased\nUnreleased\nUnreleased\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/459872949",
+  "keywords": "Techno, EBM, LENSKE, Belgium, Lyase Recordings, Etruria Beat Records",
+  "artist": {
+    "id": "61166",
+    "__typename": "Artist",
+    "name": "Amelie Lens"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Amelie Lens, a 28 year-old DJ from Belgium, is one of the new faces of techno. Intense and full of energy, her DJ sets bring together a variety of moods and eras, bridging the old with the new by drawing upon classic acid and tribal alongside contemporary big-room sounds. \"What is with people telling me I don't tell a story because I play bangers?\" she recently asked on Twitter. \"Ever considered that is exactly my story?\" It's easy to see why her approach has won over so many people. Her sets keep the energy high, moving through bomb after bomb of pulverising beats new and old. And her fan base is rabid, the kind that <a href=\"/reviews/22459\">packs out</a> warehouses within minutes, generating rounds of cheers with the introduction of every hi-hat or acid line.  \n  \nStarting slow before moving through electro, acid and a hint of EBM, this RA podcast finds Lens in full flow. The hour-long set is full of unreleased productions, strung together with well-timed transitions that keep the momentum pushing forward. It may transport you to some summer festival stage, surrounded by thousands of sweaty dancers who go wild with every blend. This is the sound of modern big-room techno, where DJs like Lens keep warehouses hypnotised for hours.\n\n\n<b>What have you been up to recently?</b>  \n\nI just got back from a weekend in North America, with gigs in Washington, Miami, New York and Montreal. Before that I was in Europe for the start of the festival season.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix at home. I thought of using Ableton but I actually really like mixes that you can hear have been mixed \"by hand.\" I guess it feels more organic, so I just went with that and recorded it at my home studio.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWhen I play I can get influenced by the crowd, the vibe or the soundsystem. Even the weather affects what direction my set goes. This mix was recorded in the solitude of my home studio. No distractions, just me, my cats and my music. A very pure mix filled with tracks that I've selected exclusively for this recording.\n\n<b>We noticed that you play with a Pioneer effects box in your sets. What do you like using it for?</b>\n\nI use it to add layers to the mix. It has a built-in sampler and personalised effects that can entirely reform the track that is playing. Like everything, its use is situational. Sometimes I hardly touch it, but when I play a peak-time set it truly shines. I specifically look for and buy tracks that will work well with the device. Very stripped-down or minimalistic percussion locked grooves.\n\n<b>How is your studio setup looking at the moment? Do you have any favourite bits of kit or plug-ins?</b>\n\nI use Ableton mostly. I really love the Elektron Analog Four and the Pro 2 from Dave Smith. But I have been touring so much lately that I've been working mostly on my laptop on the road. I needed a different workflow, so now I use my studio time mostly for recording sessions and sampling. Then on the road, I arrange and try out the tracks. Back home I finalise it all with another mixing session.\n\n<b>What are you up to next?</b>\n\nI am playing so many amazing festivals this summer: both days of Awakenings, Exit Festival, Aquasella, Peacock Society, A Summer Story in Madrid, <a href=\"/events/1020795\">Sonus Festival</a>, Melt Festival, Kappa Futur, Dour Festival, DGTL Barcelona… Release-wise, I'm working on a remix and I am finishing the EP for my own label, LENSKE.\n",
+    "blurb": "A modern techno star brings the heat.\r\n"
+  }
+}

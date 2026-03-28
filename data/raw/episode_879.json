@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "879",
+  "url": "https://ra.co/podcast/879",
+  "id": "879",
+  "__typename": "Podcast",
+  "title": "RA.879 V.I.V.E.K",
+  "date": "2023-04-09T22:00:49.000Z",
+  "fileSize": 164790144,
+  "duration": "01:08:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra879-vivek-cvr.jpg",
+  "contentUrl": "/podcast/879",
+  "tracklist": "Om Unit - Springdub Meditation\nBukkha - Into The Void feat. Dandelion\nLeo James - Struggle feat. J Appiah\nIration steppas - Killamanjaro (OBF Remix)\nEastern roots - Burning Dub\nVersa - Passing Light\nOm Unit - Dissolved\nVersa - Road to Rightousness - (V.I.V.E.K + Dego Ranking Remix) \nCalibre - Barren\nKillawatt - ?\nKryptic Minds - ?\nCalibre - Hostage\nCian Finn - As Times Change (Congi Remix)\nQuartz - Play My Steez\nJack Sparrow - Way Out West\nHalogenix - PFTD feat. Strategy\nInstramental - Vicodin\nCalibre - Man Got Sandwich\n??? - ?????\nFiend - Jah Hear Me (J.Sparrow Remix)\nMantra - Ala\nOm Unit & Martyn - Dragonfly\nV.I.V.E.K - Here We Are\nMantra - Mind Games\nV.I.V.E.K - 48\nQuartz - Mountain\nV.I.V.E.K - Shapes feat. Tailored Sound",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra879-vivek/",
+  "keywords": "",
+  "artist": {
+    "id": "31139",
+    "__typename": "Artist",
+    "name": "V.I.V.E.K."
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Once upon a time, V.I.V.E.K Sharda was unhappy with the sound at UK nightclubs and parties—sound that he felt couldn't capture the deepest, truest vibrations of the music he wanted to play and hear—so he just made his own sound system. (Naturally, he called it System.) That should give you an idea of how seriously Sharda takes his wubs and his sub-bass, and if you have even a passing interest in UK sound system culture or dub's crossover with dance music—including, yes, dubstep—then you've probably heard of V.I.V.E.K, or at least heard one of his chest-rattling records.\n\nAlong with producers like Om Unit and Kryptic Minds—both of whom feature in the mix below—Sharda has never been one for following trends or concerned about scenes. Instead, he's fully devoted to the pulse of dub and the luxury of bassweight. He's put out slow but steady stream of ultra-heavy releases on his own labels System Music and VIVEK, and now he's on a mission to change perceptions of what 140 BPM music can sound like. That's what you'll hear on his <i>RA</i> Podcast, a meditative and occasionally tectonically-shifting mix that highlights dubstep, dub and its many offshoots—not just staggered drums and subterranean low-end but smooth swing and soulful melodies, too.\n\n<b>What have you been up to recently?</b>\n\nI've really been enjoying making music recently. I moved over to Bitwig last year and I haven't looked back since. It's opened a new way for me to get my ideas down and has definitely enhanced the creative process for me! I also have been spending a lot of time with my nearest and dearest. I've got a good balance at the moment!\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI recorded the mix at home. The idea behind this mix is to represent the kind of set I would play in a club, which nearly always starts with some UK dubwise and ambient textures.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nThere's a lot to mention but the one I would say that had the most impact was the Aba Shanti sessions at Southall Community Centre. I don't have an exact date. All I know is that I was still at high school. I'd never experienced anything like that. The atmosphere and sound pressure took me past and beyond anything life had thrown at me! I'll never forget those days.\n\n<b>You've kept your focus on dub and dubstep even as trends have changed over the years. Is the scene healthy, and who are some of your producers?</b>\n\nOver the years I've avoided what people say about the \"scene\" and I run a mile from trends. My focus has stayed the same because I love the music. Nothing has really changed for me over the years. I think now I have a better balance of music and life which allows me to probably enjoy the music more. A healthy \"scene\" is a diverse one. I feel like we have that and I think the mix represents that. \n\n<b>You've described your new work as what 140 BPM <i>can</i> sound like instead of what it has in the past. What does that mean to you?</b>\n\nIt's really just a way to say that it can pretty much sound like anything. Take a risk. I get a lot of tracks sent to me and 90 percent are something I've heard before. It's always great to hear a totally different approach. Not every tune has to be a banger! Good music is good music. \n\nBut I also wanted to showcase a different sound that sits between what is seen as dubstep and the current garage resurgence. I'm really enjoying the more melodic and groove focused tracks and the mix emphasises that. \n\n<b>What are you looking forward to in the near future?</b> \n\nThe main focus for this year is releasing new music. I recently released an EP highlighting a more percussive and melodic vibe to the \"dubstep\" spectrum and I have much more planned, including a couple more EPss and a few remixes. I also have some very exciting collaborations happening this year with some people I really look up to! ",
+    "blurb": "Deep dub vibrations."
+  }
+}

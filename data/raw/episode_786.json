@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "786",
+  "url": "https://ra.co/podcast/786",
+  "id": "786",
+  "__typename": "Podcast",
+  "title": "RA.786 MARRON",
+  "date": "2021-06-27T22:00:32.000Z",
+  "fileSize": 149313512,
+  "duration": "01:02:01",
+  "imageUrl": "https://static.ra.co/images/podcast/ra786-Marron-cvr.jpg",
+  "contentUrl": "/podcast/786",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1077030043",
+  "keywords": "Eerste Communie, Garage Noord, Ndyuka",
+  "artist": {
+    "id": "70288",
+    "__typename": "Artist",
+    "name": "MARRØN"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "MARRØN is the kind of DJ we love to feature in this mix series: someone who holds down their local scene week in and week out, someone who makes a difference. As a cofounder of the day-into-night Sunday Eerste Communie party, the Amsterdam-based DJ has been essential in providing a safe space for all kinds of people to enjoy techno—a self-described \"holy day\" away from the city's usual nightlife hotspots, taking place at the intimate Garage Noord on the city's North side. The party describes itself as a \"judgmental free atmosphere,\" and MARRØN himself has said that it's all about \"the purest form of techno,\" which gives you a good idea of what his parties, and his sets, sound like.\n\nThe other thing that MARRØN emphasizes about his parties is sound quality (you'll see this mentioned in almost every interview he does, and every Eerste Communie event listing). It's partly because the style of techno he plays is detailed, glimmering and sleek, the kind where every nuance is meant to be felt and heard, not just pummeling you on the dance floor. He plays the kind of techno where melodic leads scurry across the stereo spectrum, where flashes of melody and colour light up an otherwise greyscale landscape. It's techno that never sits still, groovy but adventurous, alive and dynamic, the kind of techno that encourages you to keep dancing with every new shift or new synth chord. He speaks often about \"consistency,\" and while his sets are steady-handed and smooth, it's the moments where things flicker and change that are the most exciting.\n\n\"To me, this uptempo, rhythmic style of techno is a style that’s timeless,\" he said in <a href=\"https://www.glamcult.com/articles/rave-revolution-eerste-communie/\">an interview</a> with <i>Glamcult</i>.\"Music that can be played in the afternoon or as a closing slot without getting bored of it.\"\n\n<b>What have you been up to recently?</b>\n\nRecently I've been focusing on programming my event Eerste Communie with my other 4 compagnons. We've been busy organizing and how to go about it as the Netherlands are letting basically most of the restrictions we've had fall. I am super excited about that first edition back in Garage Noord. Other than that I've been keeping up with my own podcast series <a href=\"https://soundcloud.com/marron-official/sets/ndyuka-podcast\">NDYUKA PODCAST</a> where I've kept that strong connection with my people through music. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix is recorded in the studio where I always practice and prepare for my sets or gigs. \n\n<b>Can you tell us the idea behind the mix?</b>\n\nThe idea behind this mix was to create a dance floor focused podcast where you feel the need to dance. Even though you will notice different flows, some more to the ultimate groovy side and some a bit harder and poundy. My style of play is within that range where the focus always is based on consistency of track selection. \n\n<b>Your work is often mentioned alongside the term \"Afro deep,\" what significance does that have to you?</b>\n\nAfro Deep is not the style that I play, but it is a South African genre I got inspired by deeply before I even listened to techno back in the day. This is where I've found the need to keep my music rhythmic and minimalistic with consistency.\n\n<b>How has the pandemic experience been in Amsterdam and The Netherlands, and do you think things will return to normal soon? Are you excited to go back to DJing?</b>\n\nIt has been rough but, on the other side, also one of the happiest years in my life. My daughter was born on June 23rd of this year, which has brought another level of love in me. I do realize how this period of time has been so tough for our scene and for that I am super thankful for the growth I have been able to make with a time of no gigs. It gives me energy and keeps me focused to keep working hard and to do what I love doing most, which is DJing. Things are opening up in Amsterdam again and it's looking good, So I expect to be behind the decks again in August. I am excited and ready for the take-off! \n\n<b>What are you up to next?</b>\n\nMy goal is to take the next step in my career. To push my sound in different venues and explore the scenes abroad.",
+    "blurb": "Vital techno from Amsterdam."
+  }
+}

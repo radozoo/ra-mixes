@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "143",
+  "url": "https://ra.co/podcast/143",
+  "id": "143",
+  "__typename": "Podcast",
+  "title": "RA.143 Thomas Brinkmann",
+  "date": "2009-02-23T00:00:50.000Z",
+  "fileSize": 73042502,
+  "duration": "01:00:51",
+  "imageUrl": "https://static.ra.co/images/podcast/ra143-thomas-brinkmann-cover.jpg",
+  "contentUrl": "/podcast/143",
+  "tracklist": "Designer Music - The Truth - Planet E\nJay Denham - Radio - Disko B\nDaniel Bell - Berserk - Elevate\nKrikor - Peeping Tom (Come Into My Parlor) - Karat\nSoul Center - Sweetback - W.v.B. Enterprises\nJohn Thomas - Fonk Tonight - Logistic\nEvil C and the Hustler - ??? - ???\nShake - My Computer Is an Optimist - Playhouse\nMarcel Janovsky - Shopping - Treibstoff\nSoul Center - Walk With Me - W.v.B. Enterprises\nProcess - Surface (Soul Center Remix) - Traum Schallplatten\nDesigner Music - Problemz - Planet E / Michael Jackson - Rock With Me (Marc Ushmi Mix) - max.i\nPost Industrial Boys - Post Industrial Boys - Max Ernst",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra143/",
+  "keywords": "minimal, techno, thomas, brinkmann",
+  "artist": {
+    "__ref": "Artist:872"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Cologne's Thomas Brinkmann needs no introduction. As one of techno's foremost experimental minds, he's bridged the gap between the conceptual and the physical with seminal releases such as <i>Studio 1 - Variationen</i> and <i>Concept 1:96:VR</i>. Using a dual-armed turntable he crafted himself, Brinkmann transformed Wolfgang Voigt and Richie Hawtin's releases into haunting, beautiful and danceable masterpieces of minimal techno and, as one writer termed them, \"key works of modern art.\"\n\nSince the mid-'90s, Brinkmann has spent much of his time focused on his Max Ernst label, an imprint that has churned out some of the most fascinating post-electronic albums of the past decade by artists like TBA Empty, Post Industrial Boys and Brinkmann himself. On his RA podcast, though, Brinkmann goes straight for the feet, unveiling a wild ride through funky minimalism with a hypnotic quality that stays with you long after the last beat drops. From Michael Jackson remixes to those aforementioned Post Industrial Boys, it's one you won't soon forget.\n\n<b>What have you been working on recently?</b>\n\nI made some exhibitions in galleries.\n\n<b>Where and how was the mix recorded?</b>\n\nAnd when ... The basic mix is about six or seven years old and it was made for the famous Geneva club, Weetamix. Dimitri, who was running the place, asked me for a special Soul Center set, more of a DJ set. It was first made on turntables and then totally remastered/reedited on Logic back then, which was quite unusual in those days.\n\nSo, there's a lot \"in da mix\" or let's say like a remix. And, in fact, it was the basic idea for the Traum mix that I did later. There is one track from this project that was included on that one - the \"Surface\" remix. I still love Evil C and the Hustler together with Shake. This part represents for me the FONKYNESS I'm missing.\n\nI played the mix a few times in different versions around the world when nobody asked me to play it, so maybe as a warm-up or at the very end, when nobody expected anything. Just checking the audience and if they were really into it - like they always say - or just in name and primetimes. Or I played it for myself.\n\nThe very first version had Moodymann's \"Shades of Jae,\" but as a \"German white half-quarter nigger\" with perfect white skin (between Tanzania and Haiti), I had to kick this track out. But I love it. \n\n<b>Do you have anything planned for your Max Ernst label this year?</b>\n\nYes...\n\n<b>How did you feel your <i>When Horses Die</i> album went down with your fans? It was quite a departure for you.</b>\n\nWent down...yes...and maybe also an arrival.\n\n<span class=\"grey\">Photo credit: <a href=\"http://www.flickr.com/photos/kilgocore/\" class=\"grey\">Von Boot</a></span>",
+    "blurb": "Cologne experimentalist Thomas Brinkmann bangs it out on this week's RA podcast."
+  }
+}

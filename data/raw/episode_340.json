@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "340",
+  "url": "https://ra.co/podcast/340",
+  "id": "340",
+  "__typename": "Podcast",
+  "title": "RA.340 Art Department ",
+  "date": "2012-12-03T00:00:23.000Z",
+  "fileSize": 103073775,
+  "duration": "01:25:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra340-art-department-cvr.jpg",
+  "contentUrl": "/podcast/340",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra340/",
+  "keywords": "Art Department, Jonny White, Kenny Glasgow, Crosstown Rebels, House, The Drawing Board, ",
+  "artist": {
+    "id": "16861",
+    "__typename": "Artist",
+    "name": "Art Department"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It's been pretty much impossible to overlook the impact of Art Department these past couple of years. Toronto veterans Jonny White and Kenny Glasgow first came together under the name in 2010 and immediately demanded attention: \"Without You,\" the pair's sludgy ode to heartache for Crosstown Rebels, became a ubiquitous anthem, ending up as <a href=\"feature.aspx?1220\">RA's track of the year</a>. Any suspicion of a one-hit wonder scenario was quickly put to rest with <a href=\"review-view.aspx?id=8920\"><i>The Drawing Board</i></a>. The debut Art Department album, released in early 2011 on Crosstown, marked them out as leading proponents of the slow, bass-focussed house sound that was dominating the global club scene. With a springboard in place, Art Department began to tour. Extensively. As touched on below, they've played something like 130 gigs this year, and pulled off a similar number in 2011. The success of their recorded music has a lot to do with this figure, but if you've caught them at any point over the last couple of years you'll know that White and Glasgow rock parties like experts.   \n\nWe're happy, then, to be able to present the more darkened underbelly of the Art Department sound. The regular hallmarks—low-slung bass, creeping vocals—are in place on RA.340, but it's an overall deeper message that's conveyed.  \n\n<b>What have you been up to recently?</b>  \n\nThe usual touring like circus animals. Just finished a mental tour that took us across Australia with Parklife, through Japan and Hong Kong and down to South America for a string of Creamfields festivals, and club dates straight into North America. We'll be heading back home to Europe this week for the first time in months. \n\n<b>How and where was the mix recorded?</b> \n\nThe mix was recorded on this tour in and out of hotel rooms and airplanes. It's not our favorite way to work; as a matter of fact I absolutely refuse to write music this way, but we made an exception to get this mix done for RA.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nThe idea behind creating the RA mix was quite different and refreshing. It was knowing that we had a bit more freedom to get and stay deeper with it than we might if we were, say, releasing a CD or even compiling our Essential Mix, where there is a much broader range of listeners. We're aware that RA's readers are a bit more dialled-in so we're pushing this stuff to people who will accept and appreciate a deeper, heady vibe that we might not be able to get away with elsewhere…we hope.\n\n<b>We have you down on RA as being booked for <a href=\"dj/artdepartment/dates?yr=2012\">132 gigs</a> this year. Have you managed to spend any time in the studio?</b> \n\n132... So far. This year ain't over. Unfortunately we've had next to no time to write this year. We did manage to get in just enough time to turn a few remixes around, ie \"Look Right Through,\" \"Let Love Decide,\" \"Tomorrow Can Wait,\" but no real time for writing much original music aside from the \"Robot Heart\" record. It's really difficult to balance and work when you're touring this heavily.\n\n<b>What have been some of the most surprising places you've played this year?</b> \n\nThat's actually an easy one: Woodstock 69 in Amsterdam was easily the biggest surprise for us this year. We found ourselves on a beach amongst what I can only call a commune where about 70 surfers come together for six months of the year to live in shipping containers, while inspiring each other to create art, surf and throw one of the best parties anywhere. That was definitely one of the highlights of 2012\n\n<b>What are you up to next?</b> \n\nNext, we take some much needed time off to write and live like normal people. We'll be heading to Mexico for the <a href=\"news.aspx?id=17678\">Day Zero</a> event mid-December and that's where we'll start a three month, long overdue break from the road. We'll be down there right through to the close of the <a href=\"news.aspx?id=18331\">BPM festival</a>—our favorite festival each year—and then straight into the studio to write the second Art Department album, which should be ready fall of 2013.   ",
+    "blurb": "The dark side of Jonny White and Kenny Glasgow. "
+  }
+}

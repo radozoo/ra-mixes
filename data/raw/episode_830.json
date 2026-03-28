@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "830",
+  "url": "https://ra.co/podcast/830",
+  "id": "830",
+  "__typename": "Podcast",
+  "title": "RA.830 Roy Davis Jr.",
+  "date": "2022-05-01T22:00:33.000Z",
+  "fileSize": 269205458,
+  "duration": "01:51:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra830-roy-davis-jr-cvr.jpg",
+  "contentUrl": "/podcast/830",
+  "tracklist": "Angel-A + Russoul - Woman Behold Your Son\nBig Boss\nAl Zanders - Spring Booo\nFred Everything - Space Time (Atjazz Galaxy Aart Remix)\nAndy Compton - A Song For Leon\nGlenn Underground - Acid Exultant\nGroove Creator - Jingoloba\nUnknown - Prechin 2 The Choir\nNina Simone - See-Line Woman (Riton Remix)\nJamie 3:26 - End Of Da Week (Jamie 3:26 Edit)\nMilton Jackson & Matt Masters - Viaggio\nLast Nubian - Share Your Path\nGU's Jaz Collective - Afro Gente\nMoodymann - Demos, Cassettes, ADATs & Floppies Pt?.?1\nAnte Perry & Flo Mrzdk - Hold Tight\nCrackazat - Beacon Of Light (Maritime Dub)\nRoy Davis Jr. - Story Untold (Groove Creator Remix)\nUnknown - The Sky Crawlers\nRoy Davis Jr. - Feel Free\nDuke Hugh - Got My 606 Back\nChaos In The CBD - Invisible Spectrum\nGourment De Funk - A Love Supreme (Roy Davis Jr. Remix)",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra830-roy-davis-jr",
+  "keywords": "",
+  "artist": {
+    "id": "10126",
+    "__typename": "Artist",
+    "name": "Roy Davis Jr"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The decade-spanning career of Roy Davis Jr. is intrinsically intertwined with the history of house music. As one of the defining voices of Chicago's underground, he's worked both behind the decks and behind-the-scenes. From handling Strictly Rhythm's A&R sector in the '90s to joining seminal production crew Phuture to launching his own Undaground Therapy Muzik label, Davis Jr. isn't just a veteran but a compendium of dance music knowledge. Daft Punk cites him as an influence while the likes of Disclosure, Zed Bias and Waajeed have sought him out for collaborations.\n\nHe may be best known for his 1998 single \"<a href=\"/reviews/34764\" target=\"_blank\">Gabriel</a>\" with Peven Everett—now a garage anthem on both sides of the Atlantic—but his discography and DJ sets go well beyond club hits. Weaving in soul, gospel, disco, techno and acid into a deep house framework, he marries raw funk, plush melodies, hypnotic synths and stripped-down arrangements. All these elements are beautifully captured on his <i>RA</i> Podcast. Moving from a state of eyes-closed bliss to body-moving grooves, the near two-hour session is as grounding as it is free-floating. Spiritual, sensual and tightly mixed, it's a lesson in multifaceted house music.\n\n<b>What are you grateful for these days?</b> \n\nI'm grateful for Life.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThis mix was recorded inside in my living room, with my patio doors open, so my neighbors can hear some cool vibes :) they love it when I play loud with my sliding doors open.\n\n<b>How do you keep your productions sounding fresh after making house music for so long?</b>\n\nWell, most of the time I just create vibes of how I'm feeling that day. Sometimes I'm feeling electric and want to tweak all my analog gear and catch a groove and build from there, on other days I might feel soulful and romantic that usually leads me into writing lyrics or telling a story. At the end of the day house is a feeling and it has freedom to it, unlike most other genres, sometimes formulas work, I just seem to create music that just may not fit into the norm, on the other hand it just might, if you are courageous enough it all can work. \n\n<b>You're currently working with G-funk legend Steve Arrington on a new record. What did you learn from him?</b> \n\nI learned that he is a true kind soul with tons of love and passion for dance music of many styles. Also his song writing and voice sticks to your body and soul and it was a true pleasure vibing and working with him.\n\n<b>You started Underground Therapy Muzik in 1996 but then relaunched it in 2018. How has the label's vision and strategy changed over the years?</b> \n\nI think the label is more aimed at building new artists these days and getting most of the back catalogue back out there for the diggers of today and the house music lovers of tomorrow. And just having tons of fun checking out new tunes and working with a good team in the UK, ADMG (AD Music Group), who help me keep a good grip on things with so much passion. \n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n \nThe world needs to have more sympathy for those without food or a place to stay, and just put a end to earthly greed and procreate more Love!\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm looking very forward to doing a worldwide Undaground Therapy Muzik tour organized by ADMG, with a few of my buddies from the label. ",
+    "blurb": "A legend steps up."
+  }
+}

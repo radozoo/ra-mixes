@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "451",
+  "url": "https://ra.co/podcast/451",
+  "id": "451",
+  "__typename": "Podcast",
+  "title": "RA.451 Mr. G",
+  "date": "2015-01-19T00:00:48.000Z",
+  "fileSize": 145256551,
+  "duration": "01:00:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra451-mr-g-cvr.jpg",
+  "contentUrl": "/podcast/451",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra451/",
+  "keywords": "Colin McBean, Advent, Phoenix G, State of Flux, Rekids, Personal Momentz",
+  "artist": {
+    "id": "7479",
+    "__typename": "Artist",
+    "name": "Mr. G"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"I'm 52, I'm still here and I can still kick your butt.\" In his music, live performances, interviews and, one would presume, life in general, Colin McBean doesn't pull any punches. The quote comes from a <a href=\"/feature.aspx?1888\">2013 Machine Love feature</a>, in which he told Jordan Rothlein how key a sense of intensity is to his music. Before he turned his attention to the Mr. G project, this was manifested in The Advent, a duo McBean was part of who were known for their ferocious vision of techno. What followed may have been several shades lighter, but the sample-heavy house sound McBean has been refining as Mr G since 2000 is still among the hardest hitting club sounds you're likely to come across. He's released the bulk of this material through his label, Phoenix G, although the last few years have seen him on REKIDS, Running Back, Don't Be Afraid and Toi Toi Musik among others (even by his own ridiculous standards, he's been prolific as of late). What the relentless side of Mr G's music sometimes hides is the deep personal themes that drive him as an artist. To use two recent examples, <i>State Of Flux</i>, his 2012 album on REKIDS, was a response to the death of his close friend Lev Van Delden, while most recent record, <i>Personal Momentz</i>, was written after he lost his father.      \n\nMcBean doesn't DJ too often these days, but his RA podcast shows that when selecting music he values the qualities that his own music exhibits: groovy, soulful and timeless.\n",
+    "blurb": "Just good house music. "
+  }
+}

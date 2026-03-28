@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "38",
+  "url": "https://ra.co/podcast/38",
+  "id": "38",
+  "__typename": "Podcast",
+  "title": "RA.037 Oliver Huntemann",
+  "date": "2006-12-11T11:00:11.000Z",
+  "fileSize": 82374697,
+  "duration": "01:25:46",
+  "imageUrl": "https://static.ra.co/images/podcast/ra037-oliver-cover.jpg",
+  "contentUrl": "/podcast/38",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra037/",
+  "keywords": "",
+  "artist": {
+    "id": "875",
+    "__typename": "Artist",
+    "name": "Oliver Huntemann"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Huntemann is one of those efficient German producers who have a million releases under their belts. He started off his career as one half of trance act Humate in the early nineties (remember ‘Love Stimulation?) and fifteen years later he’s going stronger than ever, releasing dark, electro-tinged techno on labels such as Giant Wheel and DJ Hell’s label International Gigolo, as well as his own imprints Confused and Dance Electric.\n\nRecently Huntemann has built the Super 8 Studio together with Stephan Bodzin in his hometown of Bremen. Huntemann likes to collaborate: this year he’s worked with Get Physical vocalist Chelonis R. Jones, D-Saw and also of course studio partner Bodzin. Recent Huntemann & Bodzin remixes have included reworkings of Sono (the basstastic ‘Blame’), Yello (‘Oh Yeah’) and Depeche Mode (‘Everything Counts’). The partnership has also been releasing under the “anonymous” banner of Rekorder, who are midway through a delicious series of ten 12” singles. Rekorder are also honing a live act for gigs in 2007, so stay tuned.\n\nBut it’s the DJing we’re interested in here, and Huntemann has been honing his skills behind the decks since way back when. His mix for RA merges the latest in bass-heavy, Northern German electro with delicate mixing skills. Turn it up. \n\nRA spoke to Oliver...\n\n<b>What have you been working on recently?</b>\nAt the moment I am planning the release tour to my new compilation \"Play! 01 - Live at the D-Edge, Sao Paolo, Brazil\" which will be released 19 February 2007. I have also done a remix from the Depeche Mode all time classic 'Everything counts', together with Stephan Bodzin. It will be released on Mute records in Spring 2007.\n\n<b>Where was the mix recorded?</b>\nThe mix was recorded in November at BeCool, Barcelona.\n\n<b>What are you up to next?</b>\nI am going on tour to Australia and Asia, after that I will start working on my new album.\n\n\n<i>Thanks to <a href=\"http://www.myspace.com/boogieboy69\">Boogie Man Jeff</a> for the recording.</i>",
+    "blurb": "Oliver Huntemann features in this week’s podcast with a DJ set recorded live at BeCool in Barcelona."
+  }
+}

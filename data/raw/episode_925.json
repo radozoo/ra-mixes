@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "925",
+  "url": "https://ra.co/podcast/925",
+  "id": "925",
+  "__typename": "Podcast",
+  "title": "RA.925 Shubostar",
+  "date": "2024-02-25T23:00:52.000Z",
+  "fileSize": 148706020,
+  "duration": "01:01:58",
+  "imageUrl": "https://static.ra.co/images/podcast/ra925-shubostar-cvr.jpg",
+  "contentUrl": "/podcast/925",
+  "tracklist": "Princess Maker 2 OST - Profile Determination\nCal Tjader - Aquarius\nThe Orb - Little Fluffy Clouds (Cumulo Nimbus Mix)\nDJ City - Space Ballad \nJex Opolis - Mt. Belzoni\nOsamu Shoji - Outer Space\nSally Shapiro - Jackie Jackie (Spend This Winter with Me) \nMabinogi OST - Wish\nPrivate Agenda - Free Falling\nDaniele Baldelli - Cosmic Drag\nIchisan - Villa Angiolina\nBoogielab - Sonic Islands\nKraftwerk - Spacelab (2009 Remaster)\nYellow Magic Orchestra - Firecracker\nAge Of Discovery OST - Costa del Sol\nSekito Shigeo - The Word II\nSuper Mario Bros OST - Level Clear \n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra925-shubostar/",
+  "keywords": "",
+  "artist": {
+    "id": "75448",
+    "__typename": "Artist",
+    "name": "Shubostar"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Shubostar's <i>RA</i> Podcast begins and ends with video game music. (The beginning kind of sounds like <i>Mary Poppins</i>, actually.) Lots of DJs and producers play or make music that emulates the nostalgic sounds of old-school gaming, but the South Korean artist goes direct to the source. Before falling in love with dance music, she went to an animation-focused high school and learned how to make video games—so it's basically in her musical DNA. And while her DJing isn't as out-there as you might expect from that description, '90s and '00s Japanese video game (and anime) soundtracks offer a good idea of what her playing sounds like: lush, synthetic and a little naive, full of wonder and positive vibes.\n\nWith releases on labels like Permanent Vacation, Internasjonal and her own uju Records, Shubostar is also a student of cosmic space disco, inspired by artists like Daniele Baldelli, Lindstrøm and Prins Thomas. Lately she's been rubbing elbows with Âme and Dixon. She picks tracks from across eras and genres on her <i>RA</i> Podcast, with cuts from Yellow Magic Orchestra, Baldelli and Kraftwerk alongside selections from DJ City and Private Agenda. It's a mix full of mood shifts, dazzling keyboard runs and, of course, melodies that seem to reach out towards the heavens—or outer space.\n\n<b>What have you been up to recently?</b>\n\nI've been balancing my time between running, practising yoga and diligently working on this mix. Practising daytime running after indulging in lots of delicious food in my last travels, and I'm starting to feel a bit of a weight gain. Despite that, I feel fully recharged and am eagerly prepared for the upcoming gigs!\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI'm currently staying at a friend's house near the Vatican in Rome. I aimed to craft a unique mix that reflects my distinct style. My educational background involves graduating from an animation high school with a specialisation in computer games. Despite not actively playing games these days (it's a bit too risky for me, haha), gaming remains a significant part of my life. Soundtracks are a crucial element in creating the ambiance within games. Even now, when I listen to these tracks, they transport me back into the virtual world. I wanted to convey and share this immersive feeling through my mix.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nI am part of the minority within a minority—woman and Asian. This struggle has been a constant throughout my life. I strive to raise my voice, even though its impact may not always be substantial. There's a quote from Maisie Williams that resonates with me: \"I feel like we should stop calling feminists 'feminists' and just start calling people who aren't feminists 'sexist'—and then everyone else is just a human. You are either a normal person or a sexist.\" Isn't it powerful? It's akin to how we label racists.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nBurning Man always brings growth. This year at Robot Heart, especially post-sunrise, stood out. I was lucky to play at that time, drawing in early risers, post-breakfast crowds, and those who partied until sunrise without sleep. I managed to catch some rest before my set, appearing fresh in the morning. It felt like a ritual—music, dance and a surge of vibrant love energy. In that moment, we were fully alive, connected by music's powerful ability to unite us all, regardless of our sleep schedules.\n\n<b>What are you looking forward to in the near future?</b>\n\nThe future is now! I am excited about playing in Chamonix surrounded by the mountains and beautiful sceneries. I will combine it with a ski holiday. Even though I'm a beginner, but I really enjoy it.",
+    "blurb": "Cosmic disco."
+  }
+}

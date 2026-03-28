@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "176",
+  "url": "https://ra.co/podcast/176",
+  "id": "176",
+  "__typename": "Podcast",
+  "title": "RA.176 Arto Mwambe",
+  "date": "2009-10-12T00:00:56.000Z",
+  "fileSize": 76364987,
+  "duration": "01:03:37",
+  "imageUrl": "https://static.ra.co/images/podcast/ra176-arto-mwambe-cover.jpg",
+  "contentUrl": "/podcast/176",
+  "tracklist": "Zachary - Richie Lion - <a href=\"/record-label.aspx?id=996\">Brontosaurus</a>\nBoom Clap Bachelors - Love (Tuff City Kids Remix) - Music For Dreams\nLars Bartkuhn - Goodbye Dancing Hello God (Arto Mwambe Remix) - <a href=\"/record-label.aspx?id=427\">Sonar Kollektiv</a>\nCB Funk - Untitled - Story\nErdbeerschnitzel - Tonite Is Today Is Tomorrow (Arto Mwambe Remix) - <a href=\"/record-label.aspx?id=2730\">Under the Shade</a>\nMoscow - Throw Up (Brontosaurus Remix) - <a href=\"/record-label.aspx?id=1068\">Endless Flight</a>\nPlein Soleil -  Casus Belli (Brontosaurus Saga) - <a href=\"/record-label.aspx?id=2253\">Live at Robert Johnson</a>\nLauer - Delta NRG - <a href=\"/record-label.aspx?id=996\">Brontosaurus</a>\n<a href=\"/dj-page.aspx?id=4559\">Arto Mwambé</a> - Lovelift (Osborne Remix) - <a href=\"/record-label.aspx?id=996\">Brontosaurus</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra176/",
+  "keywords": "Arto Mwambe, house, deep house, disco, Brontosaurus",
+  "artist": {
+    "id": "4559",
+    "__typename": "Artist",
+    "name": "Arto Mwambe"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Who or what is Arto Mwambé? Until recently we were led to believe that he's a talented young producer from Burkina Faso. But it recently came out that the men responsible for the project are actually Christian Beißwenger (AKA CB Funk) and <a href=\"/record-label.aspx?id=996\">Brontosaurus</a> boss Phillip Lauer. The two Frankfurt natives have been active in the city's electronic music scene since the turn of the decade, with Lauer making his mark with a run of choice deep house 12-inches on local label Séparé Recordings, and Beißwenger dabbling in the funkier end of microhouse and minimal techno. Soon after teaming up for a 12-inch of twisted electronic disco on Punkt, Lauer launched his Brontosaurus imprint and took Beißwenger under his wing.\n\nIt proved to be a good choice: The sublime rolling house of the <i>Mudhutma!</i> EP became quite the sleeper hit throughout 2007, and follow-up singles successfully straddled the line between quirky electro-disco and squelchy house. They've also started a new studio project alongside Daniel Nentwig and Thomas Sabrowsky of Extra Produktionen which also goes under the Brontosaurus tag, and this week's RA podcast will serve as an introduction to their little musical family. We spoke to the Mwambe guys about the mix, Burkina Faso and their forthcoming performance at <a href=\"event.aspx?112070\">RA's party at Trouw</a> during this month's Amsterdam Dance Event.\n\n<b>What have you been working on recently?</b>\n\nWe've been working on a bunch of remixes for different people like Under The Shade and Firecracker Recordings, a few other things with our other projects (CB Funk, Brontosaurus, Lauer), and of course our live set... and they've have all keeping us away from finalizing our next 12-inch, which has been in the pipeline for over a year now. We're a bit slow as both of us have nine-to-five jobs living a sad life. Haha!\n\n<b>Where and how was the mix recorded?</b>\n\nTo be honest, computer wizardry in our studio. We used unreleased material and some older stuff and added some synare and crumar noise with tape delays.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nThe idea to solely use our own and friends material came because we did a Brontosaurus megamix last year with great response, and we thought it'd be cool to feature some new cuts which haven't been pressed to vinyl yet.\n\n<b>Why did you use a pseudonym for this project? And why Burkina Faso?</b>\n\nA dramatic lack of humour back in 2004.\n\n<b>What can we expect from you at the RA party during ADE?</b>\n\nWe'll see. As always, we changed the set up again. We do that all the time, so this time it's: no keys, two drum machines, a synth and an MPC. We'll bring a lot of new tracks & ideas, so we're curious as well.\n\n<b>What are you up to next?</b>\n\nWe'll hopefully find the time to work on some original Mwambe material. Next up is a 12-inch called <i>Love Lift</i> with a Osborne remix on it. We just need to finish one more track! And there are more remixes to be done. Chris has just finished a new release on Story as CB Funk, Tuff City Kids (Phillip and Gerd Janson) are working on secret projects. We also have the plan to record original material as Brontosaurus with our third man Saap (Extraproduktion) and Daniel (Extraproduktionen / Whitest Boy Alive). And a possible Lauer collabo with the Permanent Vacation buddies. Might do some travelling as well, so we can't complain.",
+    "blurb": "The Brontosaurus boys show us what they're all about on this week's RA podcast."
+  }
+}

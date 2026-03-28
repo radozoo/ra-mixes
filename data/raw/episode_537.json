@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "537",
+  "url": "https://ra.co/podcast/537",
+  "id": "537",
+  "__typename": "Podcast",
+  "title": "RA.537 James Ruskin",
+  "date": "2016-09-12T00:00:22.000Z",
+  "fileSize": 147208450,
+  "duration": "01:01:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra537-james-ruskin-cvr.jpg",
+  "contentUrl": "/podcast/537",
+  "tracklist": "Russell Haswell - Interlude\nFinal\t- My Body is a Dying Machine\nLakker - Chain Of Combs\nTessela - Sorbet\nPhase - R- Mash (O/V/R Mix)\n65D Mavericks\t- Midnight\nSteve Bicknell - Lost 3 (James Ruskin Remix)\nSimon Shreeve - Healing Bowl\nAutechre - Pendulu\nEschaton\t- Dues Irae\nAncestral Voices - Sleepless Ritual (Samuel Kerridge Remix)\nBlawan - Passer By\nPlaid - Clock\nTessela - Rub\nO/V/R - Easy Prey\nSurgeon Meets Outline - Golden Age\nRumah & Progression - Lein\nOliver Ho\t- Genuflect\nRegis - Party Spoiler Too\nAnsome - Snake Eyes (O/V/R Mix)\nMakaton - Coast to Coast\nJames Ruskin & DVS1 - Page 1\nRuskin & Broom - Domwen\t\t\t\t\nPlanetary Assault Systems - Dungeon (Phase Remix)\nSurgeon - Bland Ambition\nTruss - Wanastow\nJames Ruskin\t - 6Teenth\nRandomer - Sheen",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/282531348",
+  "keywords": "Techno, Regis, OVR, Token, Blueprint Records, Stroboscopic Artefacts",
+  "artist": {
+    "id": "2057",
+    "__typename": "Artist",
+    "name": "James Ruskin"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "James Ruskin is a cornerstone of UK techno. He emerged in the mid-'90s as the style was in the midst of a famously fertile period, thanks to trailblazing releases from labels such as Downwards, Peacefrog and Soma Quality Recordings. Ruskin and Richard Polson, who sadly passed away in 2006, arrived with their own label, Blueprint, in 1996. Taking cues from Underground Resistance and the influential Birmingham aesthetic, the pair explored a raw, barrelling sound that immediately caught traction with DJs at home and abroad, cementing Blueprint's place as one of UK techno's key labels. It remains one <a href=\"<a\">20 years</a> later, with a catalogue that includes much-loved work from the likes of Oliver Ho, Surgeon and, more recently, Lakker and Samuel Kerridge.  \n  \nWe get a snapshot of Ruskin's current sound as a DJ on this week's podcast. Heavy on broken beats, some sections are a little more out-there than you might expect from him, but it's put together with the same artful finesse that's been with him throughout his 20-year career.\n\n<b>What have you been up to recently?</b>\n\nMost of this year has been spent putting everything together with the label and trying to finish or start the various projects I have on the go at the moment.\n \n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my studio with the usual DJ paraphernalia.\n \n<b>Could you tell us about the idea behind the mix?</b>\n\nIt's some of the music that is representative of my sets recently.\n      \n<b>You've collaborated extensively with Regis and Mark Broom. What needs to be in place for a collaboration to be successful?</b>\n\nBeing able to communicate, trust each others judgement, and not take it personally when you get told something is crap.\n\n<b>What do you see as main differences in the sound of UK techno today compared with the '90s?</b>\n\nThe music constantly evolves. The advances in technology has changed the sonics and possibilities dramatically since the '90s, and this leads to an ever increasing amount of experimentation, which keeps things moving forward.\n\n<b>Blueprint recently reissued tracks by Oliver Ho and yourself. What made you think it was time for those records to come out again?</b>\n\nWe were coming up to the 20th anniversary of Blueprint and I felt that the younger generation, who've only been turned onto techno in more recent years, may not be aware of Oliver's early releases. I also felt that certain records would benefit from an up to date and more considered approach to the mastering process.\n\n<b>What are you up to next?</b>\n\nI am trying to focus on the studio right now, so I'm working on a lot of new material and piecing together the upcoming releases for Blueprint. And, of course, playing music at people over the weekends.  ",
+    "blurb": "A UK techno hero steps up."
+  }
+}

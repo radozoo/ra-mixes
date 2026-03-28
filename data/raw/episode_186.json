@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "186",
+  "url": "https://ra.co/podcast/186",
+  "id": "186",
+  "__typename": "Podcast",
+  "title": "RA.186 Cosmic Twins",
+  "date": "2009-12-21T09:00:14.000Z",
+  "fileSize": 72159757,
+  "duration": "01:00:06",
+  "imageUrl": "https://static.ra.co/images/podcast/ra186-cosmic-twins-cover.jpg",
+  "contentUrl": "/podcast/186",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra186/",
+  "keywords": "Cosmic Twins, Derrick May, Francois K, Wave, Transmat, techno, house",
+  "artist": {
+    "id": "12113",
+    "__typename": "Artist",
+    "name": "Cosmic Twins"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "François Kevorkian. Derrick May. With more than 50 years of combined experience in dance music, it's safe to say that this duo has seen it all. And then some. And yet despite their lengthy résumés, Kevorkian and May show no signs of settling down anytime soon. Kevorkian has recently been in the studio with another legend, Juan Atkins, <a href=\"/review-view.aspx?id=6893\">remixed</a> Moritz Von Oswald and Carl Craig's \"Recomposed\" and has a healthy release schedule planned for 2010 with his Wave music imprint. May has been touring the world per usual, continuing to spread the gospel of techno wherever he goes, and recently relaunched his Transmat imprint after years of inactivity.\n\nAnd, in between all of this, the two even find time to DJ together every so often. The schedules don't often match up certainly, but when they do it's often for very special one-off events. Two cases in point: Their <a href=\"/event.aspx?134561\">upcoming New York show</a> at Santos Party House on December 26th, which will be the first time that they have performed together in the city since 2004, and their show <a href=\"/event.aspx?135659\">earlier this year</a> in Japan, from which this podcast is taken. The latter showcases the duo providing an up-tempo peek at what happens when two dance music legends get together. We caught up with one of them—François K—to ask a few questions about the mix. \n\n<b>What have you been working on recently?</b>\n\nI was in the studio with Juan Atkins this week, and I've been working on some remixes—the Moritz Von Oswald and Carl Craig \"Recomposed\" one was just recently released. \n\n<b>How and where did you record the mix?</b>\n\nThis is a piece of a live recording from our seven-hour set from earlier this year at ageHa in Japan.\n\n<b>How would you say you two differ in your DJing styles?</b>\n\nI'll leave that to the critics I think, but I would say that there is an unspoken chemistry to what we do. Derrick might be more of the moment or instinctive, I might be more known for planning things, but we often take different roles as well. It's always different.\n\n<b>Why did you choose Santos Party House for your New York gig with Derrick?</b>\n\nSantos retains the flavor of the downtown party scene of New York. It's the opposite of the bottle service vibe.",
+    "blurb": "Francois K and Derrick May. Need we say more?"
+  }
+}

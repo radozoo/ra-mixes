@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "478",
+  "url": "https://ra.co/podcast/478",
+  "id": "478",
+  "__typename": "Podcast",
+  "title": "RA.478 Daniele Baldelli ",
+  "date": "2015-07-27T00:00:57.000Z",
+  "fileSize": 162234987,
+  "duration": "01:07:27",
+  "imageUrl": "https://static.ra.co/images/podcast/ra478-daniele-baldelli-cvr.jpg",
+  "contentUrl": "/podcast/478",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra478/",
+  "keywords": "Disco, afro, Italy, cosmic, funk, Le Plaisir",
+  "artist": {
+    "id": "3570",
+    "__typename": "Artist",
+    "name": "Daniele Baldelli"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "What were you doing this time 46 years ago? It was 1969, and for Daniele Baldelli he'd just started DJing, at a time when DJing as we understand it today didn't exist. It's obviously incredible that the Italian artist is still active today, and equally incredible that he's as busy as ever, playing regularly around Europe and America and releasing high quality music like this year's <i>Cosmic Drag</i> LP on Mule Musiq. The foundations for Baldelli's longevity were established through two key club residencies in the late '70s and early '80s. The first was at Baia Degli Angeli, a club that was thought of as the Italian equivalent of Studio 54. Baldelli followed in the footsteps of the highly influential Baia residents Tom Sison and Bob Day by mixing with imported disco records, a new and unique proposition for the Italian scene. Baldelli was technical perfectionist who was known to privately <a href=\"http://daily.redbullmusicacademy.com/2013/12/nightclubbing-baia-degli-angeli\">play 200 tracks</a> into one to see which fitted best. Following Baia's closure, Baldelli took a gig at a club called Cosmic in Lake Garda. He'd already begun to experiment with different styles of music at Baia, but at Cosmic he truly went for it. His sets became a maze of African music, disco, psychedelic rock, krautrock and dub, often played at the wrong speed, a flourish that only added to the deeply weird style Baldelli became famous for. \n\nOn Baldelli's RA podcast we actually get the opposite of this, an almost exclusive focus on a single style: funk. The set was recorded at Le Plaisir in Lake Garda, and it finds Baldelli gliding through tracks with the panache of an almost 50-year veteran of the craft.  \n\n\n<b>What have you been up to recently?</b>\n\nI am always in the recording studio, if I'm not at my DJ gigs.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix a year ago at my funky night at a club in Italy.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe club flyer for the evening said, \"Back to my funky side,\" or \"We got the funk,\" so obviously I proposed only funky tracks!\n\n<b>You've obviously been DJing for a substantial length of time now, but has the way you approach the craft changed much over the years?</b> \n\nI have been a DJ since 1969, and you'll bear with me for many years to come! \nWhen I started DJing was still to be invented; the youth of today find everything ready for them. Everything should be easier, but they should also study the history of the music!\n\n<b>You've been pretty busy with touring recently. Were there any standout gigs?</b>\n\nMy evenings are all standout gigs, even those where there are only one hundred people.\n\n<b>What are you up to next?</b> \n\nI'm always in the studio and always DJing, but in August I have 15 gigs all over Italy. Also on August 8th I play <a href=\"/event.aspx?736437\">Wecandance</a> at Zeebrugge Beach in Belgium, and Sunday, August 30th I'm playing <a href=\"/event.aspx?681772\">Dimensions Festival</a> in Croatia. Plus, DJ Rocca and I worked on the <i>Kachiri</i> remixes, which you can buy on digital now. There will also be some special vinyl in the colours of the Italian flag, out soon on <a href=\"http://www.neinrecords.co.uk\">Nein Records</a>. ",
+    "blurb": "The revered veteran DJ gets funky. \r\n"
+  }
+}

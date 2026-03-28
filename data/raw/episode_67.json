@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "67",
+  "url": "https://ra.co/podcast/67",
+  "id": "67",
+  "__typename": "Podcast",
+  "title": "RA.067 Anja Schneider",
+  "date": "2007-08-21T14:03:07.000Z",
+  "fileSize": 78907075,
+  "duration": "01:05:44",
+  "imageUrl": "https://static.ra.co/images/podcast/ra067-anja-schneider-cover.jpg",
+  "contentUrl": "/podcast/67",
+  "tracklist": "01. Kabale & Liebe & Daniel Sanchez - Mumbling yeah - <a href=\"/record-label.aspx?id=1078\">Remote Area</a> \n02. Anja Schneider - Mole - <a href=\"/record-label.aspx?id=772\">mobilee</a> \n03. Pan-Pot - Crank - <a href=\"/record-label.aspx?id=772\">mobilee</a> \n04. Raudive - Magnetic - <a href=\"/record-label.aspx?id=668\">Music Man</a>\n05. Marc Antona & Anthony Collins - Sharks - <a href=\"/record-label.aspx?id=979\">Micro Fibres</a>\n06. Catz ´n´ Dogz - Searching - <a href=\"/record-label.aspx?id=1060\">leena music</a>\n07. Andreas Jornvil - Bitch Fuck - Comfortable Records\n08. Pan-Pot - Charly - <a href=\"/record-label.aspx?id=772\">mobilee</a> \n09. Philip Sherburne - Lumber Jackin - <a href=\"/record-label.aspx?id=870\">Lan Muzik</a>\n10. Dapayk & Padberg - Black Beauty - Dapayk's After Hour Edit - <a href=\"record-label.aspx?id=1110\">Mo's Ferry</a> ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra067/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:751"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Anja Schneider has four jobs: She's a label head, a DJ, a producer and a radio personality all rolled into one. Resident in Berlin since 1994, Anja started out on the airwaves, producing for KissFM and later Fritz Radio, where since 2000 she has hosted the weekly radio show <a href=\"http://www.fritz.de/_/programm/bluemoon/detail_jsp/key=113799.html\">Dance Under the Blue Moon</a>. The show broadcasts on the air and <a href=\"http://www.fritz.de/_/hoeren/index_jsp.html\">on the web</a> every Saturday night, and trainspotters should take note: She doesn't mix records on the show, she plays them, talks about them and, thankfully, tells you what they're called, which makes the show a nice way to find out what is bubbling under in Berlin.\n\nAnja Schneider also runs the label Mobilee Records and its new offshoot Leena. Despite its short history, Mobilee has grown into one of Berlin's most watched stables with a close knit roster of producers on the books including Sebo K, Exercise One, Pan-Pot and Marcin Czubala. Just thirty releases old, Mobilee has managed to carve out its own distinct sound in a city where everyone seems to be making music: the label's mix of pristine minimal, slinky grooves and deep house manages to push dance music forward while remaining instantly accessible.\n\nRecently Anja has also turned to producing, often in collaboration with studio partners such as Sebo K and Paul Brtschitsch. With a string of releases on Mobilee as well as remixes for labels such as Tsuba and Immigrant, her music often combines loopy techno with melodicism, although her latest 12\" <a href=\"/review-view.aspx?id=4677\">'Loop Der Mer'</a> out this month pushes in a housier direction. And you read it first here: Watch out also for an Anja Schneider album soon.\n\nFinally, Anja is a DJ. A resident at Club Watergate from 2003, these days she spins more often at Mobilee showcases around Europe and beyond than home in Berlin, although a new <a href=\"http://www.residentadvisor.net/news.aspx?id=8814\">Mobilee residency</a> at Club Weekend looks set to change that in 2007. No stranger to assembling podcasts and radio shows, for her RA mix Anja has put together sixty five minutes of the latest Mobilee and Leena tracks as well as likeminded records from labels such as Remote Area, Lan Muzik and Mo's Ferry. Enjoy.",
+    "blurb": "This week's podcast is an hour of minimal techno from Mobilee Records head Anja Schneider."
+  }
+}

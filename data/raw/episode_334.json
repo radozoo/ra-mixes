@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "334",
+  "url": "https://ra.co/podcast/334",
+  "id": "334",
+  "__typename": "Podcast",
+  "title": "RA.334 Danny Daze",
+  "date": "2012-10-22T00:01:12.000Z",
+  "fileSize": 93576402,
+  "duration": "01:17:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra334-danny-daze-cvr.jpg",
+  "contentUrl": "/podcast/334",
+  "tracklist": "Anthony Rother - Biomechanik\nBjorn Torske - Slitte Sko (Crimea X remix)\nAksel Friberg - Viking Line\nSecond Hand Satellites - Orbit 1.4\nFeedback - The Flow\nWolfram - Thing Called Love (Legowelt remix)\n[white label] - I'll House You (Danny Daze edit)\nJoe Lentini - V Bomb Wrap (Danny Daze edit)\nRadionasty - Radio 1\nDexter - (live cut)\nJoss Moog - Forever Pimpin'\nDaniel Maloso - Discoteca Carvencola\nRed Axes - Say No More\nMario & Vidis - Care (Danny Daze Smokin Dub mix)\nThird Culture - Bass Is A Many Splendored Thing\nRenaissance Man - Natty Jussi (Jori Hulkkonen remix)\nJames White - \"untitled\"",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra334/",
+  "keywords": "Danny Daze, Hot Creations, Jupiter Jazz, Daniel Gomez, ",
+  "artist": {
+    "id": "9542",
+    "__typename": "Artist",
+    "name": "Danny Daze"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Danny Daze's breakthrough track, \"Your Everything,\" placed him at the vanguard of the slower, '80s-influenced house sound that has come to prominence these past two years. It was two of the style's chief proponents, Jamie Jones and Lee Foss, who first recognized the track's potential, signing it to their Hot Creations label at the start of 2011. With its K-addled robo vocal, \"Your Everything\" went on to become the unofficial anthem of last year's WMC; B-side \"Fall Away From Love,\" a more straight-ahead brand of anthem, proved equally as potent for those who flipped the record. The success at Miami was particularly sweet for Daze. The producer, real name Daniel Gomez, was raised in city and had been a part of its rave community as a DJ since the age of 13. \n\nDuring any music-led conversation with Gomez, his love for classic electro is bound to be discussed—he's most recently applied the influence on his rolling remix of Justin Martin and Pillowtalk's \"The Gurner\" for Dirtybird. And on RA.334 the spirit of the sound runs rampant via music from Anthony Rother, Dexter, Legowelt and unreleased music from Gomez himself.  \n\n<b>What have you been up to recently?</b> \n\nThe common answer would be in the studio and DJing, but that's pretty much all I've been doing. Remixed waaay too much this year so I'm back to writing original stuff. Hopefully put out an album soon. \n\n<b>How and where was the mix recorded?</b>\n\nI got really excited to do this mix because it helped focus me to do something I've been wanting to do for a while, which is digitize and re-master some vinyl tunes I used to play a lot. I did the mix on Ableton while lying in bed and took breaks in between to watch <i>Here Comes Honey Boo Boo</i>. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to put a mix together that was both listenable in a car and at the same time makes you wanna wiggle. Some of the tracks in the mix are all time favorites while some are brand new tunes I'm diggin these days. Every mix I do usually has some sort of theme, with this one I definitely wanted to put forward a mix of the sound that inspires me. \n\n<b>Was there a golden period for electro in your mind?</b> \n\nDefinitely, although I've always split electro into two generations. You have the Hashim, Cybotron, Newcleus years. Then you have the Carl Finlow, Two Lone Swordsmen, Underground Resistance years. Both are my main influences when it comes to making music and DJing.  \n\n<b>How is the scene in Miami (outside of WMC) right now?</b> \n\nI'd have to call my friends for that one. I moved out of Miami at the beginning of the year but I do miss the days where there was a huge underground scene. I'm talking about three thousand people coming out to hear Dopplereffekt on a Thursday night. That was about ten years ago. M3rck and Schematic Records had a lot to do with it. Hell, even trance was dope. The Mix Afterhours had some of the best music I've ever heard in my life. Now everything is over saturated and Tiesto'd out. The guys over at Treehouse and Electric Pickle are responsible for CPR-ing Miami's underground scene though. Respect to them. \n\n<b>What are you up to next?</b> \n\nCurrently working on my next EP and started a new project called Jupiter Jazz. That's señor Eric Estornel and I forcefully taking a techno/electro mentality into the studio and seeing what the hell comes out. Also been doing a tiny bit of A&R for Ellum Audio which is fun. ",
+    "blurb": "The man from Miami. "
+  }
+}

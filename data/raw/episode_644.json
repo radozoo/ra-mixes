@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "644",
+  "url": "https://ra.co/podcast/644",
+  "id": "644",
+  "__typename": "Podcast",
+  "title": "RA.644 Leon Vynehall ",
+  "date": "2018-10-01T00:00:06.000Z",
+  "fileSize": 222093284,
+  "duration": "01:32:32",
+  "imageUrl": "https://static.ra.co/images/podcast/ra644-Leon-Vynehall-cvr.jpg",
+  "contentUrl": "/podcast/644",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/507735171",
+  "keywords": "Nothing is Still, Ninja Tune, Max Sztyber, Young Replicant, Music for the Uninvited",
+  "artist": {
+    "id": "36057",
+    "__typename": "Artist",
+    "name": "Leon Vynehall"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<a href=\"/reviews/22738\"><i>Nothing Is Still</i></a>, Leon Vynehall's first LP, marked a creative highpoint for the UK producer. Released in June on Ninja Tune, the album was sonically and conceptually ambitious, with Vynehall working alongside a ten-piece string section, a saxophonist and a pianist—an understandable move for an artist whose early singles and EPs brimmed with musicality. <i>Nothing Is Still</i>'s story—inspired by his grandparents' journey to New York City from the UK in the 1960s—was enriched by a novella written with Max Sztyber and a series of elegant <a href=\"https://www.youtube.com/watch?v=p85WrPoSBYo\">short films</a> directed by Young Replicant. As Ryan Keeling <a href=\"/reviews/22738\">noted</a> in his review of the album, \"Vynehall transcends his tag as a dance music producer and simply becomes a musician who's expressing himself.\" <i>Nothing Is Still</i> has since gone on the road, with a sold-out three-night run of live shows at Hackney Showroom in London followed by another three dates at The Kitchen in New York City last weekend.\n\nOn his RA podcast, Vynehall returns to the dance floor—but on his terms. \"I wanted to do something steered slightly more towards the dance floor, whilst still taking it left and right, up and down,\" he told us. \"I can never really stick strictly to one style. I tend to get bored, and I think listeners would too.\" With mesmerising grooves and catchy hooks, this carefully assembled 90-minute trip through ambient, dub, house and techno is a reminder that Vynehall is an artist who's utterly compelling both inside the club and out.\n\n<b>What have you been up to recently?</b>\n\nThe first half of this year was full-on. Between finishing everything off for <i>Nothing Is Still</i>, the album's campaign, and putting the live show together, I didn't have time for much else, so I've been enjoying being back at the studio most days. I also purposefully kept my DJ dates quieter to make time for album stuff and live preparation, but now that's all done I've been playing out a lot more. Taking a step back from club life has refreshed me, and I'm taking pleasure from playing records more than before.\n\n<b>How and where was the mix recorded?</b>\n\nPut it together at home on my turntables and CDJs, and did some editing on my laptop whilst I've been travelling.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI've not done a more club-centric mix since my <a href=\"https://soundcloud.com/leon-vynehall-essential-mix/leon-vynehall-essential-mix-2016-03-12\">Essential Mix</a> a couple years ago, so I wanted to do something steered slightly more towards the dance floor, whilst still taking it left and right, up and down. I can never really stick strictly to one style. I tend to get bored, and I think listeners would too. I honestly could have recorded this for at least another two hours or done a couple of different styles, as I had a lot of unreleased material from friends, but I had to reign it in and follow the way the mix was going rather than throwing in exclusives for the sake of it. I'll have to save them for the clubs. \n\n<b>Your recent album was obviously something of a departure from your past work. Can you see yourself continuing to release club-orientated music in some form?</b>\n\nAbsolutely. I certainly haven't turned my back on club music by any stretch. The album just didn't ask or need for anything on it to be written in that way.\n\n<b>How have you found the transition to playing live and performing more understated music?</b>\n\nIt's been really enjoyable, albeit very labour intensive. Playing this sort of music live with other musicians requires a lot of planning and teamwork. It's not a \"press-and-play\" situation.\n\n<b>What are you up to next?</b>\n\nI've got something I'm very excited about doing coming out at the beginning of next year. Having more time in the studio has meant I'm already up to my neck in material for the next record too. I'm having a real purple patch with writing. ",
+    "blurb": "Dance floor twists and turns from one of 2018's standout artists.  "
+  }
+}

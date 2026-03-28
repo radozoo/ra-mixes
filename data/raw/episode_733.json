@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "733",
+  "url": "https://ra.co/podcast/733",
+  "id": "733",
+  "__typename": "Podcast",
+  "title": "RA.733 Laraaji",
+  "date": "2020-06-22T00:00:24.000Z",
+  "fileSize": 156923819,
+  "duration": "01:05:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra733-laraaji-cvr.jpg",
+  "contentUrl": "/podcast/733",
+  "tracklist": "1 - VIBRA HARP & WATER SPIRIT. 7:44\n2 - LOVE LOVE LOVE 2:44\n3 - LOVELINESS 5:09\n4 - DIVINE LULLABY 4:39\n5 - ZITHER TRANCE #1 /3:45\n6 - BOWED ZITHER JOURNEY 7:43\n7 - SOUND BATH (Tibetan Bowls & Electronic Zither) 19:16\n8 - IN A CELESTIAL CATHEDRAL (Vocal chant by Arji OceAnanda) 4:04\n9 - JUST ADD LAUGHTER 5:05\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/844586269",
+  "keywords": "Celestial realms, Brian Eno, ambient, radiance, Sun Piano, Jeff Zeigler",
+  "artist": {
+    "id": "69333",
+    "__typename": "Artist",
+    "name": "Laraaji"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "From his early days performing with a modified autoharp for passersby on New York City's parks and streets, Laraaji has been on a mission to transcend and heal through music. As a new generation of people have embraced various forms of spiritual and meditative music, Laraaji's catalogue, littered with gorgeous, dreamlike albums like <i>Essence / Universe</i>, <i>Celestial Realms</i> and his collaboration with Brian Eno, <i>Ambient 3 (Day Of Radiance)</i>, has been ripe for rediscovery. \n \nLaraaji's RA Podcast arrives on the cusp of his latest LP, <a href=\"/news/72650\"><i>Sun Piano</i></a>, a suite of 12 improvised piano pieces recorded in a Brooklyn church with Jeff Zeigler. RA.733 is a one-off, hour-long recording of new music, composed with an electronic zither/autoharp, field recordings, Tibetan Bowls, a synthesizer and Laraaji's own voice and laughter. (\"Behind every serious face lies a core giggle ready to emerge if I set the right environment,\" Laraaji, who hosts regular laughter meditation workshops, <a href=\"/podcast-episode.aspx?exchange=456\">told us</a> last year.) He describes his podcast as a \"multi-instrumental live sound journey\" that offers an \"introspective, soothing and visionary\" listening experience.\n \n\n<b>What have you been up to recently?</b>\n\nMany phone and Skype interviews for the <i>Sun Piano</i> release... recording tracks and mixes for long distance, Internet collabs... shooting a virtual laughter playshop for Nike.. Deep silent inner contemplation.. Nada yoga (listening to inner cosmic sound current).\n \n<b>How and where was the mix recorded?</b>\n \nMixed in NYC Harlem with live at home performance and improvisational remixes of works in progress.. Recorded and mixed to digital decks, microphones and line in acoustic electric…\n\n<b>Can you tell us about the idea behind the mix?</b>\n \nI intend to offer a listening experience that is introspective, soothing and visionary, leaning towards a therapeutic listening mix.\n\n<b>Has the pandemic and quarantine changed the way you think about electronic music?</b>\n \nI think more appreciatively for making electronic music in quarantine... As I can perform and record any hour of day or night without disturbing neighbors who are also in quarantine. \n \n<b>Tell us about how your upcoming album, <i>Sun Piano</i>, came together as a live performance</b>\n\n<i>Sun Piano</i> was originally suggested by Matthew Jones at Warp Records, as I had already done a Sun Gong and a Sun Music album... we felt it was time for a solo album with the piano... it came together in an empty church in Brooklyn with Jeff Ziegler as engineer and a large concert grand piano. Two days of improvisational performance recording, all fresh new music except for \"Shenandoah.\" \n\n<b>What are you up to next?</b>\n \nRelease of <i>Sun Piano</i> solo album July 17th, 2020, through Warp/All Saints Records. Deeper introspection, shooting another live home laughter meditation video, waiting for concert/yoga workshop tour dates to resume.\n\n<span class=\"grey\">Photo credit: Daniel Oduntan</span>",
+    "blurb": "An hour of music, laughter and spirituality.\r\n"
+  }
+}

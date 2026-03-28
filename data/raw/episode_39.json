@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "39",
+  "url": "https://ra.co/podcast/39",
+  "id": "39",
+  "__typename": "Podcast",
+  "title": "RA.039 Ryan Elliott",
+  "date": "2007-01-03T16:00:14.000Z",
+  "fileSize": 62902818,
+  "duration": "00:52:54",
+  "imageUrl": "https://static.ra.co/images/podcast/ra039-ryanelliott-cover.jpg",
+  "contentUrl": "/podcast/39",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra039/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:736"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Detriot’s Ryan Elliott is the DJ arm of Spectral Sound, the leftfield techno/house label that’s also home to Matthew Dear, Bodycode and Hieroglyphic Being. The Spectral sound was everywhere in 2006: Audion’s ‘Mouth to Mouth’ was huge, while Elliott, Dear & co made a strong impression to big crowds at Sonar and the DEMF in the summer. To cap it all off, Ryan was voted fifth place on our <a href=\"http://www.residentadvisor.net/feature_view.asp?ID=783\">DJ Poll</a> – a great result for such a young up-and-comer.\nRyan’s three-decks and FX setup is usual and his track-a-minute style is instantly recognizable. In 2005 he squeezed thirty-three (!) tracks onto a single CD for ‘Spectral Sounds Vol. 1’, and if you search hard on the net you’ll find his ‘Audion Smash Mix', a mind-bending 21-minute fusion of eighteen Audion tracks. For his RA podcast, Ryan had the cool idea of putting together a best-of-2006 megamix, a year in review if you like, and if you’ve been out in the clubs, the result is sure to bring back a memory or two.\n\nRA caught up with Ryan for a chat.\n\n<b> What have you been working on recently?</b>\n\nIt was a very busy end to 2006. Usually, November and December are a bit less insane as far as shows and touring, but this year that wasn't the case. But busy is good. We've also been planning out our 2007 Spectral Sound release schedule.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded in my Detroit studio. I used Serato, turntables, and a looper. The tracks you hear are my favorites of 2006. There are big hits on the mix (‘Mouth to Mouth’, ‘Baby Kate’) as well as some lesser known cuts that I felt really worked well on the dancefloor this year (‘The Back Door’, ‘Dawning’).\n\n<b>What are you up to next?</b>\n\nI always try to use January and February to re-evaluate and re-assess the way I've been doing things over the past year, and make improvements and changes. Exploring new DJ set ups, new technologies, and new approaches must constantly be done.\n",
+    "blurb": "Ryan Elliott spins a best-of 2006 megamix in a special New Year podcast."
+  }
+}

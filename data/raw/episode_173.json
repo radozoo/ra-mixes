@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "173",
+  "url": "https://ra.co/podcast/173",
+  "id": "173",
+  "__typename": "Podcast",
+  "title": "RA.173 Modeselektor",
+  "date": "2009-09-21T09:00:53.000Z",
+  "fileSize": 75139156,
+  "duration": "01:02:36",
+  "imageUrl": "https://static.ra.co/images/podcast/ra173-modeselektor-cover.jpg",
+  "contentUrl": "/podcast/173",
+  "tracklist": "Deadboy - If U Want Me - Numbers\n<a href=\"/dj-page.aspx?id=7220\">Untold</a> - Just For You (<a href=\"/dj-page.aspx?id=6104\">Roska</a> Remix) – <a href=\"record-label.aspx?id=1282\">Hotflush Recordings</a>\nMaurizio - M5 - Maurizio\n<a href=\"/dj-page.aspx?id=4592\">Zomby</a> - Digital Flora – Brainmath \n<a href=\"/dj-page.aspx?id=7220\">Untold</a> - I Can't Stop This Feeling – <a href=\"record-label.aspx?id=1474\">Hessle Audio</a>\nTaz Buckfaster - Gold Tooth Grin - Numbers\n<a href=\"/dj-page.aspx?id=4732\">Mikkel Metal</a> - Kenton (<a href=\"dj-page.aspx?id=1515\">Marcel Dettmann</a> Remix) - <a href=\"record-label.aspx?id=2047\">Echocord Colour</a>\n<a href=\"/dj-page.aspx?id=4662\">Headhunter</a> - Prototype (<a href=\"/dj-page.aspx?id=841\">Modeselektor</a>'s Broken Handbrake Remix) - <a href=\"record-label.aspx?id=1040\">Tempa</a>\nVenom & Damage - Deeper \nSecond Phase - Mentasm (<a href=\"record-label.aspx?id=1812\">R&S Records</a>)\n<a href=\"/dj-page.aspx?id=841\">Modeselektor</a> - Outro - Get Physical\n<a href=\"/dj-page.aspx?id=4691\">Buraka Som Sistema</a> - Skank & Move feat. Kano – <a href=\"record-label.aspx?id=59\">Fabric Records</a>\nLil Silva - Different - Lil Silva\n<a href=\"/dj-page.aspx?id=3670\">Ramadanman</a> - Revenue (<a href=\"/dj-page.aspx?id=7220\">Untold</a> Remix) – <a href=\"record-label.aspx?id=2272\">2nd Drop Records</a>\nLil Silva - Funky Pulse - DDJs Productions\nL-Vis 1990 - United Groove (MJ Cole Remix) - <a href=\"record-label.aspx?id=935\">Mad Decent</a>\nXxXy - Reflections - Mindset\n<a href=\"/dj-page.aspx?id=4662\">Headhunter</a> - Sex at the Prom - <a href=\"record-label.aspx?id=1040\">Tempa</a>\n<a href=\"/dj-page.aspx?id=954\">Robert Hood</a> - Museum – <a href=\"record-label.aspx?id=2941\">M-Plant</a>\nJoy Orbison - Hyph Mngo - <a href=\"record-label.aspx?id=1282 \">Hotflush Recordings</a>\n<a href=\"/dj-page.aspx?id=2423\">Mark Pritchard</a> - ? – Ho Hum Records\nGas – Koenigsforst - <a href=\"record-label.aspx?id=1732\">Mille Plateaux</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra173/",
+  "keywords": "Modeselektor, dubstep, Get Physical, Body language, Job Orbison, bPitch Control",
+  "artist": {
+    "__ref": "Artist:841"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As far as modern Berlin-based acts go, Modeselektor are an anomaly. While others may be content with forging a path down one particular aural avenue, Gernot Bronsert and Sebastian Szary have managed to incorporate myriad styles from their beginnings as Fundamental Knowledge in the mid '90s. Be it electro, techno, dubstep, electronica or hip-hop, the duo can be found meshing it all together (and more) in both their original productions and live shows.\n\nAfter spending two years touring heavily off the back of 2005's <i>Hello Mom!</i> album with their Ableton-aided live show, Gernot and Sebastian committed their fast and furious mixing style to CD with the third volume of the <i>Boogy Bytes</i> series. Containing a staggering thirty-three tracks, the pair proved that it was possible to traverse from experimental hip-hop through to Radiohead in just over an hour without sacrificing the smooth and natural flow of the mix, and they're set to do it all over again with <i>Body Language Vol. 8</i>. \n\nWhile their RA podcast might not contain the poppy curveballs featured throughout their latest commercial effort, you can rest assured knowing that the Modeselektor lads have conjured up a cracking selection of techno, dubstep and UK funky—most of which is hot off the presses.\n\n<b>What have you been working on recently?</b>\n\n<i>Body Language Vol. 8</i> and top secret remixes!\n\n<b>Where and how was the mix recorded?</b>\n\nIt was recorded at Modeselektor's restroom studio park avec loads of records and une petit computer!\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nGet Physical just forced us to make one!\n\n<b>When you go out in Berlin, what are some of your preferred spots?</b> \n\nKonopkes imbiss - best currywurst in town!\n\n<b>Has the Moderat project been shelved for now?</b>\n\nExactly. Modeselektor is back... \n\n<b>Bearing in mind the countless festivals you've played this summer, what were the surprises?</b>\n\nOur show at Melt! festival was great. We couldn't play because of a storm warning!\n\n<b>What are you up to next?</b>\n\nFunny hats, cardboard noses, baby pets and bass.",
+    "blurb": "Gernot and Sebastian crank up the bass on this week's RA podcast."
+  }
+}

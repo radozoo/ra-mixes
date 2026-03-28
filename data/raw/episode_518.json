@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "518",
+  "url": "https://ra.co/podcast/518",
+  "id": "518",
+  "__typename": "Podcast",
+  "title": "RA.518 Francesco Del Garda",
+  "date": "2016-05-02T00:00:20.000Z",
+  "fileSize": 165628440,
+  "duration": "01:08:54",
+  "imageUrl": "https://static.ra.co/images/podcast/ra518-francesco-del-garda-cvr.jpg",
+  "contentUrl": "/podcast/518",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/262593587",
+  "keywords": "House, Nicolas Lutz, Onur Ozer, Seekers, Seuil, Eklo",
+  "artist": {
+    "id": "15134",
+    "__typename": "Artist",
+    "name": "Francesco Del Garda"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Francesco Del Garda is one of the happiest-looking DJs you're ever likely to see. Grinning while moving from turntable to mixer to record bag, it usually looks like he's having as much as anyone in the crowd. Beneath Del Garda's cheery demeanour, though, is a highly skilled selector with an impressive record collection. He's been honing his technique since the '90s, developing an on-point style that allows him to smoothly blend UK garage, '90s house, oddball techno and electro. Based in Italy, Del Garda is a key player in a loosely defined scene that also includes DJs like the Berlin-based Binh, Nicolas Lutz and the <a href=\"/features/2713\">recently-profiled</a> Onur Özer (you can occasionally catch them all playing at the same party). These DJs take as much pride in their rare finds as they do in their technique. Their style and attitude is obviously infectious: Del Garda and co. are currently among the busiest and best-loved DJs on the scene. \n\nWe get the real Francesco Del Garda experience on this week's podcast. The same bounce and warmth you hear in the Italian's club sets underlies the house, garage and electro, all of it deftly spliced together. \n\n\n<b>What have you been up to recently?</b>\n\nHi guys, first of all I would like to thank you for your support. In the last month I have played in different places, and I was looking forward to them a lot! I was at Colours In Music in Slovenia, YAY at Club Der Visionaere, Reset at Closer, our first showcase Last Track Music at Goa Club, which was a big success, and last Saturday I had the pleasure to come back to Concrete in Paris. I must say that it was an intense month full of satisfactions.\n\n<b>How and where was the mix recorded?</b>\n\nMy mix was recorded at my studio in Italy, where I usually spend whole days to dig through my record collection and online to find new music.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nFor me making a mix is like telling a story. Every record is like a chapter of a book, and it's not easy to mix different genres while being coherent with your style. In fact, in this session I wanted to put together all the influences that I have had in the last years.\n\n<b>You play back-to-back sets pretty often. What does this type of performance need to be successful?</b>\n\nPlaying back-to-back is difficult, and if you want it to be successful you have to do it with somebody that you have a good feeling with and experience to share. I prefer to do it only with friends usually.\n\n<b>You've spoken elsewhere about an Italian DJ called Francesco Farfa. For those who haven't heard of Francesco, what makes him so special?</b>\n\nWell, what to say? Francesco Farfa influenced me when I was still a kid, 20 years ago. I was always admiring his way of playing records, and it fascinated me the way he was able to mix different genres of music with his spontaneous technique. I owe him a lot for my musical journey.\n\n<b>What are you up to next?</b>\n\nOur Seekers label will see a new release very soon, and I will have a new EP out with Seuil on his Eklo label. In July I'll play at Outline Festival, which I'm really excited about!\n\n",
+    "blurb": "The highly-rated Italian selector steps up.  "
+  }
+}

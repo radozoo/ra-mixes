@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "19",
+  "url": "https://ra.co/podcast/19",
+  "id": "19",
+  "__typename": "Podcast",
+  "title": "RA.018 Andrew Grant",
+  "date": "2006-07-26T23:00:57.000Z",
+  "fileSize": 59120805,
+  "duration": "01:01:33",
+  "imageUrl": "https://static.ra.co/images/podcast/ra018-grant-cover.jpg",
+  "contentUrl": "/podcast/19",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra018/",
+  "keywords": "",
+  "artist": {
+    "id": "761",
+    "__typename": "Artist",
+    "name": "Andrew Grant"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Andrew blasts his way through a blistering hour of percussive heads-down, no-nonsense techno before finishing on the warmth of Detroit. This set is tougher than the steaks at Hooters!\n\nEvery Monday morning in the summer, just like you and me, <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=761\">Andrew Grant</a> gets up early and goes to work. But for Andrew, his office happens to be Circo Loco at DC10 and his colleagues are some of the best DJs on the planet: Luciano, Tania Vulcano, Loco Dice, Cirillo and so on. \n\nOriginally from Baltimore, Andrew is one of Ibiza's best kept secrets. Andrew escaped the saturated US club scene and moved to Europe in the year 2000. For the last five years he's been a resident DJ at Circo Loco, clubland's most colourful and hedonistic afterhours. You've probably seen him bobbing his head on the terrace at DC10.\n\nOnce the Ibiza season is over, Andrew moves back to Baltimore where he has his own party. He also continues to DJ the world over with the Circo Loco World Tour. Occasionally he also dons his writer's cap as a budding journo. We hear he even reviews records for some ho-hum online rag called RA. \n\nRA heckled Andrew on MySpace. Everyone loves a new Friend...\n\n<b>What have you been doing recently?</b>\n\nI have just returned from Dance Valley in Amsterdam which was great. Production wise I finished a remix for Christian Falero before I came out to the island and now I am shopping around some of the bits I wrote this winter back home in Baltimore.\n\n<b> What are you up to next?</b>\n\nAugust is also looking full as Timo Maas has made me resident for his night here in Ibiza, so I will be opening for guests like Martin Buttrich (doing his live act) and Locodice. That´s every Wednesday starting August 2nd with myself and Timo.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded live@DC-10 in Ibiza yesterday before Lee Burridge and Marco Carola.\n\n",
+    "blurb": "Rummaging through his record crate this week is Circo Loco resident Andrew Grant with a mix recorded live at DC10."
+  }
+}

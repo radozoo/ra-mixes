@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "473",
+  "url": "https://ra.co/podcast/473",
+  "id": "473",
+  "__typename": "Podcast",
+  "title": "RA.473 Nicolas Lutz",
+  "date": "2015-06-22T00:00:47.000Z",
+  "fileSize": 238168720,
+  "duration": "01:39:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra473-nicolas-lutz-cvr.jpg",
+  "contentUrl": "/podcast/473",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra473/",
+  "keywords": "Toi Toi, Club der Visionaere, house, techno, Binh, Slow Life, Perlon, electro",
+  "artist": {
+    "id": "34683",
+    "__typename": "Artist",
+    "name": "Nicolas Lutz"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Nicolas Lutz is a Berlin-based DJ with ties to Club der Visionaere and London's Toi Toi Musik. He's revered for his record digging, and is part of an inter-connected group of European DJs who boast exceptional, varied collections that encompass mostly-forgotten house, techno and electro. Together with fellow Club der Visionaere regular Binh (who we <a href=\"/feature.aspx?2493\">profiled</a> last week), Lutz is a leader among this crew, many of whom first emerged during the golden years of minimal house. Most of them have since moved on to more classic club sounds, though the emphasis on trippy, stripped-back and subtle productions remains. These artists, including Francesco Del Garda, Andrew James Gustav, Etienne and DJs connected to Berlin's rising Slow Life label, keep a low profile, without much recognition from outside their inner circle. They choose a style of DJing, which was mastered long ago by Perlon head Zip, where deep digging, long sets and playing vinyl are all key.  \n\nThe records on this week's RA podcast are far from new, but their textures are intricate, intelligent and often beautiful, plucked from the depths of '90s tech house, electro and techno. \n\n\n<b>What have you been up to recently?</b>\n\nI've been DJing, enjoying time with my family and searching for nice music. It's basically what I do the most.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded with two turntables and a mixer on a random afternoon with few friends at home.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to create a nice trip for the listeners.\n\n<b>Where do you find most of the records you buy—online or in stores?</b>\n\nI buy records everywhere. Any shop in the city where I live, or when I travel. I always try to visit the record shops of the cities I'm going to. And, of course, I also buy stuff on the internet.\n\n<b>Any tips you can share on Discogs digging?</b>\n\nYes, of course. I can say that it is also very good to visit the shops and not only focus on Discogs—it's way more inspiring, at least for me. I find it so boring when people only talk about Discogs.\n\n<b>What are you up to next?</b>\n\nJust going on doing what I like: playing records, putting out some more releases on my label, enjoying the nice parties, enjoying the time with family and friends. This is what makes me happy.",
+    "blurb": "Trippy, subtle sounds from an underground favourite. "
+  }
+}

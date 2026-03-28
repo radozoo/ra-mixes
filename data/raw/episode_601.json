@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "601",
+  "url": "https://ra.co/podcast/601",
+  "id": "601",
+  "__typename": "Podcast",
+  "title": "RA.601 Neel",
+  "date": "2017-12-04T00:00:55.000Z",
+  "fileSize": 160714740,
+  "duration": "01:06:52",
+  "imageUrl": "https://static.ra.co/images/podcast/ra601-neel-cvr.jpg",
+  "contentUrl": "/podcast/601",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/364716773",
+  "keywords": "Giuseppe Tillieci, Voices from the Lake, Spectrum Spools, Token, Auxillary",
+  "artist": {
+    "id": "14462",
+    "__typename": "Artist",
+    "name": "Neel"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "For many of us, Giuseppe Tillieci, the artist better known as Neel, flew onto the radar in 2012 with <a href=\"/reviews/10529\"><i>Voices From The Lake</i></a>, the self-titled LP from his duo with Donato Dozzy. That record received a perfect 5/5 here on RA, and established Voices From The Lake as masters of a certain strain of techno—at once subtle and psychedelic, with a special emphasis on the sounds themselves. Two years later, Tillieci stepped out on his own with <a href=\"/reviews/15876\"><i>Phobos</i></a>, an ambient LP for Spectrum Spools that showed his extraordinary gift for sound design, evoking a sense of cosmic drama with little more than texture and atmosphere. When he's not playing or making music, Tillieci is a mastering engineer, something that's easy to hear in the striking clarity of his records. \n\nIn the years since <i>Phobos</i> came out, Tillieci has brought the beats back into his sound. This year he released techno records on Token, Auxillary and his own label, Spazio Disponibile, and is about to unveil a new club-ready live set. And yet, as RA.601 shows, the sound of Neel is as sonically rich and vivid as ever, even at its most pumping. \n\n\n<b>What have you been up to recently?</b>\n\nMy time is always split between being a musician myself and working as a mastering engineer. It's been very busy over the last few months, with a lot of my own productions and shows alongside an increasing mastering schedule, and it's not slowing down anytime soon. Managing time between all these things can be difficult but it's a choice I've made. I'm actually really happy with life at the moment, lots of interesting projects are happening and I've been able to focus on my own music more constantly.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded back in September in my living room on my home setup: two decks, two XDJs and a Pioneer DJM-500 mixer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt took a while to form an idea behind this mix as it's been a while since I've recorded something at home. I went through different ideas, more techno or more ambient, but then I thought I did many downtempo, leftfield recordings. I love a wide range of music, which for the production side of music is a big help and source of inspiration, but when you have to turn it into a podcast that starts to be a problem. It becomes very hard to have a focus.\n\nDuring the summer I started to collect music specifically for this podcast. It's a collection of tracks that I really like but which usually I don't play in clubs, plus some tracks of mine that were unreleased at the time. Some of them are already out on my latest EP on Token.\n\n<b>Tell us about the new live show you're about to debut at Berghain.</b>\n\nThe live show at Berghain, which is alongside my friends from Token, is a glimpse into my take on the label following my last EP for them. It was a new challenge for me, working on an entire new setup and full live show around this EP and sound. A big change always brings two kinds of feelings: excitement when you are getting there and a big struggle when you are not able to do something (or not fast enough) that you were able to do before with a previous setup.\n\nThis time I limited myself as I have a lot of Eurorack modules. So I tried to discipline myself and use only a few of them, as I believe that this is the way to get the best out of them. All sounds I recorded are coming specifically from the machines I choose for the live setup.\n\n<b>Has 2017 been a productive year for you?</b>\n\nIt's been a very good year for me, especially in terms of my production side. I've finally been able to put out two solo EPs, a collaboration with Svreca on Semantica and a full EP as Svreca & Voices From The Lake on my label, Spazio Disponibile. I've also been able to release as my side project LF58, an ambient /downtempo project with my good friend Filippo Scorcucchi. This year has given me the long-overdue time to work on my own productions. That has been life-changing, to say the least.\n\n<b>What are you up to next?</b>\n\nThe first half of 2018 will see a few more EPs out, some remixes and a few very special projects and collaborations. I don't want to spoil too much but let's say it's been a very productive time.\n\n",
+    "blurb": "Crystalline techno from an Italian sound sculptor."
+  }
+}

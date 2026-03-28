@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "468",
+  "url": "https://ra.co/podcast/468",
+  "id": "468",
+  "__typename": "Podcast",
+  "title": "RA.468 I-F",
+  "date": "2015-05-18T00:00:15.000Z",
+  "fileSize": 347270203,
+  "duration": "02:24:32",
+  "imageUrl": "https://static.ra.co/images/podcast/ra468-if-cvr.jpg",
+  "contentUrl": "/podcast/468",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra468/",
+  "keywords": "Ferenc van der Sluijs, Cybernetic Broadcasting System, CBS, Bunker, Viewlexx, Murder Capital",
+  "artist": {
+    "id": "2930",
+    "__typename": "Artist",
+    "name": "I-F"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Raw, independent, unpretentious and fun—it isn't hard to see why artists from The Hague are followed with such feverish devotion. Legowelt is the city's production powerhouse, Guy Tavares and his Bunker Records label have the history and famed punk attitude, and I-F is the man who, through <a href=\"https://intergalacticfm.com/\">Intergalactic FM</a>, has built a global community around his crew's sound. (To give you an idea of its following, last year the station appealed for donations after it was hit with a €5K tax bill—it took 36 hours to raise the money.)  The station bubbles 24 hours a day with the sounds of Italo, electro, minimal wave, disco, ambient and whatever other weirdo genres strike Ferenc van der Sluijs' fancy. It's been going since 2008, the follow-up to Cybernetic Broadcasting System, a similarly respected radio platform that was known for unearthing Italo gems. It's been a good few years since van der Sluijs released anything, but as a producer he has an incredible back catalogue, which includes the 1998 album <i>Fucking Consumer</i> and the extended acidic series <i>Lost Tracks For Lost Minds</i>. Through his labels Viewlexx and Murder Capital, he's also released a wealth of inspired music from other artists. \n\nVan der Sluijs been plying his trade since the early '90s, but 2015 is shaping up to be a key period for him. It's Viewlexx's 20th anniversary this year, and he's marked the occasion with a <a href=\"https://clone.nl/item34224.html\">compilation EP</a> that includes an I-F collaboration with Legowelt—the first time Van der Sluijs has been in the studio in years. Murder Capital is set to release a couple more 12-inches from the enigmatic Gesloten Cirkel, one of our favourite producers. And in the spirit of all this, Van der Sluijs recently linked up with his friend and long-time collaborator Intergalactic Gary for a party at Zahara, their favourite cocktail bar in The Hague. Van der Sluijs played only vinyl from the Viewlexx and Murder Capital catalogue, and here we present two-and-a-half hour section of his set. Standby for some raw shit. \n\nI-F is part of a stacked lineup for our party at the stunning <a href=\"/event.aspx?669023\">El Monasterio</a> in Barcelona on June 18th. He's joined by Andy Stott, Erol Alkan, Jackmaster, Gerd Janson, Felicita, Leon Vynehall and Pearson Sound. \n\n\n<b>What have you been up to recently?</b>\n\nDJing like crazy, putting out Murder Capital and Viewlexx records, and working at the Panama Racing Club / Intergalactic FM. Business as usual actually.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded, vinyl only, in Scheveningen at Zahara Cocktailbar, live for Intergalactic TV. We do V For Vinyl sessions there every month with or without special guests.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\n20 years of releasing Murder Capital and Viewlexx records is at least some accomplishment, so I thought it was nice to shine some light over them since there is a whole new generation of record buyers. Happy to see they don't go unnoticed. And it's a rare occasion to do exclusive vinyl sets. \n\n<b>How's it going at Intergalactic FM?</b>\n\nPretty good actually. Panama Racing Club is a very nice addition to the whole scam. It was the missing link for IFM. Always loved the idea of a private disco where no one would be allowed ;p. On top of that the Hotmix Foundation is doing a yearly film festival in The Hague too: Eastern Neighbours Festival. Films exclusively from the Eastern Part of mostly Europe. Last year went very well, this year we do it again. Happy we are covering both audio and video now.\n\n<b>You recently got back in the studio. What inspired that move?</b>\n\nJust for a few days. We created an opportunity to do a three-day session at Panama Racing Club, threw some stuff together and recorded. It might happen again with a different setup and different people.\n\n<b>What are you up next?</b> \n\nSame old same old. It's an honour and a pleasure to still being working for the music.",
+    "blurb": "Mixed up in The Hague."
+  }
+}

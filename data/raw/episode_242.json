@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "242",
+  "url": "https://ra.co/podcast/242",
+  "id": "242",
+  "__typename": "Podcast",
+  "title": "RA.242 Catz N Dogz",
+  "date": "2011-01-17T00:00:41.000Z",
+  "fileSize": 92893179,
+  "duration": "01:17:23",
+  "imageUrl": "https://static.ra.co/images/podcast/ra242-catz-n-dogz-cover.jpg",
+  "contentUrl": "/podcast/242",
+  "tracklist": "Out Hud - The Zillionth Watt - Kranky\nCatz N' Dogz feat. Paul Randolph - I'm Free - Mothership\nInstra:mental - Let's Talk - Nakedlunch\nVakula - Different Tone / El Guincho - Bombay (Catz N' Dogz edit) - Different Tone\nTheopilus London - Overseas (Soul Clap's EFUNK mix) - CDR\nClaude VonStroke - The Whistler (DJ Assault remix) - DirtyBird\nKrush - Jack's Back - MERCURY\nTomasz Wakulewski - That Time (Pol_on Remix) - Empedo\nSo Lonely (acapella)\nDaniel Bortz - Toxic (Catz N' Dogz dub) - White\nPop Kulture (DJ Dozia edit) - Ovum / Jay Shepheard – Haselnuss - Retrofit\nKevin Yost - It's Getting Better - I Records\nLove Don't Let - A Classic Man dub - Nervous Records\nSalt City Orchestra - The Book (Epilogue reprise) - Paper\nRobert Cashin - Razor Fish (The Cupid Stunt remix) - Loosing Suki\nPsionic Terror - Bad Autopsy  \nMaceo Plex - Girl I Like Your Style – Crosstown Rebels\nGemini - How Can I - Cyclo\nSecond Hand Satellites - Orbit 1.4 / Chinawoman - Party Girl - Shaboom\nKornél Kovács - Baby Step - Studio Barnhus\n51 days - Paper Moon - Touche\nCapucino - 1times1 (Soul Minority remix) - Rhymast\nSwayzak - Devil of Rotation / Andronicus - Make you whole - M_nus\nKombi - Przytul Mni - Wifon",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra242/",
+  "keywords": "Catz n Dogz, Voitek, Grzegorz Demianczuk,  Wojciech Taranczuk",
+  "artist": {
+    "id": "4501",
+    "__typename": "Artist",
+    "name": "Catz 'N Dogz"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Poland has one of the fastest growing dance scenes in Europe, and there are arguably no artists aiding this ascent more than Catz N' Dogz. Grzegorz Demianczuk and Wojciech Taranczuk (Greg and Voitek) are both from the town of Szczecin near to the German border, but actually met through the internet and a shared interest. 3 Channels was the pseudonym under which they first gained traction on the dance scene, releasing a string of minimally-inclined club tracks for Trapez, Trenton and Crosstown Rebels, before switching to the name Catz N' Dogz full-time back in 2008. The new moniker brought with it new relationships—most notably with Claude VonStroke who has put out almost ten singles and two albums through Dirtybird and its sub-label Mothership. It was the latter label who released the duo's <i>Escape from Zoo</i> album towards the end of last year, a record that saw Catz N' Dogz let their hair down and explore all manner of house, techno and dubstep textures.\n\nOn their mix for us the duo reach right to the back of their record shelves in order to present the length of breadth of their house music interests.  \n\n<b>What have you been up to recently?</b> \n\nThe main thing is that we are in the middle of an album tour, playing DJ sets, playing live all over the world. We are kinda workaholics so we do everything at the same time. Right now we have couple of residences in Polish clubs and one at Berlin's Farbferhnseher, where from time to time we invite friends to play.\n\nWe're working on our label, Pets Recordings, (signing new artists, remixes and the new website is online now). We also want to do some videos. After the album we are already focusing on some new stuff that will come out and, of course, a lot of edits. Oh, and there will be album remixes coming out as well. (Carl Craig, Sect, Julio Bashmore.)  \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in Ableton during our travels but we first ripped a lot of our old vinyl. Actually the biggest amount of time that we spend doing this mix was the track selection.\n\n<b>Can you tell us a bit more about the mix?</b>\n\nWe wanted to do a mix that includes the whole spectrum of music that we play at parties. We play big room parties but small private venues in Berlin and in Poland as well. For us the biggest fun is to play various stuff.\n\n<b>How healthy would you say the electronic music scene is in Poland currently?</b>\n\nIt's a very difficult question... There are a lot of cool parties in various locations. If you want to party you should visit Warsaw, Poznan, Krakow and Wroclaw. Clubs have better soundsystems than a few years back and line-ups are cool. The best are festivals in the summertime: Audioriver, Opener, Boogie Brain, Tauron, Unsound and many more. We're very happy that there are more and more new producers and the quality is OK. Some people still produce only for their friends and they don't want to release it because they are too shy. This is one of the reasons why we started Pets.\n\n<b>Your recent album featured a dubstep track in \"Only for The Moment\": is this a genre you will look to explore more thoroughly in the future?</b>\n\nWe are working right now on a new project but we can't say anything more because we don't know exactly what it is until it's finished. [<i>laughs</i>]\n\n<b>What are you up to next?</b>\n\nIncreasing workoholizm. ",
+    "blurb": "The Polish duo raids their record collections for a wide-ranging mix."
+  }
+}

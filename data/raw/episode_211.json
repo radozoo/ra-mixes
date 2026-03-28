@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "211",
+  "url": "https://ra.co/podcast/211",
+  "id": "211",
+  "__typename": "Podcast",
+  "title": "RA.211 Nicolas Jaar",
+  "date": "2010-06-14T00:00:51.000Z",
+  "fileSize": 70642025,
+  "duration": "00:58:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra211-nicolas-jaar-cover.jpg",
+  "contentUrl": "/podcast/211",
+  "tracklist": "<span class=\"grey\"><i>Photo credit: Julia Soler</i></span>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra211/",
+  "keywords": "Nicolas Jaar, dj, nicolas, jaar, Wolf, Lamb, techno, house, hip hop, pop, circus, company",
+  "artist": {
+    "id": "3216",
+    "__typename": "Artist",
+    "name": "Nicolas Jaar"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "He may only be just entering his twenties, but Nicolas Jaar has already positioned himself as a one of the most promising new artists to come out of the USA's electronic music scene in recent times. New York-born and raised in Chile up to the age of 11, Jaar moved back to NYC and soon became interested in composing piano-based tracks in Reason. Not much longer after, Nicolas was introduced to artists like Luomo, Tiga and Ricardo Villalobos—in particular his <i>Thé Au Harem D'Archimède</i> album from 2004—which opened his mind to the potential of electronic music.\n\nAfter coming across a radio interview with Wolf + Lamb's Gadi Mizrahi, he sent the label \"The Student\": a metronomic modern-classical piece which impressed Mizrahi so much that he brought Jaar into the collective, getting his first EP out to digital retailers when Nicolas was still just seventeen. After appearances on CD compilations for both Airdrop and Circus Company in 2009, he scored big at the start of the year, with the seductively crawling \"<a href=\"/track.aspx?100895\">A Time For Us</a>\" which is still kicking around in the top ten of <a href=\"/dj-charts.aspx?yr=2010&top=100\">RA's aggregated chart</a> for the year so far. That particular track has been championed for its adventurous change of direction and tempo, and Jaar carries that same attitude and sentiment into his RA podcast. We caught up with the man ahead of his appearance at <a href=\"/event.aspx?165916\">RA by night</a> in Barcelona on Saturday, to ask him about the mix, sneaking into clubs, and his Clown And Sunset imprint.\n\n<b>What have you been working on recently?</b>\n\nI just finished my sophomore year in college so I finally have some time to make new music. Lately i've been busy preparing an instrumental hip-hop LP for Double Standard (Gadi's vinyl-only label) and my new Clown & Sunset release.\n\n<b>Where and how was the podcast recorded?</b>\n\nI started the mix in Providence (where I study) with a couple of turntables, an MPC-500 and a microphone, then came back home to NY and fixed things up in Logic. Some of the edits (like Villalobos + Brubek) were made in Logic beforehand.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nI have recently been making weird mashups (Biggie + Aphex Twin + Tinariwen, for example) that I'm happy with. It's the type of thing that I do when I can't really make music (in airports, hotels..) so I put a couple of those in there. I also just wanted to play what I'm listening to right now. I almost never DJ professionally so this is something bizarre for me. \n\n<b>Does being under the legal drinking age pose problems when promoters try and book you in the US?</b>\n\nHa! Let's just say I've been snuck into a lot of places, and I don't have a good relationship with bouncers.\n \n<b>How did you first hook up with Clown And Sunset partners Soul Keita and Nikita Quasim?</b>\n\nI was at the border between the US and Mexico when I was 14 or 15, and we were all getting into electronic music. Then Soul went back to Ethiopia and Nikita to Russia and we all started sending music to each other. Now Soul Clap is playing Soul Keita's music! I'm very excited about their new EPs, but sadly it's not summer music so you'll have to wait until the fall. \n\n<b>Have the live sets been going well of late?</b>\n\nI hope so. I tend to be disappointed after playing so I'm not the best judge. \n\n<b>What are you up to next?</b>\n\nComing up next is a new Wolf + Lamb Black release, a solo EP for Circus Company called <i>Marks & Angles</i>, my first album, and touring Europe!",
+    "blurb": "The Wolf + Lamb prodigy whips up a diverse hour-long mix for this week's RA podcast."
+  }
+}

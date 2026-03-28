@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "539",
+  "url": "https://ra.co/podcast/539",
+  "id": "539",
+  "__typename": "Podcast",
+  "title": "RA.539 rRoxymore",
+  "date": "2016-09-26T00:00:16.000Z",
+  "fileSize": 198336594,
+  "duration": "01:22:38",
+  "imageUrl": "https://static.ra.co/images/podcast/ra539-rroxymore-cvr.jpg",
+  "contentUrl": "/podcast/539",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra539",
+  "keywords": "house, techno, Comeme, Nachtdigital, Macro, Decon Recon, Oni Ayhun",
+  "artist": {
+    "id": "14587",
+    "__typename": "Artist",
+    "name": "rRoxymore"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Though she makes and plays music for clubs, rRoxymore's sound is defined in part by her ambivalence about club music, which she often finds too nostalgic and conservative. Her leftfield sound comes from years of experience in different kinds of performance—she's played electronic percussion in a hard rock act, spun rare groove and hip-hop and <a href=\"https://videogamemusic01.bandcamp.com/album/where-do-we-go-from-here\">soundtracked</a> art installations. She learned the ropes of production in a garage in Montpelier some 15 years ago, mostly with an Akai S950 and an Atari. Later, in Paris, she took an Acousmatic Music & Composition course before moving to Berlin, where she lined up her first solo releases for Human Level, a label run by her friend Jam Rostron, AKA Planningtorock, with whom rRoxymore played on tour. She's since appeared on labels like Cómeme, Huntleys & Palmers and Nachtdigital, before further refining her style with the exceptional <a href=\"/reviews/18059\"><i>Tautologies</i></a> EP for Macro. She was also part of a sort of egoless supergroup, <a href=\"/reviews/16871\">Decon/Recon</a>, alongside Rostron, Paula Temple and The Knife's Olof Dreijer, AKA Oni Ayhun. \n\nrRoxymore's productions are geared for the dance floor, but certain elements reveal broader horizons. Psychedelic nuances in sound design consistently create fresh atmospheres. The same could be said of this mix, which skirts a line between classic house and trippy modern techno, shifting through moods and intensities with an ear for arresting contrasts. \n\nrRoxymore is playing <a href=\"/event.aspx?862716\">RA's party at this year's ADE</a>. It takes place at RADION on Saturday 22nd October, with Actress, Onur Özer, Objekt, Map.ache, Suzanne Kraft, Beautiful Swimmers and Palmbomen II also on the bill. \n\n\n<b>What have you been up to recently?</b>\n\nI had a busy summer of playing live sets and DJing. I also bought some new stuff for my studio, so I've been trying to make everything work.\n \n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at home with turntables and a CDJ before being mastered in my computer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nMy mixes usually vary in musical style and contain ups and downs. I wanted this mix to have a bit more bouncy, percussive energy than my other podcasts. It reflects what I have been playing lately.\n\n<b>You told <a href=\"http://truantsblog.com/2015/truancy-volume-133-rroxymore/\">Truants</a> last year that you felt dance music was creatively quite conservative. What can be done? And on the flip side of this, who are currently some of your favourite rule-breakers?</b>\n\nYes, I feel that for the past several years dance music has become more conservative in terms of creativity. I feel that it suffers from a form of nostalgia—you only need to see how records shops are full of reissues. It's the same with synths. Most of them are really good but it makes me wonder why we are so stuck in the past. I think it is partly because dance music is not a counterculture anymore and has became more mainstream. So I guess it is part of the \"growing process.\" \n\nI really don't have a recipe for what can be done. What is happening in dance music culture is symptomatic of our societies. People are afraid of taking risks in general, to open new perspectives. I don't know why the music scene would be detached from the rest of the society. That's why most DJs and producers play it safe. It is really ironic to be part of a scene where we use such contemporary, advanced tools, yet still we are looking back. \n\nOf course the bass / tropical music scene is maybe the most vivid in term of creativity nowadays but I will not connect it too much to the house / techno music world. To name a few rule-breakers: Olof Dreijer for his productions and DJ sets, Lena Willikens for her DJ sets, Paula Temple with her project Decon/Recon and Matias Aguayo for his performances. \n \n<b>What are you up to next?</b>\n\nI'm releasing a new EP on Don't Be Afraid. This should come out early in November. Then I have numerous gigs coming up, like ADE in Amsterdam. I'm also looking forward to going back to Karachi, Pakistan in November to perform there as part of Karachi Files. This project was born after a two-week residency a year ago, with Pakistanis and German-based musicians and producers. After a first reunion in Berlin at HAU last May, we are performing a live version of the record produced during the residency. 11 electronic musicians on stage is pretty fun.",
+    "blurb": "Modern takes on house and techno."
+  }
+}

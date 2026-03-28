@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "768",
+  "url": "https://ra.co/podcast/768",
+  "id": "768",
+  "__typename": "Podcast",
+  "title": "RA.768 Carl Cox",
+  "date": "2021-02-21T23:00:34.000Z",
+  "fileSize": 143674425,
+  "duration": "00:59:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra768-carl-cox-cvr.jpg",
+  "contentUrl": "/podcast/768",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/990416389",
+  "keywords": "Ibizia, Melbourne, El Rancho, Perfecto, Cabin Fever, Christopher Coe, Moog, ",
+  "artist": {
+    "id": "25",
+    "__typename": "Artist",
+    "name": "Carl Cox"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Since the early '90s, Carl Cox has been the biggest DJ in dance music, an artist whose success and longevity remains unrivalled. He's a brand, a logo, a catchphrase, helming perennial world tours and record-breaking Ibiza residencies. But underpinning this great machine is something much more simple: a man with an undying passion for playing records. Most house and techno fans have at some point gazed up at Cox's gap-toothed grin from the dance floor. Or chuckled along to his silly patter on the mic. For more than three decades, he has embodied the joy of raving.\n\nSo what does the king of the rave do in a pandemic? Since his US tour was interrupted last spring, Cox has been at home on his farm in Melbourne, broadcasting <a href=\"https://www.mixcloud.com/CarlCox/playlists/cabin-fever-the-vinyl-sessions/\">weekly streams</a> from his studio, El Rancho, and finally tending to some long-neglected projects. One of these was putting together a live show, which he has done only once before, back in the early '90s. Framed by a wall of vinyl and surrounded by hardware, Cox recorded RA.768 at El Rancho earlier this month. (A <a href=\"/films/3836\">video version</a> of this podcast is now live on <i>RA</i>.) Needless to say, this is a special mix.\n\n<b>What have you been up to recently?</b>\n\nI've been in Melbourne for nearly a year now since the pandemic started, basically just getting on with life as much as I can. I've been able to work on new music, which I've been dying to do for the longest time, and my book, which hopefully is nearly finished and will come out later on this year. I've been catching up on remixes, which have been stacking up for quite a while, and catching up with friends here in Australia, as well as being on Zoom meetings and keeping up with everything that's been going on around me with social media. And I've been keeping myself sane with my weekly streaming show, <i>Cabin Fever - The Vinyl Sessions</i>, where I'm able to go into my garage and choose the music I want to play every week on vinyl. Also I played my first DJ set here in Melbourne at a place called Sidney Myer Music Bowl. Myself and Eric Powell, who I've been doing events with for 11 or 12 years, were able to do two events under the Mobile Disco banner. \n\n<b>How and where was the mix recorded?</b>\n\nAt my recording studio here on my farm in Melbourne. We call it El Rancho. \n\n<b>Can you tell us the idea behind the mix?</b>\n\nFor the longest time I've been wanting to create a live show, where I'll be able to play all of my music, totally improvised. I did it once many years ago in 1991 / '92 when I was signed to Perfecto Records. I had a record out called \"<a href=\"https://www.youtube.com/watch?v=ve_h_-T6Hus\">I Want You (Forever)</a>,\" which was a big hit at the time, and the follow-up single was \"The Planet Of Love.\" I created a trio—myself, Neil McLellan, MC Magika—around the latter track and we were out there treading the boards in all the clubs with live music. So this isn't my first rodeo, but it's amazing that I've had the opportunity to record this exclusively for you guys. And you can see the progression where I've actually ended up doing this on my own, with help from Christopher Coe, who showed what I could create if I put my mind to it. \n\n<b>Have you always wanted to play live? Or did the pandemic inspire this?</b>\n \nThe pandemic has inspired this in some ways because I've had the time to sit there and create the live show, to really get into these machines. I've been using modular and Moog hardware as well as digital platforms by the likes of Pioneer DJ, which have enabled me to programme a lot of sounds and samples. The DJS-1000 is my go-to machine and also the Toraiz SP-16. Working between the two concepts has inspired me to be very creative. It's been phenomenal.\n \n<b>Any other recent musical discoveries?</b>\n \nThere's thousands of things happening now that everyone's locked down indoors, which is incredible, but for me nothing has really stuck in terms of a new sound or new ideas. Everyone is regurgitating what's been going on for the past four or five years, which is fine. I'm sure when these artists can perform live again we're going to see something special.\n \n<b>What are you up to next?</b>\n\nAs well as music, I'm also involved in the motorsport industry, so I'm really looking forward to getting back to drag racing, which I've been doing for the past ten years. When the pandemic is over, you'll see my company, Carl Cox Motorsport, and myself back out there racing with the car that I've bought from America. It's going to be a lot of fun. ",
+    "blurb": "The dance music titan delivers a rare live set."
+  }
+}

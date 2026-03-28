@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "947",
+  "url": "https://ra.co/podcast/947",
+  "id": "947",
+  "__typename": "Podcast",
+  "title": "RA.947 LYDO",
+  "date": "2024-07-28T21:15:43.000Z",
+  "fileSize": 0,
+  "duration": "01:04:57",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-947-lydo1x1.jpg",
+  "contentUrl": "/podcast/947",
+  "tracklist": "Valentino Mora - ?\nLinear System, Yrsen - Storage Ring\nKerst - Smashing Powder\nLatmos - Amalgam\nRobert Hood - And Then We Planned Our Escape\nFireground - Baia\nLonefront - 56 (feat. Decoder)\nHD Substance - Potter Wasp\nMarAxe - Float\nSev Dah - Singing Like (feat. Leoni & Naomi)\nD.Dan - Organic Mechanism\nJames Harbrecht - Subject Matter\nGiGi FM - Awakening The World's Heart\nLewis Fautzi - Stagger\nNikolai Vraza - Counting Bits\nTerence Fixmer - Razor Sharp",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra947-lydo",
+  "keywords": "",
+  "artist": {
+    "id": "83860",
+    "__typename": "Artist",
+    "name": "LYDO"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "This week's <i>RA</i> Podcast captures <a href=\"/dj/lydo\">LYDO</a> in full flow, combining the old-school vernacular of European and North American techno—reduced rhythms, hi-hats and punchy 909s—with tracks from the new guard (Sev Dah, GiGi FM, D.Dan) sprinkled throughout.\n\nLYDO's path reads like a career in reverse: they started out founding the brand X-TRA.SERVICES, first making practical gear for ravers, before expanding it into a label and beloved party series. After moving to New York in 2015, the Vietnamese-American sound artist became one of BASEMENT's first residents, and the scene built around the revered Queens club has helped nurture their adventurous sound. Lately, they've been making waves beyond North America, playing with the MARICAS crew in Barcelona and locking down slots at De School, Bassiani and Draaimolen.\n\nRA.947 is the sound of artful hypnosis: it's techno with elegance, depth and just the right amount of thump. Rig this up on a proper system, turn off the lights and any worries—about the genre's direction of travel, or otherwise—should melt away. <i>– Bella Aquilina</i>\n\n<b>What have you been up to recently?</b>\n\nI've been balancing productivity with necessary rest. Last November, I dealt with hyperacusis, requiring a break from noise for a couple of months. As you can imagine, this was totally destabilising, but it enabled me to venture into new experiments and projects, which I hope to share soon. Mainly, I've been focusing on scoring works in collaboration with different artists and filmmakers. Currently, I'm spending a month in Barcelona while on tour. I'm relishing regular swims in the Balearic Sea and sketching ideas for an album while easing back into playing regularly.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI recorded this at home in Brooklyn using a pair of Pioneer XDJ-1000MK2s and an Allen & Heath XONE:92 mixer. It was done in June, just before starting my tour. I decided to create a dynamic mix of sounds and textures wanting to balance the energies in the mix while reflecting on real life. Which also meant sticking to sounds that are easy on my ears.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm just enjoying existing at the moment.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nThere are so many close to my heart. The liberation of Palestine, trans rights, the environment. But undergirding all of this also seems to be mental health. I do think people would relate to one another, and the planet, differently if everyone had access to mental health and healing resources, which can improve quality of life and overall well-being, which in turn helps people see themselves and the world differently, and on and on.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nMost recently, BASEMENT has profoundly shaped my journey as an artist over the past four years. Their unwavering support and the inspiring environment they cultivate have played a crucial role in my development. I'm grateful for the community I've built with the platform they've provided.",
+    "blurb": "What does great techno sound like in 2024? Enter LYDO."
+  }
+}

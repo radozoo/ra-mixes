@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "957",
+  "url": "https://ra.co/podcast/957",
+  "id": "957",
+  "__typename": "Podcast",
+  "title": "RA.957 Nídia",
+  "date": "2024-10-06T23:00:20.000Z",
+  "fileSize": 0,
+  "duration": "01:01:07",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-957-1x1.jpg",
+  "contentUrl": "/podcast/957",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra957-nidia",
+  "keywords": "",
+  "artist": {
+    "id": "62717",
+    "__typename": "Artist",
+    "name": "Nídia"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Before she was simply Nídia, Nídia Borges was Nídia Minaj. Initially inspired by Nicki Minaj, one of her musical idols, in 2017 she shed the borrowed surname. As she later said in an <a href=\"https://www.nytimes.com/2018/06/14/arts/music/nidia-batida-lisbon.html\" target=\"_blank\">interview</a> with <i>The New York Times</i>, \"Today I have my own identity. I'm not going to imitate something that someone has done already.\"\n\nAnd Nídia couldn't be further from an imitator. Her body of work stands apart, even within Príncipe's unique sonic universe. The Lisbon label is in constant motion, underpinning a scene where individuality is the primary currency. Like her label mates, Nídia draws from a rich rhythmic heritage: Angola, Cape Verde, Guinea-Bissau, and the African diaspora communities of Portugal.\n\nBut her sonic world extends further, from <a href=\"/reviews/21099\" target=\"_blank\"><i>Nídia É Má, Nídia É Fudida</i></a>, her wonky, trap-influenced debut album, to collaborations with Fever Ray, Kelela and Yaeji, and not forgetting her <a href=\"/reviews/36194\" target=\"_blank\">latest</a> acoustic experimentations with Valentina Magaletti. As one of Príncipe's two non-male members, her music traverses a broad emotional territory, flowing from delicate downtempo to thundering kuduro and batida. \n\nHer <i>RA Podcast</i> is a restless affair–60 minutes of pushing, pulling, tiptoeing and gliding through the sounds of the Príncipe universe. True to the label's communitarian foundations, the mix contains predominantly original and unreleased material from her colleagues. \n\nIn 2014, DJ Lilocox <a href=\"/features/2021\" target=\"_blank\">told</a> <i>RA</i>: \"Whatever your age, skin colour, sexual orientation, money in the wallet, clothes on: Noite Príncipe is for all who come to dance... forgetting the outside world.\" A decade on, RA.957 echoes this sentiment, a celebration of Príncipe's enduring magic–delirious, transcendent dancing for all. <i>– Bella Aquilina</i>\n\n<b>What have you been up to recently?</b>\n\nI've been staying home more. I enjoyed the summer holidays with my nephews and family who live abroad that came to visit.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThis mix was recorded at my home. I don't think there's an idea behind it. I tend to flow and improvise. It has a lot of original and fresh sounds by my colleagues.\n\n<b>What are you looking forward to in the near future?</b>\n\nI haven't been thinking about the future, because the moment is happening now. I live a day at a time.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nThe world should pay more attention to the genocide taking place in DRC (Democratic Republic of the Congo). Willingly or unwillingly we are contributing to that. For example, check what our smartphones are composed of and where the minerals are extracted.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nThere are loads. I'll mention Noite Príncipe; my first time at Berghain, Red Bull Music Festival in New York with Fever Ray, Primavera Sound Porto, Sónar Lisboa a couple years ago. Each one has its own <i>sonambulos</i> impact. It doesn't matter if it's big or small scale.\n",
+    "blurb": "The singular Príncipe artist showcases her shapeshifting sound. "
+  }
+}

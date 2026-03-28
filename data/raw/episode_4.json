@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "4",
+  "url": "https://ra.co/podcast/4",
+  "id": "4",
+  "__typename": "Podcast",
+  "title": "RA.004 Margaret Dygas",
+  "date": "2006-03-27T00:00:44.000Z",
+  "fileSize": 111323013,
+  "duration": "01:32:46",
+  "imageUrl": "https://static.ra.co/images/podcast/ra004-margaret-dygas-cover.jpg",
+  "contentUrl": "/podcast/4",
+  "tracklist": "<b>Artists featured in the podcast:</b>\nPan Pot, Sweet n Candy, Roman Flügel, Butane, Monolake, Mark Houle, Troy Pierce, Luciano, Low-Train, Marc Ashken, Sleeparchive, Matt John, Italoboys and I.A. Bericchea",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra004/",
+  "keywords": "",
+  "artist": {
+    "id": "705",
+    "__typename": "Artist",
+    "name": "Margaret Dygas"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "With a sonic style spanning dub to techno, Margaret has played the likes of Fabric, The End, Space (Ibiza), Watergate and the infamous Panorama Bar, as well as a host of smaller parties like <a href=\"http://www.runsounds.com/\">Run Sounds</a>, <a href=\"http://www.multivitamins-records.com/\">MuliVitamins</a> and <a href=\"http://www.minimallondon.com/\">Minimal London</a>.\n\nMore recently Margaret has crossed over into production, providing her own take on deep and minimal sounds. RA caught up with her for a quick update... \n\n<b>What have you been up to recently?</b>\nI've been travelling around Europe over the last couple of months. I've docked in Romania, Paris and had a few trips to Berlin. Last week I played Panorama Bar on Saturday, with the party going till early evening Sunday... and then some! On Wednesday I played at The Arena for Club Der Visionaere. The week before at the T Bar in London for the Stink party.\n\n<b>Where was the mix recorded?</b>\nThe mix was recorded in my bedroom on two decks, a CDJ and an Allen & Heath mixer.\n\n<b>What are you up to next?</b>\nThe next couple of months will be heads down in the studio, trying to finish a few things which I'm really excited about since it is my first time producing.\n\nI'm using Live5 with a few plug ins. There is so much more to explore and to learn with programs and sounds. Everyday is a new discovery of some sort which makes me want to be glued to the computer for hours on end.\n\nI'm working on six tracks right now. A few of them are on the dubby and quite mellow vibe, the others are more upbeat and bubbly, but you never know what the end result will be. I like working with trippy sounds and sharp elements with a few little suprises thrown in along the way. At the moment I really enjoy bouncing back and forth between different songs, keeps things interesting and fresh in my mind. \n\nAnd of course there are few exciting places to play at as well...",
+    "blurb": "Our fourth Resident Advisor Podcast is provided by Fabric and Panorama Bar regular, Margaret Dygas."
+  }
+}

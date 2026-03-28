@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "258",
+  "url": "https://ra.co/podcast/258",
+  "id": "258",
+  "__typename": "Podcast",
+  "title": "RA.258 Steve Bug",
+  "date": "2011-05-09T00:00:13.000Z",
+  "fileSize": 82783141,
+  "duration": "01:08:57",
+  "imageUrl": "https://static.ra.co/images/podcast/ra258-steve-bug-cvr.jpg",
+  "contentUrl": "/podcast/258",
+  "tracklist": "Farley 'Jackmaster' Funk - Acid Life - House Records/Trax Records\nCode 6 - Quad 1 - New Groove Records \nArmando - 151 - Warehouse Records \nFrankie Knuckles feat. Jamie Principle - Baby Wants To Ride - Trax Records/ffrr\nMyoshi Morris - Muzik - Rockin' House\nRalphie Rosario - You Used To hold Me - Hotmix 5\nMike Dunn - Face The Nation - Underground\nPhuture - We Are Phuture - Trax Records\nModel 500 - No UFO - Metroplex\nPhortune - String Free - Hotmix 5/Trax Records \nFast Eddie - Ain't It Funky - Underground/Radical Records\nMarshall Jefferson pres. Dancing Flutes - Do The Do - Underground\nRisqué III - Essence Of A Dream - Stride Records\nFarley 'Jackmaster' Funk (& Shy Boyz) - U Ain't Really House (Really Instrumental) - House Records/BCM records\nJeanette Thomas - Shake Your Body (House Shaker Version) - Chicago Connection Records \nHercules - 7 Ways (To Jack) - Dance Mania \nPaul Rutherford - Get Real (Happy Mix) - 4th & Broadway/Island Records",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra258/",
+  "keywords": "Steve Bug, house, Poker Flat, 90's, berlin, 80's, Phuture",
+  "artist": {
+    "id": "364",
+    "__typename": "Artist",
+    "name": "Steve Bug"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Back in August 2010 we asked Steve Bug what the unifying idea behind his long-serving Poker Flat was. \"I think in a way it is a love for the sounds of early Detroit and Chicago house,\" he said. Never was that more explicit on the label's <i>Forward to the Past</i> compilation which was released last month. Producers like Deetron, Redshape and The Revenge were asked to indulge in their own love of circa '85-'92 dance music, producing original compositions befitting of the era. Bug has been involved in the scene long enough to remember these sounds from the first time around. He was among the original pool of German house DJs, plying his trade from his hometown of Bremen and latterly Hamburg. It was during the minimal boom of the mid-'00s that Bug began to truly receive widespread international recognition, though. By this stage the Poker Flat family had grown to include the Dessous and Audiomatique labels, enabling Bug to release and revel in all different shades of four-four indebted house and techno. \n\nAnd his mix for us? We need say no more than late '80s house music. \n\n<b>What have you been up to recently?</b>\n\nI've been touring a quite a lot, but I've also been working on some tunes with my mate Clé, to be released on Poker Flat in June as well as a remix for Simon Baker. Besides I am doing some label work and I am trying to find some time for beach volleyball with a bunch of other DJs here in Berlin on those sunny days.\n\n<b>How and where was the mix recorded?</b>\n\nI decided to mix it in Ableton as I like to have all the editing opportunities while working on the mix. It opens a whole new world and I love that, because it's in between DJ and studio work. I started working on the mix at home, then I continued in my studio and did a lot of extra work on my flight to Miami where I finally gave it the finishing touch.\n \n<b>Can you tell us a little bit more about the idea behind the mix.</b> \n\nSince we [Poker Flat] just released the <i>Forward to the Past</i> tribute to the early days compilation I decided to only use tracks from that era. Tunes that had been produced in the late '80s, some of those tunes may not be known by many of the today's clubbers, but they are still great tracks and they are still playable. They are a big part of the history of house sound and they shouldn't be forgotten.\n\n<b>Is house music revivalism here to stay?</b> \n\nI don't know, it is around since a while now and it seems to become bigger, but usually every little hype is over after some time. The good thing about this is that these are the roots and somehow they will always be a part of modern dance music. Sometimes more, sometimes less. \n\n<b>What are you up to next?</b> \n\nI am going to Japan next week and after that I have two weekends off and will concentrate on working on my new album that hopefully will be released by the end of this year.",
+    "blurb": "Classic house music from the Poker Flat boss. "
+  }
+}

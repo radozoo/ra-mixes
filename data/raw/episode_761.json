@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "761",
+  "url": "https://ra.co/podcast/761",
+  "id": "761",
+  "__typename": "Podcast",
+  "title": "RA.761 Forest Management",
+  "date": "2021-01-04T00:00:47.000Z",
+  "fileSize": 188401398,
+  "duration": "01:18:18",
+  "imageUrl": "https://static.ra.co/images/podcast/ra761-forest-mgmt-cvr.jpg",
+  "contentUrl": "/podcast/761",
+  "tracklist": "Halim El-Dabh - Venice \n_\"/._.\\\"_ - Course Correct\nOrlando Kimber / John Keliehor - Cloud Music\nJoel Tammik - Sume\nSuper Minerals - Clusters \nUltrafog - Thirty Three\nTaevalaotus - Lauge (Slanting)\nNadia Khan - Conversations\nJung DJ - Untitled (from <i>Q/Archive</i>)\nStrië - Man With The Thick Glasses\nLiai - O\nSawako - Locus of Everyday Life\nAngelo Harmsworth - 13353 (Expanded Terza Rima)\nLuc Ferrari - 8'16\nPaul DeMarinis - Fonetic Francese\nI/DEX - Illude\nFlorian T M Zeisig - Pallasite II\nAmby Downs - yuuruu (runoff)\nmb - Night Birds\nLokua - Water Rock\nHeated Void - Headlands\nIllusion of Safety - Lilt\nPrivate Elevators - Good Old Days",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/963435610",
+  "keywords": "John Daniel, ambient, Ultrafog, Nadia Khan, DJ Olive, Reserve Matinee",
+  "artist": {
+    "id": "61851",
+    "__typename": "Artist",
+    "name": "Forest Management"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"I have a hard time making music that grows or gets epic,\" John Daniel told <i>Tone Madison</i> <a href=\"https://www.tonemadison.com/articles/forest-managements-john-daniel-on-his-deep-down-attraction-to-ambient-music\">in 2017</a>. \"It feels more like painting—stroking a brush on a canvas.\" That's the kind of quote that sticks with you, and goes some way to explaining the appeal of Daniel's music as Forest Management: patience, deliberation, concentration. Recent releases like <a href=\"/reviews/24788\"><i>Rooftop By Dusk</i></a> (a wonderful set of archival material) and <a href=\"https://forestmanagement.bandcamp.com/album/passageways\"><i>Passageways</i></a> feature a sound that's enveloping and slow, but hardly aimless: each new wash of melody or texture is intentional, and often riveting.\n\nThe American producer's <i>RA</i> Podcast showcases this approach, but with a more expansive sound palette than you'd get on his own releases. Pearly textures coalesce into subtle beats, voices come in and out of earshot, distant sounds make the hairs on the back of your neck stand up. Tracks from new-school producers like Ultrafog, Nadia Khan and Florian T M Zeisig mingle with Luc Ferrari's musique concréte experiments, creating a sound that isn't \"ambient\" so much as it is a living, breathing landscape. \n\n<b>What have you been up to recently?</b>\n\nHanging out at home, learning new meals to cook and going for walks near Lake Michigan. Getting back into working on solo music again.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it at my apartment using the program Mixxx, and mixed it in Ableton. \n\n<b>Can you tell us the idea behind the mix?</b>\n\nIt's a mixture of new and old work from friends, finds from 2020 that I've really enjoyed and a couple Cleveland-related pieces.\n\n<b>Obviously this year's festivities look a whole lot different than usual. How did you (or will you) spend your New Year's Eve?</b>\n\nI spent it with my partner at her place, hanging with two new kittens and watching shows. \n\n<b>Earlier this year, you made a mix that was a tribute to illbient. What appeals to you so much about that genre, and do you think it has been lost/forgotten over the years?</b>\n\nThe inspiration behind that mix was primarily a connection with DJ Olive. Dives into his old label theAgriculture shed light onto this era of music-making towards the late '90s and early '00s that ended up being very inspirational. And the jams are just sick. I don't think it's been forgotten, it really held this spirit of experimentation, music and friendship. \n\n<b>It feels like your music has become more and more minimalist over the years. Do you agree? And if so, what's been driving that process?</b>\n\nThat could be. I feel like things have typically been pretty minimal in terms of elements and setting, though I don't usually have that term in mind. My first live sets were at noise gigs on just a reel-to-reel and a mixer—just using a few things to make something. I think focusing less on what goes into it, and more on what presents itself is what's been the most engaging. The material seems to go back and forth. I enjoy and am inspired by minimalist art though, for sure.  \n\n<b>What are you up to next?</b>\n\nFinishing up a recording project for DJ Olive that involves my friends Michael, Bill and Ed. Reserve Matinee (a label I run with Michael Stumpf) had Olive in the Midwest briefly for a gig in August 2019. He left us eight identical LPs (two each)—it involves a score for turntablists that remixes material he made with Luc Ferrari. It's been fun mixing the tracks and discovering new zones each time, and there's been no rush with it. We should have the final result shared sometime in 2021, either on RM or Record Blanks. I'm also launching an imprint that will release early Chicago jazz reissues and film literature.",
+    "blurb": "Imaginative downtempo and ambient to bring in the New Year.\r\n"
+  }
+}

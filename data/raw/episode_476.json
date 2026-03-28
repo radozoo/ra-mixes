@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "476",
+  "url": "https://ra.co/podcast/476",
+  "id": "476",
+  "__typename": "Podcast",
+  "title": "RA.476 Glenn Astro",
+  "date": "2015-07-12T00:00:32.000Z",
+  "fileSize": 147561718,
+  "duration": "01:01:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra476-glenn-astro-cvr.jpg",
+  "contentUrl": "/podcast/476",
+  "tracklist": "Lucas Arruda - Rio Afternoon \nElectric Wire Hustle - Waters (Edit)\nMF Doom - Special Herbs Beat\nKellee Patterson - Maiden Voyage\nRetrogott - Der Stinker\nSoundhack - Untitled\nTheo Parrish - Falling Up\nSwindle - Summer Fruit\nPepe Bradock - Drum Tool\nFloating Points - Nuits Sonores\nI.G. Disco - Disco Power\nWK7 - More Music\nD-Ribeiro - The Purple Ghost Dance\nCymande - Bra (Ritual Session)\nRocko Schamoni - Discoteer (DJ Koze RMX)\nSmith n Hack - Footstomping Smoker\nMad Men - Jazz Workshop (instrumental)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra476/",
+  "keywords": "House, deep house, Throwback, Tartelet, WotNot, MoneySex music",
+  "artist": {
+    "id": "35848",
+    "__typename": "Artist",
+    "name": "Glenn Astro"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "From the first bar to the last, Glenn Astro's RA podcast drips with the sort of honeyed funk that sounds best with the sun on your face. He begins with Lucas Arruda's delicious \"Rio Afternoon,\" and keeps things bumping, hazy and soulful for 60 more blissful minutes. As he swerves between house, disco, funk, hip-hop and jazz, you may also notice something that's uncommon among DJs these days: he's throwing the crossfader around. The mix is littered with unfussy bits of flair, giving it give an old-school flavour that feels refreshing in today's world of streamlined mixing. \n\nIt shouldn't be a surprise that Astro plays this way. The German artist comes from a school of house music production that's informed as much by early '90s hip-hop and jazz as it is contemporary club sounds—think Floating Points, Motor City Drum Ensemble and Session Victim. Astro's vibe is best exemplified by <a href=\"/review-view.aspx?id=17090\"><i>Throwback</i></a>, his recently released debut album. The way we described his RA podcast above can pretty much be applied wholesale to <i>Throwback</i>: it's an album that revels in the past while exploring fresh angles on classic sounds. The record is reminiscent of Max Graef's <a href=\"/review-view.aspx?id=14853\"><i>Rivers Of The Red Planet</i></a>, and indeed, the two young Germans are close collaborators, with Graef appearing a handful of times on <i>Throwback</i>, and the pair both forming part of the OYE Records crew in Berlin. Earlier this year, they started the subtly titled <a href=\"/news.aspx?id=27637\">Money $ex Records</a> with Delfonic, and put out an untitled EP together. That was followed by a killer seven-tracker from IMYRMiND, another frequent collaborator of Astro's who never heard a Rhodes line he didn't like. \n\n\n<b>What have you been up to recently?</b>\n\nGigging a lot and working on some music. Trying to catch up with university as well. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix in my living room at home. Not that it matters, but it's vinyl only, haha. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI'm not sure if this counts as an \"idea,\" but I wanted to keep it fresh and diverse. Not sticking to one genre but at the same time keeping it dancey, if that makes sense.\n\n<b>Could <i>Throwback</i>, the title of your album, be thought of your artistic mission statement in a way?</b>\n\nWell, yes and no. On the one hand, I obviously draw some inspiration from music that has been around for a couple of decades and has influenced me a lot. But on the other hand, I don't necessarily feel like I'm only recycling stuff. I still try to make it sound different and new-ish. \n\n<b>Do you have favourite spots for crate digging?</b>\n\nNo, not really, but I really like flea markets or fares. I usually get new stuff at OYE or HHV.\n\n<b>What are you up to next?</b>\n\nDoing a bunch of remixes and also working on an album together with Max Graef—should be fun.\n\n\n",
+    "blurb": "Summer sounds. \r\n"
+  }
+}

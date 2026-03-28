@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "996",
+  "url": "https://ra.co/podcast/996",
+  "id": "996",
+  "__typename": "Podcast",
+  "title": "RA.995 Kampire",
+  "date": "2025-06-30T14:22:41.000Z",
+  "fileSize": 0,
+  "duration": "01:55:08",
+  "imageUrl": "https://static.ra.co/images/podcast/kampirepodcast.jpg",
+  "contentUrl": "/podcast/996",
+  "tracklist": "DJ Lycox - Anubis\nVANYFOX - Assim Querem Que \nLua Preta - Big Poppa Baile \nMrBeats - Samba Gqom \nCairo CPT - Wrong Turn \nLamsi - One Gqom Man [Vybz Kartel Edit]\nENVY BOIZ - INTO KA WEHH\nAkiidMusiq - Robot Boy \nElk_Music - Muito Sexo (feat. Dj Alexia) \nDJ K - Unreleased\nkLap - D4 \nLXKS, Toni - Berimbolha \npetrus.wav - RITMADO MAGICO NO SUMAREZINHO (REMIX) \nFLO - Unreleased\nBudalagi - TAND3M\nDJ Addo - Home Workout Freestyle, Pt. 5 (Bruyant Riddim)\nHey Bony & Soumae - Wolla Dem \nUnreleased - Obeka x Entranas\nElkotsh - 150 Leila \nSean Paul - Temperature (BJF Edit)\nBLAQ BANDANA - Neighbourhood Watch  \nRozaly - Trappin De Truck\nWoreka - Unreleased\nSantigold - Disparate Youth\nR3ign Drops - Drum Infestation\nLMT Mafia - DAF Riddim \nCatu Diosis - Buul Mapek\nDj Travella - Trust",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-995-kampire",
+  "keywords": "",
+  "artist": {
+    "id": "76354",
+    "__typename": "Artist",
+    "name": "Kampire"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Nyege Nyege is synonymous with radical sonic innovation. Since 2015, the boundary-pushing Ugandan festival and its associated label have become a vital hub for adventurous, experimental sounds emerging from East Africa and beyond. Its alumni roster includes some of the past decade's most thrilling and forward-thinking artists—<a href=\"http://ra.co/podcast/984\" target=\"_blank\">DJ Travella</a>, Nihiloxica, <a href=\"https://ra.co/features/4442\" target=\"_blank\">Juliana Huxtable</a>, MC Yallah, and even New York's mayoral frontrunner, <a href=\"https://ra.co/news/83054\" target=\"_blank\">Zohran Mamdani</a>. In the process, the collective has reimagined what club music can be.\n\nOn the B side mix is <a href=\"https://ra.co/dj/kampire\">Kampire</a>. The Kampala-based DJ has been a core member of the collective since the label's inception. Her mixes often feel like a lesson in musicology, weaving together narratives, tempos and genres while losing nothing in dance floor vitality. These talents are reflected in her contribution to RA.995. A typically kaleidoscopic blend of tough percussive workouts, infectious edits and raw, unreleased gems, the hour-long mix spans batida, singeli, bruxaria and countless more urgent sounds from the global underground.\n\nThe other half of this special release comes from the enigmatic DJ TOBZY, which you can find here; \n<a href=\"https://ra.co/podcast/995\" class=\"h2\">RA.995 DJ TOBZY</a>\n\nPresented together, as the first edition of a new format marking the countdown to RA.1000, this two-sided mix highlights the range and depth of a label that has redefined electronic music over the last decade—with Kampire at the centre of its evolution. <i>– Michael Lawson</i>\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded at home in Kampala, during a stressful week between a trip to Australia and another to Nairobi, to sort out visa issues and perform at the first Africa Is A Country Festival. I thought a bit about my very first <a href=\"https://ra.co/podcast/708\" target=\"_blank\"><i>RA</i> Podcast</a> and how it was a big stepping-off point for me internationally, but also about how the world, and I alongside it, have changed so much since then. I wanted to show how much I have grown as a DJ, and how the artists around the festival and the labels have been a big part of that, but in the end a mix is a jigsaw puzzle and wants to be its own thing. I only hope people enjoy it.\n\n<b>What have you been up to recently?</b>\n\nI just got back from playing Rising Festival in Melbourne with MC Yallah and DJ Travella, and visiting family in Australia. It never ceases to amaze me how lucky I am to be part of an East African community making a life out of the underground music scene, especially when so much else in the world seems to be falling apart.\n\n<b>How did you first connect with Nyege Nyege? How has your relationship with the collective impacted your trajectory as a DJ?</b>\n\nNyege Nyege is the reason I'm a DJ. Derek, one of the cofounders, first suggested I should try DJing after the first edition of the festival, where I had seen incredible acts like Marfox and Gafacci and thought maybe I can DJ as a way to go to more African music festivals for cheap! I never thought it would change the trajectory of my life when I first met Derek and Arlen through a friend in 2015 and they said, \"Hey, we're throwing a festival in six weeks, do you want to help?\" I'm deeply grateful for all of it.\n\n<b>What’s on the horizon?</b>\n\nI have a few shows in Europe that I'm looking forward to, including returning to Dekmantel and going back-to-back with Tash LC later in the year. But outside of that I'm quite focused on my community in Kampala and figuring out what I can do with what I have to feel good about my place in the world–and to keep practicing art, whatever that may look like.\n",
+    "blurb": "Kampire's half of a double-sided mix by two Nyege Nyege all-stars."
+  }
+}

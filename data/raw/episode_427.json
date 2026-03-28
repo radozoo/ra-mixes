@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "427",
+  "url": "https://ra.co/podcast/427",
+  "id": "427",
+  "__typename": "Podcast",
+  "title": "RA.427 Luke Abbott",
+  "date": "2014-08-04T00:00:07.000Z",
+  "fileSize": 149262867,
+  "duration": "01:02:02",
+  "imageUrl": "https://static.ra.co/images/podcast/ra427-luke-abbott-cvr.jpg",
+  "contentUrl": "/podcast/427",
+  "tracklist": "Pharoah Sanders - Greeting To Saud\nGeoffrey Chandler - Celestial Divine\nSeesaw - Flap\nAlice Damon - Waterfall Winds\nKieran Hebden and Steve Reid - Left Handed, Left Minded\nAphex Twin - Ptolemy\nKaren Gwyer - Waukon\nRobert Turman - Flux 1\nThe Boy Lucas - On A Day When I Wake Up\nConstance Demby - Om Mani Padme Hum\nPhilip Glass - Closing\nKarl Schaffner - Pacific Moonrise\nLukid - Park It Low\nKoreless - Nosun",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra427/",
+  "keywords": "Border Community, Notown, Wysing Forest, Holkham Drones, ",
+  "artist": {
+    "id": "16625",
+    "__typename": "Artist",
+    "name": "Luke Abbott"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Luke Abbott likes mistakes. They give his music the additional depth of a human touch. He's the type of artist who allows his drums to drift out of time. His notes are sometimes off, and you can often hear the hiss of tape noise in his tracks. Abbott once found the MIDI controllers he was using unsatisfactory, so he <a href=\"/feature.aspx?1556\">built his own</a>. (He's also fond of assembling synthesizers.) At the heart of his music is a modular system—Abbott values its versatility and unpredictability. On two albums and a handful of EPs, Abbott has brought all of this to bear, creating a catalogue of rich and unconventionally pretty music that's best described as modern kosmische. It's a sound him and James Holden, whose Border Community label has released both of Abbott's albums, specialise in. Abbott's latest album, <a href=\"/review-view.aspx?id=15191\"><i>Wysing Forest</i></a>, which was released in June, was written during a musician-in-residence programme he completed at the Wysing Arts Centre in Cambridgeshire. The record is mostly based on live recordings and improvisation, an approach that yielded nine deliciously freeform tracks that rank among his most unique and personal work.   \n \nAbbott has never been a DJ, but that hasn't stopped him creating a strikingly beautiful podcast for us, blending his influences with some of his like-minded contemporaries.   \n\n<b>What have you been up to recently?</b>\n\nSince my new album came out I've been doing a few gigs, a couple of remixes, working on some new stuff and tidying up my studio. I just got back from Howlin' Fling festival on the isle of Eigg in Scotland, which was totally magical, we even saw dolphins.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix at home in my living room over a couple of afternoons, drinking tea and drifting off listening to records.  \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's my version of a meditation tape or some kind of spiritual healing music.  A peaceful summertime afternoon at home, where time moves more slowly. It's also just music I like listening to. \n\n<b>You've said before that your live shows are always in a state of flux. How have the most recent gigs worked out?</b> \n\nI did a small tour in the UK the week that my album came out, which was a lot of fun. I took a bunch of equipment with me mostly to experiment with, but since that I've been refining things a bit.  Right now I've got a neat little modular case + laptop set up that is a lot of fun to play with. I saw Charles Cohen at Cafe OTO earlier this year and it was really inspiring. Since then I've been chaining my setup a lot, trying to find the sort of magic he has.  \n\n<b>What are you up to next?</b> \n\nI'm about to leave for a couple of gigs and a collaborative project I'm doing with Jack Wylie in France . Then in a few weeks I'm playing at <a href=\"/event.aspx?612568\">Green Man Festival</a>, which I'm really excited about!\n\n\n<span class=\"grey\">Photo credit: <a href=\"https://www.flickr.com/photos/frf_kmeron/\" class=\"grey\">Kmeron</a></span> ",
+    "blurb": "The Border Community artist turns in a stunning session.  \r\n"
+  }
+}

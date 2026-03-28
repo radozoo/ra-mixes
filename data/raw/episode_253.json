@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "253",
+  "url": "https://ra.co/podcast/253",
+  "id": "253",
+  "__typename": "Podcast",
+  "title": "RA.253 Adam Marshall",
+  "date": "2011-04-04T00:01:10.000Z",
+  "fileSize": 90151706,
+  "duration": "01:15:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra253-adam-marshall-cvr.jpg",
+  "contentUrl": "/podcast/253",
+  "tracklist": "Chasing Voices — Ex Nihilo Nihil Fit - Preserved Instincts (Intro)\nDigital Mystikz - Ancient Memories (Edit)\nMarco Bernardi - Klinsfrar Melode - Creme Organization\nPangaea - Memories\nMarco Zenker - Force Back\nSteffi - Yours (Dub)\nAm - Dub\nSamueli Kemmpi - Rymd - Time2express\nSilent Servant - Violencia (Kalon Mix)\nFrancois X - Firewall (X And Dj Deep Raw Edit) - Deeply Rooted House\nPearson Sound -  Blanked – Hessle Audio\nShackleton - Man On A String - Woe To The Septic Heart\nWax22 - Pinch Remix\nRetail And Leisure - Your Reference To Positional Stability\n?? - Xia Dub - White\nDexter - 1992 (Instrumental) - Dolly\nXdb - Gate - Wave\nDj Qu - Law (Sascha Dive Remix) - Deep Vibes\nSyrinx - Time Traveller - Rushhour\nToni Lionni - Free Your Mind- Aesthetic Audio\nGeorge Fitzgerald - Tell Me (Edit) - White\nSteffi - Manic Moods - Ostgut\nMinimal Man - Stay On - Trelik\nPearson Sound  - Wad (Edit)\nTevo Howard - Crystal Republic\nAdam Marshall - Vespers (Alt Edit)\nBasic Soul Unit - Deep Diving - New Kanada\nKenny Larkin - Second State - Warp\nRadioslave - ??\nWalt J - Reborn (Dj Qu Mix)\nDelano Smith - This Heart\nEdit Select\nRick \"Poppa\" Howard - About Fourteen",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra253/",
+  "keywords": "Adam Marshall, techno, canada, New Kanda, Ableton, Berlin",
+  "artist": {
+    "id": "1801",
+    "__typename": "Artist",
+    "name": "Adam Marshall"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Adam Marshall's New Kanada label has quietly become one of house and techno's consistently great labels. The Mole, Seuil and Tolga Fidan have all released some of their finest recent works for the imprint, although the lion's share of the discography has been populated by Marshall's gritty, yet always emotive, take on house music. New Kanda's success should come as no surprise, however: the DJ/producer has been putting out music and DJing since the late-'90s, and is now part of a core of Canadian producers—Deadbeat, Mike Shannon, The Mole, Mathew Jonson—residing in electronic music hotbed Berlin. New Kanada's somewhat understated rise is in many ways mirrored by Marshall as a DJ—he's never quite enjoyed the levels of fame of some of his compatriots yet can always be relied upon to bring something a bit special when he gets behind the decks. \n\nHouse, techno and a bit of bass music all adorn Marshall's mix for us; melody is a recurrent theme, albeit with a generous side-serving of dirt. \n\n<b>What have you been up to recently?</b>\n\nApart from enjoying the sunshine after a long winter, I've been working on a lot of music. I had access to some friends' nice studios this winter, and just starting to comb through the raw recordings of some great machines.  \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded at home with 2 x 1200s, a Numark DM1950 mixer and Ableton.\n\n<b>Can you tell us a little bit more about the idea behind the mix.</b>\n\nI chose to include a lot of tracks–old and new–that I really like, but rarely play. I recently got a box of my old records shipped over to Berlin from Toronto, and got access to some tracks that I'd been missing for a while–like Kenny Larkin's first Warp release and some early Mala DMZ stuff.\n\n<b>We heard you switched back to playing only vinyl—how come?</b>\n\nWell, I have nothing against digital–and I'm sure I'll probably go that route sometime–but I just find vinyl sounds better on nice systems.  Perhaps \"better\" is not the right term, but I find it sounds warmer and really fills out the low-end.  I also love the label and sleeve art possibilities; I kind of miss that whole side of things with digital. However, I find I use CDJs more and more to play unreleased or promo stuff. A lot of my friends don't like the CDJs but I find I'm as comfortable with them as I am with 1200s–and the CDJs don't drift.\n\n<b>What are you up to next?</b> \n\nIn New Kanada-land, we singed a track from Toronto's Matt Maaskant for the next release that I am particularly happy with.  Nicholas Murray (aka Murr) mixed <a href=\"http://vimeo.com/21677279\">the track</a> down into bare essentials and has created something special with Matt's vocals.  \n\nRelease-wise, I have a track on the next New Kanada, and then a remix of new a Murr feat. Rosina track, \"My best Dress,\" on the following one. There's also a release by West Norwood Cassette Library in the works for NK, and I've got a remix on the flip.",
+    "blurb": "One of Canada's finest steps up. "
+  }
+}

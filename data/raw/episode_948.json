@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "948",
+  "url": "https://ra.co/podcast/948",
+  "id": "948",
+  "__typename": "Podcast",
+  "title": "RA.948 Amor Satyr & Siu Mata",
+  "date": "2024-08-04T22:10:03.000Z",
+  "fileSize": 0,
+  "duration": "02:07:41",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-948-amorsatyrsiumata1x1.jpg",
+  "contentUrl": "/podcast/948",
+  "tracklist": "Formela - Dripstep (Bolero Edit)\nLFK - Bleaker\nMutable Mercury - Lost In Chaos\nFetus & Oyubi - Over Dub\nlarissa - brukievv\nINVT & K-LONE - Muevela\nF & Headhunter - Dedale\nnorim - Tendido\nSiu Mata & Amor Satyr - Kush Pressure\nSiu Mata & Amor Satyr - Unreleased\nINVT & K-LONE - Ascenso Dub\nIsGwan - Tumbao\nSiu Mata & Amor Satyr - Unreleased\nMac Declos - Intrepid X\nAcid Arab & Sofiane Saidi - Leila (KiNK remix)\nElbarto - Talamera\nAlek Leaf - Gate\nEVUL - Unlucky Year\nWesley Wise - Hide n Seek\nAmor Satyr & Siu Mata - Unreleased\nTX4 - Upward M's (Nuevo Prohibido Rolling Over Remix)\nBORN4.20 - Inner Jungle\nPart Time Killer - Rubin\nAndy Martin - The Gurdjieff Movements\nBloodhound - Djum\nDJ Hauge - Elune \nFetus - Flat W\nHizuo - TOKOTSKO\nCroix Rouge - Lazer Gun [unreleased]\nAmy Kisnorbo & Ron Mercy - Squeeeze\nOyubi - Ah FX\nHuman Resources - Fast Tea\nphil in a maze - Silver Lining\nDigitalis - Chaos By Design\nMystic Moods - Shakout (96 Remix)\nDrumskull - Switch Up The Flow\nCRRDR - xq te vas\nFetus - Wave Wave\nAlkini - Whale Dance \nRaiden - Trellick\nPaul Reve - Till I Bloom\nSiu Mata - Specimen A\nBasic Rhythm - Woozy (Sully Remix)\nJoey - Sharing Space\nMidik - Archlight\nDeucyon - Everyman (Neekeetone Dub)\nSolma - Caverna\nT5UMUT5UMU - Territory\nFetus - Half Half\nAdam Pits - Grounded \ngeorg-i - Stasis\nScrase - Move \nJ. Robinson - Congoman\nThe Untouchables - Baiana\nFetus & Itti - Mystical Disc\nphil in a maze - Ace\nDJ Shadow - Midnight in a Perfect World (Magnafide D&B Bootleg)",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra948-amor-satyr-siu-mata",
+  "keywords": "",
+  "artist": {
+    "id": "95231",
+    "__typename": "Artist",
+    "name": "Amor Satyr"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Trying to find one word to describe the music of Amor Satyr & Siu Mata could run you into difficulty. Their productions and sets are a true cross-pollination of genres and influences, from tribal techno, baile funk, dubstep, jungle, dancehall and beyond. But if we were to try, we'd reach for <i>amphibian</i>: slippery, nimble and evading borders with ease. \n\nWith solo and shared releases on labels like SSPB, HARDLINE, TraTraTrax and their own WAJANG—from the atmospheric <a href=\"https://ra.co/reviews/35760\" target=\"_blank\">Nechung</a> to the free party giddiness of side project Sexapil—the pair have evident kinship with what moves contemporary dance floors. The Parisians are also linked to the rise of an alchemical style they like to call \"speed dembow.\" As the name suggests, the sound takes the loping dembow riddim, which has anchored dancehall and reggaeton for decades, before pitching it up to modern club tempos, adding muscle and typically throwing in a wonky bassline for good measure. \n\nThe duo's <i>RA</i> Podcast is, in their words, \"a bit more personal, not your typical classic banging set.\" Luckily for us, even a mellower take on Amor Satyr & Siu Mata's signature makes for one hell of a ride, with over two hours of romping percussion, lysergic effects, high drama and plenty of wobble. <i>– Gabriel Szatan</i>\n\n<b>What have you been up to recently?</b>\n\nWe've been working on our next few released on WAJANG that should be released by the end of the year.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded in our studio, in the countryside of Paris. We have a DJ set up there and the idea was to do a fusion of percussion, bass and mentalness. Something a bit more personal, not your typical classic banging set.\n\n<b>Care to offer a few favourites for your track of the summer?</b>\n\n[Japanese producer] Fetus has been the artist we're looking to the most. There are a lot of tracks from him in this mix and they're all amazing.\n\n<b>Your <i>Hardline / Body High</i> 12-inch last year was quality—what would you say makes Sexapil material distinct from Amor Satyr & Siu Mata?</b>\n\nSexapil is mainly influenced by tribal music, from the free-party movement. Amor Satyr & Siu Mata is more free—we can do a bit of everything. There will definitely be more Sexapil releases in the future. Probably under the Pingers Series on our label WAJANG.",
+    "blurb": "Speedy percussion meets screwface basslines: the Parisian club maestros are in session."
+  }
+}

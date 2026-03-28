@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "666",
+  "url": "https://ra.co/podcast/666",
+  "id": "666",
+  "__typename": "Podcast",
+  "title": "RA.666 Matrixxman",
+  "date": "2019-03-04T00:00:19.000Z",
+  "fileSize": 166812970,
+  "duration": "01:09:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra666-matrixxman-cvr.jpg",
+  "contentUrl": "/podcast/666",
+  "tracklist": "The Lesser Key Of Solomon\nMatrixxman - Ouroboros\nMatrixxman - Terminus\nMatrix Mann - Jacked In\nSalford Lads Club - Sentinel Island\nMatrixxman - WannaCry\nMatrixxman - Flexxin' On Hoes\nMatrixxman - Cryoburn\nMatrixxman - Friendly Extortion\nMatrixxman - Uploaded Mind\nMatrixxman - Ex Nihilo\nMatrixxman - As Above So Below\nMatrixxman - Sic Luceat Lux\nMatrixxman - Virtual Sexx \nM4TR1xxM4n - Turf Wars\nMatrixxman - Return From Subroutine\nMatrixxman - Tango Down\nMatrixxman - Full Clipp\nMatrixxman - Menace \nMatrixxman - Ron Hardy Hologram\nMatrixxman - Fleeting Thoughts\nMatrixxman - Core Meltdown\nMatrixxman - Finally Sentient\nMatrixxman - Distress Signal \nMatrixxman - A New Day\nMatrixxman - I Kneel Before You",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/584547852",
+  "keywords": "Charlie Duff, techno, The Grid, Hexerei, Berlin",
+  "artist": {
+    "id": "44471",
+    "__typename": "Artist",
+    "name": "Matrixxman"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Charlie Duff is an integral part of the European techno circuit, but his approach to the genre isn't purist. It's driving and stripped-back, though also laced with a sense of atmosphere and melody that comes from a diverse musical background and a boisterous, larger-than-life personality that matches his considerable height. He's a tenacious worker—he <a href=\"/features/2471\">used to live</a> in a tiny studio and sleep next to his gear. Duff is the kind of producer whose ambient interludes are just as detailed and captivating as his bangers, as his most recent record, the <a href=\"/reviews/22885\">first release</a> from his new label The Grid, proves.\n\nDuff's <i>RA</i> podcast is all about this production prowess, in addition to his ability to work a dance floor. It's an album's worth of new material that flows smoothly through eerie ambient and spoken word, barreling techno and a few unexpected detours into hi-tech trap. Everything we like about Matrixxman is here: steely kick drums, warm chord progressions, electro influences and pillowy ambient passages that make it more than just a dance floor mix. It's a DJ set that works like an LP, which sums up Duff as an artist: someone who works within the confines of techno while gently pushing at its edges.\n\n<b>What have you been up to recently?</b>\n\nWell, I've been enjoying the finest food and drink that mother nature has to offer before our ecosystem reaches a point of no return. Which at this rate, isn't so far off. I'm occasionally indulging in ritualistic magic, pleasures of the flesh, long walks in nature and of course making music.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in Virtual DJ (version 7.4.5) via Crossover on a late 2013 MacBook Pro in my living room in Neukölln. I distinctly remember it being particularly foggy on that day. It was one of those days where everything is moist outside although it hadn't rained. Auspicious weather for <i>Hexerei</i>.\n\n<b>Can you tell us the idea behind the mix?</b>\n\nOver the period of a month I made 37 tunes specifically for this mix, but ended up scaling it back because some of the ideas felt redundant. It was a nice challenge to curate a mix of original production. I figured if I was going to contribute a mix for this particular sequence in the podcast series, the most pedestrian thing I personally could have done, would have been to make a mix consisting solely of other people's tunes. That's what I normally do so it was entertaining to try something else.\n\n<b>You recently started your own label, The Grid. What are your plans for that?</b>\n\nTo continue to release my own music as I see fit. In the early stages of getting established with my career there was always this pressing desire to be recognised or acknowledged by people I looked up to. After a certain point, you realise you don't need anyone to validate you any longer. And that your ideas can stand on their own. I found that paradigm shift to be quite liberating. I wish I'd have come to that conclusion earlier frankly.\n\n<b>You're American, but most of your gigs these days are in Europe. Do you still feel a connection to the American techno scene, which has grown a lot since you left, at all?</b>\n\nAmerica is such a unique situation. Things have come leaps and bounds compared to what I was seeing before. I've been lucky enough to play some cool parties there lately and I'm certainly grateful for that. Now is the scene thriving enough to sustain an artist like myself or any techno artist for that matter, full time? Not necessarily, but that's OK. Being able to run around in Europe is honestly a dream come true so I can't complain. If anything, it makes me appreciate things a bit more in the states when I do visit to play. \n\n<b>What are you up to next?</b>\n\nWriting my second full-length album with absolutely zero techno involved. Sometimes you gotta switch it up on these shook techno fuckboys. \n",
+    "blurb": "An album's worth of new music on our 666th mix. "
+  }
+}

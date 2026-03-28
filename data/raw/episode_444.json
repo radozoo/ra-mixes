@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "444",
+  "url": "https://ra.co/podcast/444",
+  "id": "444",
+  "__typename": "Podcast",
+  "title": "RA.444 Dorian Concept",
+  "date": "2014-12-01T00:00:30.000Z",
+  "fileSize": 124278297,
+  "duration": "00:51:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra444-dorian-concept-cvr.jpg",
+  "contentUrl": "/podcast/444",
+  "tracklist": "Intro\nDimlite - Gone-O-Tron\nBoom Bip - Me The New You\nMartyn - Mega Drive Generation (Dorian Concept Remix)\nDorian Concept - Draft Culture\nOkmalumkoolkat & Cid Rim - Allblackblackkat (Instrumental)\nCinematic Orchestra - Dream Works feat. Tom Chant & Dorian Concept\nRyuichi Sakamoto - Prayer & Salvation (J. Swinscoe's The Real McCoy)\nLetherette - D&T (Dorian Concept Remix)\nIll Suono - Angel Beat (Dabrye Remix)\nOval - Episonik\nEPMD - Da Joint\nDorian Concept - Nest Nest\nDo While - Balloons\nChaos A.D. - Psultan Part 1 (Chords)\nDorian Concept - Trophies\nDJ Rashad - Rollin' (Dorian Concept Flip)\nDorian Concept - The Sky Opposite (Dim Grimm Remix)\nDorian Concept - It Was Yours Anyways\nDorian Concept - Tried (Now Tired)\nSavath & Savalas - Slabulas\nOutro",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra444/",
+  "keywords": "Oliver Thomas Johnson, electronic, keyboards, Joined Ends, When Planets Explode, ",
+  "artist": {
+    "id": "19988",
+    "__typename": "Artist",
+    "name": "Dorian Concept"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"I've always been a fan of reduction,\" Austrian artist Oliver Thomas Johnson <a href=\"/news.aspx?id=25401\">said</a> of his new album, <i>Joined Ends</i>. Ironically, the music he made his name on was rather maximalist, including classics of the post-dubstep explosion like 2009's <i>When Planets Explode</i>. Now at home on Ninja Tune, Johnson's latest record sees him stripping back his repertoire to a few analogue synths, an electric piano and his own vocals.\n\nJohnson's adventurous RA podcast outlines the inspiration behind his recent self-reinvention. Heavy on his own songs but also featuring the likes of Dimlite, Letherette, Ryuichi Sakamoto and Oval, it looks unusual on paper but makes total sense in execution. Part of that comes down to extra effort: Johnson colours between the transitions with synths, turning the mix into a sort of hybridized live/DJ set. It's an intimate look into what makes him tick.\n\n\n<b>What have you been up to recently?</b>\n\nMainly I've been traveling to support the release of the new record. Me and two close friends have been working on a new live show over the summer, and it feels great to be joined on stage by musicians that I rate so highly. Still doing some solo shows as well, but for now I really want to focus on this new formation, as it feels great to \"just\" be a keyboardist again. Other than that, resting and drawing. \n\n<b>How and where was the mix recorded?</b>\n\nIn my studio back home in Vienna. I've used Cubase to somehow meld the tracks together and I also recorded some synths (Roland SH-101, Korg MS-10, Moog Prodigy) on top of the whole mix in order to make the transitions more seamless.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nOn one hand I wanted to give an insight into the music that inspired me in and around the process of writing <i>Joined Ends</i>. Or in general, highlight musicians who have been influential to me over the last decade or so. Then on the other hand also showcase a lot of my newer productions. I didn't want the mix to diverge too far from the vibe of the new record, I wanted for there to somehow be a connection between the two from a dramaturgical and aesthetic point of view. And as mentioned before, to just have fun with recording live keys by throwing subtle solos and accentuating melodies and chords in pre-existing tracks.\n\n<b>You said around the time of your album that \"It feels like my first musical cycle is closing.\" Could you expand on this?</b>\n\nI think it has to do with the fact that in the entirety of your life, you go through these different stages of personal development. Just due to the fact that we all naturally age, and have all this time to reflect on our errors and accomplishments. And for me, the whole \"MicroKorg-squeeze-as-much-as-you-can-out-of-one-synthesizer\" aesthetic was strongly connected to my life as an adolescent. Not that I feel old or like I've matured now, but I think it was just a chapter I had to close in order to get on with things. What I do now is still strongly connected to what I've always been doing, but I guess there's been a change in direction somehow. And even if it's me repeating the same cycle with different instruments, there's something interesting about that too, I guess. \n\n<b>It's felt like your music has always had an innate prettiness. Is this something that you yourself identify in your sound?</b> \n\nIt's definitely something I wanted to focus on with the new record—to somehow embrace simplicity and deceleration. It felt like the hardest thing to do for me because I grew up being obsessed with fusion music and jungle. It's weird that it took me 15 years to be happy with a song that revolves around three chords, but I'm there now.\n\n<b>What are you up to next?</b>\n\nI will continue touring until mid-December, then take a break for a month. Hopefully have some time off to work on music again. I miss it.",
+    "blurb": "A winding journey through an eclectic mind."
+  }
+}

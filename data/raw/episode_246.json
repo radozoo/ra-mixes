@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "246",
+  "url": "https://ra.co/podcast/246",
+  "id": "246",
+  "__typename": "Podcast",
+  "title": "RA.246 Caribou",
+  "date": "2011-02-14T09:00:00.000Z",
+  "fileSize": 86157017,
+  "duration": "01:11:46",
+  "imageUrl": "https://static.ra.co/images/podcast/ra246-caribou-cvr.jpg",
+  "contentUrl": "/podcast/246",
+  "tracklist": "Barnt - What Is A Number, That A Man May Know It?\nDaphni - Yes, I Know\nThe Jellies - Jive Baby On A Saturday Night\nHounds of Hate - Purple Stuff\nDaphni - Deep Blue\nColored Mushroom & The Medicine Rocks - The Route To The Medicine Rocks\nDaphni - Buck Dance\nHarmonious Thelonious - Verwobene Muziek\nHarmonious Thelonious - Mokambo\nBakey Ustl - A Tender Place\nDaphni - Scratch\nDJ Elmoe - Whea Yo Ghost At, Whea Yo Dead Man\nDaphni - Ye Ye\nKingdom - Fogs\n[Voyager overdubs]\nLone - Angel Brain \nRicardo Villalobos - Peculiar\nCharanjit Singh - Raga Malkauns\nDJ Clap Pina - Unakunukulpan\nThomas Mapfumo - Shumba (Daphni Edit)\nEdward Larry Gordon - All Pervading",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra246/",
+  "keywords": "Caribou, Dan Snaith, Swim, City Slang, house, techno, pop",
+  "artist": {
+    "id": "4533",
+    "__typename": "Artist",
+    "name": "Caribou"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Topping <a href=\"/feature.aspx?1264\">end-of-year polls</a> is one measure of success. Another is <a href=\"/dj/caribou/dates?yr=2010\">bookings</a>. Take a look at Dan Snaith's 2010 tour dates and you'll know instantly what sort of year the Canadian producer had. The demand and critical acclaim stemmed from <i>Swim</i>, his fifth album as Caribou. The record was his attempt to make \"liquid dance music\"; nine tracks RA's Derek Miller <a href=\"/review-view.aspx?id=7433\">described</a> as a \"mesmeric aural delight.\" <i>Swim</i> issued Snaith the license to cross the great indie/dance divide: fans of his previous trips through '60s-indebted psychedelia—and the rock press—warmed to his new dancey direction, while those on the other side of the fence welcomed him as one of their own. \n\nFive new and exclusive tracks recorded under the name Daphni adorn this mix, all confirming in their own warm and deliciously lo-fi manner that Snaith is still very much enthralled by the hum and buzz of electronic music.\n\n<b>What have you been up to recently?</b>\n \nWell, in mid December I got back from being on tour with the band for the better part of a year. Since then I've just been wandering around aimlessly looking for a sound-check I could lurk at the periphery of or a backstage where I could eat Value Range nachos and salsa.\n \n<b>How and where was the mix recorded?</b>\n \nAt my flat—some of the music's from vinyl, some digital and some tracks that I made myself for the mix.\n \n<b>Can you tell us a little bit more about the mix</b>\n \nI made a lot of new music for this mix—the tracks credited as Daphni. It's been over a year since I made any music at all so I was eager to get back to making some. The tracks on this mix are just sketches really—rough ideas that allowed for mixing the other tracks together in different ways. The tracks by other artists on this mix are there because I was excited about them when I was working on the mix—having just come home after being away for a long time there was a big pile of 12-inches that I'd bought but hadn't listened to.\n \n<b>Has DJing been a more recent pursuit for you?</b> \n \nYes and no... I've been DJing for about 15 years I guess... but sometimes more than others. We had a club night in Toronto called Social Work where my friends and I used to play when I was in university there ten years ago. That's how we became friends with Kieran [Four Tet]. We flew him over to DJ at it and spent the next week hanging out and record shopping. Since then there was a time when I stopped DJing and spent more time focused on live music—distanced myself from electronic music. But in the last few years the excitement about dance music and DJing has come back with a vengeance: I DJ more now than I ever have.\n \n<b>Which artists or time period does your appreciation of dance music stem from?</b> \n \nI'm not so concerned about genre or time period. I look for the same things in dance music that I look for in any music: idiosyncrasy and distinctiveness. People like Ron Hardy, James Holden, Gary Davis, Todd Edwards, William Onyeabor, Ricardo Villalobos, Daft Punk, DJ Harvey and Moodymann have all had a big influence on me. Often, though, my favourite dance music is danceable by happenstance rather than by design.",
+    "blurb": "The man behind RA's top album of 2010 mixes bags of new and exclusive music. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "236",
+  "url": "https://ra.co/podcast/236",
+  "id": "236",
+  "__typename": "Podcast",
+  "title": "RA.236 Petar Dundov",
+  "date": "2010-12-06T00:00:17.000Z",
+  "fileSize": 76875136,
+  "duration": "01:04:02",
+  "imageUrl": "https://static.ra.co/images/podcast/ra236-petar-dundov-cover.jpg",
+  "contentUrl": "/podcast/236",
+  "tracklist": "M. Rahna - Nuklear Summer - Neurotron Music\nIntrusion - Never Forget – Ruin\nPetar Dundov - Rain (echospace reduction) - Music Man Records\nEchologist - Just A Ride (Anton Zap Mix)\nTerence Fixmer - Phantoms \nHeiko Laux, Steve Rachmad - The Broken Cup - Figure SPC\nAndrew Duke – Geisha (Claude Young remix) - Nice & Nasty\nDeetron - Collide – Green\nStewart Walker – Shipwrecked - Curle Recordings\nVladislav Delay, Sistol - Contaminate Her (Jori Hulkkonen remix) - Halo Cyan\nPetar Dundov - Distant Shores - Music Man\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra236/",
+  "keywords": "Petar Dundov, distant shores, croatia, house, techno",
+  "artist": {
+    "id": "4186",
+    "__typename": "Artist",
+    "name": "Petar Dundov"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Petar Dundov has been a harbinger for Croatian electronic music since his debut release back in 1994. During that decade he established a close working relationship with Pascal F.E.O.S.'s PV imprint, releasing a string of 12-inches and an album (1999's <i>Reaction</i>) as Brother's Yard. As he explains below, these types of intimate artist/imprint bonds are extremely important to Dundov; in 2002 he begun a run of melodically rich techno releases through Belgian label Music Man (including the well-received <i>Escapements</i> LP) and continues to be aligned with the imprint to this day. Techno production is far from Dundov's sole concern: 2002 saw him release an ambient album through Jeff Mills' Tomorrow imprint, while away from his exploits as a recording artist Dundov runs studio and multimedia company <a href=\"http://www.neumatik.net/index.html\">Neumatik</a> out of Zagreb, and streams his musical moods on the internet 24/7 via <a href=\"http://petardundov.com/radio/\">SynchFM</a>.  On his mix for RA, Dundov presents a patient hour of music that straddles the line between house and techno, building to a resplendent crescendo with Dundov's own \"<a href=\"/review-view.aspx?id=8289\">Distant Shores</a>.\"  \n\n<b>What have you been up to recently?</b>\n\nWe had a single release at the beginning of the month, so I did many radio shows, promotional parties—the usual stuff. I received many remix requests; at the moment I am working on a new remix for Trouw Records. I am also mixing songs for a new album. I have a plenty of sketches ready to be turned into songs, collecting them through the whole year. It's time to mix everything and start preparing the album release for 2011.\n\n<b>How and where was the mix recorded?</b>\n\nThis mix I did in my studio. I have a good listening room and it is great to record because I can focus on details. I used my laptop running Traktor and later did some levelling to make the mix more balanced.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nThe idea was to create a selection that will be pleasing to ears in respect of flow, subtleness and a latest selection of techno music that is interesting to hear IMHO. I started from more abstract stuff and gradually brought form to it. I think I found a good balance of deep, stretched-out sounds and melodic patterns throughout the whole mix. \n\n<b>You've remained with Music Man throughout much of your career. Why is that?</b>\n\nFor me mutual understanding and trust between author and publisher is the most important thing. To be able to express new ideas with music, especially today in a sea of different releases, you have to have a consistency in presentation of works. The music that I do—as much as it is simple—is also subtle and to realize itself in its fullness you need to listen to it from a certain perspective. I am glad that I found people who can understand that and we have been working together for almost ten years.\n\n<b>Tell us about your work with the Neumatik studio and multimedia company as a sound engineer. What do you do there exactly? What do they specialize in?</b>\n\nMostly I am working on production and mixing. I specialized also in sound design and from time to time have an opportunity to do soundtracks and special effects for film. People mostly visit the studio for mix-down sessions and more recently mastering. There are not so many studios in Croatia that are specialized in electronic sound; besides for my own productions that was one of the reasons I opened the company in a first place.\n\n<b>What are you up to next?</b>\n\nI still have to do some promotional events, and then I am full on into production. I have been experimenting a lot with new sequencers. After my last album expectations are big and I want to bring some fresh ideas and raise overall complexity of composition and sound. As far as things are going, the latest recordings I did have this quality and there is some extra work to be done, but I dedicated myself to this idea no matter if it takes some extra production time.",
+    "blurb": "The veteran Croatian producer gets emotive on this week's podcast."
+  }
+}

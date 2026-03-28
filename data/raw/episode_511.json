@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "511",
+  "url": "https://ra.co/podcast/511",
+  "id": "511",
+  "__typename": "Podcast",
+  "title": "RA.511 Soichi Terada",
+  "date": "2016-03-14T00:00:25.000Z",
+  "fileSize": 144577657,
+  "duration": "01:00:04",
+  "imageUrl": "https://static.ra.co/images/podcast/ra511-soichi-terada-cvr.jpg",
+  "contentUrl": "/podcast/511",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/251790468",
+  "keywords": "Soundtrack, Omodaka, Hunee, Shinichiro Yokota, Far East Recording, Japan, Sloper, Sekitova",
+  "artist": {
+    "id": "58600",
+    "__typename": "Artist",
+    "name": "Soichi Terada"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In the 1999 PlayStation game <i>Ape Escape</i>, the main character, Spike, begins his journey in The Time Station, a hub where he accesses the game's different stages. As he shuffles through the area, which has a space-age-M&M-store feel, a <a href=\"https://www.youtube.com/watch?v=cal0KHCTiek\">jungle track</a> with melancholic whistles, warm subs and meditative keys is the soundtrack. The music was composed by Soichi Terada, and if you heard <i>Sounds From The Far East</i>, RA's <a href=\"/feature.aspx?2574\">favourite compilation</a> of 2015, such moments of crystalline beauty will be familiar to you. When Hunee, the compilation's curator, came to choose the tracks, he was assessing an artist and label that both started out in the late '80s. Leaving to one side Terada's work in soundtracks, video games and as one half of the group Omodaka, Hunee focussed on the early '90s, a period when Terada released an exquisite string of tracks on his own Far East Recording that were inspired by the first wave of US deep house. Terada's style fizzed with musicality—he studied electric organ, an instrument his father introduced him to, and on classic tracks like \"Sun Shower\" and \"Saturday Love Sunday\" his melodic proficiency was dazzling. \n\nSkip forward to 2016 and Terada is an artist reborn. <i>Sounds From The Far East</i> caused a fresh surge of interest in his music, which has led to him touring extensively and releasing new music. His live show has also become a talking point: Terada is a whirlwind of good vibes behind his keyboards, and if he isn't smiling when he plays <a href=\"/news.aspx?id=33354\">RA's stage</a> at this year's Sónar festival you'll know that something is very wrong. \n\nTerada's RA podcast makes for a great companion to <i>Sounds From The Far East</i>, in that it exclusively features Japanese house music. Shinichiro Yokota—whose track \"Do It Again,\" a bona fide classic, was included on the compilation—is well represented here along with artists like Sloper and SEKITOVA. There's an alluring outsider quality to these tracks, as though the classic deep house template had been subtly but noticeably refracted.   \n\n\n<b>What have you been up to recently?</b>\n\nI had a US and Canada tour in February, an Australian tour in March and a European tour in April. And a new song, \"<a href=\"https://www.wasabeat.jp/releases/248664-soichi-terada-sekitova-feat-chisato-moritaka-hyamikao-foetus-traum\">Hyamikao</a>,\" will be released soon by WASABEAT.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix for this podcast was recorded on my laptop with Ableton Live.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nAntal from Rush Hour gave me an idea to make a mix of Japanese house music.\n\n<b>We imagine that the renewed interest in your music over the last few months has been a little disorientating. How has the touring and suchlike been for you?</b>\n\nIt has been fun to have young audiences on this tour. I am feeling happy more than disorientated.\n\n<b>Has your relationship with your classic recordings changed much over the years?</b>  \n\nNo, it hasn't. I have loved to make music with hardware synthesizers and samplers, even though I am using Ableton Live in my performance.\n\n<b>What are you up to next?</b>  \n\nI am not sure what comes next... \n\nThank you for the opportunity of podcasting!  \n\n\nSloper - Midnight Sun\nSoichi Terada - Omatsuri \nSoichi Terada - Mt. Andes \nShinichiro Yokota - Night Drive 1992\nShinichiro Yokota - Bells \nSoichi Terada - Till Dawn\nSoichi Terada feat. Chisato Moritaka - Hyamikao \nManabu Nagayama & Soichi Terada feat. Stephanie Cooke - Believe In Us\nShinichiro Yokota - Game Man \nSEKITOVA feat. Chisato Moritaka - Foetus Traum (Make It Calm Mix) \nTakeshi Fukushima - Deep Loop C\nShinichiro Yokota - Believe In The House\nShinichiro Yokota - Fuyuukan (Feeling Of Floating)\nShinichiro Yokota - Gotta Have House \nShinichiro Yokota - Machibohke \nHiroshi Matsui - Crazy Miracle Dub \nGWM & DMX - Jazz Sauce (Dub Master X's Beat Sauce) \nTakeshi Yokemura (Ushimoumou)  - Mikkeller Hoppy Lovin' Christmas\nYasuo Sato - In The Vast Universe\nSloper - Softshell Quartz / \n",
+    "blurb": "Sounds from the far east. "
+  }
+}

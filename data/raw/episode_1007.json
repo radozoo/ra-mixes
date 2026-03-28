@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1007",
+  "url": "https://ra.co/podcast/1007",
+  "id": "1007",
+  "__typename": "Podcast",
+  "title": "RA.999 DJ Spinn & DJ Manny",
+  "date": "2025-07-30T07:00:31.000Z",
+  "fileSize": 0,
+  "duration": "01:00:07",
+  "imageUrl": "https://static.ra.co/images/podcast/djspinnmannypod.jpg",
+  "contentUrl": "/podcast/1007",
+  "tracklist": "DJ Rashad - On Tha Move\nDJ Rashad - U See Dem Hoez 09' \nDJ Paul - Floating Around in Xtc \nDJ Spinn - Bounce N Break Yo Back \nDJ Rashad - She A Go (feat. DJ Spinn & Taso)\nDJ Rashad - Well Well Well \nDJ Rashad - Reggie \nDJ Rashad - In Da Club Before Eleven O' Clock \nDJ Spinn & DJ Rashad - Space Juke \nDJ Spinn & DJ Rashad - Work It Trick \nDJ Godfather - Boss Of All Bosses (Track 3) \nDJ Rashad - From The Start \nDJ Rashad - We On 1 \nDJ Rashad - Hornz N Shit\nDJ Rashad - Work 07 \nDJ Rashad, DJ Spinn & DJ Paypal - Do You Wanna Be Mine\nDJ Rashad - Ya Hot (feat. Taso) \nDJ Rashad - Let U No (feat. DJ Spinn)\nDJ Rashad - Show U How (feat. DJ Spinn) \nDJ Rashad - Reverb \nDJ Rashad - Ccp \nDJ Rashad - Broken Hearted (feat. DJ Spinn) \nDJ Spinn & DJ Rashad - She Off A Yap \nDJ Rashad - Only One (feat. DJ Spinn & Taso)\nDJ Rashad - Acid Bit (feat. Addison Groove)\nDJ Rashad, DJ Spinn & Taso - Roll Up That Loud \nDJ Rashad - Pass That Shit (feat. DJ Spinn & Taso)\nDJ Rashad - Double Cup (feat. DJ Spinn)\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra999-dj-spinn-dj-manny",
+  "keywords": "",
+  "artist": {
+    "id": "17621",
+    "__typename": "Artist",
+    "name": "DJ Spinn"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The <i>RA Podcast</i> <a target=\"_blank\" href=\"/podcast/1\">launched</a> 19 years ago in 2006, and now, as we gear up to celebrate the 1,000th episode, RA.999 lands with five mixes across five days from a cohort of artists who capture where dance music has been since then—and crucially, where it's going. \n\nFirst up was <a href=\"https://ra.co/podcast/1004\" target=\"_blank\">1morning & Regal86</a>, then <a href=\"https://ra.co/podcast/1006\" target=\"_blank\">Prosumer & Peach</a>. Today, we turn our eyes to Chicago, with two footwork staples, DJ Spinn & DJ Manny, taking the reins of the third instalment of RA.999 (both make their <i>RA Podcast</i> debut).\n\nTen years ago, Teklife Records was founded, following the <a href=\"https://ra.co/features/4043\" target=\"_blank\">untimely death</a> of DJ Rashad in <a href=\"https://ra.co/news/24587\" target=\"_blank\">2014</a>. His collaborators started the label to honour the Chicago producer's musical genius and continue his legacy of soulful footwork. Its first release was <i>Afterlife</i>, a compilation of unreleased Rashad material that, in the words of <i>Pitchfork</i>, \"captured the spirit of familial connection and experimentation integral to the Teklife crew.\"\n\nDJ Spinn met Rashad at Markham Roller Rink, when Spinn was just ten and Rashad was 11. \"Me and him, when we met, we was like the same spirit, something divine or something. It was crazy,\" DJ Spinn recalled in a 2011 Red Bull Music Academy interview. \n\nManny met Rashad later, but soon became an integral part of the community Spinn and Rashad would build together. Alongside Chicago producers DJ Tre and Gant-Man, Manny, Rashad and Spinn were all part of Ghettoteknitianz, the collective that was renamed Teklife in 2011. That year, <i>Bangs & Works Vol. 1 (A Chicago Footwork Compilation)</i> spread the gospel of footwork across the Atlantic, and Rashad was at the pulpit. \n\nAfter years of releasing singles that rocked warehouses and major stages alike, in 2013 Rashad released his debut album, <i>Double Cup</i>, an album as smooth and syrupy as the <a href=\"https://en.wikipedia.org/wiki/Lean_(drug)\" target=\"_blank\">drink</a> its title references. \n\nListening to RA.999, it doesn't take long for any footwork fan to realise that this is an hour-long homage to Rashad's phenomenal discography. The first lyric we hear is \"Throw your L's up for Rashad!\" on \"L's UP FOR RASHAD,\" a 2017 song produced by DJ Manny, DJ Lucky and DJ Phil. His use of R&B samples—\"In Da Club Before Eleven O'Clock,\" \"Show You How,\" and \"Only One\"—make for dance floor hits that are as sentimental as they are mobilising. A string of Rashad classics follow, many of which Spinn and Manny collaborated on. It's a reminder not just how staggeringly talented Rashad was, but how central collaboration was, and still is, to the Teklife project. \n\nAlthough many of these songs are more than a decade old, not one sounds out of place in 2025. This is an emotional, riveting listen documenting the work of the best to ever do it in footwork. Back then, Rashad was the future, and he still is. <i>- Kiana Mickles</i>\n",
+    "blurb": "Part three of RA.999: a celebration of soulful footwork and the timeless influence of DJ Rashad."
+  }
+}

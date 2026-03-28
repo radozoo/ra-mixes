@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "128",
+  "url": "https://ra.co/podcast/128",
+  "id": "128",
+  "__typename": "Podcast",
+  "title": "RA.128 Murmur",
+  "date": "2008-11-10T12:00:30.000Z",
+  "fileSize": 88911886,
+  "duration": "01:14:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra128-murmur-cover.jpg",
+  "contentUrl": "/podcast/128",
+  "tracklist": "Murmur - Veld - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nRemote - Celestion - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nMurmur - Syncline - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nMurmur - Grandient - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nBvdub - A Moments Peace - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\n<a href=\"/dj-page.aspx?id=1803\">Sven Weisemann</a> - Spheric Wave - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nRemote - Tundra - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nQuantec - Comatose - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nQuantec - Greenfield Mill - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nRemote - Atonal - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nMurmur - Taproot - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nBovill - Torque (2) - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nMurmur - Polar - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nBovill - Atlantic Highway - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>\nRemote - Permafrost (Outro) - <a href=\"/record-label.aspx?id=1070\">Meanwhile</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra128/",
+  "keywords": "",
+  "artist": {
+    "id": "4992",
+    "__typename": "Artist",
+    "name": "Murmur"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There are few artists that are able to maintain the anonymity that once typified the world of electronic music. Murmur is one of them. So, instead of talking about David Togher and Graeme White's (lack of) personality, all we have to go on is their music—a dub techno concoction that stands among some of the finest modern examples of the genre. \n\nThe music has been released solely through one label, Meanwhile, which over the past four years has released a mere 13 releases—with two more to come before the end of the year. But where the label lacks in quantity, it makes up for in quality as you'll hear on Murmur's RA podcast—which is composed solely of the imprint's material. Over the course of exactly 74 minutes, the journey is a deep one, full of fading lights, indistinct vocal samples and dub techno that refreshingly doesn't wear its Basic Channel influence on its sleeve (all of the time, at least). \n\n<b>What have you been working on recently?</b>\n\nWe've started recording tracks for Meanwhile for 2009,\nand we're putting the finishing touches on a two track white label which we hope to release in January.\n\n<b>Where and how was the mix recorded?</b>\n\nWe recorded the mix in our studio from vinyl to DAT. We\nalso used an effects unit, field recordings and samples to keep it interesting.\n\n<b>When you're not spinning Meanwhile tracks, what do you play out?</b>\n\nLabels like Workshop, Styrax, Something and Caravan  are doing it for us at the moment. Obviously there are tons more, we're also not obsessed with playing new stuff just for the sake of it. Recently we've been incorporating live tracks into our DJ set.\n\n<b>Why all this anonymity?</b>\n\nWe just like staying undercover. Haha.\n\n<b>What are you up to next?</b>\n\n<a href=\"/event-detail.aspx?id=72919\">Meandyou presents Meanwhile</a> in Manchester on November 21st.",
+    "blurb": "Murmur presents the sounds of Meanwhile on this dub techno edition of the RA podcast."
+  }
+}

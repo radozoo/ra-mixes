@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "24",
+  "url": "https://ra.co/podcast/24",
+  "id": "24",
+  "__typename": "Podcast",
+  "title": "RA.023 Transparent Sound",
+  "date": "2006-09-04T09:00:03.000Z",
+  "fileSize": 42650852,
+  "duration": "00:42:23",
+  "imageUrl": "https://static.ra.co/images/podcast/ra023-transparent-cover.jpg",
+  "contentUrl": "/podcast/24",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra023/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:775"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\n\nTransparent Sound, aka Orson Bramley and Martin Bundock, are one of the UK's oldest electro acts. Their sound is steeped in old skool electro, acid, and the likes of Visage and Cabaret Voltaire, and they also run the label Orson Records. Latest release on Orson is the full-lengther 'The Two Headed Monster', a 2CD album with one disc mixed by Fabric resident Craig Richards and the other a live Transparent Sound set. But not like this one. Promise.\n\nStraight-up electro rules the roost on the mix, and the pair also have interesting backgrounds. Bramley knows his Windmill from his Worm - he used to be a member of hip-hop and breakdance crew Severe Carnage, while Burndock was more respectably schooled - as a teenager he developed mad skillz on the double bass and classical guitar and toured with a youth orchestra.\n\n<b>What have you been working on recently?</b>\n\nWe've just released a live Album, The Two Headed Monster. It's available on CD now, and as a download very soon, so  <a href=\"http://www.transparentsound.co.uk\">check out our website</a> for details of where to get it.\n\nWe've also been working on a couple of tracks with the first lady of electro, Shelley Parker, for release on Orson Records this Autumn. \n\n<b>Where was the set recorded?</b>\n\nThis set was recorded some time ago at a night called Wasted at the Mud Club in Bognor Regis.\n \n<b>What are you up to next?</b>\n\nOur next project is a slight move away from more recent releases. We're going to be working with an amazing vocalist/songwriter called Charlie on an\nalbum, hopefully for release next spring. We're not sure exactly what the sound will be, as it should evolve as we get the tracks recorded. We'll be posting the odd track on <a href=\"http://www.myspace.com/transparent_sound\">our MySpace</a> as we get them finished to guage a reaction.\n\nWe're also playing live at the T Bar in Shoreditch with Shelley Parker DJing on 5 October. It should be good fun and it's free to get in - so come down if you're in the area!\n",
+    "blurb": "Tweaking the knobs on the Roland TB-303 this week are Transparent Sound with a live set of straight-up electro and squelching electronics."
+  }
+}

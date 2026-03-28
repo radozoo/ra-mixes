@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "726",
+  "url": "https://ra.co/podcast/726",
+  "id": "726",
+  "__typename": "Podcast",
+  "title": "RA.726 NDRX",
+  "date": "2020-04-27T00:00:51.000Z",
+  "fileSize": 169537494,
+  "duration": "01:10:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra726-ndrx-cvr.jpg",
+  "contentUrl": "/podcast/726",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/808035994",
+  "keywords": "Bassiani, Tbilisi, Capsule, Kancheli, Trip ",
+  "artist": {
+    "id": "68908",
+    "__typename": "Artist",
+    "name": "Ndrx"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "NDRX played his first gig at the age of 15 or 16 out on the street in his home city of Tbilisi. He was learning to DJ at Capsule, a DJ school he assumes was Georgia's first. One day, he and his classmates brought their decks outside and played for the traffic and passers-by, holding signs that said \"We need clubs in Georgia.\" People thought they were crazy. \n\n15 years later, Tbilisi has one of the best club scenes in the world, and NDRX is at the center of it. He's a resident DJ at Bassiani, the massive subterranean club that drove Georgia's club scene forward. He also runs 11th, an artist community and DJ school on the 11th floor of a building that once housed Tbilisi's Ministry Of Construction, where he nurtures future generations of the city's scene by providing studios and equipment as well classes on DJing, production and the history of dance music. \n\nIn the years since Tbilisi's clubs grabbed the world's attention, NDRX has emerged as one of the city's key artists, playing clubs and festivals around Europe as well as at his home base, Bassiani. RA.726 showcases the sound that got him there, a high-energy and deeply human form of techno that channels the ecstatic energy of his city's clubs. \n\n<b>What have you been up to recently?</b>\n\nAt the moment I am chilling at home as the whole world does.\n\nJust before the pandemic I was delighted to join Paramount Artists Agency along with Nina Kraviz, Hector Oaks and many more. So, I was feeling honored and grateful to represent two great agencies, Bassiani and Paramount Artists.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at my home in Tbilisi, Georgia with a Pioneer mixer DJM-750, two Pioneer XDJ-1000MK2a and two Technics SL-1200MK5a. I have no CDJs at home, I had to borrow them from my DJ school, 11TH, but just before I decided to do it, the Georgian government prohibited movement by cars in the whole city coz of COVID-19. So I had to bring them by foot from the school to my house. I walked like five kilometres with CDJs in my hands. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe mix contains my favorite tracks from my latest records and folders. Lately with this sound I was trying to make people dance on the dance floors. There is also one promo track from my best friend Kancheli, who is also a resident DJ of Bassiani. That track will be released soon on Bassiani Records.\n\n<b>For readers who may not already be familiar with you, tell us about yourself. What's your musical journey been like up to this point?</b>\n\nI was born and raised in Tbilisi, Georgia. I have been DJing for like 15 years, since my early school classes. I remember not attending my school classes, instead of that going in the DJ school studio in the morning and practicing my skills there. I have played many genres, from ambient and experimental to drum & bass, electro, techno and some more. At the moment I am resident DJ of my beloved club Bassiani and member of Paramount Artists Agency. I also have a DJ school, 11TH, here in my city. \n\n<b>Can you tell me about that DJ school?</b>\n\nI think it was the very first DJ school in Georgia. It was called Capsule. It was located in a small room of a bigger music CD, DVD etc, shop, can't remember. and many of the well-known Georgian DJs who play today actively were raised there. My teacher was DJ Baba.  We took our turntables and played music out in the street in front of the traffic, we had signs that said \"we need Clubs in Georgia.\" People were thinking we were crazy. That was my first gig ever. It was about 15 years ago i think.... I was 16 or something like that. So yeah, good times.\n\n<b>What was your last great music or party moment before the current situation took hold?</b>\n\nI was really happy for my upcoming gig at the \"Trip\" label night at Berghain in April, but yeah, coz of pandemic it's not happening. But generally every party is memorable in its own way, they are all special and different, like human beings. I love them all. \n\n<b>What are you up to next?</b>\n\nWho knows yet ? Let's see. I hope we will be able to dance together again very soon.\n",
+    "blurb": "Soaring techno from the Bassiani resident."
+  }
+}

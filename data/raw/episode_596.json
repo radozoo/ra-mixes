@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "596",
+  "url": "https://ra.co/podcast/596",
+  "id": "596",
+  "__typename": "Podcast",
+  "title": "RA.596 Oscar Mulero ",
+  "date": "2017-10-30T00:00:32.000Z",
+  "fileSize": 145552286,
+  "duration": "01:00:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra596-oscar-mulero-cvr.jpg",
+  "contentUrl": "/podcast/596",
+  "tracklist": "Lewis Fautzi - Psychopath\nNørbak - Hara\nSvarog - Aglar \nMod21 - Barra Nayek \t\nEric Fetcher - Kaissa\nOisel - RW05 \nSciahri - Insanity \t     \t\nOscar Mulero - Belief Sys.rmx.\nSteve Bicknell - Harmonious Balance \nOM - Carousel\nLucy - Cannon Fodder (Planetary Assault Systems Remix)\nDeveloper - Orbiter 2 \nDimi Angelis - Fluid Shifts \nDiagram - Neutral State \nCassegrain - Texture remix \nSteve Bicknell - The Moment I Stopped \nOM - obsession RMX.OMMST \nOM - Expectnothing RMXB.OMMST",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/349244270",
+  "keywords": "Omen, Warm Up Recordings, PoleGroup, Token, Mord, Semantica, Perfect Peace, Monochrome",
+  "artist": {
+    "id": "2043",
+    "__typename": "Artist",
+    "name": "Oscar Mulero"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There was a nice bit in the <a href=\"/features/1649\">interview</a> we did with Oscar Mulero a few years ago, where he was talking about setting up THE OMEN club with his friends in Madrid in the mid-'90s. \"We actually had no clue there was an Omen club in Frankfurt at that time,\" he said, referring to Sven Vath's legendary venue. It's easy to forget that not so long ago the international techno scene wasn't really a scene at all, with isolated pockets of activity scattered around the globe. The big DJs from the UK, the US and Germany were beginning to travel regularly for the first time, but it was thanks to regional DJs like Mulero that they had clubs and scenes to go play in. These days Mulero is recognised as an artist who made Spain part of the European techno conversation. \n\nYou can trace Mulero's evolution through one of his labels, Warm Up Recordings, which got started back in 2000 and is about to release its <a href=\"/news.aspx?id=40178\">50th record</a>. Mulero's tough, loop-driven sound of the 2000s gradually gives way to more heady and nuanced music. You'll also find examples of this scattered across the discography of his other label, PoleGroup Recordings, as well as other leading techno outlets like Token, Mord and Semantica, the label that will release his next album in early 2018. We get a taste of other new material on Mulero's RA podcast, which pulls in some unreleased music as well as other new cuts from across the techno scene. \n\nThe result is 60 minutes of mesmerising music—a style that's helped Mulero become one of techno's best and <a href=\"/dj/oscarmulero/dates?yr=2017\">busiest</a> DJs.   \n\n\n<b>What have you been up to recently?</b>\n\nI have finished the WU50 anniversary release, which includes the digital release of the <i>4 Pattern Series</i>. These 12 tracks came out only on vinyl until now, between September 2014 and November 2016. This compilation will be released on November 1, followed by two EPs with remixes of the 4th EP from the Pattern Series called <i>Contents</i>. Remixes from Silent Servant, Kangding Ray and Cassegrain for the first EP and Shlømo, Donato Dozzy and Chevel for the second one. These EPs will come out on November 10th and on December 1st.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix in my studio in Gijón, Spain with two CD players and a mixer. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nTo collect new stuff and some unreleased tracks from myself like I do in most of my DJ sets.\n\n<b>You started Warm Up back in 2000. What do you think have been the main developments in techno since that time?</b> \n\nNew gear and DJ equipment made techno producers and DJs improve their music and sessions, so maybe technique is one of the main developments. \n\n<b>Did you have any particularly memorable gigs over the past few months?</b> \n\nBassiani (Tbilisi) and Hardcode (Belgrade). \n\n<b>What are you up to next?</b> \n\nI have finished my new album, <i>Perfect Peace</i>. It will be released on Semantica at the beginning of 2018. And I am working on a new A/V live show called Monochrome, with music taken from my new album.\n\n ",
+    "blurb": "Deeper shades of techno.  "
+  }
+}

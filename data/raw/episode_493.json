@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "493",
+  "url": "https://ra.co/podcast/493",
+  "id": "493",
+  "__typename": "Podcast",
+  "title": "RA.493 Herodot",
+  "date": "2015-11-09T00:00:47.000Z",
+  "fileSize": 200636209,
+  "duration": "01:23:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra493-herodot-cvr.jpg",
+  "contentUrl": "/podcast/493",
+  "tracklist": "Voigtmann - 5000 Shades   \nBerg - Tau   \nIon Ludwig - Alpha Changes  \nVedi - Goji (Ody Arts Edit)  \nLumieux - Miroir  \nIon Ludwig - Date The Save   \nSuma - Altctrl  \nSeuil - Slipentoule  \nTriptil - Robbin  \nShadee - Deep Inspiration   \nPriku - In Padure La Baneasa   \nChristopher Ledger & Soms - Any Homothety Is Invertible",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra493/",
+  "keywords": "Romania, house, Bucharest, Unanim, Sunwaves, Rhadoo, Raresh, Petre Inspirescu, ",
+  "artist": {
+    "id": "12163",
+    "__typename": "Artist",
+    "name": "Herodot"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When many people think of Romanian house music, three DJs immediately come to mind: Rhadoo, Raresh and Petre Inspirescu. Look a little deeper, though, and you'll find a vast undercurrent of highly skilled selectors, many without much recognition outside fans of the country's subtle minimalist sound. These DJs play most of their gigs in Romania, only occasionally venturing abroad for dates outside their home country. They play (and often make) music at a very high standard, their output defined by intricate, groove-led tracks built for long DJ sets and crystal-clear soundsystems\n\nHerodot is one such artist. Co-founder of the Unanim label with Piticu, he's been a respected DJ in Bucharest, his home town, for the past decade, playing frequently in clubs around the city both as a warm up DJ and occasional headliner. Like many of his countrymen, his style is loopy and restrained, shaped by long spells behind the decks and frequent appearances at afterhour events. This week's podcast is a window into the thriving scene Herodot has emerged from. Percussion shuffles, basslines ebb and flow, but the groove stays steady. It's music to get lost in.\n\n\n<b>What have you been up to recently?</b>\n\nThis year was all about DJing. I recently had my first tours in North and South America, discovering new parts of our scene. I took a little break from the studio so I could focus on my main passion: the dance floor.\n\n<b>How and where was the mix recorded?</b>\n\nThis podcast was recorded live on a Wednesday evening at Club Eden while my friends from Sunrise agency were selling tickets for the SNRS48 party.\n\n<b>Could you tell us about the idea behind the mix?</b>\n\nTo be honest I had no idea to start with. I had a glass of wine and some preselected tracks. Usually I don't like making plans for the party or podcast ahead. No plan is the best plan (at least this is how it works for me). Things have to come naturally, otherwise the feeling gets lost.\n\n<b>You've been playing at Sunwaves since the festival's early days. What have you learnt from your gigs there?</b>\n\nYes, I've been playing Sunwaves since the second or third edition. It will always have a special place in my heart. It's the party where I can meet all my friends from around the world on the same day. Playing Sunwaves is maybe the most challenging gig I have every year. It teaches one how to stand up to a lot of pressure, and it's a constant push to find more and more music and new ways to take the people on a timeless musical journey.\n\n<b>What are you up to next?</b>\n\nAfter replying to this last question I'll go for a walk with my dog, but I guess this was not the purpose of your question :). Next thing is to get Unanim 003 released, and then work in the studio a little bit. I have to admit a vacation would also be nice at some point.",
+    "blurb": "Subtle sounds from one of Romania's finest. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "59",
+  "url": "https://ra.co/podcast/59",
+  "id": "59",
+  "__typename": "Podcast",
+  "title": "RA.059 Jeremy P Caulfield",
+  "date": "2007-06-25T14:12:16.000Z",
+  "fileSize": 74136481,
+  "duration": "01:01:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra059-jeremy-p-caulfield-c.jpg",
+  "contentUrl": "/podcast/59",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra059/",
+  "keywords": "",
+  "artist": {
+    "id": "721",
+    "__typename": "Artist",
+    "name": "Jeremy P. Caulfield"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "JPC is a Canadian DJ, producer and record exec who runs Dumb-Unit Records with his partner Ingo Gansera of Exercise One. His record label has a philosophy of focusing on new talent - recently he's released 12\"s by the likes of Butane, Sweet N Candy, Sarah Goldfarb and Lee Curtiss - but Caulfield himself has been in the game a long time - he was making this music in his hometown of Toronto long before minimal became a buzzword. We know, we've heard those mid-nineties tapes!\n\nAs a DJ, Caulfield operates out of Berlin these days, spending his weekends spinning around Europe in clubs such as Watergate, Harry Klein and Studio 88. This year he's also issued the latest volume in his long-running 'Detached' mix CD series, which like his RA podcast, focuses on the dark and stalking end of minimal techno. JPC chats to RA:\n\n<b>What have you been working on recently?</b>\n\nLot's on the go as usual. It's been a really busy year for Dumb-Unit and that's taken a fair share of my time - getting everything out on time, keeping the artists moving etc. But I'm really happy with what we put out this year. Through the winter I've been promoting my new Detached Works mix CD and also popped out the 'Lacewingpuff' EP, now that's wrapped up so I can focus on some more productions.\n\n<b>Where was the mix recorded?</b>\n\nIn Whitewerk, my studio in Berlin. I had been organizing the records for few days, just having them play in the background while working on fixing up my studio, so by the time I made the mix, poof, it came out in one straight shot, one take, no edits. Although since I mix using Serato a few of the tracks are my own special edits.\n\n<b>What are you up to next?</b>\n\nI'm back into full studio mode and working on a few new records for some special labels, and of course a new EP for Dumb-Unit for the fall. In August I'm back into gig mode, I do a nice tour of Scandinavia and just some other normal European gigging. In fall I'm touring Australia and then in early winter I'm off to North America to hit the road. Then I'm trying to head back to Canada and to spend some time up north locked up and working on music...I need out of Berlin this winter! ",
+    "blurb": "This week's podcast is an hour of minimal techno from Dumb Unit boss Jeremy P. Caulfield."
+  }
+}

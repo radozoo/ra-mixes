@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "212",
+  "url": "https://ra.co/podcast/212",
+  "id": "212",
+  "__typename": "Podcast",
+  "title": "RA.212 Elektro Guzzi",
+  "date": "2010-06-21T00:00:21.000Z",
+  "fileSize": 57200881,
+  "duration": "00:47:39",
+  "imageUrl": "https://static.ra.co/images/podcast/ra212-elektro-guzzi-cover.jpg",
+  "contentUrl": "/podcast/212",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra212/",
+  "keywords": "Elektro Guzzi, Macro, Krautrock, live electronic, rock",
+  "artist": {
+    "id": "12873",
+    "__typename": "Artist",
+    "name": "Elektro Guzzi"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In his <a href=\"/review-view.aspx?id=7495\">review of Elektro Guzzi</a>'s eponymous debut album, RA's Richard Carnes remarked that the trio were \"one of the most unconventional 4/4 outfits of current times,\" and it's not difficult to see why. Comprised of guitarist Bernhard Hammer, bassist Jakob Schneidewind and drummer Bernhard Breuer, the Vienna-based musicians formed five years ago in order to create groove-based music with rock instrumentation.\n\nThe members covered noise, dub and jazz in their previous outfits, and they bring all of these influences to the table, along with a heavy dose of techno and Krautrock, as Elektro Guzzi. The album sees Austrian electronic music legend Patrick Pulsinger helm the mixing desk, although the band are adamant that they use no overdubs, laptops or loops when they record. \n\nThe album's clinical sound suggests that the trio are very much at home when they play live, and we're sure that particular part of their reputation will be compounded once you listen to them action on this week's RA podcast. Taken from one of their live sets earlier this year, the whole recording is one long continuous groove, Schneidewind and Breuer locking into their typically tight rhythm while Hammer builds the atmosphere and rhythmic interplay. Our advice? Take this one for a ride on headphones. It's one RA podcast that demands a close listen.\n\n<b>What have you been working on recently?</b>\n\nWe have been recording some new tracks and a studio-live set in London with Brandon \"Octave\" Harding which was a great experience for us. We were also playing music composed by Stefan Goldmann for a ballet performance at the Time Warp festival. And, of course, we have been playing a lot of live concerts to present our new album in clubs like fabric and Berghain.\n\n<b>Can you explain a little bit about your live set-up? How much of your performance is improvisational?</b>\n\nWe play with drums, bass and guitar and do not use any prepared loops or computers. We create everything in the moment of performance and push the sonic boundaries of our instruments, using effect pedals and preparations on our instruments. When we started Elektro Guzzi, the concept was to perform completely improvised, but over the years we developed towards using more fixed patterns and sounds. Structure and form are still improvised and therefore different every time we play.\n\n<b>When forming the group, did you have a pre-conceived idea of what it should be?</b>\n\nYes, we wanted to play techno with our instruments and with all the things we learned over the years about producing different sounds with our instruments. Through using them in a different way we found enough material to let our music sound very special. \n\n<b>Some of the album sounds like techno but played with a live band. What sort of electronic music do you enjoy listening to?</b>\n\nAs a band we listen to a lot to techno, dub and experimental electronic music, but also African and Brazilian music. To name just a few artists: Jeff Mills, Basic Channel, Underground Resistance, Cristian Vogel, Carl Craig, Rhythm & Sound...\n\n<b>How come it's taken you so long to get material out?</b>\n\nBecause we are perfectionists and it was a long time before all of us were satisfied with the material. We wanted to get to a point where we really got our very own and special sound, so we had to spend a lot of time in the rehearsal room.\n\n<b>How did you come to the decision to work with Patrick on the album? Was it his idea to send it to Macro?</b>\n\nWe did a few other projects and live performances with Patrick before, so we already knew each other. We asked him if he wanted to work on the album with us and he was very enthusiastic about the project. It was a great collaboration for us because he really shaped the sound and gave it the perfect room. We were searching for a label that has an open-minded policy and that does releases on vinyl. We read an article about Macro in a magazine, sent them a demo and they wanted to release the record.\n\n<b>What are you up to next?</b>\n\nThis summer we are going to work on new material for the next album, which we hope to release in 2011. We will finish the tracks that we've already recorded and will try to release them by the end of this year.  Most importantly, we are going to play a lot of live concerts to take the music to the next level.",
+    "blurb": "Macro's techno-rockers go live on this week's RA podcast."
+  }
+}

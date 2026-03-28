@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "470",
+  "url": "https://ra.co/podcast/470",
+  "id": "470",
+  "__typename": "Podcast",
+  "title": "RA.470 Andrew Weatherall",
+  "date": "2015-06-01T00:00:00.000Z",
+  "fileSize": 157217637,
+  "duration": "01:05:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra470-andrew-weatherall-cvr.jpg",
+  "contentUrl": "/podcast/470",
+  "tracklist": "Vermont - Elektron (Prins Thomas Version)\nFlash Atkins - The Wilderness\nSimon Says - Coloritmo\nDuncan Gray - I Can't Stand Lorraine (Club Bizarre Remix)\nClub Bizarre - Trip To Holy Land\nFlash Atkins - Acid House Creator\nP.P.F. - Umbilical Cord\nDuncan Gray - Churn Again\nVox Low - Something Is Wrong (Boot & Tax Remix)\nBoot & Tax - Balkan Youth ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra470/",
+  "keywords": "Moine Dubh, Boys Own, Shoom, Primal Scream, Two Lone Swordsmen, Sabres of Paradise, Warp, ",
+  "artist": {
+    "id": "575",
+    "__typename": "Artist",
+    "name": "Andrew Weatherall"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There's plenty of mythology surrounding Andrew Weatherall—Boys Own, Shoom, Primal Scream, the beard and so on. But in a career that's lasted over 30 years, and has presumably included every conceivable high and low, Weatherall has always been about cutting out the bullshit, building a reputation that's beyond reproach. \n\nThe short version of the story is that Weatherall established himself as a DJ, producer and journalist during dance music's first wave in the UK; went on to produce and remix acts like Primal Scream, Beth Orton and My Bloody Valentine; formed two influential groups—Two Lone Swordsmen, The Sabres Of Paradise—who were signed to Warp; and, through his work as a DJ, producer and label boss, became a sort of father figure for leftfield dance music in the UK. These days, collaboration is still an important part of Weatherall's artistic makeup. He runs the semi-regular \"mid-tempo\" party A Love From Outer Space with Sean Johnston, which takes place at various venues in the UK and Europe. His last album, <i>Ruled By Passion, Destroyed By Lust</i> was written with Timothy J. Fairplay as The Asphodells; together they write dubby, synth-heavy dance tracks in the manner of a band. While Daniel Avery has almost become Weatherall's protégé, the two work from the same studio space in East London and play back-to-back whenever they get the chance.    \n\nRA.470 incorporates many of the elements that have made Weatherall so consistently interesting. The tempo is set to a carefully considered chug while rich electronics take flight overhead. The tracks are rooted in house and disco but the spirit of a guitar band never feels far away.  \n\n\n<b>What have you been up to recently?</b>\n\nWriting and recording lots of music that may or may not see the light of day. Setting up a new subscription-only record label called Moine Dubh (vinyl only, no downloads). Looking for a new studio.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was executed at the R.G.C. research facility somewhere in London's increasingly tedious Shoreditch, using one of the world's last surviving CD burners.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to sequence some records together without the joins being too apparent.\n\n<b>What are you up to next?</b>\n\nWriting and recording lots of music that may or may not see the light of day. Writing the foreword to a new book about the influence of LSD on art. Playing records at secular transcendence ceremonies. Making prints for my new subscription-only record label called Moine Dubh (vinyl only, no downloads). Moving to a new studio.\n\n\n<span class=\"grey\"><i>Weatherall is playing at this year's <a href=\"/event.aspx?692704\">Lunar Festival </a>, which takes place in Warwickshire, UK, between June 5th and June 7th.</i></span>",
+    "blurb": "A dance music legend takes the helm. "
+  }
+}

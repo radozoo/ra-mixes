@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "79",
+  "url": "https://ra.co/podcast/79",
+  "id": "79",
+  "__typename": "Podcast",
+  "title": "RA.079 Brendon Moeller",
+  "date": "2007-11-19T12:00:42.000Z",
+  "fileSize": 66285789,
+  "duration": "00:55:13",
+  "imageUrl": "https://static.ra.co/images/podcast/ra079-brendon-moeller-cover.jpg",
+  "contentUrl": "/podcast/79",
+  "tracklist": "01. Substance & Vainqueur - Resonance (<a href=\"record-label.aspx?id=1031\">Scion Versions</a>)\n02. Michael Langlois - Snap (<a href=\"record-label.aspx?id=672\">Sub Static</a>)\n03. Tony Blunt - City Rain (Cv313's Reduction Mix) (Dpress Industries)\n04. <a href=\"dj-page.aspx?id=1354\">Michal Ho</a> - Take Me Away (<a href=\"record-label.aspx?id=902\">Tuning Spork</a>)\n05. Jungle Brothers - Ultrablack (feat The Dela Soul Sound) (Gee Street)\n06. Motor City Drum Ensemble - Get Slapped Up (<a href=\"record-label.aspx?id=576\">Compost</a>)\n07. October - Homosapiens (Caravan)\n08. Tim Xavier - Stuck On Earth (Limited 400)\n09. Vainqueur - Elevations (Reducer) (Chain Reaction)\n10. Jichael Mackson - Fluff In The Bellybutton (<a href=\"record-label.aspx?id=954\">Liebe Detail</a>)\n11. Natural Rhythm - Eclectic dub (Earthtones Recordings)\n12. Seuil - Salazie (<a href=\"http://www.residentadvisor.net/record-label.aspx?id=1199\">Minibar</a>)\n13. Mikkel Metal - Delta (<a href=\"http://www.residentadvisor.net/record-label.aspx?id=1328\">Echochord</a>)\n14. Catz n Dogz - Searching (<a href=\"http://www.residentadvisor.net/record-label.aspx?id=1060\">Leena</a>)\n15. <a href=\"dj-page.aspx?id=1007\">DeepChord</a> - Vantage Isle (DC Mix III) (<a href=\"record-label.aspx?id=1081\">echospace</a>)\n16. Orange Kush - Tremelo (<a href=\"http://www.residentadvisor.net/record-label.aspx?id=121\">Botchit & Scarper</a>)\n17. The Disco Evangelists - De Niro (Choirs In Vietnam Reprise) (<a href=\"http://www.residentadvisor.net/record-label.aspx?id=63\">Positiva</a>)\n18. Brendon Moeller - One Man's Junk (<a href=\"http://www.residentadvisor.net/record-label.aspx?id=1063\">Third Ear</a>)\n19. Pigon - Beau Monde (<a href=\"http://www.residentadvisor.net/record-label.aspx?id=823\">Dial</a>)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra079/",
+  "keywords": "",
+  "artist": {
+    "id": "1963",
+    "__typename": "Artist",
+    "name": "Brendon Moeller"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Brendon Moeller grew up in Johannesburg, where he played in bands, wrote for music magazines and even taught school before upping sticks and heading to New York to pursue music in 1993. Rumour has it he didn’t know a thing about electronic music before he hit America, but you wouldn’t know that from his productions. Moeller has spent the last ten years building up a quietly impressive catalogue of releases, including albums as Beat Pharmacy on Francois K's Deep Space Media imprint and releases as Echologist for Mule Musiq. More recently he’s put out rated dub techno 12”s under his own name for Echocord and Third Ear – this year his <a href=\"/review-view.aspx?id=4622\">’Jazz Space EP’</a> was especially rated for its unusually high quality. Different names, different labels, but all of Moeller’s releases are wide-open affairs, synthesizing dub, minimal techno, jazz and African influences into deep, organic dance music with a careful attention to detail.\n\nThe Francois K connection is also key. Moeller does A&R for Mr. Kervorkian’s labels as well as DJs regularly at his Monday night Deep Space parties in New York. As a DJ, Moeller’s eclectic take on dance music shines through – he’s just as like to mix together reggae, dub techno or even comedy records as up to the minute house and techno. For his RA podcast, Moeller leans heavily towards the latter, offering up a mix that travels from dub to rave with its feet on the floor. A proper Monday night in.\n\nA few words from Brendon:\n\n<b>What have you been working on recently?</b>\nA few months ago I finished up an album for Third Ear Records that will be released early next year. It's a collection of dancefloor tracks in a variety of flavours. The 2nd EP from the album, which is the follow up to the 'Jazz Space EP', should be out in January. A new Beat Pharmacy 10\" featuring Negus Shabaka will be available in the next week or two.\n\n<b>Where was the mix recorded?</b>\nThe mix was recorded using Ableton in my home studio in Astoria, New York.\n\n<b>What are you up to next?</b>\nI am currently working on a new album project of protest dub techno tracks featuring vocal contributions from Spaceape, Paul St. Hilaire; Amayo (Antibalas) and Carl Hancock Rux amongst others. I'm extremely excited about this project. Please check my website for details.",
+    "blurb": "RA.079 is an hour of dub techno and house from NY-based producer Brendon Moeller."
+  }
+}

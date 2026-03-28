@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "740",
+  "url": "https://ra.co/podcast/740",
+  "id": "740",
+  "__typename": "Podcast",
+  "title": "RA.740 KMRU",
+  "date": "2020-08-10T00:00:40.000Z",
+  "fileSize": 172028310,
+  "duration": "01:11:33",
+  "imageUrl": "https://static.ra.co/images/podcast/ra740-kmru-cvr.jpg",
+  "contentUrl": "/podcast/740",
+  "tracklist": "Ecker & Meulyzer -Enclosurea\nAho Ssan -ID\nLovozero - Descend Pt. IV\n??\nPier Alfeo -Act I\ninoxia - oiseaux-serpent\nEchium- Compulsions of Reality\nJJ+JS - Heliot's Trip\nPinkcourtesyphone - a moth seems a monster (for E.Kitt)\nKatie Gately – Ritual\n??\nTOMOKO HOJO + RAHEL KRAFT - Elastic Rubber Boat\nAnthony Child - Through A Storm With Waves Crashing And Passing To The\nCalm On The Other Side\nOGNIKI - VESSEL OF THE SENSES\nKMRU - cathenta\nSenyawa & Stephen O Malley- Dewi Hera Part I\nThe Transcendence Orchestra - The golden jaws of the celestial vice\nunusual shapes – Hypocapnia\nQuiet Places- Track 1\nFRKTL - Prologue",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/873226597",
+  "keywords": "Nairobi, Joseph Kamaru, Peel, Editions Mego, Senyawa",
+  "artist": {
+    "id": "77943",
+    "__typename": "Artist",
+    "name": "KMRU"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In 2018, Kampire Bahana wrote a feature for RA called <a href=\"/features/3229\" target=\"_blank\">15 East African artists you need to hear</a>. As a producer mostly working with drones and field recordings, KMRU was, musically speaking, the subtlest artist on that list. But Bahana was right: you need to hear him. KMRU is the grandson of Joseph Kamaru, a benga musician, political activist and general national hero in Kenya. \"He told me to stay authentic with the music I do, to stay honest with myself,\" KMRU <a href=\"https://daily.bandcamp.com/features/the-powerful-political-music-of-joseph-kamaru-kenyas-king-of-kikuyu-benga\" target=\"_blank\">told Bandcamp</a>. \"And that's what helped me, in certain moments, to choose my own path.\" \n\nListening to KMRU's music, it's obvious he followed his grandfather's advice. His music reflects a striking clarity of vision. It is beautifully rich and emotionally resonant, cocooning the listener in its soothing tones while drifting through many subtle moods and textural spaces. Last month, he hit new heights with <i>Peel</i>, his new album on Editions Mego (his track on the RA Recommended <i>Physically Sick 3</i> is lovely, too). RA.740 offers an expansive view of his sound world, weaving together music from the likes of Anthony Child and Senyawa with his own released and unreleased productions. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix on Ableton in my room here in Nairobi.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI had an overall sound in mind that I wanted to record for this mix, more of an experimental, ambient direction from a selection of artists I have been listening to recently. As soon as I got the intro tracks, the rest was fluent: featuring artists like Aho Ssan, FRKTL, OGNIKI and more... also some unreleased works from myself and other artist friends.\n\n<b>Tell us a bit about your personal journey as a musician. What music or life events led you to your current sound? And what influence did your grandfather have on your music?</b>\n\nI was involved in music in my early days, singing and playing classical guitar, but most of it happened in my university years when I discovered DAWs, and borrowed my dad's laptop for an assignment, which ended being my workspace. Experimenting and learning much about production and composition. I bought a Zoom H6 as an interface, but a lot changed when I started recording sound from my environment! It was exciting, more like having another pair of ears. This progressed more as I was reading much about field recording and using these sounds in my compositions. \n\nMy grandfather had a deep connection with the environment, we hiked together with my cousins every time we went to the countryside. Our musics are super different but he was a mentor and a best friend and taught me much about life and\nmusic. Also, just recently I’ve been discovering his use of field sounds in his music, from the <a href=\"https://josephkamaru.bandcamp.com/\" target=\"_blank\">reissue project</a> I'm doing on Bandcamp.\n\n<b>We understand you're involved in blackbandcamp. What has it been like to work on that project?</b>\n\nIt's amazing to be involved with the project! And super grateful for the love that blackbandcamp is getting from the community. Working on this is exciting and really looking forward to seeing how this grows! Go explore the site and support black artists :)\n\n<b>What are you up to next?</b>\n\nWell I'm still excited about my <i>Peel</i> release on Editions Mego! Which came out last month. I have releases coming in the next months, and excited also for those too. Also finalizing some early release for next year and developing new projects and installation works, I have some remixes, compilations and collaborations I'm currently working on and curating my monthly radio show on Internet Public Radio. Also, hopefully moving to Berlin later this year for my MA. I'm just living life as it comes and drinking lots of water :)\n\nThank you RA for this!",
+    "blurb": "A dream sequence of ambient and drone from the Nairobi DJ and producer. "
+  }
+}

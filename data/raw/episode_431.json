@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "431",
+  "url": "https://ra.co/podcast/431",
+  "id": "431",
+  "__typename": "Podcast",
+  "title": "RA.431 Shanti Celeste",
+  "date": "2014-09-01T00:00:45.000Z",
+  "fileSize": 188063696,
+  "duration": "01:18:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra431-shanti-celeste-cvr.jpg",
+  "contentUrl": "/podcast/431",
+  "tracklist": "MGUN - Risque\nTevo Howard - The Promenade\nJitterbug - Sweet Tooth\nJay L - Together\nDJ Jus-Ed - Deeply I Feel (Original Mix Deeply)\nOutboxx - Sequencial Circles\nNew Musik - Warp (ILLO Edit)\nThe Reflektor - El Mirador\nZennor - Storms\nMaurice Fulton - You Give Me Good Feeling\nChristopher McCray - Get It Right (Feel Mix)\nDa Sampla - Over\nBlake Baxter - When We Used To Play\nRon Trent - Altered States\nShanti Celeste - Felix\nJitterbug - Trak6 \nAfrican Shakedown 2 - Bayaya (Axel Boman Re-Dub)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra431/",
+  "keywords": "House, Bristol, Chile, Idle Hands, brstl, days like this, universal glow, boardwalk",
+  "artist": {
+    "id": "36505",
+    "__typename": "Artist",
+    "name": "Shanti Celeste"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Shanti Celeste has a good momentum going. Born in Chile and based in Bristol, she's a core member of the esteemed Idle Hands crew—her <a href=\"/review-view.aspx?id=14787\">second record</a> came out on the label, and she works at the record shop in Stokes Croft. Her first 12-inch, <a href=\"/review-view.aspx?id=13683\"><i>Need Your Lovin' (Baby)</i></a>, came out on BRSTL, a label she runs with the man behind Idle Hands, Chris Farrell. Those two records outlined Shanti's sound: warm, punchy and, in the case of <i>Days Like This</i>, brought to life by her silky voice. Her third should be a big one—entitled <i>Universal Glow</i>, it comes out <a href=\"/news.aspx?id=26142\">this month</a> on Julio Bashmore's Broadwalk imprint. \n\nShanti's DJ style has the same down-to-earth allure as her records. Dusty, groovy and filled with the kind of recent gems only record store staff seem to know about (plus a few older ones, of course), RA.431 shows what Shanti's bringing to the table. \n\n<b>What have you been up to recently?</b>\n\nNot very interesting, but I've just moved to another house in Bristol. It's only up the road but lugging all my records over there wasn't fun! I've also been helping my friend Joe out with the video for my new track \"Universal Glow\" which is out next week on Broadwalk Records. It's pretty weird but I'm really happy with how it's come out.\n\n<b>How and where was the mix recorded?</b>\n\nIn the living room of my old place on two 1210s, a DJM400 and a CDJ400 for the unreleased bits.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nOriginally I wanted to do a mix that showcased my musical knowledge and try and take people on a bit of a journey, but I wasn't happy with how it came out. After having a few goes and getting quite frustrated, I ended up just going to the shop, buying a few gin-in-a-tins and just having a mix, trying to put together the kind of set I'd like to hear (and play) in a club. I found that being relaxed and not thinking about it too much made it a lot more enjoyable.\n\n<b>Your music so far has had a warm, breezy feel. Where do you think this comes from?</b>\n\nI like melody, and I like conveying emotion in my tunes. I try and write things that would make me feel happy and euphoric in a club. I love it when I get that feeling on the dance floor, and I want to make other people to feel the same things I do when I hear a great track out. \n\n<b>Idle Hands got a refit recently—how come?</b>\n\nWe sorted out the Feng Shui a bit basically. What we had before was very functional, but the place really looks great now thanks to some hard work from Chris and a few others. I did a bit of painting and Andy Mac came and built an amazing new counter for us.\n\n<b>What are you up to next?</b>\n\nGetting the studio set up in my new place so I can be really antisocial and spend as much time in there as I can. Apart from that, I'm DJing a few things around the country and continuing to put on our BRSTL parties. I'm also looking to do another Housework party soon with my friends Alex (Golesworthy) and Gramrcy, we're just looking for a cool space to do it. Watch this space!",
+    "blurb": "Classy house from a rising Bristolian. "
+  }
+}

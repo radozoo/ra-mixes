@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "289",
+  "url": "https://ra.co/podcast/289",
+  "id": "289",
+  "__typename": "Podcast",
+  "title": "RA.289 Jackmaster",
+  "date": "2011-12-12T00:01:44.000Z",
+  "fileSize": 121918698,
+  "duration": "01:41:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra289-jackmaster-cvr.jpg",
+  "contentUrl": "/podcast/289",
+  "tracklist": "Jackmaster Intro\nBilly Ocean - Showdown - Jive\nFaith Evans - Love Like This (Behling & Simpson Mix) - Futureboogie\nKate Bush - A Deal With God (Late Night Tuff Guy Edit) - Lightspeed\nRebolledo - Steady Gear Rod Maschine - Kompakt\nOmar - Feeling You (Henrik Schwarz Remix) - Peppermint Jam\nTricksi - Good Time To Pray (Axel Bowman Remix) - Suol\nLevon Vincent - Untitled - Unreleased\nRound One - I'm Your Brother - Main Street\nDense & Pika - 31 - Unreleased\nLiberty  City - If You Really Love Someone - Murk\nJoy Orbison & Boddika - Mercy - Unreleased\nTWR72 - Future Tool Dub - Sound Pellegrino\nJoy Orbison - Source Delight - Unreleased\nSuburban Night - The Warning - Underground Resistance\nPlayground Productions - Work That Big Booty - Dance Mania\nMr Oizo - M-Seq - F:Communication\nKW Griff - Kraftwerk Clubtrack - Unreleased\nUnderground Resistance Feat. Yolanda - Living For The Night - UR\nE-Dancer - Pump The Move - KMS\nXpansions - Move Your Body - Optimism\nHudson Mohawke - Foxy Boxing - Unreleased\nBurial - Archangel - Hyperdub\nUnderground Resistance - Hardlife (Aaron Carl Remix) - UR\nZed Bias - Music Deep Inside - Swamp81\nAddison Groove - Push - Unreleased\nDonnacha Costello - Olive B - Minimise\nChicago Traxmen - 96 U Got 2 - Underground Construction\nDJ Technics - My Life Extra - Baltimore Breakbeat\nRamadanman - Don't Change For Me - Hessle Audio\nPearson Sound - Untitled - Unreleased",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra289/",
+  "keywords": "Jackmaster, numbers, wireblock, glasgow, scotland, boiler room, seldom felt",
+  "artist": {
+    "id": "11079",
+    "__typename": "Artist",
+    "name": "Jackmaster"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jack Revill is a young Glasgow-based DJ who is known for his party-friendly approach to playing records. The other point of note here is that he's not a producer—Revill has risen to a position of prominence as co-founder of the Numbers imprint, and a key player on Glasgow's underground electronic music scene. Revill has been working at the city's Rubadub record store since the age of 14, and went on to co-found the Wireblock and Dress 2 Sweat imprints in 2007. Between them they dealt in everything from the Baltimore club sounds of Rod Lee through to the then emerging talents of Hudson Mohawke and Rustie. Sensing an opportunity for clarity and consolidation, Wireblock and Dress 2 Sweat folded in with Stuffrecords to form Numbers at the beginning of 2010. With no fixed attachments to styles or scenes, Numbers has proffered a peerless run of 12-inches that has this year included music from Mosca, Jamie xx, Redinho and Pierre's Pfantasy Club. \n\nIf you enjoyed <a href=\"/review-view.aspx?id=9072\">Revill's excellent entry in the fabric mix series</a> from earlier this year or generally like to smile while dancing, then we recommend spending time with RA.289.\n\n<b>What have you been up to recently?</b>\n\nLoads of shows. It's been a really hectic schedule since the Fabric CD came out. I'm just back from two trips to the US and I'm on tour in Australia at the moment. My body clock doesn't have a clue what the fuck is going on. We also just did the first ever Numbers warehouse party in London after months of planning, which was amazing.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it at home in my pyjamas using the ironing board as a laptop stand.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's similar to the Fabric mix in many ways but it starts a lot slower both in terms of tempo and the pace of the actual mixing and blends. It splits from that style into the more \"party\" kind of DJing I'm known for, pretty much exactly the middle. It wasn't really pre-conceived like that. It's just the way it turned out.\n\n<b>What does your particular style of DJing—playing across decades, genres—stem from do you think?</b>\n\nI dunno really. I guess the old \"they don't make 'em like they used to\" cliche has something to do with it. This will ruffle a few feathers but generally I'm not that excited by modern house and techno music at the moment. Sorry! Although techno has suffered a lot more than its forefather in my opinion. There are exceptions of course, but when I first got into techno music I never had enough money to buy all the new records I wanted. There were four or five belters coming out every week whereas now I struggle to find stuff, but maybe I'm just lazier than I used to be. So generally I spend my time listening to random old bits on YouTube, then go find them on Discogs. So yeah, that coupled with all the amazing new music coming from the UK \"whatever you want to call it\" scene makes me the DJ I am I guess.\n\n<b>What are you up to next?</b>\n\nWe have lots more amazing new music to release on Numbers next year. I'll be touring the US again during SXSW and WMC, and going over to Asia to tour Japan and China. And trying to fit in some sleep!",
+    "blurb": "Jack brings the party. "
+  }
+}

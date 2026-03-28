@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "587",
+  "url": "https://ra.co/podcast/587",
+  "id": "587",
+  "__typename": "Podcast",
+  "title": "RA.587 Baba Stiltz ",
+  "date": "2017-08-28T00:00:45.000Z",
+  "fileSize": 181105612,
+  "duration": "01:15:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra587-baba-stiltz-cvr.jpg",
+  "contentUrl": "/podcast/587",
+  "tracklist": "Petre Inspirescu - Pacalit De Q \nUnknown Artist - #ffff00 a \nErobique & Robag Wruhme - Hier Kommt Die Sonne \nAntonio Echols - Sex Games \nDJ Dove - Organized\n???? - ????? \nLittle Jinder - Inga Är Som Vi (HNNY REMIX) - Baba Edit xo1 \nLukas Nystrand von Unge - Bean This Way (Tensta Edit) \nCJ Scott - Peaktimekatten \nSoul Reductions - A Rose Is A Rose \nKC Flightt - Voices \nMr Tophat & Art Alfie - No Holdings (Radio Edit)",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/339972345",
+  "keywords": "Studio Barnhus, Trilogy Tapes, Keep it lit, FKA Twigs, Born Free",
+  "artist": {
+    "id": "45120",
+    "__typename": "Artist",
+    "name": "Baba Stiltz"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Each year, Sven Väth's Cocoon label releases a compilation in its alphabetised series. Like all of those before it, 2017's <i>Q</i> featured a collection of tracks for the dance floor. The last track on this year's edition was by far its weirdest: Baba Stiltz's \"All I Can (About You).\" Over a muted, Villalobos-style beat, Stiltz, his voice pitched up to comical levels, sings, \"When I'm here without you, baby, all I can do is think about youuuuu.\" \n\nStiltz's appearance on the compilation might have been unexpected, but the fact his track clearly stood out wasn't. For the last few years, he's been making highly idiosyncratic music, lots of it house, some of it what could be described as pop. From his base in Stockholm, he works among a stable of artists who share his love for curveballs—Kornél Kovács, Axel Boman and Petter Nordkvist from Studio Barnhus, Samo DJ and artists like Yung Sherman from the hip-hop collective Sad Boys. Stiltz is part of the international dance music community, playing regularly around the world, but he's afforded himself an uncommon amount of creative freedom, and often seems unafraid to step outside the scene's conventions. You'll find him writing albums full of downbeat soundscapes (2014's <i>Total</i>), releasing tracks that could conceivably get on the radio (this year's \"Can't Help It\"), or writing a disco-house burner for The Trilogy Tapes (last year's \"Keep It Lit\"). His aesthetic is hard to define, but he works on a scale with tender sincerity at one end, and goofball humour at the other.   \n\nRA.587 is the dance floor side of Stiltz. Every track in the mix has some type of distinctive quality, and Stiltz asks his friends Samo DJ, Yung Lean and DJ Koze to stop by for guest appearances. \n\n\t\n<b>What have you been up to recently?</b>\n\nI have been playing records a lot and making new music for myself and others. \n\n<b>How and where was the mix recorded?</b>\n\nThis mix was recorded at Studio Barnhus, track selection was thought out beforehand and I'm happy with the vibe. Also Zoltan (my Uncle & friend) was around for the recording, which was amazing. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nBasically it's a mix of what I enjoy listening to and what I like playing in clubs. Nothing complicated.\n\n<b>How did you wind up releasing a track on Cocoon?</b>\n\nWell, Sven has been a great supporter of my tracks. I remember him reaching out to me back in 2014 to feature a track I'd done called \"Ja Rule\" for his Lufthansa mix. I have the utmost respect for him. Ever since I heard \"Electrica Salsa\" from <i>The New Sound Of Frankfurt</i> compilation I've been a fan. So when he asked for a track I was more than happy to contribute. \n\n<b>What do you think is fuelling your <a href=\"https://www.facebook.com/babastiltzofficial/posts/1412941795452058\">dreams about Villalobos</a>?</b> \n\nI love Villalobos. I think he makes music that is so moving; a wonderful balance of abstract and direct ideas. He never ceases to amaze me. \n\n<b>What are you up to next?</b>\n\nThe latter end of 2017 has some exciting things coming. Samo DJ and I are releasing a record on Born Free in the coming months, which we have put a lot of work into. Also a few bits and pieces will start to surface on my part, both new dance music and also some more vocal downtempo stuff. Besides this, I've been working with a few other artists, which is really exciting. I feel very happy at the moment. And that feels great.\n",
+    "blurb": "Offbeat club music from a curious mind. "
+  }
+}

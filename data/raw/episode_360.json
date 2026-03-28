@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "360",
+  "url": "https://ra.co/podcast/360",
+  "id": "360",
+  "__typename": "Podcast",
+  "title": "RA.360 Solomun",
+  "date": "2013-04-22T00:00:21.000Z",
+  "fileSize": 89007717,
+  "duration": "01:13:47",
+  "imageUrl": "https://static.ra.co/images/podcast/ra360-solomun-cvr.jpg",
+  "contentUrl": "/podcast/360",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra360/",
+  "keywords": "Solomun, Diynamic, Mladen Solomun, Pacha, Sankeys, Ego, Hamburg",
+  "artist": {
+    "id": "1665",
+    "__typename": "Artist",
+    "name": "Solomun"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Mladen Solomun broke onto the European house scene in 2006, and has seemingly grown in stature every year since. 2013 is already looking like his busiest year yet, with two weekly residencies in Ibiza—at <a href=\"/news.aspx?id=19036\">Pacha</a> and <a href=\"/news.aspx?id=18979\">Sankeys</a>—adding to his role as co-founder of Diynamic Music and co-owner of Ego club in Hamburg. Diynamic will also enter into the <a href=\"/news.aspx?id=19257\">festival</a> game in May. They've put together a 12-hour open-air event, produced alongside Studio 80, at Arena Park in Amsterdam, which will see the core of their roster—Kollektiv Turmstrasse, H.O.S.H., Stimming, David August et al—entertaining. Further building on his burgeoning relationship with the White Isle, he's also part of the <a href=\"http://bit.ly/13qc667\">burn studios' 2013 Residency</a>, which will see DJs like Steve Lawler, Maceo Plex and Fatboy Slim head to Ibiza in May to mentor a young group of up-and-coming DJs as part of burn's now annual presence on the island. (Solomun's burn involvement begins in earnest this Wednesday evening at Oslo's <a href=\"/event.aspx?464079\">Jaeger</a>.) \n\nSolomun has increasingly become known as a party-focussed selector in recent years, and on RA.360 he sets up at a meeting point between slick modern house music and timeless pop-orientated flavours.  \n\n<b>What have you been up to recently?</b> \n\nI want to go to the swimming bath and can't decide which trunks I should wear—the ones with a happy black or with crazy grey? I hate taking tough decisions like that, in the end I'll just go to the sauna. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix in our club, Ego, in Hamburg with two CDJ-2000s and an Allen & Heath Xone 92 mixer. And I forced our trainees to listen to me while I was mixing and to give me some party feeling.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nI selected about 30 tracks that fit together in terms of their atmosphere, and my mission was to finish the mix in one take. I prepared only the intro and outro song.\n\n<b>So you're doing two Ibiza residencies this year. Why is the island such a good fit for what you do?</b>\n \nI'm just a fish in a big sea and Ibiza is a beautiful coral reef that gives us all protection and food. \n\n<b>And you're also involved in the burn studios Residency on the island?</b>\n\nI think it's a very good idea to give and receive feedback when you are an artist, so I didn't hesitate when they asked me if I wanted to join them. Maybe I'm not the best teacher in the world but I can always say if I like a track or not. \n \n<b>What advice will you be offering on being a resident DJ in Ibiza?</b> \n\nUse the experience to get in touch and be part of it. And if that's not enough: use the force!\n\n<b>What are you up to next?</b>  \n\nAfter a long day at the sauna, where I had enough time to think about my trunk problem, I decided for the happy black one. ",
+    "blurb": "The Diynamic man brings the party. "
+  }
+}

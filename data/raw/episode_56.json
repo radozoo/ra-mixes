@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "56",
+  "url": "https://ra.co/podcast/56",
+  "id": "56",
+  "__typename": "Podcast",
+  "title": "RA.056 Stefan Goldmann",
+  "date": "2007-06-04T20:00:03.000Z",
+  "fileSize": 83002975,
+  "duration": "01:09:09",
+  "imageUrl": "https://static.ra.co/images/podcast/ra056-stefan-goldmann-c.jpg",
+  "contentUrl": "/podcast/56",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra056/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:995"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Berlin native and part-time Sofia resident Stefan Goldmann has released records on Derrick Carter’s Classic label, Perlon and Front Room, but perhaps his biggest success has been the ‘Sleepy Hollow’ EP for Innervisions, a deep house record described on RA as “Elegant, like Audrey Hepburn in a little black dress.” It was released in 2006 and it’s still going strong – you can find it on Âme's new ‘Coast2Coast’ mix for NRK and Radio Slave's latest mix for MOS ‘Radio Disco’.\n\nGoldmann is also a DJ, prone to adventurous mixing of anything from John Zorn to LFO. He cut his teeth both in the clubs – he’s touring Europe over the next few months – and on an obscure radio show Lektric Forms broadcasting out of London. For his RA podcast, Goldmann eschews the traditional club mix in favour of a more experimental, inclusive approach, finding space for everything from Minilogue to Theo Parrish. Stefan chats to RA about the mix and his various musical projects:\n\n<b>What have you been working on recently?</b>\n\nStarting my label Macro was a crazy period of hard work. We wanted everything to be perfect, so it took a lot of time and effort to prepare things. Fortunately the feedback is overwhelming and the first record is doing well beyond expectation, which makes the next steps much easier. I also did remixes for DJ Gregory and Sideshow that will be out this summer, plus a fair deal of DJing of course.\n\n<b>Where was the mix recorded?</b>\n\nIn my studio. I believe a club mix just doesn't use the whole range of what's possible in an hour of music. There is more to the art of DJing than can be represented in a club set. I also feel what happens in the club should be only for the people who spent their night there. It rarely makes sense out of context. So that's why I tried to come up with something a little different.\n\n<b>What are you up to next?</b>\n\nEarlier this year I was basically doing nothing but remixes, which just consumed all of my studio time. I had to put that on hold for the next couple of months, although sometimes it's really hard to put down requests by artists or labels I really respect. But nothing feels as good as being able to work on my own music again. So I'm finally composing new stuff for Macro, Innervisions and Perlon again. I’m also working on some quite experimental stuff, but that's early stages now. I'm further developing Macro, negotiating a tour of Japan for the fall (I really hope that will happen) and doing a lot of DJ gigs before I go on summer holiday in August. Something else I'm really looking forward to!",
+    "blurb": "This week's RA podcast is from German DJ and producer Stefan Goldmann."
+  }
+}

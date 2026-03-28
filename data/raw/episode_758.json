@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "758",
+  "url": "https://ra.co/podcast/758",
+  "id": "758",
+  "__typename": "Podcast",
+  "title": "RA.758 Tailor Jae",
+  "date": "2020-12-14T00:00:01.000Z",
+  "fileSize": 157452452,
+  "duration": "01:01:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra758-tailor-jae-cvr.jpg",
+  "contentUrl": "/podcast/758",
+  "tracklist": "Gnischrew - Good for You\nColdpast - York St Eulogy\nLCY - Milan\nYosh - What I need\nHardy Caprio - Guten Tag (Dom Perignon Remix)\nJuice Menace - No speaking (Tommy Kid UKG edit)\nCapo Lee & D Double E - Mud (Josh Koshin Flip)\nStyx - Bulu\nEl-B ft Nico - This Thrill\nYoungstar - Pulse X (ALXZNDR ADHD Version)\nManul & Energy Man - Gym & Yay\nGeneral Courts - Lazy Moments - (Calm Stiege Refix)\nTraxman - Get down lil bit\nPeter van Hoesen - L9T\nPouch Envy - (Un)Matched Failed\nAbra Cadabra - Spin this coupe\nFrosty x OFB - Hate on us (Instrumental)\nDizzee Rascal - Pagans\n1point5 - Deliverance\nKarma - Crampton Beat\nNiels Binias & Atsuko - Lock Jaw Dub\nDrumterror - Burn the pagan\nTraces - Nature VIP\nGru Var - TNO\nPJam - Arizona Skyz VIP\nT- Break - Hustlers - Hardcore\nBMan - Ready Fi Dubplate\nRyan M Hughes - Bobby's",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/947271355",
+  "keywords": "Point Blank, grime, drill, garage, jungle, broken beat, London, ",
+  "artist": {
+    "id": "79071",
+    "__typename": "Artist",
+    "name": "Tailor Jae"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tailor Jae is in a spot many young DJs find themselves in the end of 2020: a gigging career ground to halt just as they were on the precipice of wider international success. The London DJ has been working up a storm as if there was no pandemic, however, releasing mixes for major platforms all year and sharpening a sound that has real crossover potential. Jae has been interviewed several times in these pages—she was the recipient of <i>RA</i>'s <a href=\"/news/42159\">scholarship</a> with music school Point Blank—and she usually comes back to one idea: \"playing whatever I want.\"\n\nFor Jae, that means threading in grime, drill and rap in between bubbly garage, jungle and broken beat UK club sounds. For her, there's no difference between any of these things, which is kind of how it should be, and it offers an accessible way into club music for outsiders or dilettantes. With killer taste, an ear for hooks and a well-honed DJing style, it's easy to imagine her being a big radio DJ one day, breaking new tunes for the mainstream and introducing them to underground club music. For now, she's just one of London's best young DJs.\n\n<b>What have you been up to recently?</b>\n\nI'm back at work now, so mainly working and then working on mixes, music when I get some free time.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix at home on my CDJs.\n\n<b>Can you tell us the idea behind this mix?</b>\n\nCreatively at the time I was doing the mix, I had a massive block so ideas weren't flowing as they would usually. I knew I wanted to keep the vibes very London, meaning for me just a bit gritty, in your face but I also wanted to stick to my signature style of playing whatever I want, I think I did that. There's a few more remixes and edits in this one.\n\n<b>Your DJing career really started to kick off right before the pandemic, which obviously put a wrench in things. Has this period changed the way you think about/approach DJing at all?</b>\n\nYeah a lot of cool opportunities arose quite early on in the year, very unexpected opportunities to be honest, but super cool ones, it was unfortunate that I didn't get to see those through. But everyone is in the same boat, so I've just accepted that what will be, will be. I'll be honest and say it did lead me to think if I could continue DJing the way I envisioned, steady and full time. Life is full of surprises so you just ride the wave, I've continued to do mixes and sets where I could so my approach hasn't changed, I guess, but my thinking hat has definitely been on, I really don't know where things are heading next but I'm keeping an open mind.\n\n<b>Last time we spoke, you were talking about improving your production skills and making tracks. How's that going for you?</b>\n\nYeah it's cool, I've had a bit more time to work on tracks given the climate, so yeah, keep your eyes peeled. \n\n<b>What are you up to next?</b>\n\nLol no idea. It's hard to make definitive plans because of the current climate, so I'm just doing what I always do making no plans and seeing what comes my way. \nIt's worked for pretty much my whole career so I'll just continue, taking and making opportunities as they come. I have a few bookings lined up for 2021 so hopefully I'll get to do those.",
+    "blurb": "Lively UK club sounds from a rising London DJ."
+  }
+}

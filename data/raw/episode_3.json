@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "3",
+  "url": "https://ra.co/podcast/3",
+  "id": "3",
+  "__typename": "Podcast",
+  "title": "RA.003 Jay Haze",
+  "date": "2006-03-20T00:00:19.000Z",
+  "fileSize": 66133469,
+  "duration": "01:08:52",
+  "imageUrl": "https://static.ra.co/images/podcast/ra003-jay-haze-cover.jpg",
+  "contentUrl": "/podcast/3",
+  "tracklist": "<b>Artist featured in the podcast include:</b>\nFalko Brocksieper, Akiko Kiyama, Inxec, Fuckpony, Bearback, Shyza Minelli, Krak Street Boyz, Aregnix Brito, Samim and Michal, Peter F Spiess, and others.",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra003/",
+  "keywords": "",
+  "artist": {
+    "id": "701",
+    "__typename": "Artist",
+    "name": "Jay Haze"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Acclaimed producer behind the Contexterrior stable Jay's tracks have appeared on M.A.N.D.Y's Body Language to Richie Hawtins DE9:Transitions and Portable's hot Süd Electronic label.\n\nOriginally from rural Pennsylvania, Haze hopped around the states before relocating to Europe in 2003, working first out of Amsterdam and now Berlin. \n\nA prolific producer, Jay manages a stable of labels including <a href=\"http://www.tuningspork.com/\">Tuning Spork</a> (tech-house), <a href=\"http://www.futuredub.com\">Future Dub</a>(dub), <a href=\"http://www.textone.org\">Textone</a> (net label) and <a href=\"http://www.contexterrior.com\">Contexterrior</a> (deep glitch and ultra-minimal), where he has releases under his own name, The Architect and Dub Surgeon guises. He has collaborated with Ricardo Villalobos, Robag Wruhme and more recently Samim Winiger (as Bearback and Fuckpony). His tracks have appeared on everything from Fabric Compilations (Tyrant 15), M.A.N.D.Y's Body Language to Richie Hawtins DE9:Transitions and Portable's hot Süd Electronic label. \n\nHaze's production talents can also be seen in his DJ sets. Jay has toured extensively across Europe and Japan, his three-deck Final Scratch sets dropping new-school minimal and dub alongside the odd bad-ass Detroit classic. \n\nJay gave RA the lowdown on what's been keeping him busy...\n\n<b>What have you been working on recently?</b>\nI have been working hard on building the label up, we have so much new music from all these great artists, it really keeps me busy. I have also been spending the last weeks building up our <a href=\"http://www.contexterriorbookings.com\">in-house booking agency</a>, which has just launched today! \n\nI have of course been playing most weekends to crazy freaks, and loving every minute of it! I've been exploring many different music styles, keeping sharp and positive. Life is good! This past weekend was a little crazy, went from Friday night in Valencia, to Saturday night with M.A.N.D.Y. in Istanbul - what a different place.\n\n<b>Where was the mix recorded?</b>\nThe mix was recorded in the Ultradope Syndrome headquarters in Mitte, Berlin. This is where all the magic happened :-)\n\n<b>What are you up to next?</b>\nJust staying doing the same thing, working hard. I've got a new single and following album coming up as <b>Fuckpony</b> on Berlin based label <a href=\"http://www.residentadvisor.net/label_view.asp?ID=403\">Get Physical</a> and we are working on our second album now for the project <b>Bearback</b> from <a href=\"http://www.tuningsporkfamilyaffair.com\">Tuningspork Family Affair</a>. The labels <a href=\"http://www.tuningspork.com/\">Tuning Spork</a>, <a href=\"http://www.futuredub.com\">Future Dub</a>, Junion and <a href=\"http://www.contexterrior.com\">Contexterrior</a> are all very active at the moment with hot new releases - so this keeps me pretty straight.\n\nI have also been doing a bunch of cool remixes that will come out sometime this year, including a wicked paranoid remix of \"Big Brother\" for John Selways label CSM. As for touring , I am palying quite frequently in clubs, but am planning a tour sometime later in the year. Remember, Contexterrior Media loves you.",
+    "blurb": "The third Resident Advisor podcast comes from Jay Haze. "
+  }
+}

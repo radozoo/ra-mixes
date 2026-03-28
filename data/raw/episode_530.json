@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "530",
+  "url": "https://ra.co/podcast/530",
+  "id": "530",
+  "__typename": "Podcast",
+  "title": "RA.530 MCDE vs Jeremy Underground",
+  "date": "2016-07-25T00:00:21.000Z",
+  "fileSize": 638645916,
+  "duration": "08:51:51",
+  "imageUrl": "https://static.ra.co/images/podcast/ra530-mcde-underground-cvr.jpg",
+  "contentUrl": "/podcast/530",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra530-mcde-underground-cvr",
+  "keywords": "Danilo Plessow, Jeremy Fichon, Robert Johnson, soul, disco, funk, jazz, boogie",
+  "artist": {
+    "id": "39302",
+    "__typename": "Artist",
+    "name": "Jeremy Underground"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As a duo, Danilo Plessow (Motor City Drum Ensemble) and Jeremy Fichon (Jeremy Underground) make total sense together. They both got their break as house DJs, fond of classic and rare grooves, before their styles broadened significantly to include jazz, soul, disco, funk and boogie from around the world. They both find plenty of this music through obsessive digging, going to great lengths to source unheard and underappreciated records. As part of this ongoing pursuit, they both belong to a loose community of like-minded \"digger DJs\" that also includes Floating Points, Sadar Bahar, Red Greg and Hunee, among others. Needless to say, Plessow and Fichon both cherish vinyl. They prefer to play on rotary mixers, and both practice a type of modern disco DJing that's as much about technique as it is attitude. And, as Plessow explains below, they both have plenty in common when it comes to \"life and experiences.\"    \n\nDespite the obvious chemistry, Plessow and Fichon have only become friends and collaborators recently. They played together for the first time last year at Dimensions festival, an impromptu back-to-back <a href=\"https://www.youtube.com/watch?v=rAskFJJCFJo\">closing set</a>. (Fichon is returning to Dimensions this year, and will be joining Suzanne Kraft for RA's <a href=\"/news.aspx?id=34876\">boat party</a>.) They've DJ'd together since, but as part of RA's ongoing <a href=\"/promoter.aspx?id=59455\">In Residence</a> series we were excited to give them the canvas of an entire night—Offenbach's Robert Johnson from opening to close. If we can say this ourselves, the night wound up being pretty legendary. The club was packed throughout, with everyone hanging off the pair's every beat. RA.530 is a full recording of the party, an unprecedented (almost) nine-hour podcast that's something of a DJing master class. \n\n\n<b>What have you been up to recently?</b>\n \n<b>Plessow:</b> I've relocated from Amsterdam to Paris, which took up quite a bit of time, plus I've been playing pretty constantly every weekend.\n\n<b>Fichon:</b> Been taking care of myself and reduced the amount of gigs I was playing, since I had some kind of burnout earlier this year. Totally unrelated to music but I started a sugar-free diet in June and I'm feeling younger and fresher than ever!\n\n<b>Why did you guys decide to start playing together?</b> \n \n<b>Plessow:</b> I knew and liked Jérémy's label [My Love Is Underground] before I met the guy behind it. It was Sam (Floating Points) who actually put me onto Jérémy, speaking about his pretty stellar collection of 7-inches, which of course had me very interested to meet him. Turned out we share a lot of things in music, life and experiences we went through, so it's safe to say we get along quite well. \n\nThen I think it was at Dimensions that we started playing back-to-back, and it's been fun. There are not many DJs I feel good playing with—the concept of b2b, which seems to be the latest en vogue thing to add to festival lineups, can sometimes also seem very forced and not work that well. So yeah, with J I feel like we talk the same language, so it's a nice thing. Robert Johnson was pretty magical. \n\n<b>Jérémy:</b> Danilo and I should have connected a long time go but for some reason we only met in 2014. We're into the same kind of music, so it's always fun to share the decks! I have nothing but respect for Danilo, he's been pushing the quality disco (to make it short) vibes to a wide audience\n\n<b>What are you up to next?</b>  \n \n<b>Plessow:</b> I'm in the process of rebuilding my studio, better and bigger than ever, and in a place far removed from the hustle and bustle of the big cities, in rural south Germany. I can't wait to finally get back to working on my own music, I really missed it. Other than that, Marcus Worgull and I are finishing the second Vermont album for Kompakt, and I'm grateful to be playing lots of shows throughout the summer. \n\n<b>Fichon:</b> I have this soul/funk compilation coming out in September on Spacetalk, I'm super excited about it, it's the first time I'm officially doing something different than \"just house.\" Besides that, I'm finally relaunching My Love Is Underground after a three-year break. ",
+    "blurb": "Nine hours, back-to-back, live from Robert Johnson. "
+  }
+}

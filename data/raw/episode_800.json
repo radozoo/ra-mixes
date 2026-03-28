@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "800",
+  "url": "https://ra.co/podcast/800",
+  "id": "800",
+  "__typename": "Podcast",
+  "title": "RA.800 UNIIQU3",
+  "date": "2021-10-03T22:00:57.000Z",
+  "fileSize": 142597321,
+  "duration": "00:59:15",
+  "imageUrl": "https://static.ra.co/images/podcast/RA800-UNIIQU3-v2.jpg",
+  "contentUrl": "/podcast/800",
+  "tracklist": "UNIIQU3 - Outside Wit It \nPop That \nBlack Eyed Peas - Boom Boom Pow(DJ Dru Remix) \nTT The Artist & Mighty Mark - Pussy Ate\nPlay Play - Turomance\nUNIIQU3 - Microdosing\nVictoria Monet - Touch Me (Leonce Refix) \nUNIIQU3 - Unavailable \nDJ Swisha & Kaynon - Fleece\nBeyoncé - Fleece (DJ Sliink & DJ Big O Remix) \nMary J Bliege - Just Fine (Leemz Remix) \nUNIIQU3 - UNIIQU3's Groove (Get Down) \nCity Girls - Act Up (DJ K Duecez Remix) \nDJ K Shiz feat. Moon & UNIIQU3 - Twerk Heaven\nUNIIQU3 & Ase Manual - 2 The Floor\nPick Em Up \nUNIIQU3 - Breakin Necks\nUNIIQU3 - Blow That Bag\nCardi B - Money Bag (UNIIQU3 Remix) \nUNIIQU3 & DJ 809 - Move Ya Body\nBianca Oblivion, Mad XL, UNIIQU3, Thai Chi Rose, Charly Gynn - Bubble Pon Di Bed Remix\nAse Manual - Shakti (UNIIQU3 Remix) \nL-Vis 1990 x Sinjin Hawke feat Cam & China - Cake (UNIIQU3 Remix) \nAni Lennox - BMO (UNIIQU3 7 Wiz Remix) \nIV Jay - No Fun (UNIIQU3 Remix) \nMegan Thee Stallion - Big Ole Freak (UNIIQU3 Remix) \nUNIIQU3 - The Anthem\nUNIIQU3 - Digital Diva 2.0 -\nUNIIQU3 - Rave In My Room\nUNIIQU3 - Commas\nUNIIQU3 - Do What I Want",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1135504924",
+  "keywords": "Jersey club, Heartbeats, East Coast club",
+  "artist": {
+    "id": "55848",
+    "__typename": "Artist",
+    "name": "UNiiQU3"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "UNIIQU3 is a force. She's New Jersey's self-proclaimed \"club queen,\" but anyone even close to her orbit would call her that themselves, anyways. Since she became involved in the Jersey club scene she's evolved into one of its most prominent, dynamic and creative talents, bringing the regional sound to the masses while also repping other regional East Coast club sounds. And she's always made her success about bringing everyone else up with her: she's a diehard supporter of Black dance music and its history, even going viral last year with a Spotify playlist simply called \"<a href=\"https://open.spotify.com/playlist/6GXo3G4M0wrOVI7yTkYviz?u=\">Techno Is Black</a>.\" (It's an excellent resource, updated regularly.) She's about to release her most ambitious record yet, <a href=\"/news/76105\"><i>Heartbeats</i></a>, which highlights her singing, rapping and general lyricism, for what she promises is her most personal record.\n\nBut even as she gets vulnerable on her productions, UNIIQU3 remains a thrilling, one-of-a-kind DJ who exemplifies everything fun, exciting and addictive about Jersey club music. The stuttering beats, the energetic vocals, the familiar samples that weave in and out, repeating until they're burned in your brain—it's all here on our landmark 800th <i>RA</i> Podcast. \n\nHeavy on UNIIQU3 originals with edits of everyone from Beyoncé to the Black Eyed Peas to City Girls, it's a genre-hopping, generation-spanning mix that mixes athletic, slamming beats with candy-sweet hooks, as well as a show-stopping second half that shows the breadth (and quality) of UNIIQU3's productions. We couldn't be more thrilled to have a trailblazing artist like UNIIQUE for the 800th <i>RA</i> Podcast, and her mix speaks to all the different influences, scenes and musical relationships that make her... well, we'll resist the pun, but she's one of a kind.\n\n<b>What are you grateful for these days?</b>\n\nI'm grateful for everything, especially being a melanin rockstar. \n\n<b>How and where was the mix recorded? Can you tell us the idea behind it?</b>\n\nThe mix was recorded in my room, where most of the magic happens. I just wanted to flex all the productions I've made over the year. I had a blast doing it. Had popped a bottle of Champagne and rolled a fat one and got lost in it. My neighbors banged on the wall three times lol. I took that as a sign I was KILLIN' shit. \n\n<b>What, to you, is most special or notable when it comes to DJing Jersey club / East Coast club music, compared to other genres/styles?</b>\n\nI think it's the attitude we put into the music. You just feel it when you hear—it's not really something I can verbally describe. \n\n<b>How has your DJing style evolved over the years?</b>\n\nI've evolved so much. I'm living up to my name UNIIQU3. My sets are always filled with exclusive Jersey club / club music cuts you cannot get without an energy exchange (personal relationship). I always appreciated those gems even having stuff before the internet changed music is beautiful to have. Now I definitely blend other genres that inspire me and I play a generous amount of my songs because hello that’s what my Clubheads want. I've also incorporated rapping and singing into my sets with dancers to match my energy. I may branch off into doing JUST live sets but we’ll see.  \n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nStuck between global warming and homelessness.",
+    "blurb": "On our 800th RA Podcast, New Jersey's club queen spreads the East Coast club gospel."
+  }
+}

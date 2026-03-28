@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "575",
+  "url": "https://ra.co/podcast/575",
+  "id": "575",
+  "__typename": "Podcast",
+  "title": "RA.575 SIT",
+  "date": "2017-06-05T00:00:22.000Z",
+  "fileSize": 185659947,
+  "duration": "01:17:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra575-sit-cvr.jpg",
+  "contentUrl": "/podcast/575",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/326518130",
+  "keywords": "Cristi Cons, Vlad Caia, Amphia, Rhadoo, Petre Inspirescu, Amorf, Mischa Blanos ",
+  "artist": {
+    "id": "17035",
+    "__typename": "Artist",
+    "name": "SIT Amphia"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Cristi Cons and Vlad Caia specialise in mesmerising loops. Based in Bucharest, they produce, play live and DJ together as SIT, which is short for Sideways Invisibility Theory. Like many of their fellow Romanian artists, they produce a deep and trippy sound suited to long DJ sets and afterhours partying. Cons and Caia are both trained classical musicians, a background that no doubt informs their rich minimal sound. \n\nSince forming SIT in 2009, the pair have released most of their music on Amphia, the low-key but much-loved label they christened with Cons' <i>Traversa</i> EP in 2011. It's now among minimal's top imprints, with a catalogue that includes SIT's expansive three-part <i>Sideways</i> album and records from Petre Inspirescu and <a href=\"/reviews/18005\">Rhadoo</a>.  \n \nComprising 80 minutes of tunes new and old, this live set is the first podcast Cons and Caia have recorded. Heavy on subtle details and strung together with rolling beats and killer grooves, it captures the hypnotising best of what they have to offer. \n\n\n<b>What have you been up to recently?</b> \n\nWe've been quite busy rehearsing and recording for our new Amorf project with our friend Mischa Blanos as well as working on new SIT material.\n \n<b>How and where was the mix recorded?</b>\n\nWe recorded the set in our studio with the entire live setup we use on stage.  \n \n<b>Can you tell us about the idea behind the mix?</b>\n\nOur live set has been through constant changes over the years. Initially we started with the idea of doing a live show based on the tracks from our <i>Sideways</i> album that was released last year on Amphia. Nowadays we focus more on the improvisation aspect of the performance. \n  \n<b>You specialise in a hypnotic and subtle brand of dance music. How do you to adjust to situations that require something more immediate?</b>\n\nWe have a flexible setup and we can change the way it sounds depending on the situation. We enjoy adapting our set all the time. It becomes interesting and slightly unpredictable which makes every performance unique.\n \n<b>You both have strong ties to classical music. What do your friends and family from that world think about the music you make now?</b>\n\nOur parents have been a big influence on our musical development. They have encouraged us to take a more melodic approach and we often listen to their opinion as they have a different perspective. They enjoyed the more elaborate tracks from the SIT album as well as the Amorf tracks.                       \n \n<b>What are you up to next?</b>\n\nWe are planning some changes to the studio. We have a lot of material to work with these couple of weeks both for Amorf and a new SIT release. We are also rehearsing for Amorf concerts coming up this summer.",
+    "blurb": "Cristi Cons, Vlad Caia and the art of the loop."
+  }
+}

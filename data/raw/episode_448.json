@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "448",
+  "url": "https://ra.co/podcast/448",
+  "id": "448",
+  "__typename": "Podcast",
+  "title": "RA.448 DJ Taye",
+  "date": "2014-12-29T00:00:08.000Z",
+  "fileSize": 146343904,
+  "duration": "01:00:52",
+  "imageUrl": "https://static.ra.co/images/podcast/ra448-dj-taye-cvr.jpg",
+  "contentUrl": "/podcast/448",
+  "tracklist": "DJ Taye - Blurry\nDJ Earl & DJ Taye - Do This Again\nDJ Rashad & DJ Manny - Paid N*ggas\nDJ Earl & DJ Taye - Wurkinn Da Bass\nDJ Manny - Harvey Ratchet\nDJ Taye & DJ Manny - Instathot\nHeavee - Bounce 1 Time\nDJ Taye & Heavee - Halfbaked\nDJ Rashad & Spinn - Nobody Does It\nHeavee - 8 Bit Sh*t\nDJ Rashad x Spinn x Taso x Manny - OTS\nDJ Taye & DJ Manny - The Matrixx\nDJ Chap - Glacier Bae\nDJ Rashad - Footworkerz Onli\nDJ Spinn x Taso - Burn That Kush\nDJ Taye - TROY VIP\nTaso - Drop That Thang\nDJ Earl x DJ Taye x DJ Manny - Lotta A$$\nDJ Tre - DNB Spaceout\nDJ Spinn - Thots\nDJ Taye & DJ Manny - Yo Girl A Thot\nRP Boo - That's It 4 Lil Ma\nDJ Taye - Mana \nDJ Earl Feat. DJ Rashad & DJ Taye - Bombaklot\nDJ PayPal - FM Blast\nDJ Taye & DJ PayPal - Go Away \nDJ Taye - What You Think \nDJ Earl x DJ Taye x DJ Manny - Indianshxt\nDJ Manny - Down On My Luck \nDJ Taye - Get Down\nDJ Taye & DJ Earl - Killin' My Vibe\nDJ Rashad, Spinn & Taso - CREAM VIP\nDJ Taye - TEKLIFE RUNNIN IT\nDJ Manny - Kush In My Lungz (DJ Taye 2014 VIP)\nDJ Manny x Jalen - New Groove \nDJ Taye - On Fire\nDJ Rashad & DJ Earl - I'm Too Hi\nDJ Earl x DJ Manny x DJ Taye - Videa\nDJ Rashad - Computer Shit \nDJ Taye - Picasso",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra448/",
+  "keywords": "Teklife, Ghettoteknitianz, footwork, Chicago, Dante Sanders, TOG, Rashad",
+  "artist": {
+    "id": "52300",
+    "__typename": "Artist",
+    "name": "DJ Taye"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Teklife, the Chicago crew founded by Rashad, Spinn, Traxman et al as Ghettoteknitianz, has become synonymous with footwork itself. It only takes one listen to the group's recent <a href=\"/review-view.aspx?id=16089\"><i>Next Life</i></a> compilation to see the musical and geographical reach they have now. Even as they make waves globally, however, Teklife's core remains in Chicago, where they're inspiring a younger generation of artists who are practically growing up on footwork. Dante Sanders, AKA DJ Taye, proudly calls himself Teklife's \"youngest member.\" He's been producing and playing out since he was a preteen, and with a remarkably graceful mixing style and quality tracks under his belt, he's among the most exciting prospects of Teklife's new breed.\n\nTaye's RA podcast makes it pretty obvious why. He focuses on the genre's soulful side, overflowing with melody, bright synths and hooky basslines. The hour-long mix fully showcases Teklife's extensive roster—including other hotly tipped artists like DJ Earl and DJ Paypal—making Taye's mix feel celebratory. Like <i>Next Life</i>, it's a document of footwork's continued evolution and a reminder of the late DJ Rashad's towering influence over the genre.  \n\n<b>What have you been up to recently?</b>\n\nRecently I've been collaborating with Manny and Earl heavily, playing local shows and I did a Europe tour in October along with Earl. \n\n<b>How and where was the mix recorded?</b>\n\nThis mix was recorded live at T.O.G. practice, a footwork group from Chicago's south suburbs. I recorded it live while they practiced.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThroughout the mix I just wanted to make listeners hear the <i>Next Life</i> compilation in a different form, mixed with new and old tunes from myself and the rest of the Teklife crew. \n\n<b>You're touted as the youngest member of the Teklife crew. How and when did you get into footwork?</b>\n\nI got into footwork in 2007, when I was 13, when my friends would bring Rashad, Spinn, Manny and Earl tracks around me and practice footworking everyday. I just got into it heavily after that because I was already making rap beats two years before that. The stuff I was hearing from the guys back then really inspired me.\n\n<b>What do you think it is about Teklife that breeds a sense of community and collaboration?</b>\n\nTeklife breeds community and collaboration so much because even though we're artists and DJs, we love to interact with the people who like our music. It keeps us going, keeps us wanting to do better. \n\n<b>What are you up to next?</b>\n\nFor the future, I'll be working with my Teklife family on our forthcoming releases, focusing on touring more and collaborating with a few rap artists as well.",
+    "blurb": "The Teklife crew closes out 2014. "
+  }
+}

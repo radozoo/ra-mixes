@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "426",
+  "url": "https://ra.co/podcast/426",
+  "id": "426",
+  "__typename": "Podcast",
+  "title": "RA.426 Oliver Hafenbauer",
+  "date": "2014-07-28T00:00:13.000Z",
+  "fileSize": 218673802,
+  "duration": "01:31:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra426-oliver-hafenbauer-cvr.jpg",
+  "contentUrl": "/podcast/426",
+  "tracklist": "Jaures - L.M.\nBochum Welt - Saint (Heiner Müller Z Version)\nAurora Halal - Overpass \nSamo DJ - Tai Po Kau \nGesloten Cirkel - Yamagic\nMoiré - BBOY 202\nPrince Of Denmark - Cut02 \nDoubt - Captain Hours\nPaperclip People - Parking Garage Politics\nRobotman - Never (DBX Mix)\nOrson Wells - Endless\nOmar S - Strider's World\nBenedikt Frey - Seven Corridors\nJaures - Tsoyberbarg Pt. 2\nOndo Fudd - Coup D'Etat\nKassem Mosse - We Speak To Those\nMartyn - Vancouver",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra426/",
+  "keywords": "Robert Johnson, house, Offenbach, Frankfurt",
+  "artist": {
+    "id": "2793",
+    "__typename": "Artist",
+    "name": "Oliver Hafenbauer"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Conventional wisdom dictates that people produce music and then get DJs gigs relative to the level of success their records attain. Oliver Hafenbauer isn't a famous producer, but his behind-the-scenes work at Robert Johnson, the highly respected Offenbach venue, has given him a platform to show just how great a DJ he is. If anything, his role as a music director at the club is arguably more complementary to DJing than making music, closely considering, as he does each day, who and what moves a discerning dance floor. Hafenbauer also takes care of Live At Robert Johnson, the club's in-house label. LARJ hosted a much-loved mix CD series—Dixon, Ivan Smagghe, Roman Flügel and Prins Thomas all contributed editions—but these days the label is focussed on releasing high quality club music from its extended family—Massimiliano Pagliara, Arto Mwambe et al—and beyond. When also you consider that Hafenbauer has a hand in Club Michel, the restaurant connected to Robert Johnson, it's impressive that he maintains a gig schedule that sees him playing Europe's better nightclubs most weekends.   \n\nAs he showed those who stayed until the end of <a href=\"/event.aspx?573478\">our recent Robert Johnson party</a>, Hafenbauer can bang it out with the best of them. But you can usually find him keeping things steady with an expert selection of house, disco, techno and electro, as he does on this week's RA podcast.  \n\n<b>What have you been up to recently?</b>\n\nI've been busy working. Both labels—Die Orakel and Live At Robert Johnson—need a lot of time. Also programming Robert Johnson and the restaurant, Club Michel, require at lot of attention; with travelling and DJing on the weekend, I'm sometimes working seven days a week. But I don't want to complain, I enjoy everything I do and I work with a lot of lovely people.   \n\n<b>How and where was the mix recorded?</b>\n\nMy studio set-up at home is miserable, it's nearly impossible to record a mix there. I kindly asked TCB (The Citizen's Band) if I could record the podcast at his studio. He was up for it so we met on an evening in June, had a couple drinks and two recording sessions and the mix was finally ready.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nTo arrange dance music I like, by producers I follow, in an order that makes sense to me.\n\n<b>How have you looked to differentiate your own label, Die Orakel, from what you do at Live At Robert Johnson?</b> \n\nI founded Die Orakel because I felt the strong need to start something on my own. At Live At Robert Johnson, I'm the label manager and A&R, and after more than 30 releases the label found its sound identity. With Die Orakel I'll follow a different path and feature music that is indecisive between experimental and dance music.  \n\n<b>Is your DJing rooted in any particular philosophy or approach?</b> \n\nBasically I like all kinds of repetitive music—disco, house, techno—and try to combine all genres in one night or set. But not only a particular approach in a DJ set is important to make it a good party: also external influences like an educated crowd and a good technical standard at the venue. I feel most comfortable DJing with a rotary mixer, preferably a Rane MP/XP2016, all kind of isolators, two Technics turntables, two Pioneer CDJ2000 NXS and a well-maintained sound system.\n\n<b>What are you up to next?</b> \n\nHolidays.  \n\n\n<i>Photo credit: Marc Krause</i>",
+    "blurb": "The man from Robert Johnson shows his wares. \r\n"
+  }
+}

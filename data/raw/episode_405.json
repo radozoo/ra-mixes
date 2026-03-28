@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "405",
+  "url": "https://ra.co/podcast/405",
+  "id": "405",
+  "__typename": "Podcast",
+  "title": "RA.405 Galcher Lustwerk",
+  "date": "2014-03-03T00:00:37.000Z",
+  "fileSize": 198646745,
+  "duration": "01:22:35",
+  "imageUrl": "https://static.ra.co/images/podcast/ra405-galcher-lustwerk-cvr.jpg",
+  "contentUrl": "/podcast/405",
+  "tracklist": "Spaceghostpurrp - Iz Thiz Da Footure\nTsutchie - New Dimensions\nKenji Kawai - Access\nSpider Bites - Oscillation 7 (DD's Late Night Edit)\nBlack Moon - Slave\nGalcher Lustwerk - I Don't Care\nSensations Fix - Cold Nose Part 3, 4th Movement\nLFO - Premacy\nKing Geedorah - Fast Lane\nNobuo Uematsu - If You Open Your Heart\nUnderworld - Something Like a Mama\nPlacid Angels - Now and Always\nGalcher Lustwerk - This How We Roll\nGalcher Lustwerk - Come Over\nMorgan Louis - ok none\nDJ Richard - Cilice (Wearing the White-shirt)\nKing Chip ft. Ray Cash - 7am on St. Clair\n3rd Pxwer - The Ghost of Chad\nHeadlock - B\nKa - Nothing Is",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra405/",
+  "keywords": "White Material, House, New York, Deep house, Blowing Up the Workshop, Tsuba Limited",
+  "artist": {
+    "id": "44260",
+    "__typename": "Artist",
+    "name": "Galcher Lustwerk"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Galcher Lustwerk's vocal style is reminiscent of the literary \"iceberg theory\"— leaving certain things unsaid is more powerful than stating them. Combining just a few well-chosen words with stripped-back house beats has been a potent signature sound for the White Material artist. This approach was showcased last year on his debut single, <a href=\"/review-view.aspx?id=12732\"><i>Tape 22</i></a>, and then on his <a href=\"https://soundcloud.com/galcher-lustwerk/100-galcher-mono\">100% Galcher mix</a> for <i>Blowing Up The Workshop</i>, which RA writers voted their <a href=\"/feature.aspx?1971\">favourite online mix</a> of 2013. \"It started from trying to make rap records,\" he <a href=\"/feature.aspx?1843\">told us</a> last year. \"I became more and more interested in using words to communicate ideas—but only inferred ideas, not explicitly explained ones.\"  \n\nThis month the US producer will release his second solo EP, a vinyl-only effort for UK label Tsuba Limited. Galcher's RA podcast offers a glimpse into his wider inspirations, and it's little surprise that vocals play a central role. Recorded in mixtape-style, spoken-word interludes and raps are interspersed with experimental cuts and a few of his unreleased tunes. \n\n<b>What have you been up to recently?</b>\n\nTraveling, DJing, busywork, moneywork, funnywork.\n\n<b>How and where was the mix recorded?</b>\n\nLaying in bed on my laptop with Ableton.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nBasically it's a bunch of random tracks that I've been really into and have wanted to compile for a while. Some I've picked because of the overall sound, others because of their subject matter. It's more of a mixtape than a DJ mix.\n\n<b>Is there a vibe or a general message you look to put across with your vocal performances?</b>\n\nI just want people to have a good time and to dance!\n\n<b>Are there hip-hop MCs whose style you particularly respect?</b> \n\nOff the top of my head; Yung Gleesh, Mac Dre, Future, Doom, Lil B, Juicy J, Yung Simmie, Purrp, Freddie Gibbs, Lil Durk, Bone Thugs, Hieroglyphics, Buckshot...\n\n<b>What are you up to next?</b>\nA 12-inch on Tsuba Limited, some remixes, and playing parties all over the place. I'm extremely grateful for all the support I've gotten so far and hope to further crystallise my vision as I start work on my next release for White Material Records.",
+    "blurb": "White Material's dark horse steps forward. "
+  }
+}

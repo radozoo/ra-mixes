@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "33",
+  "url": "https://ra.co/podcast/33",
+  "id": "33",
+  "__typename": "Podcast",
+  "title": "RA.032 Henrik Schwarz",
+  "date": "2006-11-06T03:36:18.000Z",
+  "fileSize": 57987747,
+  "duration": "01:00:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra032-schwarz-cover.jpg",
+  "contentUrl": "/podcast/33",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra032/",
+  "keywords": "",
+  "artist": {
+    "id": "759",
+    "__typename": "Artist",
+    "name": "Henrik Schwarz"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "German deep house veteran Schwarz has been around for a bit, but it looks like 2006 is shaping up to be his year. As a DJ, his live laptop rejigs have been rocking parties from London to Tokyo and back again, and last week he dropped his debut compilation on !K7 for the long-running 'DJ Kicks' series.\n\nAs a producer, Schwarz is perhaps best known for his collaboration with countrymen Âme & Dixon on this year’s huge revamp of Derrick Carter’s ‘Where We At’. He also releases souled-out house on his own label Sunday Music (so named because he originally produced only on Sundays) and recently his tracks have been popping up on mix CDs by everyone from Ame and Tommie Sunshine to Joe Clausell. Electrohouse duo M.A.N.D.Y are big fans – his remix of Wei Chi's 'Faces and Places' closes out their 'Body Language 1' compilation and his Coldcut remix 'Walk A Mile In My Shoes' features on their 'At the Controls' mix.\n\nTechnoheads also appreciate their Henrik too: he’s remixed Alex Smoke, and the pattern techno of tracks like ‘Jimis’ are the ying to the undeniable party yang of tracks such as his ‘Leave My Head Alone Brain’ from 2005. Henrik’s latest single 'Imagination Limitation' drops this month on !K7 so check it out. Or download the RA Podcast – all three cuts feature here.\n\nIn case you were wondering why Henrik's mix for RA features a snip of Stevie Wonder’s ‘Happy Birthday’, it was recorded live at The Key in London for <a href=\"http://www.residentadvisor.net/news.asp?ID=8100\">Phonica Records’ third birthday party</a>. So if you’ve got your own birthday coming up, here’s your secret audio weapon. Enjoy.",
+    "blurb": "This week's podcast is from man of the moment Henrik Schwarz."
+  }
+}

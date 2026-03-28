@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "277",
+  "url": "https://ra.co/podcast/277",
+  "id": "277",
+  "__typename": "Podcast",
+  "title": "RA.277 Cosmin TRG",
+  "date": "2011-09-19T00:00:11.000Z",
+  "fileSize": 66437994,
+  "duration": "00:55:18",
+  "imageUrl": "https://static.ra.co/images/podcast/ra277-cosmin-trg-cvr.jpg",
+  "contentUrl": "/podcast/277",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra277/",
+  "keywords": "Cosmin TRG, Rush Hour, Simulat, Separat, Izolat",
+  "artist": {
+    "id": "4118",
+    "__typename": "Artist",
+    "name": "Cosmin TRG"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It's actually kind of sad that Cosmin TRG's exploration of genres has been a talking point—can't an artist, you know, do more than one thing?—but such is life. The Romanian producer was a dubstep/garage dude when he started out back in 2007, hopped over to house for a bit and is now residing in techno country. One by-product of this restlessness is the name Cosmin TRG (or TRG as he was initially known) has adorned many a leading label these past four years—Hessle Audio, [NakedLunch], Tempa, Immerse Records, Hotflush, Hemlock and Rush Hour being merely a selection of them. The latest to put a welcoming arm around him was Modeselektor's Fifty Weapons. <i>Separat / Izolat</i>, released at the beginning of 2011, signalled Cosmin's intention to get truly stuck into the tough stuff, while it seemed the dream had been fully realised when it was <a href=\"/news.aspx?id=14327\">announced</a> in June that a full-length offering was in the works for Fifty Weapons. \n\nTry as it might <i>Simulat</i> wasn't quite able to shake off Cosmin's roaming past—which is exactly what made it so great; RA.277 suffers the same affliction with exactly the same outcome. This <i>is</i> techno but not quite as you know. \n\n<b>What have you been up to recently?</b>\n\nWell, since finishing my album I've been playing some nice places, reading some pretentious books, putting together Ikea nightstands. Would love to say I'm working on my German but the truth is that every day I hope I wake up magically speaking it without the actual academic / linguistic effort. That would be grand.\n\n<b>How and where was the mix recorded?</b>\n\nIn my living room, on a computer. \n\n<b>Can you tell us about the idea behind the mix?</b> \n\nI've been trying to put this mix together for the past six months, went through all stages of human emotion, made about a million playlists, tried to think of a very clever concept… It only worked when I woke up one day, played a few tracks together and it sort of clicked. Then it sucked, so I recorded it again. And again. In the end the idea was to put together some tracks that I really like, which convey my favourite sonics, from the past as well as the present. I think this one is as accurate as it gets at the moment.  \n\n<b>Now that you've had some time to sit with it, how do you feel about what you recorded for the album?</b>\n\nCuriously I'm still very comfortable with it. Out of everything I wrote in the past years, it comes closest to what I want to sound like. The time I spent on it was the best time I ever spent in a studio, and I actually can't wait to record another one. \n\n<b>You're famously restless when it comes to genres. Do you see yourself sticking with techno for a while?</b> \n\nI'm restless when it comes to sound in general. I think genres are still too political. In my early days as a producer I'd find myself involuntarily trying to prove something, and I'm well over that now. I think my current format fits my ideas and I'll stick to it as long as it suits what I'm trying to say. A lot of people are acting patriarchal over genres and it's not something I'm into. At the same time there's a thin line between experimenting and inconsistency, one which I skirt with equal amounts of pleasure and caution. \n\n<b>What are you up to next?</b>\n\nGoing to turn in a Skudge remix about eight months past its deadline. I'm also happy to have contributed a track on the forthcoming Ann Aimee Inertia compilation. Other than that, a few more things before the end of the year and then taking on 2012 and whatever this will bring. ",
+    "blurb": "Techno through a bass music filter. "
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "65",
+  "url": "https://ra.co/podcast/65",
+  "id": "65",
+  "__typename": "Podcast",
+  "title": "RA.065 Hector",
+  "date": "2007-08-08T14:00:24.000Z",
+  "fileSize": 90214076,
+  "duration": "01:15:09",
+  "imageUrl": "https://static.ra.co/images/podcast/ra065-hector-cover.jpg",
+  "contentUrl": "/podcast/65",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra065/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:1027"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "London has perfected the art of the DJ/shop assistant. By day Hector works alongside fellow DJs Heidi and Simon Rigg at Phonica Records in Soho, by night he's a firm fixture on the city's afterhours calendar.\n\nBorn Hector Morillo (\"You can see why I don't use my last name,\" he laughs), the twenty-six year old arrived in London half a decade ago from Guadalajara, Mexico to score a job at Phonica and work his way up the DJ ranks, both in London at parties such as Kubicle and Mulletover and overseas at clubs such as at Space in Ibiza. These days he holds down a residency at the T-Bar in Shoreditch ('Sonic') as well regularly spinning Phonica parties and London institutions such as Rob Mello's Sunday night endgame Dig Your Own Rave.   \n\nHector's profile is on the rise this summer. He's just moved into production with a debut twelve arriving on Dinky's label Horizontal next month, plus there is also a Hector single out on Phonica's fledgling new baby, the Phonica label, backed by a Martin Buttrich remix. \n\nAs a DJ, Hector has a reputation for knowing how to move a room. His RA podcast catches a bit of that vibe, beginning with bongos (\"Hey, I'm from Mexico so I've got to have a bit of that\") and moving through to the latest and hottest under-the-counter twelves from Phonica. Listen out for some big summer tunes, including Rhadoo's rated edit of St.Germain's 'Rose Rouge', Dubfire's 'Ribcage' and the Italoboyz' 'Viktor Casanova'.\n\n\n<b>What have you been working on recently?</b>\n\nI've been working on some tracks that will come out very soon, one on Dinky's label Horizontal, the other will be the first release on Phonica Records.\n\n<b>Where was the mix recorded?</b>\n\nRecorded at La Raza studios.\n\n<b>What are you up to next?</b>\n\nNext will be a big party at Watergate in Berlin, and then the next day I'm playing the TDK Festival. I've also got my own night, Sonic, at the T-Bar in London. At the next party the guest DJ is Efdemin from Dial Records.",
+    "blurb": "On the pod this week: a secret stash from behind the counter of Phonica Records mixed by London up-and-comer Hector."
+  }
+}

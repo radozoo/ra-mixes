@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "860",
+  "url": "https://ra.co/podcast/860",
+  "id": "860",
+  "__typename": "Podcast",
+  "title": "RA.860 Kai Campos (Mount Kimbie)",
+  "date": "2022-11-27T23:00:23.000Z",
+  "fileSize": 131726207,
+  "duration": "00:54:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra860-kai-campos-cvr.jpg",
+  "contentUrl": "/podcast/860",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra860-kai-campos",
+  "keywords": "",
+  "artist": {
+    "id": "6099",
+    "__typename": "Artist",
+    "name": "Mount Kimbie"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "This month, UK duo Mount Kimbie put out a <a href=\"/reviews/35198\" target=\"_blank\">double album</a> that is essentially two solo records welded together. It's not terribly surprising: each member lives in different countries (the hip-hop inspired Dom Maker in LA, techno head Kai Campos in London) and they've talked about their differences and what each brings to the table in past interviews. <i>MK 3.5: Die Cuts | City Planning</i> splits the duo's kaleidoscopic sound into its constituent parts, with Maker's side focusing on woozy hip-hop and R&B and Campos's reflecting a love of straightforward '90s techno, as dance floor-friendly as anything the group have ever released.\n\nIt's the latter that we're here to showcase with this week's <i>RA</i> Podcast, which is a recording of Campos's new live set. In a way it's a more fleshed-out, comprehensive companion to the his side of the album, but it stands on its own as a blistering techno performance. Combining the melodic sense and quirky arrangement tics of Mount Kimbie with a pulsating, stripped-back approach borrowed from Detroit techno—classic drum machine sounds used to the fullest—Campos reinvents himself as one of London's best techno artists. Like the new Mount Kimbie album, it's different, welcome and impressive.\n\n<b>What have you been up to recently?</b>\n\nPutting out an album. It ended up being a bigger project than we originally planned but was a lot of fun and we got to put on some great events in London. My brief foray in to the world of public art was <a href=\"/news/78049\" target=\"_blank\">pretty eventful</a> and really exciting and maybe something I'd like to work in more. Other than that, working on more new music and some solo touring plans.\n\n<b>How and where was the mix recorded, and can you tell us the idea behind the mix?</b>\n\nThe mix is a performance of my current solo live setup. I wanted to have a way of performing that didn't use any kind of traditional instruments like keyboards and also didn't move me out of the DJ booth. Within the club environment it shouldn't matter if someone doesn't know or care that it's a 'live performance,' but I wanted there to be a large element of improvisation. The set up is a couple of small synths, a drum machine and my laptop with a couple of ways of interacting with small audio clips. I'm just developing an idea either from scratch or starting with a loop from one of my tracks and developing from there. \n\n<b>What's the creative process like working solo, versus working with Dom?</b>\n\nWith good collaborations you can present half realised ideas and see them evolve in to something completely different. A lot of things I bring to the studio in the band situation would be really lame by themselves but I know that when they start interacting with other people, there's something good there. Working solo, you have to find those moments of inspiration in different ways, for me that means working quite fast and spending less time looking at the computer screen. I enjoy both sides of it and it's important to do both. \n\n<b>Your music on your own feels a lot more 'techno' than Mount Kimbie. Is this a hint where future group work might go towards?</b>\n\nWell we've been working a lot since I finished that record and it's definitely a very different sound and approach. That being said, there are techniques that I learned making this record that we've used going forward and I also want to make more solo stuff that picks up where I left off.\n\n<b>What are you looking forward to in the near future?</b>\n\nTo see new places and meet people and play clubs. I've got a few solo gigs in Asia and Southeast Asia before the end of the year and I'm really enjoying getting to travel and gig again.",
+    "blurb": "A blistering techno live set from one half of celebrated UK duo Mount Kimbie."
+  }
+}

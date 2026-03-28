@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "369",
+  "url": "https://ra.co/podcast/369",
+  "id": "369",
+  "__typename": "Podcast",
+  "title": "RA.369 Sven Väth",
+  "date": "2013-06-24T00:00:14.000Z",
+  "fileSize": 102939476,
+  "duration": "01:25:19",
+  "imageUrl": "https://static.ra.co/images/podcast/ra369-sven-vath-cvr.jpg",
+  "contentUrl": "/podcast/369",
+  "tracklist": "<span class=\"white\">Ursprung - In Aufruhr\n<span class=\"grey\">\"What I would call the most interesting ambient project at present is Urpsrung, AKA Hendrik Weber (Pantha Du Prince) & Stephan Abry.\"</span>\nFlying Lotus - Electric Candyman (feat. Thom Yorke)\n<span class=\"grey\">\"With Flying Lotus I opened my 'Boiler Room' set in December 2012 in Berlin and I played the latest album by this excellent sound/groove-inventor <i>Until The Quiet Comes</i> over and over again.\"</span>\nClams Casino - Waterfalls\n<span class=\"grey\">\"Mike Volpe from New Jersey on the other hand is a new discovery, he already produces hip-hop beats for many stars and sounds quite promising.\"</span>\nJohn Talabot - Missing You\nAndy Stott - Luxury Problems\nMorphosis - Gates Of Night\nJohn Tejada - Winter Skies\n<span class=\"grey\">\"John Tejada likewise belongs to those house & techno producers who know how to infuse depth and harmony into their music.\"</span>\nRoman Flügel - Song with Blue \n<span class=\"grey\">\"Roman Flügel is a personal friend and longtime companion (many years ago we produced the ambient song \"Privado\" together) and his album <i>Fatty Folders</i> on Dial was a highlight for me. Roman at the controls and on the piano—as good as it gets!\"</span>\nmúm -  hvernig á að særa vini sína\nPaarvoharju - Kevätrumpu\nDJ Koze - NooOoo\n<span class=\"grey\">\"I mustn’t forget DJ Koze, our man of the hour! My friend and colleague from Hamburg whose red 7-inch vinyl <i>NooOoo</i> made me laugh but also got me into a mood for cuddling.\"</span>\nSigur Rós - Ég Anda\nOval - Panorama\nNils Frahm - Familiar\nBrian Eno - Speedpods\n<span class=\"grey\">\"The music of Brian Eno has accompanied me since the eighties, in particular Brian Eno and Harold Budd have kindled my love for ambient music with their numerous outstanding albums.\"</span>\nPeaking Lights - Hey Sparrow\nDead Can Dance - Amnesia\n<span class=\"grey\">\"Their latest album, <i>Anastasis</i>, has reawakened my pleasure in the mystic sounds of this Australian band.\"</span>\nCocoRosie - Trinity's Crying (Original Mix)\n<span class=\"grey\">\"These two are true all-rounders: music, theatre and art. What they do with their voices is at the same time strange and heavenly.\"</span>\nDaniel Stefanik - Engtanz\nMinilogue - Evaporera Ut Fran Sitt Ggmastalle\n<span class=\"grey\">\"The Swedes Minilogue will release their second album <i>Blomma</i> on Cocoon recordings very soon. This album is going to get right into your head, there is such complexity and depth in their sound.\"</span></span>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra369/",
+  "keywords": "sven, vath, vaeth, sven vath, Cocoon, Techno, Frankfurt, sven vath, sven, vath, ambient, electronic",
+  "artist": {
+    "id": "79",
+    "__typename": "Artist",
+    "name": "Sven Vath"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Sven Väth isn't usually one for the subtlety. He seems most in his element onstage in front of thousands people, shirtless, dancing and dishing out the kind of raucous house and techno he helped make famous with Cocoon. Some 20 years into his DJ career, he still loses himself to the buzz of playing a club or a festival, and this endless enthusiasm is a big part of who he is. \n\nBut there's more to Väth than what you see onstage, and not least in terms of music. In his calmer moments, when the thud of Amnesia, Time Warp or one of his countless other gigs has receded, he unwinds to music of a different tempo: indie rock, ambient, balearic, downbeat, etc. It's this side of his taste that he explores on RA.369, hence the title: \"Privado.\" Scroll down past the interview to find his personal notes in the tracklist. \n\n<b>What have you been up to recently? What are you up to next?</b>\n\nI just finished my annual world tour which brought me to Asia, Australia, USA, South America and Europe of course. Now I'm in Ibiza with my family taking some days off, preparing my summer residency at Amnesia and looking forward to my summer festival tour.\n\n<b>How and where was the mix recorded?</b>\n\nI chose the songs from my iPod during my travels, compiled them and arranged all in the studio.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWhen I received your invitation to mix an RA Podcast I was delighted and thought immediately that this was a chance to offer a mix that will be unlike my classic vinyl DJ set. I took my time and tried to come up with a way to combine the music of my favourite artists in a mix. The theme of this collection is \"wind down.\" It's a compilation of new and old music that keeps me company when I'm traveling, at home drinking wine, reading, dreaming and sleeping, hence the title \"Privado.\"",
+    "blurb": "A softer side of Papa Sven."
+  }
+}

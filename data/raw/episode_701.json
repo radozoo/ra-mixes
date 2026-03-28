@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "701",
+  "url": "https://ra.co/podcast/701",
+  "id": "701",
+  "__typename": "Podcast",
+  "title": "RA.701 Pandora's Jukebox",
+  "date": "2019-11-04T00:00:11.000Z",
+  "fileSize": 212454666,
+  "duration": "01:28:24",
+  "imageUrl": "https://static.ra.co/images/podcast/ra701-pandoras-jukebox-cvr.jpg",
+  "contentUrl": "/podcast/701",
+  "tracklist": "51717 - ?????\nAlva Noto - Prototype 06 \nKaramika - TON 2.1\nJeff Pils - Montiert\nD.A.F. - Ich und die Wirklichkeit\nParris - Puro Rosaceaes\nTessela - Helter Skelter\nRrose - Cricoid Pressure \nDeep Dimension - Audio Space \nBogger - Mineral\nClara! - Acero\nF1K - B1\nunknown\nYello - Heavy Whispers \nAlix Perez - Poison Ivy \nEmma DJ - Ende Uotro\nMinor Science - Naturally Spineless\nRenegade Soundwave - On TV\nAgo - Deer Dub\nCoil - Blood From The Air (Early Instrumental)\nDJ Neumann - Rare Appearance\nAlva Noto - Prototype 03\nBiosphere - Kobresia\nBambounou - Handd\nKinlaw - Rake \nJonathan William Scherk - Oh softer\nuser48736353001 - 5 jap flute energy rave\nKatsunori Sawa - Strange Hell\nJonathan William Scherk - You Make (Leave) Me Speechless\nEmma DJ - Hit the Credit\nKaramika - TON 2.2\nØ - Vastus\nJon Hassell - Blues Nile",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/707632369",
+  "keywords": "NTS, Rick Owens, HTRK, Coil, Mika Vainio, Kinlaw",
+  "artist": {
+    "id": "72313",
+    "__typename": "Artist",
+    "name": "PANDORA'S JUKEBOX"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you're looking for a primer on Yasmina Dexter's work as Pandora's Jukebox, you could do worse than check her <a href=\"https://www.nts.live/shows/pandoras-jukebox/episodes/pandoras-jukebox-19th-january-2016\">first NTS show</a>. She uses the ice-cold abstraction of Pan Sonic as a launch ramp for slowed-down minimal techno, in this case a Sandwell District-era Function cut chugging at a glacial 100 BPM. But we enter stranger territory when, without causing commotion, we pirouette into an FKA Twigs edit—just the first of numerous unlikely but gracefully executed blends. Then downtempo Plastikman leads us to a string of industrial and post-punk cuts (think D.A.F., This Mortal Coil, Throbbing Gristle). There's even a mix joining Romanian minimal maestro Petre Inspirescu with Arca.\n\nThis slow-paced but diverse approach is also reflected in Dexter's gigs. She appears on underground bills like Beneath's NO SYMBOLS party or alongside Toulouse Low Trax at Salon Des Amateurs but also opens for bands like of Einstürzende Neubauten and HTRK. More conspicuously, she also DJs for the like of Rick Owens. The last point is telling—Dexter's background is in fashion, and her mixing style and sense of musical theatre begins to make more sense picturing the catwalks' slow moving fantasies. RA.701 further crystallises her approach, using lower tempos to reveal the common energies joining the likes of Coil, Mika Vainio and Kinlaw.\n\n<b>What have you been up to recently?</b>\n\nThe highlights from last month or so have been playing at Centre Pompidou Paris for Rick Owens  and HTRK new album launch at Fold playing alongside Trevor Jackson, Anika and Ossia was awesome. I collaborated with Bohinc studio on the soundtrack for Lunar House furniture exhibition and lets not forget my monthly NTS show.\n \n<b>How and where was the mix recorded?</b>\n\nMix was made in Forest Hill on Ableton live, as I like to work on remastering, re editing, layering textures and loops, perhaps repitch etc.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe content and sound structures are unpredictable, but it has to feel intimate. \nIt's a sound to enjoy in solitude, or to listen to with friends, setting the atmosphere for all sorts of conversations.\n\nSo, I guess the plan is to be magic and, primarily, to have fun making it. \n\n<b>Your website showcases your sound design work for various short films. Have you ever considered releasing full productions?</b>\n\nStay tuned.\n\n<b>How has your experience playing art and fashion events impacted your approach to DJing?</b>\n\nWhen it comes to music I've always been unbiased and have no boundaries approaching new projects. People are people whatever the scene, it's always been in my nature not to limit myself.\n\nThat taught me how to feel diverse scenarios and how to woo each in unique way, not only art / fashion but also for example, playing in the darkroom in a fetish club or playing for GAF x Extinction Rebellion on the pink boat docked in the centre of Oxford Circus was pretty surreal and emotional, to Dusseldorf's Kunstakademie graduation party, where students collectively chipped in to pay for my flight and their tutor gave me his art piece in exchange for my set. We had a moment, you know? \n\nThe unexpected and very personal. I like it like that. \n\n<b>What are you up to next?</b>\n\nI'm working on a remix, also this month playing I'm playing in Berlin, Madrid, Stockholm and LA.",
+    "blurb": "An inventive exploration of slower tempos."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "450",
+  "url": "https://ra.co/podcast/450",
+  "id": "450",
+  "__typename": "Podcast",
+  "title": "RA.450 Pender Street Steppers",
+  "date": "2015-01-12T00:00:52.000Z",
+  "fileSize": 107849175,
+  "duration": "00:44:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra450-pender-street-steppers-cvr.jpg",
+  "contentUrl": "/podcast/450",
+  "tracklist": "Haley Pearse - Happening Upon a New Place\nPaul Horn - Apas (Water)\nMaxmillion Dunbar - Calvin & Hobbes\nAquarian Foundation - Untitled I\nRamzi - Monster's Makeup (feat. Bataille Solaire)\nCos/Mes - Poser, Poser\nCloudface - U & Me\nDisco Mantra\nPender Street Steppers - Molto Bene\nHashman Deejay - Statues Pf\nPender Street Steppers - Golden Garden\nTtam Renat - Symbols of Infinity\nPender Street Steppers - No Need",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra450/",
+  "keywords": "Jack Jutson, Liam Butler, Mood Hut, Vancouver, Cloudface, Hashman Deejay, Aquarian Foundation",
+  "artist": {
+    "id": "53794",
+    "__typename": "Artist",
+    "name": "Pender Street Steppers"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jack Jutson and Liam Butler have become some of Canada's best selectors in a short few years. Their rapid rise belies their relaxed, funky and sometimes cerebral approach to DJing, where New Age and ambient sounds sidle up next to vintage disco and their own earthy productions. It's an aesthetic shared by their peers in Mood Hut, a label and collective that started as an intimate party series in Vancouver's Chinatown neighbourhood and has since spread out into a network of shows, aliases and collaborations. But even with the increased attention, they're still humble, quiet guys who prefer to stay in the background. You won't find any interviews with them online (they turned down the brief Q&A that accompanies our podcasts) because they prefer to let the music speak for itself. Their mix for us, full of rippling guitars, flutes and boogie basslines, really does say it all. Packed with new and unreleased material from the Vancouver massive—Cloudface, Hashman Deejay and Aquarian Foundation among them—it also doubles as a survey of one of dance music's most exciting new corners. \n",
+    "blurb": "Chill vibes from the men behind Mood Hut. "
+  }
+}

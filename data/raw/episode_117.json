@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "117",
+  "url": "https://ra.co/podcast/117",
+  "id": "117",
+  "__typename": "Podcast",
+  "title": "RA.117 Portable / Bodycode",
+  "date": "2008-08-25T13:00:29.000Z",
+  "fileSize": 70998718,
+  "duration": "00:59:09",
+  "imageUrl": "https://static.ra.co/images/podcast/ra117-portable-bodycode-cov.jpg",
+  "contentUrl": "/podcast/117",
+  "tracklist": "01. Subspace Radio - <a href=\"/record-label.aspx?id=530\">Spectral Sound</a>\n02. What You Say feat. Lerato - <a href=\"/record-label.aspx?id=530\">Spectral Sound</a>\n03. The Many - <a href=\"/record-label.aspx?id=750\">Perlon</a>\n04. Body to Body feat. Lerato - <a href=\"/record-label.aspx?id=1306\">Yore</a>\n05. Spacial Harmonics feat. Mario Afonso - Unreleased\n06. Albatros - <a href=\"/record-label.aspx?id=1773\">Sud Electronic</a>\n07. <a href=\"/dj-page.aspx?id=1434\">Kevin Gorman</a> - That Guy (Bodycode Mix) - Mikrowave\n08. I'll Hold Your Hand - <a href=\"/record-label.aspx?id=530\">Spectral Sound</a>\n09. Release - <a href=\"/record-label.aspx?id=750\">Perlon</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra117/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:4035"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Alan Abrahams is a busy man. Recording under two full-time aliases, running his own label, <a href=\"/event-detail.aspx?id=53716\">playing at mansions on the Welsh/English border</a>, it's all in a day's work for the Lisbon resident. With excellent releases spread across labels like Perlon, Spectral Sound, Yore and more, that hard work seems to be paying off. That quality imprints are requesting his services is hardly surprising, however: Abrahams work as Bodycode and Portable is both accessible and idiosyncratic, bringing his varied influences (born in Africa, Abrahams spent many years in England soaking up dance culture) to bear on his productions. \n\nOn his RA podcast, Abrahams highlights these touches by putting together an exclusive live set, drawing from Bodycode and Portable material to take listeners on a journey to the outer regions of house and techno, where flutes and theremins seem just as necessary as kick drums and hi-hats. \n\n<b>What have you been working on recently?</b>\n\nI've just completed a new Bodycode album for Spectral Sound. Also, a new Portable 12-inch is due in December for Musik Krause. And a new Portable for Sud Electronic.\n\n<b>Where and how was the mix recorded?</b>\n\nI recorded it here at my home in Lisbon. In fact, I did it in our garden. Using Ableton and various MIDI controllers.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nI've included some upcoming releases on the new Bodycode album. Of the released material, I've also tried to make slightly different versions. I remember listening to a Farben live set many years ago on Beta Lounge and I had all the tracks already, but it was such a joy to hear versions that were a little askew to the original.\n\n<b>How is the theremin treating you these days?</b>\n\nIt's really so much fun. It's a homemade theremin made as an exchange for a remix for a guy called Bruno Zamborlin. And, in fact, it's a MIDI controller that can be used in the same way as a theremin. He's making me another soon!\n\n<b>Much has been made of the fact that you were raised in South Africa? What elements of your youth have made their way into your productions as Portable or Bodycode?</b>\n\nWithout a doubt. It's those very first influences: I must've been 16 or 17 and went to illegal parties where they were playing the very first Chicago house music. To this day, that's the backbone of my music. And, of course, my African heritage in the shape of music, will always be aflow through my veins.\n\n<b>What are you up to next?</b>\n\nI'm making new vocal material for our label, Sud Electronic, with my flute player. I'm also teaming up with a West African musician. The direction for my label is vocal-based, but not necessarily dance-oriented. It's still electronic, but a little difficult to pigeonhole, as ever. Anyway, we'll see how that pans out. I'm also doing a follow-up for Perlon.",
+    "blurb": "Alan Abrahams gets live with a Portable/Bodycode set."
+  }
+}

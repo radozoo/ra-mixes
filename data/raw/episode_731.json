@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "731",
+  "url": "https://ra.co/podcast/731",
+  "id": "731",
+  "__typename": "Podcast",
+  "title": "RA.731 DJ Tennis",
+  "date": "2020-06-01T00:00:14.000Z",
+  "fileSize": 170854641,
+  "duration": "01:11:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra731-dj-tennis-cvr.jpg",
+  "contentUrl": "/podcast/731",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/842354833",
+  "keywords": "Manfredi Romano, DAZE, DC-10, Running Back, Life and Death, ",
+  "artist": {
+    "id": "17805",
+    "__typename": "Artist",
+    "name": "DJ Tennis"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Years before he was established under the name DJ Tennis, Manfredi Romano brought acts like Matmos, Prefuse 73, Fennesz and Thomas Brinkmann to play in Italy as a promoter, agent and tour manager. He calls this time in his life as \"the gateway that brought me from being a nerd to being a raver.\" The music he loved most back then—the kind of glitchy, leftfield electronic music pioneered in the early '90s by labels like Warp, Skam and Sähkö—remains close to Romano's heart. In his RA Podcast, the Italian artist embraces these influences. Recorded while living in lockdown, he used a cassette field recorder, turntable and laptop to stitch together a 70-minute mix that serves as a window into his all-important \"gateway music.\"\n\n<b>What have you been up to recently?</b>\n \nPlanning to start building high quality bicycles. The first 3/4 weeks after the pandemic started I made a decision to dive into my bicycle passion and turn it into a side job, aside from making music in the studio and donating some time to teaching and learning.\n \n<b>How and where was the mix recorded?</b> \n \nI was just trying to picture the potential audience during these lockdown times so I couldn’t dive into a club mix vibe. So I took my cassette field recorder, a turntable, my laptop with Ableton and a few toys for making very glitchy sounds, and tried to create a psychedelic journey.\n \n<b>Can you tell us about the idea behind the mix?</b> \n \nPart of the journey is a throwback to when I was booking experimental or IDM artists like Matmos, Prefuse 73, Antipop Consortium, Tortoise, Aarto Lindsey, alongside Pan Sonic, Fennesz, Laika and Thomas Brinkmann to name a few. That happened at the end of the '90s and beginning of 2000s and was the gateway that brought me from being a nerd to being a raver. \n \n<b>Has the current pandemic changed your relationship with music? If so, how?</b>\n \nYes enormously. I had the chance to re-embrace and explore much more music than I usually do while I tour. Spent hours on Bandcamp listening to random stuff and of course that inspired my way of making music, a bit closer to when I was playing guitar in a few bands in my 20s. I think I worked on more than 30 tunes, between my own productions and collaborations, and only just a few of them were 4/4 dance tracks.\n \n<b>As a DJ and label owner, what are your hopes for the club scene's recovery?</b>\n \nWe still don’t know the magnitude of what the aftermath of this virus will be. But I am very positive as I see a lot of creative minds getting together and talking to each other more than before. And this is an opportunity to change music entertainment for the better, and also implement it with the digital environment much more. We need to make sure this leads into more equity and a better quality of monetization through more advanced digital platforms.\n \n<b>What are you up to next?</b>\n \nI am just trying to not plan anything too much in advance. There's still a long way to go and recover from this situation. So I am more focusing on creating short-term projects, as my perspective of the future is actually constantly changing. Less overthinking made me more relaxed and stable in the process.\n",
+    "blurb": "A throwback to '90s electronica.\r\n"
+  }
+}

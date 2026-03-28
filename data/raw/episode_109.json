@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "109",
+  "url": "https://ra.co/podcast/109",
+  "id": "109",
+  "__typename": "Podcast",
+  "title": "RA.109 The Mole",
+  "date": "2008-06-30T09:09:51.000Z",
+  "fileSize": 76682249,
+  "duration": "01:03:53",
+  "imageUrl": "https://static.ra.co/images/podcast/ra109-the-mole-cover.jpg",
+  "contentUrl": "/podcast/109",
+  "tracklist": "01. Terry Callier - Dancing Girl\n02. Os Mutantes - Baby\n03. Teddy Pendergrass - When Somebody Loves You Back\n04. Gap Band - Outstanding\n05. Ethel Beatty - I Know You Care\n06. The Blackbyrds - Think Twice \n07. J Dilla Jay Dee - Don't Cry\n08. Sylvester - I've Been Down\n09. Donny Hathway - Giving Up \n10. The Temptations - I'm A Bachelor\n11. Donny Hathway - I Love You More Than You'll Ever Know\n12. Marvin Gaye - When Did You Stop Loving Me, When Did I Stop Loving You (Reprise)\n12. Genty - Baby Goodnight\n13. Noviciat De Soeurs Missionaires De Notre-Dame D'afrique & Four Religious Drummers - Yesu Ka Mkwebaze",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra109/",
+  "keywords": "",
+  "artist": {
+    "id": "2828",
+    "__typename": "Artist",
+    "name": "The Mole"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "You gotta feel for Colin de la Plante. His Modern Deep Left Quartet pals went off and formed Cobblestone Jazz and now tour the world without him. His girlfriend broke up with him. And just this past week he broke his collarbone*, which explains why we didn't immediately have a tracklist ready for you. Can you blame him for making a mix entitled <i>Soft Hits for Making Up and Breaking Up</i>?\n\nThat said, there <i>is</i> that niggling \"make-ups\" part. Things aren't <i>all</i> bad for The Mole. He's just released one of the year's finest full-lengths, <i>As High As the Sky</i>, which is a journey deep into the heart of organic loop-based house music with a soulful tinge. He's back recording with the Cobblestone guys, in preparation for a long overdue second Modern Deep Left Quartet release. And now he's got an excellent leftfield RA podcast to his name. Full of old soul, funk, disco, and R&B classics that'll have you typing lyrics into Google, hoping to pull track IDs out of the digital ether. (Believe us, we tried too.) It's one of the best we've heard this year - and we hope you enjoy it too.\n\n*We at RA towers wish The Mole all the best in making a quick and full recovery.\n\n<b>What have you been working on recently?</b>\n\nWorking on 7 Inches of Love, my 7-inch label with Koosh. Waiting on some records for Prins Thomas' Internasjonal label. Doing minor explorations into the German health care system and finishing my track for the Soundwave Festival compilation. Oh. And my neck tan.\n\n<b>Where and how was this mix recorded?</b>\n\nAt my house in Berlin. I just grabbed a bunch of records I've been loving at home right now, made a little story with them. \n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nWell, I was into one of my ballad moods. I get into these…you know, listening to ballads all the time. \"Soft Hits for Making Up and Breaking Up.\" What can I say?  It's all about spring. Couples fighting in the streets and sexing it up with strangers at night.  Just another love story.\n\n<b>Some of the songs on your new album are more than six years old. Why'd it take so long for them to see the light of day?</b>\n\nGreat question. I guess some of these things just take longer to find their way out of the vault. At least they made it out. Some are stuck in there and some should just never come out.\n \n<b>When can we expect more from Modern Deep Left Quartet?</b>\n\nAnother great question! The guys are coming for the Wagon Repair party at Panorama Bar this week and staying for a couple of weeks. I'm sure we'll jam and really hope we get some good recordings. It's always a bit of a lottery with us, but always fun regardless. It sure would be nice to see some more MDLQ in 2008. I'm keeping my fingers crossed and my game hat on.\n \n<b>If you had to estimate, how many records did you sample for <i>As High as the Sky</i>?</b>\n\nOh God. I have no idea. Lots.\n \n<b>What's up next for you?</b>\n\nHealing. Some touring. Enjoying summer. Trying to keep my beard trim, so mom doesn't get too upset.",
+    "blurb": "The Mole brings a mix for make-ups. And break-ups.\r\n"
+  }
+}

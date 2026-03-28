@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "763",
+  "url": "https://ra.co/podcast/763",
+  "id": "763",
+  "__typename": "Podcast",
+  "title": "RA.763 Off The Meds",
+  "date": "2021-01-17T23:00:44.000Z",
+  "fileSize": 151197944,
+  "duration": "01:02:47",
+  "imageUrl": "https://static.ra.co/images/podcast/ra763-off-the-meds-cvr.jpg",
+  "contentUrl": "/podcast/763",
+  "tracklist": "01. OTM Intro - Off The Meds\n02. Untitled/Dola Re - LUXXY, Shreya Ghoshal\n03. Jammering - Carli\n04. Patrick Pins/419 - Måns Glaeser, Off The Meds\n05. Untitled - LUXXY\n06. DMX Krew/DJ Seduction (Carli Edit)\n07. Nosedive - Israel Vines\n08. Dr. Silencer (Instrumental) - Off The Meds\n09. Time (Carli Edit) - Scorpia\n10. Hiccups (Instrumental) - Off The Meds\n11. DvR 1000 - Carli\n12. Dansar Edvard Jonsson - ?????\n13. There Can Be Only One - C.J. Bolland\n14. OTM Interlude - Off The Meds\n15. Bheka Mina/Egyptian Rhythm - Off The Meds, Donovan Vendetta Bennet\n16. Vice Versa (Instrumental) - Off The Meds\n17. EKSE (Instrumental) - Off The Meds\n18. SX€00 - Carli\n19. Untitled - Adrian Lux\n20. Fani Madida (Instrumental) - Off The Meds\n21. Sea Of Love - Carli\n22. LUXXY - LUXXY\n23. It's A Fine Day/Blue Monday/Fire (Sunrise Version) (Off The Meds Mega Remix Mash) - Opus III, New Order, The Prodigy\n24. Time - Off The Meds\n25. Gelareh - Måns Glaeser\n26. Karlaplan (Instrumental) - Off The Meds\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/967772260",
+  "keywords": "Studio Barnhus, Savage Skulls, Adrian Lux, Kamohelo Khaoripe, ",
+  "artist": {
+    "id": "93992",
+    "__typename": "Artist",
+    "name": "Off The Meds"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Off The Meds is such an inspired meeting of musical minds that it's hard to believe it happened by chance. Two of the Swedish band members previously made electro-pop as Savage Skulls, the third was making similarly mainstream dance music as Adrian Lux. The fourth member, and perhaps the one who makes the band stand out, is a South African hipster who hit it off with the others at a Stockholm house party. MC Kamohelo Khaoripe's distinctive speaking voice led to a drunk studio session that same night, and Off The Meds was born.\n\nThe three producers come up with wonky house, techno and acid beats for Kamo to rap on. Their instrumentals expand on the sound of Studio Barnhus, Axel Boman and Kornél Kovács's label, which released Off The Meds' debut <a href=\"/reviews/23643\"><i>Belter</i></a> and their self-titled <a href=\"/reviews/25292\">album</a>. The beats are full of oddball touches, bright colours and a sense of humour, characteristics which made <i>Off The Meds</i> one of 2020's most eccentric and fun records.\n\nRA.763 takes tracks from unlikely sources—like Belgian rave veteran CJ Bolland or Indian playback singer Shreya Ghoshal—pairing them with material from the band members' individual projects, and alternate versions of the album hits. There's even a mega mash-up of The Prodigy, New Order and Opus III's \"It’s A Fine Day.\" As the three DJs trade blows with out-there club music, your vocal companion Kamo guides the ride.\n\n<b>What have you been up to recently?</b>\n\nWe've been working and taking it easy, getting back to our studio routine, recording new tunes, playing around with sounds and hanging out. It's been super nice!\n\n<b>How and where was the mix recorded?</b>\n\nWe recorded the mix at a friend's country house, a huge cottage. It's an hour outside of Stockholm. The mix was recorded in shifts. The first shift, two of us sorted out the tracks and the mix. Second shift, the other two worked on the live recording of vocals and effects. Factory workers style. \n\n<b>Can you tell us the idea behind the mix?Kamohelo MCs in a variety of languages—where does the inspiration for his lyrics come from?</b>\n\nThe inspiration comes from his surroundings and upbringing. He was born and raised in South Africa where there are 11 official languages, and Johannesburg speaks all of them. Moving to Sweden was also a great benefit. He's adapted to the scene here and this is expressed in his lyrics. Born and raised in South Africa but made in Sweden, haha. \n\n<b>All four artists come from pretty different backgrounds, is there something musically that ties you all together?</b>\n\nWe share a similar interest in music. We go out to the same places and we've all been DJing at bars, clubs and raves in Sweden with one another. So we think our love for music, especially club and dance music, ties us together.\n\n<b>What are you up to next?</b>\n\nHmmm! We're planning a follow up to the album, we have lots of songs done, also some album remixes, also an a capella version of the album! We definitely have a good catalogue of tunes to share, maybe we will drop an EP come springtime. We will see how everything plans out this year.",
+    "blurb": "An off-the-wall session from the Swedish-South African supergroup."
+  }
+}

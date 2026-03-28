@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "203",
+  "url": "https://ra.co/podcast/203",
+  "id": "203",
+  "__typename": "Podcast",
+  "title": "RA.203 2562",
+  "date": "2010-04-19T00:00:35.000Z",
+  "fileSize": 72591666,
+  "duration": "01:00:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra203-2562-cover.jpg",
+  "contentUrl": "/podcast/203",
+  "tracklist": "The Hundred in the Hands – Dressed in Dresden (Kyle Hall remix) - Warp\nBasic Soul Unit – Jak'd Freq (A Made Up Sound remix 1) - Creme Organisation\nA Made Up Sound – Crisis - A Made Up Sound\nA Made Up Sound – Sun Touch - A Made Up Sound\nCommix ft Steve Spacek – How You Gonna Feel (Pangaea remix) - Metalheadz\nRoska – Time Stamp - Rinse\nUntold – Come Follow We - Hemlock\nA Made Up Sound – Alarm - A Made Up Sound\nMount Kimbie – At Least (Instra:mental remix) - Hotflush Recordings\nDJ Qu – Party People Clap - Deconstruct\nAltered Natives – Crop Duster - 3024\nShake – The Other One - Rush Hour\n2562 – Flashback - Tectonic\nJack Sparrow – Day Of The Dead\n? – S.O.S.\nInstra:Mental – Rift Zone\n2562 – Well, Then",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra203/",
+  "keywords": "2562, techno, dub, netherlands, house, Dave Huisman, Dogdaze, A made up sound",
+  "artist": {
+    "id": "3349",
+    "__typename": "Artist",
+    "name": "Dave Huismans"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Of the artists to emerge from the dialogue between techno and dubstep, The Hague's Dave Huismans must be rated as one of the finest. His production roots are actually in broken beat and his Dogdaze moniker, but 2007 saw him launch the 2562 project on Pinch's Tectonic Recordings, forging techno sounds to dubstep beat structures to great effect. While debut album <i>Aerial</i> was fairly singular and streamlined in its approach to the fusion of techno and dubstep, his sophomore effort showed a totally different side to Huismans' sound. With more overt references to UK garage and house, <i>Unbalance</i> managed to scrape into the top ten of <a href=\"http://www.residentadvisor.net/feature.aspx?1121\">last year's RA albums poll</a>, with <a href=\"review-view.aspx?id=6716\">Oli Marlow</a> calling it \"a zenith for techno-tinged dubstep in 2009.\" \n\nHe's also been keeping busy with his A Made Up Sound moniker which operates in a slightly more conventional house and techno vein. Last year's \"Rework\" on his own A Made Up Sound imprint and the four-track EP on Clone were essential releases if you like your 4/4 beats to be swung and bass-heavy, and those two adjectives are definitely something that you say about his effort for this week's RA podcast. We caught up with Dave via e-mail to talk about the mix, his relationship with Tectonic and running his own label.\n\n<b>What have you been up to recently?</b>\n\nI've been travelling and DJing quite a lot over the last half year. It's been a good time, but right now my hands are itching to make new music. \n\n<b>How and where did you record the mix?</b>\n\nAt home on two Technics and two CD players. No laptop, no FX.\n\n<b>Can you tell us a little bit about the idea behind the mix?</b>\n\nIt's a selection of tracks that I've been playing out a lot recently, including some new productions of my own. It's very \"now.\" For '90s techno weapons and cheeky Dutch club classics you''d have to catch me live!\n\n<b>What with your strong affiliation with Pinch's Tectonic label, do you feel more a part of the UK scene or the Dutch dubstep community?</b>\n\nPinch has become a trusted friend over the years and it's a great label. I think there's not much more you can ask for as a musician. I don't like to think in scenes and communities though; not geographically and not stylistically. I feel more comfortable nerding about on my own.\n\n<b>How is running your own label going? Will you be releasing anyone else's music?</b>\n\nI love it. It's great to have my own platform for A Made Up Sound and put out whatever I feel. It's just a playground for myself really. Eventually it'll be a dead end like all one-artist labels, but if I manage to do a series of truly personal releases before that point, it was worth it.\n\n<b>What are you up to next?</b>\n\nA Made Up Sound 003 (Alarm b/w Crisis) will be out soon through Clone Distribution, as well as a 12-inch with remixes I did for Basic Soul Unit on Crème Organization. Up next is a remix for Commix on Metalheadz. Other than that, the plan is to make no plans.",
+    "blurb": "Dave Huismans brings the techno and dubstep fusion on this week's RA podcast."
+  }
+}

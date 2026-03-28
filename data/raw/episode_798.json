@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "798",
+  "url": "https://ra.co/podcast/798",
+  "id": "798",
+  "__typename": "Podcast",
+  "title": "RA.798 Wanton Witch",
+  "date": "2021-09-19T22:00:26.000Z",
+  "fileSize": 183329068,
+  "duration": "01:16:08",
+  "imageUrl": "https://static.ra.co/images/podcast/ra798-wanton-witch-cover.jpg",
+  "contentUrl": "/podcast/798",
+  "tracklist": "Love of Siam - ‘This is my loneliness' Scene Cut\nThoden - Huey\nTravis Scott - Goosbumps (Bjarki pandemix)\nTSVI & Randomer - Reflex\nBENN - Pasvake\nCORIN - Ex Nilalang\nSZNS7N - Hackney Pigeon\nCressida - Semtex\nParaadiso - Liquid Matter\nHard Fantasy - Hard Relate\nAni Klang - Burn The Empire (Daniel Ruane Relapse)\nNebuchadnezzar - your owner tells you when you are allowed to eat part II\nWanton Witch - Lament ceremony\nOrqualyzer - Silichrome\nNARA - Daddy I Want A Pony\nBapari - Can U Keep Up (Destinys Child Edit)\nKABLAM - For Hildegard V remix\nHUUMO - Stress Lust\nFUJ - Common Enemy \nFUJ - Problemaddict\nIsrafil - Ni Vu Ni Connu\nEnko & Ling Ling - Welcome To Dystopia\nEuropa - Not afraid \nMermaid & Seafruit - Unicorn\nNET GALA - Shinpa Bonui\nbREA - Veneno de Hada\nThegn - Unreleased\nOsheyack - Track condition\n??? Cyndi Wang - ??????",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1127562553",
+  "keywords": "Miriam Alegria, Stroboscopic Artefacts, bass, IDM,",
+  "artist": {
+    "id": "81238",
+    "__typename": "Artist",
+    "name": "Wanton Witch"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Wanton Witch, AKA Miriam Alegria, isn't afraid of freaky sounds. The Malaysian-born artist, whose debut LP was picked up by <a href=\"/record-label.aspx?id=3148\">Stroboscopic Artefacts</a> earlier this year, is drawn to spine-shivering samples and fractured rhythms that invoke a trance-like state common across folk rituals. Using these unnerving textures as a foundation, she borrows from UK bass aesthetics, smoky IDM, noise and glitch to create engrossing rave experiences with apocalyptic undertones.\n \nAs dark as her soundscapes are, they're also poignant. Speaking to <i>Resident Advisor</i> in June, Alegria <a href=\"/reviews/34035\">explained</a> how her self-titled album captured her experiences of \"navigating a hostile world as a queer trans woman growing up in an isolated community in Borneo, mental health, the longterm effects of my childhood trauma and my journey of healing.\" \n \nHer mix is equally personal, albeit on a more light-hearted level. Starting with a snippet from a 2007 Thai film called <i>Love of Siam</i> that mirrors some of Alegria's coming-of-age struggles, it ends with exuberant Mandopop with remixes of Travis Scott, Missy Elliot and Destiny Child in between. These playful elements offer respite from disjointed drums, avant-garde antics and abstract soundscapes while bringing us closer into Alegria's world. It's this balance between cheeky club cuts, hardcore acid, dark techno and rich sound design that makes Alegria, founder of Bangkok-based queer collective NON NON NON, a key name to watch in experimental rave. Recommended listening for a run in the woods at dusk.\n\n<b>What have you been up to recently?</b>\nFirst half of 2021 has been pretty hectic and draining dealing with the emotion of moving from Thailand back to my birthplace (Borneo) due to circumstances. Putting out my debut album with Stroboscopic Artefacts which the whole thing turned out pretty bomb. Dealing with me and my whole family actually getting covid and having to basically take on my mom's role, taking care of the whole family as she was sent to ICU in critical condition for like a month or so. Only since June do I feel that I can sort of breathe a little. Now I'm taking a bunch of courses (music and others). I feel like I could use a lot more knowledge in both music and in life. I’ve also been writing music, working on new projects, learning the piano, you know, work, study, and activities but for the sake of my mental health. \n \n<b>How and where was the mix recorded?</b>\nIn Ableton, in my birthplace in Borneo. I left my decks and other equipment in Thailand thinking I'd be back soon and now I'm stuck here. (Due to the government forbidding citizens from leaving the country).\n \n<b>Can you tell us about the idea behind the mix?</b>\n'Romantic chaos' is what I'm trying to express with this mix.\n \n<b>What are you up to next?</b>\nTrying to get the hell out of here but from the look of the covid situation here, it ain't looking so good. But I'm trying, I’m keeping up with the visa stuff and regulations every day. There are some compilation tracks coming up. I’ve also started preparing for the next album.\n \n<i>Photo Credit:  Sayda Metwali</i>",
+    "blurb": "A murky ride through dystopian techno and hard dance from a new kid on the block."
+  }
+}

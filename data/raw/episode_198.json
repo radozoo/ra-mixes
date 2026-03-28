@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "198",
+  "url": "https://ra.co/podcast/198",
+  "id": "198",
+  "__typename": "Podcast",
+  "title": "RA.198 Scuba vs SCB",
+  "date": "2010-03-15T00:00:33.000Z",
+  "fileSize": 99586086,
+  "duration": "01:22:54",
+  "imageUrl": "https://static.ra.co/images/podcast/ra198-scuba-cover.jpg",
+  "contentUrl": "/podcast/198",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra198/",
+  "keywords": "Scuba, SCB, dubstep, dub, Hotflush",
+  "artist": {
+    "__ref": "Artist:1867"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Paul Rose is one of the most influential figures in the world of dubstep. As label head of Hotflush Recordings, he's helped release work from Benga, Shackleton and, of course, Joy Orbison and his RA #1 single of 2009, \"<a href=\"/feature.aspx?1122\">Hyph Mngo</a>.\" Events-wise, he's one of the masterminds behind Sub:stance, a night that has brought the likes of Mala, D-Bridge, Scion and Kode9 to Berlin's Berghain. And, under the Scuba name, he's produced two full-lengths of remarkably diverse work that reflect his wide-ranging taste and machine mastery.\n\nThe forthcoming <i><a href=\"/news.aspx?id=11614\">Triangulation</a></i> album showcases Scuba's talent for all things bass-oriented. But his recently birthed SCB moniker has reflected another huge interest of Rose's, that of the four-four variety. Described recently as \"<a href=\"/review-view.aspx?id=7194\">Balearic techno with a rainy soul</a>\" by RA's Max Bacharach, Rose's SCB project has the same focus on emotional body music. It's simply filtered through a different tempo. On his RA podcast, you'll get to hear both, as Rose takes us through the world of Scuba and SCB in what seems like a very short 83 minutes.\n\n<b>What have you been up to recently?</b>\n\nI've been deeply embroiled in promotion for the album... but that'll all be over soon as it's out next week!\n\n<b>How and where did you record the mix?</b>\n\nI record all my mixes at home on decks and CDJs. I added a little bit of FX afterward, but it's pretty much just the recording.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nThe first half is a Scuba set, the second half is a SCB set. Quite simple really.\n\n<b>Your Sub:stance party in Berlin has been among the most acclaimed events in the city. Are you surprised at how Berlin has taken to dubstep?</b>\n\nThere's always been an audience for bass music in Berlin, it just needed a push to get going. A lot of dubstep events have started springing up recently which is good and bad; good in the sense that it shows it's growing, bad in that when the calendar gets crowded it can dilute the whole thing. It's obviously better to have a few good parties than loads of average ones.\n\n<b>In a <a href=\"http://modyfier-modifying.blogspot.com/2010/03/blog-post_11.html\">recent interview</a>, you said that you had contacted D-Bridge after hearing one of his tracks, saying that you wanted to make music like that particular song but you \"never had the balls to do it.\" Has that changed? Why? </b>\n\nThere are a few things I've been working on that I might not have a couple of years ago... but I don't know if I'm going to play them to anyone yet so maybe nothing has changed really.\n\n<b>World cup prediction? </b>\n\nThe most boring Brazil side in history will win.\n\n<b>What are you up to next?</b>\n\nI'm working on my live set... doing the first one at <a href=\"/event.aspx?132808\">Sub:stance on April 9th</a>.\n\n<span class=\"grey\"><i>Photo credit: <a href=\"http://jimmymouldphotography.wordpress.com\" class=\"grey\">Jimmy Mould</a></i></span>",
+    "blurb": "The Hotflush Recordings boss dons his dubstep and techno hats for the RA podcast."
+  }
+}

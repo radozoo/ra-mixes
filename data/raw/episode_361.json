@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "361",
+  "url": "https://ra.co/podcast/361",
+  "id": "361",
+  "__typename": "Podcast",
+  "title": "RA.361 Pearson Sound",
+  "date": "2013-04-29T00:00:17.000Z",
+  "fileSize": 82224061,
+  "duration": "01:08:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra361-pearson-sound-cvr.jpg",
+  "contentUrl": "/podcast/361",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra361/",
+  "keywords": "Pearson Sound, Dave Kennedy, Ramadanman, Maurice Donovan, Hessle Audio",
+  "artist": {
+    "id": "21422",
+    "__typename": "Artist",
+    "name": "Pearson Sound"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "David Kennedy is the man behind some of the last decade's most innovative bangers. As you probably know by now, he produces music as Pearson Sound and has previously stepped out as Ramadanman and Maurice Donovan. Kennedy is regarded as a leading artist in post-dubstep UK dance music, while his label, Hessle Audio, which he runs alongside Ben UFO and Pangaea, has been similarly trailblazing. As a producer, he has developed a style that he can comfortably call his own. His range of influences—from Baltimore club to grime—is vast, and he's particularly fond of unconventional arrangements. If they aren't already, tracks like \"Blimey,\" \"Blanked\" and \"Void 23\" should be considered as classics. \n\nPerhaps the most pleasing aspect of Kennedy's rise is that the rush of his recorded music is mirrored in his DJing. His RA podcast is a shade or two darker than we've come to expect from Kennedy, but it feels completely natural for an artist who is continually revising his style.  \n\n<b>What have you been up to recently?</b>\n\nI took some time off from DJing at the end of last year to have a bit of a holiday, and since then have been back on the road. I toured South America for the first time in March, which was an incredible experience. I've been busy in the studio, too, and have recorded loads of new music that I'm finally very happy with. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my studio in March 2013 using two turntables, a mixer and vinyl / Serato. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to showcase some of the new music that I have been working on, as well as give a snapshot of my recent club sets. I didn't really go chasing exclusives or trying to be too concerned about unreleased tracks, so there's a few older bits in there too. I'd say it's representative of the kind of set I would play in a club. \n\n<b>Have there been DJs or styles of DJing that have influenced the way you play?</b> \n\nI saw [Ricardo] Villalobos at fabric a few years ago, which definitely left an impression. It was about 9 AM and I loved his approach to EQ, and his uncompromising selection. \n\n<b>Have you ever considered producing an album?</b> \n\nIt's something I have thought about but right now I don't think it is the right time or what I want to do with my music. I've always thought that if I did an album, I wouldn't want it to be a collection of various singles and 12-inches, but instead a bigger project with a singular aesthetic and purpose. \n\n<b>What are you up to next?</b> \n\nI'm releasing some of my new tracks in mid-May on a four-track single, released on vinyl and digital. After that I'm hoping to put out more singles later in the year. The documentary about Brazilian jujitsu, <i>Tradição</i>, which I have partly scored, is nearing completion too, after a few years work. Other than that, I'm playing a few festivals over the summer, and trying to perfect my banana bread recipe.",
+    "blurb": "Singular sounds from one third of Hessle Audio. "
+  }
+}

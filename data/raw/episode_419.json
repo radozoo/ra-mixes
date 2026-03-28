@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "419",
+  "url": "https://ra.co/podcast/419",
+  "id": "419",
+  "__typename": "Podcast",
+  "title": "RA.419 Traxman",
+  "date": "2014-06-09T00:00:20.000Z",
+  "fileSize": 108586623,
+  "duration": "00:45:06",
+  "imageUrl": "https://static.ra.co/images/podcast/ra419-traxman-cvr.jpg",
+  "contentUrl": "/podcast/419",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra419/",
+  "keywords": "Footwork, Chicago, Cornelius Ferguson, Cork Strong, ghettotech, juke, Planet Mu, Double Cup",
+  "artist": {
+    "id": "20053",
+    "__typename": "Artist",
+    "name": "Traxman"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"You're now tuned into the motherfucking Traxman.\" Chicago producer Cornelius Ferguson—or Corky Strong—has been forging uptempo sounds like ghettotech, footwork and juke since the mid-'90s. He's a godfather of sorts to the modern footwork scene, but it's likely that most were introduced to him through his excellent 2012 Planet Mu debut <i>Da Mind Of Traxman</i>. The album felt like work of a wizened producer, but it still had the gritty edge of Ferguson's younger peers like Rashad, Spinn and Manny.\n\nThis year, Ferguson followed it up with a second volume. Tighter and more confident, <a href=\"/review-view.aspx?id=15028\"><i>Da Mind Of Traxman 2</i></a> is a landmark for the minimal side of footwork in the same way that Rashad's <i>Double Cup</i> showcased its more soulful dimension. Some tracks are composed of just one or two samples sliced and diced to face-melting extremes, an approach that carries over to his RA podcast. Heavy on his own tracks—including his unforgettable edit of Kraftwerk's \"Computer Love\"—it's mixed with a distinctive, quick-fingered flair. \n\n<b>What have you been up to recently?</b>\n\nJust making muzic like always, coming up with new sounds.\n\n<b>How and where was the mix recorded?</b>\n\nAt my lab Westside USA Chi city LOL.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWell there's really not anything super great, it's pretty much some things that pop up in my head for some records I can play with each other LOL.\n\n<b>Your DJ style seems to be influenced by hip-hop. Do many footwork DJs scratch in the way you do?</b>\n\nLOL wowwww like I'm just a regular DJ that loves tha art of mixxin that's #1.\n\n<b>What are you up to next?</b>\n\nI'm gonna keep saving tha world from bad muzic LOL.",
+    "blurb": "Raw footwork from the mind of Traxman."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "753",
+  "url": "https://ra.co/podcast/753",
+  "id": "753",
+  "__typename": "Podcast",
+  "title": "RA.753 Whodat",
+  "date": "2020-11-09T00:00:45.000Z",
+  "fileSize": 147444736,
+  "duration": "01:01:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra753-whodat-cvr.jpg",
+  "contentUrl": "/podcast/753",
+  "tracklist": "Theo Parrish - Solitary Flight\nGoapele - Closer (DJ Spinna Remix)\nRicardo Miranda - Urbanism\nKerri Chandler - What About Us?\nBlaze - Elevation\nKenny Bobien - Spread Love feat. Ann Nesby\nb-sOul - Jazz Piano In D Minor\nUSG - Life 4 Living feat. Monica Elam\nKerri Chandler - The Invoice\nHope Collective - Give And Let Live\nFrank I - Let The Record Play\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/926015449",
+  "keywords": "Terri McQueen, Detroit, house, Kerri Chandler, Theo Parrish, Dj Spinna",
+  "artist": {
+    "id": "10629",
+    "__typename": "Artist",
+    "name": "Whodat"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Terri McQueen's music is all about good vibes. That might sound trite at first, but it really isn't: the style of house music the Detroit DJ plays is inspiring and uplifting, full of silky instrumentation, mellifluous chord changes and gorgeous vocals. Through those vocals she imparts messages of solidarity, hope and unity, and classic themes of love and loss. She has a slow-and-steady mixing style that highlights the smooth contours and melody-rich nature of disco, house and funk, from the likes of Kerri Chandler, Theo Parrish, DJ Spinna and Blaze—all of whom you'll hear on her <i>RA</i> Podcast.\n\nAs a producer, McQueen has also proven her mettle: two of the three records of hers that <i>RA</i> has reviewed received the <i>RA</i> Recommends stamp of approval, and for good reason. Through her ongoing collaborations and exchanges with German artist Viola Klein, she's  made approachable but often deceptively complex music, like the excellent \"<a href=\"/reviews/23683\">Funeral Song</a>\"—released on Workshop—with its sudden BPM shift, or the Mbalax-inspired rhythms of other work with Viola Klein, Julion De'Angelo and the trio of Senegalese drummers Abdou Aziz, Abdoukhadre and Adramé Diop. Her sparse but inspiring discography uses house as a jumping off point for great new ideas, and this DJ set brings it back home to the laid-back vibe of Detroit house.\n\n<b>What have you been up to recently?</b> \n\nI have been trying to stay focused. Recovering from the loss of loved ones. Dealing with my own health struggles. This year has been very trying to say the least. I haven't been in a creative mood but I have been studying production techniques, workflow strategies and organizing my studio and records. \n\n<b>How and where was the mix recorded?</b>  \n\nThe mix was recorded in The Wholab on 2 Technics 1200s and an Omnitronic rotary mixer I borrowed from my friend Meftah. \n\n<b>Can you tell us the idea behind the mix?</b>  \n\nI had an idea for the mix but this wasn't it. LOL. Once I got going this is the mix that happened. The first two tracks were apart of the original idea, the rest was just the mood I was in at the time I guess. Playing \"The Invoice\" is a tribute to Huck. That was his track. Rest In Peace Homie. \n\n<b>A lot of the tracks you play have vocals with generally positive or uplifting lyrics—is this an important part of your DJing style, and why do you gravitate towards these kind of tracks?</b>  \n\nI don't think about my DJ style much but these type of tracks are usually good. I guess I like them because they are very soulful and have a gospel / R&B kind of vibe. \n\n<b>You've appeared on three records with Viola Klein—how did your relationship start and why do you think you make such good musical partners?</b>  \n\nI met Viola at Rick Wilhite's birthday party at the Motown Mansion in 2005 or 2006. We have become good friends over the years. I do my thang, she does her thang and every thang works out. \n\n<b>What are you up to next?</b>  \n\nI have a track on an upcoming Steady Flight Circle compilation. I'm finishing up some remixes for Tammy Lakkis. A couple of friends have suggested that I start working on an album. Which doesn't sound like a bad idea.\n",
+    "blurb": "Uplifting house from Detroit and beyond.\r\n"
+  }
+}

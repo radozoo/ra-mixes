@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "402",
+  "url": "https://ra.co/podcast/402",
+  "id": "402",
+  "__typename": "Podcast",
+  "title": "RA.402 Acid Arab",
+  "date": "2014-02-10T00:00:52.000Z",
+  "fileSize": 95827912,
+  "duration": "00:39:21",
+  "imageUrl": "https://static.ra.co/images/podcast/ra402-acid-arab-cvr.jpg",
+  "contentUrl": "/podcast/402",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra402/",
+  "keywords": "Guido Minisky, Herve Carvalho, Sex Schon, Versatile, Sha difeature",
+  "artist": {
+    "id": "47489",
+    "__typename": "Artist",
+    "name": "Acid Arab"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Guido Minisky and Hervé Carvalho are Acid Arab. The basic idea behind the Parisian duo's project is to weld a loose network of Eastern influences—strings, percussion and Arabic melodies—to the framework of house and techno. In their own words, the project first started \"as a concept, then a Facebook group, then a party, then (almost) a genre, then it was us.\" \n\nLast year Versatile Records released the first <a href=\"/review-view.aspx?id=13079\"><i>Acid Arab</i></a> EP, a various artists 12-inch that featured one track from Minisky and Carvalho (as Acid Arab) alongside productions from the likes of I:Cube and Crackboy, who remixed Omar Souleyman's \"Shift Al Mani.\" Each production took the Acid Arab concept and ran with it, laying bare the project's potential. The release was followed by a second <i>Acid Arab</i> EP, this time featuring impressive cuts from Legowelt and DJ Gregory (as Headcore). And towards the end of 2013, they announced plans to release an <i>Acid Arab</i> <a href=\"/news.aspx?id=21910\">compilation</a>. Due out through Versatile this month, it features mostly unheard material from French luminaries like I:Cube, Etienne Jaumet and Pilooski, while two of Minisky and Carvalho's own tracks—one of which features a Parisian street performer called Sha dïfeature as well.\n\nThe combination of Middle-Eastern genres and dance music has been done before (with mixed results) but Minisky and Carvalho have carved themselves a strange and exciting niche. Their RA podcast showcases a softer side of the project, averting its gaze from the dance floor for a rich and gripping 40-minute journey.\n\n<b>What have you been up to recently?</b>\n\nTraveling, playing, listening, recording, mixing, ordering visas for Russia, eating Kurdish galettes, having fun, answering questions.\n\n<b>How and where was the mix recorded?</b>\n\nThis mix contains a lot of new material, so as usual we went into Sex Schön's studio. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe actually wrote something about it right after finishing it. We'll paste it for you: \"Let's make a climat. In French, making a climat means setting a scene, fixing a certain atmosphere, one of quietness and of self meditation. In the studio with Sex Schön, we looked deep into our tracks and peeled them into climatic ambient. \"Berberian Wedding,\" \"Theme,\" \"Love Suicide,\" \"Sidi Gouja\" and \"Samira\" are featured beside songs by people we dearly like.\n\n<b>Tell us about the inspiration behind the project and how it came together?</b>\n\nThe inspiration is a combined love for acid house and oriental musical culture.\nThe project came together without us knowing where we were going. It was a concept, then a Facebook group, then a party, then (almost) a genre, then it was us.\n\n<b>How did you go about selecting artists to contribute to the <i>Acid Arab</i> compilation?</b>\n\nWe asked people we knew. Versatile asked people they knew. We asked one of our friends to ask Legowelt because he knows him. We picked DimmiT's track on SoundCloud, sent him a request and met him later. We set up jam sessions with mixed musicians (Dj Gilb'r, Turzi, Professor Genius, Judah Warsky, Hanaa Ouassim, Shadi Khries, Adnan Mohamed) which led to four great songs by Boyz In The Oud, The Habibeats, Hanaa Ouassim and another one to come on the third EP. Eventually we recorded our own tracks.\n\n<b>What are you up to next?</b>\n\nWe play with Africaine 808 at Renate. With Renart and Crackboy at l'Institut du Monde Arabe. And with our dear friends Tarek & Mehdi in Nefta, the desert of Tunisia.",
+    "blurb": "An Eastern twist on the 303."
+  }
+}

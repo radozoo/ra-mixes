@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "266",
+  "url": "https://ra.co/podcast/266",
+  "id": "266",
+  "__typename": "Podcast",
+  "title": "RA.266 Planningtorock",
+  "date": "2011-07-04T00:01:16.000Z",
+  "fileSize": 73269023,
+  "duration": "01:01:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra266-planningtorock-cvr.jpg",
+  "contentUrl": "/podcast/266",
+  "tracklist": "Planningtorock - The One mash-up feat. Meredith Monk\nJason Fine - Control Voltage (Oni Ayhun remix)\nPlanningtorock mash-up\nGrimes - Heartbeat (Laurel Halo remix)\nPlanningtorock - Broke  \nAnne Clark - Our Darkness \nRadiohead - Reckoner (Telepathe remix)\nOni Ayhun - OAR001\nThe Knife in collaboration with Mt. Sims and Planningtorock -Seeds (Shinedoe remix)\nCreep - You (Planningtorock remix) \nAnne Clark - Poem Without Words / Angel Haze poem <i>I Like the Girls</i>\nShit Robot & Planningtorock - Answer Machine (PTR mash-up)  \nPlanningtorock - The Breaks - (Hannah Holland remix) \nOni Ayhun - OAR004  \nThe Fall - Hit the North  \nJames Leyland Kirby - Tonight is the Last Night of the World \nArt Department - Without You  \nDoorway (PTR mash-up) ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra266/",
+  "keywords": "Planningtorock, DFA, The Knife, Charles Darwin, planning to rock",
+  "artist": {
+    "id": "13150",
+    "__typename": "Artist",
+    "name": "Planningtorock"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Planningtorock is the nom de plume of classically trained violinist turned experimental electronic singer/songwriter Janine Rostron. Born in Bolton, northern England, Rostron departed to Berlin a decade ago, which is where she put out her first, self-released record in 2004 and remains to this day. 2006's <i>Have It All</i> LP fully introduced her brand of warped electronic pop through Chicks On Speed Records, while its follow-up, <i>W</i>, dropped earlier this summer on DFA, with Rostron exploring affected sax, strings and voice to \"<a href=\"/review-view.aspx?id=9065\">thrilling</a>\" ends. \nKnown for her colourful on-stage theatrics and <a href=\"http://s.dsimg.com/image/A-501552-1237275270.jpeg\">baffling 'hats'</a>, Rostron last year got together with fellow head-turners The Knife and Mt. Sims in order to co-write the Darwin-inspired electronic opera <i>Tomorrow, In a Year</i> for Danish performance group Hotel Pro Forma. \n\nIt should therefore come as no surprise that Rostron's approach to DJing is anything but straight-laced. Music from Oni Ayhun, The Fall and Anne Clark alongside plenty of her own unreleased material makes for strangely hypnotic trip through the mind of Planningtorock. \n\n<b>What have you been up to recently?</b> \n\nSince the release of <i>W</i> I've been busy rehearsing the live show for the coming tour. I have enlisted two more musicians, got live saxophone and percussion—it's really fun. Plus making remixes for my friends Creep and Austra and preparing the video shoot for my next single \"Living It Out,\" which is coming out early September. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix tape at my studio here in Berlin. \n\n<b>Can you tell us a little bit more about the idea behind the mix.</b> \n\nIt's a combination of contemporary tracks by artists I'm into right now together with artists I've long admired; mixed and unreleased versions of my own tracks taken from <i>W</i> plus more with some remixes I love.  \n\n<b>You're known for your theatrical live shows but what kind of artistic outlet does DJing offer you?</b>\n\nOoh I really love the opportunity to play music that I'm loving right now and dance behind the decks! I just made a duo DJ set with Matt (Mt.Sims) the other night here in Berlin and we had so much fun—we're going to DJ more together in future. \n\n<b>What are you up to next?</b>\n\nTouring! Plus some nice collaborative recordings during the summer that you'll be hearing of soon. ",
+    "blurb": "Weird and wonderful mixtape business. "
+  }
+}

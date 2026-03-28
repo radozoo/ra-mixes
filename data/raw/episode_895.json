@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "895",
+  "url": "https://ra.co/podcast/895",
+  "id": "895",
+  "__typename": "Podcast",
+  "title": "RA.895 Ruby Savage",
+  "date": "2023-07-30T22:00:39.000Z",
+  "fileSize": 173585906,
+  "duration": "01:12:06",
+  "imageUrl": "https://static.ra.co/images/podcast/ra895-RubySavage-cvr.jpg",
+  "contentUrl": "/podcast/895",
+  "tracklist": "Marcel Vogel - If You Like (Alma Negra Remix)\nJamie 326 x MrScruff x Danou P L - Scrubb It\nLen Leise - Desperado Dining\nRon Hardy - Shake It\nPete Herbert & Dicky Trisco - Fique Louca\nDoug Gomez - Meta Mor Fo Sis (Latin Jazz Mix)\nThe Vision - Heaven feat Andreya Triana (Danny Krivit Edit)\nAC Soul Symphony - K-Jee (Philly World Mix)\nSandy Barber - I Think I'll Do Some Stepping (On My Own) (OPOLOPO Rework)\nVisionary - Music Is My Life\nHarry Romero - The Journey\nDoug Gomez - Without you feat Aaron K. Gray\nLuis Radio, Stefano Guerra - Bazaar \nRiver Ocean, India - Love & Happiness (Yemaya Y Ochùn) (12-inch Club Mix)\nDames Brown - Glory (Extended Mix) feat. Waajeed",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra895-ruby-savage/",
+  "keywords": "",
+  "artist": {
+    "id": "81974",
+    "__typename": "Artist",
+    "name": "Ruby Savage"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Like most multi-genre music fans, London-based Ruby Savage approaches DJing through a wide-angle lens. Whether she's touring, playing her post-punk disco party, In Flames, or hosting her monthly Radiant Life show on NTS Radio, the Amsterdam native opts for warm, bouncy tunes that traverse dub, jazz and '80s proto-house. As she once <a target=\"_blank\" href=\"https://mixmag.net/feature/ruby-savage-impact-mix-interview\">told</a> <i>Mixmag</i>, she isn't beat-matching but \"heartbeat-matching.\" For her, a dance is a means to feeling the full spectrum of emotions in a healthy way.\n\nYears spent behind the scenes at influential institutions have added to her understanding of energy and flow. She's worked the counter at Honest Jon's Records, managed Theo Parrish's Sounds Signature label (plus created the Wildheart Recordings sister label) and Gilles Peterson's Brownswood outlet, in addition to helping the Worldwide FM don launch Arc Records. When she's not DJing, she's spearheading community initiatives like Don't Be A Creep, an educational platform about club safety, as well as Artist Recovery Club for creative growth among music-makers.\n\nFor her <i>RA</i> podcast, the vinyl enthusiast crafted a house music odyssey through soul, disco and gospel-inflected cuts like \"Glory\" by Waajeed and Dames Brown. It's an uplifting excursion through joy, catharsis and self-affirmation, relayed straight from the heart.\n\n<b>What have you been up to recently? </b>\n\nMaking ice cream. Digging at my local record shop. Travelling. Playing new places, meeting new people. I love summer!\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI recorded the mix at home. I prefer building my sets bouncing off energy from people on the dance floor but I drew on some good memories of recent parties. Ended up giving it a proper foot stomp (apology to my neighbour Kelly)!\n\nI can get in my head quite a bit. So I wanted the mix to do the opposite. Something fun that would get me back into my body. I love how music can do that. Always feel better after a dance.  \n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nHow white supremacist capitalist patriarchy is fucking. us. all. \n\nResist whenever you can. \n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nI come from the School Of Plastic People! Lucky to have spent many years listening, learning, dancing, connecting and learning some more going to the wild variety of club nights in that basement. It's defined my approach to music, DJing and how I move through the world to this day. To not shy away from trying new things, to mix it up, break rules, be honest, be open and stay dedicated to sharing your best self.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm back at Berlin's Panorama Bar in September. A complete honour. \n\nAlongside DJing, I also run Artist Recovery Club, helping people work through creative block. There's a direct connection between the ability to play (as adults) and tapping into creative flow. I love exploring this, especially in relation to DJing. My next course starts in September. \n\nAlso Don't Be A Creep, a music and nightlife arts initiative in support of safer spaces that I run with Maude Churchill, will be at Rally and We Out Here Festival in August. We work with promoters to communicate their welfare policies in creative and effective ways. It's promising to see wellbeing policies being taken more seriously and as an essential element of throwing a good party—up there with the other necessities such as cloakrooms and toilets.",
+    "blurb": "Timeless house music for summertime. "
+  }
+}

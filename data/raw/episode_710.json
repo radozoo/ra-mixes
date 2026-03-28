@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "710",
+  "url": "https://ra.co/podcast/710",
+  "id": "710",
+  "__typename": "Podcast",
+  "title": "RA.710 Nadia Khan",
+  "date": "2020-01-06T00:00:50.000Z",
+  "fileSize": 165543266,
+  "duration": "01:08:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra710-nadia-khan-cvr.jpg",
+  "contentUrl": "/podcast/710",
+  "tracklist": "Jura Soundsystem - The Lantern Story\nSuso Sáiz - Scrub Your Ego\nLisa Carbon - Look Out The Window (Hollywood Piano) Precipitation - Untitled (April 8th)\nVillete - Penrose Stairs\nLawrence - Sunrise\nPriori - 2see\nMark Barrott - Xarracó\nmdo, Ultrafog, (ò_ó?) - Untitled\nLoscil - Dub For Cascadia\nCOR.S - Anamnesis\nDownstairs J - Y I Froze\nSamo DJ - Pär Och Annika (Ex-Terrestrial Remix) Ludwig A.F. Röhrscheid - Microplastic\nPalta - Optagelse 16A\nVeranda Culture - How They Conquered The World Shanti Celeste - Moons\nEmery Drama - Broken Stairs\nGallery B - Capricornia\nTheodore Cale Schafer - Crowd\nFrancis Harris - Beaumont\nMatthew Hayes & Joel Trigg - Elegant Universe\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/738993526",
+  "keywords": "Huerco S, C-, Where to Now, Scissor and Thread, Sustain Release",
+  "artist": {
+    "id": "67329",
+    "__typename": "Artist",
+    "name": "Nadia Khan"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In recent years, there's been a quiet stream of superb ambient, drone and downtempo music trickling out across the US, but you could be forgiven for not having noticed. Concentrating around Soundcloud mix series, Bandcamp compilations and limited vinyl runs, these artists have seeped into the consciousness of the global scene as unassumingly as their music. North Carolina's Nadia Khan is part of this sphere, which also includes the likes of Huerco S, exael, uon, Solpara, Ultrafog and mdo, who runs <i>c-</i>, the Kansas-based label and mix series which traces the threads between many of these artists. \n\nIt takes nuanced skill to craft an ambient mix which feels dreamy and faraway, while remaining dynamic and engaging. On <i>RA.710</i>, Nadia Khan achieves this balance by thoughtfully alternating between contrasting sonic textures. Wistful chimes dance into escalating arps, vocal snippets drift into thick mists of dub techno, and lackadaisical beats bounce beneath a thin haze of vinyl crackle. Her emotive releases in recent years on <i>Where To Now?</i> and Francis Harris's <i>Scissor And Thread</i> reflect the same nuanced approach to sound design. An appearance at the latest edition of Sustain Release acknowledges Khan's place among the new wave of artists creating immersive deep-listening experiences away from the bustle of the dance floor.\n\n\n<b>What have you been up to recently?</b> \n\nFinding more time to work on new music lately and playing a few gigs here and there. I actually just started playing live this past summer and most recently played in Buffalo, New York for Strange Allure, which was really fun.\n\n<b>How and where was the mix recorded?</b>\n\nRecorded at home using Ableton Live.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nThe mixes I make are mainly ambient, but I tried to incorporate different styles and tempos rather than exclusively playing strictly beatless music. I wanted to showcase a variety of sounds while also keeping it super mellow. Also grateful to have a few friends share some unreleased/forthcoming tracks with me, so I definitely wanted to include them.\n\n<b>Your music and the mix you've made for us is mostly ambient. What is it about ambient music that speaks to you?</b>\n\nI guess I've always been drawn to the simplicity of it. As cliched as it sounds, it's really helped ease my anxiety at times, both as a listener and producer. The funny thing is that I tend to listen to more dance music in my spare time, but it's always nice to take a break from that—there's nothing more comforting than zoning out to a prolonged ambient loop.\n\n<b>There has been a lot of incredible underground ambient music coming out of the US in the past few years, do you feel connected to a wider community there? How has living in North Carolina shaped your musical direction?</b>\n\nDefinitely! I'm really inspired by US collectives/labels like Quiet Time, c-, Motion Ward, and Lillerne Tapes in particular; I think they're putting out some of the best ambient releases right now. Living in NC has been pretty calming. Some people are surprised to hear that there's actually a prominent dance community here. Shout out to my friends at the legendary Nightlight Bar & Club in Chapel Hill! They're the ones that pushed me to start performing live and have been so supportive of my music.\n\n<b>What are you up to next?</b>\n\nFocusing on producing and working on a new live set. I also have a record coming out later this year on Scissor & Thread.\n:)\n",
+    "blurb": "Delicate textures and wistful atmospheres."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "662",
+  "url": "https://ra.co/podcast/662",
+  "id": "662",
+  "__typename": "Podcast",
+  "title": "RA.662 Olof Dreijer",
+  "date": "2019-02-04T00:00:15.000Z",
+  "fileSize": 163456330,
+  "duration": "01:08:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra662-olof-dreijer-cvr.jpg",
+  "contentUrl": "/podcast/662",
+  "tracklist": "Lemonick - SBT\nLechuga Zafiro - C Vs. S feat. Triangulación Kultural (DJ Lag Remix)\nFaka - Uyang’khumbula\nRudeboyz - No Mercy\nKG - Midnight (Flute Riddim)\nRudeboyz - As’Jableni\nYemi Alade - Waka Waka (feat. Bucie)\nKapiro, Fabio Dance, Godzilla do Game - Rabudas\nThe Knife - Got 2 Let U (Shaken Up Version)\nAzealia Banks - Anna Wintour\nOni Ayhun / rRoxymore / Aquarian Jugs / Jaguar Woman - DR1-1\nSelebobo - Gon gon\nAnti-G - The Fucking Error!!!!!\nBranko, PEDRO_Damaia - MPTS\nDJ LYCOX- BOTA O NEGOCIO REMIX #RAPOSA\nTati Quebra Barraco - Tu Quer Ser Eu\nMax Le Daron- Monin'guetin feat. Joey le Soldat, Gan Gah (Pedro Remix)\nNKC - HD Anthem\nOkzharp & Manthe Ribane - Dear Ribane\n700 Bliss - Living (feat. Moor Mother & DJ Haram)\nByrell The Great - #Cmon\nMM - Why You All In My Face\nNoire - Agua Sin Gas\nAriana Grande - Into You (NKC remix)\nLeonce - Flight Risk\nTSVI - Darabukka\nRamadanman - Work Them\nWallwork & RZR - Don't Panic\nDJ N.K. - Orixas Groove\nFever Ray - Wanna Sip (Olof Dreijer remix)\nDeejay Nax - Children's Song (remix)\nDJ Padux ft. Negrinho Pai - Aqui Ta Quente\nDJ PERIGOSO - MacoBayou\nCiara - Level Up\nDJ Satelite - Avacalho",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/569847693",
+  "keywords": "Oni Ayhun, The Knife, DJ Coolof, Noise Manifesto, Honest Jons",
+  "artist": {
+    "id": "64046",
+    "__typename": "Artist",
+    "name": "Olof Dreijer"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As a cofounder of The Knife, his duo with his sister Karin Dreijer (AKA Fever Ray), Olof Dreijer made some of the best electronic pop of the last couple decades. As Oni Ayhun, a production alias active from 2008 to 2015, he made club music that was just as vital and distinct, from the blissed out anthem on <a href=\"reviews/6494\"><i>OAR 003</i></a> to his blazing remix of Emmanuel Jal's \"<a href=\"/reviews/8405\">Kuar</a>.\" And yet, as significant as his contributions have been, he's always kept a low profile, preferring collaboration to solo work and dodging the spotlight whenever possible. Since The Knife disbanded in 2014, he has defied any expectation of what might come next for him. \"Olof Dreijer's instrument of choice for his latest project might come as a surprise to fans of The Knife,\" <i>The Guardian</i> wrote a few years ago in an article about Hiya Wal Âalam, a Tunisian ensemble in which Dreijer plays the flute. \n\nIn addition to that project, Dreijer's done production for artists like Planningtorock and the Swedish pop singer Zhala. He's also reemerged as a club DJ, honing a wild and colourful sound that contains echoes of his records (especially that remix of \"Kuar\") but mostly presents something completely new. A neon-streaked whirlwind that runs the gamut from qqom to pop to UK bass, RA.662 shows the clubby side of this essential artist. \n\n\n<b>What have you been up to recently?</b>\n\nI've been going to school! I took a course to become a youth worker. My plan is to work a bit 50/50 with both my different music projects in my studio and then also working with the music activities like music production and recording at youth clubs in Stockholm. Aside from that I've been continuing to work with the album of Tunisian composer Houwaida Hedfi / Hiya Wal Âalam, Swedish pop singer Zhala, and also an actor / singer in Sweden called Bahareh Razekh Ahmadi. Other than that I'm doing some music for a Serbian documentary film and then I have a more relaxed DJ schedule, like one weekend a month. So it's all a nice mix of stuff, I'm very grateful for that.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it live with three CDJs and a Pioneer mixer, love that reverb :)!\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nJust wanted to capture some fun sounds and music I like to dance to and that I play when I DJ out.\n\n<b>You've been DJing a bit more the past couple years. What got you back into it?</b>\n\nA mix of stuff. First of all the simple fact that there is so much good dance music coming out these days, and that music production is more accessible to a broader group of people now. Then I think it's really fun and creative with the CDJs. I often play three tracks or loops together, and make live mashups of tracks. I also make my own edits or simpler remixes of stuff that also makes it a lot more fun. All in all it's something new and fun to me compared to traveling with technovinyls :).\n\n<b>What are you up to next?</b>\n\nI'm working on two remixes at the moment that I'm excited to see how they land with people. I can't reveal who the artists are I'm afraid.\n",
+    "blurb": "Rowdy club sounds from the cofounder of The Knife."
+  }
+}

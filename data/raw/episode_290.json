@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "290",
+  "url": "https://ra.co/podcast/290",
+  "id": "290",
+  "__typename": "Podcast",
+  "title": "RA.290 Roman Flugel",
+  "date": "2011-12-19T23:59:34.000Z",
+  "fileSize": 142676850,
+  "duration": "01:58:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra290-roman-flugel-cvr.jpg",
+  "contentUrl": "/podcast/290",
+  "tracklist": "Shocks - Atwa - ESP\nArea - Bed Vertigo - Kimochi\nMorphosis - Silent Screamer - Delsin\nPalisade - Paradox - Laid\nVakula - Track 1 - Unthank\nKevin Reynolds - Liasons - Nsyde Music\nKong Oscar - Hypnitiserende - Sex Tags Ufo\nLowtec - Looser - Nonplus\nFred P - Black Magic - Mule Electronic\nOmar S - Here's Trance, Now Dance!! - FXHE Music\nBasic Soul Unit - Flying through the fog - Dolly\nThe Mole - Que Que - Fur Trade\nFreak Seven feat. Aniff - Nano Kids - Rush Hour\nInstra:mental - Pyramid - 3024\nJavier Logares - Silicon Drift (Roman Flugel remix) - Get Physical\nJohn Heckle - Ahead of Time - Mathematics\nBnjmn - Keep The Power Out - Rush Hour Direct Current\nChateau Flight - Chichi Devils - Versatile\nWorthy & Eats Everything - Dirty Tric Trac - Bird\nDark Sky - The Lick - 50 Weapons\nMassimiliano Pagliara - In Order Of More Depth (B.H.F.V. remix) - Live at Robert Johnson   \nPeverelist - Meets Tshetsha Boys - Honest Jons\nVirgo Four - It's A Crime (Caribou remix) - Rush Hour\nRoman Flugel - Brasil (Reprise) - Dial\nMatthew Styles - Sample & Hold - Running Back",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra290/",
+  "keywords": "Roman Flugel, Dial, Alter Ego, How to Spread Lies, Fatty Folders, house, techno, mix",
+  "artist": {
+    "id": "757",
+    "__typename": "Artist",
+    "name": "Roman Flügel"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "2011 has been a standout year in a career of many for Roman Flugel. He <a href=\"/feature.aspx?1289\">told us</a> in January of this year that when he wrote the majestic \"How To Spread Lies\" in 2010 he was hoping to have it released on Hamburg imprint Dial, which of course transpired that November. The headspace Flugel had placed himself in to produce for label seemed to be working for him. Follow-up EP <i>Brasil</i> comprised an array of beautifully poised deep house cuts, although with the benefit of hindsight it was merely an appetiser. Even for a man who's built a career upon diversity, <i>Fatty Folders</i>—released in September of this year—was a new high water mark. \"Fatty Folders is arguably his best work to date,\" <a href=\"/review-view.aspx?id=9776\">said</a> RA's Derek Miller, and really, there was no argument to be made. \n\nAs for RA.290? Put simply, it's one of our finest mixes of the year. Comprised of tracks from the year. By one of the men of the year. \n\n<b>What have you been up to recently?</b>\n\nI've been travelling, playing DJ gigs here and there around Europe and spent the rest of the time in my studio working on my own stuff and remixing other peoples' music. The last remix I've finished was for Eamon Harkin. It will be released on Throne Of Blood around February 2012. \n\n<b>How and where was the mix recorded?</b>\n\nI used two 1210 Technics, one Pioneer CDJ 800 and a Rane Mixer. The mix was recorded in Logic so if something went totally wrong while I was mixing I was able to fix it later.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nAll tracks have been released in 2011 and the mix is more or less divided in three parts. I'm trying to express some of my musical likes that do not necessarily have to \"work\" in a club, along with some of what I'd consider big club tunes of 2011. The first, let's say more moody, part of the mix ends with the Basic Soul Unit track. From there on the temperature is rising until Worthy and Eats Everything's \"Tric Trac.\" That track had some massive reactions this year. After that I approach for a landing.\n\n<b>Can you tell about the creative process behind <i>Fatty Folders</i>? </b>\n\n<i>Fatty Folders</i> is my first solo album since my works under the aliases Eight Miles High or Soylent Green. These albums came out 2002 and 2006. The overall aim was to put as much of myself into the production process as possible. It took me a few months to finish the whole album but that is also because I'm away for DJing on the weekends. Everything is played and mixed by myself—more or less no preset sounds or sample banks were used. I'm very happy that I was finally able to touch some other peoples' feelings with what I'm doing. I'm very thankful for that. \n  \n<b>What are you up to next?</b>\n\nI'm currently thinking of producing another album and this time without a five year gap in between. There are still some remixes I have to finish and besides that I'm hoping to play some exciting sets on the weekends. ",
+    "blurb": "Frankfurt's finest presents 2011 in two hours. "
+  }
+}

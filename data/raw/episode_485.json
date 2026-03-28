@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "485",
+  "url": "https://ra.co/podcast/485",
+  "id": "485",
+  "__typename": "Podcast",
+  "title": "RA.485 DJ Firmeza",
+  "date": "2015-09-13T11:50:44.000Z",
+  "fileSize": 90823052,
+  "duration": "00:37:44",
+  "imageUrl": "https://static.ra.co/images/podcast/ra485-firmeza-cvr.jpg",
+  "contentUrl": "/podcast/485",
+  "tracklist": "Intro beats Firmeza   \nDJ Maboku & DJ Firmeza - Tamos De Volta  \nDJ Edna & DJ Firmeza - Infinitos Dos Brancos \nDJ Firmeza - Beat Martin Lopes\nDJ Firmeza - Tuganda Rija \nDJ Firmeza - Terrorista\nDJ Firmeza - Alma Do Meu Pai \nDJ Dadifox & DJ Firmeza - Rererere (Edit Remix PDDG) \nDJ Firmeza - Noite Príncipe\nDJ Firmeza - Revolta\nDJ Firmeza - Instrumental Dos Numeros \nDJ Firmeza - Descansa Em Paz Rmx \nDJ Firmeza - Rererer Fifaz Fifaz Rmx",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra485/",
+  "keywords": "Firmeza, DJ, Lisbon, Principe",
+  "artist": {
+    "id": "59198",
+    "__typename": "Artist",
+    "name": "DJ Firmeza"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "This <a href=\"https://www.facebook.com/185392451552355/photos/pb.185392451552355.-2207520000.1442135700./838907449534182/\">photo</a> does a great job of capturing the appeal of DJ Firmeza and the scene he comes from. It was taken during a Príncipe showcase at Café Oto in London earlier this summer, and it shows the sweaty culmination of Firmeza's set, as the chaos on the dance floor spilled over to the DJ booth. The music at that moment—a blend of styles like kuduro, batida and Afro house—was fast, rhythmically complex and impossibly energetic. The sound, which has its roots in Lisbon's Afro-Portuguese club music scene, has been gradually gaining momentum outside of the city in the last couple years, thanks mainly to the label Príncipe. Since RA editor Ryan Keeling <a href=\"/feature.aspx?2021\">profiled</a> the scene near the beginning of last year, the label has introduced a host of new names to international audiences, while the revered UK imprint Warp began showcasing the sound with a compilation series called <i>CARGAA</i>. Leading figures like DJ Marfox and DJ Nigga Fox have become in-demand touring acts, and the 20-year-old Firmeza is well on his way to joining them. \n\nFirmeza has a glowing reputation in Lisbon as a technically dexterous DJ who, like many in the scene, mainly plays his own music. His tracks focus on smart and effective drum programming with the occasional oddball flourish, and he's so far had a <a href=\"/review-view.aspx?id=14077\">split release</a> out on Príncipe and an appearance on the second <i>CARGAA</i> compilation. In October Firmeza will release his first solo record on Príncipe, the six-track <i>Alma Do Meu Pai</i>, which serves as both a deeper exploration of his talents and a tribute to his late father. None of the music on Firmeza's short but sweet RA podcast has been released, which shows you just how inspired he is at the moment. \n\n\n<b>What have you been up to recently?</b>\n\nI've been studying. \n\n<b>How and where was the mix recorded?</b>\n\nAt my girlfriend's house.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nMy inspiration for it was you guys out there.  \n\n<b>How have things changed for the Lisbon scene in the last 12 months?</b>\n\nIt has developed quite a bit, opened a lot of doors for us.\n\n<b>Which new producers should we look out for?</b> \n\nDJ Dadifox, DJ Liofox and DJ Nervoso. \n\n<b>What are you up to next?</b>  \n\nSoon my first record will come out on Príncipe, <i>Alma Do Meu Pai</i> (my father's soul). I dedicate it to him with all my love, affection and, unfortunately, sadness for him not being around no more. May God keep him in peace.\n\n\n<span class=\"grey\">DJ Firmeza will play a <a href=\"/event.aspx?744073\">Príncipe showcase</a> at Dance Tunnel in London on Friday, October 9th as part of the upcoming <a href=\"/promoter.aspx?id=55357\">Clock Strikes 13</a> series.</span>",
+    "blurb": "The ghetto sound of Lisbon takes its next step. "
+  }
+}

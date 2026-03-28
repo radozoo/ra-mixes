@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "93",
+  "url": "https://ra.co/podcast/93",
+  "id": "93",
+  "__typename": "Podcast",
+  "title": "RA.093 Mara Trax",
+  "date": "2008-03-10T10:00:31.000Z",
+  "fileSize": 82026076,
+  "duration": "01:08:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra093-mara-trax-cover.jpg",
+  "contentUrl": "/podcast/93",
+  "tracklist": "01 <a href=\"/dj-page.aspx?id=1825\">Chaton</a> - Catch The Beat (Agnès - Limmat Luftmadratz Redive) - <a href=\"/record-label.aspx?id=1095\">Sthmlaudio Recordings</a>\n02 <a href=\"/dj-page.aspx?id=2329\">Miss Fitz</a> & Shaun Reeves - Bobby Lonesome - Unreleased\n03 Stephan G & the Persuader - Kaos EP - Svek\n04 <a href=\"/dj-page.aspx?id=2152\">Digitaline</a> - Fenetre - <a href=\"/record-label.aspx?id=763\">Cadenza Records</a>\n05 <a href=\"/dj-page.aspx?id=503\">Ricardo Villalobos</a> - Farenzer House – <a href=\"/record-label.aspx?id=1484\">Sei Es Drum</a>\n06 <a href=\"/dj-chart.aspx?id=966&chart=905\">Klockworks</a> - Klockworks 02 (Edit) - <a href=\"/record-label.aspx?id=1018\">Klockworks</a>\n07 Scott Ferguson - Any Day Now (ElectroVox Remix) - <a href=\"/record-label.aspx?id=1125\">Deep Vibes Recordings</a>\n08 Grant Dell - Sleeping Dub - Worship Recordings\n09 Flow - Blue Skies - Low Pressings\n10 Markus Fix - Midnight Frogger - Unreleased\n11 Dimbiman - First Laki - <a href=\"/record-label.aspx?id=750\">Perlon</a>\n12 <a href=\"/dj-page.aspx?id=2323\">Andomat 3000</a> & Jan - Frost - <a href=\"/record-label.aspx?id=763\">Cadenza Records</a>\n13 Andy Vaz - You Got? - <a href=\"/record-label.aspx?id=1306\">Yore Records</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra093/",
+  "keywords": "",
+  "artist": {
+    "id": "2329",
+    "__typename": "Artist",
+    "name": "Miss Fitz"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Vera and Miss Fitz have only been working together for a short time, but the music they love to play is the sound <i>of</i> the time. Mixing dance music’s current penchant for deepness with the old school tracks that they are consciously trying to evoke, the team are part of a new deep movement especially springing up around the cities of Frankfurt, Mannheim and the record labels Cecille and Oslo. \n\nBefore meeting in Berlin a few years ago, Vera and Miss Fitz were each forging their own path in the electronic music world. (They still are: Each plays out just as often solo as they do together.) Vera’s first move was a residency at Offenbach club Robert Johnson, where she's been spinning since 2003. Miss Fitz, on the other hand, has released tracks for a variety of labels (Archipel, Raum…musik and Freak n’ Chic to name just a few) as well as playing her Space Monkeys Unite night at Berlin’s Watergate.\n\nWhen the two get together, though, something special happens, as you’ll hear in this week’s RA podcast. Taken from a night the duo were DJing live at their homebase of the Robert Johnson Club, Vera and Fitz walk us carefully through the increasingly blurry line between techno and house via tracks by Villalobos, Dimbiman and Ben Klock. Can you feel it?\n\n<b>What was the idea behind Mara Trax? How did it start?</b>\n\nWe met in Berlin around one or two years ago. We discovered that we have similar ideas and concepts about music, and we both appreciate each other, as artists as well as people. The idea was simple: let's make music together!\n\n<b>How would you describe the sound?</b>\n\nWe both love old school house grooves, but also are open for new music. We like deep music and music that is reduced to a minimum. Those facts probably have an influence on what we are doing. We want to keep it simple with the focus on the groove. We like the idea of connecting classic, old school sounds with new influences. (Both in our productions and our DJ sets.)\n\n<b>What have you been working on together so far?</b>\n\nWe have made a couple of tracks together. One of them, 'Hohoes', was released on the Spanish label Cyclical Tracks, last December. Our debut EP <i>...It Got Me Funk</i> was released on Oslo Records in January.\n\n<b>Tell us about the mix.</b>\n\nIt's a short extract of an eight-hour back-to-back set. We actually didn't like the idea of using a club recording for the podcast, as mixes are often a bit messy, but the messy party is missing. But we don't live in the same city so it was hard to coordinate a meeting just to record a set.\n\n<b>What's coming up for you two? What will we see next from Mara Trax?</b>\n\nWell, we hope a couple of nice 12-inches and some funky DJ sets! Besides that, we are both working on our solo projects. (Vera will have an EP on Cargo Edition, and a track on the Moon Harbour compilation; Maayan will be releasing another EP on Raum…musik, as well as Contexterrior plus there will be a track on the Sushitech compilation.) And we both have projects with other artists. So watch out and keep an eye on us. ;)",
+    "blurb": "This week's RA podcast is a deep house mix from Mara Trax, AKA DJ and production team Vera and Miss Fitz."
+  }
+}

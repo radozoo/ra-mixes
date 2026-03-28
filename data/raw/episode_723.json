@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "723",
+  "url": "https://ra.co/podcast/723",
+  "id": "723",
+  "__typename": "Podcast",
+  "title": "RA.723 Paramida",
+  "date": "2020-04-06T00:00:06.000Z",
+  "fileSize": 248599972,
+  "duration": "01:43:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra723-paramida-cvr.jpg",
+  "contentUrl": "/podcast/723",
+  "tracklist": "A3000 - Flow [Disturbance]\nThe Irresistible Force - Space Is The Place (Intergalactic Ambient Mix) [Cyclotron]\nBliss Inc. - Outer Limits [Magicwire]\nVista - Look To The Future [Synthetique]\nAlex Kassian - Oolong Trance (Paradise Mix) [upcoming Love On The Rocks]\n3 In Key - Untitled [Eye 4 Sound]\nAgent Orange feat. Alexi Delano - The Gong Of Love [Loop Records]\nDaisy Glow - Theme From Daisy Glow (C-Level Mix) [ZoëMagik Records]\nPeyote Dreams - State Of Mind (Slack Mix) (Alex Kassian Remix) [upcoming Love On The Rocks]\nFrequency - Systematic Input [Lower East Side Records]\nScott Smith, Scott Featherstone (Glorious Springtime) - My Jupiter Rox's [Deeper Audio Cuts]\nHigh Lonesome Sound System - Waiting For The Lights (Telephones Re-Edit)\nTornado Wallace - Start Again [CockTail d'Amore Music]\nAcorn Arts - Silence - [X-Gate Records]\nAlex Kassian - Oolong Trance (Telephones' ADHD Mix) [upcoming Love On The Rocks]\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/791955853",
+  "keywords": "Panorama Bar, Robert Johnson, Alex Kassian, Massimiliano Pagliara, Ostgut, Love on the Rocks",
+  "artist": {
+    "id": "17993",
+    "__typename": "Artist",
+    "name": "PARAMIDA"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In an interview two years ago, Paramida quoted fellow DJ Nick The Record: \"It takes balls to play cheesy music.\" And while you wouldn't call what she plays \"cheesy\" per se, the Berlin jockey has an unabashed taste for the ecstatic, uplifting and old-school. She prefers dance music that foregrounds catchy vocals, vamping pianos and hooky synth leads, seeking out  blissed-out dance music from the early '90s through to 2020. She used to be a quintessential DJ's DJ, but she's broken out onto the wider dance music circuit in recent years—even Timothée Chalamet <a href=\"https://twitter.com/TChalametCN/status/1238467774541975553\">Instagrammed himself</a> listening to one of her Rinse FM sessions last month. And she holds residencies at renowned clubs like Robert-Johnson in Frankfurt and Panorama Bar in Berlin, where she's become known for closing out the joint.\n\nParamida's <i>RA</i> Podcast is a snapshot of the DJing that has enchanted so many. It starts off gradually with precise but gentle mixing, the kind of transitions you barely even notice. It infuses trance with a Balearic sensibility, more about slow build-ups than big breakdowns, encompassing ambient hardcore from The Irresistible Force, soulful '90s techno from Glorious Springtime and a centrepiece track, \"Oolong Trance,\" from Alex Kassian, due to be released on her label Love On The Rocks. She's already released records from Massimiliano Pagliara, Fantastic Man, Violet and more, with an ethos defined not by genre but by vibe: spaced-out, breezy and often euphoric.\n\n<b>What have you been up to recently?</b>\n\nI have recently joined Ostgut Booking, which I am really excited about. But apart from that, I've been self-quarantined for the past few weeks for obvious reasons.\n\n<b>How and where was the mix recorded?</b>\n\nIn Ableton at home.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to give you a glimpse of what I could possibly play in a DJ set. I also included some upcoming stuff on Love On The Rocks, such as my dear friend Alex Kassian's \"Oolong Trance,\" which I'm really excited about.\n\n<b>For readers who may not already be familiar with you, tell us about yourself. What's your musical journey been like up to this point?</b>\n\nI started out working at a record store in Berlin, ran a couple of parties and held some residencies. Then I started my label Love On The Rocks. After a couple of years it was time for me to move away from Berlin, because I had too many social obligations and I wanted to focus on myself. Now I hold residencies at Robert Johnson, Rinse FM and Panorama Bar as well.\n\n<b>You recently became Panorama Bar's new resident DJ. Has that changed your DJing at all?</b>\n\nI had a good relationship with them for a few years now. Being a resident just means that I have tons of sets to prepare and discover avenues of musical territories that I haven’t yet. But it also means I have a great platform to express what I want musically. And it feels great that an institution like Berghain bet their cards on me. I have a lot to live up to.\n\n<b>What are you up to next?</b>\n\nStaying at home, working on some mixes and my radio show on Rinse FM. Plus, I have been working on a track with someone else that is coming out on Ostgut Ton, which I am really psyched about. And hopefully by the summer I will be able to travel and play gigs again.\n",
+    "blurb": "Blissful jams from Panorama Bar's newest resident.\r\n"
+  }
+}

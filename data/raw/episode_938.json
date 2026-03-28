@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "938",
+  "url": "https://ra.co/podcast/938",
+  "id": "938",
+  "__typename": "Podcast",
+  "title": "RA.938 Actress",
+  "date": "2024-05-26T22:10:28.000Z",
+  "fileSize": 130014085,
+  "duration": "00:54:10",
+  "imageUrl": "https://static.ra.co/images/podcast/1x1actressai.jpg",
+  "contentUrl": "/podcast/938",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra938-actress/",
+  "keywords": "",
+  "artist": {
+    "id": "6736",
+    "__typename": "Artist",
+    "name": "Actress"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Actress's highlight reel needs little exposition. Darren J. Cunningham has been a prominent yet inscrutable figure in electronic music since the late 2000s, typically flickering to life from the margins before receding into the shadows. Beloved albums like <a href=\"/reviews/10804\" target=\"_blank\"><i>R.I.P.</i></a>, <a href=\"/reviews/25301\" target=\"_blank\"><i>Karma & Desire</i></a> and <a href=\"/reviews/7738\" target=\"_blank\"><i>Splazsh</i></a> may switch up the template, but the Actress hallmarks of haze, murk and showstopping beauty remain.\n\nAs you'll see in the interview below, he's a man of few words—that's in character for him. What's characteristic, too, is a taste for surprises. Ahead of the release of tenth studio album <a href=\"/news/80615\" target=\"_blank\"><i>Statik</i></a> on esteemed Norwegian label Smalltown Supersound next month, here's the \"Дарен Дж. Каннінгем <i>RA</i> Mix\"—a tapestry of 100 percent original and exclusive Actress music you won't find anywhere else. Flowing between pensive, rugged and stargazing moods across an album's worth of unaired tracks, Actress's first time stepping up on the <i>RA</i> Podcast was clearly worth the wait. <i>– Gabriel Szatan</i>\n\n<b>What have you been up to recently?</b>\n\nFinished the <i>Statik</i> LP for Smalltown Supersound and preparing for a few more things for later in the year.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nA collage—Braque.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nWerk-It.\n\n<b>What are you looking forward to in the near future?</b>\n\nThings later in the year.",
+    "blurb": "100 percent original, unreleased Actress."
+  }
+}

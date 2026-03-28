@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "9",
+  "url": "https://ra.co/podcast/9",
+  "id": "9",
+  "__typename": "Podcast",
+  "title": "RA.008 Dan Ghenacia",
+  "date": "2006-04-24T12:00:28.000Z",
+  "fileSize": 56811468,
+  "duration": "00:59:08",
+  "imageUrl": "https://static.ra.co/images/podcast/ra008-dan-ghenacia-cover.jpg",
+  "contentUrl": "/podcast/9",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra008/",
+  "keywords": "",
+  "artist": {
+    "id": "685",
+    "__typename": "Artist",
+    "name": "Dan Ghenacia"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Dan made a name for himself in the afterhours, first with his Sunday morning party Kwality at Le Batofar, an old boat moored on the River Sein. Since then Ghenacia has continued the carry-on sessions playing London's infamous Secretsundaze, as well as summer residencies at DC10 and We Love Space in Ibiza. This Podcast comes to you from Dan's current Sunday night residency Le Zebre, held at another unique venue, this time an intimate theatre in East Paris. \n   \nAway from the decks Dan is equally busy. He has co-produced tracks with artists such as David K, Phil Weeks and Sweet Light, appearing on labels such as <a href=\"http://www.residentadvisor.net/label_view.asp?ID=345\">Crosstown Rebels</a>, Cyclo, Brique Rouge and his own label Freak n' Chic. Freak n' Chic has amassed releases from Jérôme Pacman, Sébastien Bouchet, Andrea Ferlin and Jamie Jones debut ‘Amazon’ (also featured in <a href=\"http://www.residentadvisor.net/podcast-episode.asp?id=6\">RA.005 Kiki</a>). \n\nDan recently gave RA an insight into his schedule...\n\n<b>What have you been working on recently?</b>\nAt the moment I'm working in the studio with David K on our new EP for our U&I project, which will be out in June on my label Freak n' Chic. There is also my Freak n' Chic party on Sunday evenings in Paris at Le Zebre. It's not a club - it's a cabaret for 300 people. We play records from 7pm till 1.30 am. I love this event it's a very deep atmosphere and can be very crazy too. This season (I only hold the parties in the winter) my guests were <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=690\">John Tejada</a>, <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=711\">Guido Schneider</a>, Matt John, <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=364\">Steve Bug</a>, Jose De Divina, <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=712\">Marc Houle</a>, <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=90\">Craig Richards</a> and <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=698\">Âme</a>, as well as Freak n' Chic artists playing too like Dyed Soundroom, :Terry:, Seb Bouchet, Jamie Jones and David K. The closing party is on May 14, then I go to Ibiza. I am also working on the <a href=\"www.freaknchic.com\">Freak n' Chic website</a> which will be online in May.\n\n<b>Where was the mix recorded?</b>\nIt was recorded at Le Zebre  in April. It is the first hour of my session and a good example of what I like to play on Sunday night.\n\n<b>What are you up to next?</b>\nFirst I am  going to do a party again at Le Batofar in Paris after three years break (this is where I first started to DJ). I am really exited because we are going to book very talented artists who are not well known by the public in Paris, like Butane, Alex Under and Tim Xavier. It's the perfect club in Paris for this kind of experience. Puzzle at Batofar debut party is this Saturday, 28 April. Second, I am going for my third summer season in Ibiza, and will play to my two residencies We Love Sunday at Space and CircoLoco at DC10 every Monday. ",
+    "blurb": "The eight edition of the RA Podcast is from Parisian Dan Ghenacia. "
+  }
+}

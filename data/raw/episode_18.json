@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "18",
+  "url": "https://ra.co/podcast/18",
+  "id": "18",
+  "__typename": "Podcast",
+  "title": "RA.017 Matthew Styles",
+  "date": "2006-07-10T14:30:58.000Z",
+  "fileSize": 57548122,
+  "duration": "00:59:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra017-styles-cover.jpg",
+  "contentUrl": "/podcast/18",
+  "tracklist": null,
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra017/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:753"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<a href=\"http://www.residentadvisor.net/dj_view.asp?ID=753\">Matthew Styles</a> is the other half of London label Crosstown Rebels. As a DJ he’s most known for the unmixed and experimental side of the Lazarus and Styles’ ‘Get Lost!’ double CD released earlier this year but never fear: this man knows his way around a pair of turntables.\n\nThe son of a DJ, Mathew Styles has been behind the decks for ten years. Those in London will know him from his Sunday afterhours parties at the T Bar in London which have featured illustrious company of Rob Mello, Hector and Luciano. He also spins at some of the world's best clubs including the Panoramabar and Polar TV in Berlin, Pulp in Paris and Fabric in London. If you’re going to Ibiza in September, you can also catch him at the Stink closing party playing alongside Ivan Smagghe, Michael Mayer & Damian Lazarus.\n\nInterestingly, Matthew also has a background in software (his applications run on Kompakt, Bpitch Control and Shitkatapult computers!) so if your grandma’s got any questions about why her email won’t work, send ‘em along to Matthew at Crosstown Rebels.\n\nCombining the hypnotic elements of minimal with a house groove, Matthew's podcast for RA also features disorienting vocal samples and the conversation between Hal and Dave from Space Odyssey 2001.\n\nStyles was handing over the mix when RA pestered him with a few questions:\n\n<b>What have you been doing recently?</b>\n\nI've just finished the tour for the compilation ‘Get Lost!’ that Damian and I did in the spring, which took us both to some amazing clubs and great parties. But during the week I've mostly working on getting the summer releases ready for Crosstown Rebels.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded at home in London about two or three weeks ago.\n\n<b>What are you up to next?</b>\n\nWell, we still have ‘Dig Your Own Rave’ on Sundays evenings at the T Bar with Rob Mello, Jamie Jones, Dave Congreve and Hector. Also we have a room at Fabric in August with a whole bunch of the artists playing and there's those Stink parties at DC10 throughout July and August. So it should be a good Summer on the party front.\n\nOn the music front, Crosstown Rebels have new releases from Silversurfer, Pier Bucci, Ost & Kjex, Minilogue, Locodice, 3 Channels and some remixes from Jennifer Cardini and Mathew Jonson so I'm quite busy the next few weeks with getting those ready.\n",
+    "blurb": "This week Matthew Styles from Crosstown Rebels graces the RA turntables."
+  }
+}

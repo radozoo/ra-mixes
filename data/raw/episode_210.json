@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "210",
+  "url": "https://ra.co/podcast/210",
+  "id": "210",
+  "__typename": "Podcast",
+  "title": "RA.210 Brothers Bouaziz ",
+  "date": "2010-06-07T09:00:30.000Z",
+  "fileSize": 74248151,
+  "duration": "01:01:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra210-brothers-bouaziz-cove.jpg",
+  "contentUrl": "/podcast/210",
+  "tracklist": "Toto - Africa (Dub)\nLucio Battisti - Encora Tu\n<a href=\"/dj/autechre\">Autechre</a> - Arch Carrier\nThe Splash Band - Christine\n<a href=\"/dj/skatebard\">Skatebard</a> - June Nights in Sienna\n<a href=\"/dj/tobytobias\">Toby Tobias</a> - Close Shave\n<a href=\"/dj/icube\">I:Cube</a> - Merovingienne\n<a href=\"/dj/mrraoulk\">Mr Raoul K</a> - Moment Psychedelik\nMaestro - A War Zone (Club Mix)\n<a href=\"/dj/jamesholden\">James Holden</a> - Triangle Folds Inside Out\n<a href=\"/dj/johntejada\">John Tejada</a> - Significant Numbers\nDyE - Nike\nEtienne Daho - Patch Up My Heart (Viby Summer in New York 1985)\nNakion - Horse Track\nExcepter - Stretch (JG Thirwell Remix)\nMMM - Nous Sommes MMM\nThomas Bangalter - Extra Dry\nIV - The Beast\n<a href=\"/dj/skream\">Skream</a> - 2-D\nSolid Space - Tenth Planet",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra210/",
+  "keywords": "Brothers, Bouaziz, Joakim, Mattias, Tigersushi, house, dj, music",
+  "artist": {
+    "id": "876",
+    "__typename": "Artist",
+    "name": "Joakim"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "This week sees the release of Tigersushi's <i>More G.D.M. X</i> double-disc collection. It's a celebration of the ten years that have passed since Joakim and schoolmate Charles Hagelsteen first founded the Tigersushi.com website and, soon after, inaugurated the record label of the same name. They started by reissuing classic tracks from the likes of Psychic TV, Cluster, Terrence Parker and Material alongside new material from Metro Area, Maurice Fulton and John Tejada on the first <i>More G.D.M.</i> compilation. Much like Joakim's own music, the label has brought together rock and dance influences into a coherent vision, with dance-punkers Panico sitting happily on the roster alongside DyE's experimental electro and quirky house.\n\nJoakim's brother Mattias started to work at Tigersushi in 2005, following his graduation from a photography school in Brussels. He's gone on to become the label manager's and occasional snapper, but he's also known for his deft touches behind the decks, DJing solo as Mattias and also alongside <i>Space Oddities</i> curator Alexis Le Tan and Vidal Benjamin under their Tigersushi Bass System moniker. \n\nThis week's RA podcast sees Joakim and Mattias come together for a rare back-to-back recording, which manages to meander through electronic disco, house, techno, electro and even a bit of dubstep in just over an hour. We spoke to the pair of them to ask about the mix, Tigersushi Bass System and their previous history behind the decks.\n\n<b>What have you both been working on recently?</b>\n\t\t\t\nMattias Bouaziz: Releasing records! <i>More G.D.M. X</i> (10 Years Compilation), new signings Nakion and Maestro, new Panico material, a split 7-inch with Optimo. Also setting up a tour for the ten years with all the crew.\n\n<b>How and where was the mix recorded?</b>\n\nMB: It was recorded on hot afternoon in Paris, at Joakim's studio.\n\t\t\t\n<b>Can you tell us a little bit about the mix?</b>\n\t\t\t\t\nMB: This is a kind of megamix, isn't it? Western influenced with slices of East.\n\t\t\t\nJoakim Bouaziz: Yes, and basically we made the mix back-to-back, both of us choosing one song after one another.\n\n<b>Have you DJed together much in the past?</b>\n\t\t\t\t\nMB: Not so much. Actually, it's the first time.\n\t\t\t\nJB: True. But we'll be doing a few gigs together for the ten year anniversary tour. In Nottingham and Bristol this month for instance.\t \n\n<b>What are Tigersushi Bass System up to at the moment?</b>\n\t\t\t\t\t\t\t\nMB: I think they are digging somewhere...\n\t\t\t\nJB: Tigersushi Bass System is Mattias, Alexis Le Tan and Vidal Benjamin (and me). Alexis and Vidal are simply the craziest record diggers in Paris. They can drive hundreds of kilometers on a weekend to go to a specific flea market where they hope to find amazing rare records for a few bucks.\n\n<b>Your recent compilation celebrates ten years of Tigersushi. Do you have any particularly fond memories from your decade in the game?</b>\n\t\t\t\t\nMB: Guess so... I'm really happy to have met the P.O.G. and for all the time spent with them and beyond, Guillaume Teyssier and his dreamy cat Loubavitch, Poni Hoax and the she-males, Panico the Hispanic and Benicassim the wild epic, August 7th, 2005, DyE and his Nikes, Sir Alice and her unruly hair. Not already happened: a big Tigersushi warehouse rave in Toulouse on June 25th.\n\nJB: I'm definitely looking forward to that \"rave\" too. We'll try to launch Summer Of Love 2010 with me versus Jackson, George Issakidis (the love minister), Tigersushi Bass System and DyE.\n\n<b>What are you up to next?</b>\n\nMB: The music will tell...",
+    "blurb": "Tigersushi bosses Joakim and Mattias get in the mix together on this week's RA podcast."
+  }
+}

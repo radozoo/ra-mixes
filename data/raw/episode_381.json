@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "381",
+  "url": "https://ra.co/podcast/381",
+  "id": "381",
+  "__typename": "Podcast",
+  "title": "RA.381 Mark Fell",
+  "date": "2013-09-16T00:00:58.000Z",
+  "fileSize": 144454429,
+  "duration": "01:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra381-mark-fell-cvr.jpg",
+  "contentUrl": "/podcast/381",
+  "tracklist": "Daniele Lombardi, Sheila Concari, Sara Bennici - La seduzione (Fela)\nMartin Neukom - 18.9\nDavid Behrman - Leapday Night Scene 2 \nTerry Riley - Purple\nAnthony Pateras - Automatic 2\nAnthony Pateras - Cellular Cloud 1\nLila, Queen Of The Necrophiles - Interview\nHerbert Brun - U-Turn-To\nMaryanne Amacher - Step Into It, Imagining \nIannis Xenakis - Taurhiphanie\nDaniel Menche - Animality\nAgostino Di Scipio - Hörbare Ökosysteme Nr. 2b\nChristophe Charles - Unter Den Linden\nIvan The Terrible - My Love (Original Mix)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra381/",
+  "keywords": "Mark Fell, Sensate Focus, SND, ambient, experimental, CTM",
+  "artist": {
+    "id": "19560",
+    "__typename": "Artist",
+    "name": "Mark Fell"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Mark Fell has always had a complicated relationship with dance music. As one half of SND, he sculpted dilapidated rhythms that were just coherent enough to be funky. He struck a similar chord with Sensate Focus, a project that produced what might have been house bangers if their rhythms hadn't been pulled inside out. This ambivalence was perhaps best embodied by his performance at Berghain during CTM festival last winter: a brutal kick drum thudded with mind-numbing repetition, while enormous dancing figures, inflated from below by industrial fans, writhed in a barrage of strobe lights. It was hard to say if it was a parody or a celebration of club music—or both. Either way, it was the most talked-about performance of the festival.  \n\nTrue to form, Fell's RA mix is a haunting collage of ambient, experimental and spoken-word pieces, with one belter of a house tune thrown in for good measure. \n\n<b>What have you been up to recently?</b>\n\nI've been making some new work at EMS in Stockholm, and making some new installation works. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded on my sofa on my laptop using digital performer. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThere wasn't really an idea, I just put some records together that I liked. I guess the idea, if there was one, was to keep the content quite similar, and then have one or two points where the type of music was quite different. \n\n<b>Tell us about your plans for an installation at Trouw during ADE.</b>\n\nI'm controlling the colour of a laser in conjunction with the tone of sound. I might also use some strobes. \n\n<b>You said that one of the aims of Sensate Focus was for the music to be \"played in clubs.\" Have the releases been picked up by many DJs? Would you expect the music to elicit a reaction that different from that of the house and techno that it's based on? </b>\n\nIt's not a reaction against it. I see it more as a response to the structures present in some dance music. I think some of the releases have been picked up by DJs, but obviously it's not that easy to mix or dance to, I guess. \n\n<b>What are you up to next?</b>\n\nCurrently I'm developing some works for a solo show at Baltic 39 in Newcastle. I'm planning a residency at EMPAC (Experimental Media And Performing Arts Center) in New York. ",
+    "blurb": "An engrossing work of contrasts from the avant-garde producer."
+  }
+}

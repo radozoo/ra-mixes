@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "717",
+  "url": "https://ra.co/podcast/717",
+  "id": "717",
+  "__typename": "Podcast",
+  "title": "RA.717 Stenny",
+  "date": "2020-02-24T00:00:30.000Z",
+  "fileSize": 143984304,
+  "duration": "00:59:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra717-stenny-cvr.jpg",
+  "contentUrl": "/podcast/717",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/765646075",
+  "keywords": "Ilian Tape, Vostok Smokescreen, Solstice Deity, Zenker Brothers, Blitz Club",
+  "artist": {
+    "id": "17434",
+    "__typename": "Artist",
+    "name": "Stenny"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Stenny was a crucial component of Ilian Tape's transformation into one of the defining labels of the 2010s. Ironically for the Munich crew, it was two Turin producers—Stenny and Andrea—who helped blow the doors open for the imprint in 2013 with the <a href=\"/reviews/13762\"><i>Vostok Smokescreen</i></a> split, while Stenny's own debut solo EP, <i>Solstice Deity</i>, reinforced the label's emerging sound: widely reverberating kicks and carefully degraded percussion, tuned to evoke the proverbial warehouse, and animated by an increasingly slippery approach to rhythm. \n\nAmong the Shed-school <a href=\"/reviews/16879\">techno boomers</a>, elements of <a href=\"https://iliantape.bandcamp.com/track/3kk-cb-sat\">breaks</a>, <a href=\"https://iliantape.bandcamp.com/track/corrupt-506\">electro</a> and <a href=\"/reviews/23909\">2-step</a> emerged in Stenny's work as the decade progressed, culminating in last year's <a href=\"/reviews/24469\"><i>Upsurge</i></a> LP. That one confirmed what his more experimental productions suggested: his fluency with texture, arrangement and rhythm are sensitive enough to build a fully-fledged narrative. Like Ilian Tape's other <a href=\"/reviews/22568\">leading lights</a>, Stenny best showed his potential after escaping the constraints of the DJ 12-inch format. \n\nThe feeling of a voice unconstrained shines through in RA.717. Stenny's mongrel production style is brought to life here by blends between aquaplaning techno, half-time dubstep mutants and bolshy, rude boy blowouts, balancing careful mixing with a carefree approach to genre. \n\n<b>What have you been up to recently?</b>\n\nI've been playing more gigs than usual, so mostly sorting /buying music. Besides that, reorganizing the studio setup and fixing things in the flat. I've had some incredibly funny moments and traveled a lot. I'm really thankful about how things are going. Besides that and couple of nights out with friends, I don't have much time for anything else.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in one take at Blitz Club in Munich, with three CDJ-2000NXS2s, two turntables and a Pioneer DJM-900NXS.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe set was recorded in a club, so the environment definitely had a weight on the selection. I wanted to keep a fast flow, without caring too much about genres, looking mostly for interesting transitions. This mix includes some old tunes, more recent ones and unreleased work from some artists I really admire.\n\n<b>Almost every track you've released has come out through Ilian Tape. What's release the process like between you, Marco and Dario Zenker?</b>\n\nIt's a lot of fun to work with them and very professional. They're taking care of every single thing. It's cool. When we plan a record, we both really want the best outcome from the process, so I feel I can trust them. Since I live now in Munich, I mostly bring my tracks to the studio and we listen to them together. But it happens mostly when I feel something is really ready. I kind of stopped sending unfinished ideas or sketches because I want my music to feel complete before showing it to anyone. Also it's very important for me to check things together and to be able to discuss face-to-face instead of via email.\n\n<b>You relocated to Munich from Turin. Most producers moving to Germany settle in Berlin. Tell us about your life in your new home city.</b>\n\nI go to Berlin quite often and I love to spend time there, but at the moment I feel good here where I am. During the week I always bounce between my studio and my job. On the weekend eventually I play gigs, or go to see someone else play. At this very moment, it wouldn't make too much of a difference to be here or in Berlin, to be fair. I'm not sure if I would enjoy so much living in a huge city permanently, but never say never.\n\n<b>What are you up to next?</b>\n\nI will be touring until summer, going for the first time to Japan, and have some great festivals lined up. In April I will relocate my studio, so there will be so much work to do. I would like to invest more time in reading and painting or creating art in general. But mostly I'm really impatient to work on new music. \n",
+    "blurb": "Bolshy beats from one of Ilian Tape's finest.  "
+  }
+}

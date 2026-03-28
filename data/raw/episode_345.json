@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "345",
+  "url": "https://ra.co/podcast/345",
+  "id": "345",
+  "__typename": "Podcast",
+  "title": "RA.345 Answer Code Request",
+  "date": "2013-01-07T00:00:00.000Z",
+  "fileSize": 70646874,
+  "duration": "00:58:38",
+  "imageUrl": "https://static.ra.co/images/podcast/ra345-answer-code-request-cvr.jpg",
+  "contentUrl": "/podcast/345",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra345/",
+  "keywords": "Answer Code Request, Berghain, Panorama Bar, Patrick Graser, Dettmann, berlin, mdr",
+  "artist": {
+    "id": "34427",
+    "__typename": "Artist",
+    "name": "Answer Code Request"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There are around 20 DJs who could be considered Berghain/Panorama Bar residents, but that doesn't make us any less curious when someone new joins the fold. Answer Code Request is Patrick Gräser, a DJ and live act who has been playing monthly at the Berlin house and techno institution since August of last year. Gräser established the ACR alias in 2011, releasing a startlingly assured four-track EP coupled with an appearance on Marcel Dettmann's <i>Conducted</i> mix for Music Man. This fact, however, is a little misleading: Gräser has been producing—if not releasing—music for much of the last decade. He grew up in the same East German town, Fürstenwalde, as Marcel Fengler and Marcel Dettmann, sharing their formative clubbing experiences during the '90s in nearby Berlin. \n\nGräser's first formal releases arrived around 2008, as he put out a run of house-orientated tracks on labels like liebe*detail and his own short-lived Nightsingale imprint. While this material showed promise, it was later as Answer Code Request that Gräser really came into his own. The best example we can point you to is <i>Main Mode</i> and <i>The Host</i>, a pair of 12-inches released simultaneously through Marcel Dettmann Records that we last year <a href=\"review-view.aspx?id=11876\">described</a> in similar terms to Shed's multifarious, '90s-informed approach to techno and broken beats.  \n\nEverything that's excited us about Answer Code Request is right here on RA.345, a mix that beautifully demonstrates Gräser's range and style within the techno form. \n\n<b>What have you been up to recently?</b> \n \nI've been working on some new material and remixes. And also on my live show.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at my home studio in Berlin.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nThis mix is a special compilation of tracks which I normally wouldn't play in clubs, but to which I have a strong affection, and new tunes from both my friends and myself.\n\n<b>How did you first meet Marcel Dettmann?</b>\n\nIt was back in 1995 that we first met at a skate park in our hometown, Fuerstenwalde. \n\n<b>What are you up to next?</b> \n\nAt the moment, I'm still trying to finish up on some new material and the remixes.\nBeginning of February, I will be playing at Berghain and also traveling around Europe—Paris, Copenhagen, Glasgow, Turin and some other destinations across Europe. ",
+    "blurb": "Berghain's latest resident shows his wares. "
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "140",
+  "url": "https://ra.co/podcast/140",
+  "id": "140",
+  "__typename": "Podcast",
+  "title": "RA.140 Pivot",
+  "date": "2009-02-02T09:50:18.000Z",
+  "fileSize": 79077916,
+  "duration": "01:05:52",
+  "imageUrl": "https://static.ra.co/images/podcast/ra140-pivot-cover.jpg",
+  "contentUrl": "/podcast/140",
+  "tracklist": "Brian Eno - 2/2\n<a href=\"/dj-page.aspx?id=941\">Throbbing Gristle</a> - Hot on the Heels of Love \nJean Michel Jarre - Oxygene 7 (Pivot Edit)\nVangelis - Spiral \nMoebius - Masenheide \n<a href=\"/dj-page.aspx?id=3838\">Pivot</a> - Fool In Rain \n<a href=\"/dj-page.aspx?id=3838\">Pivot</a> - Blood Rise Red Dawn \nMoebius & Plank - Tollkuhn \nCluster & Eno - Wehrmut \nJohn Carpenter - Main Title - Escape from New York OST\nKitaro - Flight \nKlaus Schulze - Floating \nHarmonia - De Luxe (Immer Wider) \n<a href=\"/dj-page.aspx?id=3838\">Pivot</a> - My Heart Like Marching Band ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra140/",
+  "keywords": "synth, synthesiser, pivot, warp, soundtrack my heart",
+  "artist": {
+    "__ref": "Artist:3838"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There have always been rock bands that have taken elements of electronic music and incorporated them seamlessly into their tunes, but these days they're legion: Animal Collective, Gang Gang Dance, Black Dice, Battles and many more have filtered genres to their varied tastes—taking the bits that they love and incorporating it into their sonically adventurous music as if it belonged there all along. Australian trio Pivot undoubtedly falls directly in line with this scene: Their 2008 Warp debut was chock full of the sort of cosmic synth sounds that <a href=\"/dj-page.aspx?id=772\">Lindstrøm</a>, <a href=\"/dj-page.aspx?id=3893\">Blackbelt Andersen</a> and others have transformed into disco masterpieces. Pivot, however, take it in another direction, adding frenetic live drumming and guitars to the mix, giving the light-hearted keyboards of Jean-Michel Jarre and Vangelis a decidedly head-banging edge.\n\n<b>Pivot - O Soundtrack My Heart</b>:\n\n\nIntrigued by their sound, RA asked the boys to tell us all about their musical forbearers in aural form. The result is one of our most interesting podcasts yet: A journey into the heart of synthetic ambience soundtracked by pioneers such as Brian Eno, Kitaro, Klaus Schulze, Moebius—with a few tracks thrown in by Pivot themselves. We caught up with Dave Miller—the man behind the 'cast—for a quick chat.\n\n\n<b>What have you been working on recently?</b>\n\nWe had a rare month off over December, but now we are working on a new record in between gigs. We're hoping to get that done by March.\n\n<b>How and where was the mix recorded?</b>\n\nIt was done in my room in Sydney. I'm only here for a few months while gigging and rehearsing/recording, so I don't have any DJ gear with me. It was all done digitally. It's not ideal as I buy vinyl, but it's the best from what I have with me right now.\n \n<b>Can you tell us a little about the mix?</b>\n\nThey are tracks from artists and albums that we love that get regular play on the tour van. I wanted to do a mix of fresh, new stuff, but because there hasn't been much out over the past month I went for all classic things. It's mostly '70s synth music and German krautrock things mixed with a few of our more synth-heavy tracks. \n\n<b>You've finally all been based in the same country when writing music on this latest album. How has your songwriting dynamic changed?</b>\n \nThere's more thought going into playing the songs live rather than making the record and working out how to play it after. That said, we've still made things we have no idea how to play. Another change is the fact that we are dedicated to the band, instead of doing it in between jobs or other groups/projects. All our focus is going into it at the moment, and hopefully that will mean new and different results. \n\n<b>Tortoise's John McEntire ended up mixing the record. How did that come about?</b>\n\nLaurence [Pike] played drums on a Savath & Savalas record a few years back. John said he really enjoyed mixing his drums, so when we thought about people mixing our record we thought, \"Why not ask John?\"  It turned out great–he's got great ears and obviously has a great background in mixing bands that have electronics involved through his work with Tortoise.",
+    "blurb": "Australian trio Pivot take us on a survey of synth pioneers on this week's RA podcast."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "25",
+  "url": "https://ra.co/podcast/25",
+  "id": "25",
+  "__typename": "Podcast",
+  "title": "RA.024 Butane",
+  "date": "2006-09-11T18:00:54.000Z",
+  "fileSize": 70180870,
+  "duration": "01:13:04",
+  "imageUrl": "https://static.ra.co/images/podcast/ra024-butane-cover.jpg",
+  "contentUrl": "/podcast/25",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra024/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:760"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Butane, aka Andrew Rasse, is label boss for <a href=\"http://www.alphahousemusic.com\">Alphahouse Records</a>, the best thing to come out of St. Louis since Vincent Price.\n\nIn 2007 Butane is picking up sticks and defecting to Berlin, much to the despair of St. Louisians. Over the last three years, his monthly Alphahouse parties in the city have seen the likes of Daniel Bell, Dapayk, Barem, Madga, Jay Haze, Someone Else and Jeff Samuel swing through its doors. But the party wasnït one of those deals where the crowd arrives just in time for the tourists: Butane has a rock solid reputation of his own.\n\nAs a producer, Butane has been releasing deep and woozy techno cuts on the likes of Dumb Unit, Rrygular and Num Records to name a few. His unique enveloping style has found favour with DJs from Luciano to Michael Mayer to Matthew Dear, the latter of which picked up his 'How Low Can You Go' for his Fabric 27 compilation.\n\n\"I'm a better DJ at 10 a.m. than 2 a.m,\" Butane told Rhythmism recently, and his exclusive mix for the RA Podcast is just that t the best kind of afterhours.\n\nButane gave RA the lowdown on the mix.\n\n<b>What have you been working on recently?</b>\n\nI just got back home from a short tour in Europe, and I've been trying to get back to work in the office and the studio.  Most notably, we're getting ready to release the much-anticipated LP by Franco Cinelli on Alphahouse Records. I just put the finishing touches on a new two-track EP for Dumb Unit that will come out in the Fall, and I've recently begun working on a remix for DJ Three's label, Hallucination Limited.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded live and spontaneously in my studio on a Saturday morning. I just wanted something simple, so I used two turntables, a Xone 62 mixer, and Final Scratch.  Nothing too tricky - you know, the old-fashioned way.  ;-)\n\n<b>What are you up to next?</b>\n\nI'm making a couple of short trips to Europe in October and November. In between, I'll be in the studio in St. Louis trying to finish up as much music as possible before I relocate to Berlin in January.",
+    "blurb": "This week the RA podcast is a deep afterhours set from Butane, the best thing to come out of St. Louis since Vincent Price."
+  }
+}

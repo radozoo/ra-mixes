@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "298",
+  "url": "https://ra.co/podcast/298",
+  "id": "298",
+  "__typename": "Podcast",
+  "title": "RA.298 Patrice Scott",
+  "date": "2012-02-13T00:00:49.000Z",
+  "fileSize": 74876458,
+  "duration": "01:02:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra298-patrice-scott-cvr.jpg",
+  "contentUrl": "/podcast/298",
+  "tracklist": "K Alexi Shelby - Sweet Cum Down\nM.T. aka bayaka - Mi Latino American Flour (Type 2)\nM.T. aka bayaka - Mi Latino American Flour (Dub Mix)\nCasey Hogan - Update the System\nWhite label\nConforce - Spoiled (XDB Reshape 2)\nReese & Santonio - How to Play Our Music (Dub Mix)\nConforce - Vulcan\nSailor Mood - Brick Brick Brick (Dj Qu Remix)\nYasuo Sato - Mirage of Night Sky\nKerri Chandler - Light The World\nDoc Martin - Se Me Free (Birchy's Groove)\nJohn Heckle - Hard Sleeper\nK Alexi Shelby - The Dream\nMike Grant - The Struggle of My People (Mr. G's There's Hope Mix)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra298/",
+  "keywords": "Patrice Scott, sistrum recordings, detroit, techno",
+  "artist": {
+    "id": "3099",
+    "__typename": "Artist",
+    "name": "Patrice Scott"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Though he's been DJing since back in the '80s, it was only in 2006 that Detroit's Patrice Scott began to gain real traction on the international circuit. This was the year his debut 12-inch, <i>Atmospheric Emotions</i>, hit shelves through his own Sistrum Recordings. It was clear from the off that Scott was pushing something a little different from the techno sound so readily associated with his hometown—his was a melodically rich brand of house that despite its frequent application of soaring pads and delicate keys always managed to maintain a satisfying sense of depth. As he explains below, quality control has been of paramount importance for Sistrum and Scott—check tracks like \"Raw Fusion,\" \"Far Away,\" \"Do You Feel Me?\" and \"Distance Against Time\" and you'll know these aren't empty promises.   \n\nWe think at this point you might have an idea of what to expect from RA.298—but when the quality is this high, who needs surprises? \n\n<b>What have you been up to recently?</b>\n\nRecently I have been DJing some gigs in Europe and working on upcoming projects for 2012 that include two new EPs from myself on Sistrum, a couple of remixes and an alias project that includes myself and several other prominent artists.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my home studio in Detroit. 100% vinyl with two Technics 1200s and a Numark M2 mixer.\n\n<b>Can you tell us the idea behind the mix?</b>\n\nThe mix was very simple and natural for me. I basically just put together some of my favorite records from today and the past. It is a variety of techno and deep house which is what you experience when you hear a Patrice Scott DJ set.\n\n<b>Sistrum appeared to slow down a bit last year. Was there a reason behind this?</b>\n\nIt is as simple as this: I prefer quality over quantity. If I feel like I have music that is ready to be heard by the masses then it will be released. If I feel it is not ready then nothing will come out. I will not get into the game of releasing music just to release music or just to say I have a record out. There is a lot of bad music out there and every now and then I come across some good music. So with that being said, when the final chapter is written, Sistrum Recordings will be known for the latter.\n\n<b>You did a fair amount of traveling last year. Are there any places in which you feel that your sound goes down particularly well?</b>\n\nIt is really difficult to say that my sound is accepted better in some places than others because generally speaking most places that book me know what to expect and it usually goes down well. But I will say that lately some of my most enjoyable ventures have been in Glasgow, Manchester and St. Petersburg, Russia.\n\n<b>What are you up to next?</b>\n\nNext is the first Sistrum release for 2012, an EP from a very talented Japanese producer named Imugem Orihasam. After that my EP will come out in early March. Also, I have a few European gigs scheduled and a very big gig in Detroit in May. It will be one that you should not miss! ",
+    "blurb": "One of Detroit's most consistent producers takes the reins. "
+  }
+}

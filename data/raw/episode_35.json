@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "35",
+  "url": "https://ra.co/podcast/35",
+  "id": "35",
+  "__typename": "Podcast",
+  "title": "RA.034 My My",
+  "date": "2006-11-20T14:00:43.000Z",
+  "fileSize": 85403523,
+  "duration": "01:28:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra034-mymy-cover.jpg",
+  "contentUrl": "/podcast/35",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra034/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:820"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "My My is Englishman Lee Jones and Germans Carsten Klemann and Nick Höppner. The group started producing together in 2003, first gaining attention last year with the EPs 'Klatta' and 'Serpentine', the latter of which popped up on Miss Kittin's 'Bugged Out'. Since then the group has had a string of releases including the 'Butterflies and Zebras' on Aus Music, and remixes of Alter Ego's 'Transphormer' and Djuma Soundsystem 'Les Djinns'. Last month Playhouse put out their debut longplayer 'Songs for the Gentle', which has been getting <a href=\"http://www.residentadvisor.net/review_view.asp?id=4069\">rave reviews</a> for its intricate production and fresh dancefloor aesthetic. \n\nMy My's sound is difficult to pin down – part minimal, part electronica and inspired by everything from pop to dub and hip-hop. And judging by their influences, it's no surprise: Nick is a former metalhead into Slayer, Metallica and Anthrax, Lee is a Smiths fan and Carsten namechecks the Velvet Underground and Michael Jackson as his all-time heroes.\n\nThe group currently hold down a monthly residency 'My My & Friends' at Berlin's Watergate club where they interchange between DJing together, performing live, and looking out the window at the River Spree. Heading to Berlin this weekend? <a href=\"http://www.residentadvisor.net/event_view.asp?ID=17284\">Catch</a> My My spinning with Fuckpony's Samim. Staying home? Download this mix.\n\nRA caught up with My My...\n\n<b>What have you been working on recently?</b>\nWe've been busy playing gigs around Europe - in London, Paris, Brussels, Munich, Stuttgart, Zurich, Hamburg... as well as being busy in the studio with remixes for Move D (Liebe Detail), Duoteque (Boxer) and an EP for the Berghain label Ostgut. Lee has been working on remixes for Sideshow (Aus) and Jacapo Carreras (Lan Muzic) and a Lee Jones EP for Aus, which will have a Prinz Thomas remix. Nick's currently working on solo stuff as well, which will be released on Just and Ostgut Ton next year.\n\n<b>Where was the mix recorded?</b>\nOriginally we wanted to record the mix in one go at Watergate, but in the end we did it in Nick's home-studio in Berlin-Mitte. We recorded the tracks into a laptop and realised the mix in Ableton, as both Carsten and Nick have pretty rubbish mixers at home, you just can't use for recording anymore.\n\n<b>What are you up to next?</b>\nPlaying a lot ( live + DJ-gigs) and taking care of our own Label Just Recordings (our next release is by Daniel Offerman in December) and our monthly club night at Watergate.\n",
+    "blurb": "This week hotly tipped Berlin collective My My make the selections."
+  }
+}

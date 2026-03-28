@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "501",
+  "url": "https://ra.co/podcast/501",
+  "id": "501",
+  "__typename": "Podcast",
+  "title": "RA.501 Porn Sword Tobacco",
+  "date": "2016-01-04T00:00:24.000Z",
+  "fileSize": 229912486,
+  "duration": "01:35:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra501-porn-sword-tobacco-cvr.jpg",
+  "contentUrl": "/podcast/501",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/240349839",
+  "keywords": "Henrik Jonsson, City Centre Offices, Aniara, Magnifik Botanik, Kontra Musik, Ambient, Balearic",
+  "artist": {
+    "id": "16231",
+    "__typename": "Artist",
+    "name": "Porn Sword Tobacco"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Henrik Jonsson has a thing for punchy three-word combos. There's his artist name, Porn Sword Tobacco, which he took from a shop in Sweden (his home country) that sells those three things. And now there's \"Lavalamp Safari Companion,\" the title he gave his mix for RA. Jonsson has recently made waves with club cuts on labels like <a href=\"/review-view.aspx?id=17782\">Aniara</a> and <a href=\"/review-view.aspx?id=17383\">Kontra-Musik</a>—lean, subtle, spacey affairs. But lurking behind that sound is something breezy and almost Balearic. We got a taste of it on 2013's <i>Cave 4b-50 Clicks Northwest</i>, with its lazy rhythms and sweaty organs. Even on <i>Magnifik Botanik</i>, his techno double-pack from earlier this year, you sense saltiness in the air. \n\nOn RA.501, we dive into the sun-dappled side of Jonsson's sound. Mixing up old reggae, recent house, African jazz and the odd spoken word bit, all smudged together with filters and delay, the podcast delivers what its name promises. From Nairobi to Gothenburg, 1975 to 2015, RA.501 is a safari through time and space, with a lavalamp-wielding Jonsson as its guide. \n\n\n<b>What have you been up to recently?</b>\n\nFor music, 2015 was a cool year, lots of new recordings done, building a little studio and also doing podcast actions now!  That's cool.\n\t\n<b>How and where was the mix recorded?</b>\n\nAt the Pstudio, my music room.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's a music selection that just came naturally, I guess. You move one stone at the time, patterns emerge. But overall I'm simply having fun and enjoying my body with music the best way I can today.\n\n<b>For readers who are new to Porn Sword Tobacco, tell us a bit about yourself. What's your musical journey been like so far?</b>\n\nIt's been an amazing ride for me over the last 20 years or so, music has been the language that gave me wings to travel the world, playing on various stages around the world, in various projects and studios, the things I like to do. But it's funny, I've never seen myself as a musician, really. I went to art school once and they gave me a scholarship there so I bought a Space Echo and other stuff, started making music for the movies in my head I guess… It just goes on. I write poetry also sometimes, it's all the same to me. Feels good.\n\n<b>Lately you've been making deep club cuts for labels like Aniara and Kontra-Musik, but you've also made more experimental stuff in the past, and now this mix shows yet another side of Porn Sword Tobacco. For you, are these all different sounds, or all they all part of the same thing?</b>\n\nI see/hear music as a big pulsating bouquet of vibrations, and I see my PSTories inside there almost always. It's fun to connect what you like and make a collage out of it, testing old gear and stuff, make it cozy and enjoyable, that is my purpose with music, to the best of my ability. But I'm a slow cat like that.\n\n<b>Based on this mix, we're guessing you've got a pretty interesting record collection. Would you describe yourself as a digger? How do you find and buy records? </b>\n\nRecords are so beautiful to me, the cover, inner labels, the recordings on them. I treat them like books over time, memories, stages in life. Yeah, I buy records all over, sniffing around for sweet pieces to fit my musical puzzle. I own a few good records, nothing crazy like a mega-champ, just my great selection, and it's slowly growing. I like it. I disc jockey when I get asked, simple as that really, it's a nice feeling to play in open-air situations, summer gardens for joy. \n\n<b>What are you up to next?</b>\n\nWorking on some remixes, finishing a new PST album sometime would be nice too, doing a fresh PST live act and also releasing new groovy recordings with SVN. Just growing and learning in general I suppose, I want to do a good job.",
+    "blurb": "The Swedish artist delivers a \"pulsating bouquet of vibrations.\"\r\n"
+  }
+}

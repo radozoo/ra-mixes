@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "775",
+  "url": "https://ra.co/podcast/775",
+  "id": "775",
+  "__typename": "Podcast",
+  "title": "RA.775 Endgame",
+  "date": "2021-04-11T22:00:18.000Z",
+  "fileSize": 145265144,
+  "duration": "01:00:23",
+  "imageUrl": "https://static.ra.co/images/podcast/ra775-endgame-cvr.jpg",
+  "contentUrl": "/podcast/775",
+  "tracklist": "zini - another presence in the room\nlauren duffus - stir fry extra\nendgame - barbed heart f.t yayoyanoh\nhyph11e - black pepper (nahshi edit)\noblinof - holotropic (em rmx)\ndæmon x Endgame - eye teeth\ngrove - pride, power, badass mutha\nkamixlo - cicatriz\ngabber modus operandi - dosa besar\nendgame - drained\ndebby friday - runnin\ngil - storm petrel\nziur - are we\nice eyes - crystalbody\nquestonmarc - idioteque (indica drum dub)\ndj j heat - welcome to the party edit \nendgame - bodies\nnammy wams - punk\nstressmusik - adamento hallow\ndj doraemon - paranoia \nakash - stone drum axolotl\nhard fantasy body prison\nlsoki - captain hook\nonleash - ten thousand horses\nfirst circle - eyeless\nmichael aurelius - twisted rope\nrattlesnakke - disturbio inusual \nzut zut - noche en itaewon\nspeed services -raptor house\nel plvybxy - tu y yo con tu amigue\nfelix lee - crazi drums\nmissdevana - cmon\ndj suavii - entrance\nmafia boyz - ugugu\nseuuga kamau - disturbios\nruss millions x tion wayne - body\nssaliva - soul piercing ",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1027617982",
+  "keywords": "Savage, PTP, Flesh, Hyperdub, Organ Tapes, ",
+  "artist": {
+    "id": "66033",
+    "__typename": "Artist",
+    "name": "Endgame"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Along with the wave of explosive, experimental club music that crested over the dance music world in the middle of the last decade came a sleeker, subtler, more emotional vibe. Starting with his breakthrough <a href=\"/reviews/18612\"><i>Savage</i> EP</a> in 2016—on the important and sometimes overlooked PTP label—Endgame smoothed out the grime-influenced sound of the day into lusher reggaeton-influenced beats. On the following <a href=\"https://1endgame.bandcamp.com/album/flesh-hdb101\"><i>Flesh</i> EP</a> for Hyperdub, he collaborated with Organ Tapes, whose emo-influenced vocals predicted the sound of a whole new sector of dance music, where club took a singer-songwriterly approach and later merged with what would become known as hyperpop.\n\nOn his new album, <a href=\"/news/74742\"><i>Surrender</i></a>, Endgame takes the mic himself for the first time, hanging around in the studio after a vocalist had left the session. It's a dark, interior album inspired by loss and grief, turning his usually buoyant sound inside out. This is dance music that isn't afraid to bare the darkest corners of its soul. It's illuminating, heart-rending and very often funky, sketching a sound he outlines on this <i>RA</i> Podcast.\n\nFeaturing tracks from crucial artists like Lauren Duffus, Hyph11e, quest?onmarc, Akash and Debby Friday, Endgame's mix makes today's club music feel limitless in its scope and vision. It starts with woozy bedroom pop, goes through hip-hop, ballroom and techno, Latin American club music, gqom, you name it. Though Endgame's productions are top-notch, the diversity and consistency of this mix suggests they're only half the story. This is top-tier DJing that showcases the sound of today's club music, wrought with all the heavy emotion and feeling of the pandemic years.\n\n<b>What have you been up to recently?</b>\n\nWriting music, finding beauty in emptiness.\n\n<b>How and where was the mix recorded?</b>\n\nAt home in my studio using some broken CDJs and a sampler\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nTo showcase some music that helped me find meaning in the past year. \n\n<b>Your album has a much more downcast feel than your other music—what led you in this direction, and do you still feel like what you make is \"dance music?\"</b>\n\nI love dance music, but I think my vision of what I want to do musically has shifted a bit. Maybe spending time outside the club has allowed me to see a wider scope for what I do, and the world I want to create musically, the club is still a part of that, but only a component. The whole project is based around themes of death, either confronting it or giving in to it, which is why it’s more sombre and introspective sonically. \n\n<b>The LP also features your vocals for the first time. What was it like writing and recording those tracks—was it something you've wanted to do for a while?</b>\n\nIt was an unusual process, I never really planned it, I had been working a lot with vocalists and after one session I was just left with the mic and I allowed myself to release and speak my mind. Those tracks actually came very quickly and easily, I had always been writing poems and used to spit bars when I was younger, so I guess these tracks had been brewing in my subconscious somewhere. Honestly, I was as surprised as anyone. \n\n<b>What are you up to next?</b>\n\nMy focus this year is writing poetry, and lifting weights.",
+    "blurb": "Heart-on-sleeve club music."
+  }
+}

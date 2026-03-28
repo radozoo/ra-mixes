@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "48",
+  "url": "https://ra.co/podcast/48",
+  "id": "48",
+  "__typename": "Podcast",
+  "title": "RA.048 Dixon",
+  "date": "2007-03-12T00:00:37.000Z",
+  "fileSize": 78881021,
+  "duration": "01:05:43",
+  "imageUrl": "https://static.ra.co/images/podcast/ra048-dixon-cover.jpg",
+  "contentUrl": "/podcast/48",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra048/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:758"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you don’t know the name now, you’ll know it soon enough. Berlin DJ Dixon is about to break very wide indeed, with a new mix CD ‘Body Language 4’ on Get Physical and a string of big international dates lined up for 2007. Alongside Âme, Dixon runs Innervisions, the Berlin deep house label releasing the likes of Château Flight, Stefan Goldmann, Atjazz, Tokyo Black Star and of course Âme themselves (INNERVISIONS02 was a little track called ‘Rej’).\n\nBut Dixon has a long history behind him, including an association with jazz-house aficionados Jazzanova (he introduced the then-unknown Âme to Sonar Kollektiv) and residencies at clubs Tresor, E-Werk and WMF back in the late nineties. True house heads will know him for his ‘Off-Limits’ mix series earlier this decade, but also his remixes: He’s rejigged a long line of artists including Femi Kuti, Beanfield and Taxi. Look out for new Dixon edits of Ben Westbeech, FBI Project, Outlines and Tokyo Black Star soon.\n\nAs a DJ, Dixon has been refining his craft at his monthly Innercity party at Weekend, one of the best nights on the Berlin calendar. The results speak for themselves: For his RA podcast, Dixon lays down a mix that rethinks soulful vocals and deep house to dazzling effect.\n\n<b>What have you been working on recently?</b>\nI just finished the Body Language CD for Get Physical. Besides that I worked hard on the Wahoo album set to be released June this year and several remixes and edits (Ben Westbeech, Anane, Voom Voom, FBI Project, Outlines, Tokyo Black Star).\n\n<b>Where was the mix recorded?</b>\nOn the road.\n\n<b>What are you up to next?</b>\nDoing some remixes, compiling the new Yoga Sessions (G-Stone) and also working on Innervisions Orchestra.",
+    "blurb": "Innervisions CEO Dixon steps up for this week's podcast."
+  }
+}

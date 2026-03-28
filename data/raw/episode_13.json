@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "13",
+  "url": "https://ra.co/podcast/13",
+  "id": "13",
+  "__typename": "Podcast",
+  "title": "RA.012 Dominik Eulberg",
+  "date": "2006-05-29T01:00:18.000Z",
+  "fileSize": 61518515,
+  "duration": "01:04:03",
+  "imageUrl": "https://static.ra.co/images/podcast/ra012-dominik-eulberg-cover.jpg",
+  "contentUrl": "/podcast/13",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra012/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:606"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Kicking of with the soulful metronome of Robag Wruhme’s reimagining of Adolf Noise, Eulberg’s RA mix dutifully bows to the sound of Kompakt (Koze, Oxia, Axel Bartsch) and Frankurt (Afternoon Coffee Boys on Cocoon) before letting the love in in Eulberg fans Border Community (Holden, Lazy Fat People) as well as the usual cabal of able Germans.\n\nHailing from the wilds of Westerwald between Cologne and Frankfurt, Eulberg’s music slots neatly between the sound of the two cities half Kompakt glide and half Frankfurt melody. 2004 long-player ‘Flora & Fauna’ [Traum] alerted ears that something was up and recent 12”s ‘Blueten Sind Dem Grossen Schillerfalter Fremd’ (aka <a href=\"http://dominik-eulberg.de/04/downloads/videos/Rave_Rabbit.wmv\">the rave bunny video</a>)and 'Harzer Roller' (with Gabriel Ananda) have cemented Eulberg’s reputation as a minimal producer for clubbers who want their hands in the air.\n\nBut perhaps Eulberg's true niche is as remixer par excellence, able to bang ‘em before the competition have even checked their email. And they often devastate the original: Eulberg’s ubiqitous reworkings includes Tiefschwarz’ ‘Issst’, Nathan Fake’s ‘Dinamo’ and Steve Barnes’ ‘Cosmic Sandwich’. Eulberg has recently done the deed on Gabriel Ananda’s head-trancer ‘Ihre Persönliche Glücksmelodie’ and Pier Bucci’s dreamlike ‘L’Nuit’. He knows sure how to pick ‘em. Or do they pick him?\n\nAnother medal on Eulberg’s chest are his DJ outings: debut mix CD ‘Kreucht & Fleucht’ reinforced what clubbers had long since known: this was a DJ able to play everything from plip-plop to Donna Summer and make it his own.",
+    "blurb": "The twelfth edition of the Resident Advisor podcast is brought to you by forest ranger and Traum artist Dominik Eulberg."
+  }
+}

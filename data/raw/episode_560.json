@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "560",
+  "url": "https://ra.co/podcast/560",
+  "id": "560",
+  "__typename": "Podcast",
+  "title": "RA.560 Visible Cloaks",
+  "date": "2017-02-20T00:00:10.000Z",
+  "fileSize": 120674981,
+  "duration": "00:50:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra560-visible-cloaks-cvr.jpg",
+  "contentUrl": "/podcast/560",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/308632839",
+  "keywords": "Ryan Carlile, Spencer Doran, RVNG Intl, Reassemblage, ",
+  "artist": {
+    "id": "67224",
+    "__typename": "Artist",
+    "name": "Visible Cloaks"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Visible Cloaks' mix from 2010, <a href=\"http://rootstrata.com/rootblog/?p=3706\"><i>Fairlights, Mallets and Bamboo — Fourth-world Japan, years 1980-1986</i></a> was a gateway into an enthralling subset of Japanese music. The selection sounded electronic and futuristic yet organic and ancient, experimental and exploratory yet accessible and warm. It seemed to emanate from a place that couldn't be pinned down geographically, emanating instead from an unknown place in the imagination. \n\nThis is brought to life in startling fashion on Ryan Carlile and Spencer Doran's latest LP for RVNG Intl, <i>Reassemblage</i>, a record both wary of exoticism and informed by non-Western music, particularly that of Japan. The title is taken from a <a href=\"https://www.youtube.com/watch?v=J7atQb7Z5YM\">film</a> by Trinh T. Minh-ha, which emphasised the impossibility of directly understanding other cultures. Visible Cloaks' music takes a similar course, condensing the energy of disparate global influences into a sound world that uses gaps in understanding and modern sound design to create something new.  \n\nVisible Cloaks' RA podcast is a continuation of this thinking. Drawing heavily on big names in Japanese music like Haruomi Hosono and Ryuichi Sakamoto, a rich narrative is stitched together by interspersing masters of European concrète, American avant-garde eccentrics and Chicago house artists. Despite spanning disparate decades and nations, the thread passing through the mix is undeniably futuristic. \n\n\n<b>What have you been up to recently, Spencer?</b>\n\nGetting ready for a few West Coast US tour dates with Motion Graphics to coincide with the <i>Reassemblage</i> album release, working on a short film with Brenna Murphy, also some other hush projects that I hopefully will be able to announce soon.\n\n<b>How and where was the mix recorded?</b>\n\nRecorded in my record room with two turntables, CDJs and a mixer into Ableton for some added FX/treatments.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nPerhaps unsurprisingly, it's mostly Japanese electronics with some INA-GRM concrète seeping in the cracks between. Nothing super obscure, just wanted to traverse through some futuristic zones with a nice flow. Connecting the dots between different approaches, lots of tracks with a contemporary feel.\n\n<b>The music surveyed in your previous mixes seems to inform aspects of your recorded work. What sort of relationship exists between the two?</b>\n\nCertainly, there is no creative work that doesn't bear the weight of influence. We always try to take it as only a starting point for something more personal or idiosyncratic, which goes beyond just simple recontextualisation and involves the use of tools we've developed in our own musical practice/creative process. Anachronism is musical death—for us it's important to think of lessons learned from the past as a means and not an end.\n\n<b>Your music suggests non-Western cultures without directly evoking any one in particular. Is your aim perhaps to create a pan-global sound?</b>\n\nI've always found the utopian ideals underlying \"world music\" to be simultaneously fascinating and problematic, wrought with a kind of complexity that makes them very interesting to think about and worthy of dissection, which is an aim of our work. Projected futures help to reflect the problems of our present, but more often than not, they are not a viable solution to them (which is an important distinction to make). Ascribing an external meaning to someone else's culture can of course be very dangerous. I suppose what I'm trying to say is that the intention is to raise questions rather than answer them.\n\n<b>What are you up to next?</b> \n\nCurrently planning a lot of touring for this year. I've been working on composing some chamber music and also working to create a virtual instrument based on auto-tuned phonemes from human speech for use in live improvisation.",
+    "blurb": "Beyond the Fourth World. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "337",
+  "url": "https://ra.co/podcast/337",
+  "id": "337",
+  "__typename": "Podcast",
+  "title": "RA.337 Phase",
+  "date": "2012-11-12T00:00:40.000Z",
+  "fileSize": 81685473,
+  "duration": "01:07:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra337-phase-cvr.jpg",
+  "contentUrl": "/podcast/337",
+  "tracklist": "Stanislav Tolkachev - Building Peaks \nShifted - Gates \nSteven Brown - Polar \nMartin H & Samuel L Sessions - The Leap\nMarcel Dettmann - Bleep 5\nØ [Phase] - Behind the Sun\nForward Strategy Group - Applied Generics\nAds - Transversal\nØ [Phase] - The Chasedown \nDax J & G Wild - Revok (Ø [Phase] remix) \nTruncate - Pad Mode\nB & R - Afterlife\nPsyk - RDNM\nJohn Thomas – Psycho Groove \nDeveloper & Truncate - Diffraction (Jonas Kopp remix)\nØ [Phase] - Binary Opposition (process 1)\nP.A.S. - Sucktion\nRobert Hood - A Time to Rebuild \nSteve Bicknell - Lost Recordings 5 (B1)\nDVS1 - Evolve\nDeveloper - Dirty Drive - (Shifted remix)\nChris Page - Decoy (Blawan remix)\nØ [Phase] – (unreleased)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra337/",
+  "keywords": "Phase, phase, Ashley Burchett, Token, Binary Opposition, Techno, Behind the Sun",
+  "artist": {
+    "id": "8061",
+    "__typename": "Artist",
+    "name": "Ø [Phase]"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Ashley Burchett is a London producer whose work has featured in the bags of full-throttled techno DJs since 2000. Those who checked our recent <a href=\"/feature.aspx?1645\">Label of the Month feature</a> on Belgian label Token will know that Burchett came on board with the imprint in 2007 and has made it his exclusive home ever since. Burchett has largely pushed a fast-paced, rolling sound, one that often evokes the more shadowy corners of Jeff Mills' Purpose Maker series. Token marked its fifth birthday at the start of 2012 with Burchett's relentless <i>Binary Opposition</i>, a release that would be remixed later in the year by an eye-catching selection of modern techno's finest—Ben Klock, Peter Van Hoesen, Planetary Assault Systems, Sigha. Burchett arguably outdid himself with <i>Behind the Sun</i> late last month, running from delicate intensity through to full-bore attack mode. \n\nYou get all of the aforementioned Ø [Phase] tracks on RA.337 along with unreleased material and new guard names like Shifted, DVS1 and Truncate. \n\n<b>What have you been up to recently?</b>\n\nProduction-wise I've been busy with various remixes (due out in the coming months). I've been gigging in between. Also working on an album for next year.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in my studio directly into Logic from vinyl and CD. I don't have Traktor or Ableton or such like. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThere's no big concept. It's just a condensed version of what I might do live. An illustration of my tastes right now.\n \n<b>Kr!z said in a <a href=\"/feature.aspx?1645\">recent feature</a> with us that you \"should have been way bigger by now.\" Is this a view you share?</b>\n\nIt's a fair enough sentiment, though I'm not particularly looking for reasons why. We all have our own curve.\n\n<b>Do you feel like the techno scene has been increasingly moving in line with your approach to the sound recently?</b>\n\nIt would seem things are toughening up again lately. Perhaps they're just finding a natural level. Things went too hard and too fast in the past, certain producers slowed things down (which was definitely a good thing). It feels a bit like those two approaches have been re-aligning slightly over the past couple of years. I've always been somewhere in the middle so I suppose you could look at it like that.\n\n<b>What are you up to next?</b>\n\nThe album will be my main focus musically in the coming months, while gigging in between.",
+    "blurb": "Undiluted techno from an under-appreciated name."
+  }
+}

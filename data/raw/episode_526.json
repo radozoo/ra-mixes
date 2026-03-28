@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "526",
+  "url": "https://ra.co/podcast/526",
+  "id": "526",
+  "__typename": "Podcast",
+  "title": "RA.526 Karenn",
+  "date": "2016-06-27T00:00:56.000Z",
+  "fileSize": 214490921,
+  "duration": "01:29:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra526-Karenn-cvr.jpg",
+  "contentUrl": "/podcast/526",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/272246557",
+  "keywords": "Blawan, Pariah, Techno, Live, MMA, Mondo Disko",
+  "artist": {
+    "id": "38836",
+    "__typename": "Artist",
+    "name": "Karenn"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Blawan and Pariah have been playing slamming, improvised techno together as Karenn for the better part of five years now. They've become one of techno's most in-demand live acts and although they haven't released original recordings since 2014, their back catalogue still turns heads. Both Englishmen caught the techno bug around 2011, feeding the tensile funk of their UK dance music heritage into a new palette of grinding gears and serrated textures. However, as both Arthur Cayzer and Jamie Roberts would admit, improvising from scratch with an imposing fleet of synths, drum machines and effects is no mean feat, especially when you're playing for over 90 minutes. They've spent the intervening years stripping out the fat, trading sensory overload for a sleeker, stripped sound with greater shades of emotional subtlety. \n\nThe hard work has clearly paid off. On RA.526, a recording of a live set at Munich's techno outpost MMA this April, their signature control of tension and release remains intact, but the range of colour, harmony and mood displayed across 90 minutes indicates the dedication they've piled into the Karenn project. It's a set full of those serendipitous moments of cohesion that make the dangers of improvisation worthwhile—when Karenn get on a roll, there's no stopping them.  \n\n\n<b>What have you been up to recently?</b>\n\n<b>Arthur Cayzer:</b> We recently finished up our tour round Europe, which was amazing. It was pretty intense because we crammed quite a few shows into a relatively short space of time, but we had the opportunity to play at some amazing venues and met some really great people along the way.  \n\n<b>How and where was the set recorded?</b>\n\n<b>Arthur Cayzer:</b> The set was recorded at MMA in Munich at the end of April. It was the first time that either of us had been to the club and we were both really impressed by the venue. We were playing in the smaller club space, which is an intimate setting with a good system. It was a comfortable environment to play. \n\n<b>Jamie Roberts:</b> It was so nice to play for the first time at such an exciting and fresh space like MMA. Also, playing small, intimate spaces really changes the dynamic of the sets that we play. I think you can really hear it in this particular recording.  \n\n<b>Did you have any particular aim with this set?</b> \n\n<b>Arthur Cayzer:</b> Aside from the way that we approached the tour as whole, there wasn't really a specific aim for this show. During the tour we really tried to focus on stripping things back a bit, letting ideas roll out for a bit longer and to concentrate more on the sound rather than plugging the machines in and just going for it! We recorded most of the shows we played during the tour and, in general, we've been pretty happy with the quality of the recordings—although the fact that everything is totally improvised means that it can be hard to ever be 100 percent happy with an entire 90-minute or two-hour set. \n\n<b>Jamie Roberts:</b> Arthur makes a good point. I don't think we have ever been totally happy with 100 percent of a set that we have listened back to. However, the overall feel and focus of this particular set and also the vibe in the club as we remembered it made us happy to share this with you.\n\n<b>Are there any plans to release studio records in the future?</b> \n\n<b>Arthur Cayzer:</b> Yeah, there will definitely be some new records at some point. It's been hard to get a decent amount of studio time together as we don't live in the same country anymore. We've been working on a few bits on and off, so hopefully we'll be able to get together soon to finish them off. \n\n<b>What are you up to next?</b> \n\n<b>Arthur Cayzer:</b> We're readying ourselves for the festival shows we've got over the next few months. Apart from that, we're both trying hard to get some new music out there, both as Karenn and individually. \n\n<b>Jamie Roberts:</b> Yep, festival season is upon us. Very excited to get on the road again with the live setup and playing in the sunshine will make a welcome change!\n\nPhoto: Live at Mondo Disko by Patri Nieto",
+    "blurb": "Raw, improvised techno."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "348",
+  "url": "https://ra.co/podcast/348",
+  "id": "348",
+  "__typename": "Podcast",
+  "title": "RA.348 Zenker Brothers",
+  "date": "2013-01-28T00:00:48.000Z",
+  "fileSize": 72587208,
+  "duration": "01:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra348-zenker-brothers-cvr.jpg",
+  "contentUrl": "/podcast/348",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra348/",
+  "keywords": "Zenker Brothers, Dario Zenker, Marco Zenker, techno, Esperanza, Time to Express, Frozen Border, Illian Tape, Berg 10, Black box",
+  "artist": {
+    "id": "30893",
+    "__typename": "Artist",
+    "name": "Zenker Brothers"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<a href=\"dj/dariozenker\">Dario</a> and <a href=\"dj/marcozenker\">Marco Zenker</a>'s roots in Munich club culture run deep. Marco's aunt, Dorle Zenker, was one of the figures behind Ultraschall, the revered Munich club which was considered to be the first of its kind in the city, and now runs <a href=\"club-detail.aspx?id=4829\">Rote Sonne</a>. At 16 years old, Dario heard his first techno record through Anthony \"Shake\" Shakir, who was staying at his stepdad's place after a gig. He made his debut at the club a couple years later, and went on to secure a residency at <a href=\"club-detail.aspx?id=4827\">Harry Klein</a> circa 2006, a few years after Ultraschall closed its doors. As for Marco, he learned about techno hearing his brother play at Harry Klein. \n\nThere have been variations on the theme over the years, but techno has formed the spine of the Zenkers' productions, either solo or in tandem. Dario's discography began in 2006, and since then he's appeared regularly on labels like Esperanza, Time To Express and Frozen Border, for whom he produced four 12-inches as #.4.26. Marco, meanwhile, has been busiest on <a href=\"record-label.aspx?id=2873\">Ilian Tape</a>, a label the brothers launched in 2007 with their friend Mueller. The imprint isn't exclusively a platform for the Zenkers' output, but in truth, it's been their own singles like \"Berg 10\" and Marco's \"Black Box\" that have really shone. \n\nRA.348 is a live jam from the duo made up entirely of new and unreleased material, some of which is untitled at this point (hence the lack of a tracklist), some of which is due out soon on Tresor. In either case, it's killer.  \n \n<b>What have you been up to recently?</b>\n\nActually we just recovered from NYE and are taking things easy. Besides that we are preparing the next records on Ilian Tape, we have an amazing 12-inch coming from Stenny with a Paul du Lac remix. After that the second part of our <i>Bias Jams</i> series followed by a Zenker Brothers record. And of course working on solo projects and hanging out on the Stammtisch. \n\n<b>How and where was the mix recorded?</b>\n\nIt's a live set recorded in the studio.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWhen we were asked to do the podcast we thought we wanna do something different and decided to make a live set with completely new and unreleased material. All the tracks are live recordings and it took us three months in total to jam and record the set. For us it was a journey, and we hope for the listeners it will be too.\n\n<b>Do you guys have different strengths in the studio?</b> \n\nWe both have quite similar studios actually, so we have a lot of similar machines.\nWhen we do music together we are first of all hanging out eating, laughing and drinking whiskey. And then it just happens through moments or conversations. We never plan to do things like this and that, it's all about moods and moments. So there are no fixed roles, like one of us always doing the same thing. It's always different. \n\n<b>Have you played any particularly memorable back-to-back sets together?</b> \n\nMarco's first set ever in a club was a live set together as Zenker Brothers on NYE 2008-2009. We started great but then our [MIDI] clock went away, so we had to stop to adjust everything new with a DJ playing in between. It was a total chaos, but at the end the people loved it. And we played at the Kongresshalle in Munich which was pretty special as it's not a normal club environment, more a concert hall space. Also playing the five years of Resolute in Brooklyn in a huge warehouse, and our show at <a href=\"event.aspx?441319\">Concrete</a> in Paris as Zenker Brothers Soundsytem one week ago, which was pretty intense too.\n\n<b>What are you up to next?</b>\n\nWe are playing some shows as Zenker Brothers Soundsystem and some live shows as well. We have a record on Tresor coming in February, followed by a release party beginning of March, and we feel extremely honored and excited about that. After that we are playing in New York and Moscow together, and we are doing some of our own nights in Munich, starting with an Ilian Tape vs Restoration night in March and an Ilian Tape vs Echochord night in April, and then our six-year label anniversary rave. And of course, just celebrating and enjoying our life.",
+    "blurb": "Live and unreleased techno from an underrated German duo.  "
+  }
+}

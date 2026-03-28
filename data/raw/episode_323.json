@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "323",
+  "url": "https://ra.co/podcast/323",
+  "id": "323",
+  "__typename": "Podcast",
+  "title": "RA.323 tINI",
+  "date": "2012-08-06T00:01:16.000Z",
+  "fileSize": 78651214,
+  "duration": "01:05:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra323-tini-cvr.jpg",
+  "contentUrl": "/podcast/323",
+  "tracklist": "Thomas Rubeck - She Needs Me\nPantha Du Prince - Fountain Drive\nLakosa - Raw 003 (Unreleased)\nLeonel Castillo - Tini Edit (Unreleased)\nAlexandar Kyosev - Untitled (Unreleased)\nRhadoo - De La Dus\nPat Ondebaak - Mountain (Unreleased)\nOshana - One Time For Your Mind\nIan F. Remix - Calma\nFernando Costantini Remix - Depone\nShlomi Aber - Golly Moses\nDoubtingthomas - Too Much Information\nMarc Antona - S312 (Unreleased)\nJulian Perez - Mig 15\nDorisburg Remix - Djup House\nMarco Zenker - We See Away",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra323/",
+  "keywords": "tINI, Desolat, deep house, minimal, tessa, rekids, ",
+  "artist": {
+    "id": "13109",
+    "__typename": "Artist",
+    "name": "tINI"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "tINI is a key member of the Desolat family, the coterie of artists that has coalesced around the Loco Dice- and Martin Buttrich-helmed imprint the last few years. She got her start on the scene back in 2003, gigging in and around her hometown of Munich and eventually building sufficient momentum to gain the recognition of Loco Dice, who signed her to the label. Residencies for Fuse in London and Ushuaia in Ibiza contributed to her growing reputation in the ensuing years, both ideal places to absorb her brand of deep, groove-centred house music. tINI's studio output has been fairly modest overall, choosing instead to make a statement in the album format. <i>Tessa</i> at the end of 2011, presenting 12 tracks that revelled in all percussive dexterity and textural intricacies we'd come to expect from her DJ sets.  \n\n\"Minimal house\" eventually became a beleaguered term, but in essence what tINI presents here is a masterclass in pared down house music; reminding us that when it's executed with class and sensitivity, channelling the essentials can be truly compelling. \n\n<b>What have you been up to recently?</b>\n\nSince the beginning of the summer season I am staying in Ibiza. I brought some equipment and I am working on new releases (a new one for Desolat, a mini-album for Rekids and others). And I am hosting my own weekly radio show called \"It Could Be Worse\" on Ibiza Global Radio and besides this I'm traveling every weekend playing gigs and festivals all around Europe. On 1st of August I (re-)started with my own little beach party called \"tINI and the gang,\" a free event for friends focused on the music I love. It's a busy summer!\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it here in Ibiza, inspired by the nice weather and my tranquil life apart from work. We have a nice little setup here in our house.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nMy mixes are different to what you might hear from tINI at peak time in a club. I chose some older productions as well as actual productions from friends, different styles, but all telling one story. I love to build up slow, starting with deep music. There is a story or motivation behind all my mixes, either a person or a certain mood. As said before, this mix was Ibiza sunset/sunrise-inspired. \n\n<b>Ibiza has been an important location for you down the years. Can you give us a brief history of your relationship with the island?</b>\n\nMy first Ibiza visit was about ten years ago and I got attached right away. For me it was never just about the party. It changes your personality in a good way to live on an island like this. The sea, the weather and the quiet and amazing places, such as Es Vedra, can make me the happiest person within minutes after arriving from a hard and stressful weekend. \n \n<b>What are you up to next?</b>\n\nI am about to leave the house now to play at Amnesia for Cocoon Heroes on the terrace tonight and well, my first \"tINI and the gang\" starts this week! Very excited.\n\nAfter the summer I plan to move to New York for at least some months as I am totally in love with this city and would love to work there on some new productions and projects. Maybe a new album? We will see! ",
+    "blurb": "The German selector sees in sunset/sunrise."
+  }
+}

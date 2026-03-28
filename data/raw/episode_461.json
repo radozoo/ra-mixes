@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "461",
+  "url": "https://ra.co/podcast/461",
+  "id": "461",
+  "__typename": "Podcast",
+  "title": "RA.461 Tama Sumo",
+  "date": "2015-03-30T00:00:53.000Z",
+  "fileSize": 215907261,
+  "duration": "01:29:48",
+  "imageUrl": "https://static.ra.co/images/podcast/ra461-tama-sumo-cvr.jpg",
+  "contentUrl": "/podcast/461",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra461/",
+  "keywords": "Kerstin Egert, house, ostgut, berlin, berghain, panorama bar",
+  "artist": {
+    "id": "2897",
+    "__typename": "Artist",
+    "name": "Tama Sumo"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In describing Kerstin Egert, it's tempting to drop a cliché and say she's one of the nicest people you'll ever meet, but that would be slightly wide of the mark. It's more that she's ebullient—between her bubbling laugh and shy yet open demeanour, her presence radiates generosity and warmth. Something similar could be said of her DJ sets. From her early days playing gay parties in Berlin to her more recent stint as a Panorama Bar resident, Egert has won over countless dance floors with her bright, funky, feel-good style. \n\nBut there's more to Tama Sumo than just good vibes. Egert's personal story is one very close to the heart of house music: that of a gay woman who grew up in a conservative environment, eventually venturing out in search of a more tolerant and understanding community. Though unknown to most of her audiences, this experience fuels Egert's sounds, adding depth to her selections. Authenticity in music is a slippery phenomenon, but when Tama Sumo plays house she does it in a way that serves the genre's original purpose: to work as a message of love and an emotional salve. On RA.461, we get a taste of the sound that's made Tama Sumo a cult favourite. \n\nTo coincide with the mix, we today spoke with Egert for <a href=\"/feature.aspx?2357\">The Art Of DJing</a>, a brand new feature series that goes deep on the craft. \n\n\n<b>What have you been up to recently?</b>\n\nI have been touring a lot, getting domesticated as well. Re-decorating our home. Making time for going to live concerts, which has been amazing. Went to catch the great Went to catch the great Ethiopian jazz guru Mulatu Astakte, Konono No 1, D'Angelo. Also, Lakuti, Ari (who has her debut EP coming on Uzuri shortly, a collaboration with Afrikan Sciences) and I did a remix for The Knife's \"Ready To Lose\" under the name Tarantism that has been released digitally already and will be released on vinyl shortly.\n\n<b>How and where was the mix recorded?</b>Could you tell us about the idea behind the mix?\n\nThe idea behind the mix was to bring in a mixture of old and new records that move my feet and my soul and to create a variety within the mix without losing the flow. Basically I tried to do what I also do as a DJ in a club context, just with a bit more of a time limit.\n\n<b>What are you up to next?</b>\n\nThere are two projects that I do on a regular basis and that will continue in 2015. One is the show on NTS, a wonderful London-based radio station that gave Lakuti and I the chance to curate regular live shows that are broadcast from Berlin. We do the show around every three months and invite artists whose musical work we love to share the decks with us. Another project from the heart is the monthly pub quiz that Prosumer, Mysti, Mika and myself are doing in German and in English at Südblock in Berlin. \n\nAlso, Lakuti and myself have been given the chance to curate three nights this year at Panorama Bar. They will take place in May, September and November. As not all of the artists are confirmed yet, I can't say anything specific about the lineup. Just that the approach is similar to our DJing: we want to bring diversity in music for each night and at the same time have a little common basis between the artists that keeps the night together.\n\nThe same goes for Your Love at Dance Tunnel in London, a party series that the lovely crew behind this club allowed me curate. It started with Lakuti on Valentine's Day and the second party is on Saturday, 23rd of May with Sadar Bahar. And of course there are some gigs to play in 2015 ;-)",
+    "blurb": "The Panorama Bar resident shows her chops. \r\n"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "15",
+  "url": "https://ra.co/podcast/15",
+  "id": "15",
+  "__typename": "Podcast",
+  "title": "RA.014 Headman",
+  "date": "2006-06-12T00:00:02.000Z",
+  "fileSize": 108017321,
+  "duration": "01:29:56",
+  "imageUrl": "https://static.ra.co/images/podcast/ra014-headman-cover.jpg",
+  "contentUrl": "/podcast/15",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra014/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:619"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Five years ago Headman, real name Robi Insinna released his first artist album 'It Rough' on Munich's Gomma label. The LP was one of the first of the post-punk-funk sound combing dancefloor production with the raw edge of an indie band. Now on his third album 'On' released in March this year, Headman continues to mix guitars and beats, collaborating with friends such as Steph from Soulwax, Matt from The Rapture and Erol Alkan who all provide vocals on the new release.\n\nRA caught up with Headman on the road during a recent North American tour...\n\n<b>What have you been working on recently?</b>\nI have just finished a few remixes, the last one is for a band called the Valentinos from Australia. I have to do some more. I'm doing my own mixes for the Headman 12 inches. I did one for Moisture and I'm working on the next one…\n\n<b>Where was the mix recorded?</b>\nWhile on tour, in Toronto.\n\n<b>What are you up to next?</b>\nNext up is mixing the <a href=\"http://www.relishrecords.com/\">Relish Records</a> label compilation and preparing the compilation EP. I'm working on loads of Relish releases coming up after September.",
+    "blurb": "Headman provides the latest RA Podcast, a ravetastic mix featuring Hot Chip, Cut Copy and Daft Punk."
+  }
+}

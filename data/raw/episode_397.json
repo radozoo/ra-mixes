@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "397",
+  "url": "https://ra.co/podcast/397",
+  "id": "397",
+  "__typename": "Podcast",
+  "title": "RA.397 Rene Hell",
+  "date": "2014-01-06T00:00:11.000Z",
+  "fileSize": 140085527,
+  "duration": "00:58:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra397-rene-hell-cvr.jpg",
+  "contentUrl": "/podcast/397",
+  "tracklist": "Alva Noto - Haliod Xerrox Copy 6\nAnthony Pateras & Robin Fox - You're All Answers\nLee Gamble - Black Snow\nKatrina Krimsky - Apparitions\nKoji Asano - Nothing To Do In Autumn\nArthur Russell - Tower Or Meaning-2\nKeith Rowe & Graham Lambkin - Over C\nNuno Canavarro - Wask\nWilliam Duckworth - Prelude 3\nMarcus Schmickler - Cursive Phrasing\nFlorian Hecker - Octave Chronics\nSteve Reich - Melodica\nBen Vida - Page 6\nSony Mao - The Method Of Science\nWolfgang Voigt - Du Musst Nichts Sagen\nYasunao Tone - The Seminar On The Purloined Letter\nWayne Siegel - Domino Figures\nWilliam Basinski - D|Lp 4\nVoicecrack - Yellow Cube\nToshimaru Nakamura - Heater/Refrigerator\nMorton Feldman - Triadic Memories\nIngram Marshall - Fragiliy Cycles Side A\nHildur Guonadottir - Prelude\nJin Sangtae - Room For Space\nSchubert - Piano Sonata No. 6 In E-Moll, D.566\nLorenzo Senni - In High Places\nLuc Ferrari - Presque Rien No. 1 C (Le Lever Du Jour Au Bord De La Mer)\nYasuhiro Minamizawa - (Sitar)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra397/",
+  "keywords": "Secret Abuse, Abelar Scout, Impregnable, Marble Sky, PAN, ambient",
+  "artist": {
+    "id": "15423",
+    "__typename": "Artist",
+    "name": "Rene Hell"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Rene Hell is the primary recording alias of ambient and experimental artist Jeff Witscher. Under the name, Witscher has produced a dizzying body of work, much of which has been released on cassette through his own Agents Of Chaos label. If you're familiar with Witscher's music, there's a good chance you came to him through <i>The Terminal Symphony</i>, his 2011 full-length on Type. The album was, in the main, a beatless examination of synthesised repetition that was often breathlessly pretty. Its often challenging follow up, <a href=\"/review-view.aspx?id=13642\"><i>Vanilla Call Option</i></a>, was released in September on Bill Kouligas's PAN—\"on close listening it presents moments of stark, bewildering beauty,\" said RA's Josh Hall at the time. Rene Hell is Witscher's most visible pseudonym but it's by no means his only one. Seek out his wide array music as Secret Abuse, Abelar Scout, Impregnable or Marble Sky, and his work in groups such as Deep Jew, Trash Dog and Foot Village.\n\nYou may want to clear your schedule before cueing up Witscher's RA podcast. It features moments of engaging and touching delicacy, but has a ferocious undercurrent that may take you by surprise. \n\n\n<b>What have you been up to recently?</b>\n\nIn the past month I've relocated to St. Paul, Minnesota, where I'm working and playing chess and a bit of weight training. It's very cold (supposed to reach a low of -30 tomorrow) so I'm indoors most of the time, watching basketball and reading. I haven't been working on music at all, really.  \n\n<b>How and where was the mix recorded?</b>\n\nThis mix was put together while I was living in LA, using REAPER. I used a few plug-ins on some of the original wav files but it was really just a matter of mixing tracks together. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThere wasn't a specific idea to begin with. I was just selecting pieces that were obviously very opposite as wholes, but consisted of smaller sounds that out of context could easily intertwine with completely different compositions. Taking advantage of how the electronically- and computer-generated voices could easily coexist with totally organic acoustic sounds and playing off how they tend to mimic each other.\n\n<b>You've produced a fairly vast body of music over the last ten years. Would you say you're disciplined when it comes to finishing out the process?</b>\n\nI don't think I'm a very disciplined person in general, and of course finishing up a project can be the most difficult because at that point there are so many options, which is very similar to chess. But it's a part of developing an artistic practice, finding these weaknesses and then making the adjustments. It's definitely something I'm working on.\n\n<b>How are you progressing with your chess playing?</b> \n\nI'm still playing quite a bit of chess, several games a day along with longer, turn-based games, and then some over the board with friends I have here, though I've shifted to playing more \"bullet\" and \"blitz\" games lately. Because I've taken it up seriously at such a late stage in life, I expect it will take me years to achieve the level I want to be at. Of course I enjoy the learning process so I don't mind the time it's taking. But there is so much information (opening, middle and end game theory) to digest because it's strictly a theoretical game, a game with absolutely no room for chance or any kind of strength outside of cerebral theory. It will take many more hours. \n\n<b>What are you up to next?</b> \n\nI have a few shows in February and I'm planning on getting back to working on new music, most likely under my own name. Will continue with chess and work and lifting and probably some traveling for the spring.",
+    "blurb": "We begin 2014 in the PAN artist's sound world. "
+  }
+}

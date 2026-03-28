@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "592",
+  "url": "https://ra.co/podcast/592",
+  "id": "592",
+  "__typename": "Podcast",
+  "title": "RA.592 DJ Minx",
+  "date": "2017-10-02T00:00:29.000Z",
+  "fileSize": 200394533,
+  "duration": "01:23:23",
+  "imageUrl": "https://static.ra.co/images/podcast/ra592-dj-minx-cvr.jpg",
+  "contentUrl": "/podcast/592",
+  "tracklist": "Si Tew - Breathe feat. Molly (Atjazz & TrueSelf Remix) \nMaxim Lany, Demarkus Lewis - Droga (Demarkus Lewis Remix) \nRimbaudian - Werka 8 \nArtful, Ridney, Terri Walker, Opolopo - Missing You (Opolopo Remix) \nDan Rubell - Camoflash \njOHNNYDANGEROUs - Emerald City (Supernova UseTheSample Mix) \nSaytek, Mono, Haze - Moondancer (Mono & Haze Remix) \nKevin Yost - Dancer Dancer \nLil' Mark, Mikey V - FYI \nMoff & Tarkin - Thumbs And Toes \nSoul Minority - For Real (J&M Brothers & Vicmoren Remix) \nAnt LaRock - Hole Power \nOscar P, Rocco, MJ White - The Energy (Rocco Vision Mix) \nDJ Minx feat. Gayelynn McKinney - Glide (Animal Trax Remix) \nKevin Hedge (Blaze), David Harness - My Beat (Spaced Out Beat) (David Harness Remix) \nATFC - It Ain't Whatchu Got \nWeiss (UK) - The Guitar Man \nBen Delay - Rock & Roll\nDetroit Swindle - Sugar Sugar \nCuloe de Song - Stig Boardersman \n\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/344972457",
+  "keywords": "Jennifer Witcher, Detroit, Women on Wax, Movement, Queen Beats Radio",
+  "artist": {
+    "id": "31222",
+    "__typename": "Artist",
+    "name": "DJ Minx"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"My thoughts on this mix were: I'm goin' in and lettin' loose. Period.\" That's Jennifer Witcher, AKA DJ Minx, describing her RA podcast. It's a great summary of a style she's been perfecting for the best part of three decades. Simply put, Witcher plays house music to start the party. Her selections take in swinging disco and soul samples, deep house warmth and heads-down techno influences, all underpinned by her trademark bumping grooves. At a time when so much dance music skews towards dark moods, her DJ sets feel like a refreshing contrast. \n\nWitcher is from Detroit, and we got a sense of the esteem she's held in there when we picked her set at Movement 2017 as a <a href=\"/reviews/21092\">key performance</a>. \"In a sea of obviousness her sets speak to your heart, your hips, and most importantly your feet,\" said one commenter. Away from clubs and festivals, Witcher is a radio DJ, a producer, a label owner and a vocal advocate for women in dance music. Back in 1996 she set up Women On Wax, \"a collective of female DJs from the Metro Detroit area.\" It later spawned a record label of the same name, through which Witcher has released most of her music. (The label has been inactive for a couple years, but she tells us below there are more releases to come soon.) There have also been appearances on other labels, most notably in 2004 when she released the excellent \"Walk In The Park\" on Minus, which wound up being remixed by Ricardo Villalobos, Josh Wink, Magda and Matthew Dear. Witcher has, meanwhile, been a mainstay of Detroit radio, with her current show, Queen Beats Radio, going out every Tuesday on Deep Space. Even without mentioning her residency at the legendary Detroit club Motor, it's clear Witcher is the sort of impressive all-rounder who should have been picked up on outside of the US years ago. \n\n\n<b>What have you been up to recently?</b> \n\nLots of travel across the States. Brooklyn, Manhattan, Seattle, San Francisco, Denver, Boston and of course I've been rockin' in the D!  \n\n<b>How and where was the mix recorded?</b>  \n\nMy mix was done at home on my setup. I use Serato with Serato Vinyl, two Pioneer CDJ-400s, a Numark 5000FX mixer, my Zoom H4n digital recorder and Pioneer DJ headphones. \n\n<b>Can you tell us about the idea behind the mix?</b>  \n\nMy thoughts on this mix were: I'm goin' in and lettin' loose. Period. With that thought process, I know it'll be my kinda right ;) \n\n<b>With Women On Wax, you've been helping to support women in electronic music since 1996. Tell us about your work.</b>   \n\nVery good times. Once I started gaining momentum, people started to notice, especially up-and-coming female DJs and girls that hoped to spin records one day. I'd get calls like, \"Hi, can you help me get out there? Do you have some recommendations on how I can handle this situation?\" through to, \"How did you get booked to play with so-and-so.\" I decided then that I wanted to share what I'd learned, how I handled things, what to accept and what NOT to accept, and how to gain respect. It was awesome. Our conversations helped to motivate all of us. They would let me know parties they played and how they handled getting the bookings.  \n\n<b>Have you seen the conversation surrounding women in the industry change over the years?</b>  \n\nI have. There's a lot more respect for women DJs these days. I'm not only a favourite female DJ, but a favourite DJ. We still have work to do—so I'm staying on it! \n\n<b>What are you up to next?</b> \n\nI'll be headlining a Pride party in ATL next month (October), as well as opening for Kenny Dope at the Nervous party in December. I'm kicking off a new record label with my good friend N'Dinga Gaba this fall, and have some sweet sounds coming out on Women On Wax Recordings.\n\n",
+    "blurb": "Funky, bumping house from Detroit. "
+  }
+}

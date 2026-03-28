@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "399",
+  "url": "https://ra.co/podcast/399",
+  "id": "399",
+  "__typename": "Podcast",
+  "title": "RA.399 STL",
+  "date": "2014-01-20T00:00:20.000Z",
+  "fileSize": 203830928,
+  "duration": "01:24:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra399-stl-cvr.jpg",
+  "contentUrl": "/podcast/399",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra399/",
+  "keywords": "STL, Stephan Laubner, Something, Smallville, Harz, At Disconnected Moments",
+  "artist": {
+    "id": "3738",
+    "__typename": "Artist",
+    "name": "STL"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In a <a href=\"/feature.aspx?1184\">2010 feature</a>, Todd L. Burns likened Stephan Laubner's work to that of the Dutch painter Piet Mondrian. Mondrian endlessly painted grids filled with primary colours; as STL, Laubner produces reams of rickety house tracks. \n\nFour years later, Laubner is still casting fresh light on his blueprint. This is, admittedly, an over-simplification of his work. Laubner's STL releases often include sound experiments and other sonic oddities. He also likes to include loops. Lots of loops. He puts out the majority of this music through Something, a fiercely DIY operation he runs out of Harz, a tiny town in central Germany. Something's release schedule usually depends on Laubner finding the necessary funds, and the label's pure focus on music over PR and distribution has meant that his best-known work has often been on other labels, most notably Hamburg's Smallville, who released 2009's gorgeous \"Silent State.\" Later this month, Smallville will release <a href=\"/news.aspx?id=21236\"><i>At Disconnected Moments</i></a>, the latest in a long line of STL full-lengths. \n\nLaubner rarely gives interviews and has only performed live a few times, but fortunately for us, he's up for the occasional mix. RA.399 has all the crunchy hallmarks of STL, but with the intensity level set to max.  \n\n<b>What have you been up to recently?</b>\n\nI have just finished some things for my latest vinyl Something 23, and was having fun making some instrumental downtempo tracks.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my basement on a basic turntable setup and a Numark mixer with effects. Nothing very special.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIn fact I was just making a mix without knowing to give it away as a podcast to RA. There was no special idea behind it. Nevertheless I wanted to start with some non-techno stuff and continue with some interesting sounds later on.\n\n<b>Locked grooves have been one of your signatures over the years. Why do you like to include them on your releases?</b>\n\nCause locked grooves are so much fun to make, besides all the well thought-out tracks. Plus a good made loop gives the listener an extra track on each vinyl. Basically those loops are simply capturings and snapshots of different studio situations and harmonious moments.\n\n<b> What are you up to next?</b>\n\nCurrently I'm working on a new Something 12-inch, and programming some sounds for a few songs.",
+    "blurb": "An underground favourite surfaces. "
+  }
+}

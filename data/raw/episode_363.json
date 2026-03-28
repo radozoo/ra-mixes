@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "363",
+  "url": "https://ra.co/podcast/363",
+  "id": "363",
+  "__typename": "Podcast",
+  "title": "RA.363 Marcellis",
+  "date": "2013-05-13T00:00:48.000Z",
+  "fileSize": 82651723,
+  "duration": "01:08:33",
+  "imageUrl": "https://static.ra.co/images/podcast/ra363-marcellis-cvr.jpg",
+  "contentUrl": "/podcast/363",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra363/",
+  "keywords": "house, deep house, workshop, untitled",
+  "artist": {
+    "__ref": "Artist:45369"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "We were going on little more than a hunch when we asked Marcellis for a mix a couple of months back. The Dutch DJ and producer's excellent but sporadic output—four tracks through Workshop last year, and an EP for Black Label in 2004—has varied wildly, leaving little indication as to what he'd come up with. You can probably sense where this is going: we were thrilled with what he came back with. Over nearly 70 minutes, Marcellis lets it all hang out. Starting slowly, he shimmies through sun-blushed house and hip-hop. A short time later, he's tossing out techno. By the mix's midpoint—a standout Paul McCartney jam—the theme is psychedelia. The final section is a gentle unwind to silence. \n\nChatting to Marcellis ahead of the mix, we found out that he's been DJing since 1987. Punk, reggae, hip-hop and world music were early interests for him before discovering acid house in the '90s. He's been DJing on and off ever since, which is a solid explanation for why his mix for us feels so effortlessly assured. \n\n<b>What have you been up to recently?</b>\n\nI've been finishing up an album for Millions Of Moments, which will be released very soon. It contains tracks made roughly 2005 - 2008. It's called <i>I Am Woman</i> and I'm very happy with it. It's at the cutter as we speak. There are some snippets of it on my <a href=\"https://soundcloud.com/marcellis-3\">SoundCloud</a> page.\n\n<b>How and where was the mix recorded?</b>\n\nAt the bunker using whatever I could get my hands on.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe general idea behind this mix is the same idea that's behind my own music: it has to have character. It has to last. (Yeah, I know that's a tricky one.) Also a small mindfuck here and there is definitely a plus. I wouldn't necessarily play like this in a club; I see podcasts and DJing in clubs as two totally different things that require different skills.\n\n<b>You seem to favour the stranger side of things. Why do you think that is? What and who are some of your most important influences?</b> \n\nWell, I like to mix up the stranger, psychedelic vibe with some nice funky, catchy music. That way things will go down easier and I happen to love both anyway. I try to do this in my own music as well. It actually just ends up that way because it's the way I am. I believe in experimentation, but it has to go somewhere. There has to be something to hold on to.\n\nMy most important influence is my own history and that of my family. As much as I like and love the whole Detroit/Chicago thing, I'm not from there and I'm not going to act like or wish that I am. Staying close to who I really am will get me further, I believe. \n\n<b> Do you feel like you have to compromise your sound to play in clubs?</b>\n\nWell, fortunately, like I said before, I raised myself to love a lot of things. To adapt is not a problem for me at all. In clubs the most important thing is the dancing. I love dancing myself, so that's what I aim for when I'm playing. Most of the time, I concentrate on my favourite dancer and go from there to see whether I can take her places. (Yes, in my case it's a she most of the time.)\n\n<b>What are you up to next?</b> \n\nThere has been a lot of interest in my music in the past year. In the past I wasn't really up for it. Now I'm embracing most of it. Up next are some releases for some very interesting labels, Workshop being one of them of course. Past experiences have taught me not to talk about future releases too much until stuff is in mastering—things might take a lot longer than you were thinking at first.  \n\nI've been having a DJ hiatus for the past five years (I never stopped buying records, though) but am planning to get back to it from this summer on. First I have to get comfortable behind the decks again and practise until the morning comes.\n\n(ps: special thanks to my mom for painting me.)",
+    "blurb": "Psychotronic Eurohouse musiker. "
+  }
+}

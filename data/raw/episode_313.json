@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "313",
+  "url": "https://ra.co/podcast/313",
+  "id": "313",
+  "__typename": "Podcast",
+  "title": "RA.313 Ena",
+  "date": "2012-05-28T00:01:15.000Z",
+  "fileSize": 82931457,
+  "duration": "01:09:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra313-ena-cvr.jpg",
+  "contentUrl": "/podcast/313",
+  "tracklist": "ENA - Untitled - dub\nENA - Love60 - dub\nENA - Nowhere - dub\nENA - Realization - dub\nENA - Analysis Code - 7even Recordings\nGremlinz & unknown - Untitled 808 - dub\nENA - Purported - dub\nENA - Unplug - dub\nENA - CommunitySpace - dub\nENA - Sign - 7even Recordings\nENA - Whereabouts - dub\nENA - Splinter - 7even Recordings\nsivarider - The Chaser - dub\nTroy Gunner & Cuffy - Decisive Creation - dub\nPeverlist - SaltWater - Livty Sound\nMakoto - Another Generations - Forthcoming Apollo\nConsequence - Of Uncertainty - Exit\nFlatliners & Mental Forces - Make Em Run - Forthcoming Foundation X\nENA - False - Forthcoming \nOverlook - Shadowplay - dub\nDan HabarNam - One - Cylon\nHydro & Arma - Life Is Cheap - dub\nHalogenix - Mercenary - dub\nNaibu&Ena - Untitled - dub",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra313/",
+  "keywords": "Ena, bass, dubstep, Japan, 7even, drum and bass",
+  "artist": {
+    "id": "34946",
+    "__typename": "Artist",
+    "name": "Ena"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It's no coincidence that some of the most consistently innovative \"bass music\" artists draw primary influence from mid- to late '90s drum & bass. Names like Source Direct, Photek and Renegade Hardware are namechecked time and again in their UK heartland, but it seems as though their impact was being felt much further afield. Ena is a Tokyo-based producer whose sound reflects a fascination with this golden age but also dislocation. As he alludes to below, his is a sound unhindered by the immediacy of immersion in an established physical scene; you could certainly feel him pushing up against the edges of the canon across his two recent 12-inches for French imprint 7even Recordings. \n\nBut (if we can be so bold) it's on his mix for us here that he seems to strike out a space all of his own. A large portion of the tracks here are taken from an upcoming full-length for said label, existing at an intersection between the most skeletal forms of dubstep and drum & bass. \n\n<b>What have you been up to recently?</b>\n\nI have been trying to finish my upcoming album on 7even Recordings, but I have been also working at same time on remixes and collaborations, which kind of helped me to take my mind off the album. The album is now 80% complete and should be finished soon.  \n\n<b>How and where was the mix recorded?</b> \n\nI have used Traktor with vinyl controller. I could have used Ableton, but I prefer the old school feeling of records even if the mix is a bit rough. I recorded it in my home studio.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nMost of the tracks are my original productions including upcoming releases on the new album. I also included some deep tracks from producers that are close to my heart. Some people might not see this as traditional drum & bass and dubstep, but I wanted to share these sounds with people. \n\n<b>With this in mind, how do you personally describe the music you make?</b> \n\nSimplicity is what I aim for when making music. When dubstep came out there was a sense that it was genre-less. I think I am trying to pursuing that atmosphere in my own way. I obviously also like straight drum & bass/dubstep but because I live in Japan or I am just a rebellious, perverse person, this is the sound that I came up with. [<i>laughs</i>]\n\n<b>Tell us about the <a href=\"http://backtochill.com\">Back to Chill</a> party in Tokyo. How did you become involved?</b> \n\nI was not there when it started. When they moved the venue from Saloon to clubasia they invited me as one of the guests, and since then I am somehow part of the crew. In the last year a lot of dubstep parties have emerged here in Tokyo, but I believe that only Back to Chill has an original atmosphere where you cannot see some kind of hype.\n\n<b>What are you up to next?</b> \n\nEvery first Thursday of the month we have our Back to Chill event. On June 16th I am playing at a DBS event with Goldie, Youngsta and MC Toast at Unit in Tokyo. \nRelease-wise, I have my upcoming album which I mentioned earlier and a single that will be out on 7even. I've done a lot of collaborative works with various artists and hopefully I can release them sometime soon.",
+    "blurb": "Tokyo bass. "
+  }
+}

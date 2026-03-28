@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "500",
+  "url": "https://ra.co/podcast/500",
+  "id": "500",
+  "__typename": "Podcast",
+  "title": "RA.500",
+  "date": "2015-12-28T00:41:49.000Z",
+  "fileSize": 1000000000,
+  "duration": "10:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra500-cvr.jpg",
+  "contentUrl": "/podcast/500",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": null,
+  "keywords": "Resident Advisor",
+  "artist": {
+    "id": "0",
+    "__typename": "Artist",
+    "name": null
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Monday 6th March, 2006 is a significant date here at RA. This was the day we released our first podcast, <a href=\"/podcast-episode.aspx?id=1\">RA.001 Troy Pierce</a>. \"When we started it was an interesting musical time,\" says Richard Chinn, who launched the RA podcast and has been central to it ever since. \"Progressive house was out. Electro house and new rave were in. Minimal was breaking. Genre cycles were speeding up.\" RA was the first online dance music magazine with a podcast, although Chinn's inspiration for the series, Tim Sweeney's Beats In Space, had already been going for five years. Aside from a couple early hiccups, RA has gone on to release a mix each Monday ever since. The scene around us has changed immeasurably during this time, but the basic idea behind the podcast has remained the same: we ask some of the world's best electronic music artists to submit a 60 to 90-minute mix.  \n\nWhen it came to deciding who to ask to record our 500th podcast, we furiously scratched our heads. How to encapsulate almost a decade of podcasting? We discussed various artists and approaches, and eventually landed on an idea that felt about right. As we only ever feature a given act once in the podcast (aside from the odd time when an artist has also appeared as part of a duo) why not invite back some of our favourites? Then, to further spice things up, we managed to lock in an artist we've been after for years. Everyone involved has, in their own unique way, been a key figure in the world of RA.",
+    "blurb": "Dixon, Steffi, Nicolas Jaar, Ben UFO and Omar-S mark our 500th podcast. "
+  }
+}

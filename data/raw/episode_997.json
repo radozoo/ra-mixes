@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "997",
+  "url": "https://ra.co/podcast/997",
+  "id": "997",
+  "__typename": "Podcast",
+  "title": "RA.996 Ron Trent",
+  "date": "2025-07-06T22:00:22.000Z",
+  "fileSize": 0,
+  "duration": "01:03:08",
+  "imageUrl": "https://static.ra.co/images/podcast/1x1copy(1).png",
+  "contentUrl": "/podcast/997",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra996-ron-trent",
+  "keywords": "",
+  "artist": {
+    "id": "894",
+    "__typename": "Artist",
+    "name": "Ron Trent"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As part of our countdown to RA.1000, a milestone in the 19-year history of <i>Resident Advisor</i>'s weekly mix series, we're switching up the usual format. The next few editions will pair two acts who complement each other's strengths, offering a fresh take on a particular community, scene or style. \n\nFollowing on from two <a href=\"https://ra.co/podcast/996\" target=\"_blank\">Nyege Nyege</a> <a href=\"https://ra.co/podcast/995\" target=\"_blank\">all-stars</a>, this week we're zeroing in on Ron Trent and <a href=\"/podcast/998\" target=\"_blank\">Ash Lauryn</a>, two names who fly the flag high for old-school US house—a foundational pillar of the electronic underground. \n\nTrent takes the A-side. Hailing from Chicago, the genre's birthplace, he's a pioneer and a master of finding the sweet spot where machine music meets organic instrumentation. Listen to any DJ set or record in his extensive back catalogue and you'll find a wealth of exquisitely expressive melodies and deep, spiritual frequencies. (If you've only got a moment, sink into \"<a href=\"https://chezdamierbalancerecordings.bandcamp.com/track/morning-factory\" target=\"_blank\">Morning Factory</a>,\" nine minutes of total perfection.) \n\nTrent's return to the <i>RA Podcast</i>, 19 years after his <a href=\"https://ra.co/podcast/66\" target=\"_blank\">debut</a> in 2006, represents his decades of expertise in fusing funk with gorgeous musicianship under the umbrella of heart-stirring house. Some may call it a masterclass but to us, it's just Trent doing what he does best.\n\nListened to as a whole, RA.996 is a powerful snapshot of house music's elegance, class and, most importantly, understated yet innately euphoric joy. <i>-Nyshka Chandran</i>\n\n<b>You're considered a pioneer of deep house but that genre no longer defines you. Your recent records, including <i>Lift Off</i> and <i>What Do the Stars Say to You</i>, feature a wide range of sounds, from jazz to ambient to boogie. What's the intention behind showcasing this expansive palette to the world?</b>\n\nWell to be honest, my artistry has a wide range of influences not based on genre—it's more based on taste. I do know that there are different levels of things and I keep that in mind with my presentations. My musical and visual scope is layered in a time and historical context that has developed my appreciation for different styles and dialects of sound. All of these genres aforementioned have been a part of my palette one way or another. So doing an album like the <i>WARM</i>, or my latest, <i>Lift Off</i>, comes as a natural progression.\n\n<b>In your recent interview for Rush Hour about <i>Lift Off</i>, you mentioned you spent a lot of time re-discovering your voice and refining it. What are some activities or practices that help you do that?</b>\n\nWell it's a combination of things. I developed my own regiment during the time I spent developing these last two albums. A lot of it was therapeutic and highly introspective. I won't get into all of it but I will say that I listened to a lot of music, studied the mechanics of the guitar and watched as many documentaries as I could. Reference material for me means a lot. One must study to achieve higher learning. No shortcuts there. \n\n<b>Does your time in the studio influence your DJ sets or vice-versa? Curious to hear if one impacts the other in any way.</b>\n\nAbsolutely. Whatever sound I am channeling will make its way through creatively. Working with sound the way I do it comes with a flow. \n\nTranslating what is there in my studio or with the people that are in front of me is a part of a wave of energy coming through at that moment. \n\nHow one affects the other is based on how I am expressing myself at the time. I've definitely made compositions that are made or inspired by a dance floor, listening or sound system. The rest of my process happens in the moment—the rest lies in mystery. \n\n<i>Correction, July 9th: The RA Podcast started 18 years ago, in 2006, not 24.</i>",
+    "blurb": "The first half of RA.996 is Ron Trent's take on luxurious house."
+  }
+}

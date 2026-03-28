@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "335",
+  "url": "https://ra.co/podcast/335",
+  "id": "335",
+  "__typename": "Podcast",
+  "title": "RA.335 Michael Mayer",
+  "date": "2012-10-29T00:00:56.000Z",
+  "fileSize": 105607810,
+  "duration": "01:27:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra335-michael-mayer-cvr.jpg",
+  "contentUrl": "/podcast/335",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra335/",
+  "keywords": "kompakt, Michael Mayer, koln, cologne, Immer, Mantasy",
+  "artist": {
+    "id": "587",
+    "__typename": "Artist",
+    "name": "Michael Mayer"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Michael Mayer has just returned from an eight year solo production hiatus to release his second album, <i>Mantasy</i>. Was it worth the wait? \"<i>Mantasy</i> is a significant elaboration on the modern Kompakt aesthetic,\" <a href=\"review-view.aspx?id=11840\">said RA's Tony Naylor</a>, praising the German producer for an elegant ten track distillation of his long-serving imprint. Opener \"Sully\" evoked the looped melancholia of the label's <i>Pop Ambient</i> series; \"Mantasy\" felt like a lost number from the techno-focussed <i>Speicher</i> series; while \"Good Times\" would have stolen the show on any of the label's 12 previous <i>Total</i> compilations. That his label and new album were so intertwined is no great surprise: along with Jürgen Paape and Wolfgang Voigt, Mayer has spent the past 14 years cultivating one of the most indelible and reliable brands in electronic music.  \n\nThere is also Kompakt-related precedence in Mayer's podcast for us: RA.335 continues in the lineage of his revered trio of <i>Immer</i> mixes, where the narrative was king and \"emotive\" was the watchword. \n\n<b>What have you been up recently?</b>\n\nThe album is still keeping me pretty busy. It's true what they say: The real work starts after the production work is done. So I mainly spend my days talking to strangers about myself which kind of bothers me as I normally prefer to talk about other people. Last weekend, the <i>Mantasy</i> tour has started here in Cologne. This is where the fun came back into play. As I'll only be playing all night long gigs on this tour I won't be able to do much talking. That's a very welcome change... I prefer to let the music speak for itself.\n \n<b>How and where was the mix recorded?</b>\n\nThe old school way: at home while the kids were sleeping. It might lack some precision due to the low volume but I nevertheless enjoyed recording it. I was using a Pioneer mixer, two 1210s and a CDJ 2000. The turntables are still the ones I bought second hand in the late '80s. They must be nearly 30 years old. The pitch controls might have seen better days but I just can't let them go. My faithful companions and ever reliable workhorses.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI guess most people listen to RA podcasts on Monday mornings. So I thought I'd keep things rather smooth and warm and avoid sounds that might make the milk in your latte turn. \n\n<b>You said recently that you'd become obsessed with world music. What have been some of your favourite discoveries?</b>\n\nSome weeks ago, I had the pleasure to play at a festival in Perm, in the Ural region of deepest Russia. The people behind the festival are also running a label that is committed to recording and archiving local folk music, mainly old women singing their traditional chants. They've released this gorgeous 6CD box... much to the distress of Kompakt's office staff I could listen to it all day long. \n\n<b>Obviously the title of the album is attracting some attention. Can you explain its origins?</b>\n\nThe title came to me while sitting in deep relaxation on a Cape Verdian beach.  I didn't choose it; it chose me. I don't know its actual meaning and I happily leave it up to your imagination. \n\n<b>What are you up to next?</b>\n\nI'm on a train to Amsterdam for Kompakt's ADE party at Melkweg. And then the <i>Mantasy</i> tour will lead me to my much beloved Spanish residencies at Nitsa Barcelona and Mondo Madrid.",
+    "blurb": "Arresting electronics from Cologne. "
+  }
+}

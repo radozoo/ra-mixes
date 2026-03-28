@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "77",
+  "url": "https://ra.co/podcast/77",
+  "id": "77",
+  "__typename": "Podcast",
+  "title": "RA.077 Deadset",
+  "date": "2007-11-05T10:00:19.000Z",
+  "fileSize": 77779527,
+  "duration": "01:04:47",
+  "imageUrl": "https://static.ra.co/images/podcast/ra077-deadset-cover.jpg",
+  "contentUrl": "/podcast/77",
+  "tracklist": "01. <a href=\"dj-page.aspx?id=992\">Jackmate</a> – The Walls [<a href=\"record-label.aspx?id=1202\">Phil e</a>]\n02. Rejected – Dec Trec [<a href=\"record-label.aspx?id=1011\">Rejected</a>]\n03. Deadset – G.O.D. [FRONT ROOM LTD]\n04. Deadset – Cardinal Rules (Deadset Dub Tool) [<a href=\"record-label.aspx?id=1262\">Front Room</a>]\n05. <a href=\"dj-page.aspx?id=930\">Samuel L Session</a> – The Stickup (SLS Remix) [<a href=\"record-label.aspx?id=971\">Klap Klap</a>]\n06. <a href=\"dj-page.aspx?id=710\">3 Channels</a> – Getting Kinda Hectic [<a href=\"record-label.aspx?id=586\">Trapez</a>]\n07. René Breitbarth – Graveyard Swing (Part 1) [Neopren]\n08. René Breitbarth – Talking All Jazz [<a href=\"record-label.aspx?id=672\">Sub Static</a>]\n09. Brett Johnson & DJ Heather – Everything’s Electric (<a href=\"http://www.residentadvisor.net/dj-page.aspx?id=774\">Mike Shannon</a> Remix) [<a href=\"http://www.residentadvisor.net/record-label.aspx?id=459\">2020 Vision</a>]\n10. Acid Casuals – Filthy Pitch [<a href=\"record-label.aspx?id=665\">Novamute</a>]\n11. Hugo – Stel & A Tan [<a href=\"record-label.aspx?id=902\">Tuning Spork</a>]\n12. <a href=\"dj-page.aspx?id=773\">Radio Slave</a> – Bell Clap Dance [<a href=\"record-label.aspx?id=811\">Rekids</a>]\n13. <a href=\"dj-page.aspx?id=988\">Johannes Heil</a> – All For One (<a href=\"http://www.residentadvisor.net/dj-page.aspx?id=762\">Tobi Neumann’s</a> Swinging Remix) [<a href=\"http://www.residentadvisor.net/record-label.aspx?id=531\">Klang Elektronik</a>]\n14. <a href=\"dj-page.aspx?id=1354\">Michael Ho</a> feat JonJon – Takeaway (<a href=\"http://www.residentadvisor.net/dj-page.aspx?id=701\">Jay Haze</a> Remix) [<a href=\"record-label.aspx?id=902\">Tuning Spork</a>]\n \n*Detroit Grand Pubahs – Sandwiches [THROW] / Acapella",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra077/",
+  "keywords": "",
+  "artist": {
+    "id": "1716",
+    "__typename": "Artist",
+    "name": "Deadset"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Deadset is the latest reincarnation of Cass & Tom Mangan. If you were buying records in the early 00’s you might have spied their names in the progressive bins of the record store, but after hooking up in the studio in 2003, Cass and Mangan carved out a name as remixers to the stars, handing in skewed electro-tinged rethinks of Royksopp, Scissor Sisters, Justin Timberlake and Tiefschwarz not to mention a cheeky cover of Robert Palmer's 'I Didn’t Mean To Turn You On'. \n\nAs the newly born Deadset, the pair have just released their debut longplayer 'Keys Open Doors' on Jesse Rose's Front Room Recordings, which finds the duo melding bouncey grooves, hypnotic techno, messy minimal and plenty of analogue squelch with an all-together restrained approach.  \"The Deadset sound is a little more considered, a little more organic and homogenous and all the better for it,\" says Cass. Now with the album in the bag, Deadset are concentrating on taking it out into the clubs with a new live show which Londoners can check out this weekend at <a href=\"event-detail.aspx?id=35452\">Egg</a>. \n\nThe Deadset duo also DJ together with past gigs at rated clubs such as Berlin's Panorama Bar, Fabric and The End, Klaktka in Warsaw and Yatzi in Oslo. For their RA podcast, Deadset mine the best of current European house and techno with fresh cuts from Radio Slave, Michal Ho and Rene Breitbarth plus a few cheeky samples thrown in to keep you on your toes. \n\nDeadset in the hotseat: \n\n<b>What have you been working on recently?</b> \nWe have been working on the Deadset live show. Disassembling all of the album tracks, stripping them back and then reassembling them so that we can tweak until our hands fall off. \n\n<b>Where was the mix recorded?</b> \nThe mix was done the old fashioned way, in the Deadset studio with 2 decks, 2 CDJ 1000's and Traktor Skratch. We really wanted our podcast to be a snapshot of what we would play out and about. So apart from a few re-edits and remakes, we just tried to take some of our favourite records and make the whole thing work by mixing them live to get the kind of feel that we wanted. \n\n<b>What are you up to next?</b> \nTrialling the Deadset live experience, and learning as we go. We played at Panorama Bar last weekend, and got a really great response from a very savvy crowd, so that's inspired us even further to just keep working at every little facet to ensure that it keeps on getting better and better. We've then got some remixes to finish, some remixes of tracks from the album to finish which will probably appear as digital exclusives, and then we've got to already start work on some brand new Deadset material for an upcoming secret project.",
+    "blurb": "This week's podcast is wonky house and techno from Front Room Recordings double act Deadset."
+  }
+}

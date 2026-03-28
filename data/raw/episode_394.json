@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "394",
+  "url": "https://ra.co/podcast/394",
+  "id": "394",
+  "__typename": "Podcast",
+  "title": "RA.394 Leif",
+  "date": "2013-12-16T00:00:27.000Z",
+  "fileSize": 159027348,
+  "duration": "01:06:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra394-leif-cvr.jpg",
+  "contentUrl": "/podcast/394",
+  "tracklist": "Leif - River Trip [Mindtours]\nAndreas Fragel - A Bulletin From Nothing [Mit Ohne Sound]\nTom Ellis - We All Have Legs [Release TBC]\nMarcellis - Speakeasy [Millions Of Moments]\nFarben - A Famous Myth [Süd Electronic]\nFit - Kali [Fit Sound]\nJohn Thomas - Working Night [Logistic]\nOctober - Decompression Chamber [UntilMyHeartStops]\nGrimes Adhesif & Tom Demac - Untitled [MindYourHead Records]\nElgato - Untitled [Forthcoming on Galdoors]\nCirculation - Sincerely [Creation Mix] [Balance Recordings]\nRoger Gerresen - Mint [Fear Of Flying]\nJoey Anderson - The Vase [Release TBC]\nArea - Hardplace [Kimochi] \n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra394/",
+  "keywords": "Leif Knowles, house, deep house, Freerotation, Dinas Oleu,",
+  "artist": {
+    "id": "5434",
+    "__typename": "Artist",
+    "name": "Leif"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Leif Knowles is a quiet achiever. Since 2004, the Welsh artist has steadily released music through a small pool of labels, earning him the respect of DJs but mostly flying under the radar. His best tracks—from the minimally-inclined music of his early years, through to his more recent deep house output—have high production values, a pleasing sense of swing and tons of warmth. He's a resident DJ at the much-loved Freerotation festival and has played outside of the UK a few times, but his touring schedule is steady rather than busy. All of which made it a pleasant surprise when he released one of the finest house albums of this year. <a href=\"/review-view.aspx?id=14048\"><i>Dinas Oleu</i></a> saw Leif step back from the dance floor and refocus on melodies and atmosphere—it was described by RA's Kristan Caryl as a \"sumptuous symphony of sound.\" We don't think the record will make him a star, but it should hopefully create a wider audience for an artist who deserves one.  \n\nWhen you're through listening to <i>Dinas Oleu</i>, slip on RA.394. Leif begins the mix in the same elegant vein of the album and then applies the pressure in its second half, touching on new music from Joey Anderson, Tom Ellis and Elgato.   \n\n<b>What have you been up to recently?</b>\n\nI've been busy working on some new material. This week I'm out in Germany playing a few parties and getting some record shopping done while I'm here, too.\n\n<b>How and where was the mix recorded?</b>\n\nIt was all mixed and recorded live at my home studio using vinyl, plus a couple of digital edits for the unreleased bits.\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's a collection of tracks from some recent and forthcoming releases I'm really enjoying, plus some older favourites thrown in for good measure. I tried to cover a few different styles, from the gentle melodic stuff to some more techno-orientated sounds.\n\n<b>You've been releasing records since 2004—why did you think now was the time to release your debut album?</b> \n \nI guess I've never really felt like I've had the right material to justify a full-length until recently. These tracks were all composed during the last year or two, and it all seemed to just come together organically in the last few months. \n\n<b>What did you set out to achieve with it?</b>\n\nI hope that the album is something people can get immersed in. I guess it's more aimed at home / headphone listening than at the dance floor. I'm really happy with how it's turned out, and humbled from all the feedback it's had so far.\n\n<b>What are you up to next?</b> \n\nWorking on some more new music! There are a couple of studio collaborations in the pipeline that I'm really excited about, and we're also planning the next releases for our UntilMyHeartStops label for the coming year. ",
+    "blurb": "Deep Welsh house music."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "51",
+  "url": "https://ra.co/podcast/51",
+  "id": "51",
+  "__typename": "Podcast",
+  "title": "RA.051 Redshape",
+  "date": "2007-04-02T09:00:11.000Z",
+  "fileSize": 80819843,
+  "duration": "01:07:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra051-redshape-cover.jpg",
+  "contentUrl": "/podcast/51",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra051/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:919"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "We would tell you all about Redshape, but we don’t know who he actually is. He hides his real identity behind a red mask at all times, even wearing it onstage at his club dates around Europe, which of late there have been many. We do know the man behind the mask lives in Berlin, he does a rocking live act and he’s released half a dozen tracks over the last year on labels such as Delsin, Styrax Leaves and Music Man. We also hear rumours that behind the mask might be the face of a very famous producer indeed, but don't ask us who - we haven't quite worked it out yet. But we can reveal that Redshape has studied a lot of Detroit techno records: His sound is a new update on old school templates, and it's getting a thorough rinsing by DJs as diverse as Laurent Garnier, Josh Wink, Âme and Cassy. \n\nFor his RA podcast, Redshape delivers a live set fresh off the mini disc recorded at Dissonanze in Rome, Italy. Expect an otherworldly take on improvised techno with a few dark and surprising turns. \n\nAnd if one weekend you see a masked man hanging out in the alley behind your local club, don’t call the police, it’s probably just Redshape psyching himself up to go on stage.\n\nRA chatted to Red when he handed over the mix.\n\n<b>What have you been working on recently?</b>\nFor the last few weeks I've been really busy working on my live PA. It was more practicing than preparing as I don’t prepare any details like breakdowns or mixes beforehand. My plan is to do a recordable jam session which is kinda organic and never really the same in any of its components while still sounding straight. So that took some time recently.\n\n<b>Where was the mix recorded?</b>\nIt was performed live at Bancaleone Club in Rome, Italy at a party was called Dissonanze. I played together with Cristian Vogel who delivered a really cool freaky bleepy set that evening.\n\n<b>What are you up to next?</b>\nProduction, production, production. Time to try out some new gear I’ve got and probably looking in the direction of an album maybe. We'll see.\n",
+    "blurb": "This week we have a live set from the masked man of techno: Redshape."
+  }
+}

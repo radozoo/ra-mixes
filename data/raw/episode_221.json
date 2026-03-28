@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "221",
+  "url": "https://ra.co/podcast/221",
+  "id": "221",
+  "__typename": "Podcast",
+  "title": "RA.221 Shed",
+  "date": "2010-08-23T00:00:21.000Z",
+  "fileSize": 69554670,
+  "duration": "00:57:56",
+  "imageUrl": "https://static.ra.co/images/podcast/ra221-shed-cover.jpg",
+  "contentUrl": "/podcast/221",
+  "tracklist": "Low Density Matter - Blue Steel - <a href=\"/record-label.aspx?id=3396\">Keysound Recordings</a>\nBecoming Real - Fast Motion (DVA's Hi Emotions Remix) - <a href=\"/record-label.aspx?id=2294\">Ramp Recordings</a>\n<a href=\"/dj/trg\">Cosmin TRG</a> - See Other People (<a href=\"/dj-page.aspx?id=9305\">FaltyDL</a> remix) - <a href=\"/record-label.aspx?id=1252\">Rush Hour Recordings</a>\n<a href=\"/dj/delphic\">Delphic</a> - Doubt (<a href=\"/dj/kylehall\">Kyle Hall</a> remix)\nDuncan Powell - Pushin' (<a href=\"/dj-page.aspx?id=9305\">FaltyDL</a> remix) - <a href=\"/record-label.aspx?id=2272\">2nd Drop Records</a>\nAndrea - Got To Forget - <a href=\"/record-label.aspx?id=2472\">Daphne</a>\n<a href=\"/dj/tplusplus\">T++</a> - Cropped - <a href=\"/record-label.aspx?id=1383\">Honest Jon's Records</a>\n<a href=\"/dj/trg\">Cosmin TRG</a> - Béton Brut - <a href=\"/record-label.aspx?id=1756\">Hemlock Recordings</a>\nScreed - Side - Synthetic Catalogue\n<a href=\"/dj-page.aspx?id=954\">Robert Hood</a> - Towns That... - <a href=\"/record-label.aspx?id=2941\">M-Plant</a>\n<a href=\"/dj/jasonfine\">Jason Fine</a> - Many To Many (<a href=\"/dj/benklock\">Ben Klock</a> Remix) - <a href=\"/record-label.aspx?id=1504\">Kontra-Musik</a>\nRok/Jonzon - Sequential Polka - <a href=\"/record-label.aspx?id=453\">International DeeJay Gigolo Records</a>\nSilent Phase - Fire (Rewired Mix) – <a href=\"/record-label.aspx?id=1812\">R&S Records</a>\nEliphino - Let Me Love You Forever - <a href=\"/record-label.aspx?id=1099\">Brownswood Recordings</a>\n<a href=\"/dj/sepalcure\">Sepalcure</a> - Love Pressure - <a href=\"/record-label.aspx?id=1282\">Hotflush Recordings</a> \n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra221/",
+  "keywords": "Shed, Rene, Pawlowitz, berghain, ostgut, ost gut, techno, dub, house, hard wax",
+  "artist": {
+    "id": "3559",
+    "__typename": "Artist",
+    "name": "Shed"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As far as contemporary Berlin-based house and techno producers go, you don't get much better than René Pawlowitz. When he's not spending his time behind the counter at the city's legendary <a href=\"http://www.hardwax.com/\">Hard Wax</a> record store, he's busy conjuring up all manner of material in his studio, taking inspiration from classic Detroit and Berlin techno while infusing elements of hardcore, breakbeat, dubstep and ambient along the way. Although the majority of his output is released under the Shed banner, Pawlowitz has diversified his sound with a number of different pseudonyms. His white label offerings as <a href=\"/record-label.aspx?id=3063\">Wax</a> and <a href=\"/record-label.aspx?id=1577\">EQD</a> have become essential selections for fans of rugged Teutonic techno, while he's also turned his hand to 140bpm bass music with his work as The Panamax Project.\n\nAlthough René has garnered a reputation for his prolific and consistent approach club-oriented 12-inch singles, he's also proved his mettle when it comes to creating larger bodies of work. His debut album came in at the #1 spot in our <a href=\"/feature.aspx?998\">top albums of 2008</a>, with RA's Will Lynch championing its \"lustrous aesthetic, oblique rhythms and coherent diversity,\" so seeing as his sophomore full-length—entitled <i>The Traveller</i>—is due to hit the shops later this month, so we thought that it'd be the ideal time to let Pawlowitz demonstrate his idiosyncratic vision of how techno should be.\n\n<b>What have you been up to recently?</b>\n\nToo many things that have nothing to do with making music.\n\t\t\n<b>How and where was the mix recorded?</b>\n\nTwo MKs and a Ecler mixer at the Hard Wax store.\n\t\t\n<b>Can you tell us a little bit more about the mix?</b>\n\nIt's a usual Shed set - made for an audience that is more into house and techno. And good to have it in a club as well as at home.\n\t\t\n<b>Do you have a preference out of DJing and playing live?</b>\n\nI like both and I need the change to keep both things interesting.\n\t\t\n<b>Your love of breakbeat, hardcore and dubstep is well documented. Do you ever manage to incorporate much of it into your sets?</b>\n\nI always try to do that. Not easy to handle all that kind of music in a set. It's always an adventure for me and the audience as well. Haha...\n\t\t\n<b>Did you find the album recording process any easier this time around?</b>\n\nSame procedure as every year. :)\n\t\t\n<b>What are you up to next?</b>\n\t\t\nNo plan at all. As always. Almost.",
+    "blurb": "The Hard Wax and Ostgut Ton man lays down an energetic, hour-long mix for this week's RA podcast."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "343",
+  "url": "https://ra.co/podcast/343",
+  "id": "343",
+  "__typename": "Podcast",
+  "title": "RA.343 Ron Morelli",
+  "date": "2012-12-24T00:00:10.000Z",
+  "fileSize": 90872087,
+  "duration": "01:15:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra343-ron-morelli-cvr.jpg",
+  "contentUrl": "/podcast/343",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra343/",
+  "keywords": "Ron Morelli, L.I.E.S., Long Island Electrical Systems, House, Steve Summers, Legowelt",
+  "artist": {
+    "id": "36359",
+    "__typename": "Artist",
+    "name": "Ron Morelli"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "New York's Ron Morelli is the boss of Long Island Electrical Systems, the <a href=\"feature.aspx?1702\">number one label</a> on our recent 2012 poll. \"In a year in which terms like 'weirdo,' 'raw,' 'outsider' and 'lo-fi' became de rigueur, no imprint cut through the noise quite like Long Island Electrical Systems,\" we said. Indeed, L.I.E.S. stood out this year through a continually high-quality barrage of 12-inches—almost 20 in total. The sounds contained within spoke to a scene obsessed with degradation, but it was L.I.E.S.'s skewed exploration of established dance floor forms such as house and techno that made them such an object of fascination. Since setting up in 2010, Morelli has developed an uncanny knack for unearthing producers. This year alone, names like Delroy Edwards, Jahiliyya Fields, Bookworms and Torn Hawk appeared on wax for the first time. There's also been room for established names: Revered lo-fi house artist Legowelt in particular has become part of the family, while under a variety of aliases and collaborations, Steve Summers has developed as the label's centrepiece producer.    \n\nDuring L.I.E.S.'s run of form, Morelli has become a dab hand at eliciting \"WTF?\" reactions to his mixes—and we're pleased to say RA.343 is no different. Make it past the almost 20 minute noise/drone intro and you'll be rewarded with some of the more deranged club music in existence.   \n\n<b>How and where was the mix recorded?</b>\n\nI recorded it in Ménilmontant, Paris last month at my friend Alex's apartment. He kindly let me use a retired setup, pulling out from under his bed two off-brand turntables with drifting pitch, a Pioneer DJM-350 mixer, and one Coby speaker all going through a miniature home stereo system. The turntables were set up battle style, one on a kitchen table, the other on a smaller coffee table. I did it only with records, in a professional manner. Many thanks to Alex for hooking this up for me at his crib.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nThere was no idea really. I did play a handful of records that were bought while on the road. A bunch were new releases from this year as well as some dance tracks I liked to play at gigs on tour. \n\n<b>Your mixes tend to be pretty unconventional. Can you tell us a bit about your approach, and how you developed this style?</b>\n\nIn a perfect world one would DJ in a club with complete freedom to play varying styles from various genres and not simply hit people over the head with 4/4 dance beats to get the party jumping. When doing these commissioned mixes I like to play a lot of stuff that I would like to play in a club but generally can't at this point. Ambient music, drone, noise, slow soul stuff, jerky no-wave and so forth. Some of that stuff is heard here. I also like to build tension and not simply jump into the dance. For me it's more interesting to build things up, though that might not necessarily work in a club, so these kinds of mixes are good for exploring those styles. \n\n<b>You just got back from Europe. What was the highlight of your trip?</b>\n\nSwimming in Greece with my girlfriend in super blue and warm water in November. DJing at Concrete, Galway in Ireland, Zero Zero Bar and Unsound. Riding miserable Polish trains with weirdos. Searching for euro-cloaks. Hanging out in Paris. The entire trip was inspiring really.  \n\n<b>What are you up to next?</b>\n\nFor 2013 I'll pick up where I left off and continue to work hard on the label and put out music I feel is interesting. There will be a good number of new records from artists who have already released on the label as well as a handful of new characters contributing. I'll also get back out on the road to Europe in the spring with Steve Summers, Delroy Edwards and Svengalisghost. Furthermore, I'd like to see other artists from the label out on the road like Terekke, Jahiliyya Fields, Bookworms and Professor Genius. Long term, I'm toying with the idea of going to the dentist—it's been about 12 years, hoping for the best there. ",
+    "blurb": "Outsider sounds from the house of L.I.E.S. "
+  }
+}

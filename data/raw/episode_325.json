@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "325",
+  "url": "https://ra.co/podcast/325",
+  "id": "325",
+  "__typename": "Podcast",
+  "title": "RA.325 Eli Verveine",
+  "date": "2012-08-20T00:01:01.000Z",
+  "fileSize": 76492388,
+  "duration": "01:03:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra325-eli-verveine-cvr.jpg",
+  "contentUrl": "/podcast/325",
+  "tracklist": "Steve O'Sullivan - Better Late Than Never\nAme - Basic Track\nJ.Dahlback & J.L. Huhta - Untitled\nMove D - Aspiration 2010\nDennis Cox - Acid Town\nBlue Arsed Fly - In the Bag (Russ Gabriel remix)\nClever & Smart - Filtadelic\nGesloten Cirkel - Yamagic\nLittle Fritter & Zare - I Want It Back (Mr.G's Taking It Back remix)\nRyo Murakami - 90.5\nSCB - 20_4\nSchubaq & Verveine - Zuri Dub\nAkufen - Architextures\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra325/",
+  "keywords": "Eli Verveine, Zurich, Dachkantine, Tardis, Radio Lora, ",
+  "artist": {
+    "id": "2841",
+    "__typename": "Artist",
+    "name": "Eli Verveine"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you've engaged with Eli Verveine's DJing the chances are it was through the two <a href=\"http://mnmlssg.blogspot.co.uk/2008/12/mnml-ssgs-mx15-eli-verveine.html\">guest</a> <a href=\"http://mnmlssg.blogspot.co.uk/2010/04/ssg-special-eli-verveine.html\">mixes</a> she has recorded for the erstwhile <i>mnml ssgs</i> blog. In the accompanying write-up for her first mix in 2008, the site noted the timeless nature of her DJing. Four years on and exactly the same conclusion can be drawn. Verveine seems to have a knack for suspending time while she stalks the middle ground between house and techno. The newest tracks on her mixes could easily be the same age as the oldest and vice-versa. Verveine honed her skills in her home city of Zurich, in particular at the Dachkantine club (more on this below) and on the city's Radio Lora. \n\nRA.325 sees Verveine playing exactly to her strengths: a vinyl mix that draws deep upon music from the last 15 or so years.   \n\n\n<b>What have you been up to recently?</b>\n\nWell, DJing as always. I have been playing gigs in Switzerland and across Europe; I love to share my records with a lovely crowd and on a good soundsystem. It makes me happy to have these great moments of sharing with people. We're also launching our own label named Tardis Records with my good friend and partner in crime, Oscar Schubaq.\n\n<b>How and where was the mix recorded?</b>\n\nAt home with my vinyl (and a CD player for the one unreleased track). It was recorded right away when I came back after an inspirational gig in Stockholm.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to create a certain tension, build it up and let go again. That's how I like things in a mix—that they change, don't stay all the time on the same level.\n\n<b>Tell us about Dachkantine. Your biog says that you honed your skills at the \"legendary\" club.</b>  \n\nDachkantine was a special place indeed. It was located in the canteen of an old factory on the rooftop floor, thus the name. The style was right out of the '70s with carpets on the floor and a wood panel ceiling. It had three floors and a terrace. A very alternative place and the decoration kept changing all the time. At the Dachkantine many people from different scenes were involved and this mix created a great vibe. The club crossed borders of all kinds and shades of electronic music, they organised concerts, readings and discussions. I experienced a lot of special moments there, especially in the morning/noon hours, as the club was open until noon/afternoon the next day, sometimes until the next evening. It was a playground for me as a DJ and I'm really happy that I was there to witness this incredible place.\n\n<b>Despite not regularly producing music you've been touring quite healthily in recent years. What do you attribute this to?</b>\n\nOver the years I connected with people through music which often led to a deep friendship. My friends Julietta and Vera were always really supportive and always invited me to their residencies at the respective clubs Harry Klein in Munich and Robert Johnson in Offenbach.\n\nAnother thing was set off by <i>mnml ssgs</i>, which lately closed down. I was invited to do podcasts for them, which allowed me to present my work to a bigger audience and it let me connect with other nerds like me on this little planet. I'm so thankful for this and the support and trust of my friends!\n\n<b>What are you up to next?</b>\n\nThe first release of Tardis Records will be out in September. There are three tracks from my ongoing collaboration with Oscar Schubaq. One of them is the \"Züri Dub\" which is also on my mix. Really looking forward to that! ",
+    "blurb": "Pure form DJing from Switzerland."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "318",
+  "url": "https://ra.co/podcast/318",
+  "id": "318",
+  "__typename": "Podcast",
+  "title": "RA.318 Rrose",
+  "date": "2012-07-02T00:01:39.000Z",
+  "fileSize": 69220775,
+  "duration": "00:57:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra318-rrose-cvr.jpg",
+  "contentUrl": "/podcast/318",
+  "tracklist": "Rrose - Auto-Amputee - unreleased\nAna-Maria Avram - Zodiaque III - Edition Modern\nRrose - Wet Silk Will - Eaux\nRrose x Bob Ostertag - The Surgeon General (her insides laid bare) - Eaux\nMark Ernestus vs Konono NÂ°1 - Masikulu Dub - Crammed\nOni Ayhun - 004B - OAR\nFluxion - Eruption (Morphosis reprise) - Echocord\nContainer - Protrusion - Spectrum Spools\nReeko - The Guest - Mental Disorder\nHieroglyphic Being - Temple of the Sun - Mathematics\nAlex Cortex - Acid Lyes - Platzhirsch\nShifted - Colours of the Fall - Mote Evolver\nAndy Stott - She's Gone Wrong - Modern Love\nGherkin Jerks - Don't Dis The Beat - Gherkin\nSendai - EP2012-4 - Time To Express\nKomet - Licht - 12k\nFunction - Obsessed (Substance remix) - Echocord Colour\nAndre Holland - The Outback - Underground Resistance\nEndless - EHDC Tool - Electric Deluxe\nJeff Pietro - Still 1 - Borrowed Language\nA Made Up Sound - Demons (Reprise) - A Made Up Sound\nDJ Slip - Snapshot - Music Man\nRrose - Prism Guard - Eaux\nLakker - BKRO - Blueprint\nKassem Mosse - Inswanns - Nonplus\nCarter Scholz - Kaleidophon (Stochastic) - Frog Peak Music\nAmal Lumuntod - Binalig - Ethnic Folkways\nSuum Cuique - Red Binary - Young Americans",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra318/",
+  "keywords": "Rrose, Sandwell District, Eaux, Motormouth Variations, ",
+  "artist": {
+    "id": "28755",
+    "__typename": "Artist",
+    "name": "Rrose"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Whether or not it was by design, the artist recording under the alias Rrose came to define the final phase of one of contemporary techno's greatest imprints. Sandwell District called time on their fiercely independent operation at the end of 2011, but not before they'd released three singles and an album from the enigmatic, Duchamp-referencing producer. <i>Primary Evidence</i>—the first of these EPs—hit the club-ready yet experimental groove of its Sandwell District predecessors right from its opening bars; <i>Merchant Of Salt</i>, and in particular its wonderfully insane B-side \"Waterfall,\" was equally as thrilling. However, Rrose's relationship with the imprint was in fact established over his collaborative work with veteran US sound artist Bob Ostertag. Imprint affiliate Juan Mendez (AKA Silent Servant) passed on material to the rest of the group behind the label that would end up forming part of the <i>Motormouth Variations</i> full-length. \n\n\"Texture, space and feel\" are of primary concern to Rrose on RA.318, a mix that services the head and feet in equal measures. \n\n<b>What have you been up to recently?</b>\n\nPreparing to launch Eaux, a new label for Rrose productions and collaborations. The first record will feature a 1977 studio improvisation from Bob Ostertag (re-mastered from cassette) along with two new Rrose revisions. It comes out this month. A few selections from upcoming releases are included in the mix.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it at home using a computer. I like to do a lot of layering and filtering, and I often make edits or loops out of tracks.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nTechno forms the core, but I try to bring in subtle outside influences and create a kind of sonic and rhythmic alchemy between tracks. Texture, space and feel are all important, as well as maintaining a tension between wildness and restraint. These principles also guide my productions.\n\n<b>Have you made a concerted effort to distort your identity?</b>\n\nI prefer to think of it as crafting a new identity rather than distorting the old. Anyone who wants to know my \"real\" identity is welcome to email me privately, but I respectfully request that members of RA not post information here or on other message boards. I'm not trying to remain anonymous per se, just trying to occupy a tidy, humble place on the internet and keep the project as self-contained as possible.\n\n<b>Is there a particular aim attached to the Rrose project?</b>\n\nAdding to what I mentioned above: to induce hallucinatory states, to move bodies, to emphasize the tactile qualities of sound, to let the machine be my muse. I spend a lot more time listening to and reflecting on the processes I set in motion than I do creating or manipulating them. \n\n<b>What are you up to next?</b>\n\nCreating more music for Eaux, doing some remixes, and hopefully playing lots of shows.",
+    "blurb": "Techno and experimental from the depths. "
+  }
+}

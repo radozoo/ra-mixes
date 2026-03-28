@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "146",
+  "url": "https://ra.co/podcast/146",
+  "id": "146",
+  "__typename": "Podcast",
+  "title": "RA.146 Culoe De Song",
+  "date": "2009-03-16T00:00:17.000Z",
+  "fileSize": 63899650,
+  "duration": "00:53:13",
+  "imageUrl": "https://static.ra.co/images/podcast/ra146-culoe-de-song-cover.jpg",
+  "contentUrl": "/podcast/146",
+  "tracklist": "<a href=\"/dj-page.aspx?id=4029\">Osunlade</a> - Stomp - <a href=\"/record-label.aspx?id=1768\">Yoruba</a>\n<a href=\"/dj-page.aspx?id=5667\">Ezel</a> feat. Freddy Massamba - His Presence - Offering Recordings\n<a href=\"/dj-page.aspx?id=4955\">Reggie Dokes</a> feat. Athenai & Sage Monk - Let Me Go (<a href=\"/dj-page.aspx?id=4908\">Culoe De Song</a> Zulu Spirit Mix) - Offering Recordings\n<a href=\"/dj-page.aspx?id=759\">Henrik Schwarz</a> & Amampondo - Abantu Abadala - <a href=\"/record-label.aspx?id=876\">Innervisions</a>\nYacoub - Da Na Ma (<a href=\"/dj-page.aspx?id=5286\">Manoo</a> Remix) - Offering Recordings\n<a href=\"/dj-page.aspx?id=5863\">Mzee</a> feat. Candy Nurse - Mahuwelele (Black Coffee Remix) - Unreleased\nAbicah Soul - Fei Kayio - Habitat Records\n<a href=\"/dj-page.aspx?id=4908\">Culoe De Song</a> - Ambush - Unreleased\n<a href=\"/dj-page.aspx?id=4908\">Culoe De Song</a> - The Bright Forest - <a href=\"/record-label.aspx?id=876\">Innervisions</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra146/",
+  "keywords": "Culoe De Song, Innervisions, Red Bull Music Academy, South Africa, Sonar",
+  "artist": {
+    "__ref": "Artist:4908"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Culolethu \"Culoe De Song\" Zulu came to RA's attention at last year's <a href=\"/feature-read.aspx?id=970\">Red Bull Music Academy</a>. Armed with a list of \"artists to watch,\" the young South African DJ/producer was the one that stole our correspondent's heart after a sterling DJ set of deep, Afro-inclined house at Barcelona's Macarena club on a Sunday night. \n\nIt was the first time that Culoe had stepped outside of his home country, but it certainly won't be the last. Since the Academy, DJs and producers around the world have started to ring up the teenager: He's working on a remix of Reggie Dokes, has a single lined up for Innervisions and plenty of DJ performances set for later in the year in Europe.\n\nIn his RA podcast, Culoe recreates the special vibe on that sweaty night in Barcelona, mixing together a selection of some of his favorite tunes that have an Afro edge, and concluding it in epic fashion with a pair of his own productions. \n\n\n<b>Where and how was the mix recorded?</b>\n\nI recorded the mix at my mother label, Soulistic Music in Johannesburg. I did it live with the DJR 400, it was an adventure! It was my first full set with that mixer, I'd never used it before. Blackcoffee, the father of the label, came with it from Europe not long\nago. \n\n<b>Can you tell us a little about the mix?</b>\n\nWell this mix was more spiritual, I did it having my soul as guidance for the selection, it was random at the moment of the session. It's what I was feeling at the time and includes my new upcoming offerings and unreleased pieces.\n\n<b>The last time we saw you at the Red Bull Music Academy you still had to take your final school exams. How did it go? And what have you been up to?</b>\n\nWell I gotta be honest with this one, it didn't go well in terms of my finals, but it wasn't much of a surprise to me because 2008 was the beginning of my journey, my career. I hardly had full focus on my books, the soul thing just kept me running... but our successes lie in different paths and I believe some things happen for a reason. I've been also busy networking with a lot of people, to try put up my big plan.\n\n<b>Any travel plans for 2009? </b>\n\nI'm very much looking forward to set foot in Europe again this year. I have a few gigs in Italy, Finland, the Netherlands and also a big one in Barcelona for the Sonar Festival!\n\n<b>What are you up to next?</b>\n\nI'm working on a couple of projects, such as the Reggie Dokes \"Let Me Go\" remixes on Boddhi Satva's Offering Recordings. And I've also been busy with a project with Mzee (Ocha Records), so I'm really looking forward to the time ahead.",
+    "blurb": "South African DJ/producer Culoe De Song gets busy on this week's RA podcast."
+  }
+}

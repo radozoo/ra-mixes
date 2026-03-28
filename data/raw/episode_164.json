@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "164",
+  "url": "https://ra.co/podcast/164",
+  "id": "164",
+  "__typename": "Podcast",
+  "title": "RA.164 Maayan Nidam",
+  "date": "2009-07-20T00:00:38.000Z",
+  "fileSize": 75086639,
+  "duration": "01:18:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra164-maayan-nidam-cover.jpg",
+  "contentUrl": "/podcast/164",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra164/",
+  "keywords": "Maayan Nidam, Miss Fitz, Night Long, Cuba, Jazz",
+  "artist": {
+    "id": "11561",
+    "__typename": "Artist",
+    "name": "Maayan Nidam"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Maayan Nidam may be much more familiar to you when she’s DJing or producing under her Miss Fitz moniker, but this year has arguably been all about the noise she’s been making under her own name. As Fitz, she’s been releasing her own minimal house and techno for over three years now, fusing together synthetic and organic sounds to create a restrained yet powerfully rhythmic style, and she’s also proved her worth as a collaborator, releasing alongside Robert Johnson resident Vera Heindel as Mara Trax, and Berlin-based ex-Detroiters Shaun Reeves and Lee Curtiss as Uli Künkel. \n\nHer short but illustrious track record began to stir the interests of Japanese label PowerShovel Audio at the start of last year, whose representatives were already in Cuba recording native instrumentalists and vocalists for the project. After handing Nidam the master tapes of their source material, she began to interpret the samples into loops and sketches, eventually merging the two disparate worlds of minimal house and indigenous Cuban music into what would become the  <i>Night Long</i> LP. Here at RA we were <a href=\"http://www.residentadvisor.net/review-view.aspx?id=6199\">big fans of the album</a>, and hence decided to ask Nidam to deliver a similarly themed mix for this week’s podcast. With plenty of lush instrumentation throughout, she’s crafted a smooth selection that encompasses jazz-funk, disco, and house without ever letting up the groove.\n",
+    "blurb": "Miss Fitz drops the pseudonym on this week's RA podcast."
+  }
+}

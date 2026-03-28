@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "531",
+  "url": "https://ra.co/podcast/531",
+  "id": "531",
+  "__typename": "Podcast",
+  "title": "RA.531 Evan Baggs",
+  "date": "2016-08-01T00:00:11.000Z",
+  "fileSize": 151148167,
+  "duration": "01:02:52",
+  "imageUrl": "https://static.ra.co/images/podcast/ra531-evan-baggs-cvr.jpg",
+  "contentUrl": "/podcast/531",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/276295978",
+  "keywords": "Club Der Visionaere, Zoo Project, electro, techno, house, garage, EKBOX",
+  "artist": {
+    "id": "4070",
+    "__typename": "Artist",
+    "name": "Evan Baggs"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Evan Baggs is a DJ's DJ. Humble, committed to finding new sounds and razor sharp behind the decks, the Berlin-based American has been building a reputation for classiness since relocating to Europe in 2007. He's known to many for his affiliation with Berlin's Club Der Visionaere and Ibiza's The Zoo Project, but his sound stretches far beyond the minimal house many people associate with those places. A versatile selector, Baggs is equally likely to rinse electro and techno as he is house and garage—if the situation permits, you're likely to hear all of that and more. He's also an accomplished producer, with two recent <a href=\"/reviews/16877\">records</a> out on the excellent Japanese label Cabaret Recordings, which includes his EKBOX collaboration with Katsuya Sano. \n \nWe get Baggs' spacey side in this week's podcast. Bursting at the seams with jacking drums, strange synths and swung rhythms, it's a window into Baggs' exciting style. \n\n \n<b>What have you been up to recently?</b>\n \nEnjoying the summer, playing some gigs with friends and doing some research in the studio.\n \n<b>How and where was the mix recorded?</b>\n \nIn the living room with a mixer and two Technics SL-1200s.\n \n<b>Could you tell us about the idea behind the mix?</b>\n \nThere isn't much of a concept to it. I just did the best I could to create some nice vibes with different styles.\n \n<b>How did you wind up recording for Cabaret?</b>\n \nA friend had already recorded for the label and he mentioned to the label owner, DJ Masda, that I had some tracks. Yuki and I met on one of his trips to Europe and we shared some music. He enjoyed what he heard and since then there has been one solo release and one as EKBOX, which is a collaborative project with a friend, Katsuya Sano.\n \n<b>You've (at least somewhat) countered the theory that you can only get gigs through releasing music. Was that a conscious move on your part?</b>\n \nNo, everything happened extremely organically. Any record release I was involved in was put out by good friends, or at least by someone there was a relationship with and have met a few times. Giving music to friends or them hearing it by chance is a good filter. The music then gets released from a deeper meaning that spoke to the label owner, who went through the whole process to release a vinyl, not just as a promotional tool for a DJ. It's a similar thing with the invitations to DJ. Perhaps a friend or event organizer would be in attendance at an event, which would then lead to an invitation to another event.\n \n<b>What are you up to next?</b>\n \nSame things as usual: searching for music, experimenting in the studio as much as possible, but also taking time outside of music for stillness and enjoying life with family and friends. Even though we all enjoy music and partying, there is a lot more in this world and universe that we should be conscious and aware of.\n",
+    "blurb": "Spacey sounds from a rising DJ. "
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "42",
+  "url": "https://ra.co/podcast/42",
+  "id": "42",
+  "__typename": "Podcast",
+  "title": "RA.042 Âme",
+  "date": "2007-01-24T11:30:40.000Z",
+  "fileSize": 81450367,
+  "duration": "01:07:51",
+  "imageUrl": "https://static.ra.co/images/podcast/ra042-ame-cover.jpg",
+  "contentUrl": "/podcast/42",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra042/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:698"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Âme is French for ‘soul’, which should give you an idea of where Kristian Beyer and Frank Wiedemann are coming from. The minds behind the huge club hit 'Rej', Âme have actually been quietly putting out records since 2003. Last summer they followed up ‘Rej’ with big rerubs of Akabu's 'Phuturebound' and 'Where We At' (together with Henrik Schwarz and Dixon), and they have already got one album in the bag. Recently Âme split from Sonar Kollektiv to found their own label, Innervisions, which breaks with Sonar’s deep house past and looks toward a more electronic, yet still soulful, future. For the lowdown on Âme, check out <a href=\"http://www.residentadvisor.net/feature_view.asp?ID=780\">Âme interview: Where We At</a>.\n\nÂme always DJ separately (those pesky plane tickets are expensive), and RA caught up with the Kristian side of things last week at BeCool in Barcelona (that’s us cheering in the background.) Before the set, RA fought our way through the crowds of people wanting Kristian to sign their copies of ‘Rej’ to ask him the $64 thousand dollar question: So how do you pronounce Âme? “Like ‘arm’!” But we can’t get used to that. We’ve been saying it like ‘ah-meh’ for years. “Doesn’t matter. Call it whatever you want!” \n\n<span class=\"grey\">RA Podcast 042: Âme is another high quality <a href=\"http://www.myspace.com/boogieboy69\">Boogie Man Jeff</a> audio presentation, fresh off the presses from Saturday night at BeCool.</span>",
+    "blurb": "This week Âme spin classy deep house in the RA podcast."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "430",
+  "url": "https://ra.co/podcast/430",
+  "id": "430",
+  "__typename": "Podcast",
+  "title": "RA.430 Shxcxchcxsh",
+  "date": "2014-08-25T00:00:51.000Z",
+  "fileSize": 161343498,
+  "duration": "01:07:07",
+  "imageUrl": "https://static.ra.co/images/podcast/ra430-shxcxchcxsh-cvr.jpg",
+  "contentUrl": "/podcast/430",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra430/",
+  "keywords": "Sweden, techno",
+  "artist": {
+    "id": "39550",
+    "__typename": "Artist",
+    "name": "SHXCXCHCXSH"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Anonymity—hiding behind masks, aliases, white-label 12-inches—is nothing new in techno, and to Shxcxchcxsh, it seems like a bit of a joke. From their unpronounceable name (which sounds like white noise if you sound it out) to their equally incomprehensible song titles to their complete disregard for the rigid structure of the genre, the Swedish duo don't adhere to the kind of faceless aesthetic we usually see with secretive acts. Their adventurous debut <a href=\"/review-view.aspx?id=13396\"><i>STRGTHS</i></a> impressed us last year. Now they're back already with <i>Linear S Decoded</i>, easily their finest work yet. The LP jumps from noisy abrasion to melodic sweetness and back again, all with a determinedly off-kilter slant. The tracks even have intelligible names this time (though we're still not sure what they're supposed to mean).\n\nShxcxchcxsh's RA podcast has the same approach, shuffling from noise to post-punk and techno, rarely moving in the direction you'd expect. The duo haven't offered up a tracklist, but we spotted tunes from Suicide, Untold and Max Loderbauer. Along with the mix, we also scored the duo's first (<a href=\"http://www.junodownload.com/plus/2013/07/03/juno-plus-podcast-64-shxcxchcxsh/\">legible</a>) interview ever. \n\n<b>What have you been up to recently?</b>\n\nPast year we’ve been focusing on our new album <i>Linear S Decoded</i>. We met every Thursday and made a new track until there was 13 of them. We’ve also been trying out new outfits and rehearsed the live set for our upcoming tour in autumn.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in our studio in Norrköping.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe wanted a certain atmosphere, something that evolves and is not the same linear thing for an hour, so we threw in loads of different stuff from all around to see what would come out. We didn’t have the floor in mind when making it, but the groove was still very important. We didn’t wanna go far off in ambient land.\n\n<b>Is there any theme or inspiration behind your new album? Why the switch to actual track titles?</b>\n\nWhat’s been fun and interesting to us with this project is to explore ways of communication, and it’s still that same idea we’re trying out. Like, what do we need to tell a story? Sometimes we just need abstractions, sometimes we need something else. This time we tried something more to see what happens. To tell the same story the same way over and over takes some fun out of it and there’s nothing new to learn from it. So we’ve been getting into all sorts of ways—listening to a lot of albums, hanging out with friends and family, reading stuff, going to concerts, and we found many ways, and they formulated themselves into this album.\n\n<b>How do you guys suggest pronouncing your name?</b>\n\nThe Hs are silent. Except that, you do it like it’s written.\n\n<b>What are you up to next?</b>\n\nThe new album <i>Linear S Decoded</i> is coming out, that’s very exciting and we have the tour that follows it. So hope to see you at some of the shows.",
+    "blurb": "Knife-edged techno from the mysterious Swedes."
+  }
+}

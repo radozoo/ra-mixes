@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "55",
+  "url": "https://ra.co/podcast/55",
+  "id": "55",
+  "__typename": "Podcast",
+  "title": "RA.055 Sebo K",
+  "date": "2007-05-28T19:04:36.000Z",
+  "fileSize": 116715520,
+  "duration": "01:37:14",
+  "imageUrl": "https://static.ra.co/images/podcast/ra055-sebo-k-cover.jpg",
+  "contentUrl": "/podcast/55",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra055/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:845"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Berlin label Mobilee is most often associated with minimal, but there has also been a deeper, housier impulse lurking in its shadows. The label's secret house weapon is DJ and producer Sebo K, responsible for big tracks on the label such as ‘Moved’ (feat. Prosumer on vocals), a remix of Gummihz’s ‘Isolate’ and ‘Rancho Relaxo’ with label head Anja Schneider. \n\nSebo K is resident at Berlin’s riverside club Watergate, where this mix was recorded in January 2007. For the podcast, RA asked Sebo to pick out his favourite recent live set, and he chose a set which raised the hands of Berlin partygoers at Mobilee’s ‘Back to Back’ party (We should know. We were there and those were our hands.) If you like the sound of the podcast, check out Sebo K’s new mix CD <a href=\"news.aspx?id=8618\">‘Back Up Vol. 1’</a> out this week, or better yet, come along to Sebo K and friends Ewan Pearson and Efdemin at the <a href=\"news.aspx?id=8692\">Resident Advisor Night</a> at BeCool in Barcelona during Sonar.\n\nSebo dropped RA a quick email while on the road in Brazil...\n\n<b>What have you been working on recently?</b>\nMy latest releases are the remix I did for Martin Landsky’s ‘Let Me Dance’ on Poker Flat and a 12\" on Get Physical in collaboration with my homie Metro called ‘Transit’, which includes a King Britt remix on the flip. \n\n<b>What are you up to next?</b>\nIn June I will play some more gigs, for example the Resident Advisor Sonar Party at BeCool in Barcelona. From July I will keep on with the production work. There will be a new Mobilee 12\" and several remixes.",
+    "blurb": "This week’s podcast is Sebo K’s hand-picked favourite set from 2007."
+  }
+}

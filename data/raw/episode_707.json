@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "707",
+  "url": "https://ra.co/podcast/707",
+  "id": "707",
+  "__typename": "Podcast",
+  "title": "RA.707 Changsie ",
+  "date": "2019-12-16T00:00:54.000Z",
+  "fileSize": 155848481,
+  "duration": "01:04:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra707-changsie-cvr.jpg",
+  "contentUrl": "/podcast/707",
+  "tracklist": "Cop Envy - Low Air [Hypercolour]\nDogpatrol - Clownery [Sneaker Social Club]\nAsh Brown - Funk Lovin' Criminal [Lost City Archives]\nFrankel & Harper - Trimmers (INSTINCT Remix) [Council Work]\nUnknown - Untitled A2\nJack Michael - The Edition [Dansu Discs]\nBreaka - Get Your Sweat On [Holding Hands]\nDream Cycle - Told You [Sneaker Social Club]\nPrescribe Da Vibe - Cool Today [Kiwi Rekords]\nMusketBass - Bristol Riddim [Project Allout Records]\nCop Envy - Junk Bass [Hypercolour]\nMidas T - Who's This [Orange Groove Records]\nInterplanetary Criminal - Sensational (Breaka Remix) [Dansu Discs]\nPCK - Amen Garage [The Final Experiment]\nDNAonDNA - (THIS IS NOT) A LOVE SONG [Silver Dollar Club]\nFilter Dread - Ice B8ss [Sneaker Social Club]\n2 Bad Mice - Limit of Paradise [Sneaker Social Club]\nAwesome 3 - Don't Go [Entity Records]\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/728528038",
+  "keywords": "UKG, Joyride, Hypercolour, Lost City Archives, dubstep, ",
+  "artist": {
+    "id": "90569",
+    "__typename": "Artist",
+    "name": "Changsie"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"You enter a room with an amazing soundsystem, the best DJs and great drinks. You see people immersing themselves in sound, and everyone dances the way they want to. At some point in the night, there are cool moments where you feel the perfect balance between warmth and alertness.\" This is how Changsie, the DJ behind this week's RA podcast, describes a typical night at Joyride, the party she runs in Tokyo. Sonically, you're likely to hear plenty of UK electronic music at Joyride—Changsie's DJ sets usually include variations on UK garage, dubstep and other bass-heavy sounds. (In a recent <a href=\"http://discwoman.com/mixes/changsie\">interview</a> with <i>Discwoman</i>, she listed Josey Rebelle and Ben UFO among her favourite DJs.)\n\nHer RA Podcast arrives at the beginning of a new chapter for Changsie. In January she'll move from Tokyo to London, where she hopes to start a new life—and a new party. RA.707 suggests she'll fit in nicely with the city's music community: it's a full-blown UKG session, skewed towards the darker end of the genre, with tracks from contemporary outlets like Hypercolour (and affiliated outlet Sneaker Social Club), Lost City Archives and Conducta's Kiwi Records. \n\n<b>What have you been up to recently?</b>\n\nI have just come back from my first tour to the US and Mexico. Played in LA, NYC and Mexico City, and right after that I played some shows in Osaka, Kobe and Tokyo.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it in my own room.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nThis is a UKG-focused mix, which is the basis of my sound. But it's not a simple back-to-basics attempt. I tried to incorporate what I have learned and developed in the past year through playing, and added new elements in the selection and mix.\n\n<b>Walk us through a typical night at Joyride.</b>\n\nYou enter a room with an amazing soundsystem, the best DJs and great drinks. You see people immersing themselves in sound, and everyone dances the way they want to. At some point in the night, there are cool moments where you feel the perfect balance between warmth and alertness.\n\n<b>What DJs and venues, in Tokyo or elsewhere, shaped your style and sound as a DJ?</b>\n\nOpen (Shinjuku), Grassroots (Higashi-Koenji) and Forestlimit (Hatagaya) in Tokyo. These are the venues where all kinds of music are played. So every time I'm in these venues, I get inspiration. I feel like they always accept anything I want to experiment with when I DJ too.\n\n<b>What are you up to next?</b>\n\nI’m moving to and will be living in London for the whole year next year. My goal is to start my own party in London while I'm there, and I also hope that I get opportunities to play often in different cities in Europe, too. Before I leave for London, I will play my last gig in Japan, which is an all-night set at WWWß on Friday, January 24th.\n",
+    "blurb": "A joyride through UKG. "
+  }
+}

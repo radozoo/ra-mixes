@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "576",
+  "url": "https://ra.co/podcast/576",
+  "id": "576",
+  "__typename": "Podcast",
+  "title": "RA.576 Mr Mendel",
+  "date": "2017-06-12T00:00:47.000Z",
+  "fileSize": 270966320,
+  "duration": "01:52:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra576-mr-mendel-cvr.jpg",
+  "contentUrl": "/podcast/576",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/327664235",
+  "keywords": "Mendel Ezra, Trio Ternura, A Gira, Soul, Fela Kulti, Amsterdam",
+  "artist": {
+    "id": "28482",
+    "__typename": "Artist",
+    "name": "Mendel"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Mr Mendel is the sort of DJ who collapses time and compresses distance. If you've heard him play around Europe over the last few years, it maybe didn't occur to you that some of the records you heard were made 30 years ago on the other side of the world. In fact, the records he played could have been made at any point in the last five decades in any corner of the globe. Mendel's skill is bringing it all together into a single, soulful dance floor experience. He's been spreading his message beyond Amsterdam more and more recently, his reputation flourishing thanks to his standout sets, his popular online mixes and his well-received edits. \"In general I like simple edits that keep the soul and dynamics of the song intact,\" he tells us, \"but emphasise something different to the original.\" It's been working nicely. Mendel has given his light touch to music by <a href=\"https://soundcloud.com/mendel/felas-fight-mr-mendel-edit-96?in=mendel/sets/releases\">Fela Kuti</a>, <a href=\"https://soundcloud.com/mendel/seeline-woman-mendel-edit?in=mendel/sets/re-edits\">Nina Simone</a>, <a href=\"https://soundcloud.com/mendel/mindpower-mr-mendel-edit?in=mendel/sets/re-edits\">James Brown</a> and, most memorably, the Brazilian bossa nova group <a href=\"https://soundcloud.com/mendel/trio-ternura-a-gira-mr-mendel-edit\">Trio Ternura</a>, with his unreleased version of \"A Gira\" sitting on a healthy 100,000-plus plays on SoundCloud. \n \nAs you'll hear on these week's RA podcast, Mendel also has a taste for house music, although it's just one of the many styles he covers on the mix. There's a relaxed sense of positivity in his selections, making it an ideal accompaniment for these warmer months. \n \n \n<b>What have you been up to recently?</b>\n \nSpreading the music I love. Making mixtapes, doing radio shows, messing around in the studio, trying to create. I'm playing around Europe quite a bit at the moment. And of course doing a little dance here and there.\n \n<b>How and where was the mix recorded?</b>\n \nI recorded it at home, a little while ago now. When I mix I like to take my time to move through different vibes, which usually results in quite a long mix. The second half moves into deeper waters, containing some of my favourite jams.\n \n<b>Can you tell us about the idea behind the mix?</b>\n \nUsually my mixes consist of songs that I'm playing or listening to a lot at the moment. New tracks, old ones, some obscure, some classics, it doesn't really matter. Naturally they end up reflecting my mood in some way. They're songs that touch me. In this case many tracks are kind of a retrospect on an ended relationship.\n \n<b>Amsterdam seems to have a strong vinyl digging culture. Why do you think that is?</b>\n \nHmm, difficult question. I guess most cultures or subcultures feed themselves over time. In Amsterdam there's been a long tradition of people searching for exciting records. Those people have influenced others to do the same, which has gone hand in hand with an increased variety of record stores, which in turn has impacted the people who come there to dig. Finding beautiful music can be quite infectious.\n \n<b>You make quite a lot of edits. What's the secret to a great edit in your view?</b>  \n \nIn general I like simple edits that keep the soul and dynamics of the song intact, but emphasise something different to the original. Highlighting the good parts of a song, creating energy or tension, and taking out the parts that don't always work on the dance floor. Maybe adding something new, though that often proves to be a slippery slope.\n \n<b>What are you up to next?</b> \n \nKeep on spreading that music and hopefully sharing some moments of joy with people. There are quite a lot of nice parties coming up, many of them with talented DJs and friends in the sun, which is something I look forward to enormously.\n",
+    "blurb": "Soulful sounds from the last 50 years.  "
+  }
+}

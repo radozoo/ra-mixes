@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "420",
+  "url": "https://ra.co/podcast/420",
+  "id": "420",
+  "__typename": "Podcast",
+  "title": "RA.420 Lone",
+  "date": "2014-06-16T00:00:14.000Z",
+  "fileSize": 136866362,
+  "duration": "00:57:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra420-lone-cvr.jpg",
+  "contentUrl": "/podcast/420",
+  "tracklist": "Kenji Kawaii - Unnatural City 2\nTha Alkaholiks - Killin' It\nMobb Deep - Temperature's Rising\nGhetto Concept - Much Love (Instrumental)\nPete Rock feat. Method Man - Half Man, Half Amazin'\nGangstarr feat. Inspektah Deck - Above The Clouds\nKlear Soul Forces - Get No Better\nHieroglyphics - You Never Knew\nLone - 2 Is 8\nBoards Of Canada - Opening The Mouth\nTheo Parrish - Lost Angel\nUrban Beat Dance - Urban Dust\nAnthony Naples - Tusk\nSeven Davis Jr - Celebrations (Funkineven Edit)\nBrawther - Spaceman Funk (Deep Club Mix)\nBrownstone Express - Metro\nOmar S - Set It Out\nJtc - South Brooks\nGreg Beato - Pma",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra420/",
+  "keywords": "Matt Cutler, Lemurian, Dealmaker, Werk, R and S, Pineapple Crush, Airglow Fires, Galaxy Garden, Reality Testing",
+  "artist": {
+    "id": "5877",
+    "__typename": "Artist",
+    "name": "Lone"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Instead of a biography on <a href=\"http://www.discogs.com/artist/658057-Lone-2\">Lone's Discogs page</a> there's a quote from the Warp artist Bibio. \"I could spot a Lone track by hearing one or two bars,\" he says. This was written around the time of <i>Lemurian</i>, Matt Cutler's first album as Lone, but it's just as true today. Put simply, Cutler's music has always been upbeat. He started out making hip-hop on labels like Dealmaker and Werk Discs, and then later moved to a rave-influenced house sound—the rhythms have evolved, but his impossibly vibrant melodic palette has loosely stayed the same. On his standout tracks like \"Once In A While,\" \"Pineapple Crush,\" \"Lying In The Reeds\" and last year's \"Airglow Fires,\" he took early UK dance music's most sun-drenched tropes and shot them through a modern lens. The ever on-point R&S Records took note, and in 2012 they released <a href=\"/review-view.aspx?id=10913\"><i>Galaxy Garden</i></a>, Cutler's fourth album. This week its follow-up, <a href=\"/review-view.aspx?id=15091\"><i>Reality Testing</i></a>, dropped through R&S, and it sees Cutler unite the old with the new: the record is a blend of house and hip-hop that's bound by Cutler's singular sense of nostalgia. \n\nIf you pick up the album (which we of course recommend) be sure to check RA.420 before hitting play. The mix spotlights the influences that fuelled <i>Reality Testing</i>, which means a humid hip-hop first half, and then smooth upswing into a house-led second part.  \n\n<b>What have you been up to recently?</b>\n\nFinished the record and have just been out DJing and working on a live show with Konx-om-Pax.  \n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix at my little studio in my flat. Basically I recorded a few takes and went through endless tracklists but got there in the end\n\n<b>Can you tell us the idea behind the mix?</b>\n\nThe idea was to kind of showcase the influences behind my new record—the hip-hop tunes I was listening to for the first half, and a more upbeat second half, so a bunch of house tunes I've been loving over the last year or so. \n\n<b>As someone who produces both dance music and hip-hop, would you agree that the lines between the scenes have been blurring in recent years?</b>\n\nI think there's always been a connection with certain house and hip-hop tunes, or any electronic music for that matter. I'm always drawn to any form of electronic music that has the rawness of hip-hop production.\n\n<b>You mentioned that you sometimes left a mic running in the studio while producing the album—what sort of recordings made it onto the record?</b>\n\nA lot of me tidying my studio or making ridiculous noises that I could later mess with and make use of. There's definitely the sound of me making a cup of tea on one tune.\n\n<b>What are you up to next?</b>\n\nTouring the record basically—doing my live show and DJing loads. Gonna set up a new studio very soon as well so I can begin to think about my next release. ",
+    "blurb": "Hip-hop and house with a big splash of colour. "
+  }
+}

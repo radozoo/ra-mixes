@@ -1,0 +1,27 @@
+{
+  "source": "graphql",
+  "podcast_id": "1049",
+  "url": "https://ra.co/podcast/1049",
+  "id": "1049",
+  "title": "RA.1030 Main Phase",
+  "date": "2026-03-15T22:30:16.000Z",
+  "fileSize": 0,
+  "duration": "02:16:39",
+  "imageUrl": "https://static.ra.co/images/podcast/ra1030-1x1-4x5-mainphasera1000_1x1.jpg",
+  "contentUrl": "/podcast/1049",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1030-main-phase",
+  "keywords": "",
+  "artist": {
+    "id": "111981",
+    "name": "Main Phase",
+    "__typename": "Artist"
+  },
+  "translation": {
+    "content": "From the post-lockdown school of UK garage producers, Adam Emil Schierbeck, AKA Main Phase, is a rare international graduate. The Copenhagen producer has closely studied the British sound, shaping an international garage revival in his wake. \n\nSchierback stands as one of UK garage's premiere tastemakers. Ordained (or should we say or-Dane-ed) as the king of the speed garage shuffler, a Main Phase track is easy to spot: infectious swing and rippling melodies, underpinned by a sensual, determined mood. With <a href=\"https://ra.co/exchange/828\" target=\"_blank\">Interplanetary Criminal</a>, he now co-runs ATW Records, invigorating what was once an exploratory imprint into one of the scene's most crucial nurturers of new talent.\n\nSome listeners might press play expecting the corybantic edits of \"<a href=\"https://www.youtube.com/watch?v=0aZQQi86LEg\" target=\"_blank\">100%</a>,\" but patience is required: what you may expect from a Main Phase set only pokes its head out briefly (there's exactly one speed garage drop, two hours in). Instead, treat RA.1030 as Main Phase 101—a tour through the roots and outer edges of his sound. \n\nOpening with a dub techno sound bath, Schierbeck's RA Mix draws us straight into the aqueous core of his style. At the peak of the bell curve, traces of his buoyant percussion surface in chugging techno, UK bass and Latin-made club pressure. Gossamer synths streak overhead while ragga vocals drift through the mix like ghosts of sound system history. The session runs over two hours long, but feels like an artistic sum of everything he's been building toward since he was an awestruck teenager, racing home to catch Rinse FM. <i>- Nathan Evans</i> \n",
+    "blurb": "The ATW boss and honorary prince of UK garage steps up with a mix that might surprise you.  ",
+    "__typename": "PodcastContent"
+  },
+  "__typename": "Podcast"
+}

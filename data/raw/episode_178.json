@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "178",
+  "url": "https://ra.co/podcast/178",
+  "id": "178",
+  "__typename": "Podcast",
+  "title": "RA.178 Fever Ray",
+  "date": "2009-10-26T00:00:26.000Z",
+  "fileSize": 76312118,
+  "duration": "01:03:34",
+  "imageUrl": "https://static.ra.co/images/podcast/ra178-fever-ray-cover.jpg",
+  "contentUrl": "/podcast/178",
+  "tracklist": "01. Neil Young - Guitar Solo 1  \n02. Yo La Tengo - Everyday  \n03. Journey To Ixtlan - Corpse On The Mesa \n04. Jad & David Fair - Nosferatu \n05. Zola Jesus - Devil Take You  \n06. Bruce Haack - Mean Old Devil  \n07. Krause - Duo Canopolis  \n08. Burial Hex - Will To Chapel \n09. Suicide - Ghost Rider \n10. Amadou & Miriam - Ja Pense À Toi\n11. <a href=\"/dj-page.aspx?id=976\">Shackleton</a> - Death Is Not Final \n12. Entombed - Night Of The Vampire \n13. Maddalena Fagandini - Interval Signals \n14. Burundi: Musiques Traditionnelles - Chant Avec Cithare ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra178/",
+  "keywords": "Fever Ray, horror, halloween, spooky, dark, mixtape",
+  "artist": {
+    "__ref": "Artist:8284"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Karin Dreijer Andersson is one of the most enigmatic figures in electronic music. The driving force behind Fever Ray and one-half of brother/sister team The Knife, she's been responsible for some of the most beguiling music of the past half-decade. It's music that's often frightening—whether she intends it to be or not—because of the way she twists, masks and terrorizes her own voice, a haunting one-of-a-kind sound that has quickly become a trademark. \"It is interesting what you find scary, and especially within music,\" says Andersson. \n\nAnd that's the major reason why we asked Andersson to put together a very special RA podcast in advance of Halloween, featuring tracks that could soundtrack the season. Some are obvious (Shackleton, Burial Hex), some less so (Bruce Haack, Amadou & Miriam) and some take on a new resonance because of the context (Neil Young, Krause Duo). But as Andersson herself puts it, \"I think the eclectic and wide range of music makes it more dynamic and more intense. The tracks affects each other, they get even more mean.\" We think that once you get done listening to this mixtape-like selection from Andersson and the rest of the Fever Ray touring group, you'll no doubt agree.\n\n\n<b>What have you been working on recently?</b>\n\nI have been touring with Fever Ray and with The Knife I am just about to finish the studio version of the opera, <i>Tomorrow in a Year</i>.\n\n<b>Where and how was the mix recorded?</b>\n\nIt was recorded on our tour in the US. Van Rivers, The Subliminal Kid, Flash and I chose the tracks.\n\n<b>What came first with Fever Ray, the music or the aesthetic? And how do they two inform each other?</b>\n\nMusic always comes first. It is the difficult part. The visual aspect of Fever Ray is more of a great hobby after the hard work is done. \n\n<b>We heard something about an opera about Charles Darwin. How did that work out?</b>\n\nIt's called <i>Tomorrow in a Year</i> and it's a collaboration between The Knife, Mt. Sims and Planningtorock. Danish theatre company Hotel Pro Forma asked us to write the music for their performance. It had its premiere 2nd September and is now touring Europe. In January hopefully we'll release it on an album.\n\n<b>What are you up to next?</b>\n\nMixing, building a studio, some touring, learning a new instrument and then studio work.",
+    "blurb": "Embrace the darkness with Fever Ray for this very special Halloween-themed RA podcast."
+  }
+}

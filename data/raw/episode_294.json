@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "294",
+  "url": "https://ra.co/podcast/294",
+  "id": "294",
+  "__typename": "Podcast",
+  "title": "RA.294 DJ Nobu",
+  "date": "2012-01-16T00:01:13.000Z",
+  "fileSize": 77532168,
+  "duration": "01:04:34",
+  "imageUrl": "https://static.ra.co/images/podcast/ra294-dj-nobu-cvr.jpg",
+  "contentUrl": "/podcast/294",
+  "tracklist": "Borngraber & Jens Struver - In g-Part2 - Mï¼minimal\nMike Parker - GPH 17 A2 - Geophone\nVentress - AVN#002 A1 - Avian\nSigha - The Politics Of Dying - Our Circula Sound          \nO/V/R - Post-Traumatic Son (Marcel Dettmann Construction 2 - Blueprint\nDeveloper - More Sedection - Modularz\nMike Dehnert - Oblique - Clone Basement Series\nPhase - Plateau Station - Token Records\nCosmin TRG - Izolat - Fifty Weapons\nConforce - Timelapse - Delsin Records\nMattias Fridell - Indicating Absence - M_Grey\nSandwell District - Feed Forward Test Session - Sandwell District\nDonato Dozzy - K  C2 - Further\nChris McCormack - Broken - Materials\nBack pack Poets - Objective T - Electric Deluxe\nPeter Van Hoesen - Axis Mundi - Ostgut Ton\nSurgeon - Radiance - Dynamic Tension\nNickolas Mohanna - Mott Street - Preservation Music",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra294/",
+  "keywords": "DJ Nobu, techno, Japan, Future Terror",
+  "artist": {
+    "id": "17327",
+    "__typename": "Artist",
+    "name": "DJ Nobu"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "DJ Nobu is quite simply one of Japan's best DJs. In his home country he is known most widely as the man behind the fabled Future Terror parties, an event that has been running out of various venues in his hometown of Chiba for just over ten years. The likes of Marcel Dettmann, Mike \"Agent X\" Clark and Steffi have all been past guests; and in the case of the former, Dettmann brought Nobu over to Berlin in 2011 for one of his few performances outside of Japan. Detroit has been his other main international stomping ground, while back on home soil Nobu has been known to put in as many as 90 gigs across the country a year. Despite his limited international recognition and discography, Nobu is now thought of among DJs like Takkyu Ishino, Fumiya Tanaka and Ken Ishii as those most prominently flying the flag for Japanese electronic music. \n\nSo if you book techno events and haven't yet invited DJ Nobu to man the decks, here's what you've been missing: dark, angular, driving 4/4 put together by the hand of an expert curator.\n\n<b>What have you been up to recently?</b> \nOn the weekend I'm DJing in different places in Japan, and with my extra time I'm producing music in the studio.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it in my studio. I used Pioneer CDJ 2000s, Technics turntables and a Pioneer DJM 900 mixer.\n \n<b>Can you tell us about the idea behind the mix?</b> \n\nAfter the earthquake and nuclear accident at Fukushima in March last year, we entered a new era here in Japan. And this mix reflects that. When I made this mix I was thinking about how the world can change drastically every day. So the mix is somewhere in between music for listening at home, and for experiencing on the dancefloor. \n\n<b>Last November was the 10th anniversary of your Future Terror party.\nCould you tell us your view on the scene in Japan over this time period?</b> \n \nTen years ago the scene was more commercial, the clubs and parties were just following trends and what was 'hot.' Future Terror was started to do something different to this. After a decade of doing Future Terror, we have connected with many people who share the same vision, and while there are more parties now, the original principles are the same. So hopefully in some small way I have contributed to the scene in Japan. But there is still more work to be done, so I will keep trying to push the sounds I believe in through my parties and DJing.\n \n<b>How have your gigs abroad, such as those in Berlin and Detroit, compared to those in Japan?</b>\n\nI played at Berghain last spring and that was a special experience, something I will never forget. The resident DJs Marcel Dettmann and Ben Klock played brilliant sets and I was really impressed by the quality of the whole club. I have been to Detroit three times and had really great experiences at the parties I played at. It was a different kind of energy from Berlin, but also very stimulating. Of course there are unique elements of each club or town, but you just need to find the right sound to connect with them, and then you should be able to get a positive reaction.\n \n<b>What are you up to next?</b>\n \nThis year I will start my own label. It's going to be tough but I believe it will be worthwhile. In February I'm going to play in Taiwan at Smoke Machine's party. And every month I will continue to play at some special parties in Japan too.  ",
+    "blurb": "Top tier techno from one of Japan's underground favourites. "
+  }
+}

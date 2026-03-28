@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "569",
+  "url": "https://ra.co/podcast/569",
+  "id": "569",
+  "__typename": "Podcast",
+  "title": "RA.569 Willow",
+  "date": "2017-04-24T00:00:10.000Z",
+  "fileSize": 142639974,
+  "duration": "00:59:18",
+  "imageUrl": "https://static.ra.co/images/podcast/ra569-willow-cvr.jpg",
+  "contentUrl": "/podcast/569",
+  "tracklist": "Ian & Loz - The Fenman's Workshop [#FF006]\nMickey Moonlight - Love Patterns (Isolee remix)\nJoy Orbison - Rite Ov\nCabin Fever trax vol 21\nSeven Davis Jr - One\nNew Look -You & I\nKowton - Glock & Roll\nMarcel Fengler - Chi Twine\nKruton - Prize Goblet\nDMX Krew - Wormhole\nPrince - Purple Music (unreleased)\nSteppin' Wolf - Noise\nEric Cloutier - Heuristic\nMissy Elliot - I can't stand the rain \nNew Look - Nap on the bow\nPortishead - Glorybox\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/319210466",
+  "keywords": "Willow, workshop, Feel Me, House, 808, Gottwood",
+  "artist": {
+    "id": "20572",
+    "__typename": "Artist",
+    "name": "Willow"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It all happened pretty quickly for Sophie Wilson, the Manchester-born, London-based DJ and producer better known as Willow. Many of us first heard of her with \"Feel Me,\" an addictive deep house bomb that was one of this site's <a href=\"/features/2576\">favourites of 2015</a>. That was the first track she'd ever made, and it blew up completely by accident: Move D heard it wafting out of her tent at Gottwood Festival, poked his head in to find out what it was, and quickly became its champion, playing it on Boiler Room, putting it in his <a href=\"/reviews/14644\"><i>fabric</i> mix</a> and convincing Lowtec to <a href=\"reviews/16616\">release it on Workshop</a>. \n\nA year and some change later, Wilson returned with <a href=\"reviews/19851\"><i>Workshop 23</i></a>, a record whose boldness and breadth of style easily surpassed the lofty expectations set by her debut. Now, barely five years since she first started messing around with Logic, Wilson is one of house music's most promising new artists, with a home on one of its most beloved labels. And yet, the exact dimensions of her sound world remain something of a mystery, thanks in part to the surprising variety within the five tracks she's released so far. RA.569 sheds more light on her style, mixing the kind of sleek club thumpers she plays out with the classic hip-hop and trip-hop that echoes softly in her productions. \n\n\n<b>What have you been up to recently?</b>\n\nApart from getting over my new irrational fear of flying! I've been having loads of fun playing at parties across UK and Europe. It's been a real learning curve for me. Experiencing a variety of dance floors, soundsystems and clubs. Meeting some really cool people on the way. I've also been in the studio working on new material for a forthcoming release, which I'm excited about.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at my apartment in London using a pair of Technics 1210 turntables a Formula Sound FF4000 mixer and a Tascam DR-40 for recording. The mix was then processed at Devon Analogue Studio.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI went down a more off-kilter path with the podcast, using tracks I wouldn't necessarily use in a usual club mix. It's an all-vinyl mix, and arranged in a way that takes you on a personal journey of my musical influences. With records from the start of my collection through to bits I've recently purchased.\n\n<b>Most of us first heard of you with your 2015 track \"Feel Me.\" What was your story as an artist up until then?</b>\n\nMy story up until then was a lot of grafting. Collecting records, constantly practising mixing. \"Feel Me\" was the first piece of music I ever produced, so I was pretty new to the game. Before that I helped set up and held a residency at 808 in Nottingham, which helped with giving me a platform to first start playing out.\n\n<b>What about since then? It seems like you kind of blew up off the back of the Workshop releases—is that how it feels to you?</b>\n\nYeah everything seemed to kick off quite a bit, especially after my Workshop 23 release. Since then it's been a lot of fun getting to play some great shows around Europe, trying to find the right balance between gigs, producing, seeing my friends and keeping my head straight. It's going good though, and I've got a tight group around me.\n\n<b>What are you up to next?</b>\n\nI'm working on new material for a forthcoming release, which I'm really excited about! Other than that I have quite a busy gigging schedule for the next few months, with shows in Berlin and Amsterdam and some new places such as Georgia, Helsinki, Oslo and Morocco. \n\n\n<i>Willow plays RA's Front Yard Stage at this year's <a href=\"/promoter.aspx?id=39140\">Flow Festival</a> in Helsinki.</i>\n",
+    "blurb": "The breakthrough house producer shares her key influences and current favourites."
+  }
+}

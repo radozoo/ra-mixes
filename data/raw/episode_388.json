@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "388",
+  "url": "https://ra.co/podcast/388",
+  "id": "388",
+  "__typename": "Podcast",
+  "title": "RA.388 Fis",
+  "date": "2013-11-04T12:34:26.000Z",
+  "fileSize": 116948430,
+  "duration": "00:48:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra388-fis-cvr.jpg",
+  "contentUrl": "/podcast/388",
+  "tracklist": "The Cleft\nHope on a Tightrope\nClearing Concierge\nMagister Nunns\nK Slap\nCeliac Tingle\nHomologous A\nKnecht\nWater Memory\nTribunal\nPiggy's Cossacks\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra388/",
+  "keywords": "FIS, Olly Peryman, Tri Angle, NZ, drum and bass, DMT usher",
+  "artist": {
+    "id": "34174",
+    "__typename": "Artist",
+    "name": "Fis"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Olly Peryman was only ever tentatively linked to the drum & bass scene, but these days the bind has been totally snapped. Defining where's he's ended up, though, feels next to impossible. \"Lately most of my rhythms are drawn from what I hear and see from my body during meditation,\" he said recently, illustrating just how far from leftfield his beats have been coming. The biggest takeaway from our <a href=\"/feature.aspx?1580\">Breaking Through</a> piece with Peryman last year was that he doesn't produce to a grid—his sounds, unanchored by quantization, are laid down in a way that \"sounds right\" to him. It's an approach that mitigates his appeal to DJs, but has yielded some of the strangest and most distinctive electronic music in recent memory. If you're looking for an entry point into the murky world of Fis, then we give you \"DMT Usher.\" The track, which will be rereleased later this month as part of an EP for Tri Angle, is like a grotty remix of <i>Apocalypse Now</i>'s opening sequence, with Martin Sheen sweating as the helicopter circles above. Or for the full immersive experience, get hold of <i>The Commons</i>, which was released last year on dBridge's Exit Records. Its six tracks fuck with rhythm and charcoal textures in a way that Fis now completely owns. \n\nRA.388 finds the Kiwi producer on even freakier terrain. The mix, which is made up of mostly new and unreleased Fis material, is totally shorn rhythmic orientation, with tar-like synthesis and resonant percussion colliding like cosmic matter. (If you're in Melbourne on Saturday 30th November, Peryman plays <a href=\"/news.aspx?id=21390\">our party</a> at The Liberty Social, with FunkinEven, Gardland and Michael Ozone also on the bill.) \n\n<b>What have you been up to recently?</b>\n\nMaking more music.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was performed/recorded on a turntable/mixer setup in my bedroom studio.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nSometimes the tracks emerge from and fade into a binaural field recording of me playing percussive instruments beside Hataitai Beach.  \n\n<b>What approach do you take in the live environment?</b> \n\nI'm currently having batches of my material cut to one-off, custom made dubplates by Pz at In Real Life. In the background I'll be working towards a live setup that's actually worthy of that title. \n\n<b>Do people move in a certain way to your music?</b>\n\nThe early nervous system gets the worm. Some people sense the pulses and move accordingly, they're \"being the sound\" as much as dancing to it.\n\n<b>What are you up to next?</b>\n\nFocused on writing as always, but also looking at EU/UK visits and shows for early next year.",
+    "blurb": "An electronic auteur goes off the grid. "
+  }
+}

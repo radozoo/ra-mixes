@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "73",
+  "url": "https://ra.co/podcast/73",
+  "id": "73",
+  "__typename": "Podcast",
+  "title": "RA.073 Chloé",
+  "date": "2007-10-08T09:00:29.000Z",
+  "fileSize": 99851009,
+  "duration": "01:23:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra073-chloe-cover.jpg",
+  "contentUrl": "/podcast/73",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra073/",
+  "keywords": "",
+  "artist": {
+    "id": "993",
+    "__typename": "Artist",
+    "name": "Chloé"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Perhaps best known for her residency at Le Pulp in Paris and her genre-bending (or is that gender-bending?) mix CD with Ivan Smagghe 'The Dysfunctional Family', Chloé was one of the earliest French converts to German minimal, naturally of course, crossed with a bit of French electro. As a producer, her output has run the gamut from experimental lo-fi to deep techno on labels such as BPitch Control, Kill The DJ and Kill Brique, the latest of which is a debut longplayer out this month. 'The Waiting Room' is a great example of Chloé's refusal to be pigeonholed, finding room for acoustic experiments and drone pop amid the gravelly ambient techno.\n\nA refugee from the artier side of the musical spectrum, Chloe studied at the Academy of Music in Paris, wrote electro-acoustic music, and even scored contemporary dance before finding her niche behind the decks as a club DJ. For her RA podcast, Chloe dispenses with the French chic and spins a surprisingly brash big room set which slyly mixes up import minimal 12\"s and dirtier local fare. Tres chic.  \n\nThree answers from Chloé:\n\n<b>What have you been working on recently?</b>\nI've been working with Krikor, the french DJ & producer, on some tracks.\n\n<b>Where was the mix recorded?</b>\nIt  was recorded at Mundo/Madrid where I played two weeks ago. One of the best clubs in Europe.\n\n<b>What are you up to next?</b>\nI'll be working on a mix CD for Playhouse Records.",
+    "blurb": "This week's podcast is a DJ set from Parisian electro-minimal queen Chloé. "
+  }
+}

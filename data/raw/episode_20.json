@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "20",
+  "url": "https://ra.co/podcast/20",
+  "id": "20",
+  "__typename": "Podcast",
+  "title": "RA.019 Will Saul",
+  "date": "2006-08-02T12:45:40.000Z",
+  "fileSize": 58277272,
+  "duration": "01:00:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra019-saul-cover.jpg",
+  "contentUrl": "/podcast/20",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra019/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:404"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "After winning Muzik's Bedroom Bedlam competition, Will Saul first pricked up ears as a breaks producer and DJ via a handful of singles such as 'Fast Lane' and 'Cliff' on his Simple Records label. But in the last year, Will has reinvented himself as a purveyor of deep and dubby organic grooves, working with vocalist Ursula Rucker (!K7) on two cuts for his debut artist album 'Space Between', a long-player of downtempo, leftfield and more experimental grooves.\n\nWill's label Simple Records has also repositioned itself as one to watch. Check any of the recent releases on Simple Records and you'll find sci-fi electrohouse and deep tech house from Phonique, Argy and Mike Monday. Keep an eye out too for twelves on his newest baby Aus Music.\n\nRA nabbed Will for a chat just as he was rushing out the door to Global Gathering...\n\n<b>What have you been doing recently?</b>\n\nAt the moment I'm focusing all of my energy on getting my two labels Simple Records and Aus Music running efficiently. \n\nSimple is now focused on deep, driving house/techno/electro for the dancefloor with a core roster of Mike Monday, Phonique, Jesse Rose, King Roc and myself with remixes from Jeff Samuel, Spirit Catcher, Argy and Sebo K scheduled.\n\nAus is my new baby and caters for my more organic/experimental tastes with releases from Sideshow (Fink on Ninja Tune), My My (Playhouse) and Brun from Swayzak with remixes from John Tejada, John Dahlback and Prins Thomas (TBC) coming up. \n\nI’ve just finished an all singing all dancing new <a href=\"www.simplerecords.co.uk\"><b>Simple website</b></a> which has its own audio player where you can listen to all the catalogue and hear forthcoming singles and exclusive DJ mixes from the artists and some of the remixers. We add a new mix monthly so there’s always fresh content. We’re releasing once a month on both labels so managing the release schedules takes up most of my time! I’ve managed to find the time to make an EP for Systematic Recordings which comes out in September with a remix from Phonique. I’ve also remixed Jesse Rose's single for Simple and I'mjust finishing off my first single for Simple in ages. It will be out in November with an extra special remixer involved that I can’t mention yet.\n\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded in my sweltering studio/office in the basement of my house. All the equipment pushes the temperature in the room to an unhealthy level so I’ve done the mix wearing mostly just my pants.....a nasty thought.\n\n\n<b>What are you up to next?</b>\n\nI will start writing my second artist LP in September with my production partners Fink and Tam Cooper. I’m also intending to start a mix CD series called Simple Sounds – the first one will be released in spring.",
+    "blurb": "Putting the needle on the records this week is Simple Records head honcho Will Saul.\r\n\r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "490",
+  "url": "https://ra.co/podcast/490",
+  "id": "490",
+  "__typename": "Podcast",
+  "title": "RA.490 Florian Kupfer",
+  "date": "2015-10-19T00:00:12.000Z",
+  "fileSize": 133404040,
+  "duration": "00:55:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra490-florian-kupfer-cvr.jpg",
+  "contentUrl": "/podcast/490",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra490/",
+  "keywords": "LIES, Barba, Russian Torrent Versions, unrelated, Technicolour",
+  "artist": {
+    "id": "13071",
+    "__typename": "Artist",
+    "name": "Florian Kupfer"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Florian Kupfer is associated with the wave of \"outsider house\" artists who emerged a couple of years ago, but in his case the term couldn't be more reductive. Sure, he's known for 2013's \"Feelin',\" a track whose overdriven drums and deranged vocal typified the sound, but the German artist is far too versatile to be described in such a straightforward way. <a href=\"/review-view.aspx?id=12743\"><i>Lifetrax</i></a>, his debut EP, opened with Drexciyan electro; \"Shpel,\" the last track on <i>Explora</i>, his most recent EP, is sludgy ambient. The releases in between have been united only by a lo-fi production style and a general sense of adventure. Kupfer also seems to be fond of hardware improv, which has made him a good fit for Ron Morelli's L.I.E.S., with whom Kupfer has released four EPs (if you count his split 12-inch with Vereker on its Russian Torrent Versions sub-label). He's also found a sparring partner in Willie Burns, with whom he's released music on Rush Hour's No 'Label' and Burns's W.T. Records.\n\nArguably Kupfer's biggest left turn, though, came earlier this year with <a href=\"/review-view.aspx?id=17028\"><i>SAD Edit 01</i></a>, a popular two-track white label that featured exquisite edits of the English soul group Sade. The record further fleshed out the idea of Kupfer as an artist who goes wherever his inspirations take him. You get this from his RA podcast as well, as the mix deftly balances tense and uptempo tracks from Lee Gamble, Real Bad News and Bambounou with Kupfer's lovely ambient numbers. \n \n\n<b>What have you been up to recently?</b>\n\nI have been traveling around Europe playing gigs and working on music at home.\n\n<b>How and where was the mix recorded?</b>\n\nIn somebody else's studio. I do not wanna disturb my neighbours so I had to take my business elsewhere.\n\n<b>Could you tell us about the idea behind the mix?</b>\n\nIt contains music I've been playing out recently and some of my ambient tracks. I just wanted to drop into a dance and fade out peacefully.\n\n<b>Tell us how you wound up writing the SAD edits.</b>\n \nI felt like I was falling in love with somebody impossible to reach so I made this track to reach out in a way...\n\n<b>What are you up to next?</b> \n\nI'm working on an album. ",
+    "blurb": "From the club to the couch. "
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "11",
+  "url": "https://ra.co/podcast/11",
+  "id": "11",
+  "__typename": "Podcast",
+  "title": "RA.010 Serge Santiago",
+  "date": "2006-05-08T13:00:50.000Z",
+  "fileSize": 58000715,
+  "duration": "01:00:23",
+  "imageUrl": "https://static.ra.co/images/podcast/ra010-serge-santiago-cover.jpg",
+  "contentUrl": "/podcast/11",
+  "tracklist": "Anthony Rother – Vocoder\nDella Gonzalez & Gavin Russom – Relevee (Carl Crag Remix)\nGoldfrapp – Fly me Away (Carl Craig Remix) CUT 1\nHenrik Schwarz & Ame & Dixon – Where We At (Version 1)\nPadded Cell – Are you Anywhere\nTangoterje – Get it On\nJohannes Heil – Freaks r Us\nDj Mehdi feat. Chromeo – I am Somebody (Kenny Dope Repise)\nGerman – Body machine (Bonus beat)\nKelly Polar – Here in the Night (Long Version)\nOxia - Domino\nVirgo (Marshall Jefferson) – Go Wild Rhythm\nLotterboys – IronMan (Serge Santiago's Rainbow Remix)\nGoldfrapp – Fly me Away (Carl Craig Remix) CUT 2\nCandidate – Anticipation\nSerge Santiago – Atto D’Amore (Dub Version) ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra010/",
+  "keywords": "Serge, Santiago, house, techno, c2",
+  "artist": {
+    "__ref": "Artist:726"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Santiago brings a playful cowboy vibe and distorted twang to his productions, but as a DJ he is surprisingly eclectic. On this mix, a deep respect for Chicago house shines through alongside his trademark electro fun and games. The set also features three brand new cuts of hotter-than-fire arpeggiated madness from Detroit techno legend Carl Craig.\n\nSantiago's collaboration with Matt Edwards as Radio Slave resulted in the release of over thirty remixes before the pair went their separate ways in 2005. Highlights of this deep catalogue include reworkings of Kylie Minogue, Tiga and Fisherspooner. \n\nSantiago is also known for his colour series, a string of six Italo-disco/house re-edits, each packaged in a differently coloured sleeve. Quietly released in 2004-2005, the series was quickly snapped up by those with an eye for prized cuts of vinyl.\n\nSince then Santiago has set-up his own label <a href=\"/record-label.aspx?id=661\">Arcobaleno Records</a> and the epic <i>Atto D’Amore</i>, its first release, brings this podcast to a close. Santiago talked to RA about his colourful mix...\n\n<b>What have you been working on recently?</b>\n\nI have been getting the Candidate brand up and running for my label. The first track, \"Anticipation,\" is looking very good, lots of great feedback from it already. I've just finished a remix for Sunshine Underground on City Rockers which turned out great, sounding very bandy and live. A new series of <a href=\"http://www.discogs.com/label/Santiago\">coloured edits</a> are on their way too, six in all I hope.\n\n<b>Where was the mix recorded?</b>\n\nIt was done in Paris in T1T's Studio. He's a great friend with a great set up that gives everything an edge with warmth. He's a lovely guy too, big thanks to him.\n\n<b>What are you up to next?</b>\n\nI've got a remix on Stompa Phunk on its way at some point, as well as some other labels too. I am off to Australia in June again, always have a laugh out there, lovely people. And as I said, I'm just plugging away at the edits...",
+    "blurb": "The tenth edition of the Resident Advisor podcast is brought to you by former Radio Slave member and edits specialist Serge Santiago. "
+  }
+}

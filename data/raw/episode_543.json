@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "543",
+  "url": "https://ra.co/podcast/543",
+  "id": "543",
+  "__typename": "Podcast",
+  "title": "RA.543 Loxy",
+  "date": "2016-10-24T00:00:36.000Z",
+  "fileSize": 210949008,
+  "duration": "01:27:47",
+  "imageUrl": "https://static.ra.co/images/podcast/ra543-loxy-cvr.jpg",
+  "contentUrl": "/podcast/543",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/289694764",
+  "keywords": "Drum and Bass, Metalheadz, Blue Note, Cylon, Randall, Bukem",
+  "artist": {
+    "id": "33550",
+    "__typename": "Artist",
+    "name": "Loxy"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Loxy, AKA Andrew Campbell, has been in and around drum & bass since its inception in the early '90s. He's followed the genre's evolutions and has helped some of these evolutions along. As a producer, he's released on big-ticket labels like Metalheadz, Renegade Hardware and Architecture. He's also a renowned DJ, his resume including a residency at the legendary Blue Note in London. More recently, with the relaunch of his Cylon Recordings label, which has put out tracks from Dan HabarNam, Clarity and Beastie Respond, as well as a scene-defining <a href=\"/reviews/16751\">compilation</a>, he's once again been pushing drum & bass forward. \n\nCampbell's sets tend to move at a more considered pace than those of his peers, with a slow and careful mixing style that focuses on seamless blending. It's an approach that gives his RA podcast a smooth sense of momentum. Campbell covers an impressive amount of ground, coasting through jungle-flecked tunes, tightly-coiled tracks from dBridge and Digital, and touching on the wide-eyed experimentalism of Grey Area. Online mixes from him are relatively rare, which makes them feel like an event, and this one's no different. It's 90 minutes of some of the finest drum & bass around, both new and old, put together by one of the genre's most respected names.  \n\n\n<b>What have you been up to recently?</b> \n\nWell, just had the birth of our second child, doing some renovations to the house and slowly getting back into the studio vibe, as I'm intending on starting my album for Cylon. \n\n<b>How and where was the mix recorded?</b> \n\nIn my studio on Traktor. \n\n<b>Could you tell us about the idea behind the mix?</b> \n\nThe idea behind all my mixes is to create an environment and atmosphere that's a journey, in the same vein as a movie is directed. \n\n<b>You prefer longer blends than many other drum & bass DJs. Where does this style come from?</b> \n\nI like to roll out mixes that make sense, and not for the sake of it. Mixing and selection has always been a big part of my DJ style. I came up with the likes of Randall, schooled by Bukem and Peshay and Doc Scott—DJs that helped build the blueprint for my style. \n\n<b>What or who in drum & bass are you most excited about right now?</b> \n\nI'm excited about the new artists that I'm releasing on my label, such as Last Life, Space Matters, Torn and there are many more. \n\n<b>What are you up to next?</b> \n\nI'm going to be working on a solo album, which will have a few features from key people I've worked with in the past. Between that, the label, the family and DJing, I've kind of got my work cut out. \n",
+    "blurb": "Deadly drum n bass from one of the genre's finest DJs."
+  }
+}

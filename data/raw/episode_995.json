@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "995",
+  "url": "https://ra.co/podcast/995",
+  "id": "995",
+  "__typename": "Podcast",
+  "title": "RA.995 DJ TOBZY",
+  "date": "2025-06-29T23:00:11.000Z",
+  "fileSize": 0,
+  "duration": "01:55:08",
+  "imageUrl": "https://static.ra.co/images/podcast/tobzy.jpg",
+  "contentUrl": "/podcast/995",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/sets/ra-995-dj-tobzy-kampire",
+  "keywords": "",
+  "artist": {
+    "id": "76354",
+    "__typename": "Artist",
+    "name": "Kampire"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Nyege Nyege is synonymous with radical sonic innovation. Since 2015, the boundary-pushing Ugandan festival and its associated label have become a vital hub for adventurous, experimental sounds emerging from East Africa and beyond. Its alumni roster includes some of the past decade's most thrilling and forward-thinking artists—<a href=\"http://ra.co/podcast/984\" target=\"_blank\">DJ Travella</a>, Nihiloxica, <a href=\"https://ra.co/features/4442\" target=\"_blank\">Juliana Huxtable</a>, MC Yallah, and even New York's mayoral frontrunner, <a href=\"https://ra.co/news/83054\" target=\"_blank\">Zohran Mamdani</a>. In the process, the collective has reimagined what club music can be.\n\nThe enigmatic <a href=\"https://www.instagram.com/djtobzyimolegiwa/\" target=\"_blank\">DJ TOBZY</a> is one of the freshest voices in this ever-expanding ecosystem. At the tender age of 23 years, he's at the forefront of the effervescent cruise scene in his adopted hometown of Lagos. Breakneck, unpolished and fiercely DIY, it's a sound journalist Giulio Pecci <a href=\"https://ra.co/features/4154\" target=\"_blank\">described</a> as \"a delirious blur of vocals and drums, influenced by other African dance music styles but moving only to its own strange, internal logic.\" TOBZY's mix captures the frenetic energy of a scene evolving in real time—bold, street-born and completely unfiltered.\n\nHis contribution to RA.995 sits alongside that of Kampala-based Kampire, a core Nyege Nyege member since the label's inception, and she takes the B-side;\n<b><a href=\"https://ra.co/podcast/996\">RA.995 Kampire</a></b>\n\nTogether, the two-sided mix forms the launch of a new series marking the countdown to RA.1000—offering a bracing snapshot of a collective that has redefined electronic music over the last decade.<i>– Michael Lawson</i>\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI wanted people to get a feeling for the current sound coming from Lagos. Not the Afrobeats people know, but the sound of the young people on the mainland, the sound from the streets: some call it cruise, others call it freebeat or mara beat because of the dancing that goes into it. I recorded this mix in Brussels while I was on tour, I really hope you like it. \n\n<b>What have you been up to recently?</b>\n\nI've been touring in Europe. It's been a crazy ride, from getting my visa last minute, missing flights and getting lost along the way, travelling in Europe is not easy, but I got a lot of love on the dance floor. Being able to represent my community out here is a blessing, and to see the response of the crowd has really been special. Travelling with Aunty Rayzor and hanging out with friends from my label like DJ Travella, Shaun D and MC Yallah has made me very happy. Now I only have one more show, at Fusion Festival, and then I'm back to Lagos. Hopefully I'll come back soon. \n\n<b>How has your sound evolved in recent years?</b>\n\nI feel like my sound always evolves. I make beats every day, I listen to a lot of music and I don't like to repeat myself. My fans are always waiting for my next move and I love to surprise them. In the early days, I used to mix more commercial Nigerian music, and then as I learned more about production I started working with samples, effects and also making my sound faster to reach more dancers in my city. Us producers and DJs, we really work with dancers–sometimes we inspire them, sometimes they inspire us. \n\n<b>What's on the horizon?</b>\n\nI really hope to come back to Uganda for Nyege Nyege's tenth anniversary–I have a lot of friends there. Hopefully I also release a new album next year, and keep making music. I have some shows when I get home, and of course I want to spend time with my family.\n\n<i>Correction, June 30th: A previous version of this text said that Zohran Mamdani was New York's new mayor. In fact, the candidate won't be chosen until November.</i>\n",
+    "blurb": "DJ TOBZY's half of a double-sided mix by two Nyege Nyege all-stars."
+  }
+}

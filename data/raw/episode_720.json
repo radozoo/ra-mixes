@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "720",
+  "url": "https://ra.co/podcast/720",
+  "id": "720",
+  "__typename": "Podcast",
+  "title": "RA.720 Joe",
+  "date": "2020-03-16T00:00:34.000Z",
+  "fileSize": 212467924,
+  "duration": "01:28:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra720-joe-cvr.jpg",
+  "contentUrl": "/podcast/720",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/776936569",
+  "keywords": "Claptrap, Tola, Juno Cafe, Sofay, Joe Make Music,",
+  "artist": {
+    "id": "19586",
+    "__typename": "Artist",
+    "name": "Joe"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"Of all the UK producers to emerge from the dubstep petri dish, Joe may be the most distinctive,\" wrote Mark Smith in an <a href=\"/features/3441\">Art Of Production</a> article last year. That has been true for at least ten years—\"Claptrap,\" one of our <a href=\"/features/3590\">top tracks</a> of the decade, came out in 2010—but in the past two or so the London artist has also emerged as an inspired and distinctive DJ. With sounds rooted in UK club music but extending well beyond that milieu, a Joe DJ set is a window into the mind that's brought us some of the most effective and idiosyncratic club music of the last decade.\n\nOn RA.720, Joe starts out with the tempo around 130 BPM and keeps it that way throughout a 90-minute mix that dips and swerves while maintaining a killer rhythmic flow.\n\n<b>What have you been up to recently?</b>\n\nI was pretty focused on DJing in February, preparing for my first eight-hour open-to-close set, which took place at new SE London venue Juno Cafe a few weeks ago. And working on this mix! Also, I've started getting set up for production again. I moved studio a few months ago and have been putting off a bunch of admin: upgrading software, installing plugins, calibrating the speakers, etc. That's mostly done now, so more music-making is on the way.\n\n<b>How and where was the mix recorded?</b>\n\nIn the studio I share with a couple of friends in north London, on a pair of Pioneer CDJ-900 NXS and an A&H Xone 42. After gathering a bunch of tracks together, I recorded a couple of full ~90 minute runs with a bit of variation between them, then did some re-takes for bits I wasn't happy with.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to try a few things that are new for me, in terms of the studio mixes I've put out. Starting at a higher tempo (~130bpm) and staying pretty close to it throughout is one. Also, a more spontaneous approach to the whole programme: the final selection of tracks, their order, and the blends, with an eye to a specific kind of flow. (Particularly rhythmic, but timbral too.)\n\nListening back to previous mixes, it occasionally sounds like I was crowbarring tricky tunes together. Which is fine (when it works!). But here, I felt like going for a \"smoother ride.\" And finally, most of the selection has a sound palette/style which I haven't explored much in the past. At least it feels that way—as usual when working on something, I've lost most objectivity. :)\n\n<b>You've taken a strong stance on trying to reduce your carbon emissions as a travelling DJ. What tips do you have for others who are trying to do the same?</b>\n\nI avoid flying when I can, so most of my journeys are by train, and most of my route planning starts with <a href=\"https://www.seat61.com/\">seat61</a>. The site might look a bit old-fashioned, but it's kept pretty well up-to-date. Maybe the most important tip about trains is to book as far in advance as possible, to get the cheapest tickets.\n \nIt's also worth knowing what your rights are with regards to compensation/onward travel, e.g. if there are delays or cancellations and you miss a connection. This can depend on the ticket type, e.g. one through-ticket vs separate tickets for each leg of the journey). Seat61 has plenty of info on this, plus tips specific to the individual routes they suggest.\n\n<b>What are you working on in the studio right now?</b>\n\nMore tracks, which will hopefully also be distinctive! Plus attempting some collaborations, which I haven't tried for a while. I feel like I'm nearly at the point where my experience and workflow means I can actually finish music in a reasonable time, so with any luck I'll be able to start putting out more than one record a year in the near future. Though I feel like I've been saying that for ages. :)\n\n<b>What are you up to next?</b>\n\nPlaying at Tola in Peckham for the first time on <a href=\"/events/1389831\">Saturday, March 28th</a>. And with Sofay in Bristol on <a href=\"http://hdfst.uk/E62172\">Friday 27th March</a>. Of course I post any news about shows and releases on <a href=\"https://www.instagram.com/joemakemusic/\">Instagram</a>, <a href=\"https://twitter.com/joemakemusic\">Twitter</a> and <a href=\"https://www.facebook.com/joemakemusic\">Facebook</a>. Thanks for having me contribute to the RA mix series!\n",
+    "blurb": "Idiosyncratic music for the club."
+  }
+}

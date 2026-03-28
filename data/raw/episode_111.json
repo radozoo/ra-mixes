@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "111",
+  "url": "https://ra.co/podcast/111",
+  "id": "111",
+  "__typename": "Podcast",
+  "title": "RA.111 Stimming",
+  "date": "2008-07-14T09:00:52.000Z",
+  "fileSize": 72345166,
+  "duration": "01:00:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra111-stimming-cover.jpg",
+  "contentUrl": "/podcast/111",
+  "tracklist": "01. <a href=\"/dj-page.aspx?id=2485\">Lee Jones</a> - Safari (<a href=\"/dj-page.aspx?id=1984\">Stimming</a> Mix) - <a href=\"/record-label.aspx?id=796\">Aus Music</a>\n02. <a href=\"/dj-page.aspx?id=1984\">Stimming</a> - Una Pena - <a href=\"/record-label.aspx?id=1006\">Diynamic</a>\n03. <a href=\"/dj-page.aspx?id=1984\">Stimming</a> - The Anger - <a href=\"/record-label.aspx?id=954\">Liebe*Detail</a>\n04. <a href=\"/dj-page.aspx?id=1984\">Stimming</a> - The Beauty - Unreleased\n05. <a href=\"/dj-page.aspx?id=1984\">Stimming</a> - Saibot - Unreleased\n06. <a href=\"/dj-page.aspx?id=1984\">Stimming</a> - Danke - <a href=\"/record-label.aspx?id=550\">Buzzin' Fly</a>\n07. <a href=\"/dj-page.aspx?id=1984\">Stimming</a> & <a href=\"/dj-page.aspx?id=1677\">H.O.S.H.</a> – Radar - <a href=\"/record-label.aspx?id=1006\">Diynamic</a>\n08. Dan Berkson & <a href=\"/dj-page.aspx?id=1388\">James What</a> - Keep On (<a href=\"/dj-page.aspx?id=1984\">Stimming</a> Mix) - <a href=\"/record-label.aspx?id=792\">Dessous</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra111/",
+  "keywords": "",
+  "artist": {
+    "id": "1984",
+    "__typename": "Artist",
+    "name": "Stimming"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Apart from the ubiquitous Johnny D, it's hard to think of a producer more hotly tipped at the moment than Martin Stimming. The Hamburg producer records mostly for the hometown Diynamic imprint, crafting gently wobbly and highly melodic tracks that tug ever-so-carefully at the heartstrings. It's a sound that's caught on among the DJ elite, as each of his two most recent collaborative productions, 'Madeline' (with Einmusik) and 'Radar' (with H.O.S.H.), have threatened the top of the RA charts. With a stunning track on the way called 'Una Pena' that samples Chilean folk singer Violetta Parra, we're guessing that run isn't likely to change.\n\nOn his RA podcast, Stimming doesn't go in for the usual DJ antics. Instead, his is a live set, composed solely of his own original productions and remixes. It's a testament to his skill that it's both a cohesive document <i>and</i> one that doesn't sound like the same track repeated for an hour's time.  \n\n<b>What have you been working on recently?</b>\n\nRight now, I'm sitting on my debut album for Diynamic, which will come out at the beginning of 2009. The last remix I made this year was 'Keep On' for Dessous, which comes last in this set. I've been trying to focus only on the album.\n\n<b>Where and how was the mix recorded? </b>\n\nThe mix was recorded in my studio using my laptop with Ableton Live, a machinedrum, a controller and a mixer. I was using the same setup when playing live and performed it like I would in a club. There were no edits made afterwards. Everything on the fly! \n\n<b>Can you tell us a little about the idea behind the mix? </b>\n\nThe idea of this setup is to have all the grooves out of the machinedrum, so that I'm touching the notebook as little as possible. I honestly don't really like livesets and live acts which have their eyes only on their notebooks. The ones that don't let go of the mouse, where no one understands exactly what they're doing. Because I use the controller, I also have Ableton controlled without a mouse, so I touch my laptop as little as possible. And, for this mix especially, I included only the freshest tracks. Even some unreleased stuff, so this is really up to date! :)\n\n<b>You're a fan of field recording. What's the oddest thing that you've snuck onto a piece of vinyl recently? </b>\n\nIn '<a href=\"/review-view.aspx?id=4799\">Funkworm</a>', I included two sounds from the Hamburg tube. But the problem is, every time I go into my studio (by the tube), I hear this sound and I'm forced to remember this track. That's why I haven't done field recordings often after that. You can hear on 'Kleine Nachtmusik' where I crashed some Coke cans. They're in the breaks—the high \"knatter-percussion\". On my upcoming album, you're going to hear some sounds like the surge of the Baltic Sea—where I was on a short vacation. Or some more unusual stuff.\n\n<b>The last track on this set is a remix with Robert Owens on vocal. Would you like to work with vocals more in the future on original productions? Perhaps even using your own vocals?</b>\n\nYes, definitely! I really like the human voice because of its potential to produce very strong emotions! On my album, I'm going to have at least two tracks with recorded vocals from vocalists. (I already have one with a blues singer, which is very, very deep!!) Also, my own voice is already on some tracks. The strange trumpet on 'Una Pena' that alternates to the main hook is my voice, recorded through a kazoo. And. on 'The Anger', the vocal that's saying, \"I start to see things clearly\" is a mixture of a robot voice and my own!",
+    "blurb": "Hamburg represent! This week's podcast is an exclusive live set full of new jams from Hamburg's man-of-the-moment, Martin Stimming."
+  }
+}

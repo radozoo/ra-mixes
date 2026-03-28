@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "734",
+  "url": "https://ra.co/podcast/734",
+  "id": "734",
+  "__typename": "Podcast",
+  "title": "RA.734 Osheyack",
+  "date": "2020-06-29T00:00:38.000Z",
+  "fileSize": 143246790,
+  "duration": "00:59:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra734-osheyack-cvr.jpg",
+  "contentUrl": "/podcast/734",
+  "tracklist": "Nahash - Montreal Terror Corps \nThe Casualties - 1312\nWanton Witch - Unreleased \nKelvin T - Stimulus Bending\nGuixine - Unreleased\nDeena Abdelwaheed - Zardet Sidi Bagra \nTzusing & Hodge - Unreleased \nGooooose - Unreleased\nKablam - Miasma (Mobilegirl Remix)\nZaliva-D - Long Journey\nTim Karbon - Aziz Lumiere (Keito Remix)\nGILA - Rider 1 (Darq Windows)\nGUAN - Hunting Game\nGooooose & DJ Scotch Egg - JAC (Slikback Remix)\nBeatrice Dillon - Square Fifths\nProject Ashash - Khalid Karika X Ida Dillan (A7ba Club Edit)\nSHYQA - Bleeding (Mapalma Remix)\nAlex Wang - Unreleased\nHulubalang - XQ\nHiro Kone - Feed My Ancestors\nSZNS7N - U\nCRYSTALMESS - Atalaku\nLara Sarkissian - A Ceremony (For Arax)\nWalton - SBWYS\nDJ Problem - Butt Cheeks FT TIG\nSamo DJ - B HOP\nLurka - Minds Eye Tript \nDJ XNX - Team Deep Morninglight\nAstrobee - Junk Technology \nAmor Satyr - Shannon X DJ BIGGA X Burqa Boyz\nKaval - Free Up Riddim\nLow Jack - Reaction \nHigh Graid - Give Me More\nESTHER - Hedon Hack\nSyntrovert - Barricada\n7038634357 - Bedchamber \nOzwald - Prey\nFakethias - Thrust\nZut Zut - PAPI ANTHEM\nOMAAR - Tribalismo\nToumba - Sabah Fakhri\nSiu Mata - Ngalah Oreyo X UMOJA GALA GALA (Siu Mata Edit)\n7038634357 - All I Want Out Of A Red Box Body Unsolved\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/848809507",
+  "keywords": "Shangahi, SKVBVLT, Memory Hierarchy, Guan, Yikii, Alex Wang, Net Gala",
+  "artist": {
+    "id": "98996",
+    "__typename": "Artist",
+    "name": "Osheyack"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Osheyack fell into the Shanghai club scene after he visited the city in 2012 and never left. Since then, he's become one of the city's most visible producers and a staple of the SVKBVLT label, which we <a href=\"/features/3604\">profiled</a> earlier this year. In SVBKVLT and Shanghai, Osheyack found kindred spirits for his sound: a serrated style of ballroom and Baltimore that mixes Chinese club music's futuristic aesthetics and sonic adventurousness with the with the whiplash drum patterns of queer American club music.\n\nHis work is, also, frequently conceptual. April's <a href=\"/reviews/24971\"><i>Memory Hierarchy</i></a> EP was inspired by deepfakes and the idea that we are becoming increasingly incapable of telling truth from lies. That record, and Osheyack's new <i>RA</i> Podcast, is lithe dance music. He's not primarily a DJ—usually he plays live—but you'd never know it from this slick and excitable set, which focuses especially on Chinese producers. It features references to hardcore techno and hardstyle, mixing global hip-hop, gabber, Baltimore club and trance, even touching on old-school UK rave. This is the constantly shifting sound of Shanghai club music, with the sense of needlepoint precision that is Osheyack's trademark. \n\n<b>What have you been up to recently?</b>\n\nWriting a lot of music, reading as much as possible, trying to stay productive.\n\n<b>How and where was the mix recorded?</b>\n\nI put it together in Ableton in my apartment in Shanghai, as well as hotel rooms in Shenzhen and Chengdu.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nAlthough I don't DJ, this is intended to be a club mix that sounds similar to what you might hear from a SVBKVLT night at ALL. It was important to me to try to highlight artists from the region because there is still so much great music being made that does not get recognized.\n\n<b>China has received a lot of attention in the electronic music world scene after reopening nightclubs. What is it like in Shanghai now, and how is clubbing different than before? Do you feel comfortable going out and/or playing out?</b>\n\nIt's been an emotional reopening. ALL Club where SVBKVLT is based out of was in financial trouble and we weren't sure if we were going to continue to be able to have a space to play. Since April the community has really come together and the support has been pretty overwhelming. With the inability to book international artists there's now more concentration from the audience on the local DJs and producers, which is an important shift. People are still cautious about a second wave of COVID-19, but generally feel safe going out a few times a week. I've been able to play shows in a few different cities and the mood is generally optimistic.\n\n<b>China, and East Asia more generally, is a hotbed for new and innovative electronic music right now. Who are some of your favourite artists?</b>\n\nGUAN, Yikii, Alex Wang, Net Gala, Bela, Wanton Witch, Kelvin T, Y-DRA, Meuko Meuko and everyone who's a part of SVBKVLT and Genome.\n\n<b>What are you up to next?</b>\n\nI have a few remixes and compilation tracks that are set to release later in the summer and fall. Currently sorting out a summer schedule, playing across mainland China and planning for 2021. \n",
+    "blurb": "The sound of SVBKVLT."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "83",
+  "url": "https://ra.co/podcast/83",
+  "id": "83",
+  "__typename": "Podcast",
+  "title": "RA.083 Gregor Tresher",
+  "date": "2007-12-17T22:35:42.000Z",
+  "fileSize": 75258667,
+  "duration": "01:02:41",
+  "imageUrl": "https://static.ra.co/images/podcast/ra083-gregor-tresher-cover.jpg",
+  "contentUrl": "/podcast/83",
+  "tracklist": "01. Error Error - Back to Lythion (Patrick Zigon Rmx) (<a href=\"/record-label.aspx?id=1247\">Sweatlodge</a>)\n02. Teflon - The Wombat (<a href=\"/record-label.aspx?id=989\">Rebelone</a>)\n03. <a href=\"/dj-page.aspx?id=996\">Pan-Pot</a> - Charly (<a href=\"/record-label.aspx?id=772\">Mobilee</a>)\n04. Rainer Weichhold - Bamboo (Format B Rmx) (<a href=\"/record-label.aspx?id=738\">Great Stuff</a>)\n05. <a href=\"/dj-page.aspx?id=1576\">Gregor Tresher</a> - Running Systems (<a href=\"/record-label.aspx?id=738\">Great Stuff</a>)\n06. <a href=\"/dj-page.aspx?id=777\">Mossa</a> - In Dulto (<a href=\"/record-label.aspx?id=1358\">Milnor Modern</a>)\n07. Joseph Capriati - Scatolone (<a href=\"/record-label.aspx?id=1359\">Globox</a>)\n08. <a href=\"/dj-page.aspx?id=755\">Lazy Fat People</a> - Low Profile (<a href=\"/dj-page.aspx?id=933\">2000 And One</a> Rmx) (<a href=\"/record-label.aspx?id=980\">Perspectiv</a>)\n09. <a href=\"/dj-page.aspx?id=331\">Raudive</a> - Non (<a href=\"/record-label.aspx?id=668\">Music Man</a>)\n10. GTMK - Panchakarma (<a href=\"/record-label.aspx?id=986\">Intacto</a>)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra083/",
+  "keywords": "",
+  "artist": {
+    "id": "1576",
+    "__typename": "Artist",
+    "name": "Gregor Tresher"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tresher's roots are in electro (his earliest releases were on Frankfurt's Elektrolux imprint as Sniper Mode) but these days he's known more for ravey techno on outputs such as Cocoon, Datapunk and Great Stuff, records which earned him a best producer nod from Germany's Raveline magazine in 2006. Tresher has just put out his fourth album, <a href=\"/review-view.aspx?id=4853\"><i>A Thousand Nights</i></a> on Great Stuff, a record which pretty much nails his sound, making sense of electro, techno and minimal influences in a manner which has drawn comparisons to Stephan Bodzin or Martin Eyerer. And in case you don’t know, Tresher is the man behind the cracking cut ‘The Wombat’ on Crosstown Rebel’s anonymous Rebelone series—what a tune!\n\nAs a DJ, Tresher walks a similar line, eschewing genre purism and finding room for many varieties of dance music in his sets. “To play anything from tech-house to electro in one set and present it in an exciting voyage is what DJ-ing means to me,” is the way Tresher explains it. Recently he’s also begun to play live p.a.s, but his RA podcast is a purely decks and records affair: RA.083 finds lines between his own records and likeminded cuts by Pan-Pot, 2000 & One and Raudive. Dig in.\n\nQuestions for Gregor:\n\n<b>What have you been working on recently?</b>\nFor the last six months, I have mostly been touring to promote the album, and I also started to play live for some special events. I played my debut live-act in June at my favorite club (Fabric in London) and I couldn´t imagine a better place for it. Also I really enjoyed playing festival gigs this year at Germany´s big outdoor events: SonneMondeSterne and Nature One amongst others. Quite recently I have been working on remixes for Marco Bailey and for a release on Dubfire´s new label Sci-Tech for an artist called Delete. Both of these will be released early next year. \n\n<b>Where was the mix recorded?</b>\nIn my studio, a few weeks ago, in one take on two turntables and a mixer. No edits, FX or laptops.\n\n<b>What are you to next?</b>\nAt the moment I’m working on the production of Monika Kruse´s new album, which is scheduled to be released next year in spring. I am, of course, working on new music on my own as well, so I guess there will be a few new 12-inch releases in early ‘08, but things are still in the making right now. I am off to Brazil next week to play in Sao Paulo and Rio de Janeiro for the first time, and will return for the final dates of my album tour, playing Studio 88 in Aix-En-Provence and Cocoon´s New Years Eve in Rotterdam, which I am really looking forward to as I’ll be playing live there. After a short break I will be doing DJ-gigs: Germany in January and February, plus Switzerland, Italy, Turkey, Austria, Spain and Belgium. Plus, in February we will release two fantastic remixes for the title track of my album ‘A Thousand Nights’ by <a href=\"/dj-page.aspx?id=1010\">Dubfire</a> and <a href=\"/dj-page.aspx?id=960\">Extrawelt</a>.",
+    "blurb": "This week’s podcast is an electro-inflected techno set from Frankfurt producer Gregor Tresher."
+  }
+}

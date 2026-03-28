@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "856",
+  "url": "https://ra.co/podcast/856",
+  "id": "856",
+  "__typename": "Podcast",
+  "title": "RA.856 Karizma",
+  "date": "2022-10-30T22:00:11.000Z",
+  "fileSize": 147730793,
+  "duration": "00:59:02",
+  "imageUrl": "https://static.ra.co/images/podcast/ra856-karizma-cvr.jpg",
+  "contentUrl": "/podcast/856",
+  "tracklist": "Karizma - Hear and Now (Jon Dixon Remix) feat. Osunlade\nHelix - Smok\nMF Robot - Make The Call (Two Soul Fusion House Remix) \nNicholas Ryan Gant - Good Thing (Atjazz Astro Remix)\nKarizma - 1ne For The Road\nKerri Chandler & Dreamer G - Hurry Up (Ministry Of Sound)\nRihanna - James Joint (K2 Retouch)\nKarizma x Kendrick Lamar - DNA (Karizma Dub)\nBooman - Reminisce Break\nSeven Davis Jr. - Provider (Moodymann Edit)\nKarizma - How Fly This Life Is\nOsunlade - Black Woman Cry\nKarizma - Ya Dig (Kaytronik Revision)\nBig Yuki - Belong (K2 Edit)",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra856-karizma-20221031",
+  "keywords": "",
+  "artist": {
+    "id": "1370",
+    "__typename": "Artist",
+    "name": "Karizma"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As part of RA2122, our <a href=\"/news/77923\" target=\"_blank\">ongoing celebration</a> of 21 years of club culture, we'll be featuring some of our favourite DJs from around the world, highlighting the parties or clubs most important to their lives in dance music. \n\nChris Clayton, AKA Karizma, takes DJing seriously. But he also knows that it's about having fun, or at least helping other people to have fun. This is the formula that makes him such a fantastic DJ, and one of the most technically skilled around (he uses CDJs like few others can). He practices two hours every day, and has been DJing since he was 13, which you can read more about in his excellent <a href=\"/features/2741\" target=\"_blank\">Art Of DJing</a> interview from 2016. For him, there was no specific party or club that made him the DJ he is today—it was the whole Baltimore scene he grew up in. He <i>is</i> the party.\n\nHis approach is deeply informed with his history in Baltimore, a city with its own vibrant music scene that always taken a different tack than the rest of the major American undergrounds. House, techno, hip-hop, jazz (and of course Baltimore club), there have never been any boundaries for as long as Clayton has been DJing, which makes his DJ sets as musically adventurous as they are technical. This hour-long set is a neatly-packaged example of his genius, leaning on the jazzier side of his sound, featuring plenty of Atjazz records, his own wide-ranging material and killer edits of Rihanna and Kendrick Lamar.\n\n<b>Tell us about the most important party you've ever attended.</b>\n\nIt would have been a party my Aunt had, one of those blue light kinda parties, I vividly remember the Motown vinyl playing and it was a Motown compilation, with each vinyl a different color—red,blue, green and yellow—for a kid color is everything, so I was hooked.\n\n<b>How have parties in Baltimore shaped who you are as a DJ?</b>\n\nI think people and surroundings mold the person as a DJ. Baltimore does not—I repeat, DOES NOT—play around with music.If you were playing bad people could and would throw a bottle, sit down on the floor, cuss you out, if you were not on point with your music game, so that molded me as a DJ for sure.\n\n<b>What, to you, sets a good party or club apart from the competition?</b>\n\nThese days I would say it's on the club / promoter to do that, you have to have the right vibe, music, sound, staff and drinks. You have to know what you want the end result of your nights to be.\n\n<b>How and where was the mix recorded?</b>\n\nAt home (Kohesive Facility Lab).\n\n<b>What are you up to next?</b>\n\nWorking on my next album, touring as usual and looking for new artists to work with.\n\n<i>As part of RA2122, we're also publishing a <a href=\"/news/77982\" target=\"_blank\">book</a> of essays and letters, as well as hosting <a href=\"/news/77949\" target=\"_blank\">events</a> in New York and Manchester</i>.",
+    "blurb": "A master of the CDJs in session."
+  }
+}

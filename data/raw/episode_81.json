@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "81",
+  "url": "https://ra.co/podcast/81",
+  "id": "81",
+  "__typename": "Podcast",
+  "title": "RA.081 Mike Vamp",
+  "date": "2007-12-03T12:00:08.000Z",
+  "fileSize": 75210413,
+  "duration": "01:02:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra081-mike-vamp-cover.jpg",
+  "contentUrl": "/podcast/81",
+  "tracklist": "01. Chris A - Stillove4music - White Label\n02. <a href=\"dj-page.aspx?id=816\">Lawrence</a> - Place To Be (Stefanik Remix) - <a href=\"record-label.aspx?id=954\">Liebe Detail</a>\n03. <a href=\"dj-page.aspx?id=960\">Extrawelt</a> - Doch Doch (<a href=\"dj-page.aspx?id=778\">Jeff Samuel</a> Rmx) (85) - <a href=\"record-label.aspx?id=575\">Traum</a>\n04. <a href=\"dj-page.aspx?id=1752\">Kollektiv Turmstrasse</a> - Heiligendamm - <a href=\"record-label.aspx?id=873\">Connaiseur</a>\n05. Anonym - Project Huis - <a href=\"record-label.aspx?id=707\">Sushi Tech</a>\n06. Rejected – Let's Get Lost - <a href=\"record-label.aspx?id=1011\">Rejected</a>\n07. <a href=\"dj-page.aspx?id=2021\">Zoo Brazil</a> - Back To Back - <a href=\"record-label.aspx?id=948\">Gung Ho</a>\n08. Matteo Spedicati - Il Fantasma Di Hobanubi - <a href=\"record-label.aspx?id=1348\">Gumption</a>\n09. Takuya Morita - Fruits Basket Mas - <a href=\"record-label.aspx?id=707\">Sushi Tech</a>\n10. <a href=\"dj-page.aspx?id=364\">Steve Bug</a> & Cle - Iron Daily - <a href=\"record-label.aspx?id=213\">Pokerflat</a>\n11. <a href=\"dj-page.aspx?id=1211\">Ed Davenport</a> - Eyespeak - <a href=\"record-label.aspx?id=954\">Liebe Detail</a>\n12. Märtini Brös - High (Risin´) - <a href=\"record-label.aspx?id=213\">Pokerflat</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra081/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:2022"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Mike Vamp is probably most known for his association with Poker Flat, with releases on the label both under his own name and as part of the Märtini Brös. But that’s just the tip of the iceberg. Vamp’s first DJ gig was way back in 1982, he was a fixture on the rave scene as techno took root in Berlin in the nineties, and later he hooked up with Thomas Fehlmann and Gudrun Gut’s Oceanclub project, spinning (mostly drum n bass) on the radio and at parties in the basement of Tresor. Since 1998, Vamp has been releasing records and performing live/DJing as Märtini Brös with partner DJ Cle, previously at Arenaclub as the promoter of SundaySessions and now at Club Watergate, where he has just kicked off a new Wednesday night residency ‘Meet Märtini’.\n\nVamp’s RA podcast is recorded at the inaugural ‘Meet Märtini’ night at Watergate in October, and is bound to please both Märtini fans and tech house lovers with an ear for the deep and dark. \n\nThree questions for Mike:\n\n<b>What have you been working on recently?</b>\nI’ve been working on the new Märtini Brös album, which will come out in April/May 2008. I am also finishing my first solo trax, which will be released before the Märtini Brös album in 2008. Currently I am doing a remix for Oliver Koletzki, which is out in Feb 2008.\n\n<b>Where was the mix recorded?</b>\nThe DJ mix was recorded at Club Watergate in Berlin on Wed 16.10.2007.\n\n<b>What are you up to next?</b>\nI’m planning more solo gigs. They will be a mixture between live and DJing. For summer 2008 I am planning a full tour with Märtini Brös – a so called \"Decade Tour\" as Clé and me have been working together since 1998. There’ll be a live-DVD issue of that. At the end of March 2008 I will launch a T-shirt exhibition at Galerie Tristesse in Berlin called Mike Vamp’s Art Attack, which documents the beginning of the rave years in Berlin from 1991- 1997. Other cities are planned in connection with my solo performances. I am also producing a newcomer DJ from Berlin called Patrick Graeser.",
+    "blurb": "This week’s podcast is an hour of darkly melodic tech house from Poker Flat stalwart Mike Vamp."
+  }
+}

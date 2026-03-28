@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "27",
+  "url": "https://ra.co/podcast/27",
+  "id": "27",
+  "__typename": "Podcast",
+  "title": "RA.026 Cassy",
+  "date": "2006-09-25T20:00:12.000Z",
+  "fileSize": 57831117,
+  "duration": "01:00:12",
+  "imageUrl": "https://static.ra.co/images/podcast/ra026-cassy-cover.jpg",
+  "contentUrl": "/podcast/27",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra026/",
+  "keywords": "",
+  "artist": {
+    "id": "752",
+    "__typename": "Artist",
+    "name": "Cassy"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Cassy regularly spins at Panoramabar, the upstairs half of the Berghain complex, the refitted power station that fuels Berlin clubland. In fact this year Cassy was the club’s first choice to bring the energy of the venue to home stereos: they released her debut mix CD <a href=\"http://www.residentadvisor.net/review_view.asp?ID=3945\">Panoramabar 01</a> on their new label Ostgut Tonträger to a rapturous reception.\n\nCassy got her start as a singer, (you can hear her acapella version of Villalobos' ‘Easy Lee’ on his Alcachofa mix) but she’s also a producer, releasing on Perlon, Playhouse and Mental Groove as well as her own new self-titled label.\n\nDuring the week, she works in Berlin's premier record shop Hardwax so it's no wonder her record box is always filled with rare goodies and upfront grooves. Cassy’s mix for RA is sixty minutes of deep minimal and sexy American house including tracks by Theo Parrish, Ron Trent, Kevin Yost, Dimbiman and Stl.\n\nRA spoke to Cassy about the mix.\n\n<b>What have you been working on recently?</b>\n\nI've been on holiday actually but now I'm about to start working on some new music.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded at Hardwax, the record store I work at, on Thursday September 14 at 9 a.m. all in one go. It's slightly wobbly at times but as Jeff Mills used to say, \"That's how we party\".\n\n<b>What are you up to next?</b>\n\nI'm working on my next EP.\n",
+    "blurb": "Panoramabar resident Cassy mixes up Theo Parrish, Ron Trent and Dimbiman on the decks at Hardwax Records, Berlin."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "26",
+  "url": "https://ra.co/podcast/26",
+  "id": "26",
+  "__typename": "Podcast",
+  "title": "RA.025 Italoboyz",
+  "date": "2006-09-18T08:52:37.000Z",
+  "fileSize": 66134112,
+  "duration": "01:08:52",
+  "imageUrl": "https://static.ra.co/images/podcast/ra025-italoboyz-cover.jpg",
+  "contentUrl": "/podcast/26",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra025/",
+  "keywords": "",
+  "artist": {
+    "id": "811",
+    "__typename": "Artist",
+    "name": "Italoboyz"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<b>Italoboyz</b> are actually two grown men, Marco Donato and Frederico Marton. Bored with mainstream house in their native Italy, the pair moved to London in the nineties in search of a more underground sound. Since then they’ve been DJing parties and collaborating with producers such as James What, Ed Davenport, Gummihz and Alban Hi Dini, resulting in Italoboyz releases on the labels Treibstoff, Einmaleins Musik and Safari Electronique.\n\nDonato also runs Minimal London, a collective of London-based producers that counts in its ranks Dub Kult, Mark Henning, Mark Ashken and Gummihz. For the lowdown on the Italoboyz, check out last week’s RA feature <a href=\"http://www.residentadvisor.net/feature_view.asp?ID=762\">Italoboyz Own Adventure</a>.\n\nBlending house, minimal and a wacky attitude, the Italoboyz might not play Italodisco, but they sure know how to have fun. RA caught up with Italoboyz and got the lowdown on the mix.\n\n<b>What have you been working on recently?</b>\n\nWe've started producing music with other artists and friends which has resulted in releases on three really prestigious labels: Einmaleins Musik, Treibstoff and Safari Electronique.\n\n<b>What are you up to next?</b>\n \nWe are now working  toward developing and establishing our own sound. But it might be impossible to achieve as we have a broad range of musical influences and inspirations. In general, we are trying to make contemporary dance music that is a fusion of electronic house and techno.",
+    "blurb": "This week’s RA podcast comes at you from Italians-in-London Italoboyz."
+  }
+}

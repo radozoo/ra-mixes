@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "544",
+  "url": "https://ra.co/podcast/544",
+  "id": "544",
+  "__typename": "Podcast",
+  "title": "RA.544 Telephones",
+  "date": "2016-10-31T00:00:27.000Z",
+  "fileSize": 219140686,
+  "duration": "01:31:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra544-telephones-cvr.jpg",
+  "contentUrl": "/podcast/544",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/290775732",
+  "keywords": "Balearic house, Vibe Telemetry, Fett Burger, Jose Padilla",
+  "artist": {
+    "id": "15635",
+    "__typename": "Artist",
+    "name": "Telephones"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "With his small but high-quality catalogue of productions, remixes and edits, Henning Severud has emerged as a modern torchbearer for disco and house-tinged Balearic music. He grew up near Bergen, Norway, which explains the early (and enduring) influence of Bjørn Torske, who Severud discovered through the oddball classic <i>Nedi Myra</i> in the late '90s. Working as Telephones, Severud has cultivated a sound as a producer and a DJ that's playful, groovy and bathed in sunlight. When it was announced that he was co-producing the <a href=\"/reviews/17095\">2015 album</a> by Balearic pioneer Jose Padilla, it made total sense. \"Even with 30 years between us, we come from the same place, spiritually and musically,\" said Severud at the time. (He was responsible for the album's standout moment, \"Day One.\")\n\nThis month Severud released his first solo album, <i>Vibe Telemetry</i>, on Gerd Janson's Running Back. Across 12 tracks you'll hear blissful ambience, cosmic sketches, percussive workouts, piano stabs and the kind of deep house that can be played at both sunrise and sunset. One of the interesting things about <i>Vibe Telemetry</i> is his use of field recordings, which Severud sourced from his native country and far beyond. (Snippets from the UK, Mexico, Ibiza, Italy, Croatia and his current home, Berlin, are scattered throughout the LP.) These recordings make the album sound alive and breathing.    \n\nOn his RA podcast, Severud recreates the mood of his club sets. A house pulse is omnipresent, but he decorates that framework with chimes, chirrups and bursts of sax, resulting in a mix that's every bit as colourful as <i>Vibe Telemetry</i>.    \n\n\n<b>What have you been up to recently?</b>\n\nTravelling, DJing and scratching mosquito bites. I had two great gigs in Brazil, then visited my girlfriend in Mexico, then went more or less straight onto my Asian tour, from which I just came home yesterday.\n\n<b>How and where was the mix recorded?</b>\n\nIn my studio in Berlin, on two Technics SL-1200 turntables, a Pioneer DJM-300 mixer and a CDJ I borrowed from my friends at Sameheads. I then corrected one track where the record was skipping and adjusted some EQs in Ableton.\n\nCould you tell us about the idea behind the mix? \n\nI wanted to do a mix that represents the vibe and things I like to spin in the club. Stuff that's often in my bag that I really like. Recent things and old favourites. A snapshot of a night out behind the decks, in just 1.5 hours. Maybe it's a bit all over the place, but at least it's my place.\n\n<b>Your first album came out recently. How long had you wanted to put out an LP?</b> \n\nI've been working with the album for about two years—though many sketches, recordings, ideas and material have been worked on for a much longer time, intended for album-use at some point in the future, which is now, or was now. I didn't want to do something completely different for the album, but rather expand my sound and broaden my palette. Paint a bigger picture and elaborate on the vibe from where my music comes. It's more diverse and varied than earlier 12-inches and EPs, but it still exists within the same universe.\n\n<b>The album contains field recordings from across the globe. Tell us about how you wove these in.</b>\n\nI always try to record sounds from different places I go, if not for use, then for reference and ideas later on, or just to remember the feeling of a place. I went through a lot of them, edited them, processed them and manipulated them, before I mixed them with different samples and similar sounds generated with synthesizers or flute-gadgets. I used the recordings mainly as raw source material for further creating new sounds, effects and atmospheres, which I then resampled, layered and fiddled around with.\n\n<b>What are you up to next?</b>\n\nI'm staying in Berlin for a couple of months now, working on new and old stuff in the studio, finishing a remix and doing a few gigs around Europe. I'm at Corsica Studios again in London on November 11th, then in Amsterdam there's another all-night back-to-back with my buddy Fett Burger, which is always great fun. I'll play a party in Naples, too. Between that I plan to cook a lot, maybe do some swimming and have a beer or two with my friends.\n",
+    "blurb": "Balearic house with a Norwegian twist. \r\n"
+  }
+}

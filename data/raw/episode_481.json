@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "481",
+  "url": "https://ra.co/podcast/481",
+  "id": "481",
+  "__typename": "Podcast",
+  "title": "RA.481 Jasper James",
+  "date": "2015-08-17T00:00:38.000Z",
+  "fileSize": 251993547,
+  "duration": "01:44:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra481-jasper-james-cvr.jpg",
+  "contentUrl": "/podcast/481",
+  "tracklist": "??? - Summer\nGershon Jackson - Take It Easy (Mike Dunn's BlackBall Ezee MixX) [Omni Music Solutions]\nTaxi Cab - Chuckanova (Original Mix) [Midnight Riot]\nInnerwestsoul - The Live Sound (Innerwestsoul Edit) [Disco Deviance]\nGlance / Phonk D / Sascha Ciminiera - Back In Time [Footjob Germany]\nLuca Cazal - Afromance I (Club Mix) [See Double]\n???\nCutOff!CutOff! - Forth & Back (JC Williams Remix) [Soundspace]\nMaan - Jackin Pt 2 [Non Series]\n???\nDelroy Edwards - Always (Edit) [Gene's Liquor]\nMr G - So Get Down [Holic Trax]\nDJ Koze - XTC [Pampa Records]\n???\nEddie \"Flashin\" Folwkes - Oh Lord [Azuli Records]\nStefano Ritteri – You're My Lover (Christian Nielsen Remix) [Glasgow Underground]\nMario Cruz - Little Thing (Doorly Sunrise Reprise) [Blockhead Recordings]\nMatthias Vogt - S Cat (Original Mix) [Lazy Days Music]\nSmith N Hack - To Our Disco Friends [Smith N Hack]\nRick Wilhite - Drum Patterns & Memories (Moodymann Mix) [Rush Hour]\nJust As Long As I Got You (The Revenge Love Rub)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra481/",
+  "keywords": "Subclub, Jackmaster, Harri, Phonox, Optimo Tax, ZTRK1, Ibiza, XOYO, Richy Amed",
+  "artist": {
+    "id": "48618",
+    "__typename": "Artist",
+    "name": "Jasper James"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "On his RA podcast, Jasper James is never afraid to let rip. The mix evokes a time when house DJs tended to move dance floors with more direct musical expressions—a period before the restrained DJ style of the mid-'00s minimal boom became prevalent. Its abundance of vocal samples and hooks, which range in mood from joyous to gloomy, also feels like a refreshing throwback. But James isn't some old hand who's trying to revive the past. He's a Scottish artist in his mid-20s who's recently emerged as one of the UK's most popular new DJs. \n\nJames is the son of Harri, the long-serving Sub Club resident, who taught him how to DJ when he was 13. He's talked in interviews about \"getting\" house music around this age, when he saw his dad smashing a tent at T In The Park, a festival James had attended every year since he was a young kid. James has also counted Jackmaster as a friend and mentor over the years, describing him below as a massive motivational force in his career. James will probably always have these associations, but it's obvious that he's now come into his own. Most notably, he's about to start a weekly residency at <a href=\"/news.aspx?id=30716\">Phonox</a>, a new London club from the people behind XOYO and The Nest. He recently followed up his debut record—last year's <a href=\"/review-view.aspx?id=15394\"><i>Sneaky</i></a> on Optimo Trax—with an EP called <i>ZTRK1</i> on Leftroom, and in 2015 he's been gigging harder than ever, spinning at clubs like Space, Warehouse Project and fabric. \n\n\n<b>What have you been up to recently?</b>\n\nAt the moment I have been fairly busy touring around Europe and the UK playing at different clubs and festivals, as well as living out in Ibiza. \n\n<b>How and where was the mix recorded?</b>\n\nI went back to Glasgow to record the mix in Jack and I's flat, realising when I landed I had left the flat keys back in Ibiza, so the lads at the Sub Club kindly let me in there to do the mix.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to record something that is true to what I do. I approached this as more of a \"podcast\" rather than a \"club mix.\" (Whatever that means.) I tried to cram in as many old and new records as possible that I'm into at the moment\n\n<b>Tell us about the Phonox residency.</b>\n\nAndy Peyton approached me a while back when I played for Jackmaster's residency at XOYO asking if I would be interested in a residency. I presumed this wouldn't be for XOYO, as the guests were quite a lot bigger than me. Andy mentioned he had a new space and would love me to come play there every Saturday. For me this is a dream come true. I have grown up watching the likes of my dad, Harri, and other people like Optimo and Jackmaster holding down their residencies, and this has been something I have aspired towards doing. \n\n<b>What are the best bits of DJing advice your dad and Jack have given you over the years?</b>  \n\nMy dad has always taken the more hippy approach, telling me that everything will work out if I put in the work in and not to worry or overthink things. Jack has always pushed me harder, telling me I need to hustle and really go get it. This has been a good balance. They have both been massive influences in my life and career. Without them I wouldn't be where I am today. \n \n<b>What are you up to next?</b> \n\nMoving back to the UK to focus on Phonox, as well as getting back into the studio after my nice chilled-out summer in Ibiza leading a quiet life with Richy Ahmed and Jack.",
+    "blurb": "Something from the past and the future. "
+  }
+}

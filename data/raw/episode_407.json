@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "407",
+  "url": "https://ra.co/podcast/407",
+  "id": "407",
+  "__typename": "Podcast",
+  "title": "RA.407 Beneath",
+  "date": "2014-03-17T00:00:27.000Z",
+  "fileSize": 196432263,
+  "duration": "01:21:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra407-beneath-cvr.jpg",
+  "contentUrl": "/podcast/407",
+  "tracklist": "A Made Up Sound - After Hours (AMUS)\nBatu - Numen (Dub)\n19.26.1.18.5 - Snakes Cave (Horizontal Ground)\nBurlish - Octave Won (Dub)\nBatu - MK9 (Dub)\nPev & Kowton - Vapours (Livity Sound)\nWebstarr - Agreus (Dub)\nBeneath - Golden Age (No Symbols)\nWen - Lunar (Keysound)\nBeneath - One Blings (PAN)\nDolo Percussion - Dolo 2 (LIES)\nCooly G - Oh Boy (Dub Organizer)\nLack - Span (Dub)\nParris - Pressure (Beneath Dub)\n??? - Beneath Remix (Dub)\nHodge - Renegade (Donus Ytivil)\nPinch & Mumdance - Turbo Mitzi (Tectonic)\nAcre - Symbol (Dub)\nAlex Coulton - Bleep Sequence (Mistry)\nAsusu - Velez VIP (Dub)\nAlex Coulton - Tension (Mistry)\nRachael - Okada (Hotline)\nBeneath - Worried (No Symbols)\nKerridge - Chew (Downwards)\nShackleton - Death Is Not Final (Skull Disco)\nBeneath - Strike A Pose Logos Remix (Dub) ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra407/",
+  "keywords": "Tectonic, Keysound, No Symbols, Pan, bass, grime",
+  "artist": {
+    "id": "33608",
+    "__typename": "Artist",
+    "name": "Beneath"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When Beneath first appeared back in 2012, his music was dubbed \"sub-zero rollage\" by Blackdown, the co-founder of Keysound Recordings and one of his early supporters. Filtering classic grime sensibilities into a melting pot of other influences, Beneath became the most prominent name among a group of producers—Visionist, Logos and Wen among them—storming onto the UK scene, each with his own mongrel sound.\n\nOn releases for Tectonic, Keysound and his own No Symbols label, Beneath has taken his broken beats and forged them into something resembling house and techno, though we'd be hard-pressed to use any single genre to classify the young producer's music. His increasingly experimental rhythms have also caught the attention of the avant-garde, as reflected by his recent <a href=\"/news.aspx?id=22460\">signing to PAN</a> for an upcoming EP. Weaving together tracks from kindred spirits like Batu, Alex Coulton and A Made Up Sound, RA.407 is an extended session that never bangs the same way twice.\n\n<b>What have you been up to recently?</b>\n\nWorking, trying to find time and the right feelings to write new music, and DJing a bit more often.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it on my decks in my bedroom.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI guess its more of a DJ mix than my previous mixes, which have been more showcases of my own productions.\n\n<b>Is there a type of gig where you think your sound works best?</b>\n\nObviously a small dark room with a big system and no fuss about lights or decor is what most DJs want, right? That's rare, but actually, some of the gigs I've enjoyed most have not been in small dark rooms, so it just depends. I can adapt what and how I play more now that I have more experience and a different perspective on DJing. I also like playing on varied lineups where everyone is doing their own thing or I'm the odd one out, or something, or just festivals like Unsound or CTM where people are there for the music 100%.\n\n<b>What are you up to next?</b>\n\nReleasing my next 12-inch on PAN, finishing the next No Symbols 12-inch, and I'm going to have a go at releasing other people's music also.",
+    "blurb": "Subzero beats from the UK's new wave."
+  }
+}

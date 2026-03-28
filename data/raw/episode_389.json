@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "389",
+  "url": "https://ra.co/podcast/389",
+  "id": "389",
+  "__typename": "Podcast",
+  "title": "RA.389 L.B. Dub Corp vs P.A.S. ",
+  "date": "2013-11-11T00:00:01.000Z",
+  "fileSize": 143164067,
+  "duration": "00:59:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra389-lb-dub-corp-cvr.jpg",
+  "contentUrl": "/podcast/389",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra389/",
+  "keywords": "Luke Slater, Planetary Assault Systems, LB Dub Copr, Ostgut Ton, Mote Evolver",
+  "artist": {
+    "id": "176",
+    "__typename": "Artist",
+    "name": "Luke Slater"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Luke Slater has always enjoyed adopting aliases. Between 1989 and 1992 he used six different names across eight releases on Jelly Jam Records, the label he set up with Alan Sage. Throughout the '90s, he added Krispy Krouton, Deputy Dawg and Clementine to his roster. These days he's mostly using just two: Planetary Assault Systems and L.B. Dub Corp. The former is his oldest and his most widely known. As P.A.S., Slater has spent the last 20 years exploring pure forms of techno, releasing five albums and countless 12-inches. L.B. Dub Corp is a relatively newer alias, which Slater adopted in 2006 as a place for house-orientated material. Both names have found a loving home in Ostgut Ton. Outside of Slater's own Mote-Evolver, the Berlin label has put out two P.A.S. LPs to date, and as of today have released <i>Unknown Origin</i>, the first L.B. Dub Corp album, which sees Slater stripping down his sound on ten sharply focussed house productions. \n\nFor his RA podcast, we asked Slater to capture the spirit of both L.B. Dub Corp and Planetary Assault Systems. He came back with a gradually evolving session, which begins with gently bubbling house and ends with full-bodied techno, all shot through with Slater's singular sense of sound design. \n\n<b>What have you been up to recently?</b>\n\nWriting, playing, releasing and listening to music. Travelling, celebrating the unknown and randomness and being a bit of a spiritualist at heart. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded it in the Mote-Evolver office late at night.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's an L.B. Dub Corp to Planetary Assault Systems mix, and I guess it could have been much longer as this condensed story is celebrating diversity, blend and dynamics within that idea. Those were the inspirations to try and get a listener from L.B. Dub to P.A.S. in a cohesive and adhesive way.\n\n<b>You told us in regards to the L.B. Dub Corp record that it was \"easier to pinpoint what I didn't want in the music. On that basis I started to write.\" Can you expand upon what you didn't want in the music?</b>\n\nNeedless synth rises, drum rolls; dry compressed, pin-accurate production; sticking a stab in for the sake of it. These are not negative observations, they all have their place in the big music spectrum, but I think I've been around long enough not to crave the easy plastic slippery path to self-loathing. I see music writing to some extent like writing a book: prep work needs to be done, ideas need discounting and throwing away until a few feel right and stick. \n\nI wanted to describe the sound of L.B. Dub Corp with the record, and to do that I needed to work out what it was with L.B that makes it its own entity. I wanted to concentrate on the story in the tracks, the feeling. L.B. Dub Corp is not P.A.S. and I needed to get the musical story as pinpointed as possible, otherwise the album probably wouldn't have been written. Artistically I'm pleased with the result.\n\n<b>You also mentioned that you'd dabbled in poetry down the years. Is this something you'd like to pursue more concretely at some point?</b> \n\nMaybe poetry's something you age into or not. For me personally, listening to poetry is much better than reading it, and with the right poet I think it's getting to wider audiences these days than in the past. I've always been a fan of Cooper Clarke, and especially Benjamin Zephaniah looking at modern street level poetry. Last year I actually started with an idea of making the whole album with poetry but didn't have enough material I felt fitted with the music. So I only placed poetry where it felt right. \n\nIt was a dream using Benjamin Zephaniah's inspiring vocals. That particular poem sums up a lot for me and with the humorous edge it's made real. I might develop the idea around poetry more if it feels good. There's a lot of poetry to wade through, and a lot seems rather pointless and rambling so hitting on something you like is a catch.\n\n<b>What are you up to next?</b>  \n\nSome more L.B. sets coming up after putting together an L.B. Dub Corp experience set at ADE this year, which was a lot of fun. P.A.S. live is still on the road and works well at larger events and essentially feels at home there. We have some interesting releases planned on Mote-Evolver which will see the light of day in the new year. It seems that after all these years I'm on the road a lot as always, a man with no country. That is how it must be and how it is.",
+    "blurb": "Luke Slater's alter egos go head to head. "
+  }
+}

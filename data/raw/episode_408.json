@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "408",
+  "url": "https://ra.co/podcast/408",
+  "id": "408",
+  "__typename": "Podcast",
+  "title": "RA.408 Mo Kolours",
+  "date": "2014-03-24T00:00:22.000Z",
+  "fileSize": 145352346,
+  "duration": "01:00:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra408-mo-kolours-cvr.jpg",
+  "contentUrl": "/podcast/408",
+  "tracklist": "Jeen Bassa - 19 call some\nJeen Bassa - Final Report\nJeen Bassa - Not a fighter\nReginal Omas Mamode - As we move (omas celesrial)\nPaul White - Missin Love\nAl Dobson Jr - Good good Juices\nMo Kolours - See your face\nMo Kolours /Jeen Bassa - Untitled (crisp eve)\nTenderlonius - Hold on\nTenderlonius - Big Bass\nJeen Bassa - Body talking\nReginald Omas Mamode - Interlude cungaz\nAl Dobson Jr - Big bags\nAl Dobson Jr - In the world\nMo Kolours - Mike Black\nLegbah - Fire Jive\nHenry WU - Fiascoedoh\nPaul White - Follow it through \nReginald Omas Mamode - Skit Interlude 9\nAl Dobson Jr - Chicken on the side\nJeen Bassa - Wailer\nJeen Bassa - Fari\nJeen Bassa - Bumpin\nAl Dobson Jr - Rocker island\nMo Kolours - Afro Quarters\nPaul White - Tap tap\nPaul White - Sunshine studio\nMo Kolours - Brain like Rain (part 2)\nReginald Omas Mamode - Welcome all\nReginald Omas Mamode - Keep on Walking\nAl Dobson Jr - Everybody (vers)\nJeen Bassa - Just as music",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra408/",
+  "keywords": "Joseph Deenmamode, Mauritius, dub, soul, One-handed music, drums",
+  "artist": {
+    "id": "48374",
+    "__typename": "Artist",
+    "name": "Mo Kolours"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Few artists manage to make waves as quickly as Mo Kolours has. The half-English, half-Mauritian singer and producer, real name Joseph Deenmamode, released his first EP in 2011, but by then he'd already been discovered by Gilles Peterson, who booked him for a live session on the BBC. His self-titled debut album, which didn't come out until today, has been hailed by <i>The Guardian</i> as <a href=\"http://www.theguardian.com/music/2014/jan/30/new-band-of-day-mo-kolours\">one of the year's best</a> and has completely <a href=\"https://mokolours.bandcamp.com/album/mo-kolours\">sold out</a> via pre-order on vinyl and CD. \n\nIt's not hard to see what everyone is on about. Deenmamode's music is both soothing and entirely singular, a part-live, part-sampled brew that borrows elements of soul, hip-hop, house and dub without really sounding like any of those genres individually. It's rare that you hear something so completely assured, and yet so seemingly disconnected from any established scene or style. On RA.408, Deenmamode adds some bump to his signature sound, drawing records almost entirely from the close-knit crew of artists around him.  \n\n<b>What have you been up to recently?</b>\n\nI have been making music doing the odd mix, doing the odd performance. Right now I'm preparing for a gig in Tel Aviv!\n \n<b>How and where was the mix recorded?</b>\n\nI had to gather all the music off the lads, and I recorded it at my yard, using equipment I have in my studio.\n \n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to make a mix made up of work from the people around me. These guys have a lot of stuff just hanging around.\n \n<b>You had support from Gilles Peterson before your first EP even came out. How exactly did that happen? How has his support changed things for you? </b>\n\nTotally unexpected support! Alex Chase from One-Handed Music got it to him before we put it out. Putting this first record out, and the support around it, changed my life.\n \n<b>There are loads of new names here—Jeen Bassa, Henry Wu, Al Dobson Jr., Tenderlonious and so on. Can you tell us a bit about who these artists are? </b>\n\nJeen Bassa is my brother... he makes some of the illest beats around. Henry Wu is an extremely talented friend based in South London, Al Dobson Jr. is a \"sound manipulator\" of the highest degree, also an old friend. Tenderlonious is a multi instrumentalist, producer and 22a founder, also my bredrin. Reggie Omas Mamode is my brother too, talented beatsmith and vocalist and all-round bloody great guy. And last but certainly not least, is my main man Paul White (I'm sure I don't need to explain about this bredder), who has helped sculpt my confidence. I don't know what I would have done without his support. These people are family.\n\n<b>What are you up to next?</b>\n\nI'm going to be making more music and sweating on more stages! Word Life!",
+    "blurb": "Low-slung sounds from a fascinating newcomer."
+  }
+}

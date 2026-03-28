@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "208",
+  "url": "https://ra.co/podcast/208",
+  "id": "208",
+  "__typename": "Podcast",
+  "title": "RA.208 Leonel Castillo",
+  "date": "2010-05-24T00:00:33.000Z",
+  "fileSize": 107676696,
+  "duration": "01:29:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra208-leonel-castillo-cover.jpg",
+  "contentUrl": "/podcast/208",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra208/",
+  "keywords": "Leonel Castillo, Argentina, Buenos Aires, Techno, Tangent, Cocoliche, dub",
+  "artist": {
+    "id": "5966",
+    "__typename": "Artist",
+    "name": "Leonel Castillo"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Buenos Aires-born Leonel Castillo is one of the many local heroes that don't get their proper due. He was one of the early adopters of electronic dance music in his home country of Argentina, becoming fascinated by the then-alien strains of house, acid and ambient techno that he'd managed to get hold of during the late '80s and early '90s. And before long he was delving into the production sphere himself: Fellow Argentinean DJ and producer Diego Cid brought him in to help out with the recording sessions of his Universal-signed Urban Groove outfit.\n\nIt took just a few years after that point for Leonel to get his first real taste of success with the deep tech-house of his Boeing moniker, with cult cable TV animation channel Locomotion also making sure that his music was reaching other parts of Latin America. In Europe, his name has bubbled up as well: He's had releases on the UK's Sushitech and Munich's Ilian Tape. \n\nFor the most part, though, Castillo is committed to his local scene. He regularly spins at Buenos Aires' famed Cocoliche. In 2008, he <a href=\"/news.aspx?id=9380\">joined up with four other local producers</a> as Tangent at the venue for an improvised laptop performance celebrating both the power of technology and the quality of music that is emerging from this South American electronic capital. As a proof of the latter, Castillo has cooked up an RA podcast that sees him mixing together a set comprised entirely of his own material, much of it unreleased and untitled, that encompasses dubby techno, bumping tech house, tribal minimalism and plenty of curveballs along the way.\n\n<b>How is life in Buenos Aires at the moment?</b>\n\nIt's with it's highs and lows, as usual, with one important difference. At the moment the country is celebrating two hundred years of independence. There are shows and events all over the city, especially in the downtown areas. So in general, there's a really good energy everywhere at the moment. Once you understand Buenos Aires, it's easy to enjoy the city. It's big and there are loads of different cultures going on at the same time. Also, there is always support for small and changing cultural scenes, like the electronic music scene. \n\n<b>Where and how did you record the mix?</b>\n\nI recorded it at a friend's house. It's a mix of unedited vinyl, custom made acetates and other unreleased live tracks, recorded on two 1200mk2's, a mixer and laptop.\n\n<b>Can you tell us something about the idea behind the mix?</b>\n\nThe main idea was to give a \"screen shot.\" A general image of the different styles that I like to be involved in and that I like to produce, but which are often not compatible with the demands of a conventional dance floor. It was made to be listened to on headphones.\n\n<b>Are you still involved with the Tangent live jams? How are things going locally for producers and for Cocoliche?</b>\n\nThe jams came out of meetings in houses with friends a while ago, just to have fun and do things totally freely. We'd see what came out, record them and keep them. I like to listen to them afterward, cut parts, do edits, develop themes and sometimes play them. That's how we came to do it one day in a club with the guys from Tangent (at the moment I'm not in Tangent). We did them in a few places and it worked really well! It was a really great experience for everyone and to be able to share it with the public.\n\n<b>What type of sounds are popular in Argentina at the moment?</b>\n\nThe truth is that I haven't been going out much recently. But I think that Buenos Aires has been following the global pattern (sometimes I would like it if it was more independent here), which was at one moment \"minimal\" and now everyone loves house and the fat sound of a 909. There's also some techno, but nothing particularly new and DJ tool house and techno still goes down very well. \n\n<b>What are you up to next?</b>\n\nI recently moved and I'm getting used to the new place, organising things for my label Groovear, giving a new direction that is also able to have a commercial angle too. I've also been doing some digital editing and making some vinyl too. This is part of a job that I'm doing with Paulo from the Airdrop label, who is really helping me out. We have plans, including a European tour either this year or next year. I'm still working for Sushitech and planning future 12-inches, spinning for them and their parties for the old continent.",
+    "blurb": "The Argentinean producer showcases his varied 4/4 stylings on this week's RA podcast."
+  }
+}

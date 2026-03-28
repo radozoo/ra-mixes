@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "350",
+  "url": "https://ra.co/podcast/350",
+  "id": "350",
+  "__typename": "Podcast",
+  "title": "RA.350 PillowTalk",
+  "date": "2013-02-11T00:00:34.000Z",
+  "fileSize": 67925951,
+  "duration": "00:56:18",
+  "imageUrl": "https://static.ra.co/images/podcast/ra350-pillowtalk-cvr.jpg",
+  "contentUrl": "/podcast/350",
+  "tracklist": "PillowTalk - Intro\nBlood Orange - Huge Quit pt. 2 (feat. Erika Forster Spring)\nSarp Yilmaz - Marvinizer\nChris Malinchak - So Good To Me\nTanner Ross - Frequent Flyer (feat. Jules Born)\nMayer Hawthorne vs PillowTalk - The Makings of a Lover 'Edit' (feat. The Festivals)\nMetronomy - Loving Arm (Prins Thomas Diskomiks Remix)\nDavid Ruffin - It's Not That I Don't Love You (Soho 808 Edit)\nPillowTalk - The Real Thing\nSlove - If Only I Had\nOnra & Quetzal - You Don't Have To Go\nThe Originals - Baby, I'm For Real\nBrenton Wood - I'm the One Who Knows\nSam and Bill - For Your Love\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra350/",
+  "keywords": "Pillowtalk, Valentine, slow-jams, love, disco",
+  "artist": {
+    "id": "27703",
+    "__typename": "Artist",
+    "name": "PillowTalk"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"Sammy on vocals. Mikey on laptop. Ryan on keys. The lineup alone should tell you that San Francisco's PillowTalk do things a little differently.\" This is how we introduced PillowTalk back in December upon their #11 entry in our <a href=\"feature.aspx?1701\">top live acts</a> poll. The position reflected a year in which the trio went from an up-and-coming US act in to a globally in-demand force, playing upwards of 70 shows across five continents. Their trademark spin on traditional club music has been the driving force behind this ascent. R&B, disco, soul and boogie mesh with house music in vein of the Wolf + Lamb and Life and Death labels, both of whom have released their music.  \n\n\"Something old and something new\" is the vibe on PillowTalk's Valentines mix for us; this is music for lovers, shot through with a modern dance floor pulse. \n\n",
+    "blurb": "The San Fran trio see in Valentine's Day. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "285",
+  "url": "https://ra.co/podcast/285",
+  "id": "285",
+  "__typename": "Podcast",
+  "title": "RA.285 Friendly Fires",
+  "date": "2011-11-14T00:01:07.000Z",
+  "fileSize": 83075979,
+  "duration": "01:09:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra285-friendly-fires-cvr.jpg",
+  "contentUrl": "/podcast/285",
+  "tracklist": "Austra - The Beat And The Pulse (Still Going mix)\nAzari & III - Manic (Maceo Plex remix)\nHackman - Your Face Pulling My Hair\nHyetal - Diamond Islands (Boddika remix)\nSex Judas - Everything Changes (Tim Paris 'Mind Power' edit)\nRushhour - Moogie (Alden Tyrell remix)\nMatthew Styles - Don't Call Me Again\nCosmic Kids - Reginald's Groove (Classixx remix)\nHa Ha Ha - Adzuki Beans\nAnthony Collins - Don't Look Down Now (Roman Flugel mix)\nRoman Flugel - Bahia Blues Camp\nJoe Goddard ft. Valentina - Gabriel (Dub)\nConnan Mockasin - Faking Jazz Together (Michael Mayer remix)\nTeengirl Fantasy - Cheaters",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra285/",
+  "keywords": "Friendly Fires, XL, Pala, Kompakt, Bugged Out",
+  "artist": {
+    "id": "17544",
+    "__typename": "Artist",
+    "name": "Friendly Fires"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "UK three-piece Friendly Fires have always had one eye on the dancefloor, a fact you could've discerned from their very first release which featured a cover of the Jamie Principle classic \"Your Love.\" Singles such as \"Paris\" and \"Jump in the Pool\" from their eponymous 2009 debut album were ripe for that summer's festivals circuit, while their attention to remixers has been meticulous, with Justus Kohncke, Stuart Price, Joakim and Mock & Toof among just a selection of those reworking the band to date. \n\n<i>Friendly Fires</i> was followed up earlier this year by <i>Pala</i>. It found the band applying their full-throttled approach to songwriting and melody to a fresh range of tempos and textures. But what of Friendly Fires \"the DJs\"? Well, last year's well-received <i>Suck My Deck</i> mix for Bugged Out! flaunted their programming credentials, while in the club setting drummer Jack Savidge continues to rep for the group in venues across the UK, Europe and the US. Maceo Plex, Hackman, Roman Flugel, Michael Mayer and Matthew Styles all go into Savidge's colourful representation of the band on RA.285. \n\n\n<b>What have you guys been up to recently?</b>\n\nA whole lot of touring and very little else. Since September we've done full tours of North America and Europe and our UK tour starts this week.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded while hurtling across the USA in a tour bus, in between truck stop breaks to stock up on energy shots and beef jerky. I made it using Ableton Live.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to put together a dark, wintery mix that has a bit of light poking through towards the end, but as it progressed the lighter section took up more and more time until it was roughly half darkness and half lighter summer records, with the Connan Mockasin/Michael Mayer and Teengirl Fantasy tracks comprising a kind of autumnal ending. It's a progression of the seasons through the year kind of mix.\n\n<b>Have you been at all wary of being lumped with the \"indie dance\" tag?</b>\n\nNot really. I think when we started getting noticed we were wary of being given the \"new rave\" tag, but other than that most things people have said have never bothered us. However, I think it's time to move on if people can comfortably describe what you're doing in just two words.\n\n<b>What are you up to next?</b>\n\nWe have a break from touring in December and January, during which we're going to be writing new music and recording in Sweden. We want to strip everything back for the next things we do, and surrounding ourselves with bleak Swedish winter seems the perfect surroundings for doing just that.",
+    "blurb": "The UK band mix the seasons."
+  }
+}

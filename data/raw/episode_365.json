@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "365",
+  "url": "https://ra.co/podcast/365",
+  "id": "365",
+  "__typename": "Podcast",
+  "title": "RA.365 FunkinEven",
+  "date": "2013-05-27T00:01:39.000Z",
+  "fileSize": 71270738,
+  "duration": "00:59:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra365-funkineven-cvr.jpg",
+  "contentUrl": "/podcast/365",
+  "tracklist": "Funkineven - Species \nFunkineven - The Joker \nFunkineven - Dracula\nFunkinevil - Igno\nGreg Beato - Respect The 78\nKMFH - Spoof \nFunkineven - Aviator \nDelroy Edwards - The Fast Lane\nSeven Davis Jr - One\nKyle Hall - The Architect \nKyle Hall - H Bomb\nFunkineven - Ym2\nDelroy Edwards - Drop Dead\nMGUN - Nun\nKMFH - Finnapop\nFunkineven - Mars\nFunkinevil - Outro",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra365/",
+  "keywords": "Funkineven, Eglo, Wild Oats, Species, FunkinEvil, Steven Julien, Aapron Records",
+  "artist": {
+    "id": "27650",
+    "__typename": "Artist",
+    "name": "FunkinEven"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "FunkinEven has been spending a lot of time in the studio with Kyle Hall recently, and it's not hard to see why: the two producers' shared love for weird and rough-hewn house makes them seem like transatlantic doppelgängers. But FunkinEven, born Steven Julien, had distinguished himself long before he teamed up with Hall as FunkinEvil. He first emerged as a member of the Eglo stable, turning heads with off-kilter tracks like \"She's Acid\" and \"Phone Line,\" his collaboration with Fatima, then kept the momentum going with own label, Aapron Records, whose <a href=\"/review-view.aspx?id=12843\">latest 12-inch</a> just dropped earlier this month. Tying all his work together is a singular trademark sound, which you get a healthy dose of in this mix: hazy and sometimes leftfield, but always playful and unfussy. \n\n<b>What have you been up to recently?</b>\n\nJust finishing up a new EP called <i>Species</i>, due out within two months. I'm also finishing mine and Kyle Hall's new FunkinEvil EP and making a new Funkineven and Fatima joint! Besides that I've just been gigging out quite a bit with some tours lined up.\n\n<b>How and where was the mix recorded?</b>\n\nAt the NTS radio studio using CDJs and Pioneer mixer recorded into Logic then tweaked and finalised.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nNo brainer really, I just mostly wanted unreleased or forthcoming music from my friends that I liked, from house, edits, techno and whatever felt right and to be cohesive in the mix!\n\n<b>Why did you set up Apron?</b>\n\nInitially I was only supposed to release an edit on white label, I asked [Eglo boss] Alex Nut and he said, \"You might as well do it yourself if it's a small run,\" so I thought hold up? If I'm gonna go through the trouble of releasing something myself I might as well do it properly and release my own production for the first release as opposed to an edit. I sat on the idea for a few months and Kyle helped me put it in motion.\n\n<b>\"Phone Line\" was one of our <a href=\"http://www.youtube.com/watch?v=YjNPZdm_Zu4\">favourite videos</a> last year. What inspired it?</b>\n\n\"Phone Line\" is quite bold and playful from listening to the humour of the song. The inspiration is '90s R&B videos, like the director Hype Williams used to make for Missy and Timberland etc., but it's mostly inspired by the photographer Helmut Newton, especially the '70s colour shots he did, you can definitely see the reference in the video.\n\n<b>What are you up to next?</b>\n\nI'm getting some new releases in line for the next few months, I've got a new artist called Greg Beato from Miami, he's about to drop a 12-inch on Apron Records. You can hear a peep of \"Respect The 78\" previewed in the mix.\n",
+    "blurb": "Dusty summer house from London"
+  }
+}

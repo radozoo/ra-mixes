@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1009",
+  "url": "https://ra.co/podcast/1009",
+  "id": "1009",
+  "__typename": "Podcast",
+  "title": "RA.1000 Theo Parrish",
+  "date": "2025-08-11T16:02:24.000Z",
+  "fileSize": 0,
+  "duration": "03:01:14",
+  "imageUrl": "https://static.ra.co/images/podcast/ra1000_podcast_image-theoparrishra1000_2.jpg",
+  "contentUrl": "/podcast/1009",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra1000-theo-parrish",
+  "keywords": "",
+  "artist": {
+    "id": "900",
+    "__typename": "Artist",
+    "name": "Theo Parrish"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There are DJ sets and then there are Theo sets. Whether playing festival stages or intimate clubs, the Detroit don keeps dancers on their toes wherever he goes: running hot, levels smoking, isolator working over time. No matter how many times you've caught him in action, every time still feels like the first. Even in the middle of the 'floor, it's easy to be overawed at the depth and breadth of Theo Parrish's repertoire. You think you know dance music? Think again.\n\nParrish's long-awaited debut on the <i>RA Podcast</i> is a milestone for the series, one we've sought for over 15 years. So it was only right that Theo led off our 1000th celebrations. Recorded live at fabric last December as part of <i>RA</i>'s <a target=\"_blank\" href=\"/news/81559\">collaborative party</a> with the London club for their 25th anniversary, this three-hour segment documents the crescendo of his eight-hour marathon. \n\nFew electronic artists carry as much weight as the <a target=\"_blank\" href=\"/features/3312\">Sound Signature</a> boss. An immense record collection and sharp ear for musicality makes him equally renowned in jazz, soul and hip-hop communities as well as the dance music realm. He's as comfortable playing arrhythmic timbales and slow jams as warped electro or sludgy psych-rock. At any given show, you'll likely hear all of those sounds, and more.\n\nSure, there's galvanising build-ups and crowd-pleasers, too, but laced throughout a Parrish beatdown are rarities designed to shock the system, as well as masterful sleights of hand to find room for so-called <a target=\"_blank\" href=\"https://www.instagram.com/p/DH6GOlRRzPW/%3E\">\"corny songs\"</a>. His tracklists are often likened to a history course on music's connective tissue—a major reason why his fans span generations and demographics.\n\nIn a business dominated by image-driven marketing and social media followings, the vinyl master towers above industry dynamics thanks to a relentless hunger for lustrous melodies, moods and textures of all stripes, which he and he alone can fold into an inspiring and exhilarating joyride.\n\nOn RA.1000, blissful reggae precedes new wave disco; '80s R&B morphs into synthy techno; bleepy Chicago jack makes way for a poignant vocal ballad. Theo, once again, proves that anything and everything is possible with the right records. <i> – Nyshka Chandran</i>",
+    "blurb": "RA.1000 launches with Theo Parrish, live at fabric: a vanishingly rare club mix from the king of deep crates and impossible transitions."
+  }
+}

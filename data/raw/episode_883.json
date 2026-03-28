@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "883",
+  "url": "https://ra.co/podcast/883",
+  "id": "883",
+  "__typename": "Podcast",
+  "title": "RA.883 Fever Ray",
+  "date": "2023-05-07T22:00:52.000Z",
+  "fileSize": 164629326,
+  "duration": "01:08:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra883-fever-raycvr.jpg",
+  "contentUrl": "/podcast/883",
+  "tracklist": "DJ Travella - Crazy Beat Music Umeme 1\nSara Parkman - Mammakroppar (Aasthma Remix)\nJudgitzu - Umeme\nThe Modern Institute vs Jay Mitta - Jay Ants Remix\nSylvere - Rez Drums\nTshegue - The Wheel\nSisso - Sisso Sisso\nDebmaster - 1av2\nRoy Of The Ravers - 2 Late 4 Love (Part One)\nDJ Haram - Grace (K.O.D)\nFever Ray - Carbon Dioxide (Avalon Emerson Remix)\nTwo Shell - Memory\nConfidence Man, Daniel Avery - On & On\nClara! - Acero\nMoonchild Sanelly - Bashiri\nSho Madjozi - John Cena\nEquiknoxx - Brooklyn\nTayhana - Hasta que me quieras\nFever Ray - What They Call Us (Nifra Remix)\nElkka - Music To Heal To",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra883-fever-ray/",
+  "keywords": "",
+  "artist": {
+    "id": "8284",
+    "__typename": "Artist",
+    "name": "Fever Ray"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There are few people who have had as much of an impact on contemporary electronic music as Karin Dreijer, whether with their brother Olof in The Knife or with their solo project, Fever Ray. From massive indie-pop hits to paradigm-shifting dance records, Dreijer's work takes a psychedelic, plasticine approach to synth pop, with their trademark pitch-shifted vocals and psuedo-tropical beats. As Fever Ray, they've tapped into the global club music underground, working with producers like Nídia, Paula Temple, Deena Abdelwahed, Vessel and, on new album <a href=\"/reviews/35377\" target=\"_blank\"><i>Radical Romantics</i></a>—one of our favourite albums of the year so far at <i>RA</i>, hands down—even Nine Inch Nails.\n\nOther important collaborators in Dreijer's world are Peder Mannerfelt and Pär Grindvik, the Swedish techno producers who have been working with Fever Ray since the <a href=\"/reviews/6040\" target=\"_blank\">the first album</a> back in 2009. They co-mixed this <i>RA</i> Podcast. The mix is a survey of Dreijer's favourite dance music, some of which informs their one-of-a-kind sound world as Fever Ray. There's plenty of music from the groundbreaking East African scene centered around Nyege Nyege Tapes, plus DJ Haram, Equinkoxx, Tayhana and more, and even two exclusive, upcoming Fever Ray remixes from Avalon Emerson and Nifra. It's a rare look into the musical tastes of a true visionary.\n\n<b>What have you been up to recently?</b>\n\nI'm touring! It's been a lot of fun, I work and travel with a really nice group of people and we've had amazing audiences. \n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI picked tracks that make me feel a lot, that hit something, and that have an energy I like. Aasthma, whom I've known and worked with now since the first Fever Ray album, helped me mix it.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nStockholm, where I live, hasn't really a continuous queer club or party with music I like, but there's a few people who do parties like this and when they happen it's amazing.\n\n<b>What's your relationship with dance music these days? Do you still go out clubbing/raving, and who are some of your favourite dance music producers right now?</b>\n\nI'd love to go out more but I've been working so much lately. I love listening to new music and chase down stuff that I like, I think some of my favourite stuff at the moment are in the mix now.\n\n<b>What is your collaborative process like when you work with other producers?</b>\n\nI usually have a clear vision, emotionally, setting-wise, of what I look for. Before I approach someone I have made sketches, done beats, chords, melodies, recorded vocals and I try to describe the feeling and where I'd like it to take place, the track. Then we send stuff back and forth, I re-record things, it blends and builds something new.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nThere's so much going on with the far-right shit stuff happening in a lot of places. It's a shame people can't seek asylum. Tear the walls of Europe!\n\n<b>What are you looking forward to in the near future?</b>\n\nLooking forward to continue the tour, hopefully a bit throughout 2024. After that I'm also looking forward to the studio, already starting to miss it a bit.\n\nPhoto: Flemming Bo Jenson",
+    "blurb": "Co-mixed with Aasthma, this is a look into the dance music tastes of one of electronic music's true visionaries."
+  }
+}

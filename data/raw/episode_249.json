@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "249",
+  "url": "https://ra.co/podcast/249",
+  "id": "249",
+  "__typename": "Podcast",
+  "title": "RA.249 Discodeine",
+  "date": "2011-03-07T00:00:31.000Z",
+  "fileSize": 73279462,
+  "duration": "01:00:59",
+  "imageUrl": "https://static.ra.co/images/podcast/ra249-discodeine-cvr.jpg",
+  "contentUrl": "/podcast/249",
+  "tracklist": "ARP - Pastoral Symphony: I. Dominoes II. Infinity Room\nEnnio Morricone - Esplicitamete Sospeso\nRoll the Dice - Axee\nTimber Timbre - Lay Down In The Tall Grass\nJuana Molina - Los Hongos De Marosa\nRyuichi Sakamoto - Elephantism Theme\nThe Gamelan Son of Lion - Halloween - By Jody Kruskall\nOneohtrix Point Never - Describing Bodies\nDiscodeine - Antiphonie\nPollyester - You Are Amen\nFour Tet - Angel Echoes (Caribou remix)\nLuke Abbott - Brazil\nJames Blake - Tell Her Safe\nBlur - Sing\nPale Saints - Hair Shoes (Demo)\nLucky Dragons - Tenderers\nBob Bassara - Tongue Forge\nCornelius - Fantasma\nAnika - I Go To Sleep\nBunker Hill - Hide & Go Seek\nFlorence Foster Jenkins - Adele's Laughing Song\nVashti Bunyan - Against The Sky\nThese New Puritans - We Want War",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra249/",
+  "keywords": "Discodeine, Pilooski, Pentile, Dirty Soundsystem, Paris",
+  "artist": {
+    "id": "20946",
+    "__typename": "Artist",
+    "name": "Discodeine"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Discodeine is French producers Cédric Marszewski and Benjamin Morando, who are more commonly known as Pilooski and Pentile. The duo have been releasing a colourful brand of club music under the name since 2008's <i>Joystick</i> EP, and have just put-out a self-titled album, which called upon the vocal talents of Jarvis Coker, Baxter Dury and Matias Aguayo. Pilooski built a name for himself in his own right during the '00s, thanks largely to his <i>Dirty Edits</i> series and remixes for LCD Soundsystem and Mystery Jets. While less widely recognized, Pentile was part of several recording projects at the beginning of the last decade—Octet, France Copland and solo as Morando. \n\nThe way in which artists label their mixes for us is often as intriguing as it is nebulous, and in the case of Discodeine \"a pop selection\" was how it was tagged. We're not sure we'd entirely agree with that description, although if pop music <i>did</i> sound like this we reckon the world would be a much happier place. \n\n<b>What have you been up to recently?</b>\n\nLiving the life.\n\n<b>How and where was the mix recorded?</b>\n\nWith a lot of records, sweat and chocolates in the Discodeine HQ.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nIt's just some songs we like in some very different styles, not especially electronic or club; a short journey into our record collection.\n\n<b>How did you guys hook up with Jarvis Cocker for the track \"Synchronize\"?</b>\n\nWe didn't know that Jarvis was a great fan of the Dirty edits. One day he sent a mail to buy a copy to the Dirty mail order. Then he proposed to Pilooski to do a remix. We naturally thought of him when we were searching a singer for the \"Synchronize\" demo.\n\n<b>What was the inspiration behind the <a href=\"http://1.bp.blogspot.com/_D5aChfbhtA4/TQo7JK64BuI/AAAAAAAABk0/0G8d9uO_JAY/s1600/DISCODEINE_COVER_HD.jpg\">artwork</a> for your debut album?</b>\n\nSome flashy 19th century lions! We wanted to finish with some colour this series about Gustave Dorée's engraving initialized with our EPs.\n\n<b>What are you up to next?</b>\n\nPreparing and rehearsing our live set.",
+    "blurb": "Heady home listening from the French duo."
+  }
+}

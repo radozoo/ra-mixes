@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "465",
+  "url": "https://ra.co/podcast/465",
+  "id": "465",
+  "__typename": "Podcast",
+  "title": "RA.465 Aquaplano",
+  "date": "2015-04-27T00:00:31.000Z",
+  "fileSize": 152829188,
+  "duration": "01:03:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra465-aquaplano-cvr.jpg",
+  "contentUrl": "/podcast/465",
+  "tracklist": "Michael Naura - Indira \nTotal Art Of Percussion - Wuhan Wuchang \nIva Bittová - Fragment 1 \nJohn Fahey - The Fahey Sampler \nSyd Barrett - Golden Hair \nMoondog - Oasis \nCults Percussion Ensemble - Circles \nBattiato - Sequenze E Frequenze / Aries \nThird Ear Band - Air \nNico - Win A Few \nMédico Doktor Vibes - Diska Limba Man \nG.I. Gurdjieff - October 14, 1949",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra465/",
+  "keywords": "Donato Dozzy, Nuel, techno, Spectrum Spoolls, Voices from the Lake, Further",
+  "artist": {
+    "id": "864",
+    "__typename": "Artist",
+    "name": "Donato Dozzy"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Whether working separately or together as Aquaplano, Donato Dozzy and Nuel make techno that's fueled by a sense of cosmic drama. Even their club tracks feel profound—abstract compositions that, in their wordless language of rhythm and sound, seem to dwell on the mysteries of existence. Their Aquaplano project was initially short-lived, yielding a pair of desperately sought-after EPs (<a href=\"/review-view.aspx?id=14622\">eventually reissued on Spectrum Spools</a>) and a string of 12-inches on the label of the same name. This year, though, Aquaplano is back, with an album in the works and DJ and live sets to follow.  \n\nIn this rich and enigmatic mix, Dozzy and Nuel (not to be confused with Neel of Voices From The Lake) take us deep into their soundworld, but not in the way you might expect. RA.465 travels through decades, continents and cultures, finding, in this strikingly varied cast of artists (from original Pink Floyd frontman Syd Barrett to 20th century spiritual teacher George Gurdjieff) the same sense of awe that drives their own productions. \n\n\n<b>What have you been up to recently?</b>\n\nWe got our good friendship back after we followed our separate paths for about five years.\n\n<b>How and where was the mix recorded?</b>\n\nAt home, going through an absolutely ordinary day, having lunch and starting talking about music influences. We had a generous bottle of wine, we listened to a sequence of records that just made sense in the way they succeeded each other.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to represent the sequence in the way we experienced it and at the same time showcase all our roots that were included in each track.\n\n<b>Tell us a bit about Aquaplano. What originally brought you together? What made you decide to bring the project back?</b> \n\nAquaplano is one of those projects that is a consequence of friendship. We used to discuss, play, listen to music, and finally record for our own pleasure. Our friendship started in Berlin around 2006, and we went deeper the year after when we met on the coast of San Felice, Italy, where we made the first Aquaplano session in about four days, one day per track. Being both lazy, we wanted to press it, yes, but with no stress, and the result was a black record with no titles or stickers. We had so much fun that we decided that we would do a next session as soon as possible. That eventually happened in 2007, and we pressed an entirely white record. \n\nAfter that we just concentrated to our own lives, and the project came back to our attention during 2014 because of John Elliott, the guy who runs the beautiful Spectrum Spools out in Cleveland, Ohio. He proposed us to repress our old session in an album format.\n\n<b>What makes this collaboration effective?</b>\n\nThe truth is that we just have a special connection that is not just related to the music but to our way of living itself. Working together is just so much fun and these results couldn't be achieved alone. Never ever.\n\n<b>What are you up to next?</b>\n\nOur next album is ready and it comes from the performance we had at the Atonal Festival in August last year.",
+    "blurb": "Next-level eclecticism from Donato Dozzy and Nuel. "
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "375",
+  "url": "https://ra.co/podcast/375",
+  "id": "375",
+  "__typename": "Podcast",
+  "title": "RA.375 Blondes",
+  "date": "2013-08-05T00:00:02.000Z",
+  "fileSize": 78380274,
+  "duration": "01:04:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra375-blondes-cvr.jpg",
+  "contentUrl": "/podcast/375",
+  "tracklist": "Seth Price - They Did It\nTerrence Dixon - Fountain of Life\nEfdemin - Acid Bells\nBlondes - Bora Bora\nMary Velo - Repressed\nLucy - Triad\nLaurel Halo - Sex Mission\nBlondes - Swisher\nStellar Om Source - Fascination\nMax McFerren - Chinatown Club Jam\nShawn O'Sullivan - Free Flight\nDoron Sadja - Residuals II\nMike Parker - Fwd (Donato Dozzy Remix) ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra375/",
+  "keywords": "Blondes, Sam Haar, Zach Steinman, Swisher, Touched, RVNG Intl, Merok, techno",
+  "artist": {
+    "__ref": "Artist:24901"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Sam Haar and Zach Steinman have always loved the long haul, whether it's their nine-minute tracks or the sprawling trips they take through techno and house, such as on their new LP, <i>Swisher</i>. The record feels like the culmination of a sweeping dance sound they began to explore with <i>Touched</i> on Merok back in 2010, which was then carefully refined through a series of singles and later collected as a <a href=\"/review-view.aspx?id=10440\">self-titled album</a> for RVNG Intl. Their songs are dense stretches of sound that build and build (and build) towards stirring climaxes. It's an approach that could be exhausting were they not so clever with their hardware, which they use to record their tracks almost completely live.  \n\nThe group is best known for conjuring slabs of sound live, but they're solid DJs as well. On RA.375 Blondes opt for grand scale dance music, from the tolling of Efdemin's \"Acid Bells\" to the continually shifting \"Sex Mission\" by Laurel Halo. Coming from a duo that straddles the line between dance music and rock, it's an arresting look into the music that inspires their compositions.\n\n<b>What have you been up to recently?</b>\n\nWe've been preparing and rehearsing for our upcoming tour. Excited to play a bunch of shows with new material. Besides that, we've generally been enjoying summer in NYC: been hiking, swimming, going to the beach, etc.\n\n<b>How and where was the mix recorded?</b>\n\nThis mix was put together on the computer in June in our studio in NYC.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe wanted to put together tracks from friends of ours here in New York. Other tracks we have just been into recently, and then some picks from <i>Swisher</i>. It's supposed to have a really natural movement, starting out upbeat, dipping down into darkness and then back out into a wash.\n\n<b>Did you have different aims with <i>Swisher</i> than you did with your debut?</b>\n\nYes, the process was completely different. We worked on all tracks simultaneously and then the album slowly revealed itself. We have some new gear and our taste has been changing a bit for the darker. Our aim was to set up a heavily process-driven approach to composing the tracks. Each one would be allocated to do something others wouldn't. In our previous releases every song was its own journey, this is just one long-playing epic.\n\n<b>Why did you chose to release the album digitally as soon as it was announced, and put a full stream up on YouTube?</b>\n\nIt's a more democratic way of releasing music. Everyone can hear the album at the same time, there's not really any advanced copy unless we sent it personally. The last album was so drawn out the way [we] released it, and <i>Swisher</i> is still fresh for us. \n\n<b>What are you up to next?</b>\n\nTouring for a while, and then maybe some 12-inches.",
+    "blurb": "The New York duo does textured techno."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "197",
+  "url": "https://ra.co/podcast/197",
+  "id": "197",
+  "__typename": "Podcast",
+  "title": "RA.197 Reboot",
+  "date": "2010-03-08T00:00:38.000Z",
+  "fileSize": 84630857,
+  "duration": "01:10:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra197-reboot-cover.jpg",
+  "contentUrl": "/podcast/197",
+  "tracklist": "Chez N Trent - Morning Factory (Dubplate Version) - <a href=\"/record-label.aspx?id=1118\">Prescription</a>\n<a href=\"/dj-page.aspx?id=8908\">Terje Bakke</a> - Tango Orange \n<a href=\"/dj-page.aspx?id=2265\">Reboot</a> - Umbatou Jambosa \n<a href=\"/dj-page.aspx?id=8038\">Jun Akimoto</a> & Ittetsu - Down on the Corner \nCongas - Promo \n<a href=\"/dj-page.aspx?id=4299\">Dani Casarano</a> & Velipe Valenzuela - La Tulip \n<a href=\"/dj-page.aspx?id=8908\">Terje Bakke</a> - Orangina \n<a href=\"/dj-page.aspx?id=3881\">Motorcitysoul</a> - Cipher (<a href=\"/dj-page.aspx?id=1715\">Sascha Dive</a> remix) \nScarlett meets <a href=\"/dj-page.aspx?id=3705\">Recloose</a> - Moveology \n<a href=\"dj/pablocahn-speyer\">Pablo Cahn-Speyer</a> - Elle \n<a href=\"/dj-page.aspx?id=703\">Daniel Stefanik</a> - Just One Moment \nCesar Maravillas - Chocopop Jazz - <a href=\"/record-label.aspx?id=3656\">Remake Music</a>\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra197/",
+  "keywords": "Reboot, house, deep, cadenza, frankfurt",
+  "artist": {
+    "id": "2265",
+    "__typename": "Artist",
+    "name": "Reboot"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Any DJ keen to smash a big room knows Frank Heinrich, AKA Reboot. In the past few years, he's become a go-to producer for expertly sculpted weekend weapons, complete with plump bass kicks, infectious hooks and as he puts it, \"complex rhythm architecture.\" He's also one of clubland's most in-demand performers, both as a DJ and a live act, which caused him to spend the majority of 2009 in mega-clubs and overnight flights, sometimes playing as many as 20 gigs per month.\n\nSo far, 2010 looks only slightly less grueling for the jet-set producer, though he still sees it as an opportunity to lay low a bit. Once he's back from his current far-flung tour, there's a newly built studio waiting for him in Frankfurt, where he'll have a chance to follow up his debut album, which he recently completed for Cadenza. At least until he takes off again for the next string of gigs. We caught up with Heinrich last week to see how he's holding up, and chat about what the spring holds in store.\n\n<b>What have you been up to recently?</b>\n\nI am touring Asia at the moment. I just had a week in Japan and now I'm stopping over in Singapore, before going back to Europe. I am having a great time here. Lots of amazing people and outrageous parties.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nThe idea is to show a nice range of the stuff I play and love to listen to at the moment. Something like a brief summary of a club set I would play these days.\n\n<b>What's it been like producing your debut album? Have you had to change your approach to songwriting at all? </b>\n\nIt was a new challenge, finding a way to put tracks together that allow you to listen to the whole album without getting bored. I didn't really have to change my approach to songwriting, especially from the technical point of view, but I spent more time than usual on sound design. I wanted all the album tracks to have a certain flow, without repeating each other too much.\n\n<b>In terms of touring, you had an extremely busy 2009. What was the best party you played? </b>\n\nHard to name only one. I had so many amazing parties last year. Some of the highlights were the gigs at Ushuaia, Amnesia and Fabric. But also the festivals: Green & Blue or Timewarp were insane. I can't wait to play all these places again.\n\n<b>What are you up to next? </b>\n\nI have a few gigs in Europe coming up and then I'm off to Mexico, Canada and USA, including WMC. After that it's time for Timewarp! Before I move to Ibiza for the summer I have a three-week holiday in April. Charging the batteries for summer madness.",
+    "blurb": "House music from Frankfurt: Reboot gets funky for the RA podcast."
+  }
+}

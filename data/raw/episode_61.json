@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "61",
+  "url": "https://ra.co/podcast/61",
+  "id": "61",
+  "__typename": "Podcast",
+  "title": "RA.061 Radioclit",
+  "date": "2007-07-10T10:00:05.000Z",
+  "fileSize": 87460777,
+  "duration": "01:12:51",
+  "imageUrl": "https://static.ra.co/images/podcast/ra061-radioclit-cover.jpg",
+  "contentUrl": "/podcast/61",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra061/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:1009"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Euro beat doctors Radioclit are Johan Karlberg and Etienne Tron, whose partnership first hatched into the world as an Internet radio show broadcasting out of London a couple of years back. Their mix of house, disco, B-club, grime and god knows what else ' ('One ear in the hood, another checking out Abba' goes their bio) ' first found its way onto early mix CDs such as 'You Godda Lick It' and 'Careful Clit Clit'. Later they made they name with podcasts, and then DJing at club nights such as Hollertronix in Paris with Diplo and MIA and the Vice pub, The Old Blue Last in London.\n\nRadioclit are also producers: they've remixed a long line of clients including Confetti, One-Two, Shit Disco and Bondo do Role ' the latter of which are especially key: two Radioclit remixes are on Bondo's new album 'With Lasers', while 2ManyDJs has a particular fondness for finishing their sets with their rethink of 'Gasolina'. If you've missed their remix resume up until now, a fine way to catch up is the 'Hard Working Class Vol. 1' compilation, which features unreleased 'Clit remixes of everyone from Lily Allen to Justin Timberlake and Kano.\n\nThis year has been big for Radioclit: They kicked off 2007 with their first EP 'Mature Macho Machine' on Sinden and Switch's Counterfeet label, while Etienne has recently founded his own label Uppercuts, releasing 12's from the likes of Diplo and King Tut. \n\nAnd if you couldn't be bothered reading all that, not to worry - there's a French documentary on Radioclit in the works as we speak.\n\nRadioclit's RA podcast has been in gestation for a while but it's seriously worth the wait, mixing up everything from disco and baile funk to hip-hop and African rhythms with no regard for manners. A note from Radioclit was slipped inside the CD, reading something like this:\n\n<b>What have you been working on recently?</b>\n\nWe just finished a remix, 'Bad Runner', for a new French house prodigy Brodinski, and we went on a jihad techno tip for it. Really happy with it. It's out soon on Mental Groove. The kid is getting plays by Erol Alkan, Soulwax, the Ed Banger crew, etc. He's blowing up like crazy. Our remix is burning down the clubs everywhere we play it. So all goooood. We also put finishing touches to our new 12\" for Counterfeet records called 'Divine Gosa'. It features remixes from Brodinski and Switch and should be out in late July. And we toured America for the first time, including a week in the dirty South, chilling with Devin the Dude, sippin sizzurp and getting us some nice grillz. That was pretty mental.\n\n<b>Where was the mix recorded?</b>\n\nIt was recorded at Etienne Tron's crib, on his own CD decks with a bit of computer editing. It's mostly live though, as you can definitely hear with the few imperfections and rewiiiiiiinds just like in any good old Radioclit set.\n\n<b>What are you up to next?</b>\n\nThese days we're spending most of our time trying to complete an album for Esau Mwamwaya, an African singer from Malawi. So far it sounds like a mix between Paul Simon 'Graceland', Phil Collins and some more traditional African music. We're still cooking up the hot stuff for the clubs though, and working with the occasional rapper. We have recently done a track featuring Santogold and M.I.A that we're very proud of. Hopefully that will come out soon.\n",
+    "blurb": "On the pod this week: London-based ghetto-poppers Radioclit."
+  }
+}

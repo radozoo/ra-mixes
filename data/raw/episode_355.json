@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "355",
+  "url": "https://ra.co/podcast/355",
+  "id": "355",
+  "__typename": "Podcast",
+  "title": "RA.355 Jam City",
+  "date": "2013-03-18T00:00:04.000Z",
+  "fileSize": 61653993,
+  "duration": "00:51:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra355-jam-city-cvr.jpg",
+  "contentUrl": "/podcast/355",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra355/",
+  "keywords": "Jam City, Night Slugs, London, Bass, Classical Curves, grime, Jack Latham",
+  "artist": {
+    "id": "27566",
+    "__typename": "Artist",
+    "name": "Jam City"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jam City scored one of last year's most strikingly different full-lengths with <a href=\"review-view.aspx?id=11574\"><i>Classical Curves</i></a>. The record used stock materials—Chicago house, London grime, Detroit techno—to fashion tracks with little to no antecedents. The closest thing to \"Her\"'s kick rolls and camera flashes or \"Strawberries\"' bizarre brass was, naturally, the Night Slugs roster, which Jack Latham has been a part of from the beginning. He debuted with a trio of refixes on a Night Slugs white label in 2010, which included a killer retouch of Endgames' 1983 track \"Ecstasy.\" The follow up, the weird and woozy <a href=\"review-view.aspx?id=8476\"><i>Magic Drops</i></a>, was the ninth (official) release on Night Slugs, fitting snuggly among their ranks with its shared emphasis on innovation and influence from visual arts. 2011's <a href=\"review-view.aspx?id=9592\"><i>Waterworx</i></a> furthered his message, its five tracks careering from one mood to the next.  \n\nThere is an impressive follow-through between Night Slugs artists' productions and their DJing, and on his mix for us Latham holds down some of the disparate clubs sounds that feed into his style. He's playing <a href=\"/event.aspx?448732\">our party</a> at Manchester's <a href=\"news.aspx?id=18943\">FutureEverything</a> this coming weekend, where you can hopefully expect the same level of bass, R&B, grime, house and unreleased Jam City tracks he serves on R.355. \t \n\n<b>What have you been up to recently?</b>\n\nDJing and working on my next EP.\n\n<b>How and where was the mix recorded?</b>\n\nAt the onset of a thunderstorm with two 1210s and lots of candles, then fed to a hungry computer for extra seasoning. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's just about having fun and dancing with your friends; that's all it's ever about, moving your ass and letting your mind wander. Stretching out.\n\n<b>You were inspired by some pretty specific imagery on <i>Classical Curves</i>. Are there any scenes or themes you're presently looking to manifest in music?</b> \n\nThe stuff I'm working on right now comes from my orchids on the windowsill; my sisters; a world without money; a world without zones.\n\n<b>You'd mentioned last year that you were working on a mini-movie. Did it come to fruition?</b>  \n\nIt will maybe surface one day. It's stuck behind the jaws of copyright hell.\n\n<b>What are you up to next?</b> \n\nYou can expect an EP of <i>Club Constructions</i> for Night Slugs this year, and more and more and more shows, so come say hi.",
+    "blurb": "The Night Slugs mainstay invites you to move your ass. "
+  }
+}

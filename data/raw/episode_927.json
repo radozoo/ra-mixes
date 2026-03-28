@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "927",
+  "url": "https://ra.co/podcast/927",
+  "id": "927",
+  "__typename": "Podcast",
+  "title": "RA.927 Sugar Free",
+  "date": "2024-03-10T23:00:02.000Z",
+  "fileSize": 185959781,
+  "duration": "01:17:29",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-927-sugarfree1x1.jpg",
+  "contentUrl": "/podcast/927",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra927-sugar-free/",
+  "keywords": "",
+  "artist": {
+    "id": "42057",
+    "__typename": "Artist",
+    "name": "Sugar Free"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Of all the Berlin DJs who make a living spinning strange, I'm-not-sharing-the-tracklist kind of records, Sugar Free, originally hailing from Madrid, might be the most fun. She plays bold, colourful tracks with an air of sci-fi and sleaze, somewhere between Italo, hi-NRG, electro and house. (Her Dimensions Mix last year was one of our <a href=\"/features/4276\" target=\"_blank\">favourites</a> of 2023.) She's the kind of DJ who messes with your perception of genres and tempos by how she blends tracks together, and also a DJ with a rare grasp of mixing melodies and moods—just check out the first transition of this <i>RA</i> Podcast for a spine-tingling example.\n\nSugar Free doesn't speak much publicly, and you won't find a lot about her on the internet. She prefers to let her DJing speak for itself. And her <i>RA</i> Podcast says a lot: proggy basslines, heart-in-mouth descents into reverb-heavy breakdowns, eerie vocals and a general feel of psychedelia and '80s decadence. It's difficult to tell what era these records are from, which is part of the charm. For a bonus point, try and pick out two just-completed Sugar Free originals, some of her first productions ever after her <a href=\"https://limousinedream.bandcamp.com/album/tsol-the-sound-of-limo\" target=\"_blank\">debut track</a> came out on Limousine Dream in 2022.\n\n<b>What have you been up to recently?</b>\n\nAfter taking a break in January to focus on production and resting—which I find crucial for the touring life and my mental health—I've come back to travel and play gigs. I'm feeling more motivated than ever.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThis mix was recorded using two Technics SL-1200 turntables, two Pioneer XDJ700s and a Rane MP2016 mixer at my home. My best friend's birthday and mine are on the same day—March 18th—so knowing the mix was gonna come out close to that date, I've decided to dedicate it to her. We were even born in the same year and she inspires me daily, so imagining she'd be dancing to those tracks made it way easier while not having an actual dance floor in front of me. I've also tried to showcase sounds I've resonated with lately, while telling a story.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nOne of the biggest inspirations for me in the last few years was No Way Back at Tangent Gallery in Detroit during Movement weekend last year. Detroit is a city that reminds you something: what really makes a true artist is the experience. And that party was the perfect example of that.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b> \n\nThe genocide happening in Gaza. Being impartial isn't an option anymore. Get informed about what's happening, keep donating, going to demonstrations and if you have a platform, don't stay silent.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm looking forward to releasing my first EP later this year. It's the first time ever I've been playing my own tracks in clubs and it's one of the best feelings in the world. I can't wait to listen to them played by other artists once it's out—that must feel even better.",
+    "blurb": "Deliciously rare records with a wicked streak."
+  }
+}

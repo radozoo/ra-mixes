@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "80",
+  "url": "https://ra.co/podcast/80",
+  "id": "80",
+  "__typename": "Podcast",
+  "title": "RA.080 Underworld",
+  "date": "2007-11-26T12:00:57.000Z",
+  "fileSize": 77708739,
+  "duration": "01:04:44",
+  "imageUrl": "https://static.ra.co/images/podcast/ra080-underworld-cover.jpg",
+  "contentUrl": "/podcast/80",
+  "tracklist": "01. <a href=\"dj-page.aspx?id=928\">Martin Buttrich</a> - Hunted - <a href=\"/record-label.aspx?id=352\">Cocoon</a>\n02. Etienne Jaumet - Repeat Again After Me (<a href=\"dj-page.aspx?id=698\">Ame</a> Remix) - <a href=\"/record-label.aspx?id=735\">Versatile</a>\n03. Marlon D - Jesus Creates Sound - <a href=\"/record-label.aspx?id=1119\">Strictly Rhythm</a>\n04. <a href=\"dj-page.aspx?id=1366\">David K</a> - Three Arches - <a href=\"/record-label.aspx?id=1012\">Tsuba</a>\n05. <a href=\"dj-page.aspx?id=193\">Underworld</a> - Lenne Penne (Darren Price Remix) - <a href=\"/record-label.aspx?id=1187\">Underworldlive</a>\n06. <a href=\"dj-page.aspx?id=193\">Underworld</a> - Crocodile (<a href=\"dj-page.aspx?id=875\">Oliver Huntemann</a> Remix) - <a href=\"/record-label.aspx?id=1187\">Underworldlive</a>\n07. <a href=\"dj-page.aspx?id=996\">Pan-Pot</a> - Charly (<a href=\"dj-page.aspx?id=751\">Anja</a> Remix) - <a href=\"/record-label.aspx?id=772\">Mobilee</a>\n08. <a href=\"dj-page.aspx?id=277\">Tiefschwarz</a> - No More Trouble (Turntablerocker Remix) - <a href=\"/record-label.aspx?id=863\">Souvenir</a>\n09. Darren Price - Shake That Higher\n10. Jim Peters - Lets Work\n11. <a href=\"dj-page.aspx?id=193\">Underworld</a> - Beautiful Burnout (Pig and Dan Remix) - <a href=\"/record-label.aspx?id=1187\">Underworldlive</a>\n12. Compuphonic & <a href=\"dj-page.aspx?id=1679\">Kolombo</a> - Emotion - <a href=\"/record-label.aspx?id=507\">Turbo</a>\n13. <a href=\"dj-page.aspx?id=1366\">David K</a> - Three Arches (Remix) - <a href=\"/record-label.aspx?id=1012\">Tsuba</a>\n14. Butch - On the Line (<a href=\"dj-page.aspx?id=934\">Oxia</a> rmx) - <a href=\"/record-label.aspx?id=\">Great Stuff</a>\n15. <a href=\"dj-page.aspx?id=193\">Underworld</a> - Beautiful Burnout - (<a href=\"dj-page.aspx?id=819\">Mark Knight</a> Remix) - <a href=\"/record-label.aspx?id=1187\">Underworldlive</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra080/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:193"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Rick Smith and Karl Hyde are at the top of the electronic dance pyramid with five studio albums, scores of world tours and almost thirty years of production experience under their belt. Underworld are especially loved for their live shows, which combine Hyde's theatrics, Smith's bank of electronics and some of the most eye-popping visuals around. Recently, they've been branching out into unknown territory, scoring Hollywood movies and taking back control of their music via their Underworldlive record label and website, where fans keep up to date with the band via Underworld radio shows, videos and web rantings. In fact 2007 has been a big year for the band - last month they released their first studio album in five years, <a href=\"/review-view.aspx?id=4824\">Oblivion With Bells</a> in between a string of gigs around the globe, interrupted only, it seems, for health reasons. The tour just resumed this weekend in Tokyo after Smith saw off a bout of bad pneumonia. Welcome back to the frontlines, Mr. Smith.  \n\nUnderworld are a resolutely live act so their exclusive Misteron DJ mix for the RA Podcast is an extra special treat. Check out Smith & Hyde behind the decks on this sixty-five minutes of top quality Underworld tracks and selections from the best in house and techno.\n\nAnswers from Romford:\n\n<b>What have you been working on recently?</b>\nRecovering from extreme ill-health. Then putting out another live web radio broadcast from a secret nuclear envelope in Essex.\n\n<b>Where was the mix recorded?</b>\nAt Lemonworld Studios, in a pigshed near Romford.\n\n<b>What are you up to next?</b>\nTouring Japan. Curating the first of the 'Oblivion Ball' gatherings at an all-nighter outside Tokyo with Underworld & guests Andrew Weatherall, Simian Mobile Disco, 120Days and The Orb.\n\nAlso staging a major art performance event in Tokyo with our art-jamming partners Tomato & all night cinema showing some of the films Underworld has scored or provided music for.",
+    "blurb": "This week's RA podcast is a rare DJ set from electronic gents Underworld."
+  }
+}

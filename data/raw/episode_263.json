@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "263",
+  "url": "https://ra.co/podcast/263",
+  "id": "263",
+  "__typename": "Podcast",
+  "title": "RA.263 Marcelus",
+  "date": "2011-06-13T00:01:34.000Z",
+  "fileSize": 77863095,
+  "duration": "01:04:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra263-marcelus-cvr.jpg",
+  "contentUrl": "/podcast/263",
+  "tracklist": "<i>No tracklist provided</i>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra263/",
+  "keywords": "Marcelus, Deeply Rooted House, Techno",
+  "artist": {
+    "id": "24518",
+    "__typename": "Artist",
+    "name": "Marcelus"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"No way!\" (or something along those lines) was our immediate reaction to Marcelus' <a href=\"/review-view.aspx?id=8608\"><i>EP 1</i></a>. It seemed astounding that the four tracks, released late last year through DJ Deep's Deeply Rooted House, represented French producer Cédric Bros' debut release, such was their fluidity and assuredness. The 25-year-old Paris-based producer followed up a few months later with <a href=\"/review-view.aspx?id=8948\"><i>EP 2</i></a> and confirmed what we had first suspected: that Marcelus was definitely on to something. His style to date has sat somewhere near to that of Berghain's more house-inclined residents, although tracks such as \"Sulfuric,\" with its raging acid lines, have proved him unafraid to tear down this shroud of subtlety. \n\nSo with our interest officially piqued we asked Marcelus to turn in a mix—in a little over an hour's worth of atmospheric house and gritty techno he'd demonstrated his DJ skills to be on par with those of his superlative productions. \n\n\n<b>What have you been up to recently?</b>\n \nI've been working on some music, a remix for Deeply Rooted House. I finished a track for a compilation on Ann Aimee, and I had a nice gig in Turin too.\n \n<b>How and where was the mix recorded?</b>\n \nThe mix was recorded at home with vinyl and a Xone:92.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n \nIt's a techno mix; I just wanted to play some records I love, some old and some more recent tracks.\n\n<b>How did you hook up with DJ Deep?</b>\n \nI tried to reach him at the Rex club and on his e-mail, because he is the guy here for house and techno, so I insisted and he finally listened to my demos. We met near Bastille, then he told me he wanted to release a record—it was \"Perception,\" \"Friction\" etc and the <i>EP 1</i> came out like this. \n\n<b>What are you up to next?</b>\n \nI am working on new tracks for DJ Deep at the moment, on a remix for Ascion's new label and I'm planning to open my own label next year.",
+    "blurb": "A major new techno talent steps up. "
+  }
+}

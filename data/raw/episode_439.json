@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "439",
+  "url": "https://ra.co/podcast/439",
+  "id": "439",
+  "__typename": "Podcast",
+  "title": "RA.439 Lowtec",
+  "date": "2014-10-27T00:00:56.000Z",
+  "fileSize": 207716781,
+  "duration": "01:26:27",
+  "imageUrl": "https://static.ra.co/images/podcast/ra439-lowtec-cvr.jpg",
+  "contentUrl": "/podcast/439",
+  "tracklist": "Soft Focus – EEG (Sähkö Recordings)\nSimone White - Flowers In May (Kassem Mosse Remix) (Forthcoming Honest Jon's)\nDean Blunt  - Papi – MMIX (Hippos In Tanks)\nDalhous - He Was Human And Belonged With Humans (Blackest Ever Black)\nRo70 AKA Roman Flügel – Alma (Source Records)\nEven Tuell & Midnightopera  - Workshop Special 02 (Workshop)\nAlex Cortex - Laconic C1 (Source Records)\nMarsen Jules - Coeur Saignant (City Centre Offices)\nMoondog - All Is Loneliness (Honest Jon's)\nTapes - Where Is The Time (Jahtari)\nJohn T Gast – Exile (Men Scryfa)\nKelpe - Double Punt (Svetlana Industries)\nDj Vadim - Variations In U.S.S.R. (DJ Krush Remix) (Ninja Tune – Jazz Fudge)\nBannlust – Bannlust (Craft Records – Sabotage Commuications)\nFabric - Split Guest (Meandyou)\nMonkey Maffia – Berk (Fatplastics)\nSatellite – Satellite (Vlek)\nPaid Reach - Tracking (Forthcoming Paid Reach 7-inch on Ominira)\nZomby - Ascension (4AD)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra439/",
+  "keywords": "Jens Kuhn, Workshop, Out to Lunch, Even Tuell, Kassem Mosse, Move D, house, techno",
+  "artist": {
+    "id": "7178",
+    "__typename": "Artist",
+    "name": "Lowtec"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Lowtec, real name Jens Kuhn, set up Workshop Records with Even Tuell in 2006—before that he ran his own label, Out To Lunch. Kuhn was responsible for the first Workshop 12-inch and since then the label has become synonymous with a sound—warm, lean, dryly funky—and also a style, one that's based on quality over quantity: limited vinyl, high-end packaging and an unhurried release schedule. This idea of restraint runs deep through the Workshop ethos. \"There are a lot of ideas and many plans,\" Kuhn tells us, \"but we don't have the urge to execute them right away.\"\n\nWorkshop and Lowtec continue to flourish. The label has relied on a tight circle of artists, like Kassem Mosse and Move D, to release consistently high quality productions, while Kuhn has spread his wings, putting out records on labels like Laid, Brainmath and NonPlus. He returned home in style this year with <a href=\"/review-view.aspx?id=15484\"><i>Workshop 20</i></a>, his first solo record on his label since 2008. \n\nLowtec's RA podcast encapsulates all that's great about the artist and his label, striking a balance between pretty home listening, abstract electronics and robust club sounds.\n\n\n<b>What have you been up to recently?</b>\n\nRecently I've finished some remixes and a 12-inch for a friend who's starting a new label. Beside that I've been working on my new live set. Much of what was planned for 2014, like essential label work, remains undone, so I decided to slow down and shift into low gear. I canceled all my gigs until the end of the year, except for a short Japan trip in November, which I'm looking forward to. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded on two Technics 1210s and a cheap mixer in my apartment.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe intension of the mix was to show what kind of music touches me most at the moment. The mood was inspired by the amazing <a href=\"http://inverted-audio.com/mix/lawrence/\"><i>Inverted Audio</i></a> mix by Lawrence, which I strongly recommend.\n\n<b>What music has been interesting you most this year?</b>\n\nI think my mix selection gives a good overview of the music that has been interesting me most this year. Every track has a special meaning for me. Some are new tunes and some old ones I took from the shelves. There is so much inspiring music out there waiting to be discovered: PAN, Editions Mego, Vlek, the Will Bankhead TTT cluster, Dynamo Dreesen, Latency, Dial. I also rediscovered the back catalogue of Source Records and the old Benjamin Brunn 12-inches, Sabotage Communications and Cheap Records Vienna—but that reflects only a small part of what I'm listening to.\n\n<b>What do the next 12 months have in store for Workshop Records?</b>\n\nKeep an eye on Hardwax.com! As usual we never have any fixed schedules. There are a lot of ideas and many plans, but we don't have the urge to execute them right away. And after the great <a href=\"/review-view.aspx?id=14561\">Kassem Mosse LP</a> and my 12-inch I can promise another idiosyncratic release on Workshop by the end of this year. \n\n<b>What are you up to next?</b>\n\nI'll play two shows in Japan at the end of November. Beside this I'm also working on a 12-inch for Avenue 66, a sublabel of Absurd Records. Last but not least, many thanks to Gunnar for the unreleased tracks and Lawrence for the inspiration.\n\nPhoto credit: <a href=\"https://www.flickr.com/photos/passetti/\">Rene Passet</a>",
+    "blurb": "Enter the Workshop."
+  }
+}

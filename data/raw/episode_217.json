@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "217",
+  "url": "https://ra.co/podcast/217",
+  "id": "217",
+  "__typename": "Podcast",
+  "title": "RA.217 Jef K",
+  "date": "2010-07-26T00:00:51.000Z",
+  "fileSize": 74205133,
+  "duration": "01:01:49",
+  "imageUrl": "https://static.ra.co/images/podcast/ra217-jef-k-cover.jpg",
+  "contentUrl": "/podcast/217",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra217/",
+  "keywords": "Jef K, France, Deep, House, electronic, Ricardo Villalobos, In My System, The Gathering, Techno",
+  "artist": {
+    "id": "9575",
+    "__typename": "Artist",
+    "name": "Jef K"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Anyone bothering to handicap the year-end polls of dance music that mattered in 2010 will likely need to slot in Parisian DJ Jef K's remix of The Gathering's \"<a href=\"/track.aspx?165796\">In My System</a>\" somewhere near the top. The track has stormed deeper dance floors this year, its infectious bassline a standby in discerning jocks' crates the world over. \n\nK is a DJ first, though, honing his craft since the early '90s after a lengthy visit to the UK opened up his ears to the sound of US garage. K took \"the vibes,\" as he puts it, to Paris and, in turn, became one of the city's most respected spinners, earning himself a residency at Rex Club in 1998. He brought Dixon to town for the Innervisions' head first gig outside of Germany, orchestrated Herbert's first live show in Paris and also held residencies at Frankfurt's Robert Johnson and Brussels' Fuse as well. All this in addition to running Silver Network and co-helming the beloved Crack & Speed imprint. Needless to say, the man's house bona fides are unquestioned. In his hour-long mix for RA, you'll begin to hear why.\n\n<b>What have you been working on recently?</b>\n \nI've been working on music recently, after the great feedback from The Gathering's \"In My System.\" I now have a few tracks ready that I did with my mate Gwen Maze from Paris. I've also been touring around. I just came back from beautiful Croatia, and will be on my way to China in a bit.\n\n<b>How and where was the mix recorded? </b>\n\nIt was one of those sunny Sunday morning sessions, after a good gig at Nouveau Casino in Paris. There was only me and my beautiful Korean queen at home. I pressed record and played good tunes for her.\n\n<b>Can you tell us a little about the mix?</b>\n \nI really enjoy playing slow. This mix starts at 117 BPM and finishes at 120. It's the best way to hear the basslines, which is to me (and others) the most important thing in music. The tunes were some of the best I had at the time.\n\n<b>Who was it that inspired you to become a DJ when you were in London?</b>\n\nI was a big fan of Paul 'Trouble' Anderson's shows on KISS FM. I was going out to where he was playing. I remember the Kinky Disco night at Shaftburry's was excellent as well. They were playing all the good tunes from labels like Strictly Rhythm, producers like Victor Simonelli and Joey Negro. Really underground US garage was the thing for me. I was also a big fan of Colin Dale's shows, and the pirate drum & bass shows had a great energy as well. I started buying records there, and started DJing in Paris when I came back in 1992, bringing the good vibes that I heard in London.\n\n<b>Up until now, you've focused on collaborations in the studio. Can we expect any solo productions anytime soon?</b>\n\nIt's fun to work in the studio with a good mate. I like the exchange of ideas. I'm also not totally able to work all alone. My first try to do this was the remix of The Gathering. I did it on Ableton alone on my little computer (with, of course, the beautiful vocals from Chez Damier and good help from Chris Carrier for the sound quality at the end). It worked pretty well, so I'm in the process of doing more solo productions now. Stay tuned.\n \n<b>Has Crack & Speed now firmly been put to rest, or will it see a return?</b>\n\nCrack & Speed was, at the beginning, a good joke. It started in NYC with my man Holmar Filipsson and Jack from DIY. Then Sasse, AKA Freestyle Man, came on board really quick. We were really surprised about the great feedback we had, and even managed to have artists like Jay Haze and Abe Duque working for us on this label. After 15 releases we decided to stop it, and it's now in the vaults of many record collections I guess. No digital releases are planned and no more website, I think it's cool to keep it like that.\n\n<b>What are you up to next?</b>\n\nI am right now preparing the September releases  with some yummie remixes of \"In My System\" on my label Silver Network (still going on since 1999, 27 releases so far), working on music, working on music, working on music and touring, hopefully DJing in a city near you soon.",
+    "blurb": "The veteran Parisian DJ lays down an hour-long session of sumptuous bassline-led house music."
+  }
+}

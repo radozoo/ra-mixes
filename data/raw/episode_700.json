@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "700",
+  "url": "https://ra.co/podcast/700",
+  "id": "700",
+  "__typename": "Podcast",
+  "title": "RA.700 Powder",
+  "date": "2019-10-28T00:00:59.000Z",
+  "fileSize": 277832642,
+  "duration": "01:55:35",
+  "imageUrl": "https://static.ra.co/images/podcast/ra700-powder-cvr.jpg",
+  "contentUrl": "/podcast/700",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/702794581",
+  "keywords": "Moko Shibata, Tokyo, Nagasaki, Thinner Groove, Planet Be, 5ive, Sonic Weapon, K-Line, Mago ",
+  "artist": {
+    "id": "60476",
+    "__typename": "Artist",
+    "name": "Powder"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"Powder doesn't carpet bomb dance floors with diva vocals, jacking drums or white-noise risers,\" wrote Elissa Stolman of this year's <a href=\"/reviews/23502\"><i>Powder In Space</i></a> compilation. \"She subtly moves bodies with grooves that feel more implied than material.\" This explains how the Japanese DJ, real name Momoko Goto, has quietly become one of the best and most in-demand DJs on the circuit. \n\nWhen we first checked in with Powder, for a Breaking Through <a href=\"/features/2716\">feature</a> in 2016, she was juggling her musical career with an office job in a Tokyo skyscraper. Back then, she told us she couldn't imagine life where she wasn't juggling her music with the nine-to-five life. Three years on, she no longer works in that office, and her inbox is overflowing with offers to DJ around the world.\n\nThe 700th <i>RA</i> Podcast captures Powder in full flow. It was recorded in the midst of a nine-hour set, from around 4 AM until 6 AM, during her recent tour. In the space of two hours we hear subtle, entrancing loops and grooves, with the energy ebbing and flowing towards a thrilling crescendo. The recording fizzes with live energy (including occasional whoops and cheers), showcasing a DJ at the top of her game. \n\n<b>What have you been up to recently?</b>\n\nI released a mix CD called <i>Powder In Space</i> from Beats In Space from NYC. After that, I toured from North America, South America, Europe and the Middle East. Came back home quite recently and was spending time with my family in Nagasaki. I will be back touring in Asia from November.\n\n<b>How and where was the mix recorded?</b>\n\nIt was a partial recording from a set I have played at a local club during my tour. I played all night, nine hours. This was around 4 AM till 6 AM during that set. \n\n<b>Can you tell us about the idea behind the mix?</b> \n\nI try to put together all kinds of grooves I learn or experience during my tour. First I translate those grooves to make sense for myself, and then I try to play it out with some adjustments to fit each environment. I try to feel the transitions of songs or tracks getting mixed over and over to a point it gets watered down, losing its original meaning. Once I could do this right, I try to go to a next step, and I just repeat doing this.\n\n<b>It's been three years since we spoke to you for a Breaking Through feature. What has life been like for you since then?</b>\n\nI have more opportunity to perform outside Japan, and along with it, I decided to keep continue to tour around. I'm away from home half of the year.\n\n<b>Tell us about what you've got in store for your new label, Thinner Groove.</b> \n\nIn January, we released the <i>Planet Be</i> EP by 5ive. The second release is also an EP called just <i>G</i>, produced by old friends, Sonic Weapon and K-LINE. In November, we will put together a release party at their hometown club, Mago.\n\n<b>What are you up to next?</b>\n\nNot exactly sure of happens in the future but for now, I would love to focus on making music.\n",
+    "blurb": "Our 700th podcast is a masterclass in entrancing grooves. \r\n"
+  }
+}

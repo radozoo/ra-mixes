@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "549",
+  "url": "https://ra.co/podcast/549",
+  "id": "549",
+  "__typename": "Podcast",
+  "title": "RA.549 Volvox",
+  "date": "2016-12-05T00:00:44.000Z",
+  "fileSize": 174127714,
+  "duration": "01:12:27",
+  "imageUrl": "https://static.ra.co/images/podcast/ra549-volvox-cvr.jpg",
+  "contentUrl": "/podcast/549",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/296268446",
+  "keywords": "Techno, Jack Dept, Bossa Nova Civic Club, Discwoman, ",
+  "artist": {
+    "id": "23980",
+    "__typename": "Artist",
+    "name": "Volvox"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Volvox is one of New York City's hardest-working techno DJs. She often plays the 7 AM shift, not just because her music's suited to it, but because promoters know the crowd will stick around until she's done. Otherwise you'll find her at Jack Dept., her Friday night residency at the much-loved Brooklyn dance spot Bossa Nova Civic Club. She runs the event with her longtime collaborator John Barera, and this summer they launched <a href=\"/record-label.aspx?id=13938\">a label</a> of the same name. The São Paulo-born DJ is also an original member of <a href=\"/promoter.aspx?id=56649\">Discwoman</a>, an international collective that aims to uplift female-identified artists. \n\nWhen DJing, Volvox has a few different gears, depending on the size of the room and the time of night. At Bossa, a tiny dance spot filled with art school punks, she's usually packing acid tracks and oddball hardware jams, mixed in with some industrial and EBM. But when, say, Robert Hood hands over the controls at a 1,000-capacity warehouse, her sound curls up into something more austere and unforgiving. Volvox's mix for us skews more towards the former—a grip of gnarled electro and acid tunes that ooze personality and charisma. \n\n\n<b>What have you been up to recently?</b>\n\nI recently returned from my first European tour, and I couldn't be more grateful to Discwoman and Oliver Seaman at Earth Agency for putting together such a stellar and seamless experience. It was wonderful to visit so many new cities and such an honor to play at some of the best clubs in the scene. Every party was truly off the chain. I was amazed by the enthusiasm of the dancers! Panorama Bar was such a special way to end the whole thing, and it was a dream come true to look out onto a room full of old and new friends in attendance. Also, having Mike Servito hand the room off to me really just meant the world. Now I'm back in New York with a massive to-do list to catch up on!\n\n<b>How and where was the mix recorded?</b>\n\nThis mix was recorded in my basement studio in Bed-Stuy, on a borrowed Pioneer XDJ-RX. I don't generally vibe on controllers but this thing is extremely easy and convenient to record mixes with.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to feature plenty of North and South American producers, as well as relatively unknown European producers working in an acid-inspired style to give a general picture of the raw, gritty attitude that characterizes the New York underground sound. \n\n<b>You just launched a record label called Jack Department. What's your vision for the label?</b>\n\nJack Dept. the label is an extension of the party of the same name that John Barera and I have been throwing at Bossa Nova Civic Club for the last three years. The label's sound is focused on moody strains of techno, acid and electro. I'm working hard to push lesser-known North and South American producers, though our scope is not strictly limited to these areas. I'm interested in removing as many obstacles from the release process as possible, and for that reason we are operating as a digital-only label. I also handle all the art direction myself. \n\n<b>How would you describe what's happening in the world of New York techno these days?</b>\n\nThe scene in New York is exploding! It's great to see all the artists that have been really pushing things for the last few years receiving international praise and going on tour. It seemed like half of our scene was in Berlin this summer. Quality events are happening all the time, weekday or weekend, and new labels are popping up all over the place. It's thrilling to be part of what's going on here right now and it pushes me to always do more.\n\n<b>What are you up to next?</b>\n\nRight now I've got some Jack Dept. releases that need cover art, another mix to record, and of course more music research! I feel like I really used up a lot of my material on the Euro tour and I need to majorly restock on fresh jams. I'm also planning out the next year right now, it looks like I'll be on tour a lot in 2017! \n",
+    "blurb": "Twisted techno from a New York DJ on the rise. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "353",
+  "url": "https://ra.co/podcast/353",
+  "id": "353",
+  "__typename": "Podcast",
+  "title": "RA.353 Dense & Pika",
+  "date": "2013-03-04T12:12:20.000Z",
+  "fileSize": 74445959,
+  "duration": "01:01:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra353-dense-pika-cvr.jpg",
+  "contentUrl": "/podcast/353",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra353/",
+  "keywords": "Dense, Pika, techno, Glimpse, Hypercolour, Chris Spero, Alex Jones, UK",
+  "artist": {
+    "id": "39425",
+    "__typename": "Artist",
+    "name": "Dense & Pika"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The sharper viewers who caught <a href=\"http://boilerroom.tv/dense-pika-live-in-the-boiler_room/\">Hotflush's Boiler Room takeover</a> a couple of weeks back might have recognized the two figures who stepped up to perform as Dense & Pika. Chris Spero, the bespectacled gentleman on the left of the frame, is otherwise known as UK house and techno producer Glimpse; beside him was Alex Jones, Hyperolour co-founder and producer in his own right. The 45-minute live set was an uncompromising succession of warehouse techno bangers. Spero programmed beats on a 909, while Jones punched in samples and melodies. Their performance seemed like an indication of their aims and methods as Dense & Pika: since their anonymous white label series surfaced in mid-2011, the name has been shorthand for jammed-out, club-ready techno. You could see anything on the series' four 12-inches working a floor, but of particular note has been \"Bad Back,\" Cartoon Heart\" and \"31.\" The latter was re-released by Hotflush alongside two new productions at the end of last year, with the promise of more material to come in 2013.  \n \nThe pair will be joining us on RA's <a href=\"/event.aspx?441970\">Dimensions Festival</a> stage in early September (more details to follow). In the meantime, tide yourself over with this full-throttled, 31-track beast. \n\n<b>What have you been up to recently?</b>\n\nRecently we have been touring our live set and have just finished the next Hotflush EP, due out in the summer. We are also working on d&p 005, hopefully for release in April, and also remixing Foals, which is proving an interesting challenge and something a bit different. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded live in our studio in West London on two turntables, a mixer, a Roland 909 and Ableton.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nThe aim was to represent what we are about musically. Nothing too complicated or chin-stroking, just interesting techno aimed at the dance floor.   \n\n<b>How does the Dense & Pika project differ from what you guys have been doing solo?</b>\n\nDense & Pika is a completely different project and the aim is to keep them as separate as possible. The tracks are mainly the result of long recording sessions with both of us working on various bits of kit at the same time.  \n\nWe would never get the same result from working on our own. So it's kind of collaboration in its truest form. It's not necessarily better or worse, it's just a different working method we both prefer. If you have two pairs of hands on then you create options that you would not get with one person working solo and the result will be different. It then gets edited afterwards.  \n\n<b>Why did you choose such a low-key approach to releasing your music?</b> \n\nWe both had the idea of doing a techno project that was based around having as much fun as possible in the studio with hardware. So we started our white label and put some records out. We figured that if it worked out we would start touring; if it didn't then we have lost nothing. There was never any massive plan to be anonymous or mysterious.\n\n<b>What are you up to next?</b> \n\nWe are looking forward to working more with Hotflush and developing things naturally. There are also some exciting gigs lined up in the coming months.",
+    "blurb": "Warehouse techno. "
+  }
+}

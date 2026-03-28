@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "371",
+  "url": "https://ra.co/podcast/371",
+  "id": "371",
+  "__typename": "Podcast",
+  "title": "RA.371 Black Coffee",
+  "date": "2013-07-08T00:00:03.000Z",
+  "fileSize": 76585365,
+  "duration": "01:03:33",
+  "imageUrl": "https://static.ra.co/images/podcast/ra371-black-coffee-cvr.jpg",
+  "contentUrl": "/podcast/371",
+  "tracklist": "Cosmic Gate feat J Something - Over the Rainbow (Da Capo's Surreal Touch) \nBlack Coffee feat Soulstar - Rock My World (EnaWadan Remix)\nNastee Nev feat Mathabo Mohoali - Melodies Of Love\nGlen Lewis - Ndiyo Ndiyo\nCuloe de Song feat Ternielle Nelson - Why Haven't I \nLouie Vega feat Johhny Dangerous - London Roots (Uhuru Remix)\nGlen Lewis - Good One (Culoe de Song Remix)\nBlack Motion - Unknown",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra371/",
+  "keywords": "House, Africa, South Africa, Soulstic Music, Nathi Maphumulo",
+  "artist": {
+    "id": "33234",
+    "__typename": "Artist",
+    "name": "Black Coffee"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "How many DJs do you know who get mobbed on the street? Well, South Africa has many of them, and none more so than Nathi Maphumulo, AKA Black Coffee, the country's most widely recognised star. As we discovered in our <a href=\"/feature.aspx?1754\">Real Scenes: Johannesburg</a> film earlier this year, South Africans are the biggest consumers of house music in the world, with a nationwide scene that stretches from tiny <a href=\"http://en.wikipedia.org/wiki/Shebeen\">shebeens</a> in townships to enormous festival stages. It's easy to see why Maphumulo has risen to the top. He produces music that transcends the dance floor—see \"Superman,\" \"Rock My World\" or any other of his many hits—and his humble and hardworking demeanour has made him something of a role model in the country's rapidly developing scene. \n\nHe is, of course, also an excellent DJ. Like many of his compatriots, Maphumulo favours soulful, percussive house that embraces melody and vocals. His busy style—full of FX, fader tricks and loops—has influenced a generation of South African DJs, and he brings that flair to the table on RA.371. \n\n<b>What have you been up to recently?</b>\n\nI've been travelling around South Africa, also Angola and Mozambique and working on Tumelo's album when back in Johannesburg. \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in my home studio as we are busy moving studios at Soulistic Music.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nMy idea was to showcase the different styles of music I play as a DJ and also a bit of what I love in terms of production. I love building up my sets with the more vocal but groovy tunes then pick it up a bit as I go on. \n\n<b>Does it feel as though the international dance music community is finally waking up to what's going on in South Africa?</b> \n\nYeah I feel so. My dream, though, is to see more South African DJs sharing the stage with other international DJs outside South Africa, on the big international stages and festivals around the world. I believe we have more to offer.\n\n<b>Which new South African producers should people be looking out for?</b> \n\nJullian Gomes, Black Motion, Da Capo, Keys Snow, Soulstar, Darque… too many to mention them all.\n\n<b>What are you up to next?</b>  \n\nI'm planning another Africa Rising show in Durban for December. We want to grow it more so it can be a two-day event, with the first day having classes and career guidance for high school kids, then DJ performances at night. Then the next day, have other bands with Africa Rising headlining. We are still working on that and also trying to find likeminded sponsors.",
+    "blurb": "Africa's biggest DJ steps up. \r\n"
+  }
+}

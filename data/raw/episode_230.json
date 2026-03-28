@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "230",
+  "url": "https://ra.co/podcast/230",
+  "id": "230",
+  "__typename": "Podcast",
+  "title": "RA.230 Alan Howarth",
+  "date": "2010-10-25T00:01:10.000Z",
+  "fileSize": 74139290,
+  "duration": "01:01:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra230-alan-howarth-cover.jpg",
+  "contentUrl": "/podcast/230",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra230/",
+  "keywords": "Alan Howarth, John Carpenter, Halloween, Film score, soundtrack, horror",
+  "artist": {
+    "id": "20026",
+    "__typename": "Artist",
+    "name": "Alan Howarth"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "You may not know the name Alan Howarth, but you'll surely have heard his music before. He's been involved with the sound design of movies like <i>Raiders of the Lost Ark</i>, <i>Poltergeist</i> and all of the <i>Star Trek</i> movies. Some of his finest work, though, has come in collaboration with John Carpenter, whose soundtrack to <i>Escape from New York</i> has been beloved, rinsed and re-edited by countless DJs. Renowned for his murky and unstable atmospheres, Howarth's work is perfect for this time of year, which is exactly why we asked him to delve into his archives to provide a special Halloween mix in honor of his performances at this year's <a href=\"/event.aspx?157336\">Unsound festival</a>.",
+    "blurb": "John Carpenter's frequent soundtrack collaborator embraces the darkness in advance of Halloween."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "60",
+  "url": "https://ra.co/podcast/60",
+  "id": "60",
+  "__typename": "Podcast",
+  "title": "RA.060 Future Loop Foundation",
+  "date": "2007-07-03T13:29:10.000Z",
+  "fileSize": 74658300,
+  "duration": "01:02:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra060-flf-cover.jpg",
+  "contentUrl": "/podcast/60",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra060/",
+  "keywords": "",
+  "artist": {
+    "id": "0",
+    "__typename": "Artist",
+    "name": null
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Future Loop Foundation is Englishman-in-Berlin Mark Barrott, who over the years has worn many musical hats. In the nineties he made ambient drum'n'bass and jazz-tinged downtempo, while in the early noughties he even soundtracked commercials and programmes on the telly like the 2002 World Cup broadcast. He's also the first RA podcaster to have remixed Tom Jones!\n\nThese days, Barrott is part of the chilled axis prominent at UK summer festivals like The Big Chill. His latest incarnation is captured on his new album 'Memories of a Fading Room', which pieces together family conversations from summers past over downtempo compositions made up of guitars, strings and synths. For his RA podcast, Barrott brings the same nostalgic vibe of old family holidays and time spent outdoors. All with a dash of English humour thrown in for good measure.\n\nFuture Loop Foundation gave us the lowdown on his set:\n\n<b>What have you been working on recently?</b>\n\nI'm getting ready for the Big Chill live performance. It's a pretty big undertaking as I'm working with an orchestrator to make sure the scores are okay for the string quartet and panicking about the equipment! Will all be worth it by the time the sun sets on the Saturday.\n\n<b>Where was the mix recorded?</b>\n\nIt was recorded live at my lovely studio in deepest East Berlin.\n\n<b>What are you up to next?</b>\n\nI'm thinking of finding a country house and planning about a month in Tokyo to record a new EP.\n",
+    "blurb": "This week's podcast is a selection of downbeat compositions handmade by Future Loop Foundation."
+  }
+}

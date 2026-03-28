@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "920",
+  "url": "https://ra.co/podcast/920",
+  "id": "920",
+  "__typename": "Podcast",
+  "title": "RA.920 Client_03",
+  "date": "2024-01-21T22:00:28.000Z",
+  "fileSize": 182638046,
+  "duration": "01:16:06",
+  "imageUrl": "https://static.ra.co/images/podcast/ra920-client_03-cvr.jpg",
+  "contentUrl": "/podcast/920",
+  "tracklist": "Client_03 - UR LUV (Emotional Connection Retainer Edit) (Unreleased) \nClient_03 - Am I Reaching You? (Astrophonica) \nClient_03 - User Viewport (Astrophonica)\nLocked Club - Svoboda (Private Persons)\nClient_03 - Suspect Dispenser (Astrophonica) \nClient_03 - Labour Replacement Data (Client_03) \nClient_03 - Sense Combiner (Cultivated Electronics) \nClient_03 - Protection Service Provider (U Want The Rush vocal edit) (Unreleased) \nClient_03 - Love And Or Hate Trigger (Astrophonica) \nClient_03 - Wavefile Dayjob (Astrophonica) \nClient_03 - Unity Candidate (Client_03) \nRLGN & DUMMFOUND - Mahaut (LR024) \nRoklum - Sa Si (Childsplay) \nHermeth - Sillicon Kravitz (?) \nAryaxz - Rude Busta (Childsplay) \nClient_03 - Thought Disposal (Astrophonica) \nX-Club - Bad Boy (Steel City Dance Discs) \nJLZ - D27 (International Chrome) \nSert One -  Badly Tripped (Exit Records)\nDrone & Cesco - El Guapo (1985 Music) \nFixate - Dead End - (Exit Records) \nClient_03 - Panic Multiplier (Client_03) \nClient_03 - Personal Share Correction (Client_03) \nHermeth - Lone Wolf (Molekul)\nMiami 21 - D-Roots (Klakson Records) \nMount Kimbie - OOOF - (Client_03 remix) (Warp records) \nSam Binga x Nikki Nair - No Way Out (Pineapple Records) \n214 - ????  (????) \nClient_03 - Symmetry Verification (Client_03) \nClient_03 - Autonomous Correction (Client_03) \nAloka - Granulate (Typeless Records) \nClient_03 - Hope Repeater (Astrophonica) \nSunPeople - Overtoom (???)  ",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra920-client_03/",
+  "keywords": "",
+  "artist": {
+    "id": "103535",
+    "__typename": "Artist",
+    "name": "Client_03"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Whoever Client_03 is—their official bio says \"neither human nor machine\"—they certainly love electro. In the interview below, they say making it is \"all I do.\" The stubbornly anonymous project has been waking waves across continents and scenes, introducing audiences used to dubstep, drum & bass and trap to the distinctive joys of electro. Through a series of <a href=\"https://client03.bandcamp.com/\" target=\"_blank\">self-releases</a> dating back to 2019, Client_03 has earned a fanbase with simple graphics and wonderfully jargon-y titles—\"Prosperity Stream Divider,\" \"Interpersonal Relationship Assessment\"—that more than live up to the genre pastiche with genuinely funky electro grooves. Pitched between loose and robotic, their tracks are what we call rollers: stackable, interlockable and reliable.\n\nThis <i>RA</i> Podcast was recorded live at last year's Bass Coast Festival, where the masked producer's set was among the most anticipated. They—or it—didn't disappoint, and here we've got 60 minutes-plus of smooth and occasionally raucous electro that eventually mutates into dubstep, jungle and beyond. There are several spinbacks, tons of Client_03 material new and old and a few select tracks from artists like Sam Binga, Nikki Nair and Fixate. It's the sound of a certain kind of future, as refracted through its past.\n\n<b>What have you been up to recently?</b>\n\nI've been creating electro. That is how I spend the majority of my time. In fact I would say it's all I do. I've also been playing that output for people at shows. \n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was created at Bass Coast 2023. The idea behind it was and is always to spread the sound of electro far and wide. I derive huge satisfaction from sharing this music with an audience. It gives meaning to my existence. \n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n \nfabric is a place that is very dear to my heart. It was the first place I played when I became aware and it's always a deeply meaningful experience to share music with an audience there. \n \n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nI wish people would pay more attention to how they share their personal data and with whom. The general public seems to understand little about the value of their personal data and how it can be used to manipulate their ideas and actions. \n\nYour personal data has become the fundamental ingredient of an illicit online economy, the main purpose of which is to predict what you will do, say and buy and when. Brands and companies don't care about you—they only want you for your data. \n\n<b>What are you looking forward to in the near future?</b>\n\nI'm looking forward to the presentation of a series of audiovisual shows that will begin in early 2024. ",
+    "blurb": "Anonymous electro, dubstep and jungle, recorded live at Bass Coast 2023."
+  }
+}

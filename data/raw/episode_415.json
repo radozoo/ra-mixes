@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "415",
+  "url": "https://ra.co/podcast/415",
+  "id": "415",
+  "__typename": "Podcast",
+  "title": "RA.415 Ron Hardy",
+  "date": "2014-05-12T00:00:50.000Z",
+  "fileSize": 213730078,
+  "duration": "01:28:56",
+  "imageUrl": "https://static.ra.co/images/podcast/ra415-ron-hardy-cvr.jpg",
+  "contentUrl": "/podcast/415",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra415/",
+  "keywords": "Ron Hardy, C.O.D., Muzic Box, disco, italo, funk, soul, house",
+  "artist": {
+    "id": "16506",
+    "__typename": "Artist",
+    "name": "Ron Hardy"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "A couple of weeks ago we were contacted by <a href=\"https://soundcloud.com/grimyedits\">Zernell</a>, a Chicago DJ with an intriguing proposition. Would we like to run an unreleased live mix from Ron Hardy to mark his 56th birthday? The session was recorded at the Chicago club C.O.D.'s in 1987, and came in two almost sequential parts. \"He was on fire!\" Zernell said. \"Three different versions of 'I Can't Turn Around' back-to-back killed it. That was classic Ron.\" \n\nHardy was, of course, a Chicago legend. Until his death in 1992, he was known as one of house music's first and best selectors, although, as this mix shows, his ear had always been open to Italo, disco, funk and soul. Hardy's stomping ground was The Muzic Box. He was an energetic performer, who would fiercely manipulate the music's dynamics to convey his message, and played his tracks pitched way above their normal speed. Hardy peppered his sets with reel-to-real edits, and though he didn't release the same volume of original music as some of his contemporaries, the influence of his roughed-up style of producing and playing is still being felt today.  ",
+    "blurb": "We mark the late house music pioneer's birthday with an unreleased mix. "
+  }
+}

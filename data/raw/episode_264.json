@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "264",
+  "url": "https://ra.co/podcast/264",
+  "id": "264",
+  "__typename": "Podcast",
+  "title": "RA.264 Tobi Neumann",
+  "date": "2011-06-20T00:01:25.000Z",
+  "fileSize": 99927542,
+  "duration": "01:12:14",
+  "imageUrl": "https://static.ra.co/images/podcast/ra264-tobi-neumann-cvr.jpg",
+  "contentUrl": "/podcast/264",
+  "tracklist": "Ernesto Ferreyra - Los Domingos Vuelo a Casa - Cadenza Records\nSirko Müller - Explore - Wandering Music\nRobag Wruhme - Thora Vukk - Pampa Records\nMarc Antona -  Not The Fool - Reboot Rmx -  Dissonant\nMasomemos / Adil Hiani - Post Communism In Casablanca - Cosmo Records\nNoiDoi - Harp - Oslo\nSeuil - Lonely Place - New Kanada\nStablo 9998 - A-Side - Stablo\nLee Foss - Your Turn Girls (Shonky & Dyed Soundroom remix) - Culprit\nUnknown - Miz Miz - Le Borgne 003\nDewalta - Hide And Seek - Kalk Pets\nScuba - Feel It - Hot Flush\n? - ? - ? \nSilvershower - Early Fever - Plus 8\nOmar S - Sarah - FXHE Music\nOmar S - Here Is Your Trance, Now Dance! - FXHE Music",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra264/",
+  "keywords": "Tobi Neumann, cocoon, house, techno, minimal",
+  "artist": {
+    "id": "762",
+    "__typename": "Artist",
+    "name": "Tobi Neumann"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When everyone \"discovered\" minimal and tech house back in 2004, German DJs such as Tobi Neumann were hailed as new heroes, when in fact most of them had been doing their thing for ten years previous. It also didn't help that Neumann's work in the studio was away from the limelight, producing Euro trash outfits like Chicks on Speed during the late '90s and Miss Kittin in the early '00s. To this day Neumann has always seemed more comfortable on remix duties and in collaboration—Gucci with Ricardo Villalobos, Sensitiva with Onur Özer, EMT with Matthew Styles—over straight-up solo material. As a DJ and promoter, Neumann's Flokati House Club party out of his hometown Munich took on something of a legendary status during the late '90s, while his hook-up with Cocoon almost ten years ago has subsequently seen him enjoy gigs across the globe on an annual basis including the Cocoon Arena at this year's <a href=\"http://www.residentadvisor.net/event.aspx?218019\">SW4 Festival</a> in London.\n \nNeumann now resides in Berlin where you can routinely find him plying crowds at Club der Visionaere, Watergate and Weekend with the type of broad-ranging, groove-based house selections this mix is packed with. \n\n<b>What have you been up to recently?</b>\n\nCurrently I am playing every weekend, which I love but which also requires a lot of energy and time. Also I am working on music in my studio, and trying to find enough time for my friends and for listening to new music every week. Now I am just coming back to my hotel from three amazing days at 'Off Sonar' in Barcelona. We had great fun and heard some good music. I played twice there and met many sweet people!\n\n<b>How and where was the mix recorded?</b>\n\nI selected some tunes over the last weeks before I did the mix. Then, when I was standing in front of my two turntables and my CD player, I was a bit unsure how to start the mix. It's difficult to mix without an audience to entertain directly and using a computer or Ableton for it is not my style. I wanted to do the mix as I do my work every weekend in the clubs. So I invited a friend, made her some drinks, and then inspiration came and I did the mix in one take.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nMy idea about the mix was to make it nice for home listening. Not too fast and pumping, some dub elements and a nice build up of the energy. Actually like a warm-up for a club night.\n\n<b>We heard something about a remix you and Matthew Styles completed as\nEMT of Perry and Rhodan's 1993 track \"<a href=\"http://www.youtube.com/watch?v=6giwzYcx_a4\">The Beat Just Goes Straight On\nAnd On</a>.\" Can you tell us about this?</b>\n\nSince I first heard techno I adored the two masterpieces: <a href=\"http://www.youtube.com/watch?v=lZ3pkY_11kg\">Transform's\n\"Transformation\"</a> and \"The Beat…\" One of the guys behind both the projects is an old friend of mine, and Matthew and I are often making music together. So one evening we discovered that we both had a love for these tracks. So after talking with the Tommy Eckhart, the writer, three years ago, we made our remix of \"Transformation\" which had good feedback, and so now in the last weeks we made a new version of \"The Beat...\" We tried to keep a lot of the original flavour of the tunes.\n\n<b>What are you up to next?</b>\n\nI am just finishing a remix for Arnaud Texier for Cocoon and then I will continue with my songs, though of course it's summertime, so weekends sometimes start on Wednesdays and last until Mondays. Ibiza is calling and of course some festivals like Melt, Merkwürdiges Verhalten, SW4, Creamfields, Sonne Mond Sterne, \nTechnootjes etc.\n",
+    "blurb": "An expert house selection from a German institution."
+  }
+}

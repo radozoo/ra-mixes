@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "727",
+  "url": "https://ra.co/podcast/727",
+  "id": "727",
+  "__typename": "Podcast",
+  "title": "RA.727 Samuel Deep",
+  "date": "2020-05-04T00:00:45.000Z",
+  "fileSize": 223594236,
+  "duration": "01:33:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra727-samuel-deep-cvr.jpg",
+  "contentUrl": "/podcast/727",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/814714075",
+  "keywords": "Utrecht, SlapFunk, Strictly Rhythm, ",
+  "artist": {
+    "id": "25203",
+    "__typename": "Artist",
+    "name": "Samuel Deep"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "SlapFunk, a DJ collective from Utrecht, Netherlands, know what they want to do and exactly how to do it. Put simply, they want to make people dance with straight-up, no bullshit house. (\"We're not here to educate people,\" said Samuel Deep in our Label Of The Month feature <a href=\"/features/3148\">in 2018</a>). SlapFunk is an outpost for a niche style of house that fills several different niches at once: you could hear the label's tracks played by a Berlin minimal DJ, by a New York techno head or by someone looking for some old-school garage-influenced house. It's a one-stop shop for anyone looking for lean, minimalist grooves.\n \nThat's not to downplay SlapFunk's variety, which comes through clearly in cofounder Samuel Deep's mix. It starts out with staggered dub and cruises through 2-step and house, with the occasional detour into wub-wub speed garage goodness. But everything fits together with a slightly scuffed, reduced sound palette that moves with a Strictly Rhythm swagger and minimal's careful economy. It's funky, deeply danceable and with not one extraneous element or a hair out of place—vintage SlapFunk.\n \n<b>What have you been up to recently?</b>\n \nNot that much gig-wise, as the virus hit the scene very hard unfortunately. I got twins, two boys of five, and they don't go to school so I'm spending most of the time with them. When I'm free I make music with my brother, dig for music, read some books and stay as balanced and grounded as I can.\n \n<b>How and where was the mix recorded?</b>\n \nIt was recorded in my studio with two Technics turntables, two CDJs and an old Dateq XTC mixer.\n \n<b>Can you tell us about the idea behind the mix?</b>  \n \nI really miss the dance floor so I selected some records which I would play in that setting and bring the club vibes. It's a range of styles within electronic music which I like and wanted to blend to get the right flow.\n \n<b>You've called SlapFunk's music \"pure dance music\" before. What does that mean to you, and what do you think sets SlapFunk's style apart from other labels?</b>\n \nWhen we select our tracks for the label our main goal is to make people dance. So we always keep that energy in mind. The same with our parties. Always uplifting. As simple as that. We've been putting out records since 2012 with the same vibe as we started. I think that's what sets our style apart from other labels.\n \n<b>The sound of the records you guys release and play out are very '90s influenced—where does that come from and what about that sound has stuck with you for so long?</b>\n \nIt's in the core of our roots. It's the style that hits us the most. The pure '90s sound is where we learned how to rave, dance and make music. We love all kinds of electronic, the 90's hip-hop and breakbeat sound is something what's in our roots as well so that makes the circle go round all the time. That's the reason why I still dig and play that stuff.\n \n<b>What are you up to next?</b>\n \nI'm working out the new releases for SlapFunk at the moment as a lot of producers are super productive so a lot of heat incoming. Besides that I'll lock myself in the studio as much as I can and discover new music. Hopefully we can all go back to the club soon and have a boogie!\n",
+    "blurb": "Rolling house and garage from Utrecht."
+  }
+}

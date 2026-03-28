@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "779",
+  "url": "https://ra.co/podcast/779",
+  "id": "779",
+  "__typename": "Podcast",
+  "title": "RA.779 Scratcha DVA",
+  "date": "2021-05-09T22:00:19.000Z",
+  "fileSize": 169671199,
+  "duration": "01:10:35",
+  "imageUrl": "https://static.ra.co/images/podcast/ra779-scratcha-dva-cvr.jpg",
+  "contentUrl": "/podcast/779",
+  "tracklist": "European 305, K Legacy & Gab'iel - Elon Musk (Scratcha Special)\nScotti Dee - Volume 10\nRazzler Man - Soldier VIP\nLily Mckenzie (Feat. Mr Taffa & Supa D) - You Don't Know\nScratchclart & Citizen Boy - Ammo\nTyla (Feat. Kooldrink) - Getting Late (Ammo Dub)\nMak 10 & Scratchclart - Promise U\nScratchclart - Tapped\nCooly G & Marcus Damon - Save Me\nScratchclart & Razzler Man - Razzclart\nMak 10 & Scratchclart - Smoke Signal\nMez - Bless The Earth\nLR Groove - Panic\nCitizen Boy - Baby Pluto\nNFD (Feat. XL Mad) - Over The Wall (Scratchclart Remix)\nDrumheller - Gubbed Edit\nRazzler Man - Combat\nTrim - Yardman (GRANDMIXXER Funk E Remix)\nScratchclart - X2\nLady Lykez, DJ Polo & Scratchclart - Bedroom Bully / Headtop\nMad One - Triblenatic Remix\nNKC - Shuvvin Scratch\nAhadadream - Blip Wip\nOmagoqa - Mix Up\nKG & Abigail Asante - Afrique / Stupid\nScotti Dee - Lost In Abyss (Remix)\nIkonika - J.S.U.K\nDJ Lag & Sinjin Hawke - Cold Call\nHagan - Ghana Step VIP\nAudiot909 - Rasen (KSITO Gqom Remix)\nAaliyah X GC - One In A Stone Cold Milli",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1046026300",
+  "keywords": "Grime, Road Rap, UK Funky, Rinse FM, Durban, ",
+  "artist": {
+    "id": "21613",
+    "__typename": "Artist",
+    "name": "Scratcha DVA"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Scratcha DVA has had his finger on the pulse of UK dance music for just about two decades. Whether we're talking mind-bending <a href=\"https://www.youtube.com/watch?v=IlRafCxXiVk\">early grime</a>, ridiculously heavy <a href=\"https://www.youtube.com/watch?v=3BIVR8Cypvk\">road rap</a> or skeletal <a href=\"https://www.youtube.com/watch?v=FdiNIOyd0B4\">UK funky</a>, he's brought a unique talent for loopy arrangements and catchy melodies to nearly every sector of the UK underground. He's also quite a character—those who came up in the dubstep era will remember him as the host of an unforgettable breakfast show on Rinse FM—and counts among dance music's most hilarious, incisive and respected figures, a writer, thinker and occasional podcaster in addition to a DJ and producer.\n\nHe's also a relentless champion for young artists around the world, working with all sorts of artists from Lady Lykez to Griffit Vigo to NKC. And while his music often revolves around colourful, endlessly creative riffs on UK funky, he's turned his attention to South Africa in the last few years, particularly to Durban, whose bustling gqom scene has become a worldwide phenomenon.\n\nThis <i>RA Podcast</i> is a tribute of sorts to that South African sound, what Scratcha describes as the influence that dance music from that country has had on all kinds of UK dance music. You'll hear plenty of the heaving rhythms of gqom, and plenty of the UK funky-rooted stuff Scratcha makes under his many different aliases. With tracks from Ikonika, KG and Hagan, it's a snapshot of UK dance music as seen through the lens of South African pioneers like Citizen Boy and DJ Lag, a truly international sound put together under the one-of-a-kind vision of Scratcha DVA.\n\n<b>What have you been up to recently?</b>\n\nDetoxing, making music and jus tryna shift this studio gut b4 the summer hits.\n\n<b>How and where was the mix recorded?</b>\n\nI did the mix at home on my gurls 850s. Looping is abit more fun on dem and u gota concentrate.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wntd mainly 2showcase the influence SA club music has had in recent tyms on myself and the UK producers who I regularly support.\n\n<b>You mentioned the influence of South African club music lately—can you elaborate on that?</b>\n\nGqom music and more recently the darker and bass heavy sides of amapiano is filling the hole UK funky isnt arnd as much 2fill. Connecting w the <i><a href=\"/reviews/18562\">Gqom Oh!</a></i> compilations felt natural and blendin the styles of SA and UK while makin the <i>DRMTRK EP</i> series didnt feel out of place.\n\n<b>With the UK preparing to reopen in the spring and summer, do you feel optimistic about dance music this year?</b>\n\nI feel ppl wil b wayyyyy more apreciative of the clubbing xperience and am imaginin sum of the best dj sets and club nyts weve had in a long tym ths summer.\n\n<b>What are you up to next?</b>\n\nIv been collabrating alot more since bein lockdown. Ul c sum of dese collabs apear in the mix and more l8r thruout the yr.",
+    "blurb": "The crucial UK DJ looks to the influence of South Africa."
+  }
+}

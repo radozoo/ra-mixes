@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "573",
+  "url": "https://ra.co/podcast/573",
+  "id": "573",
+  "__typename": "Podcast",
+  "title": "RA.573 DJ Koolt",
+  "date": "2017-05-22T00:00:17.000Z",
+  "fileSize": 392151557,
+  "duration": "02:43:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra573-dj-koolt-cvr.jpg",
+  "contentUrl": "/podcast/573",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/323887552",
+  "keywords": "Phonotheque, Uruguay, Montevideo, Tech house, techno, Nicolas Lutz",
+  "artist": {
+    "id": "44513",
+    "__typename": "Artist",
+    "name": "DJ Koolt"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Today we ran an extended feature called <a href=\"/feature.aspx?2963\">The underground sound of Montevideo</a>. Matt Unicomb visited the Uruguayan capital and met some of the DJs who have made it one of the world's most exciting places to hear minimalist dance music. DJ Koolt is this scene's leader. A DJ since the late '90s, he pushes a percussive sound built from golden-era tech house, house and early techno. Free-flowing and groovy, it's a style that's been honed by playing in Uruguay up to five times per week. Koolt is a resident DJ at Phonotheque, the killer basement club that's central to the hypnotic sound he and the other residents, such as Z@p, Kino and Emilio, have developed. \n  \nHaving never lived abroad, Koolt doesn't have the international recognition of his Berlin-based friend and compatriot (and <a href=\"/podcast-episode.aspx?id=473\">former RA podcaster</a>) Nicolas Lutz. But Koolt is a hero to Uruguay's younger DJs, some of whom have tattoos of his name. He may not be globally famous, but Koolt is a world-class DJ with a knack for slick transitions and unearthing forgotten bombs. \n\nListen for yourself on RA.573, a recording from Koolt's set at Phonotheque in March. It was his first appearance of the year at his favourite club (it only opens between March and December), and it saw him play to a packed peak-time dance floor. As always, Koolt was in great form, moving through pumping tech house and techno before ending with more abstract material.\n  \n\n<b>What have you been up to recently?</b>  \n\nPlaying a lot! I play many days per week in different parties in Uruguay. I've also been playing around South America, in Ecuador, Argentina, Chile and Brazil.\n  \n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded live in Phonotheque this year on Saturday, March 11th. I used two turntables and two CDJs. My favorite format is, and always has been, vinyl, but lately I am playing digital unreleased material from some Uruguayan friends. \n  \n<b>Can you tell us about the idea behind the mix?</b>\n\nI consider myself an old-school DJ in terms of mixing technique, and I do not use many effects and knobs. A while ago, I began playing with three channels simultaneously, which gives another dynamic to the mixes, where many sounds melt together. It generates a sensation of sound confusion. That's why I call this last stage of my career \"The last sonic adventure of DJ Koolt.\" \n\n<b>Many of us know about Phonotheque and the artists connected to it, so what other events and DJs in Uruguay would you recommend checking out?</b> \n\nThere are a lot of high quality events in Uruguay other than Phonotheque. The ones I recommend are No Way Back, Technocracia, Saturno, Epic Trip, Let It Beat and Frecuencia Garabato. Uruguay is an artistic center for excellence, so there are talents emerging all the time. Some of the most outstanding are Digregorius, Fefio, Oriana, Cabanelas, Santiago Uribe, Luis Malón, Kembou, Edunetto, Muten, Detected and Bruno Barceló. \n\n<b>How do the parties you've visited in Europe compare to Uruguay's?</b>\n\nI think that in the Uruguayan underground the crowd is very passionate. People go to parties to listen and dance to good music—they are not interested in anything else. The connection they have with the DJ is really strong, and all this means that the energy generated on the dance floor is totally different from any other part of the world.  \n  \n<b>What are you up to next?</b>  \n  \nI will keep on going with all this and hope that Phonotheque never ends.",
+    "blurb": "The underground sound of Montevideo."
+  }
+}

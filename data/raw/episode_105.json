@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "105",
+  "url": "https://ra.co/podcast/105",
+  "id": "105",
+  "__typename": "Podcast",
+  "title": "RA.105 Donato Dozzy",
+  "date": "2008-06-02T00:00:59.000Z",
+  "fileSize": 66093624,
+  "duration": "00:55:44",
+  "imageUrl": "https://static.ra.co/images/podcast/ra105-donato-dozzy-cover.jpg",
+  "contentUrl": "/podcast/105",
+  "tracklist": "01. Lackluster- Meanwhile- Merck\n02. Ro70 & Move D- “B”- Source\n03. D.Olson & S.Radcke- First Ring- Parotic\n04. Mike Parker - Inversion 6 (D.Dozzy Rmx)- Geophone\n05. Afterlight- Protocol- Continual\n06. B.Lieberg & J.Wikstom- Maracas b- Maracas\n07. Nsi- Bird- Nsp\n08. Tadeo- Io- Apnea\n09. Don Williams- Exhibition- Art.Less\n10. Heiko Laux- Re-televised- Missile\n11. D.Dozzy & Nuel- “A”- Aguaplano 000\n12. G Man- El Jem- Styrax\n13. A.Gallop & S.Poindexter- Black holes- Muzique\n14. Ade Fenton- Broken- (C.Mccormack rmx)- Advanced\n15. Mike Parker- Light & Dark (part 4)- Ld",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra105/",
+  "keywords": "",
+  "artist": {
+    "id": "864",
+    "__typename": "Artist",
+    "name": "Donato Dozzy"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Not many DJs can claim an instantly recognizable style, but Donato Dozzy is one of them. If rolling, hypnotic techno with trance influences is your thing, then Dozzy is for you. Call it microtrance. It’s a unique style Dozzy has honed over many years of DJing, a history which has included residential stints at Brancaleone in Rome and the Panoramabar in Berlin, where he was the afterhours specialist from 2004 to 2006. “You go to sleep and wake up at six or seven in the morning, have breakfast and then go and play,” Dozzy told RA in <a href=\"/feature-read.aspx?id=816\">an interview</a> last year. “It’s really funny.”\n\nDozzy produces, too, and you can find his records on labels such as Lan Musik, Orange Groove and his own Dozzy Records. Two of these records turn up on Dozzy’s RA podcast, alongside likeminded deep, experimental platters from Heiko Laux, Mike Parker, and a cast of unknown-to-us fellow travelers. If you’re into techno, but sick of the same old names in your club sets, then this is the podcast for you. Viva Italia.\n",
+    "blurb": "This week's podcast is an hour of deep techno from Italian maestro Donato Dozzy."
+  }
+}

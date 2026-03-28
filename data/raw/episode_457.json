@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "457",
+  "url": "https://ra.co/podcast/457",
+  "id": "457",
+  "__typename": "Podcast",
+  "title": "RA.457 Sleeparchive",
+  "date": "2015-03-02T00:00:15.000Z",
+  "fileSize": 144315210,
+  "duration": "01:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra457-sleeparchive-cvr.jpg",
+  "contentUrl": "/podcast/457",
+  "tracklist": "Leiras - Beginning of Visions (Sleeparchive Remix)\nUnam Zetineb - Silence (Sleeparchive Remix)\nOscar Mulero - Transversal (Sleeparchive Remix)\nPiotr Klejment - Black March (Sleeparchive Remix)\nRefused Remix\nConrad Van Orton - Cornelia (Sleeparchive Remix)\nFran Hartnett - Diagnostic (Sleeparchive Remix)\nDonor – Untitled (Sleeparchive Remix)\nAntonio De Angelis - Incrisis (Sleeparchive Remix)\nPMH - Entrance (Sleeparchive Remix)\nCtrls - Displacer (Sleeparchive Version 1)\nBonus Beats\nAble Archer 83 – Untitled (Sleeparchive Remix)\nSynthek & Audiolouis - Untitled (Sleeparchive Remix)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra457/",
+  "keywords": "Roger Semsroth, techno, minimal, Hard Wax, TR 101, Sandwell District, Mika Vainio",
+  "artist": {
+    "id": "874",
+    "__typename": "Artist",
+    "name": "Sleeparchive"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Few can match the techno credentials of Roger Semsroth, AKA Sleeparchive. He's released some of the finest minimalist dance music of the past decade, is part of the TR-101 duo with DJ Pete, and works at Hard Wax, the genre's most famous record shop. <i>Elephant Island</i>, the debut Sleeparchive 12-inch, <a href=\"/feature.aspx?1842\">inspired</a> the formation of Sandwell District, one of the most important techno acts in recent history. The Sleeparchive sound is, above all, hypnotic. His catalogue, comprising subtle but powerful DJ tools with very few elements, is indebted to Mika Vainio and his minimal-minded Sähkö Recordings, but still sounds like no one else out there.  \n\nThis week's podcast is an excursion into minimal techno, but perhaps not the kind you'd associate with Sleeparchive's best-known material. It's a DJ mix made up entirely of his remixes, and, unlike most of his output, it's occasionally rough and jarring. But despite the widened range of sounds, it retains Sleeparchive's distinct minimalist edge. \n\n\n<b>What have you been up to recently?</b>\n\nAfter doing lots of remixes in 2014, I found the time to finish lots of my own tracks in the last two months. Two days ago I did the vinyl cut for a forthcoming Sleeparchive record.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in Ableton Live at home.\n\n<b>Could you tell us about the idea behind the mix?</b>\n\nI like mixes with a \"topic.\" Last year I did a mix with youth memories; this time I made a mix with only my own remixes. I included released, unreleased and refused remixes.\n\n<b>What are you up to next?</b>\n\nReleasing my own new record later this year. And hope I can play live more often.",
+    "blurb": "Techno loops from space."
+  }
+}

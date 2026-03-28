@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "738",
+  "url": "https://ra.co/podcast/738",
+  "id": "738",
+  "__typename": "Podcast",
+  "title": "RA.738 Grant Aaron",
+  "date": "2020-07-27T00:00:19.000Z",
+  "fileSize": 228523791,
+  "duration": "01:35:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra738-grant-aaron-cvr.jpg",
+  "contentUrl": "/podcast/738",
+  "tracklist": "Forest Management - Fake Rose And 24 Karat [American Dreams]\nLink - Augur Intro [Evolution]\nGastón Arévalo Les environs de la montagne [A Strangely Isolated Place]\nSouthfacing - Essre [Frequency Domain]\nAlva Noto - Xerrox Canaux [Noton]\nASC & Sam KDC - Fading From Memory [Auxiliary]\nNeel - Planatia [Spazio Disponibile]\nSkee Mask - Cafe Mu [Ilian Tape]\nTin Man - No Way Back Bench [Mysteries of the Deep]\nVague Imaginaires - À Bord Du Magdalena [Not Not Fun]\nThe Transcendence Orchestra - Hinge Caterpillar [Editions Mego]\nRobert Farrugia - Unfurl [Faint]\nBiosphere - Warmed By The Drift [Biophon]\nÖsterholm - New Trails [Going In]\nMatthew Patterson Curry - Bog Body Sleep [Mysteries of the Deep] \nSimone Giudice - Transizione [Enisslab]\nFilippo Scorcucchi - Visione [Enisslab]",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/865240837",
+  "keywords": "Mysteries of the Deep, ambient, Certain Creatures, Birds Of Prey, Nathaniel Young",
+  "artist": {
+    "id": "67008",
+    "__typename": "Artist",
+    "name": "Grant Aaron"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Grant Aaron runs Mysteries Of The Deep, a label and collective dedicated to the full potential of ambient music—as record, as DJ mix, as event series and experience. With records from artists like Certain Creatures, Birds Of Prey and Nathaniel Young, the label has outlined an expansive and immersive style of ambient: it's not background music, but music that surrounds and envelops you.\n\nBefore it was a label, Mysteries Of The Deep was a mix series. With an <a href=\"https://soundcloud.com/mysteriesofthedeep/sets/mysteries\">extensive catalogue</a> of mixes—over 120 entries going back over eight years—Mysteries Of The Deep is one of the finest examples of ambient storytelling you'll find anywhere. Ambient DJing is an artform all its own, an intuitive way of blending moods, feelings and sounds that takes a totally different mindset to a dance set. \n\nAaron's <i>RA</i> Podcast, with selections from artists like Neel, Forest Management and ASC & Sam KDC, is a prime example of the kind of world-building that Mysteries Of The Deep excels at. He pulls you into a room of gauzy yet precise sound, of pillowy soundscapes and intentional melodies, where the borders between songs blur—like perfect beat-matching, but (mostly) beatless. \n\n<b>What have you been up to recently?</b>\n\nThe label has been very active, with several new albums, EPs and an expansive <a href=\"https://mysteriesofthedeep.bandcamp.com/album/mysteries-compilation-chapter-one\">compilation series</a>. A portion of sales going to support BLM and related causes.  \n\n<b>How and where was the mix recorded?</b>\n\nThis mix was recorded at my home studio in Brooklyn, using Pioneer XDJ-700s, a DJM900NXS mixer and an Eventide H9 effects processor. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nSimilar to some of my previous mixes, this one takes on a cinematic quality. It's composed of mostly new tracks, shifts between darkness and light and is best experienced in headphones.\n\n<b>You run an ambient-leaning collective. To you, what does ambient mean and how does it differ from dance music?</b>\n\nAmbient is a mood. It's visceral and contemplative. Dance music exists in a similar space, though I connect to it in a very different way. It's the extension of my extroverted self.\n\n<b>How has the pandemic changed your relationship with electronic music?</b>\n\nThe social aspects have obviously changed, and we're all just trying to adjust to this new landscape. I'm still very much engaged in buying and supporting music, though my listening habits have been more intentional these days. Reflecting and searching for inspiration in the midst of so much uncertainty. \n\n<b>What are you up to next?</b>\n\nDedicating time to finally completing a solo album that's been brewing for far too long.\n\n",
+    "blurb": "Ambient world-building from Mysteries Of The Deep."
+  }
+}

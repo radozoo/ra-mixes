@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "400",
+  "url": "https://ra.co/podcast/400",
+  "id": "400",
+  "__typename": "Podcast",
+  "title": "RA.400 Kode9",
+  "date": "2014-01-27T00:00:00.000Z",
+  "fileSize": 120459125,
+  "duration": "00:50:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra400-kode9-cvr.jpg",
+  "contentUrl": "/podcast/400",
+  "tracklist": "David Sylvian & Ryuchi Sakamoto - Bamboo Houses\nCooly G - Molly\nSPF666 - Scorpion Cache (Neana Val Venus remix)\nDJ Lag - Ikologo\nMumdance - Its Peak (Club Mix)\nParanoid Resistance - Stabiliser\nNofski - Instrobanger\nRudeboyz - Sagwinya\nIkonika - Strawberry Underlay\nMssingno - XE2 VIP (Bieldub Remix Part 2)\nKode9 - Xingfu Lu (Helix rmx)\nTerror Danjah - One Wish Dub\nLow Deep - Straight Flush 2\nCashmere Cat - Rice Rain\nSlackk - Room Made Vague\nRustie - Terra Star\nDJ Rashad - Acid LIfe\nCocky Bilboa - Crush\nTraxman - Electric Funk\nTraxman feat. DJ Rashad - Bussin\nDJ Spinn - All My Teklife\nDJ Taye - Get Em Up\nDJ Taye & DJ Earl - Get Down\nGorilla Zoe feat. Rick Ross - Trying to Make a Jug (instrumental rmx)\nDjunya & Taso - Only the Strongest Survive\nKode9 - Time Patrol (Shake It Maschine Rmx)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra400/",
+  "keywords": "Kode9, Hyperdub, FWD, RinseFM, Spaceape, dubstep, bass",
+  "artist": {
+    "id": "938",
+    "__typename": "Artist",
+    "name": "Kode9"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The futurist ideals extolled by the Belleville Three at the time of techno's birth have lingered, rather than lived on, in dance music. Steve Goodman isn't known as an adherent of their principles, but he's arguably done more to keep the scene facing forwards recently than anyone else. Goodman is one of dubstep's foundational figures. He was a key DJ at FWD>>, the London party that incubated dubstep in its infancy, and hosted the party's radio show on Rinse FM. In 2004 he set up Hyperdub, a platform for his dubwise productions as Kode9 alongside The Spaceape. From the label's early stages he was sniffing out fresh dubstep mutations—in 2006, he signed Burial, an artist who would become one of the decade's most influential producers. \n\nHyperdub turns ten later this year, and looking back on their discography, it's striking to consider the impact the artists they've signed have made on the scene. Zomby, The Bug/King Midas Sound, DJ Rashad, Joker, Laurel Halo, Jessy Lanza, Cooly G and Hype Williams are just some of the singular acts Goodman has brought to the world. \n\nGoodman's personal development has extended across a number of disciplines. His own music has continually absorbed emergent styles, such as UK funky and footwork, while referencing jungle, grime, hip-hop and dub, the cornerstones of his sound. Away from the dance floor, Goodman is part of Her Ghost, a collaborative film-sound performance project, and AUDiNT, a research team that explores \"the historical and fictitious relationship between sound and warfare.\" Goodman has written a book on the subject, <i>Sonic Warfare: Sound, Affect, and the Ecology of Fear</i>, and has lectured on music culture at the University of East London. \n\nIt's tempting to get nostalgic upon reaching a milestone like our 400th podcast, but we instead decided point our gaze in the opposite direction. Goodman's DJ sets as Kode9 soak up the cutting edge of pretty much any dance music style, and on RA.400 he stays true to form, zipping through house, techno, grime, footwork and hip-hop, plus a bunch of stuff we don't even have a name for.   \n\n<b>What have you been up to recently?</b>\n\nI've been on tour in Asia and Australia and New Zealand for the last six weeks. I spent last week in the studio at Rinse FM with Artwork, Faze Miyake and a crew of electro chaabi MCs and producers from Cairo in Egypt. This is my first day at home in the studio for ages.\n\n<b>How and where was the mix recorded?</b> \n\nThe mix is a pile of tunes I've been playing in my sets recently sprinkled with magic dust. The mix was done in Camberwell, SE5, South London.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's a prism. As you rotate it, you get a glimpse of what presses my buttons.\n \n<b>Your DJ sets seem to be in a constant state of flux. How would you describe what you're doing at the moment?</b> \n\nMaking musical <a href=\"http://en.wikipedia.org/wiki/Bubble_and_squeak\">bubble & squeak</a>.\n\n<b>Hyperdub will turn ten later this year. Has your approach to the A&R process changed much in that time?</b> \n\nIt's become more driven by the artists we sign, who take us places we might never dreamt of ten years ago.\n\n<b>What are you up to next?</b> \n\nI might release three albums this year: one solo, an audio fiction LP with Toby Heys for AUDINT, and my soundtrack from the <i>Her Ghost</i> film project I've been working on for the last couple of years with MFO, Ms. Haptic and Lucy Benson. I've also got an EP in the pipeline with Spaceape. ",
+    "blurb": "The RA Podcast turns 400 with a master of innovation.   "
+  }
+}

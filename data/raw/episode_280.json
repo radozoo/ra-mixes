@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "280",
+  "url": "https://ra.co/podcast/280",
+  "id": "280",
+  "__typename": "Podcast",
+  "title": "RA.280 Martyn",
+  "date": "2011-10-10T00:01:46.000Z",
+  "fileSize": 69324006,
+  "duration": "00:57:44",
+  "imageUrl": "https://static.ra.co/images/podcast/ra280-martyn-cvr.jpg",
+  "contentUrl": "/podcast/280",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra280/",
+  "keywords": "Martyn, Masks, Viper, Holland, Dubstep, Bass, 3024",
+  "artist": {
+    "id": "1255",
+    "__typename": "Artist",
+    "name": "Martyn"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Martyn played both Berghain and Panorama Bar this past weekend. What's so special about that? Well, when you consider that one set was live at Sub:stance—bastion of bass music—on the Friday, and the other was a Sunday evening DJ session as part of Panorama Bar's weekly house music throw-down, then you start to get a sense of his music's inherent versatility. Martyn was among the first to make explicit the links between UK bass music and Berlin/Detroit techno through works on his own 3024 imprint, Apple Pips and Hessle Audio, and cemented this MO on his superlative 2009 debut album, <i>Great Lengths</i>. He was invited to mix the fiftieth instalment in the fabric series the following year, which in itself was a point of discussion along similar lines (\"A <i>dubstep</i> DJ mixing a fabric CD?\"). The <a href=\"/news.aspx?id=14539\">follow-up</a> to <i>Great Lengths</i> dropped this week and it actually sees Martyn in his most straight-up form yet; an album the man himself describes as a return to his early love affair with Chicago and Detroit. \n\nThe dots between Blake Baxter, Mosca, Oni Ayhun and Prince are all connected on RA.280—and you'll be unsurprised to learn that Martyn makes it sound effortless.\n \n<b>What have you been up to recently?</b>\n \nMany things! My second album is coming out this week so I've been working hard on promoting and touring it. Myself and Erosie (artwork) were involved in an album launch night in London recently which was a lot of fun, and besides that I've been developing my live set that I have been premiering at various festivals over last summer.\n \n<b>How and where was the mix recorded?</b>\n \nI did this mix in the studio, in one take, with two turntables, Serato Scratch Live and my little Pioneer DJM400 mixer. The morning I did the mix I just received the Boss Re201 which is a guitar pedal remake of the infamous Space Echo, so I connected that and used it while mixing as well, so that's the delay effects you can hear on the recording.\n \n<b>Can you tell us about the idea behind the mix?</b>\n \nIt's not really themed. I wanted to play a few new tracks I'm really loving alongside some of my favourite records that have really worked for me in DJ sets. As in most of my sets and recorded mixes, I like to show how digging in a wide range of areas of the musical spectrum can still produce something coherent and personal.\n \n<b>Your DJ sets and recorded music seem to have been far more 4/4 orientated recently. Is there one thing—DJing or production—that tends to inform the other?</b>\n \nI have been playing 4/4 for years, but DJing and producing music comes out of the same inspirational mood so I'm sure one counteracts with the other. It's actually quite liberating, I used to rave to Chicago/Detroit way back in the day but never properly produced it, so writing this album made me feel a little bit like I came home (from a long Frodo-like adventurous quest into the land of broken beats haha).\n \n<b>What are you up to next?</b>\n \nA <i>lot</i> more touring. I'm looking forward to going to Japan at the end of this month for two special Brainfeeder events. I'm also extremely proud to be playing Berghain (live) and Panoramabar (DJ set) on the same weekend, as not many people have ever done that. Then I'm preparing a special live set as a warm-up to a very special event at London's Roundhouse on October 22nd, with Flying Lotus and the AntiVJ collective, and we're doing a 3024 label night at Amsterdam Dance Event.  Lots going on.\n\n<i>Photo credit</i>: Maria Eisl",
+    "blurb": "A little bit of everything from a true genre-bender."
+  }
+}

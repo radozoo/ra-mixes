@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "806",
+  "url": "https://ra.co/podcast/806",
+  "id": "806",
+  "__typename": "Podcast",
+  "title": "RA.806 SALOME",
+  "date": "2021-11-15T00:00:05.000Z",
+  "fileSize": 137832498,
+  "duration": "00:57:12",
+  "imageUrl": "https://static.ra.co/images/podcast/ra806-SALOME-cvr.jpg",
+  "contentUrl": "/podcast/806",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "",
+  "keywords": "Tbilisi, Lobster Theremin, ",
+  "artist": {
+    "id": "85111",
+    "__typename": "Artist",
+    "name": "SALOME"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<div class=\"plyr\"><iframe width=\"464\" height=\"155\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1160007358&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe></div>\n\nIt would be no overstatement to call Tbilisi one of the world's major techno hubs. Georgia's bustling scene even has its own diaspora at this point, stretching across Europe and into other hotspots like New York. SALOME is one such example. She lives in Berlin now, but she unmistakably carries Tbilisi with her: a penchant for huge melodies, tonnes-heavy breakbeats and flashy tracks that turn heads with dramatic breakdowns and svelte synth work.\n\nWith a recent EP on <a href=\"https://lobstertheremin.bandcamp.com/album/fatal-glow\">Lobster Theremin</a> and a <a href=\"/reviews/34419\">standout track</a> on Ukrainian label Standard Deviation's <a href=\"https://standard-deviation.bandcamp.com/album/vertex\">upcoming compilation</a>, she's become a star of the Eastern European techno scene and beyond. Her music is instantly appealing, hard-as-nails without becoming claustrophobic. She folds in elements from hard house, hardstyle and trance seamlessly, taking lovingly from these genres rather than making exaggerated pastiche from them. Her <i>RA</i> Podcast is equally thrilling, stitching together high-octane techno and electro with a flair for insistent vocal hooks, catchy melodies and crescendoes that burst like fireworks.\n\n<b>What are you grateful for these days?</b>\n\nIt might sound like an Oscar speech, but I have to say in general I am more than grateful for my musician friends who saw me in-depth, believed in me, inspired me and motivated me. Besides, nowadays, I'm extremely grateful that we are back in the clubs!  \n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThere is no specific idea behind my mixes, it's just the way I feel, not restricting and setting any rules to myself. I love when the mixes take you in many different places and trigger various emotions and feelings in you. So here we go. The mix was recorded in my livingroom :)\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nCapitalism, since it's closely tied to a big variety of social issues as sexism, homelessness, homophobia and racism .\n\n<b>You come from Tbilisi, which is one of the world's greatest hotspots for techno these days. Do you feel like there's an influence from your hometown regarding what you play or how you approach it?</b>\n\nObviously the background where you come from has profound influence on you. The fact that Georgia is a hotspot for techno scene today is because of many reasons. Georgians, for centuries, have had a big love and history of music and dance. Georgian electronic musicians and clubs offer high quality of music to the crowd, being part of all this and witnessing the scene grow fast has undoubtedly inspired me and played a big role in developing what I have become today as a musician. Besides, most importantly, club culture globally challenges the status quo, and in Georgia that's an understatement. It's not only a dance for us, it's a protest, freedom and escape from reality. \n\n<b>The style of techno you play seems to take a lot of influence from other genres. What other kinds of music do you listen to the most?</b>\n\nProduction-wise my sound is highly influenced by electro, '90s rave music and trance. Recently I have being hearing and seeing that contemporary electro producers are making electro bangers with harder, more distorted drums and fast rave dance floor aesthetics, and I am beyond happy, haha, thats' the style that I enjoy playing and hearing the most on the dance floors. \n\n<b>What are you looking forward to in the near future?</b>\n\nI'm looking forward to producing a lot more, I have many crazy ideas that I want to turn into reality.\n\nPhoto: <a href=\"https://www.instagram.com/allanbassam/?hl=en\">Bassam Allam</a>",
+    "blurb": "Dense and dizzy neon techno from a Georgian artist on the rise."
+  }
+}

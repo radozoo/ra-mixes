@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "46",
+  "url": "https://ra.co/podcast/46",
+  "id": "46",
+  "__typename": "Podcast",
+  "title": "RA.046 Tim Sweeney",
+  "date": "2007-02-26T23:00:45.000Z",
+  "fileSize": 74204944,
+  "duration": "01:01:48",
+  "imageUrl": "https://static.ra.co/images/podcast/ra046-timsweeney-cover.jpg",
+  "contentUrl": "/podcast/46",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra046/",
+  "keywords": "",
+  "artist": {
+    "id": "899",
+    "__typename": "Artist",
+    "name": "Tim Sweeney"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tim Sweeney is the host of Beats in Space, a weekly New York radio show that transmits via the airwaves and Internet. The two and half hour show has attracted a strong international following with the crème-de-la-crème of dance music popping in to record sessions each Tuesday: guests have included Carl Craig, Superpitcher, Chateau Flight, Optimo, Erol Alkan and Lindstrom. These days Sweeney himself is also a DJ on the circuit; he left his day job scoring soundtracks to video games (‘Grand Theft Auto: San Andreas’ is his) to DJ full-time, gigging across Europe, North and South America and Australia. Though Sweeney finds himself on an international flight nearly every weekend, he still hasn’t lost sight of his initial passion. “Week in and week out, I’m still back in New York on Tuesday to record the show,” says Sweeney. “I wouldn’t miss it for the world.”\n\nSweeney is hooked into a variety of New York music circles. He works with the DFA crew, touring with James Murphy as well as collaborating with Tim Goldsworthy; he’s released a mix on Rvng Intl, he’s co-produced music with xxxchange, best known for his work with Spank Rock, and he even opened for DJ Shadow with his pal Steinski back in the day.\n\nMusically, Sweeney runs the gamut, drawing on hip-hop, rare disco, old Detroit techno, rock, funk and soul for inspiration. For his RA Podcast, Sweeney promises a disco vibe and a New York feel as well as unreleased tracks from the likes of The Juan Maclean, TNT and Holy Ghost! “I did one mix that was much harder and clubbier, but I just got bored with it by the end,” says Sweeney. “So I did this mix as a kind of response to that. It’s just a lot of fun.”\n\n<b>What have you been working on recently?</b>\nI'm doing a new production and DJ project with Tim Goldsworthy from DFA under the name TNT. We've got a 12\" coming out in June on one of the Mule Musiq labels and then another one due later in the year with some new tracks we're working on.\n\nI'm constantly working on the Beats In Space radio show as well. Look out for upcoming guest mixes from Tako, Loud-E, Lovefingers, JG Wilkes (Optimo), Phil South (No Ordinary Monkey), Will Saul, Andy Butler, and Lee Douglas to name a few.\n\n<b>Where was the mix recorded?</b>\nIt was recorded live at club LaBeija in New York on February 16th, 2007. It's fierce!\n\n<b>What are you up to next?</b>\nTrying to DJ as much as possible.",
+    "blurb": "This week on the pod is the disco vibe and New York feel of Tim Sweeney."
+  }
+}

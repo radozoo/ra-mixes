@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "21",
+  "url": "https://ra.co/podcast/21",
+  "id": "21",
+  "__typename": "Podcast",
+  "title": "RA.020 Mike Shannon",
+  "date": "2006-08-15T11:50:37.000Z",
+  "fileSize": 52813259,
+  "duration": "00:54:59",
+  "imageUrl": "https://static.ra.co/images/podcast/ra020-shannon-cover.jpg",
+  "contentUrl": "/podcast/21",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra020/",
+  "keywords": "",
+  "artist": {
+    "id": "774",
+    "__typename": "Artist",
+    "name": "Mike Shannon"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Recorded live at the Wagon Repair vs. Cynosure party in Barcelona during the Sonar Festival, Mike Shannon whips up Club Raum into a minimal frenzy with a mix that delivers the bump.\n\nOh Canada. Rewind a few years and Hawtin might have been packing in the big rooms in the Great North, but those in the know were headed for the dance pits across town at Industry in Toronto or Stereo in Montreal to hear top quality techno from Mike Shannon and his brethren.\n\nA DJ for over ten years, these days Shannon runs Cynosure Recordings, releasing the top-shelf likes of Mossa, Deadbeat, Bucci and Sieg Über Die Sonne. He’s also morphed into a producer with vinyl on Wagon Repair, Force Inc and most recently a full length album on Stefan Betke’s ~scape label out of Berlin.\n\nEver the wanderer, in 2006 Shannon calls Valencia, Spain home, from where he made the short trip up the coast to Barcelona to practise his Catalan and knock the socks off the Sonar hoards in June of this year. \n\n<i>Special thanks to cable guy <a href=\"http://www.myspace.com/boogieboy69\">Jeff Matthews</a> from <a href=\"http://www.play.fm\">Play FM</a> for recording the set exclusively for Resident Advisor.</i>",
+    "blurb": "Latest edition of the Resident Advisor podcast comes from techno true believer Mike Shannon."
+  }
+}

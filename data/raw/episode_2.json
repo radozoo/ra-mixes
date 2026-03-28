@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "2",
+  "url": "https://ra.co/podcast/2",
+  "id": "2",
+  "__typename": "Podcast",
+  "title": "RA.002 Pig & Dan",
+  "date": "2006-03-13T18:20:19.000Z",
+  "fileSize": 213123124,
+  "duration": "00:50:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra002-pig-dan-cover.jpg",
+  "contentUrl": "/podcast/2",
+  "tracklist": "1. <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=696\">Pig&Dan</a> – Viography, <a href=\"http://WWW.SONICSOCIETYRECORDS.COM\">Sonic Society records</a>\n2. <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=694\">Oliver Koletzki</a> – Mückenshwarm (Pig&Dan remix), <a>Cocoon</a>\n3. <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=696\">Pig&Dan</a> – Microkitchen , <a>Cocoon</a>\n4. <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=696\">Pig&Dan</a> – Retox, <a href=\"http://WWW.SONICSOCIETYRECORDS.COM\">Sonic Society records</a>\n5. <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=193\">Underworld</a> – Playpig (Pig&Dan remix), <a href=\"http://www.residentadvisor.net/label_view.asp?ID=267\">Junior records</a>\n6. <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=696\">Pig&Dan</a> - Oh Yeah, <a>Cocoon</a>\n7. <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=696\">Pig&Dan</a> - Something Else, <a href=\"http://WWW.SONICSOCIETYRECORDS.COM\">Sonic Society records</a> \n8. <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=696\">Pig&Dan</a> – Virus, <a href=\"http://www.discogs.com/label/Weave+Music\">Weave Music</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra002/",
+  "keywords": "",
+  "artist": {
+    "id": "696",
+    "__typename": "Artist",
+    "name": "Pig&Dan"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Pig&Dan now have releases on Cocoon and their own label Sonic Society, while on the remix front they have worked with Oliver Koletzki and Underworld.\n\nIgor Tchkotoua (Pig) and Dan Duncan's careers in dance began while working at major recording studios in London and Berlin. When not producing pop records, they were using the equipment to hone their engineering skills that they would later apply to their own productions. \n\nAfter joining forces in 1999 their tracks started to appear on mix CDs for Renaissance and on tracklists for DJ's like Laurent Garnier and Deep Dish. More recently the pair have gained favour in the tech-house arena from heavyweights like Sven Vath as well as Loco Dice and M.A.N.D.Y.\n\nPig&Dan now have releases on Cocoon and their own label Sonic Society, while on the remix front they have worked with Oliver Koletzki and Underworld (who both appear on the podcast).  \n\nRA spoke to Pig&Dan about the mix and their recent antics...\n\n<b>What have you guys been working on recently?</b>\nWe have been working on a new release for Cocoon which is scheduled for release in late May. We've also just finished two remixes for Underworld which are going to be released on Junior records in the near future. Can’t wait for that! Plus a remix for Weave of a track titled Gliding which is going to come out before summer. We are also just beginning a remix for Greg Benz which  will be coming out on his own label Auruim sometime soon.\n\nOn the DJ side of things, we have just been in Frankfurt playing at Cocoon club along side Sven Väth, and then  played at the playkula & wilde party in Watergate Berlin along side M.A.N.D.Y. Both gigs were outstanding crowd wise and we had a ball!\n\n<b>Where was the mix recorded?</b>\nWe recorded the mix in our studio/deck room in Mallorca.\n\n<b>What are you up to next?</b>\nWe have lots of work on the horizon both behind the decks and in the studio.\n\nApart from working on new productions of our own, we currently have six remixes waiting for us at the office, they’re from all sorts of different labels which is great for us because it challenges us to meet the demands of many different genres and styles. We love trying to be flexible and try not to stay under one roof music wise, however we always try to make it sound like it has our imprint on it.\n\nNext behind the decks we’re off to play in Rome at the 'Love minimal party 2' at Suburbia club. Then we play in London at The Key and Retox. After that we are off to play a couple of gigs in Miami at the WMC. Finally, we then fly to play in Costa Rica at Vertigo, and are straight off to a big festival in the Dominican Republic on Caberete beach.",
+    "blurb": "The second Resident Advisor podcast comes from DJ and production duo Pig&Dan."
+  }
+}

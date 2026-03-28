@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "446",
+  "url": "https://ra.co/podcast/446",
+  "id": "446",
+  "__typename": "Podcast",
+  "title": "RA.446 Frank & Tony",
+  "date": "2014-12-15T00:00:18.000Z",
+  "fileSize": 147535744,
+  "duration": "01:01:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra446-frank-tony-cvr.jpg",
+  "contentUrl": "/podcast/446",
+  "tracklist": "Fripp & Eno - Wind on Water (Frank & Tony's Breakaway edit)\nFrank & Tony - Holding On (the modest dub)\nFrank & Tony - Elea feat Bob Moses (Frank & Tony's Breakaway remake)\nFrank & Tony - Lamento\nFrank & Tony & DJ Sprinkles - Companion\nBerkson & What - Seraphim (Frank & Tony's Breakaway remix)\nUntitled - Untitled \nFrank & Tony- What You Believe \nFrank & Tony - Apprentice \nFrank & Tony - Rings feat Corbu (Frank & Tony's Breakaway remake)\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra446/",
+  "keywords": "Francis Harris, Anthony Collins, You Go Girl, Scissor and Thread, house, Brooklyn",
+  "artist": {
+    "id": "53582",
+    "__typename": "Artist",
+    "name": "Frank & Tony"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Francis Harris and Anthony Collins are a pair of Brooklyn-based artists who are currently making the best music of their careers. Last month, under the name Frank & Tony, they released <a href=\"/review-view.aspx?id=16029\"><i>You Go Girl</i></a>, a brilliant culmination of the deep and smoky sound they've been fine-tuning since they started the project in 2011. At that point Harris and Collins were both established solo artists. Harris was known for his music as Adultnapper, a project that dealt in deep, detail-orientated house music, while under his own name, Collins was producing similarly floor-focused sounds. They started Scissor & Thread to release Frank & Tony material, but the label also housed the new style of slow, reflective house music Harris had been producing. He's now released two solo full-lengths—including this year's excellent <i>Minutes Of Sleep</i>—both of which <a href=\"/feature.aspx?2019\">gracefully dealt</a> with themes of loss and mourning. A roster of like-minded artists—Bob Moses, Black Light Smoke, Gry Bagøien—has formed around Scissor & Thread, which has given it the sort of unique sonic identity that defines the very best labels. \n\nFrank & Tony's RA podcast is further evidence of the particularly creative headspace the duo are in right now. The mix draws almost entirely on their own productions, which includes three new tracks and revised versions of older material. Dubby basslines, soft melodies and muffled percussion are the beating heart of RA.446—just the sort of dulcet tones that slip down nicely at this time of year. \n\n\n<b>What have you been up to recently?</b>\n\nWe just came out of one year of production for our <i>You Go Girl</i> album, and have started recording new material to be released in 2015. We're rewiring the studio next week (again) with the luminary Phil Moffa, as well as engineering the next EP by our new artist Desert Sound Colony. This, along with keeping busy on the A&R front and continually developing our studio business, is keeping us rather busy.\n\n<b>How and where was the mix recorded?</b>\n\nIn our Brooklyn studio as an original production made with our Prophet 08, SE-1,a Juno 106, SH-101, TR-808 and an MFB 503/522, then sequenced in Ableton.  \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe wanted to do something special for the podcast, so an almost entirely new album came through, with a special edit of one of our favorite Fripp & Eno songs, some revised dubs of older productions and three brand new tracks. Save for three cuts, all of them were brand new productions made specifically for this podcast. \n\n<b>Were there any albums that came out this year that you particularly enjoyed?</b>\n \nThere was a lot of great music released this year, but in particular we loved:\n\nAnjou - Anjou\nGrouper - Ruins\nOrcas - Yearling\nAndy Stott - Faith In Strangers\nLoscil - Sea Island\nLeyland Kirby - The Death Of Rave\nThom Yorke - Tomorrow's Modern Boxes \n\n<b>Do you have a favourite DJ show from this year?</b> \n\nOur monthly residency, Punch Drunk Love, at Panther Room / Output. We play for nine-plus hours each time, which has really allowed us to mature as DJs. It's a special vibe with our audience. It truly feels like home where we can really explore the possibilities. We feel very lucky to have this.\n\n<b>What are you up to next?</b>\n\nPlanning the release schedule for 2015, touring the album, while individually and collectively working on new music. In between, enjoying our community of friends and family here in Brooklyn. We love it.",
+    "blurb": "New and exclusive music from one of 2014's standout acts. \r\n"
+  }
+}

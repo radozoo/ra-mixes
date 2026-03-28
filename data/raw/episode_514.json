@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "514",
+  "url": "https://ra.co/podcast/514",
+  "id": "514",
+  "__typename": "Podcast",
+  "title": "RA.514 Leafar Legov ",
+  "date": "2016-04-04T00:00:58.000Z",
+  "fileSize": 166372372,
+  "duration": "01:09:09",
+  "imageUrl": "https://static.ra.co/images/podcast/ra514-Leafar-Legov-cvr.jpg",
+  "contentUrl": "/podcast/514",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/259223739",
+  "keywords": "Giegling, Weimar, House, Blush, Kettenkarussell",
+  "artist": {
+    "id": "56080",
+    "__typename": "Artist",
+    "name": "Leafar Legov"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Leafar Legov is a quiet but essential member of the Giegling family. He and Konstantin were making music together in Hannover before the label formed—today, they are Kettenkarussell, a live act and production outfit whose bittersweet sound embodies Giegling's ineffable ethos. Perhaps even more than his label-mates, Legov's relationship with club music seems purely conditional—he'll follow its guidelines only when they happen to suit his creative impulses. With Kettenkarussell, he makes what could loosely be described as downtempo house. On his solo records, he offsets ambient sketches with somber hip-hop instrumentals. But his personal musical universe is still, for the most part, a mystery—aside from \"Blush,\" an excellent one-off from 2009 he made as Robert Oh, his first solo release was Giegling's latest EP, <i>Talk</i>, which came out in February. Abstract and subdued, it's a record that points to Giegling's emotional depth and stylistic open-endedness. \n\nLegov's RA Podcast is more committed to a 4/4 pulse, but it's still extraordinarily serene, ghosting through a sequence of vague and lovely cinematic images. Composed entirely of unreleased productions, it's a titillating glimpse of what Legov's got up his sleeve. \n\n\n<b>What have you been up to recently?</b>\n\nMostly I have been travelling with Konstantin and the others from Giegling. We had some beautiful showcases all over the universe. In between I've been making music most of the time and had some nice spring walks. \n\n<b>How and where was the mix recorded?</b>\n\nIt's all my own productions that I put together at home.\n\n<b>Could you tell us about the idea behind the mix?</b>\n\nI wanted to return to a certain feeling which I had when I first discovered electronic music. For this mix I selected songs that stayed with me for a while, that I wanted to listen to again and again. It's somehow out of my control, they don't feel \"made\" anymore because the technical side disappears and some sort of truth stays. But I also just wanted to make something easy, open and calm that is nice to listen to at home.\n\n<b>You've been part of Giegling since the beginning. How did you first meet the others, and what's it been like being part of that crew over the years?</b>\n\nI met Konstantin, Traumprinz and Vril in Hannover and we started making music together. We met the others in Weimar, while studying. We are friends, which makes things easy but also a little difficult sometimes because we know each other so well. Everything kind of grew bigger than we ever imagined, which makes us of course very happy but also leads to a lot of distractions. So sometimes we just had to sit down and polish that good old third eye to overcome our fears and to remember how it all started and what we really love and care for. It's all about love in the end.\n\n<b>Aside from a 12-inch As Robert Oh, <i>Talk</i> was your first solo release. When did you record it, and what was the creative process like? Do you have more solo records coming up?</b>\n\nI really love cinema and often sample soundtracks. When I was on a long tour with Kettenkarussell everything kind of felt very existential and like a movie itself. In that mood some of the songs started, mostly on the day after a show on a train. But when I came home to continue those sketches I often got stuck on new age YouTube channels while searching for samples, so it took a while to put it together ;). There will be more music coming out in the future.\n\n<b>Your sound as Leafar Legov is calm and delicate. For your live set, how do you make it work in a club?</b> \n\nI think when you feel good with what you play you can kind of do everything in a club. I'm often disappointed when I go out because a lot of DJs seem to play safe and without any surprises or risks and underestimate the people and what they could go for. Functional and banging stuff can be nice to go crazy and wild but some coming down afterwards is also pleasant, I think. And the calmer it gets the more you hear your soul.\n\n<b>What are you up to next?</b>\n\nThere are some new Kettenkarussell records coming out and I will play a little US tour in April. I'm really looking forward to meeting old and new friends over there. Also constantly meditating for world peace and hoping for the psytrance chill-out room to come back.\n",
+    "blurb": "Soothing rhythms from a Giegling mainstay."
+  }
+}

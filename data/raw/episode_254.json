@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "254",
+  "url": "https://ra.co/podcast/254",
+  "id": "254",
+  "__typename": "Podcast",
+  "title": "RA.254 Maceo Plex",
+  "date": "2011-04-11T00:01:06.000Z",
+  "fileSize": 88613172,
+  "duration": "01:13:46",
+  "imageUrl": "https://static.ra.co/images/podcast/ra254-maceo-plex-cvr.jpg",
+  "contentUrl": "/podcast/254",
+  "tracklist": "Ananda Project - Moment Before Dreaming (Idjut Boys Dub) \nChicken Lips - Eggy's Pause Button (Idjut Boys Remix)\nMaceo Plex - Deez Nuts \nDJ Mujava - Township Funk (Crazy P remix)\nMaceo Plex - Can't Leave You\nRobin Ordell - The Show\nLee Curtiss feat. Matt Tolfrey - Candy\nMidland - Bring Joy (Youandewan Warehouse Dub)\nMaceo Plex - Your Style (Maceo Plex Re-visit)\nGreg Paulus - Nighttime (Crazy P remix)\nMaceo Plex - Her Security",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra254/",
+  "keywords": "Maceo Plex, maetrik, crosstown, rebels, house, techno",
+  "artist": {
+    "id": "18948",
+    "__typename": "Artist",
+    "name": "Maceo Plex"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"Maceo Plex is me having fun,\" Eric Estornel <a href=\"http://eqtv.dj/video/maceo-plex/\">recently told</a> <i>EQTV</i>. Listen to his debut album under the moniker, <a href=\"/review-view.aspx?id=8519\"><i>Life Index</i></a>, and you can clearly see what he means. The album was camped in the quintessentially Crosstown Rebels terrain of slow-burning, yet floor-friendly house, and brought together enough outside influences to triumphantly nail the format. In opposition, Estornel said that his other main alias, Maetrik, is him \"thinking\" about his productions. How that manifests itself is tenebrous club music that could loosely be described as techno. Treibstoff, Mothership and Cocoon are among the many established labels to put out Maetrik productions since the debut record back in 2001, although, as is discussed below, Estornel has somehow flown below many peoples' radars for all these years. \n\nThe US-born, Valencia-based producer proffers a seedy 73 minutes of low-slung house on his mix for us, stopping off to enjoy a spot of disco and electro as he does so.  \n\n<b>What have you been up to recently?</b>\n\nRecently I've been mainly writing a lot of new Maceo Plex music and working on my live set. I had a really good debut of my live set at the Get Lost party in Miami last month and now I'm just finding ways to improve it further.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in my studio with Traktor using [digital] vinyl to mix. I'm not into using CDJs or mixing in Ableton. The mix was done in an on-the-fly type way the same as I would do in a club. I hate planning mixes too much, no fun.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nI mainly wanted to showcase some of my own new music as well as new and old tracks by people I really love. There's some Idjut Boys in there who have been huge influences in my music for the past 17 years.  Also some amazing stuff from Crazy P and cool new bits on some great labels I really like. No big idea behind it really, just great jams and a nice touch of beauty which I think is really important to round out a mix properly.\n\n<b>You've been releasing music for years yet people still refer to you as a word-of-mouth success. Why do you think that is?</b>\n\nYeah, that is weird. It could be that people aren't completely aware of me due to a lack of good PR for the past 11 years I've been releasing music. I never cared much about blowing up and having the best press shots or writing whatever style is in fashion. I make music my way and have fun with it. It's now that people are connecting a little better with the Maceo Plex style which could be because of the moment in time we are in musically and socially and the great job by Crosstown at getting it heard. I'm just going to continue improving myself as a producer and releasing tracks people wanna move to and hope that's enough to live beyond these \"15 minutes.\"\n\n<b>What are you up to next?</b>\n\nAt the moment finishing up and planning my next release on Crosstown called \"Can't Leave You.\"  Damian is getting some amazing remixers on board for it, and I'm sure it'll be insane. Also just finished something for Jamie Jones and Lee Foss' new label Hot Waves, and working closely with Jamie on planning some new fire for Hot Creations. I also have a remix I just did for Get Physical and another remix for the label Serialism. My Maceo Plex project is relatively new, and I've been having a crazy amount of remix requests coming so I'm still figuring out all that before announcing anything else. Under the name Maetrik I have a few remixes coming soon for Adam Beyer, Timo Maas and M.A.N.D.Y. And also a new EP on Cocoon titled <i>Crush On Me</i>. Busy, busy I suppose! ",
+    "blurb": "A new moniker from an old name. \r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "440",
+  "url": "https://ra.co/podcast/440",
+  "id": "440",
+  "__typename": "Podcast",
+  "title": "RA.440 DJ Spoko",
+  "date": "2014-11-03T00:00:46.000Z",
+  "fileSize": 99320787,
+  "duration": "00:41:12",
+  "imageUrl": "https://static.ra.co/images/podcast/ra440-dj-spoko-cvr.jpg",
+  "contentUrl": "/podcast/440",
+  "tracklist": "<i>The names of the 13 Demons surrounding the throne of War God. Dot Hash Six-6-Six Session</i>\n\nFinal Cut\nLast Temple\nGet Down\nLate Night War\nDot Hash Six\nEvil City\nOl' Skull\nDilotse\nLast Man\nMusic In Da Dark\nBatauweng ft Kapa Kapa\nSobibo\nAbbadon",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra440/",
+  "keywords": "True Panther, Ghost Town, War God, Lit City Trax, Township Funk, DJ Mujava, Nozinja, Atteridgeville",
+  "artist": {
+    "id": "0",
+    "__typename": "Artist",
+    "name": null
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "DJ Spoko is one of just a handful of South African dance producers whose music has found an audience outside of the continent—a shame when you consider just how good his hometown's sound is. You might remember DJ Mujava's manic 2008 track \"Township Funk,\" which eventually got a release through Warp, but you may not know that Spoko was a collaborator on the track—its \"percussive mastermind,\" in fact. Even at that point in time, Spoko had been bubbling away in the South African underground since the early '00s. He started producing aged 12, out of the Atteridgeville township near Pretoria, and spent three years travelling to Soweto where he studied sound engineering under Nozinja, the legendary producer who created the frenetic Shangaan electro style. Last year Spoko secured his first full release in the outside of South Africa, after catching the ear of the New York label True Panther Sounds. <i>Ghost Town</i> introduced the sound of Bacardi house, a term Spoko coined to describe his bubbly, hyper-rhythmic form of house music. Last month, he delivered <i>WAR GOD</i>, a sprawling 20-track collection on Lit City Trax that rolled through the many shades of that style.    \n\nAs Spoko's RA podcast shows, this is celebratory music with a dark side. The tracks are labeled as the \"13 Demons surrounding the throne of War God,\" and the oppressive smash of the snares and melancholic tint on the synths grounds the set in the tough environments in which it was created.\n\n\n<b>What have you been up to recently?</b> \n\nWorking with new talent from Pretoria on new productions and remixing some of them. \n\n<b>How and where was the mix recorded?</b>\n\nThe Ghost's Kitchen with Serato.  \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea is to highlight the future of Bacardi house: I used mostly unknown songs. That means there's more after <i>WAR GOD</i>. \n\n<b>Could you explain the origins of the term Bacardi house?</b>\n \nIt's slang. Normally Bacardi is a cider but if you mix it with what I use to call dikwakwa it becomes Bacardi house.\n\n<b>Have you seen a substantial increase in young South Africans making music in recent years?</b>\n\nYes, most of the youth are off crime now trying hard to be like me hahaha! \n\n<b>What are you up to next?</b> \n\nI'm up to no good. The <i>Fantasma</i> EP/album has been done as DJ Mujava x DJ Spoko. It's one of many things about to happen.",
+    "blurb": "Township sounds. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "585",
+  "url": "https://ra.co/podcast/585",
+  "id": "585",
+  "__typename": "Podcast",
+  "title": "RA.585 Francis Inferno Orchestra",
+  "date": "2017-08-14T00:00:33.000Z",
+  "fileSize": 197949776,
+  "duration": "01:22:19",
+  "imageUrl": "https://static.ra.co/images/podcast/ra585-francis-inferno-orchestra-cvr.jpg",
+  "contentUrl": "/podcast/585",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/337802662",
+  "keywords": "Griffin James, House, Disco, Superconscious, Tornado Wallace, Fantastic Man, ",
+  "artist": {
+    "id": "15929",
+    "__typename": "Artist",
+    "name": "Francis Inferno Orchestra"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Griffin James was barely out of his teens when Melbourne's deep house scene began to attract <a href=\"/features/1553\">international attention</a>, but he was already one of the city's key artists. Five years later, him and Australian artists such as Tornado Wallace and Fantastic Man call Europe home, pumping out melody-rich house and disco while DJing in clubs most weekends. Moving between disco, house, acid and more out-there sounds, James takes an anything-goes approach to DJing that was learnt in a city where variety is key. \"There are plenty of DJs in Australia who just play one style,\" he <a href=\"/features/1953\">told</a> RA in 2012. \"They'll be here and gone again pretty quickly.\"\n\nAn accomplished producer, James has released sunny 12-inches on labels such as Let's Play House and Drumpoet Community. He also linked up with Fantastic Man to found Superconscious Records, the label that hosted his recent <a href=\"/reviews/20776\">homage</a> to Italian dream house. RA.585 is more upbeat than his textured Francis Inferno Orchestra 12-inches might suggest, full of crunchy drums and big melodies, and spanning boogie, pop, house, disco and beyond. Recorded with a post-apocalyptic club in mind, it captures a side of James you can usually only catch when he's behind the decks.  \n  \n\n<b>What have you been up to recently?</b>\n\nQuite a bit, actually. Finished up an LP. Trying to finish some original material and some remixes. Travelling and playing records around Europe. Eating oysters (together with playing records, sometimes). \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded a few months ago in room two at Corsica Studios during office hours on two 1210s, two CDJs and an Allen & Heath Zone:92 mixer. It was actually recorded a few days before the tragic passing of Amanda Moss (cofounder of Corsica Studios) so I wanted to dedicate this mix to her. \n\n<b>Could you tell us about the idea behind the mix?</b>\n\nThe idea stemmed out of a conversation I had not too long ago with my friend and very casual DJ partner Dan Beaumont one night at Dalston Superstore in London, where we discussed our mutual appreciation for the <i>Mad Max</i> film series—not just the story but also the aesthetic of the dystopian world Max lives in. Dan mentioned how if we ever found ourselves living in one of these post-apocalyptic worlds that he would want to own the club. So this mix is what I think the club would sound like, while hopefully staying true to myself.\n\n<b>You explored the Italian dream house sound on a release earlier this year. What got you interested in the style?</b>\n\nI guess it was euphoric trancey nature of the sound that initially got me interested. When I first started finding the labels in the style, all the records were bargain-bin prices—that's probably changed since Young Marco made that compilation. The funny thing is that, for the most part, the Italians don't vibe that stuff at all.\n\n<b>We understand you recently moved to Berlin after living in London. Is it an issue in the Australian scene that the country's most successful artists often leave for Europe? </b>\n\nI'm in Berlin at the moment, but I haven't decided how long I'll be here. It's a nice base to have over the summer, for sure. I don't really think the \"most successful artists\" leaving is an issue at all. There's an abundance of people doing very interesting and creative things who are holding it down just fine. The real issues are things like losing venues such as Mercat Basement in Melbourne or Sydney's lockout law situation, which are making things really shit for a lot of people.\n\n<b>What are you up to next?</b>\n\nI have a new project that I've been working on for the last three or so years that I'll be releasing in the form of an LP next month. I'm really excited for that as it's totally different to anything else I've put out. I'll be playing a bunch of shows and eating more oysters around Europe, Asia and Australia for the rest of the year, too. On my label Superconscious that I run with Fantastic Man, we have a really nice mini-LP from the Melbourne duo Cheap Present that will be out next month. We have a few label parties in Europe coming, so look out for those. Thanks for listening.\n",
+    "blurb": "Party music for the apocalypse."
+  }
+}

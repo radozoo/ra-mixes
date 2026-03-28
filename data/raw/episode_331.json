@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "331",
+  "url": "https://ra.co/podcast/331",
+  "id": "331",
+  "__typename": "Podcast",
+  "title": "RA.331 Joy Orbison",
+  "date": "2012-10-01T00:01:28.000Z",
+  "fileSize": 80424239,
+  "duration": "01:06:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra331-joy-orbison-cvr.jpg",
+  "contentUrl": "/podcast/331",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra331/",
+  "keywords": "Joy Orbison, Joy O, Ellipsis, Swims, SunkLo, Doldrums ",
+  "artist": {
+    "id": "10669",
+    "__typename": "Artist",
+    "name": "Joy Orbison"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "We don't often talk about \"one hit wonders\" in dance music—that sort of spectacular taking over of the planet and then falling clean off it is generally a cliché of pop—but few producers have as much to live up to after their first release as Joy Orbison: no tune since, and not many in the recent past before it, has been the bona fide phenomenon that his debut \"Hyph Mngo\" was in 2009. But rather than trip up trying to match or even leap over the hype, Peter O'Grady took the opportunity to just be himself. It's been a pretty good look for him. \n\nExcitement still bubbles up whenever Joy O drops a new side, either solo or with <a href=\"/feature.aspx?1638\">kindred spirit</a> Boddika but he certainly doesn't sound like he's chasing past glory on recent hits like \"Ellipsis\" and \"Swims.\" If anything, he's taken an admirably laidback approach, nurturing a sound that nods increasingly to his early influences with a sprinkling of the nervy now-ness that defined his first hit.\n\nJust as he has in his production career, Joy Orbison takes his time on RA.331, a slow churn of warm techno and subtly steppin' R&B-inflected house with heat that sneaks up on you. Self-referencing intro aside, it's about as easy-going a set as you'll get from one of underground dance music's biggest names.\n\n<b>What have you been up to recently?</b>\n\nI have been mostly down at [Boddika's studio] The Zoo with Al, as well as DJing a fair bit and working on a few other projects.\n\n<b>How and where was the mix recorded?</b>\n\nAt home in my front room on 1210's, CDJ's and an Allen & Heath Xone 92 mixer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to capture elements of how I play at my residency for meandyou. in Manchester and also incorporate my sets elsewhere. Quite like the idea of people listening to it before a night out but essentially I hope it's an engaging listen that doesn't necessarily rely on the idea of a club setting for it to make sense.\n\n<b>Which DJs—now, in the past—do you particularly enjoy hearing?</b> \n\nWell I grew up listening to DJ's like EZ and Nicky Blackmarket so although my tastes may have altered a bit as I got older I still look for something quite raw and exciting in the DJs I enjoy today. I've had some great moments dancing to Even Tuell, Theo Parrish, Prosumer and Levon Vincent over the last few years.\n\n<b>How would you describe your own style? Would you say you have a particular approach or aim?</b>\n\nNot sure if I really have a style... I like the music to make sense but not necessarily too similar in sound or era. I wanted this mix to feel live though, a bit of human error can be quite comforting and reminds me of listening to tape packs and wanting to be a DJ when I got older.\n\n<b>What are you up to next?</b> \n\nMore <a href=\"/record-label.aspx?id=7515\">SunkLo</a>, some new bits from myself and lots more meandyou.",
+    "blurb": "A rare mix from one of the UK's most singular artists."
+  }
+}

@@ -1,0 +1,9854 @@
+[
+  {
+    "id": "artist:Main Phase",
+    "type": "artist",
+    "label": "Main Phase",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "UK Garage",
+      "Dub Techno"
+    ]
+  },
+  {
+    "id": "artist:Valentina Magaletti",
+    "type": "artist",
+    "label": "Valentina Magaletti",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Dub",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:DJ Plead",
+    "type": "artist",
+    "label": "DJ Plead",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:JADALAREIGN",
+    "type": "artist",
+    "label": "JADALAREIGN",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Moodymann",
+    "type": "artist",
+    "label": "Moodymann",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Acid House"
+    ]
+  },
+  {
+    "id": "artist:OMOLOKO",
+    "type": "artist",
+    "label": "OMOLOKO",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Decoder",
+    "type": "artist",
+    "label": "Decoder",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Synth Pop",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:KAVARI",
+    "type": "artist",
+    "label": "KAVARI",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Dubstep",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Special Guest DJ",
+    "type": "artist",
+    "label": "Special Guest DJ",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Dub Techno"
+    ]
+  },
+  {
+    "id": "artist:OK Williams",
+    "type": "artist",
+    "label": "OK Williams",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:DJ Love (PHL)",
+    "type": "artist",
+    "label": "DJ Love (PHL)",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:Unai Trotti",
+    "type": "artist",
+    "label": "Unai Trotti",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Mala",
+    "type": "artist",
+    "label": "Mala",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Minimal Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Dave Huismans",
+    "type": "artist",
+    "label": "Dave Huismans",
+    "episode_count": 2,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Wax'o Paradiso",
+    "type": "artist",
+    "label": "Wax'o Paradiso",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Balearic"
+    ]
+  },
+  {
+    "id": "artist:LSDXOXO",
+    "type": "artist",
+    "label": "LSDXOXO",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:Carrier",
+    "type": "artist",
+    "label": "Carrier",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:UNiiQU3",
+    "type": "artist",
+    "label": "UNiiQU3",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Laelo Black",
+    "type": "artist",
+    "label": "Laelo Black",
+    "episode_count": 1,
+    "top_genres": [
+      "Hip Hop",
+      "Funk",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Juliana Huxtable",
+    "type": "artist",
+    "label": "Juliana Huxtable",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Oriana",
+    "type": "artist",
+    "label": "Oriana",
+    "episode_count": 1,
+    "top_genres": [
+      "Downtempo",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Grand River",
+    "type": "artist",
+    "label": "Grand River",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:SALOME",
+    "type": "artist",
+    "label": "SALOME",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Fort Romeau",
+    "type": "artist",
+    "label": "Fort Romeau",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Trance",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Chippy Nonstop",
+    "type": "artist",
+    "label": "Chippy Nonstop",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hard Techno"
+    ]
+  },
+  {
+    "id": "artist:MikeQ",
+    "type": "artist",
+    "label": "MikeQ",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Castro Moore",
+    "type": "artist",
+    "label": "Castro Moore",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Earl Jeffers",
+    "type": "artist",
+    "label": "Earl Jeffers",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Funk",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Mella Dee",
+    "type": "artist",
+    "label": "Mella Dee",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Jyoty",
+    "type": "artist",
+    "label": "Jyoty",
+    "episode_count": 2,
+    "top_genres": [
+      "Soul",
+      "UK Garage",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:SKY H1",
+    "type": "artist",
+    "label": "SKY H1",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Breakbeat",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:Bradley Zero",
+    "type": "artist",
+    "label": "Bradley Zero",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:OKO DJ",
+    "type": "artist",
+    "label": "OKO DJ",
+    "episode_count": 1,
+    "top_genres": [
+      "Breakbeat",
+      "Nu-Disco",
+      "Post Punk"
+    ]
+  },
+  {
+    "id": "artist:Flava D",
+    "type": "artist",
+    "label": "Flava D",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Maher Daniel",
+    "type": "artist",
+    "label": "Maher Daniel",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:DJ LAG",
+    "type": "artist",
+    "label": "DJ LAG",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Afro House"
+    ]
+  },
+  {
+    "id": "artist:Sunju Hargun",
+    "type": "artist",
+    "label": "Sunju Hargun",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:GiGi FM",
+    "type": "artist",
+    "label": "GiGi FM",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Clark",
+    "type": "artist",
+    "label": "Clark",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Detroit Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Nicola Cruz",
+    "type": "artist",
+    "label": "Nicola Cruz",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Ahadadream",
+    "type": "artist",
+    "label": "Ahadadream",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Afro House"
+    ]
+  },
+  {
+    "id": "artist:Physical Therapy",
+    "type": "artist",
+    "label": "Physical Therapy",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Berlin Techno",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:NIKS",
+    "type": "artist",
+    "label": "NIKS",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Louie Vega",
+    "type": "artist",
+    "label": "Louie Vega",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:HAAi",
+    "type": "artist",
+    "label": "HAAi",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Roy Davis Jr",
+    "type": "artist",
+    "label": "Roy Davis Jr",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Madam X",
+    "type": "artist",
+    "label": "Madam X",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Jungle",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Ciel",
+    "type": "artist",
+    "label": "Ciel",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Nick León",
+    "type": "artist",
+    "label": "Nick León",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Emerald",
+    "type": "artist",
+    "label": "Emerald",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Marco Weibel",
+    "type": "artist",
+    "label": "Marco Weibel",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Deadbeat",
+    "type": "artist",
+    "label": "Deadbeat",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "Dub Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Gabrielle Kwarteng",
+    "type": "artist",
+    "label": "Gabrielle Kwarteng",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:OSSX",
+    "type": "artist",
+    "label": "OSSX",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "UK Garage",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Eli Escobar",
+    "type": "artist",
+    "label": "Eli Escobar",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:The Lady Machine",
+    "type": "artist",
+    "label": "The Lady Machine",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Kelly Lee Owens",
+    "type": "artist",
+    "label": "Kelly Lee Owens",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Tropical"
+    ]
+  },
+  {
+    "id": "artist:Fadi Mohem",
+    "type": "artist",
+    "label": "Fadi Mohem",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub",
+      "IDM"
+    ]
+  },
+  {
+    "id": "artist:Nosedrip",
+    "type": "artist",
+    "label": "Nosedrip",
+    "episode_count": 1,
+    "top_genres": [
+      "Trance",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Nadia Struiwigh",
+    "type": "artist",
+    "label": "Nadia Struiwigh",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:DJ Noir",
+    "type": "artist",
+    "label": "DJ Noir",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Bella Boo",
+    "type": "artist",
+    "label": "Bella Boo",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Nikki Nair",
+    "type": "artist",
+    "label": "Nikki Nair",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:¥ØU$UK€ ¥UK1MAT$U",
+    "type": "artist",
+    "label": "¥ØU$UK€ ¥UK1MAT$U",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Nene H",
+    "type": "artist",
+    "label": "Nene H",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Hamish & Toby",
+    "type": "artist",
+    "label": "Hamish & Toby",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Infinity Division",
+    "type": "artist",
+    "label": "Infinity Division",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Lakuti",
+    "type": "artist",
+    "label": "Lakuti",
+    "episode_count": 2,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Francois K",
+    "type": "artist",
+    "label": "Francois K",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub Techno"
+    ]
+  },
+  {
+    "id": "artist:DJ Nobu",
+    "type": "artist",
+    "label": "DJ Nobu",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Karizma",
+    "type": "artist",
+    "label": "Karizma",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Marie Davidson",
+    "type": "artist",
+    "label": "Marie Davidson",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Trance",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:DJ Voices",
+    "type": "artist",
+    "label": "DJ Voices",
+    "episode_count": 1,
+    "top_genres": [
+      "Jungle",
+      "Breakbeat",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Colleen 'Cosmo' Murphy",
+    "type": "artist",
+    "label": "Colleen 'Cosmo' Murphy",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Mount Kimbie",
+    "type": "artist",
+    "label": "Mount Kimbie",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "Detroit Techno",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:Sedef Adasï",
+    "type": "artist",
+    "label": "Sedef Adasï",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Yazzus",
+    "type": "artist",
+    "label": "Yazzus",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Earth Trax",
+    "type": "artist",
+    "label": "Earth Trax",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Skee Mask",
+    "type": "artist",
+    "label": "Skee Mask",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Anetha",
+    "type": "artist",
+    "label": "Anetha",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:Dam Swindle",
+    "type": "artist",
+    "label": "Dam Swindle",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Cardopusher",
+    "type": "artist",
+    "label": "Cardopusher",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Trance",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Femanyst",
+    "type": "artist",
+    "label": "Femanyst",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Avtomat",
+    "type": "artist",
+    "label": "Avtomat",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Breakbeat",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Jen Cardini",
+    "type": "artist",
+    "label": "Jen Cardini",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Kikelomo",
+    "type": "artist",
+    "label": "Kikelomo",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Joe Delon",
+    "type": "artist",
+    "label": "Joe Delon",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Solid Blake",
+    "type": "artist",
+    "label": "Solid Blake",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:ISAbella",
+    "type": "artist",
+    "label": "ISAbella",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Rebolledo",
+    "type": "artist",
+    "label": "Rebolledo",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Eddie Fowlkes",
+    "type": "artist",
+    "label": "Eddie Fowlkes",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:Akua",
+    "type": "artist",
+    "label": "Akua",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:V.I.V.E.K.",
+    "type": "artist",
+    "label": "V.I.V.E.K.",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Dub",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Bill Kouligas",
+    "type": "artist",
+    "label": "Bill Kouligas",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Noise",
+      "Spoken Word"
+    ]
+  },
+  {
+    "id": "artist:Elisa Bee",
+    "type": "artist",
+    "label": "Elisa Bee",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Otik",
+    "type": "artist",
+    "label": "Otik",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Fever Ray",
+    "type": "artist",
+    "label": "Fever Ray",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Synth Pop",
+      "Tropical"
+    ]
+  },
+  {
+    "id": "artist:Etapp Kyle",
+    "type": "artist",
+    "label": "Etapp Kyle",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Cormac",
+    "type": "artist",
+    "label": "Cormac",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Italo Disco"
+    ]
+  },
+  {
+    "id": "artist:Daria Kolosova",
+    "type": "artist",
+    "label": "Daria Kolosova",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Shinedoe",
+    "type": "artist",
+    "label": "Shinedoe",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Hieroglyphic Being",
+    "type": "artist",
+    "label": "Hieroglyphic Being",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Chicago House",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:DJ MELL G",
+    "type": "artist",
+    "label": "DJ MELL G",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Truncate",
+    "type": "artist",
+    "label": "Truncate",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Jorkes",
+    "type": "artist",
+    "label": "Jorkes",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Lamin Fofana",
+    "type": "artist",
+    "label": "Lamin Fofana",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Andrés",
+    "type": "artist",
+    "label": "Andrés",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Todd Terry",
+    "type": "artist",
+    "label": "Todd Terry",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Jungle",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Ruby Savage",
+    "type": "artist",
+    "label": "Ruby Savage",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Dub",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Kerrie",
+    "type": "artist",
+    "label": "Kerrie",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:IG Culture",
+    "type": "artist",
+    "label": "IG Culture",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Colored Craig",
+    "type": "artist",
+    "label": "Colored Craig",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Stacey Hotwaxx Hale",
+    "type": "artist",
+    "label": "Stacey Hotwaxx Hale",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Total Freedom",
+    "type": "artist",
+    "label": "Total Freedom",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:Clarisa Kimskii",
+    "type": "artist",
+    "label": "Clarisa Kimskii",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Di Linh",
+    "type": "artist",
+    "label": "Di Linh",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:µ-Ziq",
+    "type": "artist",
+    "label": "µ-Ziq",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Footwork",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Diskonnected",
+    "type": "artist",
+    "label": "Diskonnected",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Goldie",
+    "type": "artist",
+    "label": "Goldie",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Azu Tiwaline",
+    "type": "artist",
+    "label": "Azu Tiwaline",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Ambient Techno"
+    ]
+  },
+  {
+    "id": "artist:AIDA (CA)",
+    "type": "artist",
+    "label": "AIDA (CA)",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Facta",
+    "type": "artist",
+    "label": "Facta",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Bake",
+    "type": "artist",
+    "label": "Bake",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Kasra",
+    "type": "artist",
+    "label": "Kasra",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Shy One",
+    "type": "artist",
+    "label": "Shy One",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Grime"
+    ]
+  },
+  {
+    "id": "artist:Florentino",
+    "type": "artist",
+    "label": "Florentino",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:33EMYBW",
+    "type": "artist",
+    "label": "33EMYBW",
+    "episode_count": 1,
+    "top_genres": [
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Delano Smith",
+    "type": "artist",
+    "label": "Delano Smith",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Quest (IT)",
+    "type": "artist",
+    "label": "Quest (IT)",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Dr Banana",
+    "type": "artist",
+    "label": "Dr Banana",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Purelink",
+    "type": "artist",
+    "label": "Purelink",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient Techno",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Soul Summit Music",
+    "type": "artist",
+    "label": "Soul Summit Music",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Funk",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Ariel Zetina",
+    "type": "artist",
+    "label": "Ariel Zetina",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Client_03",
+    "type": "artist",
+    "label": "Client_03",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Jungle",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Manuka Honey",
+    "type": "artist",
+    "label": "Manuka Honey",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Funk",
+      "Afro House"
+    ]
+  },
+  {
+    "id": "artist:Mogwaa",
+    "type": "artist",
+    "label": "Mogwaa",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Rick Wade",
+    "type": "artist",
+    "label": "Rick Wade",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Bitter Babe",
+    "type": "artist",
+    "label": "Bitter Babe",
+    "episode_count": 2,
+    "top_genres": [
+      "Latin",
+      "Reggaeton",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Shubostar",
+    "type": "artist",
+    "label": "Shubostar",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:FAUZIA",
+    "type": "artist",
+    "label": "FAUZIA",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Ambient",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Sugar Free",
+    "type": "artist",
+    "label": "Sugar Free",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Italo Disco"
+    ]
+  },
+  {
+    "id": "artist:Introspekt",
+    "type": "artist",
+    "label": "Introspekt",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Garage House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:INVT",
+    "type": "artist",
+    "label": "INVT",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Setaoc Mass",
+    "type": "artist",
+    "label": "Setaoc Mass",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:1morning",
+    "type": "artist",
+    "label": "1morning",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:KI/KI",
+    "type": "artist",
+    "label": "KI/KI",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Trance",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:T.Williams",
+    "type": "artist",
+    "label": "T.Williams",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Julia Govor",
+    "type": "artist",
+    "label": "Julia Govor",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Experimental",
+      "Classical"
+    ]
+  },
+  {
+    "id": "artist:Actress",
+    "type": "artist",
+    "label": "Actress",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:BEIGE",
+    "type": "artist",
+    "label": "BEIGE",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:MUSCLECARS",
+    "type": "artist",
+    "label": "MUSCLECARS",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:DJ Flight",
+    "type": "artist",
+    "label": "DJ Flight",
+    "episode_count": 1,
+    "top_genres": [
+      "Jungle",
+      "Noise",
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:Sofia Kourtesis",
+    "type": "artist",
+    "label": "Sofia Kourtesis",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:TSVI",
+    "type": "artist",
+    "label": "TSVI",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:KYRUH",
+    "type": "artist",
+    "label": "KYRUH",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:DAR DISKU",
+    "type": "artist",
+    "label": "DAR DISKU",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:LYDO",
+    "type": "artist",
+    "label": "LYDO",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Noise",
+      "Balearic"
+    ]
+  },
+  {
+    "id": "artist:Amor Satyr",
+    "type": "artist",
+    "label": "Amor Satyr",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Jungle",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:DJ PGZ",
+    "type": "artist",
+    "label": "DJ PGZ",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Ayanna Heaven",
+    "type": "artist",
+    "label": "Ayanna Heaven",
+    "episode_count": 1,
+    "top_genres": [
+      "Funk",
+      "Soul",
+      "Reggae"
+    ]
+  },
+  {
+    "id": "artist:KRN",
+    "type": "artist",
+    "label": "KRN",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Two Shell",
+    "type": "artist",
+    "label": "Two Shell",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:999999999",
+    "type": "artist",
+    "label": "999999999",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hard Techno"
+    ]
+  },
+  {
+    "id": "artist:Rey Colino",
+    "type": "artist",
+    "label": "Rey Colino",
+    "episode_count": 1,
+    "top_genres": [
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Polygonia",
+    "type": "artist",
+    "label": "Polygonia",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:S-candalo",
+    "type": "artist",
+    "label": "S-candalo",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Nídia",
+    "type": "artist",
+    "label": "Nídia",
+    "episode_count": 1,
+    "top_genres": [
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:Slipmatt",
+    "type": "artist",
+    "label": "Slipmatt",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Acid House",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:DITA (ID)",
+    "type": "artist",
+    "label": "DITA (ID)",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Funk Assault",
+    "type": "artist",
+    "label": "Funk Assault",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Beatrice M.",
+    "type": "artist",
+    "label": "Beatrice M.",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Joker",
+    "type": "artist",
+    "label": "Joker",
+    "episode_count": 1,
+    "top_genres": [
+      "Funk",
+      "R&B",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Kiernan Laveaux",
+    "type": "artist",
+    "label": "Kiernan Laveaux",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Acid House",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Fumiya Tanaka",
+    "type": "artist",
+    "label": "Fumiya Tanaka",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Loidis",
+    "type": "artist",
+    "label": "Loidis",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:PAURRO",
+    "type": "artist",
+    "label": "PAURRO",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Latin"
+    ]
+  },
+  {
+    "id": "artist:Konduku",
+    "type": "artist",
+    "label": "Konduku",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Barry Can't Swim",
+    "type": "artist",
+    "label": "Barry Can't Swim",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Wave",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Lukas Wigflex",
+    "type": "artist",
+    "label": "Lukas Wigflex",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "EBM"
+    ]
+  },
+  {
+    "id": "artist:upsammy",
+    "type": "artist",
+    "label": "upsammy",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "IDM"
+    ]
+  },
+  {
+    "id": "artist:DJ MARIA.",
+    "type": "artist",
+    "label": "DJ MARIA.",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Afriqua",
+    "type": "artist",
+    "label": "Afriqua",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Kia (AU)",
+    "type": "artist",
+    "label": "Kia (AU)",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Black Rave Culture",
+    "type": "artist",
+    "label": "Black Rave Culture",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "UK Garage",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:livwutang",
+    "type": "artist",
+    "label": "livwutang",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Sansibar",
+    "type": "artist",
+    "label": "Sansibar",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Dazegxd",
+    "type": "artist",
+    "label": "Dazegxd",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "UK Garage",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Sandwell District",
+    "type": "artist",
+    "label": "Sandwell District",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Lyra Pramuk",
+    "type": "artist",
+    "label": "Lyra Pramuk",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Breakbeat",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Philippa Pacho",
+    "type": "artist",
+    "label": "Philippa Pacho",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat",
+      "Glitch"
+    ]
+  },
+  {
+    "id": "artist:MALUGI",
+    "type": "artist",
+    "label": "MALUGI",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Barker",
+    "type": "artist",
+    "label": "Barker",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Ayesha",
+    "type": "artist",
+    "label": "Ayesha",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:DJ Travella",
+    "type": "artist",
+    "label": "DJ Travella",
+    "episode_count": 1,
+    "top_genres": [
+      "Jungle",
+      "Hardcore",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Lechuga Zafiro",
+    "type": "artist",
+    "label": "Lechuga Zafiro",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Trance",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Suze Ijó",
+    "type": "artist",
+    "label": "Suze Ijó",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:gyrofield",
+    "type": "artist",
+    "label": "gyrofield",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Jungle",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:PLO Man",
+    "type": "artist",
+    "label": "PLO Man",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Binh",
+    "type": "artist",
+    "label": "Binh",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:bastiengoat",
+    "type": "artist",
+    "label": "bastiengoat",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:BADSISTA",
+    "type": "artist",
+    "label": "BADSISTA",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Funk",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Laurel Halo",
+    "type": "artist",
+    "label": "Laurel Halo",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:D.Dan",
+    "type": "artist",
+    "label": "D.Dan",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Kampire",
+    "type": "artist",
+    "label": "Kampire",
+    "episode_count": 3,
+    "top_genres": [
+      "Experimental",
+      "Afrobeats",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Ron Trent",
+    "type": "artist",
+    "label": "Ron Trent",
+    "episode_count": 2,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Ash Lauryn",
+    "type": "artist",
+    "label": "Ash Lauryn",
+    "episode_count": 2,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:Verraco",
+    "type": "artist",
+    "label": "Verraco",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "Latin",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Roza Terenzi",
+    "type": "artist",
+    "label": "Roza Terenzi",
+    "episode_count": 2,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Kim Ann Foxman",
+    "type": "artist",
+    "label": "Kim Ann Foxman",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Regal86",
+    "type": "artist",
+    "label": "Regal86",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Peach",
+    "type": "artist",
+    "label": "Peach",
+    "episode_count": 2,
+    "top_genres": [
+      "House",
+      "R&B",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:DJ Spinn",
+    "type": "artist",
+    "label": "DJ Spinn",
+    "episode_count": 1,
+    "top_genres": [
+      "R&B",
+      "Footwork"
+    ]
+  },
+  {
+    "id": "artist:Margaret Dygas",
+    "type": "artist",
+    "label": "Margaret Dygas",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Theo Parrish",
+    "type": "artist",
+    "label": "Theo Parrish",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Sama' Abdulhadi",
+    "type": "artist",
+    "label": "Sama' Abdulhadi",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Mark Ernestus",
+    "type": "artist",
+    "label": "Mark Ernestus",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Tim Reaper",
+    "type": "artist",
+    "label": "Tim Reaper",
+    "episode_count": 2,
+    "top_genres": [
+      "Jungle",
+      "Hardcore",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Terre Thaemlitz",
+    "type": "artist",
+    "label": "Terre Thaemlitz",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Bicep",
+    "type": "artist",
+    "label": "Bicep",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:DJ Harvey",
+    "type": "artist",
+    "label": "DJ Harvey",
+    "episode_count": 2,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Helena Hauff",
+    "type": "artist",
+    "label": "Helena Hauff",
+    "episode_count": 2,
+    "top_genres": [
+      "Electro",
+      "EBM",
+      "New Wave"
+    ]
+  },
+  {
+    "id": "artist:Frankie Knuckles",
+    "type": "artist",
+    "label": "Frankie Knuckles",
+    "episode_count": 2,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Chicago House"
+    ]
+  },
+  {
+    "id": "artist:Adrian Sherwood",
+    "type": "artist",
+    "label": "Adrian Sherwood",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Acid House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Nooriyah",
+    "type": "artist",
+    "label": "Nooriyah",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:XDB",
+    "type": "artist",
+    "label": "XDB",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:dj sweet6teen",
+    "type": "artist",
+    "label": "dj sweet6teen",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Lucrecia Dalt",
+    "type": "artist",
+    "label": "Lucrecia Dalt",
+    "episode_count": 1,
+    "top_genres": [
+      "Downtempo",
+      "Latin",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Speedy J",
+    "type": "artist",
+    "label": "Speedy J",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Hard Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:mi-el",
+    "type": "artist",
+    "label": "mi-el",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Enzo Siragusa",
+    "type": "artist",
+    "label": "Enzo Siragusa",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Shinichi Atobe",
+    "type": "artist",
+    "label": "Shinichi Atobe",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:The Blessed Madonna",
+    "type": "artist",
+    "label": "The Blessed Madonna",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Chicago House"
+    ]
+  },
+  {
+    "id": "artist:Neel",
+    "type": "artist",
+    "label": "Neel",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:Etienne",
+    "type": "artist",
+    "label": "Etienne",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Eris Drew",
+    "type": "artist",
+    "label": "Eris Drew",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Chris SSG",
+    "type": "artist",
+    "label": "Chris SSG",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Scott Zacharias",
+    "type": "artist",
+    "label": "Scott Zacharias",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Peggy Gou",
+    "type": "artist",
+    "label": "Peggy Gou",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:DJ Bus Replacement Service",
+    "type": "artist",
+    "label": "DJ Bus Replacement Service",
+    "episode_count": 1,
+    "top_genres": [
+      "Hardcore",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:DJ Spinna",
+    "type": "artist",
+    "label": "DJ Spinna",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Funk",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:The Outside Agency",
+    "type": "artist",
+    "label": "The Outside Agency",
+    "episode_count": 1,
+    "top_genres": [
+      "Hardcore",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:East Man",
+    "type": "artist",
+    "label": "East Man",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Techno",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Sync 24",
+    "type": "artist",
+    "label": "Sync 24",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Classical"
+    ]
+  },
+  {
+    "id": "artist:Shyboi",
+    "type": "artist",
+    "label": "Shyboi",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat",
+      "Dancehall"
+    ]
+  },
+  {
+    "id": "artist:Wata Igarashi",
+    "type": "artist",
+    "label": "Wata Igarashi",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:John Dimas",
+    "type": "artist",
+    "label": "John Dimas",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Gwenan",
+    "type": "artist",
+    "label": "Gwenan",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:dgoHn",
+    "type": "artist",
+    "label": "dgoHn",
+    "episode_count": 1,
+    "top_genres": [
+      "Drum and Bass",
+      "IDM",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Grouper",
+    "type": "artist",
+    "label": "Grouper",
+    "episode_count": 1,
+    "top_genres": [
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:Alienata",
+    "type": "artist",
+    "label": "Alienata",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "IDM"
+    ]
+  },
+  {
+    "id": "artist:Underground Resistance",
+    "type": "artist",
+    "label": "Underground Resistance",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Charlotte de Witte",
+    "type": "artist",
+    "label": "Charlotte de Witte",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Alexander Nut",
+    "type": "artist",
+    "label": "Alexander Nut",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Zozo",
+    "type": "artist",
+    "label": "Zozo",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Traxx",
+    "type": "artist",
+    "label": "Traxx",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Parris",
+    "type": "artist",
+    "label": "Parris",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Ambient",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Amelie Lens",
+    "type": "artist",
+    "label": "Amelie Lens",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "EBM",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Yoshinori Hayashi",
+    "type": "artist",
+    "label": "Yoshinori Hayashi",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Buttechno",
+    "type": "artist",
+    "label": "Buttechno",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Raphaël Top-Secret",
+    "type": "artist",
+    "label": "Raphaël Top-Secret",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Dub",
+      "Italo Disco"
+    ]
+  },
+  {
+    "id": "artist:Julianna",
+    "type": "artist",
+    "label": "Julianna",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Acronym",
+    "type": "artist",
+    "label": "Acronym",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:John Gómez",
+    "type": "artist",
+    "label": "John Gómez",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tropical"
+    ]
+  },
+  {
+    "id": "artist:Tommy Four Seven",
+    "type": "artist",
+    "label": "Tommy Four Seven",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Nightwave",
+    "type": "artist",
+    "label": "Nightwave",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Acid House"
+    ]
+  },
+  {
+    "id": "artist:Paquita Gordon",
+    "type": "artist",
+    "label": "Paquita Gordon",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Esteban Adame",
+    "type": "artist",
+    "label": "Esteban Adame",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Freddy K",
+    "type": "artist",
+    "label": "Freddy K",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Moxie",
+    "type": "artist",
+    "label": "Moxie",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Dub",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:The Hacker",
+    "type": "artist",
+    "label": "The Hacker",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Leon Vynehall",
+    "type": "artist",
+    "label": "Leon Vynehall",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Ancient Methods",
+    "type": "artist",
+    "label": "Ancient Methods",
+    "episode_count": 1,
+    "top_genres": [
+      "EBM",
+      "Techno",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Lil Mofo",
+    "type": "artist",
+    "label": "Lil Mofo",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Roi Perez",
+    "type": "artist",
+    "label": "Roi Perez",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Sarah Davachi",
+    "type": "artist",
+    "label": "Sarah Davachi",
+    "episode_count": 1,
+    "top_genres": [
+      "Drone",
+      "Ambient",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Orpheu The Wizard",
+    "type": "artist",
+    "label": "Orpheu The Wizard",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Objekt",
+    "type": "artist",
+    "label": "Objekt",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Bruce",
+    "type": "artist",
+    "label": "Bruce",
+    "episode_count": 1,
+    "top_genres": [
+      "Hardcore",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Ectomorph",
+    "type": "artist",
+    "label": "Ectomorph",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Detroit Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Arp",
+    "type": "artist",
+    "label": "Arp",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Minimal Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Lux.",
+    "type": "artist",
+    "label": "Lux.",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Mama Snake",
+    "type": "artist",
+    "label": "Mama Snake",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Nathan Micay",
+    "type": "artist",
+    "label": "Nathan Micay",
+    "episode_count": 1,
+    "top_genres": [
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Honey Dijon",
+    "type": "artist",
+    "label": "Honey Dijon",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Huerco S.",
+    "type": "artist",
+    "label": "Huerco S.",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Ambient",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Nazira",
+    "type": "artist",
+    "label": "Nazira",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Nkisi",
+    "type": "artist",
+    "label": "Nkisi",
+    "episode_count": 1,
+    "top_genres": [
+      "Hardcore",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Olof Dreijer",
+    "type": "artist",
+    "label": "Olof Dreijer",
+    "episode_count": 1,
+    "top_genres": [
+      "Noise",
+      "UK Bass"
+    ]
+  },
+  {
+    "id": "artist:Veronica Vasicka",
+    "type": "artist",
+    "label": "Veronica Vasicka",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Wave",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Turtle Bugg",
+    "type": "artist",
+    "label": "Turtle Bugg",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:LNS",
+    "type": "artist",
+    "label": "LNS",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Matrixxman",
+    "type": "artist",
+    "label": "Matrixxman",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:D. Tiffany",
+    "type": "artist",
+    "label": "D. Tiffany",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Exos",
+    "type": "artist",
+    "label": "Exos",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Peder Mannerfelt",
+    "type": "artist",
+    "label": "Peder Mannerfelt",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Yu Su",
+    "type": "artist",
+    "label": "Yu Su",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Adi Toohey",
+    "type": "artist",
+    "label": "Adi Toohey",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Boris",
+    "type": "artist",
+    "label": "Boris",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Jonny Nash",
+    "type": "artist",
+    "label": "Jonny Nash",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Nu-Disco",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Héctor Oaks",
+    "type": "artist",
+    "label": "Héctor Oaks",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Industrial Techno"
+    ]
+  },
+  {
+    "id": "artist:Croatian Amor",
+    "type": "artist",
+    "label": "Croatian Amor",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:DEBONAIR",
+    "type": "artist",
+    "label": "DEBONAIR",
+    "episode_count": 1,
+    "top_genres": [
+      "Breakbeat",
+      "EBM",
+      "Post Punk"
+    ]
+  },
+  {
+    "id": "artist:Massimiliano Pagliara",
+    "type": "artist",
+    "label": "Massimiliano Pagliara",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:DJ Marcelle",
+    "type": "artist",
+    "label": "DJ Marcelle",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Sote",
+    "type": "artist",
+    "label": "Sote",
+    "episode_count": 1,
+    "top_genres": [
+      "Hardcore",
+      "Noise",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Aurora Halal",
+    "type": "artist",
+    "label": "Aurora Halal",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:gbd",
+    "type": "artist",
+    "label": "gbd",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Phuong Dan",
+    "type": "artist",
+    "label": "Phuong Dan",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:Deena Abdelwahed",
+    "type": "artist",
+    "label": "Deena Abdelwahed",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Noise",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Cooper Saver",
+    "type": "artist",
+    "label": "Cooper Saver",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Russell E.L. Butler",
+    "type": "artist",
+    "label": "Russell E.L. Butler",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:Autechre",
+    "type": "artist",
+    "label": "Autechre",
+    "episode_count": 1,
+    "top_genres": [
+      "Hip Hop",
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:sold",
+    "type": "artist",
+    "label": "sold",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Drone"
+    ]
+  },
+  {
+    "id": "artist:Millos Kaiser",
+    "type": "artist",
+    "label": "Millos Kaiser",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Ambient",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:Truly Madly",
+    "type": "artist",
+    "label": "Truly Madly",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Cashu",
+    "type": "artist",
+    "label": "Cashu",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Breakbeat",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Kr!z",
+    "type": "artist",
+    "label": "Kr!z",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Dj Haram",
+    "type": "artist",
+    "label": "Dj Haram",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Ambient",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Nicole Misha",
+    "type": "artist",
+    "label": "Nicole Misha",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Italo Disco"
+    ]
+  },
+  {
+    "id": "artist:Titonton Duvanté",
+    "type": "artist",
+    "label": "Titonton Duvanté",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:DJ SO",
+    "type": "artist",
+    "label": "DJ SO",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Shapednoise",
+    "type": "artist",
+    "label": "Shapednoise",
+    "episode_count": 1,
+    "top_genres": [
+      "IDM",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Aïsha Devi",
+    "type": "artist",
+    "label": "Aïsha Devi",
+    "episode_count": 1,
+    "top_genres": [
+      "Breakbeat",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:Powder",
+    "type": "artist",
+    "label": "Powder",
+    "episode_count": 1,
+    "top_genres": [
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:PANDORA'S JUKEBOX",
+    "type": "artist",
+    "label": "PANDORA'S JUKEBOX",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Or:la",
+    "type": "artist",
+    "label": "Or:la",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:B.Traits",
+    "type": "artist",
+    "label": "B.Traits",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Esa",
+    "type": "artist",
+    "label": "Esa",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Latin"
+    ]
+  },
+  {
+    "id": "artist:I. JORDAN",
+    "type": "artist",
+    "label": "I. JORDAN",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Hardcore",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Beatrice Dillon",
+    "type": "artist",
+    "label": "Beatrice Dillon",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Changsie",
+    "type": "artist",
+    "label": "Changsie",
+    "episode_count": 1,
+    "top_genres": [
+      "UK Garage",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Schacke",
+    "type": "artist",
+    "label": "Schacke",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Trance",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Nadia Khan",
+    "type": "artist",
+    "label": "Nadia Khan",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Drone"
+    ]
+  },
+  {
+    "id": "artist:The Carry Nation",
+    "type": "artist",
+    "label": "The Carry Nation",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Minimal Techno",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Analog Soul",
+    "type": "artist",
+    "label": "Analog Soul",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Rosa Pistola",
+    "type": "artist",
+    "label": "Rosa Pistola",
+    "episode_count": 1,
+    "top_genres": [
+      "Reggaeton"
+    ]
+  },
+  {
+    "id": "artist:Spekki Webu",
+    "type": "artist",
+    "label": "Spekki Webu",
+    "episode_count": 1,
+    "top_genres": [
+      "Trance",
+      "Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Monster",
+    "type": "artist",
+    "label": "Monster",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Acid House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Andy Garvey",
+    "type": "artist",
+    "label": "Andy Garvey",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Stenny",
+    "type": "artist",
+    "label": "Stenny",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "UK Garage",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Low Jack",
+    "type": "artist",
+    "label": "Low Jack",
+    "episode_count": 1,
+    "top_genres": [
+      "Dancehall",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:DJ Nigga Fox",
+    "type": "artist",
+    "label": "DJ Nigga Fox",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Joe",
+    "type": "artist",
+    "label": "Joe",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Gene On Earth",
+    "type": "artist",
+    "label": "Gene On Earth",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:VTSS",
+    "type": "artist",
+    "label": "VTSS",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:PARAMIDA",
+    "type": "artist",
+    "label": "PARAMIDA",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:Conducta",
+    "type": "artist",
+    "label": "Conducta",
+    "episode_count": 1,
+    "top_genres": [
+      "UK Garage",
+      "Grime",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Ndrx",
+    "type": "artist",
+    "label": "Ndrx",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Samuel Deep",
+    "type": "artist",
+    "label": "Samuel Deep",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Valesuchi",
+    "type": "artist",
+    "label": "Valesuchi",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hard Techno"
+    ]
+  },
+  {
+    "id": "artist:Slikback",
+    "type": "artist",
+    "label": "Slikback",
+    "episode_count": 1,
+    "top_genres": [
+      "Hip Hop",
+      "Dancehall"
+    ]
+  },
+  {
+    "id": "artist:Mike Servito",
+    "type": "artist",
+    "label": "Mike Servito",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:DJ Tennis",
+    "type": "artist",
+    "label": "DJ Tennis",
+    "episode_count": 1,
+    "top_genres": [
+      "Experimental",
+      "IDM"
+    ]
+  },
+  {
+    "id": "artist:Kush Jones",
+    "type": "artist",
+    "label": "Kush Jones",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "House",
+      "Acid House"
+    ]
+  },
+  {
+    "id": "artist:Laraaji",
+    "type": "artist",
+    "label": "Laraaji",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Osheyack",
+    "type": "artist",
+    "label": "Osheyack",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:Powell",
+    "type": "artist",
+    "label": "Powell",
+    "episode_count": 1,
+    "top_genres": [
+      "Post Punk",
+      "Experimental",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:DJ Perception",
+    "type": "artist",
+    "label": "DJ Perception",
+    "episode_count": 1,
+    "top_genres": [
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Grant Aaron",
+    "type": "artist",
+    "label": "Grant Aaron",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Jayda G",
+    "type": "artist",
+    "label": "Jayda G",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:KMRU",
+    "type": "artist",
+    "label": "KMRU",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Experimental",
+      "Classical"
+    ]
+  },
+  {
+    "id": "artist:Tzusing",
+    "type": "artist",
+    "label": "Tzusing",
+    "episode_count": 1,
+    "top_genres": [
+      "EBM",
+      "Techno",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:DJ Holographic",
+    "type": "artist",
+    "label": "DJ Holographic",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:SPFDJ",
+    "type": "artist",
+    "label": "SPFDJ",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "EBM",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:Sleep D",
+    "type": "artist",
+    "label": "Sleep D",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Finn",
+    "type": "artist",
+    "label": "Finn",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "UK Garage",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:KABUTO",
+    "type": "artist",
+    "label": "KABUTO",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Nazar",
+    "type": "artist",
+    "label": "Nazar",
+    "episode_count": 1,
+    "top_genres": [
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Jasmine Infiniti",
+    "type": "artist",
+    "label": "Jasmine Infiniti",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:patten",
+    "type": "artist",
+    "label": "patten",
+    "episode_count": 1,
+    "top_genres": [
+      "IDM",
+      "Ambient",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Melina Serser",
+    "type": "artist",
+    "label": "Melina Serser",
+    "episode_count": 1,
+    "top_genres": [
+      "Downtempo",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Whodat",
+    "type": "artist",
+    "label": "Whodat",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Ethiopian Records",
+    "type": "artist",
+    "label": "Ethiopian Records",
+    "episode_count": 1,
+    "top_genres": [
+      "Jazz",
+      "Dubstep",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Z@p",
+    "type": "artist",
+    "label": "Z@p",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Tailor Jae",
+    "type": "artist",
+    "label": "Tailor Jae",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Jungle",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Andrew Ashong",
+    "type": "artist",
+    "label": "Andrew Ashong",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Jungle",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Hyph11E",
+    "type": "artist",
+    "label": "Hyph11E",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Drone",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Forest Management",
+    "type": "artist",
+    "label": "Forest Management",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Minimal Techno",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Off The Meds",
+    "type": "artist",
+    "label": "Off The Meds",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Logic1000",
+    "type": "artist",
+    "label": "Logic1000",
+    "episode_count": 1,
+    "top_genres": [
+      "R&B",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Calibre",
+    "type": "artist",
+    "label": "Calibre",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Drum and Bass",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Andrea",
+    "type": "artist",
+    "label": "Andrea",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Carl Cox",
+    "type": "artist",
+    "label": "Carl Cox",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Octo Octa",
+    "type": "artist",
+    "label": "Octo Octa",
+    "episode_count": 1,
+    "top_genres": [
+      "Breakbeat",
+      "House",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:Philipp Gorbachev",
+    "type": "artist",
+    "label": "Philipp Gorbachev",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Space Afrika",
+    "type": "artist",
+    "label": "Space Afrika",
+    "episode_count": 1,
+    "top_genres": [
+      "Dub",
+      "Ambient",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Channel Tres",
+    "type": "artist",
+    "label": "Channel Tres",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Endgame",
+    "type": "artist",
+    "label": "Endgame",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Soul",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:dreamcastmoe",
+    "type": "artist",
+    "label": "dreamcastmoe",
+    "episode_count": 1,
+    "top_genres": [
+      "Funk",
+      "Soul",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:Flora Yin-Wong",
+    "type": "artist",
+    "label": "Flora Yin-Wong",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Dengue Dengue Dengue",
+    "type": "artist",
+    "label": "Dengue Dengue Dengue",
+    "episode_count": 1,
+    "top_genres": [
+      "Latin",
+      "Cumbia"
+    ]
+  },
+  {
+    "id": "artist:Scratcha DVA",
+    "type": "artist",
+    "label": "Scratcha DVA",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Hip Hop",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Alexis",
+    "type": "artist",
+    "label": "Alexis",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Sam Goku",
+    "type": "artist",
+    "label": "Sam Goku",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Jossy Mitsu",
+    "type": "artist",
+    "label": "Jossy Mitsu",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Experimental Housewife",
+    "type": "artist",
+    "label": "Experimental Housewife",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Sally C",
+    "type": "artist",
+    "label": "Sally C",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Vladislav Delay",
+    "type": "artist",
+    "label": "Vladislav Delay",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Dub Techno"
+    ]
+  },
+  {
+    "id": "artist:MARRØN",
+    "type": "artist",
+    "label": "MARRØN",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:DJ IC",
+    "type": "artist",
+    "label": "DJ IC",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Jungle",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Ehua",
+    "type": "artist",
+    "label": "Ehua",
+    "episode_count": 1,
+    "top_genres": [
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Mdou Moctar",
+    "type": "artist",
+    "label": "Mdou Moctar",
+    "episode_count": 1,
+    "top_genres": [
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Cici",
+    "type": "artist",
+    "label": "Cici",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Quartz (2)",
+    "type": "artist",
+    "label": "Quartz (2)",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Dub",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Elkka",
+    "type": "artist",
+    "label": "Elkka",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Kitty Amor",
+    "type": "artist",
+    "label": "Kitty Amor",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Afro House"
+    ]
+  },
+  {
+    "id": "artist:Mez Monty",
+    "type": "artist",
+    "label": "Mez Monty",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Moopie",
+    "type": "artist",
+    "label": "Moopie",
+    "episode_count": 1,
+    "top_genres": [
+      "IDM",
+      "Electro",
+      "Synth Pop"
+    ]
+  },
+  {
+    "id": "artist:Darryn Jones",
+    "type": "artist",
+    "label": "Darryn Jones",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:DJ Pitch",
+    "type": "artist",
+    "label": "DJ Pitch",
+    "episode_count": 1,
+    "top_genres": [
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Wanton Witch",
+    "type": "artist",
+    "label": "Wanton Witch",
+    "episode_count": 1,
+    "top_genres": [
+      "IDM",
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:DJ Minx",
+    "type": "artist",
+    "label": "DJ Minx",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Kode9",
+    "type": "artist",
+    "label": "Kode9",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Jimmy Edgar",
+    "type": "artist",
+    "label": "Jimmy Edgar",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Acid Arab",
+    "type": "artist",
+    "label": "Acid Arab",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Acid House"
+    ]
+  },
+  {
+    "id": "artist:Kris Wadsworth",
+    "type": "artist",
+    "label": "Kris Wadsworth",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Evian Christ",
+    "type": "artist",
+    "label": "Evian Christ",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Ambient",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Galcher Lustwerk",
+    "type": "artist",
+    "label": "Galcher Lustwerk",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Hip Hop",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:DJ Marfox",
+    "type": "artist",
+    "label": "DJ Marfox",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Beneath",
+    "type": "artist",
+    "label": "Beneath",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Mo Kolours",
+    "type": "artist",
+    "label": "Mo Kolours",
+    "episode_count": 1,
+    "top_genres": [
+      "Dub",
+      "Soul",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Rivet",
+    "type": "artist",
+    "label": "Rivet",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Dana Ruh",
+    "type": "artist",
+    "label": "Dana Ruh",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:ItaloJohnson",
+    "type": "artist",
+    "label": "ItaloJohnson",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Italo Disco",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Ron Hardy",
+    "type": "artist",
+    "label": "Ron Hardy",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Italo Disco",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Sandrien",
+    "type": "artist",
+    "label": "Sandrien",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Rødhåd",
+    "type": "artist",
+    "label": "Rødhåd",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Lone",
+    "type": "artist",
+    "label": "Lone",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Lena Willikens",
+    "type": "artist",
+    "label": "Lena Willikens",
+    "episode_count": 1,
+    "top_genres": [
+      "Kosmische",
+      "Techno",
+      "Drone"
+    ]
+  },
+  {
+    "id": "artist:Abdulla Rashim",
+    "type": "artist",
+    "label": "Abdulla Rashim",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Luke Abbott",
+    "type": "artist",
+    "label": "Luke Abbott",
+    "episode_count": 1,
+    "top_genres": [
+      "Noise",
+      "Kosmische"
+    ]
+  },
+  {
+    "id": "artist:Steve Rachmad",
+    "type": "artist",
+    "label": "Steve Rachmad",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Detroit Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:SHXCXCHCXSH",
+    "type": "artist",
+    "label": "SHXCXCHCXSH",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Post Punk"
+    ]
+  },
+  {
+    "id": "artist:Shanti Celeste",
+    "type": "artist",
+    "label": "Shanti Celeste",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Lee Gamble",
+    "type": "artist",
+    "label": "Lee Gamble",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Experimental",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Ben Aqua",
+    "type": "artist",
+    "label": "Ben Aqua",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork"
+    ]
+  },
+  {
+    "id": "artist:Call Super",
+    "type": "artist",
+    "label": "Call Super",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Balearic"
+    ]
+  },
+  {
+    "id": "artist:Dave Clarke",
+    "type": "artist",
+    "label": "Dave Clarke",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Aquarian",
+    "type": "artist",
+    "label": "Aquarian",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Jungle",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Lowtec",
+    "type": "artist",
+    "label": "Lowtec",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Marco Shuttle",
+    "type": "artist",
+    "label": "Marco Shuttle",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Tin Man",
+    "type": "artist",
+    "label": "Tin Man",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Dorian Concept",
+    "type": "artist",
+    "label": "Dorian Concept",
+    "episode_count": 1,
+    "top_genres": [
+      "Jungle",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Phil Moffa",
+    "type": "artist",
+    "label": "Phil Moffa",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Frank & Tony",
+    "type": "artist",
+    "label": "Frank & Tony",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Barnt",
+    "type": "artist",
+    "label": "Barnt",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Pender Street Steppers",
+    "type": "artist",
+    "label": "Pender Street Steppers",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Mr. G",
+    "type": "artist",
+    "label": "Mr. G",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Suzanne Kraft",
+    "type": "artist",
+    "label": "Suzanne Kraft",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:DJ Masda",
+    "type": "artist",
+    "label": "DJ Masda",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Anthony Naples",
+    "type": "artist",
+    "label": "Anthony Naples",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Funk",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Logos",
+    "type": "artist",
+    "label": "Logos",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Drone",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Sleeparchive",
+    "type": "artist",
+    "label": "Sleeparchive",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Edward",
+    "type": "artist",
+    "label": "Edward",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Kosmische",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Solar",
+    "type": "artist",
+    "label": "Solar",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Tama Sumo",
+    "type": "artist",
+    "label": "Tama Sumo",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Soul",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Job Jobse",
+    "type": "artist",
+    "label": "Job Jobse",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Nick Höppner",
+    "type": "artist",
+    "label": "Nick Höppner",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Paula Temple",
+    "type": "artist",
+    "label": "Paula Temple",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Industrial",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Donato Dozzy",
+    "type": "artist",
+    "label": "Donato Dozzy",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "Trance",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:.VRIL",
+    "type": "artist",
+    "label": ".VRIL",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:I-F",
+    "type": "artist",
+    "label": "I-F",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Dasha Rush",
+    "type": "artist",
+    "label": "Dasha Rush",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Løt.te",
+    "type": "artist",
+    "label": "Løt.te",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Nicolas Lutz",
+    "type": "artist",
+    "label": "Nicolas Lutz",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Carlos Souffront",
+    "type": "artist",
+    "label": "Carlos Souffront",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Blanck Mass",
+    "type": "artist",
+    "label": "Blanck Mass",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "House",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Jane Fitz",
+    "type": "artist",
+    "label": "Jane Fitz",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Daniele Baldelli",
+    "type": "artist",
+    "label": "Daniele Baldelli",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Funk",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Michael Gracioppo",
+    "type": "artist",
+    "label": "Michael Gracioppo",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Noise",
+      "Melodic Techno"
+    ]
+  },
+  {
+    "id": "artist:Jasper James",
+    "type": "artist",
+    "label": "Jasper James",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Mind Against",
+    "type": "artist",
+    "label": "Mind Against",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Sassy J",
+    "type": "artist",
+    "label": "Sassy J",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Bjarki",
+    "type": "artist",
+    "label": "Bjarki",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:DJ Firmeza",
+    "type": "artist",
+    "label": "DJ Firmeza",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Soul",
+      "Afro House"
+    ]
+  },
+  {
+    "id": "artist:DJ Richard",
+    "type": "artist",
+    "label": "DJ Richard",
+    "episode_count": 1,
+    "top_genres": [
+      "Noise",
+      "Techno",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Visionist",
+    "type": "artist",
+    "label": "Visionist",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Experimental",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:Florian Kupfer",
+    "type": "artist",
+    "label": "Florian Kupfer",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Sasha",
+    "type": "artist",
+    "label": "Sasha",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Drum and Bass",
+      "Progressive House"
+    ]
+  },
+  {
+    "id": "artist:Herodot",
+    "type": "artist",
+    "label": "Herodot",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Tiga",
+    "type": "artist",
+    "label": "Tiga",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Youngsta",
+    "type": "artist",
+    "label": "Youngsta",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Len Faki",
+    "type": "artist",
+    "label": "Len Faki",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Eclair Fifi",
+    "type": "artist",
+    "label": "Eclair Fifi",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Ben Sims",
+    "type": "artist",
+    "label": "Ben Sims",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:DJ Paypal",
+    "type": "artist",
+    "label": "DJ Paypal",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Nu-Disco",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Porn Sword Tobacco",
+    "type": "artist",
+    "label": "Porn Sword Tobacco",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Balearic",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Eric Cloutier",
+    "type": "artist",
+    "label": "Eric Cloutier",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Andy Hart",
+    "type": "artist",
+    "label": "Andy Hart",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Gunnar Haslam",
+    "type": "artist",
+    "label": "Gunnar Haslam",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Josey Rebelle",
+    "type": "artist",
+    "label": "Josey Rebelle",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Sunil Sharpe",
+    "type": "artist",
+    "label": "Sunil Sharpe",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Sadar Bahar",
+    "type": "artist",
+    "label": "Sadar Bahar",
+    "episode_count": 1,
+    "top_genres": [
+      "Soul",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Bill Converse",
+    "type": "artist",
+    "label": "Bill Converse",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Ruby My Dear",
+    "type": "artist",
+    "label": "Ruby My Dear",
+    "episode_count": 1,
+    "top_genres": [
+      "Jungle",
+      "Breakbeat",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "artist:DJ Deeon",
+    "type": "artist",
+    "label": "DJ Deeon",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Soichi Terada",
+    "type": "artist",
+    "label": "Soichi Terada",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:DJ Hops",
+    "type": "artist",
+    "label": "DJ Hops",
+    "episode_count": 1,
+    "top_genres": [
+      "Dub",
+      "Techno",
+      "Drum and Bass"
+    ]
+  },
+  {
+    "id": "artist:Markus Suckut",
+    "type": "artist",
+    "label": "Markus Suckut",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Leafar Legov",
+    "type": "artist",
+    "label": "Leafar Legov",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Ambient",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:KEITA SANO",
+    "type": "artist",
+    "label": "KEITA SANO",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:Awesome Tapes From Africa",
+    "type": "artist",
+    "label": "Awesome Tapes From Africa",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Synth Pop"
+    ]
+  },
+  {
+    "id": "artist:Francesco Del Garda",
+    "type": "artist",
+    "label": "Francesco Del Garda",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Kangding Ray",
+    "type": "artist",
+    "label": "Kangding Ray",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Sonja Moonear",
+    "type": "artist",
+    "label": "Sonja Moonear",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:The Range",
+    "type": "artist",
+    "label": "The Range",
+    "episode_count": 1,
+    "top_genres": [
+      "Hip Hop",
+      "R&B",
+      "Bass Music"
+    ]
+  },
+  {
+    "id": "artist:Tessela",
+    "type": "artist",
+    "label": "Tessela",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Boys Noize",
+    "type": "artist",
+    "label": "Boys Noize",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Dr. Rubinstein",
+    "type": "artist",
+    "label": "Dr. Rubinstein",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Karenn",
+    "type": "artist",
+    "label": "Karenn",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Red Greg",
+    "type": "artist",
+    "label": "Red Greg",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Soul",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Raime",
+    "type": "artist",
+    "label": "Raime",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Techno",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Lazare Hoche",
+    "type": "artist",
+    "label": "Lazare Hoche",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Jeremy Underground",
+    "type": "artist",
+    "label": "Jeremy Underground",
+    "episode_count": 1,
+    "top_genres": [
+      "Soul",
+      "Nu-Disco",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Evan Baggs",
+    "type": "artist",
+    "label": "Evan Baggs",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Mark Hawkins",
+    "type": "artist",
+    "label": "Mark Hawkins",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Tijana T",
+    "type": "artist",
+    "label": "Tijana T",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Mix Mup",
+    "type": "artist",
+    "label": "Mix Mup",
+    "episode_count": 1,
+    "top_genres": [
+      "Funk",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Kornél Kovács",
+    "type": "artist",
+    "label": "Kornél Kovács",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Jungle",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:The Exaltics",
+    "type": "artist",
+    "label": "The Exaltics",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Ambient",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:James Ruskin",
+    "type": "artist",
+    "label": "James Ruskin",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:DJ Spider",
+    "type": "artist",
+    "label": "DJ Spider",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:rRoxymore",
+    "type": "artist",
+    "label": "rRoxymore",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Zaltan",
+    "type": "artist",
+    "label": "Zaltan",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Synth Pop",
+      "Lo-Fi"
+    ]
+  },
+  {
+    "id": "artist:Henrik Bergqvist",
+    "type": "artist",
+    "label": "Henrik Bergqvist",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Beautiful Swimmers",
+    "type": "artist",
+    "label": "Beautiful Swimmers",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "UK Garage",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Loxy",
+    "type": "artist",
+    "label": "Loxy",
+    "episode_count": 1,
+    "top_genres": [
+      "Drum and Bass",
+      "House",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Ziúr",
+    "type": "artist",
+    "label": "Ziúr",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Industrial",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Esther Duijn",
+    "type": "artist",
+    "label": "Esther Duijn",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:RVDS",
+    "type": "artist",
+    "label": "RVDS",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:John F.M.",
+    "type": "artist",
+    "label": "John F.M.",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Volvox",
+    "type": "artist",
+    "label": "Volvox",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "EBM"
+    ]
+  },
+  {
+    "id": "artist:AYBEE",
+    "type": "artist",
+    "label": "AYBEE",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Black Motion",
+    "type": "artist",
+    "label": "Black Motion",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Tuff City Kids",
+    "type": "artist",
+    "label": "Tuff City Kids",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "EBM"
+    ]
+  },
+  {
+    "id": "artist:Mark Barrott",
+    "type": "artist",
+    "label": "Mark Barrott",
+    "episode_count": 1,
+    "top_genres": [
+      "Balearic",
+      "Ambient",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Craig Richards",
+    "type": "artist",
+    "label": "Craig Richards",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Varg²™",
+    "type": "artist",
+    "label": "Varg²™",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Inga Mauer",
+    "type": "artist",
+    "label": "Inga Mauer",
+    "episode_count": 1,
+    "top_genres": [
+      "Industrial",
+      "EBM",
+      "New Wave"
+    ]
+  },
+  {
+    "id": "artist:Egyptrixx",
+    "type": "artist",
+    "label": "Egyptrixx",
+    "episode_count": 1,
+    "top_genres": [
+      "Trance",
+      "Techno",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Vladimir Ivkovic",
+    "type": "artist",
+    "label": "Vladimir Ivkovic",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Experimental",
+      "Balearic"
+    ]
+  },
+  {
+    "id": "artist:Visible Cloaks",
+    "type": "artist",
+    "label": "Visible Cloaks",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Chicago House",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Kingdom",
+    "type": "artist",
+    "label": "Kingdom",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "R&B",
+      "Grime"
+    ]
+  },
+  {
+    "id": "artist:Nathan Fake",
+    "type": "artist",
+    "label": "Nathan Fake",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Noise",
+      "IDM"
+    ]
+  },
+  {
+    "id": "artist:Joseph Capriati",
+    "type": "artist",
+    "label": "Joseph Capriati",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Kablam",
+    "type": "artist",
+    "label": "Kablam",
+    "episode_count": 1,
+    "top_genres": [
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Lutto Lento",
+    "type": "artist",
+    "label": "Lutto Lento",
+    "episode_count": 1,
+    "top_genres": [
+      "Dancehall"
+    ]
+  },
+  {
+    "id": "artist:Sisi",
+    "type": "artist",
+    "label": "Sisi",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Pablo Mateo",
+    "type": "artist",
+    "label": "Pablo Mateo",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Svreca",
+    "type": "artist",
+    "label": "Svreca",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Willow",
+    "type": "artist",
+    "label": "Willow",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Wolfgang Voigt",
+    "type": "artist",
+    "label": "Wolfgang Voigt",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Young Marco",
+    "type": "artist",
+    "label": "Young Marco",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Haruka",
+    "type": "artist",
+    "label": "Haruka",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:DJ Koolt",
+    "type": "artist",
+    "label": "DJ Koolt",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Flørist",
+    "type": "artist",
+    "label": "Flørist",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:SIT Amphia",
+    "type": "artist",
+    "label": "SIT Amphia",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Classical"
+    ]
+  },
+  {
+    "id": "artist:Mendel",
+    "type": "artist",
+    "label": "Mendel",
+    "episode_count": 1,
+    "top_genres": [
+      "Soul",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Saoirse",
+    "type": "artist",
+    "label": "Saoirse",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Mark Broom",
+    "type": "artist",
+    "label": "Mark Broom",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Courtesy",
+    "type": "artist",
+    "label": "Courtesy",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Rahaan",
+    "type": "artist",
+    "label": "Rahaan",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Hodge",
+    "type": "artist",
+    "label": "Hodge",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Steve Bicknell",
+    "type": "artist",
+    "label": "Steve Bicknell",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:CC:DISCO!",
+    "type": "artist",
+    "label": "CC:DISCO!",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Francis Inferno Orchestra",
+    "type": "artist",
+    "label": "Francis Inferno Orchestra",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Baba Stiltz",
+    "type": "artist",
+    "label": "Baba Stiltz",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Erika",
+    "type": "artist",
+    "label": "Erika",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:Jon K",
+    "type": "artist",
+    "label": "Jon K",
+    "episode_count": 1,
+    "top_genres": [
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Phase Fatale",
+    "type": "artist",
+    "label": "Phase Fatale",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "EBM",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Nick The Record",
+    "type": "artist",
+    "label": "Nick The Record",
+    "episode_count": 1,
+    "top_genres": [
+      "Hardcore",
+      "Nu-Disco",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:M.E.S.H.",
+    "type": "artist",
+    "label": "M.E.S.H.",
+    "episode_count": 1,
+    "top_genres": [
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Oscar Mulero",
+    "type": "artist",
+    "label": "Oscar Mulero",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Mafalda",
+    "type": "artist",
+    "label": "Mafalda",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Soul",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Anastasia Kristensen",
+    "type": "artist",
+    "label": "Anastasia Kristensen",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Partok",
+    "type": "artist",
+    "label": "Partok",
+    "episode_count": 1,
+    "top_genres": [
+      "Wave",
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Carl Craig",
+    "type": "artist",
+    "label": "Carl Craig",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:19.454.18.5.25.5.18",
+    "type": "artist",
+    "label": "19.454.18.5.25.5.18",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Thomas Fehlmann",
+    "type": "artist",
+    "label": "Thomas Fehlmann",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Ambient",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Starkey",
+    "type": "artist",
+    "label": "Starkey",
+    "episode_count": 1,
+    "top_genres": [
+      "Dub",
+      "Dubstep",
+      "Future Bass"
+    ]
+  },
+  {
+    "id": "artist:Fudge Fingas",
+    "type": "artist",
+    "label": "Fudge Fingas",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Rub N Tug",
+    "type": "artist",
+    "label": "Rub N Tug",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Leonel Castillo",
+    "type": "artist",
+    "label": "Leonel Castillo",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Marcel Fengler",
+    "type": "artist",
+    "label": "Marcel Fengler",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Chicago House"
+    ]
+  },
+  {
+    "id": "artist:Joakim",
+    "type": "artist",
+    "label": "Joakim",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Nicolas Jaar",
+    "type": "artist",
+    "label": "Nicolas Jaar",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Elektro Guzzi",
+    "type": "artist",
+    "label": "Elektro Guzzi",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Krautrock",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Fred P",
+    "type": "artist",
+    "label": "Fred P",
+    "episode_count": 1,
+    "top_genres": [
+      "Jazz",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Magda",
+    "type": "artist",
+    "label": "Magda",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Funk",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Peverelist",
+    "type": "artist",
+    "label": "Peverelist",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Cio D'Or",
+    "type": "artist",
+    "label": "Cio D'Or",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Shed",
+    "type": "artist",
+    "label": "Shed",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Bruno Pronsato",
+    "type": "artist",
+    "label": "Bruno Pronsato",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Superpitcher",
+    "type": "artist",
+    "label": "Superpitcher",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Scott Grooves",
+    "type": "artist",
+    "label": "Scott Grooves",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Funk",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Kowton",
+    "type": "artist",
+    "label": "Kowton",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Ivan Smagghe",
+    "type": "artist",
+    "label": "Ivan Smagghe",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Commix",
+    "type": "artist",
+    "label": "Commix",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Alan Howarth",
+    "type": "artist",
+    "label": "Alan Howarth",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Space Dimension Controller",
+    "type": "artist",
+    "label": "Space Dimension Controller",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:KiNK",
+    "type": "artist",
+    "label": "KiNK",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:ASC",
+    "type": "artist",
+    "label": "ASC",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:jozif",
+    "type": "artist",
+    "label": "jozif",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Petar Dundov",
+    "type": "artist",
+    "label": "Petar Dundov",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Perc",
+    "type": "artist",
+    "label": "Perc",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Drone"
+    ]
+  },
+  {
+    "id": "artist:Ben UFO",
+    "type": "artist",
+    "label": "Ben UFO",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Grime",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Tiger & Woods",
+    "type": "artist",
+    "label": "Tiger & Woods",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Mathew Jonson",
+    "type": "artist",
+    "label": "Mathew Jonson",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Maya Jane Coles",
+    "type": "artist",
+    "label": "Maya Jane Coles",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Hardcore",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Catz 'N Dogz",
+    "type": "artist",
+    "label": "Catz 'N Dogz",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Isolee",
+    "type": "artist",
+    "label": "Isolee",
+    "episode_count": 1,
+    "top_genres": [
+      "Microhouse",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Adam X",
+    "type": "artist",
+    "label": "Adam X",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Caribou",
+    "type": "artist",
+    "label": "Caribou",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Lo-Fi"
+    ]
+  },
+  {
+    "id": "artist:Pinch",
+    "type": "artist",
+    "label": "Pinch",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Danny Tenaglia",
+    "type": "artist",
+    "label": "Danny Tenaglia",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Dopplereffekt",
+    "type": "artist",
+    "label": "Dopplereffekt",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Recloose",
+    "type": "artist",
+    "label": "Recloose",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Marco Carola",
+    "type": "artist",
+    "label": "Marco Carola",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Adam Marshall",
+    "type": "artist",
+    "label": "Adam Marshall",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Bass Music"
+    ]
+  },
+  {
+    "id": "artist:Maceo Plex",
+    "type": "artist",
+    "label": "Maceo Plex",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Lucy",
+    "type": "artist",
+    "label": "Lucy",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Robag Wruhme",
+    "type": "artist",
+    "label": "Robag Wruhme",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:O/V/R",
+    "type": "artist",
+    "label": "O/V/R",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Post Punk"
+    ]
+  },
+  {
+    "id": "artist:Steve Bug",
+    "type": "artist",
+    "label": "Steve Bug",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Skream",
+    "type": "artist",
+    "label": "Skream",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Matthew Burton",
+    "type": "artist",
+    "label": "Matthew Burton",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:LV",
+    "type": "artist",
+    "label": "LV",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Dubstep",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Marcelus",
+    "type": "artist",
+    "label": "Marcelus",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Tobi Neumann",
+    "type": "artist",
+    "label": "Tobi Neumann",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Convextion",
+    "type": "artist",
+    "label": "Convextion",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Planningtorock",
+    "type": "artist",
+    "label": "Planningtorock",
+    "episode_count": 1,
+    "top_genres": [
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Ed Davenport",
+    "type": "artist",
+    "label": "Ed Davenport",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Tornado Wallace",
+    "type": "artist",
+    "label": "Tornado Wallace",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:TOKiMONSTA",
+    "type": "artist",
+    "label": "TOKiMONSTA",
+    "episode_count": 1,
+    "top_genres": [
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Claude VonStroke",
+    "type": "artist",
+    "label": "Claude VonStroke",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Hip Hop",
+      "Bass Music"
+    ]
+  },
+  {
+    "id": "artist:Kassem Mosse",
+    "type": "artist",
+    "label": "Kassem Mosse",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Renaissance Man",
+    "type": "artist",
+    "label": "Renaissance Man",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:George FitzGerald",
+    "type": "artist",
+    "label": "George FitzGerald",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Grime",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:DJ Deep",
+    "type": "artist",
+    "label": "DJ Deep",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:Alva Noto",
+    "type": "artist",
+    "label": "Alva Noto",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Cosmin TRG",
+    "type": "artist",
+    "label": "Cosmin TRG",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Xhin",
+    "type": "artist",
+    "label": "Xhin",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Red D",
+    "type": "artist",
+    "label": "Red D",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "New Wave",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:Jackmaster",
+    "type": "artist",
+    "label": "Jackmaster",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Roman Flügel",
+    "type": "artist",
+    "label": "Roman Flügel",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Lee Foss",
+    "type": "artist",
+    "label": "Lee Foss",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "R&B",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:DJ Pete",
+    "type": "artist",
+    "label": "DJ Pete",
+    "episode_count": 2,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Nicholas",
+    "type": "artist",
+    "label": "Nicholas",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Jay Shepheard",
+    "type": "artist",
+    "label": "Jay Shepheard",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Nina Kraviz",
+    "type": "artist",
+    "label": "Nina Kraviz",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Acid House"
+    ]
+  },
+  {
+    "id": "artist:Synkro",
+    "type": "artist",
+    "label": "Synkro",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "UK Garage"
+    ]
+  },
+  {
+    "id": "artist:Patrice Scott",
+    "type": "artist",
+    "label": "Patrice Scott",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Agoria",
+    "type": "artist",
+    "label": "Agoria",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Floating Points",
+    "type": "artist",
+    "label": "Floating Points",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Developer",
+    "type": "artist",
+    "label": "Developer",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:A Guy Called Gerald",
+    "type": "artist",
+    "label": "A Guy Called Gerald",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Acid House"
+    ]
+  },
+  {
+    "id": "artist:Chez Damier",
+    "type": "artist",
+    "label": "Chez Damier",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:Matthew Dear",
+    "type": "artist",
+    "label": "Matthew Dear",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:DjRUM",
+    "type": "artist",
+    "label": "DjRUM",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Svarte Greiner",
+    "type": "artist",
+    "label": "Svarte Greiner",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Shifted",
+    "type": "artist",
+    "label": "Shifted",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Vakula",
+    "type": "artist",
+    "label": "Vakula",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Hip Hop",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Deetron",
+    "type": "artist",
+    "label": "Deetron",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Ena",
+    "type": "artist",
+    "label": "Ena",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Drum and Bass",
+      "Bass Music"
+    ]
+  },
+  {
+    "id": "artist:Kerri Chandler",
+    "type": "artist",
+    "label": "Kerri Chandler",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Eats Everything",
+    "type": "artist",
+    "label": "Eats Everything",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "UK Garage",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Benoit & Sergio",
+    "type": "artist",
+    "label": "Benoit & Sergio",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tropical"
+    ]
+  },
+  {
+    "id": "artist:Rrose",
+    "type": "artist",
+    "label": "Rrose",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:James Zabiela",
+    "type": "artist",
+    "label": "James Zabiela",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Shlohmo",
+    "type": "artist",
+    "label": "Shlohmo",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Hip Hop",
+      "Lo-Fi"
+    ]
+  },
+  {
+    "id": "artist:Mister Saturday Night",
+    "type": "artist",
+    "label": "Mister Saturday Night",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:The Sight Below",
+    "type": "artist",
+    "label": "The Sight Below",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:tINI",
+    "type": "artist",
+    "label": "tINI",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Untold",
+    "type": "artist",
+    "label": "Untold",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Eli Verveine",
+    "type": "artist",
+    "label": "Eli Verveine",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Apparat",
+    "type": "artist",
+    "label": "Apparat",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Hard Techno",
+      "Glitch"
+    ]
+  },
+  {
+    "id": "artist:Vessel",
+    "type": "artist",
+    "label": "Vessel",
+    "episode_count": 1,
+    "top_genres": [
+      "Noise",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:DJ Nature",
+    "type": "artist",
+    "label": "DJ Nature",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:The Gaslamp Killer",
+    "type": "artist",
+    "label": "The Gaslamp Killer",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Jungle",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Robert Hood",
+    "type": "artist",
+    "label": "Robert Hood",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:Joy Orbison",
+    "type": "artist",
+    "label": "Joy Orbison",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:A Sagittariun",
+    "type": "artist",
+    "label": "A Sagittariun",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "IDM",
+      "Drone"
+    ]
+  },
+  {
+    "id": "artist:Pangaea",
+    "type": "artist",
+    "label": "Pangaea",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Danny Daze",
+    "type": "artist",
+    "label": "Danny Daze",
+    "episode_count": 1,
+    "top_genres": [
+      "Jazz",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Michael Mayer",
+    "type": "artist",
+    "label": "Michael Mayer",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Blackdown",
+    "type": "artist",
+    "label": "Blackdown",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "UK Bass",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Ø [Phase]",
+    "type": "artist",
+    "label": "Ø [Phase]",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Apollonia",
+    "type": "artist",
+    "label": "Apollonia",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:October",
+    "type": "artist",
+    "label": "October",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Art Department",
+    "type": "artist",
+    "label": "Art Department",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Matthew Dekay",
+    "type": "artist",
+    "label": "Matthew Dekay",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Progressive House",
+      "Classical"
+    ]
+  },
+  {
+    "id": "artist:Ron Morelli",
+    "type": "artist",
+    "label": "Ron Morelli",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Mano Le Tough",
+    "type": "artist",
+    "label": "Mano Le Tough",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Zenker Brothers",
+    "type": "artist",
+    "label": "Zenker Brothers",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Ital Tek",
+    "type": "artist",
+    "label": "Ital Tek",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Dubstep",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Dense & Pika",
+    "type": "artist",
+    "label": "Dense & Pika",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Dadub",
+    "type": "artist",
+    "label": "Dadub",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Drone"
+    ]
+  },
+  {
+    "id": "artist:John Swing",
+    "type": "artist",
+    "label": "John Swing",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:dBridge",
+    "type": "artist",
+    "label": "dBridge",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Drum and Bass",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:The Haxan Cloak",
+    "type": "artist",
+    "label": "The Haxan Cloak",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Solomun",
+    "type": "artist",
+    "label": "Solomun",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Pearson Sound",
+    "type": "artist",
+    "label": "Pearson Sound",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Kyle Hall",
+    "type": "artist",
+    "label": "Kyle Hall",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Lo-Fi"
+    ]
+  },
+  {
+    "id": "artist:Skudge",
+    "type": "artist",
+    "label": "Skudge",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:FunkinEven",
+    "type": "artist",
+    "label": "FunkinEven",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:John Roberts",
+    "type": "artist",
+    "label": "John Roberts",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:James Holden",
+    "type": "artist",
+    "label": "James Holden",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Glitch",
+      "Krautrock"
+    ]
+  },
+  {
+    "id": "artist:Sven Vath",
+    "type": "artist",
+    "label": "Sven Vath",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Archie Pelago",
+    "type": "artist",
+    "label": "Archie Pelago",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Black Coffee",
+    "type": "artist",
+    "label": "Black Coffee",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Spencer Parker",
+    "type": "artist",
+    "label": "Spencer Parker",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Trentemøller",
+    "type": "artist",
+    "label": "Trentemøller",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Minimal Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Daniel Avery",
+    "type": "artist",
+    "label": "Daniel Avery",
+    "episode_count": 1,
+    "top_genres": [
+      "Drone",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Machinedrum",
+    "type": "artist",
+    "label": "Machinedrum",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Jungle",
+      "Bass Music"
+    ]
+  },
+  {
+    "id": "artist:Traumprinz",
+    "type": "artist",
+    "label": "Traumprinz",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:Fis",
+    "type": "artist",
+    "label": "Fis",
+    "episode_count": 1,
+    "top_genres": [
+      "Drum and Bass"
+    ]
+  },
+  {
+    "id": "artist:Luke Slater",
+    "type": "artist",
+    "label": "Luke Slater",
+    "episode_count": 1,
+    "top_genres": [
+      "Dub",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:DeepChord",
+    "type": "artist",
+    "label": "DeepChord",
+    "episode_count": 1,
+    "top_genres": [
+      "Dub",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Bok Bok",
+    "type": "artist",
+    "label": "Bok Bok",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:Conforce",
+    "type": "artist",
+    "label": "Conforce",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Om Unit",
+    "type": "artist",
+    "label": "Om Unit",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Jungle",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Leif",
+    "type": "artist",
+    "label": "Leif",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Anthony Parasole",
+    "type": "artist",
+    "label": "Anthony Parasole",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Midland",
+    "type": "artist",
+    "label": "Midland",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Rene Hell",
+    "type": "artist",
+    "label": "Rene Hell",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:AnD",
+    "type": "artist",
+    "label": "AnD",
+    "episode_count": 1,
+    "top_genres": [
+      "Experimental",
+      "Techno",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:STL",
+    "type": "artist",
+    "label": "STL",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:Troy Pierce",
+    "type": "artist",
+    "label": "Troy Pierce",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Pig&Dan",
+    "type": "artist",
+    "label": "Pig&Dan",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Jay Haze",
+    "type": "artist",
+    "label": "Jay Haze",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Dan Ghenacia",
+    "type": "artist",
+    "label": "Dan Ghenacia",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Scarlett Etienne",
+    "type": "artist",
+    "label": "Scarlett Etienne",
+    "episode_count": 1,
+    "top_genres": [
+      "Trance",
+      "Classical"
+    ]
+  },
+  {
+    "id": "artist:Andrew Grant",
+    "type": "artist",
+    "label": "Andrew Grant",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Maurice Fulton",
+    "type": "artist",
+    "label": "Maurice Fulton",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Italoboyz",
+    "type": "artist",
+    "label": "Italoboyz",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Cassy",
+    "type": "artist",
+    "label": "Cassy",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Ewan Pearson",
+    "type": "artist",
+    "label": "Ewan Pearson",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Arnaud Rebotini",
+    "type": "artist",
+    "label": "Arnaud Rebotini",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Adam Beyer",
+    "type": "artist",
+    "label": "Adam Beyer",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Henrik Schwarz",
+    "type": "artist",
+    "label": "Henrik Schwarz",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Slam",
+    "type": "artist",
+    "label": "Slam",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:M.A.N.D.Y.",
+    "type": "artist",
+    "label": "M.A.N.D.Y.",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Stephan Bodzin",
+    "type": "artist",
+    "label": "Stephan Bodzin",
+    "episode_count": 1,
+    "top_genres": [
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Tim Sweeney",
+    "type": "artist",
+    "label": "Tim Sweeney",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Detroit Techno",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Riton",
+    "type": "artist",
+    "label": "Riton",
+    "episode_count": 1,
+    "top_genres": [
+      "Electro",
+      "Nu-Disco",
+      "New Wave"
+    ]
+  },
+  {
+    "id": "artist:Efdemin",
+    "type": "artist",
+    "label": "Efdemin",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Jeremy P. Caulfield",
+    "type": "artist",
+    "label": "Jeremy P. Caulfield",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Joris Voorn",
+    "type": "artist",
+    "label": "Joris Voorn",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Samim",
+    "type": "artist",
+    "label": "Samim",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Afrobeats"
+    ]
+  },
+  {
+    "id": "artist:Swayzak",
+    "type": "artist",
+    "label": "Swayzak",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Prosumer",
+    "type": "artist",
+    "label": "Prosumer",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Crowdpleaser",
+    "type": "artist",
+    "label": "Crowdpleaser",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Chloé",
+    "type": "artist",
+    "label": "Chloé",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Ambient Techno"
+    ]
+  },
+  {
+    "id": "artist:Sven Weisemann",
+    "type": "artist",
+    "label": "Sven Weisemann",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Jazz",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Deadset",
+    "type": "artist",
+    "label": "Deadset",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Brendon Moeller",
+    "type": "artist",
+    "label": "Brendon Moeller",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Gregor Tresher",
+    "type": "artist",
+    "label": "Gregor Tresher",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Trickski",
+    "type": "artist",
+    "label": "Trickski",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Juan Maclean",
+    "type": "artist",
+    "label": "Juan Maclean",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Pole",
+    "type": "artist",
+    "label": "Pole",
+    "episode_count": 1,
+    "top_genres": [
+      "Dub",
+      "Dubstep",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Miss Fitz",
+    "type": "artist",
+    "label": "Miss Fitz",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Herve",
+    "type": "artist",
+    "label": "Herve",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Four Tet",
+    "type": "artist",
+    "label": "Four Tet",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Alex Flitsch",
+    "type": "artist",
+    "label": "Alex Flitsch",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Laurent Garnier",
+    "type": "artist",
+    "label": "Laurent Garnier",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:The Mole",
+    "type": "artist",
+    "label": "The Mole",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Stimming",
+    "type": "artist",
+    "label": "Stimming",
+    "episode_count": 1,
+    "top_genres": [
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Patrice Bäumel",
+    "type": "artist",
+    "label": "Patrice Bäumel",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Heartbreak",
+    "type": "artist",
+    "label": "Heartbreak",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:Steffi",
+    "type": "artist",
+    "label": "Steffi",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Move D",
+    "type": "artist",
+    "label": "Move D",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Motorcitysoul",
+    "type": "artist",
+    "label": "Motorcitysoul",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Melodic Techno"
+    ]
+  },
+  {
+    "id": "artist:Jus-Ed",
+    "type": "artist",
+    "label": "Jus-Ed",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Marcel Dettmann",
+    "type": "artist",
+    "label": "Marcel Dettmann",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Disco Bloodbath",
+    "type": "artist",
+    "label": "Disco Bloodbath",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "House",
+      "Italo Disco"
+    ]
+  },
+  {
+    "id": "artist:Josh Wink",
+    "type": "artist",
+    "label": "Josh Wink",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Surgeon",
+    "type": "artist",
+    "label": "Surgeon",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:Intrusion",
+    "type": "artist",
+    "label": "Intrusion",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Maayan Nidam",
+    "type": "artist",
+    "label": "Maayan Nidam",
+    "episode_count": 1,
+    "top_genres": [
+      "Jazz",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:The Revenge",
+    "type": "artist",
+    "label": "The Revenge",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Erol Alkan",
+    "type": "artist",
+    "label": "Erol Alkan",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Balearic",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Still Going",
+    "type": "artist",
+    "label": "Still Going",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Melodic Techno"
+    ]
+  },
+  {
+    "id": "artist:Neil Landstrumm",
+    "type": "artist",
+    "label": "Neil Landstrumm",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dubstep",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Rick Wilhite",
+    "type": "artist",
+    "label": "Rick Wilhite",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Arto Mwambe",
+    "type": "artist",
+    "label": "Arto Mwambe",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Radio Slave",
+    "type": "artist",
+    "label": "Radio Slave",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Cosmic Twins",
+    "type": "artist",
+    "label": "Cosmic Twins",
+    "episode_count": 1,
+    "top_genres": [
+      "Wave",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Marcus Worgull",
+    "type": "artist",
+    "label": "Marcus Worgull",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Jacaszek",
+    "type": "artist",
+    "label": "Jacaszek",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Classical",
+      "Electroacoustic"
+    ]
+  },
+  {
+    "id": "artist:Thompson",
+    "type": "artist",
+    "label": "Thompson",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Jamie Vex'd",
+    "type": "artist",
+    "label": "Jamie Vex'd",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Hip Hop",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Reboot",
+    "type": "artist",
+    "label": "Reboot",
+    "episode_count": 1,
+    "top_genres": [
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Kiki",
+    "type": "artist",
+    "label": "Kiki",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Mike Shannon",
+    "type": "artist",
+    "label": "Mike Shannon",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Dennis Rodgers",
+    "type": "artist",
+    "label": "Dennis Rodgers",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Rob Mello",
+    "type": "artist",
+    "label": "Rob Mello",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Breakbeat",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Oliver Huntemann",
+    "type": "artist",
+    "label": "Oliver Huntemann",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Château Flight",
+    "type": "artist",
+    "label": "Château Flight",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Ripperton",
+    "type": "artist",
+    "label": "Ripperton",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Ben Klock",
+    "type": "artist",
+    "label": "Ben Klock",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Minimal Techno"
+    ]
+  },
+  {
+    "id": "artist:Dan Curtin",
+    "type": "artist",
+    "label": "Dan Curtin",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Cobblestone Jazz",
+    "type": "artist",
+    "label": "Cobblestone Jazz",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Andy Stott",
+    "type": "artist",
+    "label": "Andy Stott",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Todd Terje",
+    "type": "artist",
+    "label": "Todd Terje",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Triple R",
+    "type": "artist",
+    "label": "Triple R",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Trance",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Mark E",
+    "type": "artist",
+    "label": "Mark E",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "R&B",
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:Pigon",
+    "type": "artist",
+    "label": "Pigon",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Greg Wilson",
+    "type": "artist",
+    "label": "Greg Wilson",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Experimental",
+      "Downtempo"
+    ]
+  },
+  {
+    "id": "artist:The Black Dog",
+    "type": "artist",
+    "label": "The Black Dog",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Derrick Carter",
+    "type": "artist",
+    "label": "Derrick Carter",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Chicago House"
+    ]
+  },
+  {
+    "id": "artist:Murmur",
+    "type": "artist",
+    "label": "Murmur",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dub Techno",
+      "Dub"
+    ]
+  },
+  {
+    "id": "artist:Johnno Burgess",
+    "type": "artist",
+    "label": "Johnno Burgess",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Breakbeat",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Danny Howells",
+    "type": "artist",
+    "label": "Danny Howells",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Progressive House"
+    ]
+  },
+  {
+    "id": "artist:The Orb",
+    "type": "artist",
+    "label": "The Orb",
+    "episode_count": 1,
+    "top_genres": [
+      "Chillout",
+      "Ambient",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Tevo Howard",
+    "type": "artist",
+    "label": "Tevo Howard",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Noise"
+    ]
+  },
+  {
+    "id": "artist:Jef K",
+    "type": "artist",
+    "label": "Jef K",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Harri & Domenic",
+    "type": "artist",
+    "label": "Harri & Domenic",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Terror Danjah",
+    "type": "artist",
+    "label": "Terror Danjah",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Grime",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Jonas Kopp",
+    "type": "artist",
+    "label": "Jonas Kopp",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Discodeine",
+    "type": "artist",
+    "label": "Discodeine",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Sei A",
+    "type": "artist",
+    "label": "Sei A",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:DJ Qu",
+    "type": "artist",
+    "label": "DJ Qu",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Luca C & Brigante",
+    "type": "artist",
+    "label": "Luca C & Brigante",
+    "episode_count": 1,
+    "top_genres": [
+      "Balearic",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Martyn",
+    "type": "artist",
+    "label": "Martyn",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Max Cooper",
+    "type": "artist",
+    "label": "Max Cooper",
+    "episode_count": 1,
+    "top_genres": [
+      "Glitch",
+      "Classical",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Giorgio Gigli",
+    "type": "artist",
+    "label": "Giorgio Gigli",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Drone"
+    ]
+  },
+  {
+    "id": "artist:Tale Of Us",
+    "type": "artist",
+    "label": "Tale Of Us",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Dexter",
+    "type": "artist",
+    "label": "Dexter",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Friendly Fires",
+    "type": "artist",
+    "label": "Friendly Fires",
+    "episode_count": 1,
+    "top_genres": [
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Airhead",
+    "type": "artist",
+    "label": "Airhead",
+    "episode_count": 1,
+    "top_genres": [
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:Kevin McPhee",
+    "type": "artist",
+    "label": "Kevin McPhee",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Answer Code Request",
+    "type": "artist",
+    "label": "Answer Code Request",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Subb-an",
+    "type": "artist",
+    "label": "Subb-an",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Reggae"
+    ]
+  },
+  {
+    "id": "artist:PillowTalk",
+    "type": "artist",
+    "label": "PillowTalk",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "House",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Cesar Merveille",
+    "type": "artist",
+    "label": "Cesar Merveille",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Tech House"
+    ]
+  },
+  {
+    "id": "artist:Jam City",
+    "type": "artist",
+    "label": "Jam City",
+    "episode_count": 1,
+    "top_genres": [
+      "Classical",
+      "Grime",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Luke Hess",
+    "type": "artist",
+    "label": "Luke Hess",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Detroit Techno",
+      "Dub Techno"
+    ]
+  },
+  {
+    "id": "artist:Akkord",
+    "type": "artist",
+    "label": "Akkord",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "IDM",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Mark Fell",
+    "type": "artist",
+    "label": "Mark Fell",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Experimental",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Legowelt",
+    "type": "artist",
+    "label": "Legowelt",
+    "episode_count": 1,
+    "top_genres": [
+      "Soul",
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Awanto 3",
+    "type": "artist",
+    "label": "Awanto 3",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Soul",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:François X",
+    "type": "artist",
+    "label": "François X",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Detroit Techno"
+    ]
+  },
+  {
+    "id": "artist:Downliners Sekt",
+    "type": "artist",
+    "label": "Downliners Sekt",
+    "episode_count": 1,
+    "top_genres": [
+      "Wave",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Traxman",
+    "type": "artist",
+    "label": "Traxman",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Minimal Techno",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Dusky",
+    "type": "artist",
+    "label": "Dusky",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:DJ Dodger Stadium",
+    "type": "artist",
+    "label": "DJ Dodger Stadium",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:South London Ordnance",
+    "type": "artist",
+    "label": "South London Ordnance",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Oliver Hafenbauer",
+    "type": "artist",
+    "label": "Oliver Hafenbauer",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Moiré",
+    "type": "artist",
+    "label": "Moiré",
+    "episode_count": 1,
+    "top_genres": []
+  },
+  {
+    "id": "artist:Lunice",
+    "type": "artist",
+    "label": "Lunice",
+    "episode_count": 1,
+    "top_genres": [
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Slackk",
+    "type": "artist",
+    "label": "Slackk",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:Graze",
+    "type": "artist",
+    "label": "Graze",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Dubstep"
+    ]
+  },
+  {
+    "id": "artist:DJ Taye",
+    "type": "artist",
+    "label": "DJ Taye",
+    "episode_count": 1,
+    "top_genres": [
+      "Footwork",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:bvdub",
+    "type": "artist",
+    "label": "bvdub",
+    "episode_count": 1,
+    "top_genres": [
+      "Ambient",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:DJ Bone",
+    "type": "artist",
+    "label": "DJ Bone",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Detroit Techno",
+      "Soul"
+    ]
+  },
+  {
+    "id": "artist:Rabih Beaini",
+    "type": "artist",
+    "label": "Rabih Beaini",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Experimental"
+    ]
+  },
+  {
+    "id": "artist:Bjørn Torske",
+    "type": "artist",
+    "label": "Bjørn Torske",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Andrew Weatherall",
+    "type": "artist",
+    "label": "Andrew Weatherall",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Wave"
+    ]
+  },
+  {
+    "id": "artist:Lakker",
+    "type": "artist",
+    "label": "Lakker",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Hip Hop"
+    ]
+  },
+  {
+    "id": "artist:Glenn Astro",
+    "type": "artist",
+    "label": "Glenn Astro",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Nu-Disco",
+      "Funk"
+    ]
+  },
+  {
+    "id": "artist:Lo Shea",
+    "type": "artist",
+    "label": "Lo Shea",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Basic Soul Unit",
+    "type": "artist",
+    "label": "Basic Soul Unit",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Benjamin Damage",
+    "type": "artist",
+    "label": "Benjamin Damage",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "IDM"
+    ]
+  },
+  {
+    "id": "artist:Oskar Offermann",
+    "type": "artist",
+    "label": "Oskar Offermann",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Dolan Bergin",
+    "type": "artist",
+    "label": "Dolan Bergin",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Deep House"
+    ]
+  },
+  {
+    "id": "artist:Telephones",
+    "type": "artist",
+    "label": "Telephones",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Deep House",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:Moscoman",
+    "type": "artist",
+    "label": "Moscoman",
+    "episode_count": 1,
+    "top_genres": [
+      "Nu-Disco",
+      "Post Punk"
+    ]
+  },
+  {
+    "id": "artist:Galaxian",
+    "type": "artist",
+    "label": "Galaxian",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Industrial Techno",
+      "Electro"
+    ]
+  },
+  {
+    "id": "artist:Zadig",
+    "type": "artist",
+    "label": "Zadig",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:Noncompliant",
+    "type": "artist",
+    "label": "Noncompliant",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Industrial"
+    ]
+  },
+  {
+    "id": "artist:Dona (IT)",
+    "type": "artist",
+    "label": "Dona (IT)",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Jungle"
+    ]
+  },
+  {
+    "id": "artist:Fantastic Man",
+    "type": "artist",
+    "label": "Fantastic Man",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Trance"
+    ]
+  },
+  {
+    "id": "artist:Mall Grab",
+    "type": "artist",
+    "label": "Mall Grab",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Nu-Disco"
+    ]
+  },
+  {
+    "id": "artist:TC80",
+    "type": "artist",
+    "label": "TC80",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Electro",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:FIT Siegel",
+    "type": "artist",
+    "label": "FIT Siegel",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Electro",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Mantra",
+    "type": "artist",
+    "label": "Mantra",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Jungle",
+      "Breakbeat"
+    ]
+  },
+  {
+    "id": "artist:Clark Price",
+    "type": "artist",
+    "label": "Clark Price",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Minimal Techno",
+      "R&B"
+    ]
+  },
+  {
+    "id": "artist:Vlada",
+    "type": "artist",
+    "label": "Vlada",
+    "episode_count": 1,
+    "top_genres": [
+      "House",
+      "Funk",
+      "Jazz"
+    ]
+  },
+  {
+    "id": "artist:Jamz Supernova",
+    "type": "artist",
+    "label": "Jamz Supernova",
+    "episode_count": 1,
+    "top_genres": [
+      "Grime",
+      "Breakbeat",
+      "Techno"
+    ]
+  },
+  {
+    "id": "artist:DJ Q",
+    "type": "artist",
+    "label": "DJ Q",
+    "episode_count": 1,
+    "top_genres": [
+      "UK Garage",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Venetta",
+    "type": "artist",
+    "label": "Venetta",
+    "episode_count": 1,
+    "top_genres": [
+      "Minimal Techno",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "id": "artist:Laurine",
+    "type": "artist",
+    "label": "Laurine",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "House",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:CORIN",
+    "type": "artist",
+    "label": "CORIN",
+    "episode_count": 1,
+    "top_genres": [
+      "EBM",
+      "Techno",
+      "Ambient"
+    ]
+  },
+  {
+    "id": "artist:Parrish Smith",
+    "type": "artist",
+    "label": "Parrish Smith",
+    "episode_count": 1,
+    "top_genres": [
+      "Techno",
+      "Ambient",
+      "Hardcore"
+    ]
+  },
+  {
+    "id": "genre:Techno",
+    "type": "genre",
+    "label": "Techno",
+    "episode_count": 648
+  },
+  {
+    "id": "genre:UK Garage",
+    "type": "genre",
+    "label": "UK Garage",
+    "episode_count": 48
+  },
+  {
+    "id": "genre:Dub Techno",
+    "type": "genre",
+    "label": "Dub Techno",
+    "episode_count": 26
+  },
+  {
+    "id": "genre:Dub",
+    "type": "genre",
+    "label": "Dub",
+    "episode_count": 120
+  },
+  {
+    "id": "genre:Latin",
+    "type": "genre",
+    "label": "Latin",
+    "episode_count": 46
+  },
+  {
+    "id": "genre:Ragga",
+    "type": "genre",
+    "label": "Ragga",
+    "episode_count": 4
+  },
+  {
+    "id": "genre:UK Bass",
+    "type": "genre",
+    "label": "UK Bass",
+    "episode_count": 18
+  },
+  {
+    "id": "genre:Electro",
+    "type": "genre",
+    "label": "Electro",
+    "episode_count": 188
+  },
+  {
+    "id": "genre:Industrial",
+    "type": "genre",
+    "label": "Industrial",
+    "episode_count": 66
+  },
+  {
+    "id": "genre:Post Punk",
+    "type": "genre",
+    "label": "Post Punk",
+    "episode_count": 27
+  },
+  {
+    "id": "genre:Jazz",
+    "type": "genre",
+    "label": "Jazz",
+    "episode_count": 129
+  },
+  {
+    "id": "genre:Dubstep",
+    "type": "genre",
+    "label": "Dubstep",
+    "episode_count": 99
+  },
+  {
+    "id": "genre:House",
+    "type": "genre",
+    "label": "House",
+    "episode_count": 648
+  },
+  {
+    "id": "genre:Nu-Disco",
+    "type": "genre",
+    "label": "Nu-Disco",
+    "episode_count": 182
+  },
+  {
+    "id": "genre:Soul",
+    "type": "genre",
+    "label": "Soul",
+    "episode_count": 128
+  },
+  {
+    "id": "genre:Acid House",
+    "type": "genre",
+    "label": "Acid House",
+    "episode_count": 20
+  },
+  {
+    "id": "genre:Deep House",
+    "type": "genre",
+    "label": "Deep House",
+    "episode_count": 94
+  },
+  {
+    "id": "genre:Funk",
+    "type": "genre",
+    "label": "Funk",
+    "episode_count": 111
+  },
+  {
+    "id": "genre:Minimal Techno",
+    "type": "genre",
+    "label": "Minimal Techno",
+    "episode_count": 144
+  },
+  {
+    "id": "genre:Ambient",
+    "type": "genre",
+    "label": "Ambient",
+    "episode_count": 172
+  },
+  {
+    "id": "genre:Hip Hop",
+    "type": "genre",
+    "label": "Hip Hop",
+    "episode_count": 129
+  },
+  {
+    "id": "genre:Synth Pop",
+    "type": "genre",
+    "label": "Synth Pop",
+    "episode_count": 14
+  },
+  {
+    "id": "genre:Noise",
+    "type": "genre",
+    "label": "Noise",
+    "episode_count": 71
+  },
+  {
+    "id": "genre:Grime",
+    "type": "genre",
+    "label": "Grime",
+    "episode_count": 46
+  },
+  {
+    "id": "genre:Hardcore",
+    "type": "genre",
+    "label": "Hardcore",
+    "episode_count": 61
+  },
+  {
+    "id": "genre:Jungle",
+    "type": "genre",
+    "label": "Jungle",
+    "episode_count": 83
+  },
+  {
+    "id": "genre:Experimental",
+    "type": "genre",
+    "label": "Experimental",
+    "episode_count": 144
+  },
+  {
+    "id": "genre:Chillout",
+    "type": "genre",
+    "label": "Chillout",
+    "episode_count": 9
+  },
+  {
+    "id": "genre:Drum and Bass",
+    "type": "genre",
+    "label": "Drum and Bass",
+    "episode_count": 19
+  },
+  {
+    "id": "genre:R&B",
+    "type": "genre",
+    "label": "R&B",
+    "episode_count": 51
+  },
+  {
+    "id": "genre:Wave",
+    "type": "genre",
+    "label": "Wave",
+    "episode_count": 96
+  },
+  {
+    "id": "genre:Tech House",
+    "type": "genre",
+    "label": "Tech House",
+    "episode_count": 48
+  },
+  {
+    "id": "genre:Breakbeat",
+    "type": "genre",
+    "label": "Breakbeat",
+    "episode_count": 186
+  },
+  {
+    "id": "genre:Reggae",
+    "type": "genre",
+    "label": "Reggae",
+    "episode_count": 26
+  },
+  {
+    "id": "genre:Balearic",
+    "type": "genre",
+    "label": "Balearic",
+    "episode_count": 28
+  },
+  {
+    "id": "genre:Afro House",
+    "type": "genre",
+    "label": "Afro House",
+    "episode_count": 10
+  },
+  {
+    "id": "genre:Downtempo",
+    "type": "genre",
+    "label": "Downtempo",
+    "episode_count": 52
+  },
+  {
+    "id": "genre:EBM",
+    "type": "genre",
+    "label": "EBM",
+    "episode_count": 29
+  },
+  {
+    "id": "genre:Trance",
+    "type": "genre",
+    "label": "Trance",
+    "episode_count": 80
+  },
+  {
+    "id": "genre:Ambient Techno",
+    "type": "genre",
+    "label": "Ambient Techno",
+    "episode_count": 8
+  },
+  {
+    "id": "genre:Hard Techno",
+    "type": "genre",
+    "label": "Hard Techno",
+    "episode_count": 9
+  },
+  {
+    "id": "genre:Footwork",
+    "type": "genre",
+    "label": "Footwork",
+    "episode_count": 44
+  },
+  {
+    "id": "genre:Microhouse",
+    "type": "genre",
+    "label": "Microhouse",
+    "episode_count": 7
+  },
+  {
+    "id": "genre:Lo-Fi",
+    "type": "genre",
+    "label": "Lo-Fi",
+    "episode_count": 16
+  },
+  {
+    "id": "genre:Goa Trance",
+    "type": "genre",
+    "label": "Goa Trance",
+    "episode_count": 5
+  },
+  {
+    "id": "genre:New Wave",
+    "type": "genre",
+    "label": "New Wave",
+    "episode_count": 39
+  },
+  {
+    "id": "genre:Detroit Techno",
+    "type": "genre",
+    "label": "Detroit Techno",
+    "episode_count": 37
+  },
+  {
+    "id": "genre:IDM",
+    "type": "genre",
+    "label": "IDM",
+    "episode_count": 39
+  },
+  {
+    "id": "genre:Classical",
+    "type": "genre",
+    "label": "Classical",
+    "episode_count": 38
+  },
+  {
+    "id": "genre:Reggaeton",
+    "type": "genre",
+    "label": "Reggaeton",
+    "episode_count": 9
+  },
+  {
+    "id": "genre:Berlin Techno",
+    "type": "genre",
+    "label": "Berlin Techno",
+    "episode_count": 4
+  },
+  {
+    "id": "genre:Italo Disco",
+    "type": "genre",
+    "label": "Italo Disco",
+    "episode_count": 23
+  },
+  {
+    "id": "genre:Dancehall",
+    "type": "genre",
+    "label": "Dancehall",
+    "episode_count": 24
+  },
+  {
+    "id": "genre:Afrobeats",
+    "type": "genre",
+    "label": "Afrobeats",
+    "episode_count": 9
+  },
+  {
+    "id": "genre:Progressive House",
+    "type": "genre",
+    "label": "Progressive House",
+    "episode_count": 11
+  },
+  {
+    "id": "genre:Tropical",
+    "type": "genre",
+    "label": "Tropical",
+    "episode_count": 11
+  },
+  {
+    "id": "genre:Bass Music",
+    "type": "genre",
+    "label": "Bass Music",
+    "episode_count": 37
+  },
+  {
+    "id": "genre:Krautrock",
+    "type": "genre",
+    "label": "Krautrock",
+    "episode_count": 10
+  },
+  {
+    "id": "genre:Spoken Word",
+    "type": "genre",
+    "label": "Spoken Word",
+    "episode_count": 7
+  },
+  {
+    "id": "genre:Melodic Techno",
+    "type": "genre",
+    "label": "Melodic Techno",
+    "episode_count": 13
+  },
+  {
+    "id": "genre:Chicago House",
+    "type": "genre",
+    "label": "Chicago House",
+    "episode_count": 25
+  },
+  {
+    "id": "genre:Trip Hop",
+    "type": "genre",
+    "label": "Trip Hop",
+    "episode_count": 8
+  },
+  {
+    "id": "genre:Cumbia",
+    "type": "genre",
+    "label": "Cumbia",
+    "episode_count": 6
+  },
+  {
+    "id": "genre:Garage House",
+    "type": "genre",
+    "label": "Garage House",
+    "episode_count": 1
+  },
+  {
+    "id": "genre:Glitch",
+    "type": "genre",
+    "label": "Glitch",
+    "episode_count": 7
+  },
+  {
+    "id": "genre:Drone",
+    "type": "genre",
+    "label": "Drone",
+    "episode_count": 17
+  },
+  {
+    "id": "genre:Electroacoustic",
+    "type": "genre",
+    "label": "Electroacoustic",
+    "episode_count": 5
+  },
+  {
+    "id": "genre:Kosmische",
+    "type": "genre",
+    "label": "Kosmische",
+    "episode_count": 4
+  },
+  {
+    "id": "genre:Industrial Techno",
+    "type": "genre",
+    "label": "Industrial Techno",
+    "episode_count": 3
+  },
+  {
+    "id": "genre:Electro House",
+    "type": "genre",
+    "label": "Electro House",
+    "episode_count": 4
+  },
+  {
+    "id": "genre:Acid Techno",
+    "type": "genre",
+    "label": "Acid Techno",
+    "episode_count": 3
+  },
+  {
+    "id": "genre:Future Bass",
+    "type": "genre",
+    "label": "Future Bass",
+    "episode_count": 1
+  },
+  {
+    "id": "genre:Organic House",
+    "type": "genre",
+    "label": "Organic House",
+    "episode_count": 2
+  }
+]

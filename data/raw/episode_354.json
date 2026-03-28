@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "354",
+  "url": "https://ra.co/podcast/354",
+  "id": "354",
+  "__typename": "Podcast",
+  "title": "RA.354 Merveille & Crosson",
+  "date": "2013-03-11T00:00:10.000Z",
+  "fileSize": 83092999,
+  "duration": "01:08:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra354-merveille-crosson-cvr.jpg",
+  "contentUrl": "/podcast/354",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra354/",
+  "keywords": "Ryan Crosson, Cesar Merveille, DRM, Visionquest, Cadenza, house, techno",
+  "artist": {
+    "id": "7697",
+    "__typename": "Artist",
+    "name": "Cesar Merveille"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "At the end of last year, Ryan Crosson and Cesar Merveille threw us a bit of a curveball with <a href=\"review-view.aspx?id=11900\"><i>DRM</i></a>, the collaborative album they released on Visionquest. Both artists make most of their living off club-ready tech house—Merveille is a Cadenza staple, Crosson is one quarter of Visionquest—but here they delivered something much less straight-forward. Tony Naylor called <i>DRM</i> \"a timely reminder that in house and techno there is much more to life than simply straight 4/4,\" and rightly so: the album is bold, trippy and unconventional, showing a part of each artist that had until then bubbled under the surface (not counting Crosson's involvement in Visionquest's A&R).\n\nIt seems <i>DRM</i> was more than just a flash in the pan. Crosson and Merveille's RA podcast hews close to that record's leftfield style, bringing together tracks that inspired it or stemmed from the same vein in their tastes. \n\n<b>What have you been up to recently?</b>\n\nSame old, same old. Label stuff, trying to work on music and then gigs on the weekend. Recently we had US dates, BPM and next week Caprices festival. We have been fortunate enough to have some gigs together finally and they've been a lot of fun. We just did Mint Club in Leeds and Robag Wruhme was booked on the same night. He suggested we all play together for the whole night and it was magic. We've always been a fan of his so the night was special, he's great.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe wanted to have something that fit with more of the album vibe than what we'd play week in and week out. Hopefully it's a mix that grows on people and they can listen to it at home and zone out for a while. The idea was to reflect the album using some tracks that inspired us over the years mixed with some new ones. \n\n<b>How and where was the mix recorded?</b>\n\nWe traded ideas back and forth for a while and then recorded a mix at Cesar's house with some friends on his setup in December. Was it December or January? It was cold. Then we went back and listened and thought we should change a few tracks out and replace them with others. Once we were cool with a final track list, the second time we recorded it was at Ryan's house with Technics 1200s controlling Traktor vinyl and an Allen & Heath Xone 22. I love that little mixer, it's great for home.\n\n<b>Is it fair to say that jazz was a big influence on <i>DRM</i>?</b>\n\n It's fair to say it was a huge influence.\n\n<b>How did you guys establish a working relationship? What is the common ground—musically or otherwise—between you?</b> \n\nCes booked me [Ryan] for my first party in London years ago, maybe about seven or eight years, actually. We maintained our friendship and then became closer once I started dating my current girlfriend because they were super tight. She would go to work during the day and I'd go kick it with him. We made some tracks and then it turned into an album. We have similar tastes in music all across the board, from hip-hop, jazz, rock, some classical. That made things easier and we always have a good laugh together which can make a world of a difference if you don't agree on something. If you're laughing you're more willing to compromise. We haven't had many differences of opinion when it comes to making music.\n\n<b>What are you up to next?</b>\n\nWe've talked about doing another EP soon, either for Visionquest, Cadenza or Circus [Company]. I guess it depends on how much time we can get together to work and then what comes out of it.",
+    "blurb": "A beautifully strange afterhours session."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "8",
+  "url": "https://ra.co/podcast/8",
+  "id": "8",
+  "__typename": "Podcast",
+  "title": "RA.007 Bill Patrick",
+  "date": "2006-04-17T09:00:42.000Z",
+  "fileSize": 87173948,
+  "duration": "01:12:37",
+  "imageUrl": "https://static.ra.co/images/podcast/ra007-bill-patrick-cover.jpg",
+  "contentUrl": "/podcast/8",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra007/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:445"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Back on deck and just about recovered from a big week in Miami, Bill's exclusive mix features new tracks from <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=698\">Âme</a>, Junion, Baby Ford & Zip, as well as the lush Duplex on <a href=\"http://www.residentadvisor.net/label_view.asp?ID=752\">Clone</a>.\n\nIts looking like a busy summer for the bots, as <a href=\"http://www.wearerobots.net\">We Are Robotos</a> launch their record label and forthcoming CD out in October through Kompakt. Bill will be back in Ibiza this summer, so look out for dates at DC10 as well as a wider European tour with Nick AC to promote the label and CD. \n\nYou can more of Bill each week on <a href=\"http://www.eastvillageradio.com/displayshow.php?showname=RobotRadio\"> Robot Radio</a> every Thursday on East Village Radio (EVR) from 6pm-9pm EST (11pm-1am GMT).\n\nRA had a minimal exchange with Bill about the mix...\n\n<b>What have you been up to recently?</b>\nDJing, afterhours, scarf shopping.\n\n<b>Where was the mix recorded?</b>\nIt was done live in NYC with two decks, two CDJ's, one Allen & Heath XOne 92, a pack of parliments, one vitamin water, and no computers.\n\n<b>What are you up to next?</b>\nDetox.",
+    "blurb": "The seventh chapter of our Podcast comes from RA columnist Bill Patrick."
+  }
+}

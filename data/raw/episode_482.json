@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "482",
+  "url": "https://ra.co/podcast/482",
+  "id": "482",
+  "__typename": "Podcast",
+  "title": "RA.482 Mind Against",
+  "date": "2015-08-24T00:00:34.000Z",
+  "fileSize": 142535668,
+  "duration": "00:59:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra482-mind-against-cvr.jpg",
+  "contentUrl": "/podcast/482",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra482/",
+  "keywords": "Alessandro Fognini, Federico Fognini, house, techno, hot flush, life and death, Berlin",
+  "artist": {
+    "id": "23172",
+    "__typename": "Artist",
+    "name": "Mind Against"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It all happened pretty quickly for Alessandro and Federico Fognini. In 2011, after years of making music in one form or another, the two brothers formed a new DJ and production duo: Mind Against. Two years later they'd moved from Italy to Berlin and had their first record out on Life & Death (<i>Atlant</i>), with another two in the pipeline (<i>Avalon</i> and <i>Strange Days</i>). By then their DJ careers had taken off and they were playing somewhere in the world every weekend. It seems they made quite an impression on their audiences: last December, they debuted in our annual <a href=\"/feature.aspx?2328\">Top DJs poll</a> all the way up at #33. \n\nSometimes it's hard to say exactly why an act breaks through, but not with these guys. From the off, Mind Against had a signature sound that was immersive and completely their own: cosmic, emotionally rich and banging when it needs to be. RA.482 shows us an especially subtle side of their sound, with 58 minutes of techno that gently ebbs and flows. \n\n\n<b>What have you been up to recently?</b>\n\nAfter releasing two EPs this year we are concentrating on a European tour, during which we always try to set aside some time to stay in the studio and concentrate on music production.\n\n<b>How and where was the mix recorded?</b>\n\nThe main idea of the mix was written between planes, airports and hotel rooms around Europe and then finalised in our studio in Berlin. We mainly used Ableton Live for the edit, but some parts are traditionally mixed using turntables and CDJs.  \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe tried to put together something slightly different from what we usually play. The idea was to mash up some of the tracks we both like most at at the moment, together with some ambient tracks and loops / parts of our old songs, some of which we have never been released before. \n\n<b>You two grew up together, but you've only been making music as Mind Against for the past few years. Did you do anything creative together before then?</b>\n\nWe use to play together in some college bands back in the days, Freddie was playing the drums and Alex was singing (lol). We can say Mind Against is something we haphazardly built up in the years, before even Mind Against was actually born, and brought with us since a very long time ago.\n\n<b>Mind Against is an interesting name for a DJ duo—on paper you might be mistaken for a punk band. How did you arrive at that moniker?</b>\n\nWell, that's true. We both had a punk and rock influence before even discovering the electronic music world. This has probably influenced our choice when we were brainstorming for a name for the project.\n\n<b>What are you up to next?</b>\n\nAccording to our schedule, we will definitely keep on touring Europe and the Americas until the end of 2015 and first half of 2016, we have some new music ready to be released and some interesting collaborations. But we are also thinking to take a little break in 2016, possibly to concentrate on the production of our first LP.\n\n\n\n<span class=\"grey\">Mind Against play this year's <a href=\"/promoter.aspx?id=8088\">South West Four</a> festival, which takes place at Clapham Common in London between the 29th and 30th of August. </span>",
+    "blurb": "Celestial techno from the Life And Death duo. "
+  }
+}

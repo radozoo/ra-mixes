@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1002",
+  "url": "https://ra.co/podcast/1002",
+  "id": "1002",
+  "__typename": "Podcast",
+  "title": "RA.998 Roza Terenzi",
+  "date": "2025-07-20T22:00:06.000Z",
+  "fileSize": 0,
+  "duration": "01:07:06",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-998-roza.jpg",
+  "contentUrl": "/podcast/1002",
+  "tracklist": "Sirene - Love (Terminalhead Remix)\nSmithmonger - Vinegar Stroke\nGearmaster - No Lights\nMaruwa - Flash Up\nBeckers - Switch\nChristopher Ledger - Broken Transmission \nMeat Katie - My Little Dancing Girl\nVon Riu - Outro Lado\nDJ Seen - Second Sense\nBody Clinic - Give It To Me\nuu013 - a1\nFarsa - Promiscuous Dubz\nRoza Terenzi - ???\nCruise Control - Naughty\nWigs - Closer Into Me\nCruise Control - Club Culture\nCopasetic - Watergal (Stabilizer Remix)\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-998-roza-terenzi",
+  "keywords": "",
+  "artist": {
+    "id": "71637",
+    "__typename": "Artist",
+    "name": "Roza Terenzi"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The <i>RA Podcast</i> began with RA.001 in 2006. Since then, it's spotlighted the best and brightest in dance music every week, without fail. As we approach our 1,000th episode next month, we're switching things up, pairing artists whose sounds complement one another and, in doing so, zeroing in on the forces shaping the past, present and future of electronic culture.\n\nThis week, we shift lanes to Roza Terenzi and Kim Ann Foxman, two artists who strike a rare balance between reverence and reinvention. Both are key figures in queer clubbing circles, deeply informed by the halcyon days of '90s and early '00s club music yet fully committed to pushing it forward.\n\nEach artist has carved out a distinct path. Roza Terenzi started out in Perth, Australia, before making a home in Berlin in 2020, while the Hawaii-born Foxman made her name in New York by way of San Francisco in the early '00s. For RA.998, they've contributed separate mixes, to be enjoyed together as two parts of the same whole. (Listen to Kim Ann Foxman's B-side <a target=\"_blank\" href=\"/podcast/1003\">here</a>).\n\nRoza Terenzi opens with a high-impact A-side. Clocking in at just over an hour, her second mix picks up where the <a target=\"_blank\" href=\"https://ra.co/podcast/756\">first</a> left off, connecting breakbeat, acid, UK garage and trance with an ear for tension and a sense of play. Peppered among the skippy percussion and earworm vocals are moments of proper heft that build and release with purpose. It's cheeky, confident and tailor-made to get any dance floor moving.\n\nWhile Foxman and Roza Terenzi embrace a fun, vibrant musical style, their work is grounded in intentionality. They're invested in honouring the cultural and political roots of dance music: Foxman has long advocated for a more inclusive, community-driven club scene, while Roza Terenzi was among the first artists to begin <a target=\"_blank\" href=\"/news/82789\">pulling shows</a> this summer as a matter of principle.\n\nBoth sides of RA.998 show how the sounds of past eras can be reimagined to move seamlessly with the present. Maybe you'll even feel a jolt of inspiration to get yourself to the nearest dance floor, ASAP.<i> –Bella Aquilina</i>\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded at my friend Sophie's house using two Pioneer XDJ-700s and an Allen & Heath Xone mixer. The idea behind it was to connect elements from the '90s to early '00s with new music that I'm frequently drawn to when DJing and producing. \n\n<b>What have you both been up to recently?</b>\n\nI've mainly been preparing for my first live set in over six years! Lots of time in my home studio creating and practicing. Otherwise I've been knee deep in the fast-paced European summer—lots of DJ gigs and trying to fit time in with friends. \n\n<b>As collaborators, what do you feel connects you creatively or philosophically as artists?</b>\n\nI've admired Kim Ann for so long. Her way of carving her own lane and traversing through the world of music is something I feel very connected to. She's an artist in her own right who doesn't look to trends or waves and allows her most genuine flow of musical expression to guide her. \n\n<b>You've both seen shifts in the dance music landscape over the years—how would you describe the biggest changes since you first emerged?</b>\n\nOn a positive note: way more diversity when it comes to DJing, producing and running parties. On a not-so-positive note: I guess we're in an era post-Covid that seems more focused on social media presence and perception—which means that some crowds, bookers and artists are prioritising that over musical merit. Definitely not everyone, but it's something I've noticed. \n\n<b>What do you hope for in the rest of 2025, musically or otherwise?</b>\n\nI hope for more underground artists to take a stand or back their political beliefs when it comes to fuelling corporate machines with morally corrupt investors; firstly for the sake of the genocide currently occurring and secondly for the longevity of our \"scene\" and who controls, and has access to, the amazing parts of it.",
+    "blurb": "The prog and trance queen returns to the RA Podcast with her cheeky, break-heavy vision."
+  }
+}

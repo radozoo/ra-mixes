@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "292",
+  "url": "https://ra.co/podcast/292",
+  "id": "292",
+  "__typename": "Podcast",
+  "title": "RA.292 TR-101",
+  "date": "2012-01-02T00:01:23.000Z",
+  "fileSize": 59329514,
+  "duration": "00:49:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra292-tr101-cvr.jpg",
+  "contentUrl": "/podcast/292",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra292/",
+  "keywords": "TR-101, DJ Pete, Sleeparchive, Substance, Techno, Berlin, Berghain",
+  "artist": {
+    "id": "6692",
+    "__typename": "Artist",
+    "name": "DJ Pete"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "TR-101 is the collaborative live project of DJ Pete and Sleeparchive, although you'd been forgiven if this was your introduction as they've only stepped out under the alias a handful of times. Peter Kuschnereit is recognized as one of Berlin's longest-serving techno figureheads through his work behind the counter at Hard Wax and in the studio as Substance and one half of Scion alongside René Löwe (AKA Vainqueur). Roger Semsroth, meanwhile, has been dabbling in the deepest recesses of minimal techno as Sleeparchive since 2004, releasing a string of low-key 12-inches through his eponymous imprint, and most recently appearing on Tresor with <i>Ronan Point</i> in the middle of 2011. \n\nAs for TR-101? Well, the name is a clue (the pair surround themselves with hardware for their live performances) and so is their established proclivity for pitch black techno. It may just be the start of January, but we doubt you'll hear a more refined take of the genre this year.  \n\n<b>What have you been up to recently?</b>\n\nRemixes for Function and Skudge. Playing regularly as a resident at the Wax Treatment parties here in Berlin. Working on a remix for Tresor to be released soon.\n\n<b>How and where was the set recorded?</b>\n\nThe live set was recorded in October 2011 when we played a concert at Berghain.\n\n<b>You've only played a small number of shows together to date. How did the project start?</b>\n\nThe first concert we played together was at the Hard Wax 20th anniversary party [in 2009]. We both had a great time on stage; we got really good feedback and some people asked us to play again at their parties. The first time we played a show as TR-101 was at a Wax Treatment party in 2010.\n\n<b>Are there any plans to do any production together as TR-101?</b>\n\nWe like to play concerts—there are no plans to release a record.",
+    "blurb": "A rare live set from DJ Pete and Sleeparchive. "
+  }
+}

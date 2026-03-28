@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "719",
+  "url": "https://ra.co/podcast/719",
+  "id": "719",
+  "__typename": "Podcast",
+  "title": "RA.719 Nigga Fox",
+  "date": "2020-03-09T00:00:22.000Z",
+  "fileSize": 141426047,
+  "duration": "00:58:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra719-nigga-fox-cvr.jpg",
+  "contentUrl": "/podcast/719",
+  "tracklist": "Nigga Fox - De Leve \nNigga Fox - Sangue Frio\nNigga Fox - Um Ano \nNigga Fox - Yaka\nNigga Fox - Gancho\nNigga Fox - Alarme \nNigga Fox - Gás Natural\nNigga Fox - Tribalismo \nNigga Fox - Edy \nNigga Fox - Nhama \nNigga Fox - Nas Calmas Ft Hunger\nNigga Fox - Naruto \nNigga Fox - Turbulência\nNigga Fox - Madesu\nNigga Fox - Watara\nNigga Fox - Sassuke\nJeff Mills - The Bells \nAcapella Fofando X Kibecha \nNigga Fox - Waabajaah\nNitin Sawhney - Nadia. Acapela\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/773077825",
+  "keywords": "Rogerio Brandao, batida, Marfox, Warp Records, Cartas Na Manga, Principe",
+  "artist": {
+    "id": "45413",
+    "__typename": "Artist",
+    "name": "DJ Nigga Fox"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Last month on Twitter, one popular artist <a href=\"https://twitter.com/FutureTiming/status/1223240403144626177\">wondered aloud</a> why deconstructed music is so rarely funky. The Angolan-born, Lisbon-based Nigga Fox (Rogério Brandão) is an obvious exception—he makes deconstructed, avant-garde club music with a delirious, room-rattling funk at its core.\n\nMentored by batida scene lynchpin DJ Marfox, Brandão has emerged not only as a breakout star from the scene, but also a key innovator for the sound. His music found <a href=\"/reviews/22306\">a home</a> on Warp Records and his stunning 2019 album, <a href=\"/reviews/24410\"><i>Cartas Na Manga</i></a>, seamlessly wove jazz, deep house, acid and other expansive dance floor styles into batida's hectic rhythmic blueprint.\n\nThis thrilling synthesis continues on RA.718, on which Brandão unleashes a raft of mostly unreleased originals. Over the course of an hour, he pushes batida's envelope with bold new productions while bringing the style into easy conversation with Detroit techno and haunting Indian acapellas, to name a few. The standout mix indicates limitless possibilities for Brandão's funky vision.\n\n<b>What have you been up to recently?</b>\n\nI've been working on new tracks, hanging out in the street with friends, going out with my girlfriend and had the first DJ dates of the year this February. Especially enjoyed the set and the vibes in Porto's Fundação de Serralves on the opening of Arthur Jafa's exhibition. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded it on my MacBook with Traktor and using two NI Traktor Kontrol D2s in my bedroom-turned-home studio.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI went for it and played from the heart, no idea from the get-go except wanting to use the most recent and freshest tracks I've finished. \n\n<b>The <i>RA</i> mix integrates plaintive guitars, deep house-style sampling, Detroit techno, Indian singing and weirdo ambience, all while maintaining the signature Príncipe rhythm. How is the Lisbon sound opening up to the world?</b>\n\nMy feeling for a DJ set is always as a service of honesty, to myself and the people who came to celebrate the night.\n\n<b>You released <i>Cartas Na Manga</i> last year and each DJ set or podcast of yours seems to include a raft of unreleased material. How many unheard tracks are you sitting on? How quickly do you finish a track and would you describe yourself as prolific?</b>\n\nBués. Many. It depends on the inspiration, some I finish in one day, others take up to two weeks 'tiI I feel they've hit the spot. In the meantime I may start new ones, finish it and come back to that one track that I left in suspension and meet it again for completion.\n\n<b>What are you up to next?</b>\n\nAbout to finish a new EP with Príncipe. <i>Cartas Na Manga</i> has been licensed for a Japan-exclusive special CD edition and it should come out in the next month or so. I'll be embarking on an Asian tour in June, then a North American one in September. \n",
+    "blurb": "Thrilling new directions for the batida sound.\r\n"
+  }
+}

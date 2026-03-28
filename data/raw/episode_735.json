@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "735",
+  "url": "https://ra.co/podcast/735",
+  "id": "735",
+  "__typename": "Podcast",
+  "title": "RA.735 Clark Price",
+  "date": "2020-07-06T00:00:52.000Z",
+  "fileSize": 157381659,
+  "duration": "01:05:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra735-clark-price-cvr.jpg",
+  "contentUrl": "/podcast/735",
+  "tracklist": "+N (Atom™ & Victor Sol ) - Onda Corta\nCoil - Further Back And Faster\nPlaid - Tan Sau\nAnthony Shake Shakir - One Beat (Just Won't Do)\nGemini - It’s the Inside that Counts\nMaurice Fulton presents Stress - Down In The Dungeon\nLara Sarkissian - Gnum + The Wave's Recountal (Siete Catorce Hybrid Remix)\nDorisburg - Trust\nRussell E.L. Butler - A New Day\nNightmares on Wax - Aftermath\nWolfgang Press - Time\nUnique 3 & The Mad Musician - Only The Beginning\nThomas Heckmann - Noteque\nAleksi Perälä- NL-L56-18-07473\nGamma  (Piezo Remix)\nJohnny Counce - Imbibe\nSyclops -  NR17\nNubian Minds - Space Junky\n100Hz - The Resinator\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/852941722",
+  "keywords": "Honcho, campout, Honey Soundsytem, Mike Servito, Coil, Maurice Fulton",
+  "artist": {
+    "id": "51980",
+    "__typename": "Artist",
+    "name": "Clark Price"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Clark Price is a founding member of Pittsburgh's Honcho collective, a party, platform and festival that has helped revolutionize queer American dance music, and partying, since it began in 2012. We've profiled the crew a few times: once <a href=\"/features/2642\">in 2016</a> when the scene was on its rise, and again <a href=\"/features/3390\">last year</a> to talk about <a href=\"/reviews/24154\">Honcho Campout</a>, their beloved yearly gathering in the woods that has quickly become one of the USA's most renowned festivals. \n\nHoncho might best be known for the events they put on, but their DJing is just as important. Though they often appear together, like their friends in Honey Soundsystem, each has a distinct personality when they strike it out on their own. And if Honcho has anything close to a star DJ, it's probably Price, known for his psychedelic, hypnotic and barreling late night sets inspired by great American DJs like Mike Servito.\n\nBy now, Clark has developed his own style: incredibly smooth transitions, repetitive rhythms and occasional dips into minimal. His <i>RA</i> Podcast represents him at his freakiest, through backwards Coil beats, more than one track from American artist Maurice Fulton and even a tune that liberally samples <i>Dark Side Of The Moon</i>—this is what happens at Honcho Campout after the sun goes down.\n\n<b>What have you been up to recently?</b>\n\nI've pretty much just been laying low like everyone else right now. I've been spending a lot of time keeping up with the news, reaching out to friends and family, donating where I can. I'm extremely fortunate that I still have my day job, it's been hard having to watch my friends suffer through this with so little help from our government. Watching the protests and seeing people finally stand up and take action against systemic racism and police brutality has made me really proud. Honestly, I've never seen people rally like this so it makes me hopeful. I'm trying really hard to be optimistic. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded this mix at home. I didn't have CDJs at the time so I just used a controller. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nHaving to cancel Campout was really hard, but a necessary decision. We put a lot of time and energy into planning it each year and it's become an important weekend for a lot of people. Tributing this mix to Campout felt right, it came together really quickly.\n\n<b>Has the pandemic and lockdown changed the way you think about or interact with dance music?</b>\n\nMost definitely. I've been spending a lot more time listening to hip-hop and R&B. As much as I love dance music, there no techno track that makes me feel like I do when I listen to D'Angelo. \n\n<b>You're behind one of our favourite festivals, Honcho Campout, which is now postponed until next year. How do you feel about the future of smaller, independent festivals like yours?</b> \n\nWhen things start to clear up in the states (who the hell knows when that will even be), I think it's going to take a long time before people are totally comfortable in public spaces again. Other countries are starting to get the virus under control, but it's completely out of control here in the USA. It's hard to imagine having any sort of event with a large number of people anytime soon. \n\nWe're essentially back to square one with the virus and it's infuriating. I want to be on that dance floor again like everyone else, but with people refusing to wear masks and calling it a hoax we're in this mess for the long haul. I do think that large, over-produced festivals are going to take a huge hit. Small-scale events seem like the logical first step, but unfortunately I also see them becoming even more expensive and exclusive. I'm already seeing fliers for limited capacity festivals with temperature checks and other \"precautions.\" The current situation looks bleak, but we're doing what we can now to prepare for the future.",
+    "blurb": "After-dark sounds from one of the DJs behind Honcho Campout."
+  }
+}

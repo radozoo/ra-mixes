@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "94",
+  "url": "https://ra.co/podcast/94",
+  "id": "94",
+  "__typename": "Podcast",
+  "title": "RA.094 Anders Ilar",
+  "date": "2008-03-16T21:25:49.000Z",
+  "fileSize": 100248964,
+  "duration": "01:23:31",
+  "imageUrl": "https://static.ra.co/images/podcast/ra094-anders-ilar-cover.jpg",
+  "contentUrl": "/podcast/94",
+  "tracklist": "01. Mikkel Metal - Untitled (<a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> Rmx) - Unreleased Version / <a href=\"/record-label.aspx?id=1328\">Echocord</a>\n02. <a href=\"/dj-page.aspx?id=755\">Ripperton</a> - Leonor (<a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> Rmx) - <a href=\"/record-label.aspx?id=980\">Perspectiv</a>\n03. Octal Industries - Arrival - <a href=\"/record-label.aspx?id=1001\">Styrax Leaves</a>\n04. <a href=\"/dj-page.aspx?id=922\">Someone Else</a> - Goink - <a href=\"/record-label.aspx?id=838\">Microcosm Music</a>\n05. Ezekiel Honig - Daily Human Emotions - <a href=\"/record-label.aspx?id=838\">Microcosm Music</a>\n06. Fax - Paracaidas (Daniel Fritchi Rmx) - <a href=\"/record-label.aspx?id=1340\">Level Records</a>\n07. <a href=\"/dj-page.aspx?id=745\">Aaron Carl</a> - Crucified (Rod Modell Like a River Remix) - <a href=\"/record-label.aspx?id=1022\">Millions of Moments</a>\n08. <a href=\"/dj-page.aspx?id=1007\">DeepChord</a> - Grandbend (Echospace Dub) - <a href=\"/record-label.aspx?id=1081\">Echospace</a>\n09. Tomas Jirku - HBr - <a href=\"/record-label.aspx?id=753\">Audio.nl</a>\n10. <a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> - Gramineous Glow - <a href=\"/record-label.aspx?id=1328\">Echocord</a>\n11. Havantepe - Air - <a href=\"/record-label.aspx?id=1001\">Styrax Leaves</a>\n12. <a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> - Supra Deciss - Plong!\n13. <a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> – Can’t Force a Tree to Grow - <a href=\"/record-label.aspx?id=1340\">Level Records</a>\n14. <a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> - Cowbell Fever - Unreleased\n15. <a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> - Pink Red Orange Black (Unreleased Mix) - Fueradeserie!\n16. <a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> - Snowflakes Are Raindrops Asleep - Fueradeserie!\n17. Mujuice - Monochrome - Pro-tez Records\n18. <a href=\"/dj-page.aspx?id=728\">Anders Ilar</a> - September Nights – <a href=\"/record-label.aspx?id=1340\">Level Records</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra094/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:728"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Anders Ilar makes the kind of warm, dreamy, melodic techno that evokes the wintry landscapes of his homeland. His love of the genre stems from his early interest in ambient pioneers such as Tangerine Dream and Jean Michel Jarre, by way of the dark (Skinny Puppy, Front 242), the moody (Cocteau Twins, Lush) and the tech-obsessed (Aphex Twin, early Cologne records). \n\nAt RA Towers, we especially notice that Cologne connection—although Ilar has never released on Kompakt, we feel he really should have. Over a couple of dozen 12-inches and a handful of CDs on labels such as Shitkatapult, Echocord and Narita, Ilar has built up a catalogue of lush, deep, and occasionally glitchy electronic records that are both useful techno tools and excellent Sunday morning home listening material. Perfect podcast material then.\n\nIf you’re not familiar with Ilar’s work, his RA podcast is a good place to start. The second half of this intriguing and original set is a mini-mix of his own material—six recent and unreleased Ilar cuts. Before all of that, though, there’s a bit of dub and ambient underground to get you in the mood, including cuts from the Tomas Jirku, Rod Modell and Ezekiel Honig. Enjoy.\n\n<b>What have you been working on recently?</b>\n\nI've been kind of bored lately and haven’t made many new tunes. I did a couple of new remixes and finished up my new album <i>Sworn</i> that will be out on Level Records in April.\n\n<b>Where was the mix recorded?</b>\n\nI made this mix in my bedroom. I only have one record player right now, so I couldn’t make a real mix. So, to do this I recorded some vinyl and mixed them with some of my tracks in FL Studio.\n\n<b>What are you up to next?</b>\n\nUp next is a new CD on Narita. It's an Ilar & Hedvall collaboration album called <i>Melt</i>. It will be available exclusively in Japan.",
+    "blurb": "This week’s RA podcast is a mix of deep-floating and melodic techno from Swedish producer Anders Ilar."
+  }
+}

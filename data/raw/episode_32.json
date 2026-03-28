@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "32",
+  "url": "https://ra.co/podcast/32",
+  "id": "32",
+  "__typename": "Podcast",
+  "title": "RA.031 Jamie Jones",
+  "date": "2006-10-31T11:56:04.000Z",
+  "fileSize": 56316007,
+  "duration": "00:58:37",
+  "imageUrl": "https://static.ra.co/images/podcast/ra031-jones-cover.jpg",
+  "contentUrl": "/podcast/32",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra031/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:853"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jamie Jones is best known for the deep minimal track 'Amazon'. Released on Dan Ghenacia's Freak n'Chic output at the start of the year, the 12\" has since become the label's biggest-selling single. 'Amazon' proved to be especially popular with the Germans, closing out the RA.005 podcast by Kiki and popping up on Tiesfchwarz's 'Fabric 29' and Steve Bug's 'Bugnology 2' compilations. \n\nAs a DJ, Londoners will recognise Jamie from his Sunday afterhours sessions at the T Bar and his DJsCanDance parties where he plays what he describes as \"a mixed bag of mainly deep house and techno\", appealing to both the Crosstown Rebels mob and those who like their beats and bleeps served up on M_nus. These days Jamie is also a regular at Fabric, touted as \"one to watch\" by the club's booking manager. Handy, that.\n\nRA had a quick chat to Jamie Jones...\n\n<b>What have you been working on recently?</b>\n\nI've just been working hard in the studio. I have 'The Capsule' the follow up to 'Amazon' on Freak n'Chic ', an exclusive track 'Alien Experiments' for the next Poker Flat compilation, and my debut release 'Panic' on Crosstown Rebels all due out in November. I've also had some really cool gigs at Fabric and in Italy.\n\n<b>Where was the mix recorded?</b>\n\nI recorded the mix at my home studio in London.\n\n<b>What are you up to next?</b>\n\nI'm working on remixes for Brique Rouge and Connaisseur as well  as more of my own productions. Also looking forward to gigs at Clandestio's 5th Birthday at The End, Fabric, Back to Front in Manchester and Watergate in Berlin.",
+    "blurb": "Latest podcast comes from London up-and-comer and Freak n' Chic producer Jamie Jones."
+  }
+}

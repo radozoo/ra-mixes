@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "911",
+  "url": "https://ra.co/podcast/911",
+  "id": "911",
+  "__typename": "Podcast",
+  "title": "RA.911 Shy One",
+  "date": "2023-11-19T23:00:50.000Z",
+  "fileSize": 230527046,
+  "duration": "01:36:03",
+  "imageUrl": "https://static.ra.co/images/podcast/ra911-shyone-cvr.jpg",
+  "contentUrl": "/podcast/911",
+  "tracklist": "Marcellus Pittman - Ask It Acid\nScott Grooves - Machinik 29\nMetro - Rush Hour\nEquation - The Answer (Frankie Bones Long Division Mix)\nKarizma - Get Deep\nSMBD - Drum FX\nMike Dunn - The Wake Up Call (Extended Vokal Mixx) feat. DeeJay Alicia\nRoy Davis Jr., Men From The Nile - Watch Them Come (Green Velvet Remix)\nDJ Aakmael - Hardbody (Original Mix)\nBoogie Nite - Do Yo Thang\nDJ Delish - Que Estar Loco\nAdryiano - Move It (James 3:26 Remix)\nWbeeza - Masterz Of Disasterz\nBen Hixon - 505.1\nMark Flash - Precious\nMr. G - Time To Dip\nGeorge Benson - El Barrio (MAW Mix)\nDJ Technics - I Get Lifted\nK2 - It's Final (K2's Brighter Broken Remix)\nDJ Gregory - Block Party Tool\nShy One - Uncle G\nJay Daniel - Brainz\nCajmere - Brighter Days (Underground Trance Mix '92) feat. Dajae\nCreative Violence - Stay (Original Mix)",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra911-shy-one",
+  "keywords": "",
+  "artist": {
+    "id": "38183",
+    "__typename": "Artist",
+    "name": "Shy One"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "At this point, Shy One might be familiar to most music fans as one of the hosts of NTS Radio's daily breakfast show, Soup To Nuts, where she helps listeners across the UK and Europe settle into their morning routines with an eclectic and soulful selection of dance music and downtempo. But the London artist has been around a lot longer than that, with a discography that goes back well over a decade. \n\nShe started releasing music as a regular on Scratcha DVA's label, and it was there that she sketched out a recognisable but impressively varied approach rooted in her home base of London. On her records, Shy One sometimes feels like London incarnate, synthesizing the histories of Black British dance music—drum & bass, grime, UK funky, broken beat, jazz, you name it—into one immensely appealing sound. But her music glows with the warmth of US deep house, too, which lends it a timeless, ageless quality that has proven immensely appealing. She furthers this mission with Private World, a party she started with Ruby Savage. The name kind of says it all: she's inviting you to her own personal space, but what awaits is a whole wide world of music and culture.\n\nShy One's <i>RA</i> Podcast feels like a hybrid between a club DJ set and her NTS Radio show. She zeroes in on a the lineage of US house music from the '90s and beyond, featuring tracks from the likes of Green Velvet, Marcellus Pittman, Roy Davis Jr., Jay Daniel and more, plus a spotlight from Baltimore club king DJ Technics. It's patient and easygoing, focused yet stylistically diverse. Perfect, in other words, for a small dance floor (or a living room party).\n\n<b>What have you been up to recently?</b>\n\nReassessing, reconnecting, rewiring, withdrawing, collecting, obsessing, stressing. London living, baby! \n\n<b>How and where was the mix recorded?</b>\n\nThe NTS container on Gillett Square, on two CDJs, a pair of turntables and a mixer. A little mastering by my friend Ikonika (I owe her dinner).\n\n<b>And can you tell us the idea behind it?</b>\n\nDon't force it! Short, sweet and (hopefully) concise.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nI'm glad I get this opportunity to say this as I was misquoted in my first cover story recently and it's been haunting me. Plastic People had a major impact on me. I'm grateful to have attended and even played there in its final years. At the time I didn't realise it was setting the standard for me—on either side of the booth.\n\n<b>Has hosting a morning radio show informed or changed the way you approach DJing in general?</b>\n\nIt's more the other way around, the way that I've been DJing over the years has informed how I approach the Soup To Nuts show. Unfurling is how I think of the tracklist—a soundtrack for easing into the day, though there are listeners on the other side of the world cooking dinner and winding down, and of course people listening back to the recording whenever.\n\n<b>You recently started doing music full-time. Does it feel different, and what will you do with the extra time you have to devote to music?</b>  \n\nI'm probably busier now but at least doing things I'm passionate about. Any extra time (and money of course) is mostly spent on discovering, collecting and learning. \n\n<b>What are you looking forward to in the near future?</b>\n\nPutting out new music, digging while touring in the US, nurturing Private World, losing and finding my mind over and over again (and the results).",
+    "blurb": "A real London legend in the mix."
+  }
+}

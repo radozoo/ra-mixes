@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "74",
+  "url": "https://ra.co/podcast/74",
+  "id": "74",
+  "__typename": "Podcast",
+  "title": "RA.074 Prins Thomas",
+  "date": "2007-10-15T09:00:46.000Z",
+  "fileSize": 162487483,
+  "duration": "02:15:23",
+  "imageUrl": "https://static.ra.co/images/podcast/ra074-prinsthomas-cover.jpg",
+  "contentUrl": "/podcast/74",
+  "tracklist": "01. <a href=\"dj-page.aspx?id=772\">Lindstrøm</a> - Contemporary Fix (Bjørn Torske Remix) - Smalltown Supersound\n02. Blackbelt Andersen - Cock O Steel (Full Pupp) - cdr\n03. Aeroplane - Caramellas - <a href=\"record-label.aspx?id=183\">Eskimo</a>\n04. Metro Area - Miura (Maelstrom Edit) - white\n05. <a href=\"dj-page.aspx?id=620\">LCD Soundsystem</a> - 45.33 Part 2 - <a href=\"record-label.aspx?id=773\">DFA</a>\n06. <a href=\"dj-page.aspx?id=620\">LCD Soundsystem</a> - 45.33 Part 3 (<a href=\"dj-page.aspx?id=904\">Prins Thomas</a> Miks Diskomiks) - cdr\n07. <a href=\"dj-page.aspx?id=591\">Matthew Dear</a> - Elementary Lover - <a href=\"record-label.aspx?id=787\">Ghostly</a>\n08. Karou Inoue - Secret Field (Todd Terje Remix) - <a href=\"record-label.aspx?id=769\">Mule Electronic</a>\n09. Giorgios Gatzigristos - Boggling About The Future (Jussie Pekka Goes Bongo remix) - <a href=\"record-label.aspx?id=1054\">Channels Records</a>\n10. Worthy - Irst Te? - <a href=\"record-label.aspx?id=818\">Dirtybird</a>\n11. Cole Medina - Red Hot - cdr\n12. Paul Lewis - Inner City Blues (Edit) - cdr\n13. Osibisa - Move Your Body (Edit) - cdr\n14. <a href=\"dj-page.aspx?id=894\">Ron Trent</a> - Altered States - Djax-Up-Beats\n15. Osibisa - Move Your Body (Edit) - cdr\n16. Jasper Street Company - A Feeling (After Midnight mix) - Outland\n17. L.I.F.E. - All Played Out (Club Mix) - Dance-Sing Records\n18. Neal Howard - The Gathering (<a href=\"dj-page.aspx?id=349\">Joey Negro</a> edit) - <a href=\"record-label.aspx?id=193\">NRK</a>\n19. Kenlou – Bounce - MAW Records\n20. Jean Luc Ponty - Open Skies (Todd Terje edit) - cdr\n21. <a href=\"dj-page.aspx?id=657\">Isoleé</a> - Beau Mot Plage (Mental Overdrive remix) - cdr\n22. Billy Cobham - Pleasant Pheasant (Edit) - cdr\n23. Robin Trower - The Fool And Me – <a href=\"record-label.aspx?id=881\">Chrysalis</a>\n24. <a href=\"dj-page.aspx?id=904\">Prins Thomas</a> - Morning Dew (Edit) - Mindless Boogie\n25. Glass Candy - Miss Broadway - Italians Do It Better\n26. Sheila B Devotion - Spacer - Carrere",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra074/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:904"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Prins Thomas first poked his head up in dance circles in 2003, joining forces with pal Lindstrøm to bring a new kind of vibe to disco circles, one that was as in love with instrumental rock and noodly seventies jazz as dusty old disco gems. Peer over the decks at their early gigs and it appeared that Prins was the DJ and Lindstrøm was the live act, but recently Prins has struck out on his own, producing for labels such as Kompakt, Mindless Boogie and his own imprint Full Pupp (Check his 'Ferrara' twelve for the dirtiest bass action of 2006).\n\nAs a DJ, Prins brings a bit of a live vibe to his sets, as evidenced by his debut mix CD <a href=\"http://www.residentadvisor.net/news.aspx?id=8651\">'Cosmo Galactic Prism'</a> this summer, which took the prize for the most super-eclectic tracklist of the year, finding room for Hawkwind, Joe Meek and even Bob James amid the beats. Likewise for his RA Podcast, Prins spins a set made up of a whole lot of names we haven't quite heard of, and some we have, but the rarity of the cuts is part of the pleasure. As is the length. \"It's a 'set' from A-Z, done as compressed and short as I can,\" explains Prins. \"It would be different if I was happy doing strictly minimal sets or something but that's not where I'm from...\" Settle in for the ride.\n\nThree questions for Prins about the mix:\n\n<b>What have you been working on recently?</b>\nI've been working on upcoming stuff for my two labels, Full Pupp and Internasjonal, I just wrapped up a couple of remixes for DFA, and last but not least I'm working on Lindstrøm & Prins Thomas II album.\n\n<b>Where was the mix recorded?</b>\nThe mix was recorded at the Social in Toronto where I was for the Red Bull Music Academy.\n\n<b>What are you up to next?</b>\nMore travelling. I'm almost finished picking tracks for a forthcoming mix CD for Playhouse, more studio work and maybe make some more babies too... ; )",
+    "blurb": "On the podcast this week: 135 minutes of psychedelic disco from Norwegian spaceman Prins Thomas.\r\n"
+  }
+}

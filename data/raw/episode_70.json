@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "70",
+  "url": "https://ra.co/podcast/70",
+  "id": "70",
+  "__typename": "Podcast",
+  "title": "RA.070 Prosumer",
+  "date": "2007-09-17T09:22:51.000Z",
+  "fileSize": 102073190,
+  "duration": "01:25:01",
+  "imageUrl": "https://static.ra.co/images/podcast/ra070-prosumer-cover.jpg",
+  "contentUrl": "/podcast/70",
+  "tracklist": "01. DHS - Hypnosis - <a href=\"record-label.aspx?id=1207\">Tino Corp</a>\n02. Djuma Soundsystem + Flip - This Sound (Murat Tepeli Remix) - <a href=\"record-label.aspx?id=1210\">Brut! </a>\n03. <a href=\"dj-page.aspx?id=138\">Peace Division</a> - Voodoo - <a href=\"record-label.aspx?id=345\">Crosstown Rebels</a>\n04. Patrice Scott - Atmospheric Emotions - <a href=\"record-label.aspx?id=1089\">Sistrum</a>\n05. <a href=\"dj-page.aspx?id=753\">Matthew Styles</a> - Codename Mike - Unreleased\n06. Jonzon & Rok - The Lure - <a href=\"record-label.aspx?id=1208\">Space Teddy</a>\n07. Herb LF - City Rush Boogie Dub - <a href=\"record-label.aspx?id=1209\">Farside</a>\n08. Mr G - Balance - <a href=\"record-label.aspx?id=981\">Careless</a>\n09. <a href=\"dj-page.aspx?id=589\">Swayzak</a> feat <a href=\"dj-page.aspx?id=752\">Cassy</a> - Smile and Receive (CassyBeatmix) - <a href=\"record-label.aspx?id=526\">!K7</a>\n10. Millsart - Humana - <a href=\"record-label.aspx?id=233\">Axis</a>\n11. DW - Endow - <a href=\"record-label.aspx?id=1211\">Dow</a>\n12. Basic Channel - Phylypstrack II - <a href=\"record-label.aspx?id=1212\">Basic Channel</a>\n13. Chaton - Catch The Beat (Agnès Redive) - <a href=\"record-label.aspx?id=1095\">Sthlmaudio</a>\n14. Schatrax - Restless Nights - <a href=\"record-label.aspx?id=1213\">Schatrax</a>\n15. <a href=\"dj-page.aspx?id=1513\">Prosumer</a> - Brownstone Mix 1 - <a href=\"record-label.aspx?id=1214\">Running Back</a>\n16. Firesteppa feat. Anna Paidoussi - Caus' I Like - <a href=\"record-label.aspx?id=1215\">OMW</a>\n17. Tyree & Tine Renee - Do Yo! Thang - <a href=\"record-label.aspx?id=1216\">Supa Dupa</a>\n18. Curtis McClaine & On The House - Let's Get Busy (Dub Mix) - <a href=\"record-label.aspx?id=828\">Trax</a>\n19. Two Of A Kind - Like This - <a href=\"record-label.aspx?id=1217\">Housetime</a>\n20. DJ Funk - We Gotta Love - <a href=\"record-label.aspx?id=1218\">Dance Mania</a>\n21. Renegades Of Rhythm - NuPonty - <a href=\"record-label.aspx?id=1219\">Vigilante</a>\n22. Toronto Track Symphony - Do Me Right - <a href=\"record-label.aspx?id=1220\">DNH</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra070/",
+  "keywords": "",
+  "artist": {
+    "id": "1513",
+    "__typename": "Artist",
+    "name": "Prosumer"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Achim Brandenburg is a bit of a Chicago house and Detroit techno buff, an area of expertise he first picked up as a record buyer for Hard Wax in his hometown of Saarbruecken. That was during the heyday of soulful house labels such as Prescription, and it's a sound which still can be heard in Prosumer’s sets today. \"My heart is beating for the early Chicago/Detroit sound and for music that feels similar and transports this feeling into today,\" explains Achim.\n\nSlowly the consumer turned into Prosumer, issuing his first record on 240 Volt in 2004. A year later came 'The Craze' on Playhouse, then vocal duties on Sebo K's 'Moved', both of which became bona fide hits, melding house stabs with soulful vocals. Achim's latest record is a collaboration with producer Murat Tepeli, with whom he also performs live, for Ostgun Ton, the record arm of Berlin's Berghain/Panoramabar complex, where Achim is now a resident DJ.\n\n\"Whatever I do has got to be real,\" says Achim about his DJing. \"If a record doesn’t move me emotionally or physically, I won’t play it out. I have to feel the music and I’m always trying to share my feelings with the crowd on the floor. If everything goes down well, there’s an exchange going on. I try to keep a balance between pushing people’s buttons and surprising them. I’m sharing my inner emotions. And dance music has got to be horny.“ \n\nProsumer's RA mix is that philosophy put into practice. If you're after an expert take on the deep house with a morning-in-Berlin feel, download this.\n\n<b>What have you been working on recently?</b>\nI did a remix of Dash Dude's 'Tell 'em In The City', which was released in August on Morris Audio City Sport, and an EP called 'Brownstone' will be out on Running Back this fall. Murat Tepeli and I have reworked our liveshow, and we are now including more gear and can be much more spontaneous in the show, which is also much more fun for us and for the audience. Plus I have been working a lot on the album I will release with Murat Tepeli in January on Ostgut Ton.\n\n<b>Where was the mix recorded?</b>\nI recorded the mix at Panorama Bar.\n\n<b>What are you up to next?</b>\nIn January, there will be an EP by Prosumer & Murat Tepeli featuring singer Elif Bicer released on Ostgut Ton, with a remix by Cassy on the B-side. Then our album will be released. The tracks on the CD will mostly differ from the vinyl tracklist. The vinyl version holds classic club tracks, but the CD also features slower songs. We will be touring with the liveshow at the beginning of next year. And there are already plans for further releases.",
+    "blurb": "This week's podcast is eighty-five minutes of deep house from Panorama Bar resident Prosumer."
+  }
+}

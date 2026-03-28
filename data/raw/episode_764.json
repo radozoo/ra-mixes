@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "764",
+  "url": "https://ra.co/podcast/764",
+  "id": "764",
+  "__typename": "Podcast",
+  "title": "RA.764 Logic1000",
+  "date": "2021-01-24T23:00:13.000Z",
+  "fileSize": 153335796,
+  "duration": "01:03:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra764-logic1000-cvr.jpg",
+  "contentUrl": "/podcast/764",
+  "tracklist": "SAULT - Wildfires\nStefan Ringer - Let's Get The Rhythm feat. Ash Lauryn\nAl Diaz - What's In A JName (Remix)\nLogic1000 - ???\nLogic1000 - Lagos Gyration Edit\nDJ Qu - Lil' Freak\nJammin’ The House Gerald - Black Women (Club)\n100Hz - Foxy\nLogic1000 - ???\nYosh - This Style\nStenny - Consumers Tool\nLogic1000 & DJ Plead - E3\nSterlo - Reset (Nu Skool Mix)\n??? - ???\nAceMo - Water Money\nArma - We Need Dat \nBenton - Sort It \nBolam - Wallbang \nDolo Percussion - DOLO 22\nField Mob - So What feat. Ciara\nBig Ever - ???\nEarth To Mickey - Brace & Bit",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/972180715",
+  "keywords": "Samantha Poulter, Blawan, Perfume, SAULT, AceMo, Big Ever, ",
+  "artist": {
+    "id": "90784",
+    "__typename": "Artist",
+    "name": "Logic1000"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Samantha Poulter is from Sydney, lives in Berlin and makes music that sounds like it came out of an alternate dimension UK where post-dubstep still rules the roost. After earning a lockdown hit with last year's \"<a href=\"https://www.youtube.com/watch?v=kJth1nF8_vA\">Perfume</a>,\" more of the world outside of the Sydney and Melbourne scenes where she cut her teeth have come to recognize her irresistible style: taut drums, ultra-deep bass and shimmery acapellas. Based around a liberal sample of Avant's Y2K R&B smash \"Separated,\" \"Perfume\" might remind you of a track like Blawan's \"Getting Me Down,\" in the way the full vocal snakes and contorts around the chunky rhythm.\n\nWith \"Perfume\" especially, Logic1000's career has taken off in lockdown, and this past week marked the release of her first EP since \"Perfume,\" the four-track EP <i>You've Got The Whole Night To Go</i> landed on her Therapy label. From the moment that \"Like My Way\" stomps into action, it's clear that \"Perfume\" was no fluke, and the EP's four catchy, energetic (and, sometimes, melancholic) tunes are just begging for a play out on a proper system. Her <i>RA</i> Podcast, by her own admission one of her first times DJing in ages, is similarly approachable, compressing the contours of an all-night set into just under two hours, starting with slow burning tracks from the likes of Stefan Ringer and SAULT and cruising through bangers from Stenny and AceMo, along with plenty of unreleased tidbits and mystery tracks.\n\n<b>What have you been up to recently?</b>\n\nRecently I've been in the studio working with producer Big Ever. We've been working on a new release which will be ready to go very soon. I've been laying pretty low and trying not to see too many people because this pandemic is getting out of hand. I just started reading a collection of Mark Fishers blog posts which have been compiled in the book <i>K-Punk</i>.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded this mix on 2 XDJ1000s in my studio in Friedrichshain, Berlin. I got really sweaty making this mix because I had the studio heater turned up to the max. I recorded the mix into Ableton and did some tweaking at home, in bed. I haven't DJ'd in so long so I needed to do some adjustments to make it just right. \n\n<b>Can you tell us the idea behind the mix?</b>\n\nI started this mix with some softer tunes that I've really been feeling lately. Then I wanted it to slowly develop into a hard hitting peak-time mix which would be perfect for dancing in your living room to. I thought about making a mix that was a lot slower and softer the whole way through, but decided to go all out because... why not. We all need to feel energised during lockdown, so hopefully this mix achieves that.\n\n<b>Your style of dance music is very melodic, and often vocal-heavy, but not always familiar samples. How do you track down the samples that you use?</b>\n\nI have a ridiculously huge stockpile of acapellas that I've collected over the years. There's a lot of really well known acapellas in there, but when I go digging through it I often try to choose the ones that aren't so obvious. Or sometimes I'll chop, flip and reverse the vocal to make it something completely fresh and new.\n\n<b>Does it feel weird releasing such an anticipated club music 12-inch when the lockdown situation in most places shows no sign of ending?</b>\n\nIt does feel weird. But I think if I wasn't creating and releasing music during lockdown, I would be a complete mess. It has given me structure and purpose and I am forever grateful for that, because those things also give me clarity and sanity.\n\n<b>What are you up to next?</b>\n\nI feel like I've got some momentum in the studio at the moment so I'm trying to stay on top of that. I also believe that if you're working hard, it's important to rest hard too. So I've been getting my ten to 11 hours sleep each night. Certainly a change from when clubs were open!",
+    "blurb": "The Australian producer dusts off her decks for some party-starting vibes."
+  }
+}

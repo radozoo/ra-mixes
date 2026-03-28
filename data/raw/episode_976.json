@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "976",
+  "url": "https://ra.co/podcast/976",
+  "id": "976",
+  "__typename": "Podcast",
+  "title": "RA.976 Sansibar",
+  "date": "2025-02-16T22:00:56.000Z",
+  "fileSize": 0,
+  "duration": "01:39:22",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-976-sansibar1x1(1).jpg",
+  "contentUrl": "/podcast/976",
+  "tracklist": "Lunasol - D.I.A.P.O.W.\nTom Chasteen - Dub Up / Mix Down\nDojo Zone - Ostreatus \nAngelo Kortez - Twisted (AK Siren Mix)\nClaude B - Beyonce ft. Meyerv \nJoe Montana & Bellini - Zulu Volvo \nPankow - Germany is Burning [Edit]\nThe Business - Embargo\nAquafaba - Let's Go [Forthcoming, Kalahari Oyster Cult] \nBig Zen - Dragonfly (Calyx Mix)\nBlack Lung - Gizmo Prediction Fallout \nMateo Murphy - Horizon\nMateo Murphy - First Impressions\nSansibar - Unreleased \nLuggen - Waste My Time\nDinky - Acid In My Fridge (Tobi Neumann Remix) \nMeat Katie - My Little Dancing Girl \nModelor - Mint Condition \nSimulant - Wav.Form \nSeven - Seven.1 Mix [Edit] \nCollective Consciousness - Nexus\nSansibar - Unreleased ",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra976-sansibar/",
+  "keywords": "",
+  "artist": {
+    "id": "63987",
+    "__typename": "Artist",
+    "name": "Sansibar"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Sometime around a decade ago, electro started to surge onto dance floors <a href=\"http://ra.co/features/3090\" target=\"_blank\">again</a>. A new generation of DJs, from Helena Hauff and DJ Stingray, brought the sci-fi, cyborg funk to new audiences, as a modern retool of the style began enjoying the ubiquity of its four-to-the-floor cousins. And few embody its future for our current decade like Sunny Seppä, AKA Sansibar. \n\nCutting his teeth in Helsinki's underground with residencies at <a href=\"https://ra.co/features/2773\" target=\"_blank\">Kaiku</a> and Post Bar, Seppä's sound draws from a broad range of influences far from the Finnish capital. His first releases channeled the high definition Motor City school of electro, but he has since evolved. Not one to be confined by the narrow confines of any genre, his discography has steadily begun to encompass a wider palette of influences, including releases with fellow new-gen electro artist <a href=\"https://warningberlin.bandcamp.com/album/war2301\" target=\"_blank\">Reptant</a>. Take 2021's \"Aurora Eclipse,\" a six-minute track informed by trip-hop and gliding trance. This expansive approach has catapulted him thousands of miles from Helsinki—from Nowadays in New York to Video Club in Bogotá and Miscellenia in Naarm (Melbourne). \n\nIt's also no wonder Seppä has found a home on Kalahari Oyster Cult. <i><a target=\"_blank\" href=\"/reviews/34615\">Sans Musique</a></i> was released by <a href=\"https://ra.co/podcast/954\" target=\"_blank\">Rey Colino</a>'s label, and both are united by a love for an amalgamation of gritty and ecstatic sounds of the '90s. As Colino put it himself, the Cult espouses \"nostalgia with a modern sound design.\"\n\nYou can hear that peppered throughout Seppä's <i>RA Podcast</i>. From Simulant's stone-cold classic \"Wav.Form\" to shades of tech house from the late '90s and early '00s (as well as some of his own unreleased material), the full vision of his broad sound world comes alive on RA.976. You technically won't hear too much electro in this mix—but underscoring many of the selections is the retrofuturism that electro elicits, that bleary-eyed optimism of dance music's halcyon era. <i>—Bella Aquilina</i>\n\n<b>What have you been up to recently?</b> \n\nLately, I've been finishing music in between touring and laying low during the winter days—simple life, really.\n  \n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>  \n\nThe mix was recorded in my home studio/living room using 1s and 2s, Pioneer XDJs, a Xone:22 mixer, Mackie monitors and Yamaha speakers.  \n\nI aimed to weave together different styles of tracks that I typically play on dance floors. While the mix isn't a full representation of what I play in a club setting, it offers a glimpse of the kinds of music I love to play—a cross-section, if you will. \n\n<b>What are you looking forward to in the near future?</b>  \n\nI'm looking forward to finishing a few of my solo and collaboration projects and releasing more music on <a href=\"https://soundcloud.com/sin-sistema-sin\" target=\"_blank\">Sin Sistema</a>. I'm also excited to move into a proper studio space soon. Not having a dedicated studio has slowed me down.\n \n<b>What's one social or political cause you want the world to pay more attention to?</b> \n\nHelp one another, be kind and support your community and loved ones. \n\nPay attention to wrongdoing, disadvantaged people and suffering. It's easy to turn a blind eye but we are here for each other. \n\n<b>What's one club or party that had a major impact on you as an artist?</b> \n\nKaiku and Post Bar in Helsinki for trusting me as a resident DJ, allowing me to grow and explore  my sound. Both places have profoundly impacted me as a DJ, musician and clubber. \n\nI have to pinch myself that it's been ten years since I started playing at Kaiku! ",
+    "blurb": "21st-century electro-futurism, Helsinki style."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "297",
+  "url": "https://ra.co/podcast/297",
+  "id": "297",
+  "__typename": "Podcast",
+  "title": "RA.297 Synkro",
+  "date": "2012-02-06T00:01:55.000Z",
+  "fileSize": 71412769,
+  "duration": "00:59:29",
+  "imageUrl": "https://static.ra.co/images/podcast/ra297-synkro-cvr.jpg",
+  "contentUrl": "/podcast/297",
+  "tracklist": "Sabre, Stray & Halogenix - Oblique (Synkro Remix) \nBackground Sound - Close \nFrederick Robinson - Shore \nASC - Sarang \nStickman - The Klixx (Indigo Remix) \nTroy Gunner & Cuffy - Decisive Creation \nDjRum - The Darkest Hour Is Just Before Dawn \nIndigo - Wake \nGoldFFinch - Once You Wrap\nLostlojic - Don't You Feel (Synkro Remix)\nGoldFFinch - Untitled \nIndigo - Snowfall (Tom Dicicco Remix)\nUntil Silence - Stolen Hours \nEmeli Sande - Daddy (Ifan Dafydd Remix)\nAkkord - Back & Forth\nMenik - Close To You (Indigo Remix)\nTroy Gunner - Headlights \nSynkro - Can't See\nDarling Farah - Model \nGuy Andrews - Shades \nStickman - The Verge \nÎ”kkord - Renewal \nBay & Elsewhere - I Think Of \nAbove & Beyond - Love Is Not Enough (Synkro Remix)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra297/",
+  "keywords": "Synkro, bass, Manchester, smoking sessions, Millions of Moments",
+  "artist": {
+    "id": "13403",
+    "__typename": "Artist",
+    "name": "Synkro"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Boards of Canada, dBridge, Autechre, Metalheadz: this snapshot of Synkro's influences makes total sense, yet somehow doesn't come too close to putting actual descriptors on his music. The Manchester producer—real name Joe McBride—has pushed a sort of complex yet emotive 2-step/dubstep/drum & bass fusion since debuting back in 2007, and has been pretty damn prolific in the process. We've had his woozy steppers for Smoking Sessions; some of the prettiest 'drum & bass' you're likely to hear for Exit; and even a spot of deep house for Millions of Moments. And there's been countless different others in between. \n\nOn RA.297 he employs a good old-fashioned plot twist to reel you in (we obviously won't ruin the surprise) and then proceeds to explore the entirety of his far-reaching sound world.  \n\n<b>What have you been up recently?</b> \n\nI have been quite busy writing lots of music as Synkro along with other musical side projects with friends. \n\n<b>How and where was the mix recorded?</b>\n\nI recorded this mix live on Ableton at my parents' house over Christmas. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThis is a showcase of a lot of the music I am feeling at the moment and have been playing out in my sets recently. It has some of my new music around 130 BPM and the music of my friends from Manchester amongst tracks by other artists that I'm currently feeling. \n\n<b>How would you describe the evolution of your sound over the last few years?</b> \n\nI think it has taken me a while to find my sound and I've got a few releases I kind of regret putting out for various reasons. I have really enjoyed these past few years musically and I'm looking forward to the future. \n\n<b>What are you up to next?</b> \n\nI have a few releases lined up for 2012 with R&S Records sister label Apollo, Exit Records, Med School and Samurai Music. Also a few remixes, some of which are in the mix. ",
+    "blurb": "Singular bass music and beyond."
+  }
+}

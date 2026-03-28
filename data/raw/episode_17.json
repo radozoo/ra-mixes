@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "17",
+  "url": "https://ra.co/podcast/17",
+  "id": "17",
+  "__typename": "Podcast",
+  "title": "RA.016 Chris de Luca",
+  "date": "2006-06-26T03:30:05.000Z",
+  "fileSize": 59017689,
+  "duration": "01:01:26",
+  "imageUrl": "https://static.ra.co/images/podcast/ra016-chrisdeluca-cover.jpg",
+  "contentUrl": "/podcast/17",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra016/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:742"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Best known for his work as <a href=\"http://www.funkstorung.com\">Funkstörung</a> with Michael Fakesch, Chris is also the owner of Munich's Delirium record store and the man behind cult labels such as Musik aus Strom <i>(Music made of electricity)</i> and Sellwell Productions.\n\nA true creative, Chis's work with Funkstörung spanned minimalist techno (in 1994) and acid before expanding their output to include acoustic and instrumental hip hop as well as pop elements. Their remix work is equally diverse, working with artists such as the Wu Tang Clan, Jean-Michel Jarre and Björk. Another significant feature of Funkstörung is their distinctive artwork, frequently in collaboration with the legendary <a href=\"http://www.thedesignersrepublic.com\">The Designers Republic</a>, which included a 160 page artbook and DVD related to one of their albums.  \n\nWhile the Funkstörung project is ongoing, Chris has also collaborated with other artists such as Peabird on his 2002 album Deadly Wiz da Disko and more recently Phon.o from Shitkatapult. \n\nIn this podcast Chris slices and rearranges a hard drive of hip hop and electronica, all with his signature distorted funk. In what may be a record number of tracks for the RA Podcast, de Luca drops big guns such as Snoop Dog, Eminem, Missy Elliot and Kelis alongside new favourites like Uffie and Jackson and his Computer Band. One particular section rocks the pop groves of the 90's with such classics as Vanilla Ice (Ice, Ice Baby), C&C Music Factory (Everybody Dance Now), Snap (I've got the Power) and Kris Kross (Jump).\n\nRA caught up with Chris over email...\n\n\n<b>What have you been working on recently?</b>\nI just finished a remix for \"The Tape feat. RQM\" on Kitty-Yo. I also prepared a new and rockin’ live set together with phon.o from shitkatapult. You can find upcoming dates of our shows on <a href=\"http://www.myspace.com/chrisdeluca\">myspace.com/chrisdeluca</a>. \n \n<b>Where was the mix recorded?</b>\nIt was recorded in Rome, but I improved it and cut it down in my studio in Berlin. The mix was originally about two hours long. \n \n<b>What are you up to next?</b>\nI have started working on the next album together with phon.o. It will come out hopefully early next year. \n",
+    "blurb": "Blowing up your headphones and speakers this week on the RA Podcast is German sound surgeon Chris de Luca."
+  }
+}

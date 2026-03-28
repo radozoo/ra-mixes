@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "637",
+  "url": "https://ra.co/podcast/637",
+  "id": "637",
+  "__typename": "Podcast",
+  "title": "RA.637 Tommy Four Seven",
+  "date": "2018-08-13T00:00:38.000Z",
+  "fileSize": 152138916,
+  "duration": "01:03:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra637-Tommy-Four-Seven-cvr.jpg",
+  "contentUrl": "/podcast/637",
+  "tracklist": "Broken English Club - Stray Dogs\nOAKE - Anhedon (Phase Fatale Remix)\nNX1 - 024 (P.E.A.R.L. Remix)\nGareth Wild - Limehouse Cut (VSK Remix)\nHeadless Horseman - Widow's Peak\nGeorge Bigalke - Nerken (Swarm Intelligence Remix)\nIke Dusk - Interference\nMass X Odus - Endless Blight (Stray Bullets Mix)\nKillawatt - Accupunk\nScalameriya - Fullmetal Cyberspace\nAncient Methods vs Kareem - Zealots (Ancient Methods Interpretation)\n74185# - The Walk (Katran Remix)\nDJ Varsovie - Vampires (Codex Empire Remix)\nSNTS - Fearless\nGurk - Gurk\nExium - Expect Nothing (Regis AlternTWEative Remix)\nAoud - SE MKII\nUmwelt - Escape To The Brave New World",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/484847610",
+  "keywords": "Killawatt, Accupunk, CLR, 47, Hidden Hands, Techno, ",
+  "artist": {
+    "id": "1841",
+    "__typename": "Artist",
+    "name": "Tommy Four Seven"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Around 26 minutes into Tommy Four Seven's RA podcast, the drums fall away and a massive, rippling synth line overwhelms the mix. A strange sort of drum roll emerges as a cacophony of noise begins to build. When it arrives, the payoff is barrage of double-time kick drums that suggest total dance floor chaos. The track is Killawatt's \"<a href=\"https://www.youtube.com/watch?v=1kkVpWeR4h4\">Accupunk</a>,\" released last month on 47, and it's an example of the type of techno disruption Tommy Four Seven has long specialised in. Distorted kick drums, broken rhythms and industrial soundscapes may feel very 2018. But this is nothing new for Tommy, an artist who's been working at the extreme end of techno since his first release on CLR back in 2010.\n \nThe British-born, Berlin-based artist has been pushing this message in a few different forms. His label, 47, has become a clearing house for artists who twist the techno template, with Headless Horseman, VSK and Killawatt among its recurring names. A similar spirit has prevailed at his 47 parties in Berlin, which, through their smart use of venues and adventurous music programming, manage to stand out in the city's crowded techno landscape. These Hidden Hands, a collaboration with Alain Paul, has also shown his willingness to explore. The group has released a long string of albums and EPs since forming in 2012, with a style that places an emphasis on melody and enveloping atmospheres. These qualities are categorically not the focus on RA.637, a mix with an emphasis on deranged dance floor moments.\n \n \n<b>What have you been up to recently?</b>\n \nRecent highlights have included touring the US and playing some great festivals in Europe. I've also taken more 47 nights on the road, including KHIDI in Tbilisi and Concrete in Paris. \n \n<b>How and where was the mix recorded?</b> \n \nThe mix was recorded at my home studio in Berlin using three Pioneer CDJ NXS2s with an Allen & Heath Xone:92 mixer and a Strymon reverb.\n \n<b>Can you tell us about the idea behind the mix?</b>\n \nThe last few mixes I've published online have been slightly more on the experimental side, so the idea here was to represent more of a club-inspired sound. \n \n<b>When we spoke to you back in 2011 for a <a href=\"/features/1308\">Machine Love feature</a> you were using a pretty simple setup. How have things evolved since then?</b>\n \nI've since moved the studio to my home and added quite a bit more hardware, mainly in the form of modular equipment. I've also upgraded my monitoring to the Genelec 8351s and added a new audio interface. The core of my studio is still fundamentally based around the computer. It's nice to have more expensive gear but it hasn't changed my workflow. I'm still recording sounds and manually cutting up and working with audio clips—tools which pretty much everyone with a laptop has access to.\n \n<b>We also spoke about the idea of originality in techno. Which current producers do you admire in this regard?</b> \n \nAt the moment, there are quite a few producers—too many to get into here—for lots of different reasons. I'm very fortunate to have released many of those I admire on my label, 47. For example OAKE, Headless Horseman, Ancient Methods, Killawatt and VSK. A few other names that come to mind include Roly Porter, Belief Defect, SØS Gunver Ryberg, Ancestral Voices and Kangding Ray. I could continue, which is a great sign and shows how healthy things are right now.   \n \n<b>What are you up to next?</b>\n \nI'm currently working on a new solo album, which is a project I have been thinking about for a while. I'm also finishing up a couple of remixes and there's a new These Hidden Hands EP in the pipeline. The next 47 release is also currently being prepped, which will feature the debut of a new collaboration between two artists I hugely respect. \n \nIn the immediate future, I'm looking forward to some great upcoming gigs. This coming weekend, I'll be at Signal Festival in Moscow, Aquasella Festival in Spain, followed by a special b2b set with Ancient Methods at Voltage Festival in Belgium.\n \n ",
+    "blurb": "Weaponised techno."
+  }
+}

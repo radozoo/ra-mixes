@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "618",
+  "url": "https://ra.co/podcast/618",
+  "id": "618",
+  "__typename": "Podcast",
+  "title": "RA.618 John Dimas",
+  "date": "2018-04-02T00:00:58.000Z",
+  "fileSize": 199567979,
+  "duration": "01:23:04",
+  "imageUrl": "https://static.ra.co/images/podcast/ra618-john-dimas-cvr.jpg",
+  "contentUrl": "/podcast/618",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/424075887",
+  "keywords": "Metereze, Raum Musik, One Against Time, Elephant Moon, ",
+  "artist": {
+    "id": "11325",
+    "__typename": "Artist",
+    "name": "John Dimas"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Even if you don't know much about John Dimas, there's a good chance you've danced to his music. This Greek producer's long and loopy house tracks light up dance floors, oozing laidback charm through analogue basslines and gentle melodies. When they appear on labels such as raum...musik and Metereze they usually sell out quickly, loved by both bedroom DJs and international heavyweights like Raresh and Ricardo Villalobos. Dimas's DJ style is similarly special. Blending house new and old, it's a sound favoured by venues and parties like Club Der Visionaere, Watergate and New York's ReSolute, where patient crowds stay locked into a DJ's groove for hours at a time. This style was also captured on <a href=\"/reviews/22070\"><i>One Against Time</i></a>, the excellent album Dimas released through his Elephant Moon label in February.\n\nWe get Dimas's spacey side on this week's RA podcast. Mixing the cosmic with the organic, it's a great introduction to his style, drawing upon vintage UK tech house and more modern fare. There are breakbeats, electro bombs and tumbling house beats, all put together by an artist who has a special relationship with grooves.\n\n\n<b>What have you been up to recently?</b>\n\nI have been touring a lot for the release of my album, which has been tons of fun, playing with good friends in some amazing venues (plus a few afterparties).\n  \n<b>How and where was the mix recorded?</b>\n\nIt was recorded at W55 studios in Berlin with a few nice bottles of wine and some great company to have a little dance and enjoy the vibe with me while I did the mix.\n  \n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to create an infinity loop. Imagine you are at an afterparty and it's the point of the day/night/day/night where all the DJs have done more than enough miles and laziness has set in indefinitely. The idea was to create a mix that could be played endlessly without anyone even realizing it had finished and started all over again. The way I achieved this feeling was to begin with a track and then end with the same track, bringing it back to the original BPM after the whole journey of the rest of the mix, which goes from chill to the dance floor and then all the way back again. The theory of time is something really significant to me, as I revealed with my album title and concept behind it, so I wanted to continue this theme and make this mix something where you can get totally lost and not even realise how long you have been absorbing it.\n  \n<b>Your tracks tend to be very stripped-down and loopy. What's the difference between a good track in this style and a great one?</b>\n\nIt's interesting that you are using the term loopy. I'm curious as to how other people characterize loopy. To me stripped-down is a way to define minimal house but loopy is something I see as tracks that are the same loop from the beginning to the end without any evolution or unpredictability. I feel like these kinds of records are more of the connecting tracks and DJ tools to assist in making a great story in a set. Evolution and unpredictability are actually the two things that are essential to me, which I always incorporate when producing my records. As you can see from my album and recent EPs, there are many elements involved and constant changes throughout the tracks. For me this is the difference between a good track and a great track. Great tracks are the ones that you remember, stuck in your head even after the party is finished.\n  \n<b>Your music sits somewhere between house and techno. What about this area of dance music appeals to you?</b>\n\nI feel very comfortable in this realm as it's a space where I can be really creative. I started with house back in the late '90s then transitioned to more techno and then found the perfect balance between both styles, so I can still be versatile with my sets and play in many different places. I don't want to be categorized as either one as I just play club music, which is represented by the range of the dance genres you can also hear in this podcast.\n\n<b>What are you up to next?</b>\n\nI have an ambient/experimental electronica project called Secret Universe, which I released one album as last year. I am currently finishing the second, which is a nice break from my other stuff and keeps me inspired to continue with the club records. I have some exciting collaborations with friends under new aliases on the way, plus a jungle and drum & bass project in the works. I am also in the process of continuing the series of retro sci-fi collages that I started when I created the artwork for the cover of my album.\n",
+    "blurb": "Cosmic grooves.\r\n"
+  }
+}

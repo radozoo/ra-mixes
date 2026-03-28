@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "378",
+  "url": "https://ra.co/podcast/378",
+  "id": "378",
+  "__typename": "Podcast",
+  "title": "RA.378 Anton Zap",
+  "date": "2013-08-26T00:00:25.000Z",
+  "fileSize": 65504119,
+  "duration": "00:54:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra378-anton-zap-cvr.jpg",
+  "contentUrl": "/podcast/378",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra378/",
+  "keywords": "Anton Zap, Anton Barbashov, Underground Quality, Uzuri, Etheral Sound",
+  "artist": {
+    "__ref": "Artist:4039"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Since he first surfaced sometime around 2007, Anton Zap, real name Anton Barbashov, has been toiling away from his home in Moscow, homing in on a style of house that's more than deep—it's soothing. He debuted on Underground Quality with a self-titled EP that was beautifully dubbed out and, in a way that's hard to describe, weirdly reassuring. It's one of the best records that label has ever released, and it set the tone for future EPs on Uzuri, Millions Of Moments and his own (fittingly titled) Ethereal Sound, with Zap's style becoming more ambient and introspective as time went on. Though he's mostly flown under the radar, his records have found a devout following among lovers of wispy club sounds.  \n\nBarbashov is a pretty mysterious character (as you can tell from the Q&A below), and RA.378 only deepens the intrigue. The tracklist is an unfamiliar collection of obscurities, most of which came out in the last year or two—Fuewa's \"Outa Banks,\" for instance, appeared last month via Sonic Router on a limited edition cassette. There's hardly any house or techno in sight—in fact, we wouldn't know exactly <i>what</i> to call this stuff, though its glistening atmosphere and poetic mood are, without a doubt, very Anton Zap. \n\n<b>What have you been up to recently?</b>\n\nThis year I'm trying to reorganize myself.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it at home using my computer and Zoom interface.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe main idea here is to communicate with people through speakers.\n\n<b>Do you find a receptive audience to your sound in Moscow? Is there an appetite for deeper house sounds?</b>\n\nI definitely found what I was looking for. For example my full-length album called <i>Water</i>, released on Apollo records this summer.\n\n<b>What has the reaction been like among the club community to Russia's recently instated anti-homosexual propaganda law? </b>\n\nI could say that I stick to the idea that I have no right to step in private lives of the other people, and I have no kids yet with whom to discuss your question further.\n\n<b>What are you up to next?</b>\n\nSo much stuff to do. ",
+    "blurb": "Outré sounds from a deep house master. "
+  }
+}

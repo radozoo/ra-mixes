@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "261",
+  "url": "https://ra.co/podcast/261",
+  "id": "261",
+  "__typename": "Podcast",
+  "title": "RA.261 LV",
+  "date": "2011-05-30T00:01:47.000Z",
+  "fileSize": 59832585,
+  "duration": "0:49:49",
+  "imageUrl": "https://static.ra.co/images/podcast/ra261-lv-cvr.jpg",
+  "contentUrl": "/podcast/261",
+  "tracklist": "Logos - Kowloon (Devil Mix)\nDJ Killer - Mina Nawe \nMan-T - Mind Games \nDJ Killer - Party  \nBlack Motion feat Jah Rich - Banane Mavoko (Real Clap) \nFrana - Angry Instruments \nMikeQ - Janet Jackson got caught stealing\nBengaz - Mavuke \nHard House Banton - Rock and Come In (Supa Cat Dub) \nDJ Shifty - Zimba  \nKevin McPhee - One52\nDeamonds - Persistance  \nDJ Sdoko - World on Fire\nLV - Mark\nMan-T - Wrong Turn  \nSdunkero - Uzong Gaza feat Pussy Cat \nLV & Joshua Idehen - Melt\nTeeth - Vibrate\nLo-Tek - You Don't Know my Name\nNoodles - Life's What you Make It \nDeath Comet Crew - Galacticoast (LV RMX)\nGremino - Shining (Jam City RMX)\nDVA - The Flute Tune\nFunkyStepz - Bounce\nFrenchFries - Hugz\nI Blame Coco - TYbOL (LV RMX)\nMiss Fire - Take Off your Clothes\nDeezy D - Dem Wan\n? - KooKoo\nJahCoozi - Speckleshine (LV RMX)\nClent - That Lyfe\nOmni Trio - Renegade Snares (Philip K Dick edit)\nLapalux - Time Spike Jamz\nRylski - For You\nSun Ra - Next Stop Mars",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra261/",
+  "keywords": "LV, bass, house, dubstep, routes, keysound, hyperdub",
+  "artist": {
+    "id": "8712",
+    "__typename": "Artist",
+    "name": "LV"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "LV are London-based trio Will Horrocks, Gervase Gordon and Si Williams. If you've encountered them in recent weeks we sincerely hope it was via their excellent debut album, <i>Routes</i>, alongside MC Joshua Idehen, a record RA's Andrew Ryce <a href=\"/review-view.aspx?id=9159\">described</a> as \"a deeply conflicted, complex album at its heart, [full of] forward-thinking music that perfectly portrays the bipolar nuances of city living.\" <i>Routes</i> was released through Martin Clark's Keysound label, although traditionally LV have formed an integral part of Steve Goodman's Hyperdub stable, releasing four 12-inches since 2007 that have ranged from digital dub to kwaito-infused 2-step. \n\nIt's this multifarious vibe that carries over to their mix for us. The words \"UK bass music\" and \"diversity\" have merged to form something a truism in recent times, but in this case we just can't help ourselves.   \n\n<b>What have you been up to recently?</b>\n\nWe've been jamming with Josh and getting ready to do it in public in front of real live people. Also we've been doing some tunes with our favourite peeps, Okmalumkoolkat, Zaki Ibrahim, Spoek Mathambo, Errol Bellot...\n\n<b>How and where was the mix recorded?</b>\n\nWe made it at Will's place over a couple of sessions, basically throwing a load of tunes we like in a blender and seeing what stuck.\n\n<b>Can you tell us a little bit more about the idea behind the mix.</b>\n\nWe had a pretty good time making it—that was the idea! \n\n<b>Can you outline the process you guys and Josh undertook in writing <i>Routes</i>?</b>\n\nIt started with us making a load of sketched-out ideas and Josh wrote words to them. Then after a while he came down and we did a few quite intense sessions, he recorded definitive versions of the stuff he'd written. Then we went in on each tune, and on a few of them we ended up making new music around what Josh had done. That’s basically how it went.\n\n<b>Did you set out to make a 'London record'? How does the city feed into what you guys do?</b>\n\nFor us, this album really is just the music we wanted to make with Josh at that time. London is home, it's inspirational and boring. We have that love/hate thing, we dream of escape... yes, this place feeds into what we do and Josh's writing at the time seemed to be dealing with his relationship with his own weird imagined London.\n\n<b>What are you up to next?</b>\n\nWe're doing some gigs with Josh and our \"live\" setup—looking forward to that. As far as releases go, there's a single coming out on 2nd Drop records, it's a three way collaboration between us, Zaki Ibrahim and Message To Bears called <i>Explode</i>. Mothy, DJ Rum and Charlie Dark all did great remixes too. Plus our mate Josiah made a wicked video for it. There's been a bit or remixing going on too, our version of \"Speckles Shine\" by Jahcoozi is coming out on BPitch soon. ",
+    "blurb": "The London trio explore all the colours of the bass music rainbow. "
+  }
+}

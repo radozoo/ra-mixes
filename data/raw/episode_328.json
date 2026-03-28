@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "328",
+  "url": "https://ra.co/podcast/328",
+  "id": "328",
+  "__typename": "Podcast",
+  "title": "RA.328 DJ Nature",
+  "date": "2012-09-10T00:01:43.000Z",
+  "fileSize": 126387999,
+  "duration": "01:45:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra328-dj-nature-cvr.jpg",
+  "contentUrl": "/podcast/328",
+  "tracklist": "01. Typesun - Last Home (DJ Nature Remix)\n02. Paskal & Urban Absolutes - Still In Love\n03. Darkness Falls - Timeline (Tom Demac Remix)\n04. Leon Ware - Inside Your Love\n05. STL - In My Dreams\n06. xXxXx - State 808 (Marlows Raw Version)\n07. Farley 'Jackmaster' Funk - The Bass Lives On\n08. Paul Frick - I Mean (feat. Emika) (Akufen Remix)\n09. Alton Miller - Stars In Your Eyes (Andre Lodemann Dub)\n10. Chasing Kurt - Money (Tom Ellis Remix)\n11. Why Sheep? - Garbled Protection\n12. Douglas Greed - Go Down On You (feat. Rosa Rough)\n13. Flash & The Pan - Walking In The Rain (DJ Nature Re-Buff)\n14. Arttu - Stretch Yo Mind (Stretched Mix)\n15. Azuni - Raw Chord\n16. Deacon Blue - We Will Be Lovers (Sally's Dub)\n17. Tony Humphries/Track & Feel Events - Yes He Is\n18. Smash TV - After All These Years\n19. Kate Simko - Living Lips / Alexis P Suter - Dirty Low Down\n20. DJ Spice T - A Day Has Come (DJ Mim-ice Remix)\n21. Nina Kraviz - Choices\n22. Tom Demac - This Is What I Want",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra328/",
+  "keywords": "DJ Nature, golf channel, house, disco, Milo Johnson, Wild Bunch, Nature Boy",
+  "artist": {
+    "id": "27043",
+    "__typename": "Artist",
+    "name": "DJ Nature"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There are two distinct chapters in the story of Milo Johnson, the first of which begins in Bristol back in 1983 with the formation of The Wild Bunch. The now mythical hip-hop and reggae collective, which ran until 1986, included one DJ Milo. Having formed an interest in the emergent house music of the mid-'80s, Johnson moved on to New York in '89 and began working on a roughed-up interpretation of the genre. The first Nature Boy 12-inches hit shelves in '91, the release titles—The Ruff Disco EP, <i>Necessary Ruffness</i>—serving notice of his MO. Then in '93 production was halted. The birth of his children largely explains the abrupt end to his output—which came just as he was beginning to gain a real foothold in the scene—but Johnson remained in the industry until '96, exporting some of that time period's key releases to Japan. \n\nDespite odd DJ gigs down the years, Johnson's reintroduction (or introduction in many cases) to recorded music in 2010 was a bolt from the blue. Phil South's Golf Channel became home to his lo-fi, sample-heavy dance jams. (\"Everyone\" is a great example from his \"comeback\" period.) This harmonious relationship has continued to the present day, with Johnson just issuing <i>Return of the Savage</i>, a tasty double 12-inch's worth of DJ Nature material. \n\nJohnson goes at it for a full 105 minutes on his mix for us, with house and disco forming the bedrock for what is distinctly the style of DJ Nature. \n\n\n\n<b>What have you been up to recently?</b>\n\nWatching the Olympics, F1 and football and not necessarily in that order.\n\n<b>How and where was the mix recorded?</b>\n\nAt home.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nJust some textures I thought went together well at that time.\n\n<b>What have been the main shifts in house music you've seen in New York since you came to the city in '89?</b>\n\nTo be honest I haven't been on the NY club scene as a punter for about 15 years, so I am oblivious to what's hip out there. I can speak about what I noticed in difference from 1992 to about 2004 but nothing in between, that being less people who actually go to clubs for music alone. Music is more of a supplement from what I can see. As for the music itself, less soulfulness in the majority of what I hear today. I think the playing fields have levelled for most DJs because of technology. Back in the early '90s there were record pools where only the chosen few got the best stuff early. Nowadays that is less of a factor; DJs can pretty much get anything now. The best thing about today's music is the amount of great music that is out there. Of course you have to scour through a load of rubbish also, but most of the time it's worth it.\n\n<b>We heard you're quite particular about the soundsystems you play on. Which are some of your favourites?</b>\n\nClub I to I (Osaka). Basically the best club I have ever played in my life. Apparently the Basic Channel mob bought their old set-up, so that pretty much tells you what you need to know about that (RIP Club I to I). Also Plastic People in 2010 in London.\n\n<b>What are you up to next?</b>\n\nGot one more release with Jazzy Sport to fulfil, and a couple of other projects that I am just packaging for the future also.",
+    "blurb": "Ruff house and disco direct from NYC."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "447",
+  "url": "https://ra.co/podcast/447",
+  "id": "447",
+  "__typename": "Podcast",
+  "title": "RA.447 Barnt",
+  "date": "2014-12-22T00:00:13.000Z",
+  "fileSize": 221488126,
+  "duration": "01:32:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra447-barnt-cvr.jpg",
+  "contentUrl": "/podcast/447",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra447/",
+  "keywords": "Magazine 13, Techno, Chappell, Proceso, Hinge Finger, ",
+  "artist": {
+    "id": "16217",
+    "__typename": "Artist",
+    "name": "Barnt"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Daniel Ansorge completed an impressive trifecta in 2014. He released his debut album, <a href=\"/review-view.aspx?id=16077\"><i>Magazine 13</i></a>, in November. In October he put out one of the year's <a href=\"/review-view.aspx?id=15984\">biggest club 12-inches</a> on Hinge Finger, while back in May he turned in an <a href=\"/review-view.aspx?id=14981\">exceptional remix</a> of C.P.I.'s \"Proceso.\" (That track, along with \"Chappell,\" made it into our <a href=\"/feature.aspx?2333\">best tracks of 2014</a> list). It seemed that whatever Ansorge put his name to, it was guaranteed to stand out. The Cologne producer's music is strangely assembled and often aggressively bare. \n\nIt's a style that bleeds into his RA Podcast, a 90-minute session of off-the-wall dance music that sees Ansorge weave his way through tunes by the likes of Lena Willikens, Juju & Jordash and Traxx.\n\n<b>What have you been up to recently?</b>\n\nMy first album came out on my label, Magazine, which I run with Crato and Jens-Uwe Beyer, last month. There also was an EP for Will Bankhead and Joy Orbison's Hinge Finger in October.\n\n<b>How and where was the mix recorded?</b>\n\nIn the Magazine Studios here in Cologne. I laid it out on 1210s, CDJs and a Rane mixer and recorded it on a computer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI don't make much of a difference between home listening and club music because it would feel like an artificial barrier in me. So this mix also doesn't. Actually I play sets like this in clubs, if the atmosphere is right.\n\n<b>Your touring schedule seemed to be increasingly busy this year—do you have a favourite new place that you played?</b> \n\nI played Institut für Zukunft in Leipzig this autumn. It is a new raw place with a Kirsch Audio soundsystem run by a collective of good people.\n\n<b>Were there any record labels that you were particularly feeling this year? </b>\n\nHolger, Berceuse Heroique and The Trilogy Tapes from the UK just to name a few. The two mini-albums from Weber and Dream Weapons on Leipzig label Holger were excellent. I am sure Holger will be noticed by more people next year. Dial from Hamburg had a good year—it almost felt like a comeback, with the Roman Flügel and Efdemin albums and the remixes for Efdemin. Giegling from Weimar of course. The <i>Torus</i> album by Vril, Edward, DJ Metatron, Traumprinz... And I just got sent the second release from the Cologne Dorfjungs label. I expect great things of them in the future.\n\n<b>What are you up to next?</b> \n\nThere are a few remixes lined up. All of them will be for friends or labels I really like.",
+    "blurb": "Strange club sounds. \r\n"
+  }
+}

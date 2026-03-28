@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "314",
+  "url": "https://ra.co/podcast/314",
+  "id": "314",
+  "__typename": "Podcast",
+  "title": "RA.314 Kevin McPhee",
+  "date": "2012-06-04T00:01:09.000Z",
+  "fileSize": 73145178,
+  "duration": "01:00:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra314-kevin-mcphee-cvr.jpg",
+  "contentUrl": "/podcast/314",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra314/",
+  "keywords": "Kevin McPhee, techno, house, Hypercolour, Naked Lunch, Canada",
+  "artist": {
+    "id": "30410",
+    "__typename": "Artist",
+    "name": "Kevin McPhee"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Kevin McPhee's house and techno feels like a human had a hand in it. The beats are always a bit chunky, the edges rarely rounded off. Over the past few years, the Canadian DJ/producer has released records on some of the underground's most respected imprints—[nakedlunch], Idle Hands and the Hypercolour-affiliated Hype_LTD among them. Ranging anywhere from slow house to ambient garage to straight-ahead banging techno, McPhee has tried out plenty of sounds, with the only recurring feature thus far being a marked love of sampled vocals and that aforementioned handcrafted approach to beatmaking. \n\nYou'll hear plenty of it in RA.314, a set composed largely of McPhee's own work—both solo and in collaboration. McPhee is a bit of a throwback when it comes to these things, so there is no tracklist. And there are plenty of tunes that may never properly see the light of day. Part of the fun, we say. We hope you'll agree.\n\n<b>What have you been up to recently?</b>\n\nLately I've been working on music, that's about it really. I was in a bit of a creative rut for a few months so I've been trying to push through that and actually get some new work done.\n\n<b>How and where was the mix recorded?</b>\n\nThis mix was recorded a little while back in my bedroom. I used a few records and some mp3s (Traktor Scratch) when my computer wasn't being a pain. I then recorded it into Ableton and touched it up a bit.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIn the end I settled on mostly originals/remixes/collabs by me (some you'll only here in this mix, never again elsewhere!) and a few tracks by other artists as well. I'd say it's still mostly a showcase of my own productions with a few tracks by other people to help bring the mix together a bit more.\n\n<b>You've released on quite a few labels. Are there any of them that you'd regard as your home base? </b>\n\nWhile I feel that every label I've worked with has been incredibly welcoming and supportive, Micky of [nakedlunch] has probably shaped my sound the most. Micky has also been able to offer me that constructive criticism that you look for as a producer. I always make sure to get Micky's thoughts on my work, whether or not it would fit with the label.\n\n<b>You've mentioned in the past that you cut your dubplates. Where do you get them cut? Why is that so important to you? </b>\n\nIn the past I've got my dubplates cut at a few locations; Optimum (Bristol), Dubstudio (Bristol) and Transition (London) are the main places I've used. Unfortunately I haven't been able to cut anything in a few months, but I'm hoping to get back into the habit soon. I enjoy DJing more when I can use records so cutting tracks by others and myself just makes sense really. I play CDs as well, but when I can, I play vinyl.   \n\n<b>What are you up to next? </b>\n\nI'll be doing a tour of Europe/UK in August. Before that I'll be starting up a monthly night here in Toronto with a few of my close buddies (Nautiluss, Andrew Ross, and Ronnie MF Falcon.) For the last few months we've tried to meet up to play our weekly hauls of records at Ronnie's place. We're now moving it out of the hatch and into a venue.\n\nAs for releases, I've got a few things confirmed for the rest of the year; I've done a remix for Gingy & Bordello that will be out on Turbo soon. I've also got an EP lined up for WNCL in the fall and a single with Brainmath.",
+    "blurb": "Handmade house and techno."
+  }
+}

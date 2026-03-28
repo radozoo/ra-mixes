@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "233",
+  "url": "https://ra.co/podcast/233",
+  "id": "233",
+  "__typename": "Podcast",
+  "title": "RA.233 ASC",
+  "date": "2010-11-15T00:00:01.000Z",
+  "fileSize": 97366811,
+  "duration": "01:21:07",
+  "imageUrl": "https://static.ra.co/images/podcast/ra233-asc-cover.jpg",
+  "contentUrl": "/podcast/233",
+  "tracklist": "dBridge - Dischord - NonPlus+ \nASC - Emerge - Unreleased \nOak - Bedroom Community - Microfunk \nASC & Consequence - Untitled - Unreleased \nAbstract Elements - Fourth Dimension - Unreleased \nVaccine - Nurse - Unreleased \nASC - As the Dust Settles - Unreleased \nDespot & Abstract Elements - Lowrider - Unreleased \nFuture Sound Of London - Excerpt from Environments 1 (Part 1) - FSOL \nASC - Another Late Night - Exit \nInstra:mental - No Future (Consequence Remix) - Unreleased \nASC - Black Hole Collapse - Unreleased \nInstra:mental - Fist - Unreleased \nPhaeleh - Afterglow (dBridge Remix) - Afterglo \nASC - Fourier System - Unreleased \nJamie Now - Cascade - Hypnosis \nDJG - Be Here Now - Warm Communications \nASC - Moonraker - Unreleased \nRiya - Seems Like - Autonomic \nASC - Reality Check - Auxiliary \nThey Live - What We Promise - Unreleased \nBulb - Tenderness - Kokeshi \nDistance - Fading - Exit \nASC & Vaccine - Somnolence - Unreleased \nInstra:mental - Human 0.1.2 - Unreleased \nPearson Sound - Windmills of Your Mind - Darkestral \nCroms - Invisible Cities - Exit \nThey Live - 7998 - Exit \nVaccine feat. Riya - Like a Dream - Unreleased",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra233/",
+  "keywords": "ASC, Autonomic, Auxiliary",
+  "artist": {
+    "id": "16007",
+    "__typename": "Artist",
+    "name": "ASC"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Divide by two. It seems so simple in retrospect. But what the producers centered around the \"Autonomic\" sound—Instra:mental, dBridge and ASC chief among them—devoted themselves to a few years ago has caused an enormous stir in the drum & bass community. It has also reenergized the aforementioned artists, resulting in some of the most indelible work of their (already) lengthy careers spent at 170 BPM. None more so than ASC, AKA James Clements, whose recent album <i>Nothing Is Certain</i> was termed \"<a href=\"/review-view.aspx?id=7977\">mature club music of the highest caliber</a>\" by RA's Max Bacharach. A distinct break from his more traditional drum & bass of the early '00s, Clements' recent work has shown him embracing a whole new world of possibility. With his RA podcast, he showcases a peek into the future of the Autonomic sound.\n\n<b>What have you been up to recently?</b>\n\nMy LP, <i>Nothing Is Certain</i>, is out now on NonPlus+ and doing really well, which I'm very happy about.  My first release on my new label, Auxiliary, also recently came out and is doing the rounds, and finally my soundtrack library <i>Music for Pictures</i> was also released recently.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix in my studio using Ableton.  I had started toying with the idea of putting it together in a more conventional method, but because of my vision for the mix, I decided that Ableton would give me more control of the overall idea and planning.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nThe idea was to showcase what's become known as the \"autonomic\" sound at the 170 BPM tempo. I wanted the blends and mixes to be long transitions, blended in key, with up to three tracks playing at any one time in some parts of the mix.\n\n<b>You're starting to do some work in the soundtrack field, and have expressed interest in doing even more down the line. Can you talk about some of your favorite movie scores, and how they merge image/sound so well?</b>\n\nI think my favorite stuff tends to be by composers like Clint Mansell and Cliff Martinez.  Mood music that really ties scenes together with powerful emotion.  That's where I feel I can excel in this field, and hopefully I can build upon my first foray into this by backing it up with some motion work next.\n\n<b>What are you up to next?</b>\n\nI'm working on some new projects for Auxiliary, a new vocal track with Riya, a bunch of remixes for various labels and generally just trying to keep my sound out there.",
+    "blurb": "Unreleased goodies abound on this assured encapsulation of the Autonomic sound. "
+  }
+}

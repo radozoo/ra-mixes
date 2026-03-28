@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "752",
+  "url": "https://ra.co/podcast/752",
+  "id": "752",
+  "__typename": "Podcast",
+  "title": "RA.752 Melina Serser",
+  "date": "2020-11-02T00:00:33.000Z",
+  "fileSize": 221207509,
+  "duration": "01:32:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra752-melina-serser-cvr.jpg",
+  "contentUrl": "/podcast/752",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/921991573",
+  "keywords": "Montevideo, Uruguay, DJ Koolt, Lumme, downtempo, Alicia Carrera",
+  "artist": {
+    "id": "71182",
+    "__typename": "Artist",
+    "name": "Melina Serser"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Melina Serser, like so many artists in the renowned, tight-knit house music <a href=\"/features/2963\">scene of Montevideo, Uruguay</a>, learned how to mix records at local hero DJ Koolt's DJing school. From there, she got her start playing at bars, restaurants and other low-key spaces, where she developed her signature style: downtempo, relaxed, hypnotic and just a tad psychedelic, unobtrusive while still being creative and unpredictable. You might call her the perfect lounge bar DJ, but that would do a disservice to the eclecticism of her selections and the fluidity of her mixes—this is music that is made to be listened to closely, not just provide a comforting din amid clinking glasses and chatter.\n\nShe started to attract the attention of DJs across the pond in Europe and became the Montevideo scene's key warm-up DJ, where she further developed the style she displays on her <i>RA</i> Podcast: gently danceable, ambient but with a groove. It's always harder than you think to do a great warm-up set, but it sounds effortless for Melina Serser, whose set gently bubbles then stays at a simmer, with gentle, careful beats that will rouse you to dance—or at least move around—before you even realize you're doing it.\n\n\n<b>What have you been up to recently?</b>\n\nIn this very atypical year, as gigs have been drastically reduced since mid-March, I've focused on exploring and digging more than ever, and, launching a project that I had in mind for years: having an online radio station. So, in March <a href=\"https://lumme.online\">lumme.online</a> came out, and I'm very happy with it. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at home, in Barcelona, early on a Monday morning, in the hour after I woke up, fresh as a lettuce :) I recorded it with two Technics turntables, two Pioneer CDJs and an Allen & Heath mixer. \n\n<b>Can you tell us the idea behind the mix?</b>\n\nMy main intention was to generate a journey of an hour and a half through all my different musical sides: from organic ambient and tribal, to electronic downtempo, which was a great challenge!  So I chose 20 of my favorite tracks and I put all the pieces together, like a puzzle. I recorded the day after a healing sound training, so I feel the mix carried that depth and it released something in me when I recorded it. \n\n<b>The Uruguay scene is known mostly for smooth and spaced-out house music, but you come at things from a more downtempo perspective. How did you get into playing this style of music, and what attracts you to these slower, more relaxed sets?</b>\n\nI've been always open and eclectic with my taste. When I started, in 2012, I used to play at bars, dinners, art exhibitions, markets, afters and daytime events. So my focus was to find slow music for these kind of gigs. Then, promoters knew me as a downtempo DJ and they started calling me to warm-up nighttime parties, so I dived into  the electronica/trip hop/IDM/ambient and downtempo world. And years passed by and my record collection was 90 percent downbeat and chill music. So, I put my energy only in doing warm-ups, playing in chill out parties and summer festivals. What I love about this kind of slow music is the music journey experience, the mind travelling, and the balm effect that I can see many times in the audience. For me, the perfect party is during the day: people lying down, very comfy, who appreciate the art of listening, connect deeply with sound, and let themselves go, and at night, maybe in a dancing mood. \n\n<b>How has the pandemic affected the scene in Uruguay this year?</b>\n\nLike everywhere else in the world: all the gigs were canceled, the clubs closed, there have been no parties since March. Despite the fact that Covid-19 did not hit so hard in Uruguay, the repercussions were serious for the whole music scene. \n\n<b>What are you up to next?</b>\n\nMy plans are to continue with my online radio station Lumme; follow my studies in sound healing and soon, to start creating a listening music event in Barcelona with my friend and DJ Alicia Carrera. I think that is a very important time to generate artistic projects that allow us to feel free, united, be at ease and expand our consciousness. \n\n",
+    "blurb": "Low-key selections from a key Uruguayan DJ. "
+  }
+}

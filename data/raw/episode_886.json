@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "886",
+  "url": "https://ra.co/podcast/886",
+  "id": "886",
+  "__typename": "Podcast",
+  "title": "RA.886 Daria Kolosova",
+  "date": "2023-05-28T23:00:39.000Z",
+  "fileSize": 169569527,
+  "duration": "01:10:39",
+  "imageUrl": "https://static.ra.co/images/podcast/daria-test.jpg",
+  "contentUrl": "/podcast/886",
+  "tracklist": "Fireground - Dense Blue\nInerit - Petra\nSun Electric - Point X (Ed.2)\nHysteria Temple Foundation - Gamesh (Gabriella Vergilov vocal)\nSibilant - Please Come In But Wipe Your Feet\nOall Hates - PCT-666 (Asmus Odsat Remix)\nSynchro - Kitchen Sync\nBassil - Hull Breach\nJulia Govor - Where's My Cat (Surgeons Girl Remix)\nStratton - Bless\nDJK Stingray 313 - Acetylcholine\nAlex Cortex - Soliton\nE-Talking - Terminate\nDer Dritte Raum - Trommelmaschine (Voodoo Remix)\nCarl Taylor - Voyager (Carl Auterform Mix)\nChristian Linder - Falling Down\nThibault - Raindanc94\nElectronic Experienced - V-10 Overload\nArctor - Soulless (Mathis Ruffing Remix)\nOmid 16B - Escape (Driving To Heaven)",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra866-daria-kolosova",
+  "keywords": "",
+  "artist": {
+    "id": "76574",
+    "__typename": "Artist",
+    "name": "Daria Kolosova"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Before the Russian invasion of Ukraine, Daria Kolosova was one of the brightest stars of Kyiv's incredible techno scene, when the city was among the best places for the genre anywhere in the world (and remains so, even under duress). Now living in Berlin, Kolosova's style and sound feel both timeless and progressive. She's been DJing since she was a teenager—after falling in love with dance music via her dad's collection—and has built up a style that has taken her to the world's most renowned techno clubs and festivals.\n\nIn spite of her popularity, Kolosova does things differently to many of her peers. She's spoken about her respect for and <a href=\"https://www.numeromag.nl/in-conversation-with-daria-kolosova/?fbclid=IwAR0WAeh1XsPgX4lXsP71qX6QjnlUe1ya0rGfm0guSj4oF-CXqshsNAxUj_E\" target=\"_blank\">recognition of</a> techno's origins, and her DJing style pays homage to the genre's history. Her sets span eras and continents, with a '90s bent that encompasses not just hard, rolling techno but breakbeats, electro, IDM and prog. Her <i>RA</i> Podcast is a brilliant collection of old and new, from Goa trance to Julia Govor, expertly mixed with a storyteller's hand.\n\n<b>What have you been up to recently?</b>\n\nLately I've been quite busy with touring around the world, besides my gigs in Europe for the last three months I did tours in Australia, US, South America. On the one hand I'm grateful to be able to travel again and do what I love after two years of the pandemic, but at the same time I've started to feel the need to find a healthy balance between my tours and personal life because it can be super exhausting at times. So I'm learning how to take care of myself, doing yoga, cold exposure and trying to dedicate more time to new projects and studio in the future.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI recorded the mix on a Xone92 and two CDJ 3000s at my home in Berlin. The idea came to me after a recent conversation with my friend. He asked me to send him my favourite mix of mine and I realised that my favourites I recorded are mostly non-techno. So it became a foundation of the mix—representing my favourite tracks regardless of genres and styles. Some transitions were challenging as I started at 130 BPM, then switched to 165 and to 146. So I practiced how to make it properly before I recorded it.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nPlaying at Berghain was a dream come true. It made a huge impact on me because I used to travel a lot from Kyiv to Berlin to go there to experience it and learn from bigger DJs. Lately I've enjoyed playing at BASEMENT in New York so much that I literally didn’t want to finish my set. I'm eagerly looking forward to being back.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nThere are many things going on in the world, but the war in Ukraine is the most painful topic for me. Unfortunately there's not much news and updates about Ukraine anymore, and the lack of information makes people believe that the war is almost over or the situation has become better. It has also become more complicated to share information about the war on social media as it could be deleted or statistics of views would be significantly low.\n\nI just want to remind everyone that the war in Ukraine is going on and we need your support.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm super excited about my Berghain set this Sunday. Also looking forward to some amazing events and festivals this summer as well as my vacation! My husband and I are going to Spain for the Wim Hof expedition in June.",
+    "blurb": "Kinetic techno, electro and trance from a brilliant Ukrainian DJ."
+  }
+}

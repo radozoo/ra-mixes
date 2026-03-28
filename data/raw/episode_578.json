@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "578",
+  "url": "https://ra.co/podcast/578",
+  "id": "578",
+  "__typename": "Podcast",
+  "title": "RA.578 Mark Broom",
+  "date": "2017-06-26T00:00:40.000Z",
+  "fileSize": 144967467,
+  "duration": "01:00:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra578-mark-broom-cvr.jpg",
+  "contentUrl": "/podcast/578",
+  "tracklist": "Stanislav Tolkachev - Vot I Vse\nOliver Dodd - Dione\nDold - Gryning\nKord & Nebula - Second Agenda\nAbsent - Purpose Maker\nStanislav Tolkachev - Mostly Harmless\nSSTROM - Fyren\nUntitled 1 2488\nDaniel Araya - Jaguar Jewel\nOliver Rosemann - Bronson\nJonny L - This Time (Carl Craig remix)\nPatrik Carrera - Who Is Sleep\nDon Williams TKM -10 B1\nMarc Romboy vs Chelonis R Jones - The Beat (Robert Hood remix)\nMark Broom - Witch\nka16413 - Mind Detergent (Robert Hood remix 2)\nRoberto - Tiziani (Sterac remix)\nStanislav Tolkachev - Apexcordis\nMark Broom - Snake Eyes\nTom Trago - Use Me (Carl Craig remix)\nMark Broom - Fire\nCybotron/Mills Edit\nEdge Of Motion - Motion Denied\nSeawolf Edit\nMark Broom - Loop 131\nHFP 012 - B2\nBold/Kuf MB Edit\nAutechre - Space How V\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/330151788",
+  "keywords": "Techno, Pangaea, Warp, The Fear Ratio, Blue Hour, Snake Eyes, James Ruskin",
+  "artist": {
+    "id": "957",
+    "__typename": "Artist",
+    "name": "Mark Broom"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Almost 30 years into this career, Mark Broom is an artist whose achievements can be easy to overlook. With little fuss or fanfare, he puts out a handful of EPs and remixes each year with the aim of maximum dance floor efficiency. Take the last few months, for instance. Just last week he released a <a href=\"https://www.youtube.com/watch?v=uwEbTf8KPHw\">thundering remix</a> of Blue Hour, as part of a package that also featured Substance, Pangaea and VC-118A. We had the <i>Snake Eyes</i> EP on his Beard Man label, which included four tightly composed weapons. And there was also \"<a href=\"https://www.youtube.com/watch?v=Lqy1h6i06K4\">One Sound</a>,\" the bass-heavy standout from an EP for EPM Music. We could have picked a year at random and the highlights would have been just as easy to find. Broom has worked with iconic labels like Warp, R&S, Soma, Blueprint and Mo' Wax, started one of his own in Pure Plastic, and made music with respected artists like Baby Ford and James Ruskin. (As Kingpin Cartel, him and C.J. Baker also made one of our all-time end-of-the-night favourites, \"<a href=\"https://www.youtube.com/watch?v=fJBJsJQZ-0A\">Ghetto</a>.\") Reliability isn't necessarily a cherished quality, but in Broom's case it's worth celebrating. \n\nOne thing we didn't mention already is Broom's impeccable sense of swing, which he seems to weave into his tracks instinctively. If there's a defining feature of his RA podcast, it's that same style of timeless groove. \n\n\n<b>What have you been up to recently?</b>\n\nRecently I've been in the studio with James Ruskin as we have a collaborative project called The Fear Ratio and we're aiming to get our third album out at some point this year. We're pretty excited at the outcome of our studio sessions, so watch this space. I've also been busy with quite a few forthcoming remixes. I've had some solo EPs out on my Beard Man label and the first of three EPs for EPM have been released. Plus, I'm DJing regularly, so pretty busy!\n \n<b>How and where was the mix recorded?</b>\n\nI did this at my home studio, in Norfolk. I used Ableton for the mix, which is my usual method when doing podcasts or mixes. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt references my DJ sets, so it features some exclusive edits and one unreleased track from the vaults. I've also added some classic older tracks and a selection of whatever fresh tunes were out at the time of the mix.\n\n<b>Tell us about the <a href=\"https://www.instagram.com/p/BUOY1vcg4NT/?taken-by=markbroom\">video</a> you posted that featured audio of your first attempt to make music, back in 1989.</b> \n\nThis was made with the legendary rave act N-Joi. One of their onstage performers and dancers was an old friend of mine from where I grew up in Laindon in Essex, and he introduced me to the guys. I used to go and hang out at their studio in Southend. At the time I was buying my vinyl from City Sounds in Holborn and I would take over my records for listening sessions. After a few visits we started trying out some ideas in the studio. These were never really finished as they were busy doing their own stuff, but it was a great experience and inspiration.\n  \n<b>We also noticed you giving some love to Raekwon. What's your favourite album from the Wu-Tang stable?</b> \n\nIt has to be <i>Only Built 4 Cuban Linx...</i>, a true classic! If anyone reading this is into their style, then I can highly recommend checking out these guys from Buffalo, NY: Westside Gunn, Conway, Benny and the producer Daringer, and not forgetting Roc Marciano, who is one of my favourite rappers.\n\n<b>What are you up to next?</b> \n\nI have some DJ gigs over the summer. Apart from that, getting my head down in the studio and finishing off stuff ready for 2018.\n",
+    "blurb": "Techno with groove in its heart.  "
+  }
+}

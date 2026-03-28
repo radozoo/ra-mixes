@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "43",
+  "url": "https://ra.co/podcast/43",
+  "id": "43",
+  "__typename": "Podcast",
+  "title": "RA.043 Stephan Bodzin",
+  "date": "2007-02-06T01:00:37.000Z",
+  "fileSize": 118775661,
+  "duration": "01:38:57",
+  "imageUrl": "https://static.ra.co/images/podcast/ra043-stephanbodzin-cover.jpg",
+  "contentUrl": "/podcast/43",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra043/",
+  "keywords": "",
+  "artist": {
+    "id": "764",
+    "__typename": "Artist",
+    "name": "Stephan Bodzin"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Before 2004, Bodzin was happy lurking in the background. He composed music for experimental theatre, he produced records for Oliver Huntemann and he remixed artists such as Frankie Goes to Hollywood and Sinead O’Connor. All that changed in 2005 when Bodzin got great feedback for his debut track ‘’Caligula/Marathon Man’, which convinced him to try his hand at his own career. And what a success it has been: In two short years he’s had his name plastered over dozens of rated 12”s, collaborations and remixes, all branded with his signature Moog bass and all instantly recognizable as Bodzin. If you’ve listened to a Thomas Schumacher, Oliver Huntemann or Marc Romboy record over the last couple of years, chances are you’ve been listening to the 36-year-old wonderboy from Bremen, Germany.\n\nRecently Bodzin has started his own record label, Herzblut Recordings, on which he’ll release his debut album \"Liebe ist...\" in April 2007. But being a production machine obviously isn’t enough – Bodzin has recently embarked on a second career as a DJ. “Sure, the actual process in the studio is satisfying,” Bodzin told Stuttgart magazine Meerestief recently. “But it is such a privilege to share your own music with so many other people every weekend. They stand there laughing and yelling, happy and thankful in front of me. This truly makes my eyes well up with happiness. I’m not exaggerating.”\n\nBodzin’s 9 to 5 regimen to become a real DJ is paying off, with gigs all over Europe to ecstatic crowds. Mostly he spins his own material, but listen out for a couple of likeminded producers slipped in too.\n\nRA.043: Stephan Bodzin was recorded live at Club Nitsa, Barcelona in late December. Thanks to <a href=\"http://www.myspace.com/boogieboy69\">Jeff the Boogie Man</a> for the recording.\n",
+    "blurb": "This week’s RA Podcast is a hundred minutes from super-producer Stephan Bodzin."
+  }
+}

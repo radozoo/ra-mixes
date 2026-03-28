@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "687",
+  "url": "https://ra.co/podcast/687",
+  "id": "687",
+  "__typename": "Podcast",
+  "title": "RA.687 Autechre",
+  "date": "2019-07-29T00:00:49.000Z",
+  "fileSize": 108699523,
+  "duration": "00:45:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra687-autechre-cvr.jpg",
+  "contentUrl": "/podcast/687",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/657934265",
+  "keywords": "Rob Brown, Sean Booth, Warp, NTS Sessions, Hip hop, ",
+  "artist": {
+    "id": "799",
+    "__typename": "Artist",
+    "name": "Autechre"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There's never been a better time to be an Autechre fan. Just last month, Rob Brown and Sean Booth gave away two hours worth of cuts recorded between 1989 and 1993 that sounded disturbingly of the times given dance music's current mania for bleep and hardcore techno-adjacent sounds. Then there was the dump of <a href=\"/feed/107541\">zip folders</a> containing all the performance data and samples for their live sets circa-2008, giving producers as big an insight into their methods as they've ever had. That's not to mention the huge archive of <a href=\"/news/43195\">live sets</a> they released in February, which offered a sprawling view of their range and welcome documentation of them really <a href=\"/reviews/23512\">letting loose</a>. \n\nIn under five years, they've released somewhere in the region of 42 hours of music (that's not including the 13 hours of <a href=\"/news/42837\">videos</a> that were out in the wild last year). The crazy thing is how little of it is redundant. The conspicuous rise in generosity has been matched by the quality of their work, which is better than it's ever been. Although fans of their earlier material will heartily disagree—to be fair, there are a lot of them—last year's <a href=\"/reviews/22429\"> <i>NTS Sessions</i></a> felt like decades of research had come to fruition. Perhaps the most shocking part was that, despite running eight hours long, it never got boring. \n\nRA.687 is another matter altogether. Here, Booth and Brown return to their love of old school hip-hop, delivering a chilled 45 minutes of breaks and rhymes, running through the likes of MC Shan, Audio Two and Super Lover Cee & Casanova Red.\n\n<b>What have you been up to recently?</b>\n\nOh you know, stuff.\n\n<b>How and where was the mix recorded?</b>\n  \nIn rochdale bus station, at about 2am, on a butchered 3D super woofer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nSunday rovers, the 17, 122, 123, 163, 164, and 167. MCWs and old Atlanteans. Cutdown popmates and edding alphabets.\n\n<b>You recently released two hour's worth of material from the late '80s and early '90s for Warp's NTS takeover. Can you take us through the process behind this, from finding, selecting and processing the tracks to stitching it all together?</b>\n\ntbh Warp didn't give us much notice for the radio thing so we just grabbed the tracks and did the mixes, it was done in a couple of days. None of it's mastered or anything they were just straight copies from archive (sorry, but it is free:))\n\n<b>Systems the two of you have built in Max/MSP have been crucial to your more recent records and live shows. What are your favourite resources for learning Max, both today and when you were starting out?</b>\n\nIt depends what it is you want to do, it's a bit of a vague question without a goal but as for just learning the environment, the tutorials are a good place to start and the max forum is good for filling gaps.\n\n<b>What are you up to next?</b>\n\nMore stuff, definitely.",
+    "blurb": "An iconic UK duo craft a hip-hop mix. "
+  }
+}

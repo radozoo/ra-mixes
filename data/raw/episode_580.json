@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "580",
+  "url": "https://ra.co/podcast/580",
+  "id": "580",
+  "__typename": "Podcast",
+  "title": "RA.580 Rahaan ",
+  "date": "2017-07-10T00:00:08.000Z",
+  "fileSize": 121545325,
+  "duration": "00:50:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra580-rahaan-cvr.jpg",
+  "contentUrl": "/podcast/580",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/332475072",
+  "keywords": "Ron Hardy, Lee Collins, Hot Mix 5, Chicago house, Disco, Soul, Boogie, ",
+  "artist": {
+    "id": "9091",
+    "__typename": "Artist",
+    "name": "Rahaan"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Rahaan Young is among a class of DJs who picked up the torch from the first wave of disco, house and soul selectors and carried it forwards to the present day. He could almost be thought of as the connecting tissue between the original Chicago and New York DJing legends and contemporary acts like Motor City Drum Ensemble, Floating Points and Hunee. During the '80s in Chicago, his hometown, Young soaked up the sounds of pioneering DJs like Ron Hardy and the Hot Mix 5, and got behind the decks himself towards the end of that decade. He spent the '90s gigging in Chicago, building his record collection and his reputation and playing some of the city's leading venues. But it wasn't until the late '00s that he began appearing on international lineups—a reflection, perhaps, of the internet generation becoming wise to his extraordinary tastes and skills. \n\nIt probably also helped that his stylish edits started regularly hitting record shelves. In 2011, he bundled some of them up on <i>Edits Vol. 1</i>, a compilation that featured ten of his funk and soul reworks, and went to have a string of releases on labels like Lumberjacks In Hell and Dopeness Galore. (The Black Madonna, who cites Rahaan as a key influence, appeared with him on a split 12-inch around this time, naming her track \"We Don't Need No Music (Thank You Rahaan).\") \n\nThese days Rahaan is spreading his message of disco, soul and boogie at clubs and festivals around the world. The calibre of his bookings show the regard he's held in: Panorama Bar, XOYO, Dekmantel, Dimensions, Concrete, Kaiku and Corsica Studios have all been on his itinerary over the last couple years. We get further proof on his RA podcast, which starts with Dazzle's \"<a href=\"https://www.youtube.com/watch?v=8J_z_x7ULts\">Reaching</a>,\" and keeps the good times rolling from there. \n\n\n<b>What have you been up to recently?</b> \n \nWorking on music and on my studio.\n \n<b>How and where was the mix recorded?</b>\n \nAt my house.\n \n<b>Can you tell us about the idea behind the mix?</b>\n \nThe mix is for dancing.  \n \n<b>It's fair to say you've been an influence on DJs in Chicago, but which DJs from the city most influenced you?</b> \n \nI think Chicago DJs are the best DJs in the world, but I would be bias. My favorites are Ron Hardy and Lee Collins.\n \n<b>You play lots of different styles of music, but are there records that never leave your bag?</b>\n \nNo I always try to change it up. I don't want to get sick of a song.\n \n<b>What are you up to next?</b>\n  \nGetting this live music out I've been working on. \n",
+    "blurb": "Disco, boogie and soul from a Chicago favourite. \r\n"
+  }
+}

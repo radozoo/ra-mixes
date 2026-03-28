@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1037",
+  "url": "https://ra.co/podcast/1037",
+  "id": "1037",
+  "__typename": "Podcast",
+  "title": "RA.1018 DJ Love, DJ Danz and DJ Ericnem",
+  "date": "2025-12-21T21:35:58.000Z",
+  "fileSize": 0,
+  "duration": "01:03:34",
+  "imageUrl": "https://static.ra.co/images/podcast/ra1018.jpg",
+  "contentUrl": "/podcast/1037",
+  "tracklist": "DJ Ericnem - Raider 150 vs. Balod-Balod \nDJ Danz - Pump It, Rock It [Crazy Pipe]\nDJ Love - Team Bunal\nDJ Ericnem - Sayaw Mga Budots\nDJ Danz - Amaw Dance\nDJ Danz - Siren Dance\nDJ Ericnem - Lato2x\nDJ Love - Technology\nDJ Danz - Discotek\nDJ Ericnem - 123 Layat\nDJ Love - Pika Bang Bang\nDJ Love - Papap Tiwtiw\nDJ Danz - Sepati\nDJ Love - Budots ni Wang\nDJ Ericnem - Put Your Hands Up In The Air\nDJ Ericnem - Isayaw Sukarap\nDJ Danz - Ako Naa\nDJ Danz - Dayang Dayang\nDJ Love - Sound Check Sally\nDJ Love - Shelheil BPM (Ft. DJ Danz and DJ Ericnem)\nDJ Ericnem - Sayaw Sukarap\nDJ Ericnem - Sayaw Mga Chong\nDJ Danz - Kiay Kiay\nDJ Love - Unod Bukog\nDJ Ericnem - Balod-Balod Anthem\nDJ Ericnem - Dasmag Pina Emergency\nDJ Love - Twerk With Me Day and Night (Ft. DJ Ericnem)\nDJ Danz - Jet2Holiday\nDJ Ericnem - Budots World 1\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1018-dj-love-dj-danz-and-dj",
+  "keywords": "",
+  "artist": {
+    "id": "167407",
+    "__typename": "Artist",
+    "name": "DJ Love (PHL)"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you were on TikTok in the summer of 2024, there is a good chance you heard \"Emergency Budots (Paging Doctor Beat).\" The DJ Johnrey track spread fast, soundtracking countless dance clips, and just as quickly sparked a wave of corrections. Budots, viewers were told, wasn't new. And most people weren't dancing it right.\n\nTo understand Budots, DJ Love, DJ Danz and DJ Ericnem are a useful starting point. The three producers have been making Budots music since the early 2000s, developing the genre largely outside formal club infrastructure. Early Budots tracks were built using basic setups—often assembled in internet cafes using FL Studio—and designed to accompany street dancing rather than club mixing. From there, Budots spread through neighbourhood sound systems, street parties and local dance crews across Davao City.\n\nAcross the trio's <i>RA Mix</i>, Budots' playful character comes into focus. Bouncy like a ball, it's primary elements are clipped vocal samples, pitched-up synth hooks and tightly looped rhythms. Heard in full, RA.1018 plays out as an hour-long joyride, making it difficult to square the music’s buoyancy with Budots' earlier local associations with disorder and crime. \n\nBorn Sherwin Tuna, DJ Love has been central to reframing Budots, positioning it as a form of release for the working-class neighbourhoods he calls home. His slogan, \"Yes to Dance, No to Drugs,\" frequently appears across his music videos. \"People fight in the slums,\" he told The Face. \"I wanted to turn that energy into enjoyment.\" Speaking to CTM Festival in 2024, he framed the genre in similarly practical terms: \"Budots is the hardship of Filipinos. It's one scratch, one peck—the noises you hear in your surroundings.\"\n\nRA.1018 offers a glimpse into that world. Working collectively as The Budots Three—extra points if you catch the nod to a certain pioneering Detroit outfit—Love, Danz and Ericnem showcase the richness beyond TikTok's compressed snapshots. Across the hour, the mix moves between classic Budots reworks and newer mutations of the sound, including techno-adjacent, four-to-the-floor iterations such as Bomb Tek, tracing both the genre's roots and where it might head next. It's Budots, in full view. <i>- Bella Aquilina</i>\n\n<b>What have you been up to recently?</b>\n\nWe've been working on new remixes, many of which we've been uploading to YouTube and sharing online. These remixes have been gaining traction and reaching new audiences through social media.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was produced using a personal computer and FL Studio, which is what we use for remixing. Our approach is very instinctive—we remix whatever ideas come to mind in the moment. It's a process rooted in fun, spontaneity and entertainment.\n\n<b>What are you looking forward to in the near future?</b>\n\nWe're really looking forward to the release of our album <i>Budots World</i> with Eastern Margins. We're hoping it reaches more listeners globally and opens opportunities for us to perform abroad.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nOur goal is simple: for our music to bring joy, love, and togetherness to people. We believe music can unite everyone, regardless of background.\n\n<b>What's one club or party that had a major impact on you as artists?</b>\n\nEastern Margins has had a major impact on us. What we're doing with them now has helped amplify Budots internationally while still allowing us to stay true to our own remixing styles.\n ",
+    "blurb": "\"The Budots Three\" showcase the thrilling sound of Filipino dance music. "
+  }
+}

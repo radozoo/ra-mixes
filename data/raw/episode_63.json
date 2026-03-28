@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "63",
+  "url": "https://ra.co/podcast/63",
+  "id": "63",
+  "__typename": "Podcast",
+  "title": "RA.063 Ben Klock",
+  "date": "2007-07-23T13:00:22.000Z",
+  "fileSize": 95090717,
+  "duration": "01:19:13",
+  "imageUrl": "https://static.ra.co/images/podcast/ra063-ben-klock-cover.jpg",
+  "contentUrl": "/podcast/63",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra063/",
+  "keywords": "",
+  "artist": {
+    "id": "966",
+    "__typename": "Artist",
+    "name": "Ben Klock"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The Berghain is the downstairs part of Berghain/Panoramabar complex, the Berlin club for the clubber who never sleeps. While the Panoramabar upstairs plays host to a softer spectrum of techno and house, the Berghain caters to the fiends of the city: the kind of clubbers who stay locked into the groove until the lights come on, which in Berlin is more likely to be Sunday evening than Sunday morning.\n\nIt's a job perfect for Klock, who cut his teeth spinning the hard stuff at venues such as Cookies, Tresor and WMF in the nineties. These days he continues to satiate those with a thirst for pumping fist techno, but he’s also prone to breaking up the loops with older house, techno and minimal. \"I like to combine old tracks - whether it be Chicago, Detroit or European dance music - with new ones,\" says Klock.\n\nAs a producer, Klock also has an ear for afterhours dancefloors. He's shown a flair for a darker, more hypnotic blend of techno with 12\"s on Bpitch Control and Berghain’s in-house stable Ostgut Ton: 'Dawning/Dead Man Watches the Clock' was even a hit with DJs such as Michael Mayer and James Holden. Since then, Klock has notched up another release on Ostgut, 'Czeslawa', as well as several cuts on his own label Klockworks, all of which straddle the line between more workmanlike techno and minimal.\n\nKlock's podcast for RA is a mix of pared down industrial-strength techno and more minimal grooves: each record blurring into the next with clockwork precision and little regard for time. A real slave to the beat mix then.\n\n<b>What have you been working on recently?</b>\n\nI've been working on a remix with Marcel Dettmann for Par Grindvik that will be released on Spectral Sound soon.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded in my studio in Berlin.\n\n<b>What are you up to next?</b>\n\nI'm planning a new Dettmann/Klock on Ostgut-Ton, and a new Klockworks for this year. I’m also planning on an album…\n",
+    "blurb": "This week's podcast is a relentless seventy-nine minutes of techno from Berghain resident Ben Klock."
+  }
+}

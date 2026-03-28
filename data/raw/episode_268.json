@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "268",
+  "url": "https://ra.co/podcast/268",
+  "id": "268",
+  "__typename": "Podcast",
+  "title": "RA.268 Ed Davenport",
+  "date": "2011-07-18T00:01:04.000Z",
+  "fileSize": 74681645,
+  "duration": "01:02:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra268-ed-davenport-cvr.jpg",
+  "contentUrl": "/podcast/268",
+  "tracklist": "Echologist - Hummer - Electric Deluxe\nJohn Carpenter & Alan Howarth - President At The Train - Varï¿½se Sarabande\nJack Dixon - Wrong Number - Take Records\nGliesers - Kuiper Belt -Youandewans Dour Version - Fullbarr Digital\nPhotek - Solaris - Science/Virgin\n7 Citizens - Quietus -Force / Emerge Remix -Praterei\nMr. Fingers - Distant Planet - Trax\nDario Zenker - 10AM - Ilian Tape\nBandulu - Shroud - Blanco Y Negro\nMinimal Man - Spiritual Edit - Guerilla\nUnknown - Untitled - Herzschlag Schallplatten\nPierre LX - Index 1 - Initial Cuts\nDeee-Lite - Power Of Love -Pal Joey's Dub Mix - Elektra\nAce & The Sandman - Let Your Body Talk - Trax\nMinimal Man - Bocyc - Trelik\nDimi Angï¿½lis & Jeroen Search - Cortex - Figure SPC\n95 North - Sun Goddess - Large Records\nBandulu - Lifestyle - Infonet\nMorgan Geist - Kilgore - Fragmented\nRick Wilhite - Blame It On The Boogie - Music 4 Your Legs\nMick Welsh - Dissonant Dialect - Elektrosouls Recordings\nGrain - Untitled - Grain/FatCat\nJeff Mills - Every Dos Has Its Day Vol. 4 C1 - Axis\nChigago Skyway - Heavens & Angels - MOS_DEEP",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra268/",
+  "keywords": "Ed Davenport, techno, leftroom, Poker Flat",
+  "artist": {
+    "id": "1211",
+    "__typename": "Artist",
+    "name": "Ed Davenport"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It would be easy for an artist such as Ed Davenport to slip through the cracks. An ex-pat making house music in Berlin? It's not as though they're in short supply. But take a listen to the UK producer's output since he relocated to the German capital in 2008, or the <a href=\"dj/eddavenport/dates?ctry=12\">volume of gigs</a> he picks up at venues right across the city and it's clear that Davenport has been making his mark. His journey began back in 2006 with a batch of minimal-inclined releases for labels like Leftroom and Gumption Recordings. As the decade wore-on it seemed as though he began to find his feet. A more refined strand of house/techno began to emerge as Davenport shopped his music out to a variety of leading European labels. Hamburg imprint liebe*detail became a primary partner, while 12-inches for NRK, Falkplatz, Poker Flat and Figure SPC further spread the message. \n\nJohn Carpenter & Alan Howarth, Photek, Minimal Man, Jeff Mills and Rick Wilhite all feature on Davenport's predominantly \"influences\"-based mix for us, outlining house and techno's evolutionary steps between the \"now\" and \"then.\"  \n\n<b>What have you been up to recently?</b>\n\nI've been working a lot on new music, concentrating on finishing a couple of singles for NRK and Falkplatz, and also continuing with plans for my first album. That's been a slow but enjoyable processïI want to get it right!\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded at home using both vinyl and digital tracks, and was edited in Ableton Live. I mixed some passages on the decks and then brought in digital tracks, edits and effects. There are some extra details that I wanted to add with software, like panning, delay and EQ.\n\n<b>Can you tell us about the idea behind the mix.</b>\n\nIt's largely an 'inspirations' mix; music I've found recently that gets me excited or older tracks that still deserve time to shine. I also really wanted it to be a proper podcast that people can listen to at work or at homemnot just an hour of the latest club tools. For that reason the mix travels though quite a lot of genres along with a few surprisesiI think that's what you can expect from my DJ sets too.\n\n<b>You play out constantly across BerlinBare there venues you rate that people from outside the city wouldn't necessarily know about?</b>\n\nOne of my favourite smaller clubs that's popped up in recent years is <a href=\"/club-detail.aspx?id=20497\">Chez Jacki</a>, behind the old Maria club. There's very little attitude there, a great atmosphere and varied music, and the owners are really dedicated to keeping it fresh and a bit different.\n\n<b>What are you up to next?</b>\n\nReally putting a lot of time into producing new, (hopefully) timeless music. My main focus at the moment is to get my album finished. I have a lot of other ideas and projects that are in development too. There's some real moody electronica about to surface that I made with a certain US producer in Berlin, and some weird out-there droney, spacey stuff that I've been making along with some other friends these other projects keep me inspired and busy!\n\nI've also just finished a pair of remixes for Ian Pooley that will come out on his Pooled label, and there's a great synth-heavy track with Oliver Deutschmann that will come out on Polytone soon along with a Peter Van Hoesen remix.",
+    "blurb": "Timeless house and techno. "
+  }
+}

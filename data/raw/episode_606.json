@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "606",
+  "url": "https://ra.co/podcast/606",
+  "id": "606",
+  "__typename": "Podcast",
+  "title": "RA.606 Scott Zacharias",
+  "date": "2018-01-08T00:00:47.000Z",
+  "fileSize": 140134727,
+  "duration": "00:58:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra606-scott-zacharias-cvr.jpg",
+  "contentUrl": "/podcast/606",
+  "tracklist": "Moodymann / Ken Nordine intro\nKris Baha - Blackout - Power Cuts (2017)\nAbe Duque - More Comfortable For You - Abe Duque Records (2015)\nKingston Black - Acid Heaven - Burning Records (1993)\nTrojan Horse feat. Romanthony - What $ Love - Vinylmania (1993)\nScott Ferguson - Dump Days - Ferrispark (2001)\nOmar S - Oasis 14 - FXHE (2005)\nMike Huckaby - Music For The Dancefloor - SushiTech Records (2011)\nHundred20 - Summer of ’89 - MCDE (2011)\nMark Grusane - Hydrochloric - Mark Grusane Music (2016)\nDJ Rush - The Reactor - Dancemania (1991)\nSteve Poindexter - Short Circuit - Housetime Records (1989)\nX2 - Time Elevation and Rhythm - Relief Records (2006)\nJammin Gerald - Da Houze - Freakmode (1997)\nMori Ra - Acid Inldonesia - Madcam Mambo (2015)\nKeita Sano - Bouzouk - Spring Theory (2015)\n??? I can’t remember. It’s on an old CD w no meta data. I like it though.\nHieroglyphic Being - Ancient Echoes - +++ (2010)\nConjure outro",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/380437757",
+  "keywords": "Detroit, No Way Back, Interdimensional Transmissions, The Fantasy",
+  "artist": {
+    "id": "72659",
+    "__typename": "Artist",
+    "name": "Scott Zacharias"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Scott Zacharias is a well-kept secret in a city full of them (Detroit), but that may be starting to change. Many know him from No Way Back, the Motor City party series where, sometime around dawn in the chill-out room, following hours of mind-bending techno next door, he unspools psychedelic tapestries of disco, jazz, Italo and whatever else seems to suit the moment. He applies the same freewheeling style to The Fantasy, his edits duo with Interdimensional Transmissions founder BMG, whose choice of source material stretches from Chris & Cosey to The Fatback Band. Central to his appeal is his unpredictability: on any given night, he's as capable of odd eclecticism as he is of dirty club jams. Usually you'll get a mix of both. \n\nThis anything-goes approach reflects a cornerstone of his city's musical tradition: freeform radio, the genre-hopping format embodied by figures like The Electrifying Mojo. It's earned Zacharias an ever-growing cast of die-hard fans, from regular punters to the likes of L.I.E.S. boss Ron Morelli. RA.606, an off-the-cuff romp through the clubbier side of his sound, shows what the fuss is about. \n\n\n<b>What have you been up to recently?</b>\n\nTransitioning. I was laid off from a major daily newspaper about this time last year and now I'm a middle-aged DJ. For hire.\n\n<b>How and where was the mix recorded?</b>\n\nI don't have a working set of turntables at the moment, so I went to a friend's house and cracked a couple beers. His pup chewed through our cups.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nNo idea really. Scooped some new and old faves in a bag and off I went. I just want to play records and make people happy. I'm not an artist and don't subscribe to that shit. I'm a DJ. The music is bigger than you and love is the only message.\n\n<b>For readers who might not know you so well, tell us a bit about yourself. What were your formative musical experiences, and how did you start DJing? What are your main projects today?</b>\n\nI grew up in Southfield, Michigan and listened to the radio like everybody else. Music grabbed me pretty early and, eventually, my father came home with an old drum kit he picked up at a garage sale. I spent the next 20 years banging on them and hanging out in record stores. \n\nMy current releases are as one half of The Fantasy with BMG from Interdimensional Transmissions and new stuff forthcoming (at least I hope so). Couple tapes also in the works, but I'm not quite sure I can expand on them officially.\n\n<b>You play a lot of out-there records on this mix, and you first came onto our radar through your sets at No Way Back, which are even more unhinged. How did you end up with this style, and how do you find the music you play?</b>\n\nTBH I have no set style when it comes to playing out. I basically improvise every set, feel out the crowd and try not to get beat up in the process. With NWB I get to do whatever I want, but I'm not about to roll up in a club at 1 AM and drop Jon Hassell records. Not in Detroit anyway. \n\n<b>What are you up to next?</b>\n\nMore gigs. Hit me up. Pleeeease ;) \n",
+    "blurb": "A Detroit underdog steps up."
+  }
+}

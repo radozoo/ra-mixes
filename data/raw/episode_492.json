@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "492",
+  "url": "https://ra.co/podcast/492",
+  "id": "492",
+  "__typename": "Podcast",
+  "title": "RA.492 Benjamin Damage",
+  "date": "2015-11-02T00:00:03.000Z",
+  "fileSize": 172423326,
+  "duration": "01:11:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra492-benjamin-damage-cvr.jpg",
+  "contentUrl": "/podcast/492",
+  "tracklist": "Surgeon - Shaper Of The Unknown\nTruncate - Untitled\nRyan James Ford - Rjiyen Orandin\nVin Sol & Matrixxman - Interrog8\nBenjamin Damage - Cosmonaut \nDaniel Avery - Drone Logic (Rødhad Remix)\nPris - Pass\nØ (Phase) - Obscura Mix 1 (Enhanced version)\nArtefakt - From Our Minds To Yours\nAnswer Code Request - Thermal Capacity\nRaiz - Vindicate\nJ. Tijn - Pick Your Battles V1\nFelix Lorusso - Unamed (Flug Remix)\nCosmin TRG - Redus\nKamikaze Space Programme - Parmakit 177\nSebastian Mullaert - Fusion\nVolte-Face - Ixaxaar\nBenjamin Damage - Monolith\nKenny Larkin - Glob (Ben Klock remix)\nFalty DL - Rich Prick Poor Dick (One Two Eight Mix)\nEcologist and the Automatic Message - In the Wake\nRobert Hood - Shaker\nPorn Sword Tobacco & SVN - M. Headroom\nBenjamin Damage - Parallax View\nThe Plant Worker - Lota 002\nHail Blk - Infinate Blk\nGez Varley - Adieu Beats",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra492/",
+  "keywords": "50Weapons, techno, Heliosphere, Obsidian, Matrixxman",
+  "artist": {
+    "id": "29558",
+    "__typename": "Artist",
+    "name": "Benjamin Damage"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "With 50Weapons closing shop this year, it's been a time to reflect on the legacy Modeselektor's label will leave behind. Benjamin Damage is a key part of that conversation. The Welsh-born Berliner has been there since the beginning—as the first artist signed to 50Weapons, his evolution through techno has been fully documented by the label's catalog. After a few records of the heavy stuff (and a killer Doc Daneeka <a href=\"/review-view.aspx?id=10363\">collaboration</a>), Damage began to soften and brighten the burly edges, a sound that fully came together on 2013's <a href=\"/review-view.aspx?id=12242\"><i>Heliosphere</i></a>. This debut album, informed by '90s IDM and ambient, tapped into some of the lushest euphoria techno could offer, but also featured outright bangers like \"010x\" and \"Delirium Tremens.\" Two years later, Damage's <a href=\"/review-view.aspx?id=17600\"><i>Obsidian</i></a> LP continued to explore that space and uncover strange treasures. It was both an excellent release and the ideal final album for 50Weapons. After five years of involvement, Damage seems to encapsulate what the label stood for: heavy beats, flawless production and wide-ranging influences. \n\nWhich is also what you get from his RA podcast. Discordant and claustrophobic, percussive and hypnotic, pristine and blissful, melodic and rapturous—all shades of techno are here. So it's how Damage connects the dots between an atonal drum workout by Vin Sol & Matrixxman and his glistening roller \"Cosmonaut,\" or J. Tijn's rugged \"Pick Your Battles V1\" and the smothering Flug remix of  Felix Lorusso, that's among his best tricks. Though the Welshman's label home will soon be no more, this mix shows just how much ground he still has left to cover. \n\n\n<b>What have you been up to recently?</b>\n\nBeen touring at the weekends and preparing my live set for Boiler Room this month, adding in the new album tracks. There is no recorded structure or automation possible, so new tunes take a bit of practice to get it all sounding right. If it goes wrong I just play the 303 through the Niio distortion and that just sounds amazing whatever you do.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my studio in Marzahn, a late 1970s/early '80s Soviet-built district on the edge of East Berlin.\n\n<b>Could you tell us about the idea behind the mix?</b>\n\nIt's about coming out of my Marzahn cave after finishing the album, going record shopping and finding new tunes. I'd been deep into my own productions for such a long time it was good to have the time to sit back and listen to music.\n\n<b>You recently released the final LP on 50Weapons, a label you've enjoyed a long relationship with. Why has it worked so well between you guys?</b> \n\n50Weapons had a family feel to it, not just a normal record label. They were into my music from the start, and I think we had some kind of understanding about what sounded right. I had the first non-Modeselektor/Moderat release for them, so it felt really good to do the last album.\n\n<b>Do you have a favourite release on the label from down the years?</b> \n\nThere are so many I love, but Anstam's \"Baldwin\" always sticks in my mind as being very fresh when it came out. Cosmin TRG's <i>Fizic / De Dans</i> is a classic, too.\n\n<b>What are you up to next?</b> \n\nI'm playing a lot with my live setup, learning more about the machines and getting new sounds out of them. The <i>Obsidian</i> album finished a lot of the ideas I've been trying to get out for a long time. It feels like the right time to change my setup and experiment with new sounds. I'm hoping to get it all ready for my live show at Berghain in January.",
+    "blurb": "The 50Weapons man soundtracks the label's funeral.  \r\n"
+  }
+}

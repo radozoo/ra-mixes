@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "16",
+  "url": "https://ra.co/podcast/16",
+  "id": "16",
+  "__typename": "Podcast",
+  "title": "RA.015 Patrick Chardronnet",
+  "date": "2006-06-19T00:00:32.000Z",
+  "fileSize": 63950860,
+  "duration": "01:06:35",
+  "imageUrl": "https://static.ra.co/images/podcast/ra015-chardronnet-cover.jpg",
+  "contentUrl": "/podcast/16",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra015/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:738"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Patrick Chardronnet is a young producer from Stuttgart just bursting with talent. Early productions ‘Phonix’ and ‘Just a Little Peek’ were highlights of Steve Bug’s ‘Bugnology’ and label comp ‘Poker Flat Vol. 4’, but it’s his more recent stuff that impresses the most: ‘Eve By Day’ and his remix of Goldfish Und Der Dulz’s ‘Privacy’ seem to be stuck to our turntables. Chardronnet brings a welcome new kind of proggy lushless to techno which appeals to both the sound nerds stroking their chins at the back and the girls dancing on the podiums.\n\nLike another recently German RA podcaster, Chardronnet kicks off his RA mix with Robag Wruhme’s reworking of Adolf Noise’s ‘Baume Strahlen Stress Aus’ (and why not? The track is an opener which slays all other openers). Things soon take on an unfamiliar turn with brand spanking Northern European cuts aplenty in a mix that wraps up with Laurie Anderson’s appropriately otherworldly ‘O Superman’.\n\nRA caught up with Chardronnet for a quick chat...\n\n<b>What have you been working on recently?</b>\nI've been travelling a lot, and I`m working on two remixes. One for Richard Bartz on Kurbel I think, and one for Girresse & Erb on Connaisseur. And the other time I`m working on my live set for a new setup.\n\n<b>Where was the mix recorded?</b>\nIn my studio near Stuttgart.\n\n<b>What are you up to next?</b>\nI want to produce my new Pokerflat 12 inch.\n\nA remix 12\" of Patrick Chardronnet's 'Eve by Day' will be out on Connaisseur June 28th with remixes by Ripperton (from Lazy Fat People) and Fairmont (Jake Fairley). ",
+    "blurb": "In the RA hotchair this week is producer extraordinaire Patrick Chardronnet."
+  }
+}

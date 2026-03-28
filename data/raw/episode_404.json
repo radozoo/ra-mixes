@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "404",
+  "url": "https://ra.co/podcast/404",
+  "id": "404",
+  "__typename": "Podcast",
+  "title": "RA.404 Evian Christ",
+  "date": "2014-02-24T00:00:43.000Z",
+  "fileSize": 113476238,
+  "duration": "00:47:12",
+  "imageUrl": "https://static.ra.co/images/podcast/ra404-evian-christ-cvr.jpg",
+  "contentUrl": "/podcast/404",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra404/",
+  "keywords": "Joshua Leary, Kings and Them, Tri Angle, Kanye West, Duga 3",
+  "artist": {
+    "id": "32853",
+    "__typename": "Artist",
+    "name": "Evian Christ"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Joshua Leary's career so far has played out like a young producer's dream. The English artist was discovered through a series of tracks he uploaded to YouTube, which spread like wildfire over the internet in a single day. Tri Angle quickly snapped him up and released his first record, <i>Kings And Them</i>, and a year later Kanye West tapped him for production work on <i>Yeezus</i>. This led to a publishing deal with West's G.O.O.D. Music, also home to Pusha T and Hudson Mohawke. Leary's next record, the <i>Waterfall</i> EP, is easily one of the most anticipated of the year.\n\nWhere Evian Christ's early material was dark and haunting, his recent work has tapped into a melancholic trance vibe, likely influenced by his father's stint as a trance DJ. He's always had a way with slamming hip-hop percussion, but last year's conceptual <i>Duga-3</i> showed he could do ambient music just as well. That's the mode we find him in for his RA podcast. A carefully-constructed journey through new age, trance and dance hall (with a junglist edit of Actress thrown in for good measure), you'll want to turn the lights off for this one.\n\n<b>How and where was the mix recorded?</b>\n\nIt was made at my girlfriend's flat in snowy New York. I ate a lot of toast and drank a lot of tea during the process.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI'm not really sure. I'd just got back from Jamaica, so I generally threw a bunch of weird ambient/trancey songs at some dancehall stuff I'd been listening to out there... alongside some edits and unreleased bits from various people.\n\n<b>Tell us about the idea behind the Trance Party series?</b>\n\nI'm really picky about the shows I play so the curatorial aspect of it gives me a level of control over who I'm playing with, the venue I'm playing in, poster/stage design etc. I find most promoters do a pretty bad job of almost every aspect of putting on nights on so I figured I'd have a go and see if I could do any better.\n\n<b>Was it ever explained to you how you ended up on Kanye West's radar? </b>\n\nHe listens to a lot of music and so do his in-house production team. Kanye had a vision for a weird electronic record with a rap sensibility, which is kind of what I was doing anyway. So it was a pretty good fit for both of us.\n\n\n<i>Photo credit: Andrew Ellis</i>",
+    "blurb": "Slow-motion trance, dancehall and more from one of the UK's most promising artists."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "796",
+  "url": "https://ra.co/podcast/796",
+  "id": "796",
+  "__typename": "Podcast",
+  "title": "RA.796 Darryn Jones and Tone B. Nimble",
+  "date": "2021-09-05T22:00:22.000Z",
+  "fileSize": 288757664,
+  "duration": "02:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/RA796-Darryn-Jones-Tone-cvr.jpg",
+  "contentUrl": "/podcast/796",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1119305350",
+  "keywords": "Chicago, Curtom Records, Mark Grusane, Sadar Bahar, Al-Tone edit",
+  "artist": {
+    "id": "75260",
+    "__typename": "Artist",
+    "name": "Darryn Jones"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Lifelong Chicago diggers <a href=\"/dj/darrynjones\">Darryn Jones</a> and <a href=\"/dj/tonebnimble\">Tone B. Nimble</a> (Anthony Fields) didn't have a plan when recording their incredible new <i>RA</i> Podcast—they just showed up with a stack of vinyl and hit record. You likely haven't heard the majority of the beautiful, funky grooves they play in. Lots of them are unquantized, with live, wild drumming, yet every mix is wired tight. That's Chicago for you.\n\nThe tradition of funky Black music from Chicago stretches back to the turn of the 20th century, when the Great Migration spurned local traditions of blues, jazz and gospel. Fast-forwarding through history, this vein can be followed through Curtis Mayfield and Curtom Records, and of course to Ron Hardy, Frankie Knuckles and the development of house music. But DJs like Jones and Tone—along with deep-digging Chicagoans like Mark Grusane and Sadar Bahar—participate in a dance music legacy that predates drum machines, tirelessly acquiring deep knowledge that venerates them within an international community of record collectors.\n\nTone B. Nimble is known for his incredible DJing as well as his connoisseur's collection of edits (the Al-Tone edits). As of late, he's been dropping rare gospel disco gems as part of his <i>Soul Is My Salvation</i> series. He's also turned his digging habit into a business, launching Conservatory Vintage And Vinyl on the outskirts of Chicago, a vintage vinyl and furniture emporium he runs with his wife. Jones, like Fields, has been DJing since the '80s, catching sets from Hardy and Frankie Knuckles and Ron Hardy and shopping at the legendary shop Importes, Etc. Last year, he released a record of massive edits—the <a href=\"/reviews/25158\"><i>Willing & Able</i></a> EP—that immediately fetched three figures on Discogs and became an international sensation, even as a relatively low-key, self-distributed affair.\n\nLock in for a standout mix fron two of  Chicago's deepest diggers, no tracklist, just vibes.\n\n<b>What have you been up to recently?</b>\n\nDarryn Jones: Lately I've been helping with trying to reestablish the underground scene in Chicago with events.\n\nTone B. Nimble: My most recent project is the <i>Soul Is My Salvation</i> 45\nseries, which feature eight 45s of dance-oriented gospel, so I've been busy with this so far.\n\n<b>How and where was the mix recorded?</b>\n\nDJ & TBN: This was recorded with all wax at Tony own place in Chicago—The Conservatory Vintage And Vinyl shop specializes in second-hand records and vintage furniture.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nDJ: There isn't any idea or concept behind this mix, we just pressed record and played.\n\nTBN: The mix features a little of everything including some of my favorite tunes, recent discoveries, underground classics, as well as a few grails. As far as mix construction, I choose which records I'd like to include and somewhat of a sequence\nand hit record.\n\n<b>You're both legendary diggers. we don't expect to give up your dig spots, but what do you do when you enter a store? How do you go about finding heat?</b>\n\nTBN: The store environment normally dictates the method I choose to search for records. Some stores will require a thorough bin dig, while others will require access to what's not on the floor.\n\nDJ: When I walk in the shops generally look at the walls first. Some shops tend to have featured records on display. I find records that feel good to me in most cases.\n\n<b>Between you two, Rahaan, Boogie Nite, Zernell, Cratebug and many, many more, Chicago takes edits very seriously. What makes a good edit, where does the tradition come from and why does Chicago do it better than the rest?</b>\n\nTBN: I personally like edits that are seamless, so determining where the song was edited is difficult. However, I believe the foundation of Chicago edits comes from songs that have dope sections that are too short. Basically, let's take this 20-second section and run it for four minutes, or this two-minute section and run it for seven or eight minutes. (i.e. Billy Paul \"Only The Strong Survive.\")\n\nDJ: Being from Chicago... doing edits... it's just something that is in us. It's almost like the way we play! Maybe it's something in the water, lol.\n\n<b>What are you up next?</b>\n\nDJ: Truthfully. Who really knows what's next based on today's climate?\n\nTBN: DJ gigs are limited due to the pandemic, so I primarily focus on the Conservatory Shop on the outskirts of Chicago.",
+    "blurb": "Two hours of rare, irresistible grooves from the Chicago dig and edit specialists.\r\n"
+  }
+}

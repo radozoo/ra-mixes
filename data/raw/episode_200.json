@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "200",
+  "url": "https://ra.co/podcast/200",
+  "id": "200",
+  "__typename": "Podcast",
+  "title": "RA.200 Carl Craig",
+  "date": "2010-03-29T00:00:25.000Z",
+  "fileSize": 75306687,
+  "duration": "01:02:43",
+  "imageUrl": "https://static.ra.co/images/podcast/ra200-carl-craig-cover.jpg",
+  "contentUrl": "/podcast/200",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra200/",
+  "keywords": "Carl Craig, RA200, House, D25, techno, detroit",
+  "artist": {
+    "id": "379",
+    "__typename": "Artist",
+    "name": "Carl Craig"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Dance music is prone to hyperbole, but you'd be hard-pressed to come up with anything but words like \"legend,\" \"titan\" and \"giant\" when describing Carl Craig's impact on the electronic scene. Producer, remixer, label boss, DJ, the list goes on and on. \n\n<a href=\"http://www.residentadvisor.net/dj/carlcraig/biography\">His bio</a> on RA at the time of this writing ends at 2001, and it's more than 2,000 words. Since then, he's been nominated for a Grammy, performed his music with a symphony orchestra and traveled the world evangelizing for forward-thinking house and techno from Detroit and beyond. (And that doesn't even begin to scratch the surface.) His relentless passion for electronic music of all stripes is unquestioned, but for RA's 200th podcast the Detroit jock goes straight to the floor and stays there for more than an hour. This is Carl Craig at his clubbiest, long may his legend continue to reign.\n\n<b>What have you been up to recently?</b>\n\nI've been on tour…for the last 15 years.  [<i>laughs</i>]\n\n<b>It doesn't look to be ending anytime soon?</b>\n\nThe day I die. \n\n<b>You were recently in London for the <a href=\"/event.aspx?139169\">Red Bull Music Academy</a> event at the Southbank Centre. How do you feel that went?</b>\n\nIt went great. It's special every time that I get to do these performances with my friends. I've known Moritz [Von Oswald] and Francesco [Tristano] for a very long time, and we've done some really some great things separately, so it's nice to take that energy and put it together into something else. \n\n<b>You've worked quite a bit on these more ambitious events in the recent past. Considering how much focus you've put into them, does DJing in a club give you the same thrill as it once did?</b>\n\nOf course. DJing in a club is a more immediate thrill. When you're doing something and you're preparing for it with set lists and rehearsals, the thrill is in the idea that it's going to be amazing. But when you're DJing, it's something different every night. You can change your set to reflect your mood, you can play out something you've just finished in the studio to get a reaction. \n\n<b>You've just helped launch the D25 tour at <a href=\"/event.aspx?146892\">WMC</a> and will be taking it to <a href=\"/event.aspx?147327\">Spanish festivals</a>, and clubs like <a href=\"/club-detail.aspx?id=3067\">Weekend</a> in Berlin and London's <a href=\"/club-detail.aspx?id=237\">fabric</a> in late April and early May. But you've always been someone who resolutely looks forward. Why does this particular project feel so important to you?</b>\n\nThese are the roots of my being. In 1985, when I heard \"No UFOs,\" I first heard it from my cousin Doug [Craig] and also The Electrifying Mojo on the radio. Doug was making a record with Juan [Atkins] at the time called \"Technicolor,\" and all of this led to me searching out Derrick May and making music. It's important because it goes all the way down the line from Juan to Derrick and Kevin, and so on. These are my roots.\n\n<b>And the mix?</b>\n \nI wanted to play a lot of new stuff, mixed with a few old things that I don't play very often that I feel like are worth being rediscovered.\n\n<b>What do you have coming up? 15 more years of touring I suppose?</b>\n\n[<i>laughs</i>] I hope! But hopefully the next 15 years will be more inclusive of things like the Craig/Oswald/Tristano trio and other amazing projects that will come about over the next few years. I did something a number of years ago with Leon Ware, and I haven't heard from him in about eight years. He sent me an e-mail yesterday, saying that he wants to do some new collaborations. It's always wonderful to hear from someone like that. So, who knows?\n\n<span class=\"grey\"><i>Photo credit: <a href=\"http://www.rivasayegh.com\">Riva Sayegh</a></i></span>",
+    "blurb": "The Detroit techno legend takes to the decks for RA's 200th podcast."
+  }
+}

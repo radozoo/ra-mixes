@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "654",
+  "url": "https://ra.co/podcast/654",
+  "id": "654",
+  "__typename": "Podcast",
+  "title": "RA.654 Lux",
+  "date": "2018-12-10T00:00:03.000Z",
+  "fileSize": 172519951,
+  "duration": "01:11:46",
+  "imageUrl": "https://static.ra.co/images/podcast/ra654-lux-cvr.jpg",
+  "contentUrl": "/podcast/654",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/542424474",
+  "keywords": "Conne, Leipzig, IFZ, YOUNG SHIELDS, Nachdigital, Giegling",
+  "artist": {
+    "id": "47956",
+    "__typename": "Artist",
+    "name": "Lux."
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Though she recently moved to Berlin, Lux learned to DJ in a place very different to the German capital: Leipzig, a city whose scene consists of a tight community of clubs, artists and promoters, relatively undiluted by techno tourism or runaway gentrification. She connected with electronic music less through clubs and festivals than at open-airs and illegal parties, once a common feature of the city's scene. She learned to mix at Conne Island, where she became a regular DJ. \n\nOf all the DJs who honed their craft in Leipzig, it's hard to name one with a sound quite as striking as Lux. On the one hand, she's a product of her environment, her sets clearly inspired less by crowded nightclubs than the intimate raves that define Leipzig's scene. And yet, her style as a DJ is entirely her own, built on syncopated drum patterns and vividly cosmic atmospheres, with a delivery that reflects a perfectionist at work in both selection and technique. Lush, groovy and transportive, RA.654 is a mesmerising introduction to this underrated DJ. \n\n<b>What have you been up to recently?</b>\n\nPlaying, writing my master thesis and I finally moved to Berlin last year.\n\n<b>When and where was the mix recorded?</b>\n\nI recorded the mix at my place, beginning of September, over several nights.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to record a mix that I feel most represented with right now. It includes many tracks that have been accompanying me the past year. As I'm playing a rather wide range of genres of club music and as I have been changing my \"voice\" quite much in the past years, I wanted to create a mix where I think it's the closest me I could define at the moment, at least concerning club music. \n\n<b>For readers that don't already know you, tell us a bit about yourself. What's the Lux journey been like so far?</b>\n\nMaybe it is a little journey, indeed. I started DJing around seven years ago and was very lucky to play at Conne Island quite regularly back then—lucky because the time where I started discovering my passion for electronic club music, their club nights were very influential for me. It was also a special thing for me to get the possibility to start playing there.\n\nDuring this time I was playing only digital. After two or three years I switched to vinyl and it was like starting from the beginning again of course. And also for this shift Conne Island was a pretty important place for me, as they've been offering a studio with proper DJ equipment for free. I locked myself there months long and practiced beat-matching like crazy.\n\nMeanwhile some friends of mine had founded the IO collective and I was playing at their parties quite regularly, too. Their approach was actually to organise underground parties in off-venues. Back then it was still easier to do that in Leipzig. However the city's reaction to those illegal happenings got more and more repressive over some years—I think it was a big change for the whole scene, when people started to realise that they're actually losing this great liberty... experiencing totally uncommercial parties in abandoned buildings or outside open-air influenced my relation to the club culture in a crucial way.\n\nAround 2013 I got to know the Giegling people, with whom I was playing together for some years from then on. That was a very enriching experience for me too, of course. Last summer I however decided to go my own way again and I also feel like it's the only way for me to discover where I really want to go musically.\n\n<b>You play a lot of mysterious records, and they all feel very \"you.\" How do you find music, and how do you decide what goes in your sets?</b>\n\nOh... that's nice to hear. I wouldn't be the same person (and DJ) if there wasn't this sheer endless universe of music being reachable in the internet. I'm spending a lot of time to check out blogs and the wide range of international online record stores. \n\n<b>What are you up to next?</b>\n\nIn the near future I really want to focus more on producing my own music. Before I started DJing I was playing different instruments and I really miss making music by myself. And I'll be playing some really nice gigs in the next months, for example at Closer in Kiev (it will be my first time in Ukraine, I'm excited) and in Leipzig at IFZ (organised by YOUNG SHIELDS—a cracking good collective.) In February I'll be playing with the Nachtdigital festival in Utrecht at WAS. \n",
+    "blurb": "Sleek, spacey, syncopated sounds. "
+  }
+}

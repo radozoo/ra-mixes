@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "75",
+  "url": "https://ra.co/podcast/75",
+  "id": "75",
+  "__typename": "Podcast",
+  "title": "RA.075 Sven Weisemann",
+  "date": "2007-10-22T10:34:54.000Z",
+  "fileSize": 106716804,
+  "duration": "01:28:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra075-sven-weisemann-cover.jpg",
+  "contentUrl": "/podcast/75",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra075/",
+  "keywords": "",
+  "artist": {
+    "id": "1803",
+    "__typename": "Artist",
+    "name": "Sven Weisemann"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Sven Weisemann is only twenty-three years old, but already he's carved out a niche which is unmistakably his own. As a producer, his music draws deeply on the legacy of Chicago and Detroit, yet somehow manages to end up sounding as fresh as a daisy - records such as 'Vibe' and 'Slices' are house music that is half atmosphere and half beats, and not afraid to take its sweet time to lull the floor with their charms. A self-taught musician who plays piano, acoustic guitar and percussion, Weisemann also composes jazz and soundtracks - traditions which also inform his house records no doubt, many of which you can find on new German labels such as Liebe*Detail, Styrax Leaves and especially Mojuba, where Weisemann's music slots together with friends Nick Solé and Oracy to form a distinct, and highly collectible, label sound.\n\nDespite his young age, Weisemann has been DJing since 1997, although he's been only stepping up in higher profile clubs fairly recently (damn pesky age limits!) Recently he made his UK debut, as well as played Mojuba label nights in the Berghain in Berlin and elsewhere in Germany. Like his own records, Weisemann's tastes as a DJ look towards Chicago and Detroit, although one listen to his RA Podcast and you'll see he's not quite the well-behaved student you might expect. Full of clever mixes, tricks and above all a sense of fun, RA.075 is a fresh take on classic deepness that proves there's a new generation out there keeping the flame alive. \n\nRA.075 was recorded at Sven Weisemann's debut UK appearance at <a href=\"event-detail.aspx?id=29887\">To The Bone</a> in London.",
+    "blurb": "Berlin deep house newcomer Sven Weisemann takes on the RA podcast."
+  }
+}

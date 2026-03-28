@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "333",
+  "url": "https://ra.co/podcast/333",
+  "id": "333",
+  "__typename": "Podcast",
+  "title": "RA.333 Pangaea",
+  "date": "2012-10-15T00:01:17.000Z",
+  "fileSize": 130619431,
+  "duration": "01:48:35",
+  "imageUrl": "https://static.ra.co/images/podcast/ra333-pangaea-cvr.jpg",
+  "contentUrl": "/podcast/333",
+  "tracklist": "Crash Course In Science - Flying Turns (J Rocc Edit)\nInigo Kennedy - Disquiet\nPeverelist & Kowton - Raw Code\nSkudge - Convolution (Aardvarck Remix)\nShlomi Aber - Greys\nShed - VIOMF!\nWishmountain - Andrex\nJoe - R.E.J Bit\nPfirter - Epistaxis\nSTL - Jungle Sometimes\nBoddika - Beats Me\nBlawan - Clays Strider\nDJ Empty - Meaningless 5\nMr G - Mango Came Round\nPangaea - Trouble\nRhythm Section - Emotion\nKarizma - Again\nTruncate - Dial\nBandshell - Perc\nBobby Champs - Bureau (Tool)\nPeter Van Hosen - Inspection In Solitude\nBen Sims - Slow Motion (Skudge Remix)\nPearson Sound - Quivver\nMathew Jonson - Panna Cotta\nPlanetary Assault Systems - Wriss\nMarquis Hawkes - Sealion Woman\nTommy Four Seven - Track 5 (Robert Hood Remix)\nAndy Stott - Dark Details\nObjekt - Shuttered \nKlaus - Phi\nBjork - One Day (Springs Eternal Mix)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra333/",
+  "keywords": "Pangaea, Kevin McAuley, Hessle Audio, Bass, Release",
+  "artist": {
+    "id": "7370",
+    "__typename": "Artist",
+    "name": "Pangaea"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Pangaea is the sole alias of UK producer and DJ Kevin McAuley. Since 2007 McAuley has represented one third of Hessle Audio, the imprint he began along with friends Ben \"UFO\" Thomson and David \"Pearson Sound\" Kennedy while the trio were studying at the University of Leeds. As we're sure you're aware, Hessle Audio has since come to be known as one of UK club music's most consistently brilliant independent labels, while McAuley's rise as a producer has dovetailed that of the label. Again much like the label itself, McAuley has only offered his music slowly and steadily, maintaining an impeccably high standard that's ranged from contemporary garage (<i>You & I / Router</i>) to bassline tearouts (<i>Hex / Fatalist</i>). His latest transmission is <a href=\"news.aspx?id=17525\"><i>Release</i></a>, his most expansive body of work to date. Its eight tracks find McAuley dipping into his established pool of influences—garage swing, experimental flourishes, drum & bass functionality—while pushing deeper into the techno territory that's proving so fertile for UK artists right now. \n\nAs for his DJ mixes, McAuley adopts the same approach as he does with his recorded music: there aren't many of them out there, but when one does drop it's always worth savouring. \n\n<b>What have you been up to recently?</b>\n\nDJing in the UK and Europe, working on music to follow up <i>Release</i>, and trying to establish a sleep pattern.\n\n<b>How and where was the mix recorded?</b>\n\nAt home with Serato, a pair of CDJ 800s and a Xone 42 mixer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted it to be a set that gives a good, broad account of the vibe I'm on and also something I'd dance to in this imaginary location. It's remote, outdoors in the countryside somewhere and the weather is nice...there's a great soundsystem, space to move, girls as well as guys, and everyone's on the same positive and friendly vibe (out to the Freerotation crew!). The music goes in different directions but I've tried to make it cohesive still and come down gently, something I'd want to happen if I'd been up all night and the music had to stop…\n\n<b>The press release for <i>Release</i> talks about Hessle not following \"many contemporaries into straightforward house and techno territory.\" Do you feel like the scene in the UK has creatively slowed down these past couple of years?</b>  \n\nYeah, I'm not sure how I feel about that statement looking at it now because I play house and techno records, as do Ben [UFO] and David [Pearson Sound]. Techno in particular feels to me like the most open, creative, exciting yet functional space to work in. I suppose what we put out on Hessle is stuff we feel is rooted in (UK) soundsystem music and has an experimental edge to it—that's our background and we want to continue this way of doing things if at all possible.  \n\nSo I'm not sure that the UK has slowed down creatively, there's loads of great music being made across the board. There just seems to be more factions now. All those dubstep splinter groups seem to have settled down into their respective spaces and a seismic shift or development in dance music isn't going to happen very often. It's absurd to expect some new groundbreaking (sub)genre to be created every six months. \n\n<b>What are you up to next?</b> \n\nThis week I'm playing the <a href=\"http://www.residentadvisor.net/event.aspx?392919\">Colors ADE special</a> at Trouw in Amsterdam on Thursday, and an RBMA night at Rescue Rooms in Nottingham on Friday. Aside from playing more gigs I'm working on developing my sound and place a bit more, which I think I'm slowly doing. I'm happy with <i>Release</i> but it is quite standalone and cut off, which is fine from a musical point of view, but ultimately I want to be making more music to DJ with which finds that sweet spot between functionality and creativity.",
+    "blurb": "In the mix with one third of Hessle Audio. "
+  }
+}

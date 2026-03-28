@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "41",
+  "url": "https://ra.co/podcast/41",
+  "id": "41",
+  "__typename": "Podcast",
+  "title": "RA.041 Exercise One",
+  "date": "2007-01-15T10:00:05.000Z",
+  "fileSize": 90970439,
+  "duration": "01:15:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra041-exerciseone-cover.jpg",
+  "contentUrl": "/podcast/41",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra041/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:885"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "With appearances at 2006 summer festivals such as Melt!, Fusion and Bittersweet as  well as an acclaimed set at Mobilee's pre-Sónar showcase last year, Exercise One are building themselves a big reputation as a live act to watch. Exercise One are a bit different from most live laptoppers – they do things the other way around, jamming tracks for hours on end and then editing the results into tight, focused releases.\n\nExercise One are in fact two: Marco Freivogel and Ingo Gansera. The pair run Lan Muzic, releasing the likes of Donato Dozzy, Arne Michel and Jacopo Carreras as well as their own releases, though recently they’ve begun to focus a little more on remixes, rejigging Sebo K for Mobilee (listen out for the huge live version on the podcast) and Sweet N Candy for Dumb-Unit (likewise).\n\nExercise One’s RA podcast was recorded live at Club Nitsa in Barcelona in mid-December 2006 – and if you don’t like the music, you can practice your Spanish yells by listening to the quiet bits. Big thanks to <a href=\"http://www.myspace.com/boogieboy69\">Boogie Man Jeff</a> for setting up the recording.\n\nFinally, if you’re hungry for a little more Exercise One and you happen to be in Berlin, grab an Exercise One sandwich at Post26, the small coffee & sandwich shop the duo run together with friends Luciano, Memo and Jacopo Carreras near their studios and Hardwax Records in Kreuzberg. Yum on all counts.\n",
+    "blurb": "This week’s RA podcast is seventy-five minute live set of minimal, hypnotic bass and forward motion from upcoming Berlin duo Exercise One.\r\n"
+  }
+}

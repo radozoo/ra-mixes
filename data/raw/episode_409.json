@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "409",
+  "url": "https://ra.co/podcast/409",
+  "id": "409",
+  "__typename": "Podcast",
+  "title": "RA.409 Legowelt",
+  "date": "2014-03-31T00:00:36.000Z",
+  "fileSize": 226042845,
+  "duration": "01:34:01",
+  "imageUrl": "https://static.ra.co/images/podcast/ra409-legowelt-cvr.jpg",
+  "contentUrl": "/podcast/409",
+  "tracklist": "Radioshack MG1 Moog improvisation\nMokra - Manipulation Musik\n1991 - High Tension Low Life\nFarah - Pieced Apart\nLegowelt - Ancient Rites Demoni Mundi\nHuerco S - Skug Commune\nThis Is Not America Disco Mix\nHalu Mergia - Ambasel\nLiz Tores - In The City\nCliff Lothar - To The Sea\nBeat Detectives - Second Haitan Divorce\nLaszlo Dancehall - Fatty Que\nK-Alexi - Groove U\nOsunlade - Dionne\nLegowelt - Puzzles of Life\nAux 88 Techno Mix of Sharivari\nFanon Flowers - Winter in Kalamazoo\nAndy Vaz - Over Here\nStakker Humanoid - Positive Electron\nDelroy Edwards - Love Goes On & On\nFrench Fries - Machine\nFlorian Kupfer - Reach Another System\nPal Joey - I Sing\nDrexciya - Living On The Edge\nKassem Mosse - Workshop untitled\nThe Abstract Eye - Grandfather Fire\nRadioshack MG1 Moog improvisation\nXosar - Cybertronika",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra409/",
+  "keywords": "Danny Wolfer, Crystal Cult 2080, Paranormal Soul, electronic, Shadow Wolf Cyberpunk, house, techno",
+  "artist": {
+    "id": "2063",
+    "__typename": "Artist",
+    "name": "Legowelt"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<i>Crystal Cult 2080</i>, which came out on Creme Organization today, is Danny Wolfer's latest album as Legowelt and a great summary of his work over the past 15 years or so. It has the focus on synthesis (the album title points to the Roland JV2080 synthesizer Wolfers used prominently on the record) and the timeless house sound that have long been Wolfers' hallmarks. The record is a touch darker than <i>The Paranormal Soul</i>, the last Legowelt album, but is blanketed in the same trippy atmospheres. \"There really wasn't a concept,\" he <a href=\"/news.aspx?id=21507\">told us</a>. \"I am just recording tracks all the time.\" This straightforward approach has yielded a staggering amount of music. The <i>Crystal Cult 2080</i> is Wolfers's ninth album as Legowelt, and he's adopted around 20 other aliases to explore different sounds of styles of production. \n\nWolfers has a reputation as a top-tier studio freak, who most often plays live when he performs in clubs, but less is said about his DJing. \"I don't really consider myself a DJ,\" he says below, but RA.409 proves he's got the knack. House music forms the backbone of his selections (check the excellent \"Ancient Rites Demoni Mundi\" from the new album) but there are frequent diversions into different moods and textures.  \n\n<b>What have you been up to recently?</b>\n\nI did a tour in America with Xosar, played in Mexico and Dominican Republic, too. Playing around with synths, working on my <a href=\"http://www.shadowwolf.net/\">Shadow Wolf Cyberpunk</a> e-zine, mesmerizing evil schemes. \n\n<b>How and where was the mix recorded?</b>\n\nIn my house on a computer, record player, cassette deck, INKEL mixing desk, Boss drum machine and a <a href=\"http://en.wikipedia.org/wiki/Moog_Concertmate_MG-1\">Concertmate MG 1 Moog</a> synthesizer for effects and some additional melodies. It came in the mail when I was recording the mix and I wanted to check it out so I just incorporated it in there. It's an old synth that was designed by Moog to be sold in the Radioshack stores for consumers and low-key hobbyists. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nJust a bunch of tracks that I like played in an orderly fashion, going up and down in intensity—with some added FX, samples and synths—providing, I hope, some pleasure, solace and inspiration for the listener in their daily business and life.\n\n<b>Are you a DJ who keeps up with most of what's coming out each week?</b>\n\nI don't really consider myself a DJ. I do DJ gigs and enjoy it very much because then I don't have to listen to my own music so it's fun for me. I try to keep up with what's going on browsing through record stores etc. that is something quite essential, I guess, in my field of work.\n\n<b>What are you up to next?</b>\n\nI am doing an <a href=\"/news.aspx?id=23991\">Australia tour</a> this weekend. ",
+    "blurb": "The sound of a shadow wolf cyberpunk. "
+  }
+}

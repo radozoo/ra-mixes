@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "755",
+  "url": "https://ra.co/podcast/755",
+  "id": "755",
+  "__typename": "Podcast",
+  "title": "RA.755 Z@P",
+  "date": "2020-11-23T00:00:23.000Z",
+  "fileSize": 180426106,
+  "duration": "01:15:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra755-zap-cvr.jpg",
+  "contentUrl": "/podcast/755",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/934490488",
+  "keywords": "Vera, Evan Baggs, Uruguay, Melliflow, Cabaret, Cartulis,",
+  "artist": {
+    "id": "36117",
+    "__typename": "Artist",
+    "name": "Z@p"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In his 2017 feature on <a href=\"/features/2963\" target=\"_blank\">house and minimal in Montevideo</a>, Matt Unicomb described Z@P at Phonoteque, one of that city's key clubs, playing the 1998 tech house groover \"Ni Cd Deluxe\" by Silverlining. That song—sleek and warm, with swung drums and rich streaks of melody—embodies Z@P's style behind the decks as well as any single track could. \"Some people looked like they were about to cry,\" Unicomb wrote. He noted that Z@P was likely to be the next Uruguayan DJ to break through internationally.  \n\nHe was right. In the years since that article, Z@P moved to Berlin and had drummed up a busy gig schedule by the time coronavirus hit. Meanwhile, he put out records on Melliflow, Cabaret, Art Of Dark, My Own Jupiter, Traffic and Cartulis, each of them further perfecting his particular style of house: punchy, colorful and rhythmically dynamic, but always delivered with a kind of subtlety and restraint. It's a style that defines his DJing as well. Though he chose not to share the tracklist, RA.755 has all the subtle shifts, melodic peaks and clever drums you'd expect. It's a smooth ride with a few pleasant, and welcome, bumps.\n\n\n<b>What have you been up to recently?</b>\n\nI've been working a lot in the studio, trying to take advantage of the positive side to this surreal 2020. I think that's what has kept me sane in the last seven months or so. Also searching for music of course, although it is not possible to play it in clubs, it is something I just cannot stop doing.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in my studio in Berlin, on a random night, using two old Technics MK2 and an Allen & Heath Xone:92 mixer.\n\n<b>Can you tell us the idea behind the mix?</b>\n\nEvery time I record a podcast I try to go in a different direction than the previous ones, so for this one I knew I wanted to record something a little more \"club-oriented.\" Does it have something to do with the fact that so many months have gone without playing? Probably... :)\n\nI recorded another version before this one but it had too much thinking behind so at the end I didn't like it. I wanted to do something more direct and real, so I discarded that one. After a few days I came back to the studio, I chose 30 records or something like that, no specific order, hit record on the computer, and this is what came up. It's a one-take session.\n\n<b>Your music tends to be a lot more melodic than many of your peers who play similarly minimal stuff. Where do you think that tendency comes from?</b>\n\nWell, to be honest, I don't see the music I make or play as minimal. It can have elements of minimalism, resources, ideas, as well as many elements of acid and electro for example. I wouldn't classify it as minimalism. I think it is a blend of many styles. Regarding the melodic content, yes, I am very interested in what certain chords or melodies can generate, how they can affect your mood instantly, it can even be something very simple (usually that's the way it is in my music), but when it is done with the correct sound texture it just takes you somewhere else. For example, I find the mixture of melancholy and acid fascinating, it is a resource that I often use.\n\n<b>What are you up to next?</b>\n\nI'm flying to Uruguay soon. I'll be there for the next 2 or 3 months visiting family, friends, enjoying the summer, and making music—then back to Berlin. :))\n\nRegarding releases, I have a few EPs already done and coming out in the next few months.\n\nThanks for having me here!\n",
+    "blurb": "Swinging, hummable house music. \r\n"
+  }
+}

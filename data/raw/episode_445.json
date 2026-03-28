@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "445",
+  "url": "https://ra.co/podcast/445",
+  "id": "445",
+  "__typename": "Podcast",
+  "title": "RA.445 Phil Moffa",
+  "date": "2014-12-08T00:00:25.000Z",
+  "fileSize": 147297093,
+  "duration": "01:01:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra445-phil-moffa-cvr.jpg",
+  "contentUrl": "/podcast/445",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra445/",
+  "keywords": "Premonition, Plan B Recordings, Butcha Sound studio, Atlantic Avenue, house, techno",
+  "artist": {
+    "id": "38719",
+    "__typename": "Artist",
+    "name": "Phil Moffa"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Let's play a game. Put on a decent pair of headphones and listen to \"<a href=\"http://planbrecordings.bandcamp.com/track/b1-premonition\">Premonition</a>,\" a techno track from New York artist Phil Moffa's recent <a href=\"/review-view.aspx?id=15988\">EP</a> for Plan B Recordings. Notice how each element feels like it's breathing freely in its own space? Now observe how the kick and the bassline sound perfectly in concert, as though they're one and the same thing. You might also feel like the track is hitting hard without shouting to be heard. Essentially what you're hearing is years of experience. For the past 15 years, Moffa has been slowly earning his stripes, buried away in studios, absorbing New York's dance floors, playing in hardware-based improv groups and, on one occasion, producing a dub and reggae artist. In 2010 he opened Butcha Sound studio on the site of a famous Manhattan recording space, and took on engineering work for club producers while working on his own music. (He's also an occasional music-tech writer for RA.) Through his friend Levon Vincent, Moffa met Anthony Parasole, and the pair ended up collaborating on <a href=\"/review-view.aspx?id=11931\"><i>Atlantic Avenue</i></a>, the second release on Parasole's label, The Corner. Moffa went on to collaborate with <a href=\"/review-view.aspx?id=12347\">DJ Spider</a>, <a href=\"/review-view.aspx?id=12727\">Paul Raffaele</a> and, most recently, Seth Troxler, and he's put out a couple of solo EPs as well. \n\nMoffa usually likes to keep his tracks simple (they hit harder this way) so he can focus on teasing out the warped synth lines and droning atmospherics he's so fond of. This what we get on RA.445, an hour-long live techno jam that feels like the arrival of a major new name.  \n\n\n<b>How and where was the set recorded?</b>\n\nThe mix was recorded at Butcha Sound. The setup was all hardware samplers, synth modules, and pedals that are routed to a mixing board, where the arrangements and effects are performed. In the background, in addition to some other samples, I kept a running synth jam that I made one morning at the Rough Trade shop when Moog set up a room of their gear for people to test out. It was a wall of Voyagers, pedals and CV.\n\n<b>Can you tell us about the idea behind the set?</b>\n\nI usually record my live-set rehearsals as a reference. This set was made in preparation for a performance at Output in Brooklyn. Some of these songs are re-workings of releases, others are bits that haven't been turned into full productions and only currently exist in the live set.\n\n<b>Tell us about Butcha Sound.</b> \n\nButcha Sound has been in the basement of a legendary music building in Manhattan for just over four years. In the '80s, it was the control room to a facility that recorded classic albums, such as Chaka Khan's <i>I Feel For You</i>. I monitor on the Urei 813s that have been in the wall since that time. People immediately react to the vibe of the room upon entering, and the museum of gear definitely gets electronic music heads excited and inspired.\n\n<b>How did you end up linking with Seth for a release?</b> \n\nI have been an engineer for The Martinez Brothers on many of their projects since the studio opened. They brought Seth here to work on the first Tuskegee release, <i>Space And Time</i>. He loved working here, and booked a bunch of time to record new material and do some remixes. Near the end of our scheduled sessions, he suggested that we collaborate on a few tunes. We finished several tracks and are working on more.\n\n<b>What are you up to next?</b> \n\nI'm focusing on the live set this month for an upcoming show at Berghain on December 27th. To be released in December are a Parasole & Moffa remix of \"Hypnoticus\" by Sterac on Delsin Records; <i>Between Worlds</i> by Destination Void (Brendon Moeller, DJ Spider, and myself) on Cuttin' Headz; and my first solo release on The Corner, <i>Attempt No Landing</i>. The collab with Seth, <i>Rogue Music</i>, is out on Hypercolour late January.",
+    "blurb": "Live techno from a New York sound scientist. \r\n"
+  }
+}

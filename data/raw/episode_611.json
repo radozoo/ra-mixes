@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "611",
+  "url": "https://ra.co/podcast/611",
+  "id": "611",
+  "__typename": "Podcast",
+  "title": "RA.611 DJ Spinna",
+  "date": "2018-02-12T00:00:13.000Z",
+  "fileSize": 143346480,
+  "duration": "00:59:37",
+  "imageUrl": "https://static.ra.co/images/podcast/ra611-dj-spinna-cvr.jpg",
+  "contentUrl": "/podcast/611",
+  "tracklist": "First Choice - Love and Happiness \nPam Todd & Love Exchange - Let's Get Together \nBumble Bee Unlimited - Love Bug\nDiana Ross - Love Hangover (Disconet Version)\nMachine - Is It Love \nSlave - Feel My Love \nTrussel - Love Injection \nRose Royce - Is It Love You're After\nFat Larry's Band - Lookin' For Love \nOriginals - Down To Love Town \nCerrone - Give Me Love ",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/398201628",
+  "keywords": "Disco, Vincent Williams, Jigmastas, Sound Spectrum, First Choice, Groove Line Records, Souldynamic",
+  "artist": {
+    "id": "3138",
+    "__typename": "Artist",
+    "name": "DJ Spinna"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Late last year, Vincent Williams, who's best known as DJ Spinna, began a new <a href=\"https://www.mixcloud.com/DjSpinna718/\">podcast series</a> that digs into the archives of his enormous record collection. He's recorded five episodes so far, and the latest two are tributes to his late father, who introduced him to some of the soul, funk and disco that would later shape him as an artist. It's hardly notable to start a podcast in 2018, but consider that Williams has been consistently making moves in music since 1994, amounting to an unfathomable number of achievements across an almost 25-year career. \n\nYou get a decent sense of Williams as an artist by looking at his <a href=\"/dj/djspinna/dates?yr=2017\">gigs</a> last year: he began 2017 in Tokyo by playing a Michael Jackson and Prince tribute night, and ended it in Switzerland with Wonder Full, his ongoing Stevie Wonder-themed event, at which the man himself <a href=\"https://www.youtube.com/watch?v=vAHOlN-ea8E\">sang live onstage</a> back in 2013. Williams has remixed megastars like Michael Jackson, George Michael and Mary J. Blige and is deeply embedded within dance music, bringing a classic touch to the contemporary scene, but it was through hip-hop, back in his native Brooklyn, that he made his name. Alongside MC Kryminul, he was one half of Jigmastas, who recorded a string of 12-inches for Beyond Real Recordings (including this <a href=\"https://www.youtube.com/watch?v=5EECfX5C_iY\">banger</a>). He also made beats with artists like Mos Def, Talib Kweli and Pharoahe Monch. Williams' roots in hip-hop are obvious when he DJs, cutting, scratching and mixing his way through his record crate, but on his RA podcast he strips things back and focusses on the simple power of songs, and more specifically, disco love songs. This might be the only Valentine's Day mix you'll ever need.\n \n \n<b>What have you been up to recently?</b>\n \nSince the start of 2018 I've been focusing heavily on my new weekly podcast, <a href=\"https://www.mixcloud.com/DjSpinna718/\">DJ Spinna's Sound Spectrum</a>, I've been feeling the need more than ever to share my record collection with the world. I've been buying records profusely for years and many of them I never get to play out or put to good use. This is a great way for me to get familiar with my own collection. Besides that, I'm working on a bunch of remixes, and a few albums.\n \n<b>How and where was the mix recorded?</b>\n \nI recorded this mix on my kitchen table with my laptop using Ableton. Quick and easy.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI was approached by my buddy Scotty Coats at Innovative Leisure to produce a mix of my favourite \"love\" themed disco tracks in support of the new De Lux album, <i>More Disco Songs About Love</i>. We linked up with RA to feature the mix in order to celebrate Valentine's Day. \n \n<b>We noticed that you recently published <a href=\"https://www.mixcloud.com/DjSpinna718/dj-spinna-sound-spectrum-episode-4-birthday-show-and-tribute-to-pops/\">tribute mixes</a> to your father. What sort of influence did he have on your music tastes?</b>\n \nMy late father, Vincent Williams Sr., planted musical seeds in my life quite early. I gravitated towards his records and started playing them as early as three years old. Fortunately, I learned so much about records that are considered classics today from records that were in my home. He wasn't a musician or anything, just a serious music lover and average vinyl collector.\n \n<b>How are celebrating this Valentine's Day?</b>\n \nThis Valentine's Day I'll be spinning side-by-side with François K for his monthly <a href=\"/events/1060384\">Deep Space</a> party at Output. It's an honour for me, I consider him a mentor and he's such a legend. We've done this a few times already, both parties were magical.\n \n<b>What are you up to next?</b>\n \nThe next few things I'm doing are a First Choice remix for Groove Line Records and a Souldynamic remix for Tribe Records, also another remix for King out of Los Angeles.\n\n",
+    "blurb": "Disco love songs.\r\n"
+  }
+}

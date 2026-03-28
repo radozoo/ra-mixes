@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "623",
+  "url": "https://ra.co/podcast/623",
+  "id": "623",
+  "__typename": "Podcast",
+  "title": "RA.623 Underground Resistance ",
+  "date": "2018-05-07T12:00:16.000Z",
+  "fileSize": 217818338,
+  "duration": "01:30:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra623-underground-resistance-cvr.jpg",
+  "contentUrl": "/podcast/623",
+  "tracklist": "Aril Brikha - Groove La Chord\nDJ Bone - Detroit Is Hard\nGershon Jackson - Take It Easy (Mike Dunn Blackball Ezee Mixx)\nRobert Hood - Shaker \nJohnny D & Nicky P - Next To Me (Henry Street Mix \nJon Dixon - Paulista Avenue\nKevin Saunderson - Future (Kenny Larkin Tension mix)\nMark Flash (Torment Beats)\nMark Flash - Kairad \nChambray - Anew\nMark Flash - Corktown Groove \nTodd Terry, Limelife - Baby Can You Reach (Roog & Dennis Quin Tribute Mix)\nNorty Cotto - Destino (Norty Cotto Naughty Boy Remix)\nLevantine Atmosphere (Mark Flash Rework) \nMark Flash - Brothers Groove \nMele - Latin Track \nK'Alexi Shelby - Cum Face The Music \nDJ Fudge - Ivette \nTom Blip - Wrong Guanco \nMark Flash Beats\nDe'Sean Jones - VooDoo (Mark Flash Rework)\nThe Martian - Firekeeper\nKiko Navarro - We Are One (UR Dub) \n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/440492433",
+  "keywords": "Mark Flash, Detroit, Techno, Mad Mike Banks, Jeff Mills, High-tech soul",
+  "artist": {
+    "id": "41814",
+    "__typename": "Artist",
+    "name": "Underground Resistance"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Mark Flash recorded the 623rd RA podcast at the one of techno's most important addresses: 3000 E.Grand. Blvd in Detroit, Michigan. That's the home of Underground Resistance, the outfit that has come to embody the look, sound and attitude of techno since it started almost 30 years ago. In that time, an evolving cast of members (including the likes of Robert Hood and Jeff Mills) has stayed true to its sound and devoted to its home city. \n\nA key part of the Underground Resistance ethos is to stand behind their music, not in front of it. As 'Mad' Mike Banks, who cofounded UR alongside Mills, told the late Mark Fisher in an <a href=\"https://www.thewire.co.uk/in-writing/interviews/mike-banks-interview\">interview</a> published by <i>The Wire</i> in 2007: \"If you put your ego in front of the music, and place it in front of the speaker, then the people trying to listen to the music can't hear your music, they just listen to your ego.\" \n\nThough Banks is the name most closely associated with Underground Resistance, Mark Flash is a vital part of the collective. Music is in his bloodstream—his father was in a travelling Motown band, he got his first set of turntables in 1979, and he was introduced to Banks years ago by DJ Rolando. He's currently involved with two of UR's live projects, Depth Charge and Galaxy 2 Galaxy, and on RA.623 he reps UR with 90 minutes of high-tech soul, with Flash crafting some beats exclusively for the mix. \n\n<i>Underground Resistance will perform a live Depth Charge show at Albania's <a href=\"/events/1051854\">Kala festival</a> in June 2018</i>.\n\n<b>What have you been up to recently?</b>\n\nRecently I've been working with Mike Banks on our Depth Charge project. Putting together new shows, performances, merchandising and upcoming track releases. Also, I recently did a couple of remixes on Motech Records with label owner DJ3000. (\"Chord Runner\" and \"Guiltless.\")\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix in the Submerge rehearsal room at 3000 E.Grand. Blvd with the break time I had in between Depth Charge and Galaxy 2 Galaxy rehearsals.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to keep it simple and try to showcase the artists from Detroit such as DJ Bone, Jon Dixon, De'Sean Jones, Rob Hood, Kenny Larkin, Aretha Franklin, Mike Banks and myself. It also includes some Mark Flash beats I did just for this mix.  \n\n<b>You released your first solo record in a while recently. Are you getting to produce much music these days?</b>  \n\nYes, actually. Look for new upcoming releases and remixes from Elypsia Records, EPM, UR and more. Also I'll be releasing music from my new upcoming label, AUDIO FLUID.\n\n<b>What are you up to next?</b>\n \nI'm looking forward to upcoming performances at Kala Festival, Mutek Festival, Dimensions Festival, Movement, TechTroit and more shows with Depth Charge, Timeline, D3 Descendants of the Resistance and, coming soon, The Mark Flash Experience. Stay tuned!\n",
+    "blurb": "Mark Flash presents the sound of the legendary Detroit outfit. \r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "6",
+  "url": "https://ra.co/podcast/6",
+  "id": "6",
+  "__typename": "Podcast",
+  "title": "RA.005 Kiki",
+  "date": "2006-04-03T08:00:08.000Z",
+  "fileSize": 72267748,
+  "duration": "01:00:12",
+  "imageUrl": "https://static.ra.co/images/podcast/ra005-kiki-cover.jpg",
+  "contentUrl": "/podcast/6",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra005/",
+  "keywords": "",
+  "artist": {
+    "id": "707",
+    "__typename": "Artist",
+    "name": "Kiki"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "An architect by trade, Kiki moved to Berlin in 1996 where he met Ellen Allien and joined forces with the <a href=\"http://www.bpitchcontrol.de\">bPitch Control</a> collective. \n\nFinding a home in the <a>bPitch's creative union</a> of music and design, Kiki's influence has extended beyond the decks, into the labels artwork and studio where has produced several tracks as a solo artist and together with Silversurfer. Kiki has also provided remixes for labels such as CR2, Tsuba and Crosstown Rebels.\n\nKiki's new mix CD <a href=\"http://www.residentadvisor.net/news.asp?ID=7732\">Boogy Bytes Vol 1</a> was recently released in March (featuring a windswept Kiki on the cover). RA caught up with Kiki briefly in the eye of the storm.\n\n<b>What have you been up to lately?</b>\nBesides a very, very heavy DJ schedule due to my mix album tour (<a href=\"http://www.residentadvisor.net/news.asp?ID=7732\">Boogy Bytes Vol 1</a> on bPitch Control), I have just finished a new single for bpitch and numerous remixes, for example for John Digweed and Francesco Tristani`s re-interpretation of \"Strings of Life\".\n\n<b>Where was the mix recorded?</b>\nMonday morning after 3 gigs on a weekend. Finally home, but straight to decks...\n\n<b>What are you up to next?</b>\nThe tour continues and continues and continues... But I´m very much looking forward to the summer festivals and the re-start of my Berlin residency at WMF!",
+    "blurb": "Our fifth Resident Advisor podcast comes from Finnish talent Kiki. "
+  }
+}

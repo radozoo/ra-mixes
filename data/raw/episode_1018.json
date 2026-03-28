@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1018",
+  "url": "https://ra.co/podcast/1018",
+  "id": "1018",
+  "__typename": "Podcast",
+  "title": "RA.1000 Frankie Knuckles",
+  "date": "2025-08-14T09:30:04.000Z",
+  "fileSize": 0,
+  "duration": "01:47:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra1000_podcast_image--frankieknucklesra-1000.jpg",
+  "contentUrl": "/podcast/1018",
+  "tracklist": "<b>Pt. I (1989)</b>\n\nTullio De Piscopo - Stop Bajon\nThe Whatnauts - Help Is on the Way (Instrumental)\nPositive Force - We Got the Funk\nTempest Trio - Do You Like The Way It Feels\nAdeva - Respect\nColdcut feat. Lisa Stansfield - People Hold On (New Jersey Jazz Mix)\nSparque - Let's Go Dancin'\nESG - Standing in Line\nCandido - Rock and Shuffle (Ah-Ha)\nLil' Louis & The World - French Kiss (Original Underground Mix)\n\n<b>Pt. II (1996)</b>\n\nSwing 52 - The Joy You Bring (Feets-A-SWING'in Bee)\nMariah Carey - Fantasy (Sweet Dub Mix)\nC+C Music Factory - I'll Always Be Around (The C+C House Mix)\nSoul II Soul - I Care (Soul II Soul) (Nu Soul Klub)\nLimelife AKA Todd Terry - Baby Can You Reach\nAngel Moraes - Time To Get Down! (\"Get It On\" Mix)\nThe Daou - Surrender Yourself (Factory Reprise)\nUnit 46 - Good Inside (The Dope Edit)",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra1000-frankie-knuckles",
+  "keywords": "",
+  "artist": {
+    "id": "92",
+    "__typename": "Artist",
+    "name": "Frankie Knuckles"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In the first article about Chicago house in a US publication, writer Barry Walters wrote: \"From sexual extravagance to dance floor excess, everything about house is geared toward <i>losing it</i>.\" Although he was born in the Bronx, New York, Frankie Knuckles epitomised the luxuriance of Chicago house through his musical, life-giving sets at the Windy City's Warehouse. In this storied club, house was born.\n\nKnuckles' sets were so beloved at the Warehouse that his blend of Philly Soul, European disco and jacking, stripped-back jams made the club's patrons hungry for \"Warehouse music,\" which would later be shortened to the house we know today. But within that genre lay a myriad of developments. But what did the genesis and growth of the sound really feel like?\n\nWhen he passed away, the Godfather of House left behind a trove of sumptuous, delicately-layered house records as well as batches of private cassettes with hand-drawn liner notes handed out to friends and family. For RA.1000, we are proud to be able to present two completely unheard tapes from the Knuckles collection, digitised exclusively for the first time, courtesy of Frederick Dunson: one of Knuckles' close friends, as well as President & Executive Director of the <a href=\"https://thefkfoundation.org/\" target=\"_blank\">Frankie Knuckles Foundation</a>.\n\nThroughout his four-decade career, from a short stint at New York's Sound Factory to his long-term pulpit at the Warehouse, clubbers became addicted not to his technical skill, but to his skill in establishing the <i>mood</i>. It's that mood, resplendent and joyous, you'll hear on RA.1000. The first part of the mix dates back to 1989, whereas the second was laid down in 1996. Across both, the energy is celebratory.\n\nThis is a mix about the extremes of human pleasure: there are diva squeals, orgasmic moans and the warm laughter that perfumes the lounge areas of the best clubs. Strap in for two hours of deep cuts that cover West End Records, Latin disco and stripped-back proto-house. There are also timeless songs, like Mariah Carey's \"Fantasy (Sweet Dub Mix),\" ESG's \"Standing in Line\" and Lil' Louis & The World's \"French Kiss\" that you'll still hear out in 2025. And more besides, what you'll hear on RA.1000 is a capture of what made Frankie Knuckles one of the pioneering icons of 20th-century dance music: a spirit of boundless optimism that floods the world's best dance floors today, nearly 40 years on. <i>- Kiana Mickles</i>",
+    "blurb": "For the penultimate RA.1000, we take it back to the source with unreleased tapes from the private collection of Frankie Knuckles, the Godfather of House."
+  }
+}

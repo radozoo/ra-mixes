@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "943",
+  "url": "https://ra.co/podcast/943",
+  "id": "943",
+  "__typename": "Podcast",
+  "title": "RA.943 Sofia Kourtesis",
+  "date": "2024-06-30T22:00:31.000Z",
+  "fileSize": 0,
+  "duration": "58:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra943-sofiakourtesis-cover.jpg",
+  "contentUrl": "/podcast/943",
+  "tracklist": "Sofia Kourtesis & Daphni - Unidos\nLaurence Guy - Hey Baby (Radio Edit)\nAnish Kumar - Nazia\nChloe Robinson - Just Know\nAhadadream, Priya Ragu & Skrillex - TAKA (Caribou Remix) \nIceMorph - Rumba With My Sister (Original)\nQuantic feat. Andreya Triana - Run (Sofia Kourtesis Remix)\nFloating Points - Del Oro\nDJ ADHD - OGs\nTom Everett, Male - Patti (Male Extended Mix)\nDwayne Jensen - My People\nLUXE - A83\nDave DK - Don't Eat the Homies\nPretty Girl - Take Me\nL.S.G. - Hearts\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra943-sofia-kourtesis",
+  "keywords": "",
+  "artist": {
+    "id": "55834",
+    "__typename": "Artist",
+    "name": "Sofia Kourtesis"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Sofia Kourtesis's <i>RA</i> Podcast is a power hour trained squarely at festival season. Clamour had been building around the Peruvian artist's brand of poignant house and electronica bedded in through a string of EPs and 12-inches, culminating in last year's <i><a target=\"_blank\" href=\"/reviews/35776\">Madres</a></i>—a passionate, vulnerable and excellent album that resonated widely.\n\n<i>Madres</i> packed in rare specificity for a dance floor record, combining paeans to the restorative power of sound with direct tributes to the neurosurgeon who saved the life of Kourtesis' mother. (She even took him clubbing in Berlin as an additional thank you.) The album's earworm melodies, sparkling production and approachable aura made it a snap favourite, helping launch Kourtesis from bubbling to breakthrough on the global stage. In both sound and impact, it mirrors another record, <i>Swim</i>, the 2010 classic made by Kourtesis' friend and mentor, Dan Snaith.\n\nSpeaking of Caribou: RA.943 opens with a new Sofia Kourtesis & Daphni collaboration, before powering through summer-ready cuts from LUXE, Floating Points, IceMorph, DJ ADHD and an old Oliver Lieb classic. Even as her reputation as a recording artist swells, the mix is a sharp reminder of Kourtesis' chops as a DJ, teeing up a victory-lap summer ahead. <i>– Gabriel Szatan</i>\n\n<b>You've been on the road pretty much non-stop for over a year: what have been some of the most memorable locations and shows?</b>\n\nIt's tough to just name one location, I've played in some of my favourite places this last year. I was very excited and nervous for Panorama Bar at the same time, because I wanted to be in my best head space for it. In the end, it was amazing.\n\nDJing in Tokyo at SO East was incredible, people went loco and we really became one. I still have goosebumps about it. For live shows with the full band, some of the best places were Primavera Sound in Barcelona, Glastonbury—for a South American musician, that is something to be very proud of—and of course, playing in Lima.\n\n<b>Do you draw a similar level of gratification from performing live as DJing, or is it like engaging different sides of your creative brain?</b>\n\nIt's definitely another kind of engagement when you play a DJ set: you have to read the crowd and be unique, but you also have to engage and try to find a route to connection. But when you play live you are telling your story; the crowd is coming to hear you, you can't wear a mask and hide behind the DJ booth. You have to open up and sing your truth. I guess it's more human.\n\n<b>Overall, how has life changed since the <i>Madres</i> cycle began?</b>\n\nIt's changed a lot. Success has given me some freedom to be able to do the things I love, like being able to work with my favourite musicians—and record a collaboration with Daphni. But also it gives me the possibility to pay for my mum's medicine and have enough money to look after her and support my community. This is important too.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nIt's time to turn our attention to the trans sex worker community. They're in urgent need of our support, be it through advocacy, resources or direct assistance. I've been collaborating with the trans worker community in Peru; it was an honour to visit these amazing women and see the projects they're doing with the small resources they have. Their bravery and the way they support each other with so much love and hope inspired me.\n\n<b>What are you looking forward to in the near future?</b>\n\nTo release my new EP and be able to spread more awareness about the difficulties we have being queer in countries like Peru.\n",
+    "blurb": "Pure energy from one of electronic music's brightest lights."
+  }
+}

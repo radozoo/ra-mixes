@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "54",
+  "url": "https://ra.co/podcast/54",
+  "id": "54",
+  "__typename": "Podcast",
+  "title": "RA.054 Simon Baker",
+  "date": "2007-05-21T01:00:42.000Z",
+  "fileSize": 91436542,
+  "duration": "01:16:23",
+  "imageUrl": "https://static.ra.co/images/podcast/ra054-simon-baker-cover.jpg",
+  "contentUrl": "/podcast/54",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra054/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:983"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Simon Baker has a reputation as one to watch. He’s resident at DDD in London and Asylum & Technique in his hometown of Leeds, parties which bring the best of house and techno over to England on a regular basis. As a producer, he’s affiliated with Ralph Lawson’s 20:20 Vision label, running his own sub-label Infant Records out of the same office. The label has released four Simon Baker EPs, the last of which, ‘Plastik’, has also recently been signed to Ata’s Playhouse Records. He’s also just hooked up with the German label Connaissuer with his track ‘The Fly’, due out in May, as well as Matt Tolfrey’s Leftroom Records. \n\nAs a DJ, Baker doesn’t like to pigeonhole his style, DJing according to the motto “If it’s good, play it”. His RA mix runs with the same idea, moving from deep house to techno and back over seventy minutes.\n\nRA caught up with Simon Baker for a chat when he handed over the mix.\n\n<b>What have you been working on recently?</b>\nI have been pretty busy lately. I was recently signed to Playhouse Records with my track ‘Plastik’ and also an additional track ‘Jitters’ (which is on the mix incidentally), which will be out in June. I am also producing for my own label Infant Records which will see my track ‘Spinner’ released in July with a fantastic remix from 'the man Sian'. I also have other things coming out on Connaisseur, Viva Music, Leftroom and 2020. All of which are due out very soon. It's like that old saying....\"it never rains but it pours!\".\n\n<b>Where was the mix recorded?</b>\nI did the mix in the comfort of my own home with cups of tea at hand.\n\n<b>What are you up to next?</b>\nAt the moment I am working on various remixes for labels as well as DJing a fair bit. As you can see from the above question, I have a fair few releases on the horizon, so basically going to let that little lot bubble away and go from there really. I seem to have ideas coming out of my arse at the moment, so won't be able to leave the studio alone for long at all. Regarding my label Infant, we have releases in the pipeline from Burnski, TG with a Jamie Jones remix as well as many other exciting things to come.",
+    "blurb": "This week's RA podcast comes from Leeds producer and DJ Simon Baker."
+  }
+}

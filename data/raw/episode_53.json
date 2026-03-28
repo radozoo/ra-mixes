@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "53",
+  "url": "https://ra.co/podcast/53",
+  "id": "53",
+  "__typename": "Podcast",
+  "title": "RA.053 Riton",
+  "date": "2007-04-25T10:30:47.000Z",
+  "fileSize": 73131299,
+  "duration": "01:00:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra053-riton-cover.jpg",
+  "contentUrl": "/podcast/53",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra053/",
+  "keywords": "",
+  "artist": {
+    "id": "789",
+    "__typename": "Artist",
+    "name": "Riton"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Riton (French slang for Henry) is one super talented dude. As a producer, Henry Smithson has released a lot of diverse material, from his well known singles on Get Physical and Souvenir to his new wave remixes of Datarock (Norway), Para One (France) and Simian Mobile Disco (UK). He’s even remixed Justin Timberlake. \n\nRiton DJs by himself, and also together with Ben Rhymer from the Fat Truckers as the Gucci Soundystem, who regularly rock East London. He's also been putting on the Chalk nights in London that features anything from Baltimore, to indie kids with guitars, to French electro housers. Finally last random fact – and Henry's a pretty shy guy about himself so this comes via a secret source – Riton won a disco dancing competition at age eight. Skills.\n\nRiton’s mix for RA is a bit of a home listener – the first twenty minutes or so are some lost Krautrock gems (he’s working on a Krautrock-inspired album at the moment), while the latter half steps onto the dancefloor, taking in everything from E.T samples to forgotten eighties gems.\n\n<b>What have you been working on recently?</b>\n\nI just finished my new solo LP of krautrock, called 'Eine Kliene Nacht Musik'. I've also been compiling tracks for my 'We Love...' compilation and writing a new 'club bomb' to coincide with its release. Most recently I just remixed Simian Mobile Disco, Para One, Elon [Made to Play], Dustin Swint on Freeform Five's label, Datarock and The Aliens (two guys from The Beta Band).\n\n<b>Where was the mix recorded?</b>\n\nI did this mix with the second worst hangover of my life in my hotel room in New York. I was editing tracks to play that night, hence it's a bit mental in places.\n\n<b>What are you up to next?</b>\n\nI'm continuing DJing at the weekends and obviously playing a lot in Ibiza this summer at We Love Space. Next week I'm off to Belgium to finish off the Die Verboten EP which me, my brother-in-law Fergus, Dave and Steph Dwelle have been writing.",
+    "blurb": "This week's RA podcast is a wide-ranging selection from London DJ and synth boffin Riton. \r\n"
+  }
+}

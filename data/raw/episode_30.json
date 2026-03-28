@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "30",
+  "url": "https://ra.co/podcast/30",
+  "id": "30",
+  "__typename": "Podcast",
+  "title": "RA.029 Rob Mello",
+  "date": "2006-10-16T06:41:28.000Z",
+  "fileSize": 59244544,
+  "duration": "01:01:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra029-robmello-cover.jpg",
+  "contentUrl": "/podcast/30",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra029/",
+  "keywords": "",
+  "artist": {
+    "id": "785",
+    "__typename": "Artist",
+    "name": "Rob Mello"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "DJ and producer <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=785\">Rob Mello</a> has been pushing forward-thinking, West Coast-influenced house since 1992. These days Rob is rated as a remixer, releasing cut after cut of his No Ears Dubs, the quality of which proves that he <i>does</i> use his ears: this year’s clients have ranged from Radio Slave and Swag to The B-52s. He’s has also released original cuts via Derrick Carter’s classic Classic label and now his own new outlet Disco 45, whose latest 12” ‘The Energy’ sees him pairing with legendary house vocalist Robert Owens. But the proof is in the playing: Recently Rob’s tracks have been popping up on compilations by the likes of James Zabiela, Damian Lazarus and Ricardo Villalobos (RA rave ‘Critical’ was a highlight of Ricardo’s ‘Green and Blue’: impossibly funky, and then somehow getting even funkier.)\n\nAs a DJ, Rob is one of the most underrated around. Featuring cuts from Jay Haze, Pier Bucci and Stefan Goldmann, Rob’s mix for RA is textbook Mello: a laid-back and groovy (we don’t want to say mellow) showcase of both his years of experience and his ear for the new.\n\nAnd out of the little-known-fact basket: together with Matthew Herbert, Rob wrote the incidental music for Human Traffic.\n\nRA caught up with Rob Mello early one morning...\n\n<b>What have you been working on recently?</b>\nA Classic/MFF mix compilation, and a new single with Robert Owens \"The Energy\" (Disco 45) due out in November.\n\n<b>Where was the mix recorded?</b>\nAt home on my decks and CD player, running an outboard filter with an overdubbed jingle over the mix.\n\n<b>What are you up to next?</b>\nSingles due out on Crosstown Rebels and of course Disco 45. Remixes for Mule Music, Dialect Records, The Freaks, Bitches Brew, Dot Bleep are all forthcoming and DJing… Back To Basics (Leeds), Panorama Bar (Berlin), Fabic Birthday Party (London) and Mesopotamia (Turin).\n",
+    "blurb": "London’s best kept secret Rob Mello warms your speakers in the latest RA Podcast."
+  }
+}

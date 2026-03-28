@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "387",
+  "url": "https://ra.co/podcast/387",
+  "id": "387",
+  "__typename": "Podcast",
+  "title": "RA.387 Traumprinz",
+  "date": "2013-10-28T17:09:31.000Z",
+  "fileSize": 163538987,
+  "duration": "01:08:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra387-traumprinz-cvr.jpg",
+  "contentUrl": "/podcast/387",
+  "tracklist": "Neeeeed\nUntitled\nRomania edit\nYour Body (TP interpretation)\nUntitled\nUntitled\nUntitled\nUntitled\nUntitled\nUntitled O A\nThere Will Be XTC",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra387/",
+  "keywords": "Traumprinz, The Prince of Denmark, Giegling, The Body, Mothercave",
+  "artist": {
+    "id": "45529",
+    "__typename": "Artist",
+    "name": "Traumprinz"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Biographical details on Traumprinz are scant. We know he's been making house music under the alias since 2011, and also produces as <a href=\"/dj/princeofdenmark\">The Prince Of Denmark</a>, a name he uses on his techno records. He's closely associated with the excellent Giegling label, a homespun operation based in Weimar, Germany, that's been releasing dusky, vinyl-only takes on dance music and downtempo for the last few years. In 2011 Giegling launched a Traumprinz sub-label for the producer, releasing a series of 12-inches that has marked him out as an extremely capable exponent of tough and shadowy house music; fans of similarly low-key, floor-focussed labels like Relative and Stablo will have found much to love about Traumprinz. A Prince Of Denmark full-length, <i>The Body</i>, dropped last month, and it'll be followed up by a Traumprinz album, <i>Mothercave</i>, \"very soon.\" \n\nAs RA.387 is based largely on unreleased material, we'll assume that many of the tracks here feature on <i>Mothercave</i>. Across just over an hour, Traumprinz keeps things steadily simmering with the type of set you could imagine catching fire in the right club. \n\n<b>What have you been up to recently?</b>  \n\nMostly I've just been enjoying the relief of giving birth to \"the body.\" Relaxing a little bit and taking a breath of fresh air.\n \n<b>How and where was the mix recorded?</b>\n\nIt's a rip from a radio station called Sender Geibel. I recorded it on tape 20 years ago, when I was a kid, and thought now that everybody forgot that this even existed, it's the perfect time to pretend that this is mine.\n \n<b>Can you tell us about the idea behind the mix?</b>\n\nI like the idea of <i>sehnsuchtsorte</i>, a desirable place that only exists in our fantasy. It's a way to keep away the sometimes unpleasant side of reality and to empower creativity, emotion, irrational behaviour and imperfection—features that sometimes get little bit mistreated in these times that we live in, I think. \n \n<b>How do you differentiate between your Traumprinz and Prince Of Denmark aliases?</b>\n\nOne is a child and the other a man.\n \n<b>Do you intend to operate anonymously for the foreseeable future? Why did you decide to do so?</b>\n\nNo not really, I will go out and play more often. It's a wonderful thing to share your music with people and receive some feedback on pulling the inside out. But sometimes it is quite overwhelming and makes me feel vulnerable, so it felt right to take things slow, and to reflect things and take enough time to refill my energy.\n \n<b>What are you up to next?</b>\n\nI will release more material on my home label, Giegling. There is a Traumprinz LP called <i>Mothercave</i> coming out very soon. It's not so much of a certain genre album, it's kind of held together by a storyline on a meta level. At first I wasn't very confident to do something like that, but my long-time friend Konstantin helped me a lot and encouraged me. I'm very thankful having found such a warm-hearted, open-minded environment. ",
+    "blurb": "Under-the-radar house from a charming prince.  "
+  }
+}

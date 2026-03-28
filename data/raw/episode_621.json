@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "621",
+  "url": "https://ra.co/podcast/621",
+  "id": "621",
+  "__typename": "Podcast",
+  "title": "RA.621 Grouper",
+  "date": "2018-04-23T00:00:30.000Z",
+  "fileSize": 136002570,
+  "duration": "00:56:33",
+  "imageUrl": "https://static.ra.co/images/podcast/ra621-grouper-cvr.jpg",
+  "contentUrl": "/podcast/621",
+  "tracklist": "Jane And Barton - It's A Fine Day\nFlying Saucer Attack*Roy Montgomery - The Whole Day\nRoy Montgomery - Rainbird feat. She Keeps Bees (forthcoming 2018)\nJoanne Robertson - Black Moon Days\nValet - Fire\nCyrillus Kreek (Eesti Filharmoonia Kammerkoor) - Psalm 104\nLe Mystere des Voix Bulgares - Kalimankou Denkou (The Evening Gathering)\nTashi Wada with Julia Holter - Untitled (Live at The Lab, SF)\nMaxwell Croy - Will-o'-the-wisp (Reprise)\nFint Tilsammans - En Aha-upplevelse\nDurutti Column - Opera II\nCoby Sey - Seed (Our Cells Meet)\nCrescent - Philicorda Loops (Excerpt)\nJefre Cantu - CONVERSATIONS WITH MYSELF 5\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/434412549",
+  "keywords": "Liz Harris, Ruins, Grid of Points, Kranky, Astoria, Dragging A Dead Deer Up A Hill",
+  "artist": {
+    "id": "31793",
+    "__typename": "Artist",
+    "name": "Grouper"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Grouper, real name Liz Harris, plays things pretty close to the vest. At her first show, she performed from the green room, and a similar spirit of obfuscation informs her records. Landmark early efforts like <i>Dragging A Dead Deer Up A Hill</i> and the self-released <i>A I A</i> series submerged timeless pop songs in a pool of shimmering ambience. 2014's <i>Ruins</i> and <a href=\"/news.aspx?id=41263\"><i>Grid Of Points</i></a>, which is released next week on Kranky, were written and recorded quickly while at residencies (in Portugal and Wyoming respectively), in small rooms on pianos and four-tracks. Still the ghost lingers. Harris describes the new record as exploring \"the space left after matter has departed, a stage after the characters have gone, the hollow of some central column, missing.\"\n\nHarris lives a quiet life on the coast in Astoria, Oregon. She employs friends to help make her handmade, limited-edition records. Fittingly, her mix, which she relates to a double-sided postcard, draws heavily on music from her immediate community, featuring tracks from close friends and collaborators like Roy Montgomery, Jefre Cantu-Ledesma and Valet. The whole thing is bathed in a church-like ambience, full of sacred chorale music and Terry Riley-esque organ figures. It also contains the subtle gestures and symbols that make Grouper's music feel like a secret message from a friend. \n\n\n<b>What have you been up to recently?</b>\n\nRehearsing and preparing for shows in the EU, grieving, going for walks, anticipating sailboat racing season, spending time with my dog, converting my lawn into moss and fern-scape, painting.\n\n<b>How and where was the mix recorded?</b>\n\nAt home. Vinyl onto a Zoom recorder, into Ableton, edited there with digital tracks.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nDouble-sided postcard. Sent one once and was reminded; written back to me upon receiving it, they were potent words. Paradox reference. Mix as a post card, memory as object, material. Post-card. Mourning, a connection to the living. Connection to friends. \n\n<b>You compare the eight pieces comprising <i>Grid Of Points</i> to \"small texts hanging in space.\" Both <i>Ruins</i> and the new record are made up of spare piano songs. How do you know when a song, or album, is complete?</b>\n\nI'm following directions. I look and listen.\n\n<b>You live on the coast in Oregon, <i>Ruins</i> was recorded in Aljezur, Portugal, <i>Grid Of Points</i> in Wyoming. What effect does place, or space, have on your music?</b>\n\nExpressions of being met with land (sky, sea), all built in. Brimming over/cusping, looking out on to the world. See an answer in a wave or as the birds pass, in the shape of trees bent over by the wind, a water-texture. Answers to the side, above all—looking. \n \n",
+    "blurb": "Spectral folk and electronic ambience from the Oregon coastline.\r\n"
+  }
+}

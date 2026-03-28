@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "214",
+  "url": "https://ra.co/podcast/214",
+  "id": "214",
+  "__typename": "Podcast",
+  "title": "RA.214 Tevo Howard",
+  "date": "2010-07-05T00:00:47.000Z",
+  "fileSize": 74512892,
+  "duration": "01:02:04",
+  "imageUrl": "https://static.ra.co/images/podcast/ra214-tevo-howard-cover.jpg",
+  "contentUrl": "/podcast/214",
+  "tracklist": "01. Passion Sound (Inner Beauty)\n02. Dreamer's Reason Cafe\n03. Autumn Spell\n04. Move\n05. Shaquanda\n06. Laboratory\n07. Crystal Republic",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra214/",
+  "keywords": "Tevo, Howard, live, dj, house, deep, music, chicago",
+  "artist": {
+    "id": "12454",
+    "__typename": "Artist",
+    "name": "Tevo Howard"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Born and raised in the city that birthed house music, Tevo Howard caught the mixing bug at an early age via his older brother, taking advantage of easy access to his decks throughout his teenage years and securing residencies at local clubs by the time he was just sixteen. What with his father Rick—who also provides his earthy, downtrodden vocals to some of Tevo's music—having a career as a blues artist, music has always been in his family. Keen to learn more about the technical side of things, Tevo went on to get a degree in the subject, but it wasn't until 2005 that he started to get into production.\n\nJust two years later, he'd started his Beautiful Granville imprint in order to showcase his work, quickly pricking ears amongst house music fans with his melodically rich drum machine workouts. The European labels were also listening: Rebirth and Rush Hour spread his name further across the Atlantic, paving the way for his first European dates earlier this year. With all his years of experience, he's a dab hand behind the decks, but he's equally adept playing live, which is exactly what you'll hear on this live session recorded especially for RA.\n\n<b>What have you been working on recently?</b>\n\nI have recently been working on a remixes with Justin Long and Melvin \"Traxx\" Oliphant for my label, Beautiful Granville Records. I am also in the process of producing a release with Kate Simko. I am proud to say that us Chicagoans are finally ganging up to lay some of our ideas on paper. \n\n<b>Where and how was the podcast recorded?</b>\n\nThis recording was recorded at Beautiful Granville Studio. I chose to incorporate a TR-606 with a TR-707 and a 303 clone. The middles in the recording have all been exported from my main platform (Apple's Logic) and into Ableton Live, which both produces sound and controls the drum machines in time clock. All of the arrangement, then, is real-time recorded and mastered. \n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nFor this mix I wanted to incorporate some of the older songs that I released, such as \"Passion Sound (Inner Beauty).\" I also wanted to keep the mix alive with excitement, while maintaining some of the original arrangements of each track. This was done by keeping to the higher frequencies, and bringing instruments in and out (for instance) according to the original arrangements of each track while performing this real-time arrangement.\n\n<b>You recently played some of your first live shows in Europe. Tell us some stories, good and bad.</b>\n\nI did find myself in hotels practicing for shows with my drum machines linked together. The funny thing is that I had the \"Do Not Disturb\" sign up 24/7 so that the hotel would not see how much electricity I was using through power strips. All and all this was a great tour, and I wouldn't change a thing about it. As my booking agent, Lerato Khathi from Uzuri Artist Bookings & Management, covered my butt on everything, I am proud to say, I made it home safe and learned a bit of the German language.\n\n<b>You're something of a writer. Tell us about some of your influences and what your own work is like.</b>\n\nI did write fiction for a seven year (give or take a year) period in my life. Nonetheless, I am scheduling to write my autobiography when I am able to have a few months to myself to do so. But, after getting my undergraduate degree from Depaul in 1999, I quickly fell in love with writing. After the long writing spell, I had finished five novellas and half of a novel. I do plan to sell some of these small fictional narratives at some point. \n\n<b>What are you up to next?</b>\n\nMy next European tour is scheduled for early September, and I am full of confidence about where the tour will take me. The tour is titled \"What Is Noise?,\" my booking agent and I are proud to announce.",
+    "blurb": "Chicago's latest house music export lays down a live session for this week's RA podcast."
+  }
+}

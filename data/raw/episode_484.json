@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "484",
+  "url": "https://ra.co/podcast/484",
+  "id": "484",
+  "__typename": "Podcast",
+  "title": "RA.484 Bjarki",
+  "date": "2015-09-07T00:00:51.000Z",
+  "fileSize": 147599797,
+  "duration": "01:01:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra484-bjarki-cvr.jpg",
+  "contentUrl": "/podcast/484",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra484/",
+  "keywords": "Techno, Nina Kraviz, Iceland, Arthur and Intergalactic Whales",
+  "artist": {
+    "id": "56633",
+    "__typename": "Artist",
+    "name": "Bjarki"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you checked out <a href=\"/feed-item.aspx?id=87832\">our show</a> on BBC Radio 1 last month you may have noticed something curious about the tracklist for Nina Kraviz's guest mix: eight of the 17 cuts she selected were by Bjarki. Kraviz used the mix to showcase the upcoming releases on her label Trip, and since it launched last year, Bjarki has emerged as its brightest talent. So far we've had just a taste of the Icelandic artist's style. His recent EP, <i>Arthur And Intergalactic Whales</i>, featured the wonderfully mindless \"I Wanna Go Bang,\" which is shaping up to be one of the biggest techno tracks of 2015, and the more subtle but no less powerful \"Orange Juice Man.\" His tracks for the Trip compilations <a href=\"/review-view.aspx?id=17361\"><i>De Niro Is Concerned</i></a> and <a href=\"/review-view.aspx?id=16123\"><i>The Deviant Octopus</i></a> were more functional, but \"Revolution\" and \"Polygon Pink Toast\" were both quietly unique. As strong as Bjarki's music has been so far though, it's his vast quantity of unreleased tracks that confirms just how bright his future could be. A brief biography on his <a href=\"https://www.facebook.com/bjarkirunar/timeline\">Facebook page</a> describes him as \"a very low profile, stay-at-home audiophile,\" and below Bjarki says that it's a total necessity for him to bang tracks out quickly. This frees him to shoot off in many different directions while maintaining the rock-solid low-end that's become one of his trademarks. \n\nYou'll see what we mean on RA.484. The mix is exclusively made up of unreleased Bjarki tracks, some of which will come out on Trip, some of which will never be released. The strikingly diverse hour takes in jacking, Chicago-influenced cuts, deadly serious deep techno, and a moment of hardcore revivalism that, like Bjarki himself, we're sure you'll be hearing more of. \n\n\n<b>What have you been up to recently?</b>\n\nWe have been working on a music video for \"I Wanna Go Bang.\" Very exited to see the final outcome.\n\n<b>How and where was the mix recorded?</b>\n\nIn my basement in Copenhagen, where most of the tracks were made. \n\n<b>Tell us about the idea behind the mix.</b>\n\nIt's a selection of tracks from earlier this year. All unreleased, some will be out on Trip and others might never see a release, who knows. I don't think all my music needs to be released. Sharing it with my Trip family members and see them playing it live is enough.\n\nThe opening track in the mix is something that got me inspired after talking to a friend who is a ballet dancer. She told me about the serious steps ballerinas can go through. It sounded like a lot of pain and tears. I ended up writing a short fiction about a traumatised ballerina. She is in deep water, almost drowning, building up her strength and control as her movements are slow, struggling to dance her way up to the surface to breath.\n\n<b>Do you tend to produce quickly? The volume of unreleased music in the mix would suggest so.</b>\n\nYeah I make music quite quickly. It's just like a photo, a moment of excitement that I capture and if I like it, it's done and I bounce it. Sometimes I make music right before a show and then just play it. Every time I spend too much time on it I end up getting really bored and lose the feeling. \n\n<b>Tell us about the techno scene in Iceland.</b> \n\nThere has always been a lot of music coming from Iceland. There aren't many clubs in Reykjavik, mostly bars. There is one venue that has clubbing standards called Paloma, where we did our first Trip party. Maybe with the trip label we generated a buzz in the scene. Our cave party earlier this summer and my latest release caught a lot of attention. \n\n<b>What are you up to next?</b>\n\nLearning more about composition, and working with real musicians. It's seems like a right moment for a deeper musical knowledge. I really need it to be able to create the music I want. So studying is definitely up next.",
+    "blurb": "The Icelandic techno artist goes bang.\r\n"
+  }
+}

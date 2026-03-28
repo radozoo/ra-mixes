@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "45",
+  "url": "https://ra.co/podcast/45",
+  "id": "45",
+  "__typename": "Podcast",
+  "title": "RA.045 Joakim",
+  "date": "2007-02-19T10:59:52.000Z",
+  "fileSize": 73806997,
+  "duration": "01:01:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra045-joakim-cover.jpg",
+  "contentUrl": "/podcast/45",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra045/",
+  "keywords": "",
+  "artist": {
+    "id": "876",
+    "__typename": "Artist",
+    "name": "Joakim"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Joakim is a hard man to pin down. One of France’s foremost electronic musicians, he has a background in classical music, US & UK indie rock and jazz. His first album ‘Tiger Sushi’ was ambient electro-jazz, before he moved onto electronics with ‘Fantômes’ [2003], and more recently <a href=\"http://www.residentadvisor.net/review_view.asp?id=4326\">‘Monsters and Silly Songs’</a>, on which he combines post-rock, disco, electronics and, well, silly songs. \"Making a pure dance album would almost be like composing an album entirely in F major,” says Joakim. “I jump from one idea to the next. I simply have to try everything and see where it leads.\"\n\nJoakim runs the Tigersushi label, releases a broad spectrum of music including Maurice Fulton, E.S.G, Poni Hoax and Metro Area. He’s also a remixer; he’s recut tunes from Tiga, Air and most recently Antena’s ‘Camino Del Sol’ - the latter of which was one of the biggest club tunes of 2006. Finally, he also has a live band, Joakim and the Ectoplasmic Band, on which he plays machines, keyboards, guitars and sings. Fingers in many pies then.\n\nOut in the clubs, Joakim does both live sets and DJs, but for his RA podcast, Joakim has put together a rollercoaster turntable set which shifts between electro, mutant disco, techno and even a bit of New jack swing – all in Joakim’s inimitable style. RA sat down with Joakim with a couple of questions:\n\n<b>What have you been working on recently?</b>\nAbout one million things. Remixing Klaxons, Simian Mobile Disco, New Young Pony Club..., recording new Panico and Poni Hoax songs, playing live and DJing, promoting my album, recording this podcast. Just homework...\n\n<b>Where was the mix recorded?</b>\nAt home. 11-02-2006. It's mostly club-orientated.\n\n<b>What are you up to next?</b>\nTouring the UK next week and then the rest of the world with my band, mixing Poni Hoax album and working with Sir Alice. Preparing the release of new Tigersushi artist My Sister Klaus. Or maybe I will just take holidays.",
+    "blurb": "This week on the RA pod is French electro/jazz/mutant-disco hero Joakim."
+  }
+}

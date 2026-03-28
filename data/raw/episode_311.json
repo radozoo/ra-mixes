@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "311",
+  "url": "https://ra.co/podcast/311",
+  "id": "311",
+  "__typename": "Podcast",
+  "title": "RA.311 Vakula",
+  "date": "2012-05-14T00:01:26.000Z",
+  "fileSize": 68746378,
+  "duration": "00:57:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra311-vakula-cvr.jpg",
+  "contentUrl": "/podcast/311",
+  "tracklist": "Vakula - Bug Powder - Leleka (forthcoming) \nVakula - I Wanna Dance With You All My Life - Leleka (forthcoming)\nMoodymann - When She Follows (Vakula remix) (unreleased)\nVakula - LoÃ¯c Interpretation - Firecracker (forthcoming)\nVakula - Unknown (unreleased)\nVakula - Dub As Always - Shevchenko\nVakula - Loop (unreleased)\nFrunk29 - Slowdilla - (Vakula remix) - Deka Records \nBarnt - Hark - (Vakula remix) - Mule Musiq (forthcoming) \nVakula - LoÃ¯c Interpretation 2 - Mule Musiq \nVakula - In A Nutshell (unreleased)\nKuniyuki & Vakula - Session North #1 (Vakula version) - Soundofspeed (forthcoming) ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra311/",
+  "keywords": "Vakula, Vedomir, Vityk, house, unthank, shevchenko, Leleka, Firecracker",
+  "artist": {
+    "id": "5439",
+    "__typename": "Artist",
+    "name": "Vakula"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Mikhaylo Vityk's track titles—\"Deep Deep Down,\" \"T H E O Son\" and \"Gospel Keyboards\"—alone would tell you plenty about his approach to house music. As Vedomir, V and, most often, Vakula, Vityk has mined further and more thoroughly into classic US house tropes than anyone in recent memory. Vityk differs from the usual European aping of Detroit and Chicago in two key ways, however. Firstly, he's incredibly prolific. A staggering volume of 12-inches for labels like Firecracker, Dekmantel and Shevchenko over the last few years betray an unwavering commitment and deep-seated comprehension of the style. The other point is a question of embellishment. Sure, much of his work could pass as a forgotten Moodymann standard, but whether it's his often hip-hop length tracks, the ambush of an organ sample or simply just something a bit weird, Vakula's tracks almost always come imbued with a sense of the unexpected.  \n\nIf Vakula's RA podcast sounds incredibly cohesive that's because it's comprised exclusively of his own material, most of which is either unreleased or forthcoming.  \n\n<b>How and where was the mix recorded?</b>\n\nAt my home studio. I used my computer and some analog hardware.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea is simple. I just recorded my tracks in a mix. You can try yourself to do it. It's funny.  \n\n<b>You're famously prolific. How many tracks do you produce in an average week? Does most of what you write end up being released?</b>\n\nAlways in different ways. Today I can do two tracks, but tomorrow and next week, nothing. Most of the tracks are at home in the archives.\n\n<b>What are you up to next?</b> \n\nContinue my way and be happy.",
+    "blurb": "Devastating deep house from Ukraine.  "
+  }
+}

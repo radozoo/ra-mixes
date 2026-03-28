@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "201",
+  "url": "https://ra.co/podcast/201",
+  "id": "201",
+  "__typename": "Podcast",
+  "title": "RA.201 19.454.18.5.25.5.18",
+  "date": "2010-04-05T00:00:58.000Z",
+  "fileSize": 87441185,
+  "duration": "01:12:51",
+  "imageUrl": "https://static.ra.co/images/podcast/19.454.18.5.25.5.18-cover.jpg",
+  "contentUrl": "/podcast/201",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra201/",
+  "keywords": "Horizontal Ground, Frozen Border, techno, minimal, basic channel",
+  "artist": {
+    "id": "14881",
+    "__typename": "Artist",
+    "name": "19.454.18.5.25.5.18"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Stretching back to outfits like Basic Channel and Underground Resistance, the concept of anonymity has a long and rich history when it comes to techno. While the internet may have blown helped fans to get to the bottom of who is exactly behind many of these releases, the last few years have seen a new wave of labels and producers arrive on the scene, determined not to let image get in the way of the music.\n\nThe mysterious UK-based Frozen Border collective are just one of the imprints that have decided to shroud themselves in secrecy, although our <a href=\"news.aspx?id=10794\">brief interview</a> via the e-mail address on their inner label revealed that their Horizontal Ground sub-label is for artists that they have been admiring \"from a distance,\" with what seems like an alphanumeric coding system providing a hint to who exactly the artists could be.\n\nThe dark but exceedingly funky minimal house of the first and third releases on the label (from a producer who goes by the code of 19.454.18.5.25.5.18) especially caught our ear, so we did a bit of investigative work and finally got hold of the person responsible to see if their talents behind the decks echo their production prowess.\n\n<b>What have you been up to recently?</b>\n\nWorking on tracks... Shaping hi-hats and bleeps, playing it till it grooves. No arrangement, just playing. Also being amazed by the last Horizontal Ground from 19.26.1.18.5.\n\n<b>How and where did you record the mix?</b>\n\nRecorded at my studio in early February using a Xone92, 2 SL-1200MK2 (to label managers and music lovers: check it out, it's a lovely device), extra hardware and FX. Playing only vinyl.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nWell, I get this nice bottle of chilled Grey Goose vodka... Add large ice cube, lime and start playing records. It's hard to tell a musical story in an hour, so I made shortcuts. The beat matching is not perfect... It's all about the soul, the mind, dancing and enjoying music, vodka... Party!\n\n<b>Can you give us an idea about your background without giving too much away?</b>\n\nWent to university, bought turntables, organized parties with the homies, bought machines, pressed the record button...\n\n<b>How did you get involved in the Horizontal Ground label?</b>\n\nBy email.\n\n<b>What are your main influences when it comes to techno?</b>\n\nThe Wizard, DBX, <i>Internal Empire</i> and all the Robert Hood stuff, UR, Djax-up Beats, SP23 forever, Downwards, Sandwell District, Basic Channel.... Mostly artists that are more concerned by the music than their haircut (excluding Miss Djax).\n\n<b>What are you up to next?</b>\n\n130-140 BPM techno. Frozen Border / Horizontal Ground party.",
+    "blurb": "RA gets anonymous with the Horizontal Ground producer on this week's podcast."
+  }
+}

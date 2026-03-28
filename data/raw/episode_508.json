@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "508",
+  "url": "https://ra.co/podcast/508",
+  "id": "508",
+  "__typename": "Podcast",
+  "title": "RA.508 Bill Converse",
+  "date": "2016-02-22T00:00:59.000Z",
+  "fileSize": 171229706,
+  "duration": "01:11:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra508-bill-converse-cvr.jpg",
+  "contentUrl": "/podcast/508",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/248313621",
+  "keywords": "Meditations, Industry, Dark Entries, Mechanical Pulse",
+  "artist": {
+    "id": "61621",
+    "__typename": "Artist",
+    "name": "Bill Converse"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Electronic music has its traditional hotbeds of activity: London, Berlin, Ibiza and so on. But at any given time, there are innumerable artists making fresh and inspired sounds far from the established grid. Bill Converse is one of those artists. Originally from Lansing, Michigan, he's lived in Texas since 1998, and has spent much of the time since then \"saving up money and blowing it on gear and records.\" Over the years he developed a sound that was eventually revealed on <i>Meditations/Industry</i>, a cassette he released in 2013 that's just been reissued on Dark Entries. Hazy and colorful, unconventional but totally intuitive, the album's seven tracks reflect Converse's outsider status. As with the artists on North American labels like Mood Hut, L.I.E.S. and 1080p, his music seems to exist simply for itself, oblivious to prevailing trends or the needs of DJs. \n\nAs it happens, though, Converse is in fact a killer DJ, as his mix for us makes clear. A pumping medley of dusty old curios, RA 508 emanates from the same fascinating soundworld as Converse's productions. \n\n\n<b>What have you been up to recently?</b>\n\nI've been collaborating on a couple projects with friends here in Austin, also been DJing a lot recently which is cool, getting my studio organized and recording on a more regular basis. Aside from that, just working as a cook, saving up money and blowing it on gear and records—I've been doing that my whole life.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my studio on two Technics turntables and a borrowed DJM 600.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nSort of. This mix was improvised without much forethought. I just like to play the records I love, in a way that shares how I feel and hopefully offers the listener a slightly different take on them.\n\n<b>You're a new name to most of our readers. Tell us a bit about yourself. What are the highlights of the Bill Converse story so far?</b>\n\nI started DJing when I was about 11 thanks to the support of my family and newfound peers at the time. Before then I had been listening to a weekly techno and industrial radio show called the Mechanical Pulse and had eventually begun going over to the station to watch Steve Lammers, AKA DJ Horsepower, mix records and bring in guest DJs from all over. That's about where and when I segued to going to parties at The Bingo Hall and, soon after, Detroit and Chicago. Saw a lot of great DJs, met a lot of people who still mean the world to me today. Then in the fall of '98, I moved to Texas and got really depressed. I was also 15 at the time haha, but in retrospect it was great being able to mutate on my own terms having been displaced from the music scene in the Midwest. Since then I've just been collecting records and gear as much as possible.\n\n<b>You've just released your debut album on Dark Entries, which first came out as a cassette on Obsolete Future. What was that process like? How long did it take, where did you record it, and how was it different from the music you'd worked on previously?</b>\n\nThe album consists of an assortment of tracks I had made over the year previous to the cassette release of <i>Meditations/Industry</i>. Conor [Walker] and I digitized what I had on tape and when we put it all together it made for a well-fitting C90 cassette, so we released almost all the tracks in their entirety. At the time my studio was the other half of my bedroom, and honestly it was a great setup, it made mixing really easy. The music I had been working on before was similar I think, but one of the only recordings I have left from that time is on YouTube (look up \"<a href=\"https://www.youtube.com/watch?v=m7MiOqmuHQ8\">IFM demo track</a>\").\n\n<b>What's it like making this kind of music in Austin? Are you a member of a community or more of a lone wolf? </b>\n\nThere's a handful of freaks down here keeping it real, in Austin and across TX. We've been throwing parties and growing a small but dedicated community of dancers and weirdos. It's great right now, and I think we can keep this fire burning. \n\n<b>What are you up to next?</b>\n\nGot a couple singles in the works, another album is also in the works, some tracks here and there, some collaborative efforts with Sam De La Rosa and Domokos. Currently working on my own solo stuff as always, got a few shows lined up out of state, which is cool. Doing mixes and keeping up with our show TimeLife MethRave on IFM.\n",
+    "blurb": "Weirdo sounds from the Texas DJ and producer. \r\n"
+  }
+}

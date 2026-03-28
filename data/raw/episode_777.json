@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "777",
+  "url": "https://ra.co/podcast/777",
+  "id": "777",
+  "__typename": "Podcast",
+  "title": "RA.777 Flora Yin-Wong",
+  "date": "2021-04-25T22:00:23.000Z",
+  "fileSize": 147430599,
+  "duration": "01:01:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra777-flora-yin-wong-cvr.jpg",
+  "contentUrl": "/podcast/777",
+  "tracklist": "Riar Rizaldi - Istana\nSaint Abdullah - In God's Image (ft. Jordan Reyes)\n????????? ??????? - ???? ?? ??? • ???????? ?1 \nTardast -Azoon\nWitch Trials - Child\nFlora Yin Wong - Oath\nVTSS - Goin Nuts ft. LSDXOXO\nThoden - Glint\nMr Zgori - Lilocox\nBeneath - A Shrill Manner\nOldyungmayn - Al wad3 1 \nBaby T - Portra (Homemade Weapons Remix)\nKlangkuenstler - Weltschmerz\nSophia Loizou - Sylphonia\nChapel - coroner\nEstelle Schorpp - Bagdad IXème Siècle\nFelisha Ledesma & Angelo Harmsworth - PDA\nIppu-Do - Aqua Nostalgy\nYas Kaz - uite sizunde sizunde uite",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1036855894",
+  "keywords": "Liturgy, Holy Palm, Saint Abdullah, Sophia Loizou, Witch Trials, Lee Ufan, Oldyungmayn",
+  "artist": {
+    "id": "42909",
+    "__typename": "Artist",
+    "name": "Flora Yin-Wong"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Flora Yin-Wong's first book, <i>Liturgy</i>, offers \"histories of healing and intuition,\" blending ideas and images from across traditions and religions. OK, but this is a DJ mix, you say, why are we talking about a book? The approach outlined above makes for a neat way to describe Yin-Wong's art as a whole. Her work is highly collagistic, from the jagged club music she became first known for to the abstract travelogue of <a href=\"/reviews/25338\"><i>Holy Palm</i></a>, where samples and field recordings she made around the world are ripped from their original text and combined with unrelated sounds, gaining new meaning in the process.\n\nSo goes for her DJing, including this mix, which presents a perspective on electronic music where ambient and club collide, interact and sometimes intertwine. Even the mixing is unconventional—sometimes there's a sharp crossfade, other times the songs seem to melt and meld together perfectly. Describing her DJing <a href=\"https://polymerzine.club/2020/07/26/flora-yin-wong/\">once</a>, she said it was like \"music journalism for the dance floor.\" This mix, full of strange and alluring tracks from key (and sometimes underrated) acts such as Saint Abdullah, Sophia Loizou, Witch Trials and Oldyungmayn features plenty of sounds to learn about, put together with care and artful touch.\n\n<b>What have you been up to recently?</b>\n\nRecently, mostly working on commissions like a composition for a video for one of my favourite artists, Lee Ufan of the Mono-ha movement, a clock concept piece for Berlinerfestspiele/Atonal and a score for a theatre performance in Rome and Turin. A bit of writing, making clothes, growing things, reading Gogol, McKenzie Wark and Mishima, baking cute things, trying to not go mental.\n \n<b>How and where was the mix recorded?</b>\n\nAt home in London where I’ve just moved flats as the studios (s/o Five Miles, Red Bull, Spitfire) I usually work from are closed. RIP.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI was hoping to bring together different aspects of general favourites, what I've been listening to—some new, some very old. I was also trying to be restrictive for a cohesive narrative rather than smashing everything in, but probably did that in the end anyway.\n\n<b>You have a book coming out—can you tell us about it?</b>\n\nThe book is a collection of non-fiction, short fiction, false myths, uncanny memories and abstractions that I wrote over recent years. It attempts to bridge themes like archaic belief systems with psychological illness, delusions, with geographical lore etc. Released as the first of a series of books published by PAN x Primary Information, it features found imagery as well as photos I've taken.\n\n<b>How does your writing practice relate or interact with your musical practice?</b>\n\nMy writing used to be much more investigative and journalistic, but I've always wanted to go into more fictional writing... both my music and written work always return to cover the same themes (as aforementioned) that I find deeply in tuned with.\n\n<b>What are you up to next?</b>\n\nWill be going somewhere remote to record an EP for a label commission based around local ecology and field recordings, and my <a href=\"https://primaryinformation.org/product/liturgy/\">first book</a> being published via PAN x Primary Information in summer.",
+    "blurb": "Beguiling club sounds from a master collagist."
+  }
+}

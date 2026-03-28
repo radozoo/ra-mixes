@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "918",
+  "url": "https://ra.co/podcast/918",
+  "id": "918",
+  "__typename": "Podcast",
+  "title": "RA.918 Soul Summit",
+  "date": "2024-01-07T23:00:11.000Z",
+  "fileSize": 172408661,
+  "duration": "01:11:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra918-soul-summit-cpr.jpg",
+  "contentUrl": "/podcast/918",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra918-soul-summit",
+  "keywords": "",
+  "artist": {
+    "id": "104834",
+    "__typename": "Artist",
+    "name": "Soul Summit Music"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Soul Summit is a New York institution. Soul Summit es una institución de Nueva York. The DJ trio have been putting on a summer festival in Brooklyn's Fort Greene park for well over a decade now, and those gatherings have become a yearly house music pilgrimage for fans from all over the Five Boroughs. The party embodies the ethos of house music: free for everyone, open to families both blood and chosen, a place where everyone is welcome to groove (or just relax) to uplifting, old-school dance music with inspiring lyrics and bumping basslines.\n\nSadiq Bellamy, Tabu and Jeff Mendoza have created something truly special, and more and more lately, they've been spreading their gospel outside the park, too. They've become residents at Nowadays, where this <i>RA</i> Podcast was recorded as part of a Mister Sunday party. It was also released as part of the Mister Saturday Night's <a href=\"/news/79809\" target=\"_blank\">cassette box set</a> to celebrate the party's 15th birthday. This one features an hour of the cassette's 90-minute runtime, plus an additional 20 minutes only available here. It captures this trio at their soulful best, letting vocal tracks play out long and leisurely with expert blends and gentle transitions. The feelings of warmth, love and welcome land with every kick drum and flow through every bassline.\n\n<b>What have you been up to recently?</b>\n\nWe've been planning different events to bring people together.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nIt's a recording from Mister Sunday. We love playing the party. It has always been about bringing people together.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nEarly outdoor hip-hop parties, The Loft and late '80s and '90s house music parties.\n\n<b>Can you tell us how Soul Summit got started?</b>\n\nWe have known each other for over 25 years and have played numerous parties together. One night at Tabu's house in Brooklyn, we decided to actually throw a party together in the park, after talking about it for months. The goal was to bring people together from various backgrounds, ages and races. Also, to give recognition and respect to house and dance music artists, which they deserve. Ultimately, this led to the creation of the Soul Summit Music Festival in Fort Greene Park.\n\n<b>How long have you been DJing and what do each of you guys do individually when you’re not DJing together?</b>\n\nJeff Mendoza: When I'm not spinning, I collect and sell vinyl records. I've been constantly DJing at parties since the '90s, but started DJing years before then.\n\nSadiq: When I'm not DJing I'm usually researching world history (African studies in particular), exploring foods (such as Thai, Ethiopian and Indian) and forever in search of music such as rare soul, Latin, jazz, funk and African house, over 30 years DJing.\n\nTabu: When I'm not DJing, I like cycling, making vegan desserts, reading financial and marketing blogs and materials, listening to music on analogue stereo equipment and exploring the mind body connection. I've been DJing for well over 25 years. \n\n<b>What is special about Nowadays/Mister Sunday to you?</b>\n\nNowadays is a sanctuary, and the club has built a loyal following the old-fashioned way: through customer service and respect for its patrons. The no-nonsense policy about consent and harassment makes it a haven for all. The space is maintained nicely, the food and beverages  not least, the sound system is top notch and is always being upgraded.\n\nMister Sunday is one of those unique situations where you can express yourself musically. It's a perfect storm of people coming together to dance outdoors to music being played on a crazy sound system.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\n<a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">Doctors Without Borders</a>.\n\n<b>What are you looking forward to in the near future?</b>\n\nDoing more events like Mister Sunday.",
+    "blurb": "The sound of New York in the summer."
+  }
+}

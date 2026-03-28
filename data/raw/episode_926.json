@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "926",
+  "url": "https://ra.co/podcast/926",
+  "id": "926",
+  "__typename": "Podcast",
+  "title": "RA.926 FAUZIA",
+  "date": "2024-03-03T23:00:31.000Z",
+  "fileSize": 151980728,
+  "duration": "01:03:19",
+  "imageUrl": "https://static.ra.co/images/podcast/fauzia-podcast-full-formats-9261x1.jpg",
+  "contentUrl": "/podcast/926",
+  "tracklist": "FAUZIA - ????\nNYX & Laura Misch - Hornbeam\nFAUZIA - ????\nRAT HEART - ?????\nFAUZIA - ????\nFAUZIA - ????\nRAT HEART - ????\nFAUZIA - interlude\nCharlemagne Palestine - Bosendorfer + Voice Take One \ndj lostboi - Little Prince\nFAUZIA - ????\nMica Levi & Oliver Coates - Pre-Barok\nJean-Michel Blais - Le Lac (Matthias & Maxime OST) FAUZIA - ????\nFAUZIA & OPAL - ????\nTirzah - Tectonic (FAUZIA remix)\n\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra926-fauzia/",
+  "keywords": "",
+  "artist": {
+    "id": "78749",
+    "__typename": "Artist",
+    "name": "FAUZIA"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "FAUZIA is an artist of many moods. The UK talent moves from IDM to soul on her NTS Radio residency, while her club DJ sets reveal her love for '90s-style breaks, electro and bass-heavy sounds. In the studio, she explores her softer side through <a target=\"_blank\" href=\"https://fauzia.bandcamp.com/music\">self-released</a> homespun dub and ambient jungle.\n\nIn recent years, she's gravitated towards live performances. Her gossamer vocals, one of her strongest suits, cuts through live instrumentation like a hummingbird in agile flight. In 2020, the London-based talent <a target=\"_blank\" href=\"https://mixmag.net/feature/fauzia-dj-producer-interview-feature-mix\">told</a> <i>Mixmag</i> that she was done being categorised as a \"dance music\" artist—and so far, she's succeeded. While she incorporates clubby touchstones into her work, there's a deep level of cross-genre knowledge and blending at play.\n\nFAUZIA's <i>RA</i> podcast makes that clear. Free of any four-to-the-floor music, it moves from experimental jazz to orchestral melodies to R&B ballads for a thoughtful and introspective journey full of her own unreleased music that points towards her newer interest in composition. This is music to be felt, so let your guard down and let it wash over you.\n\n<b>What have you been up to recently?</b>\n\nLearning jazz theory, playing piano, writing music. I just got back from a music residency in Kenya (thanks to Extra Soul Perception). It was a life-changing experience and has left me feeling very inspired.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI did the mix on Ableton. Originally I wanted to do a mix of my own production and compositions, but I decided to open it up and include some tracks that have inspired me, as well as things I'm enjoying at the moment. So it’s a mix of demos, songs from friends and other faves.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nI'm going to say Rupture. I played a few years ago when I was starting off as a DJ and it was so incredible to play at a party dedicated to jungle and drum & bass. I had never seen such a range of age groups in one space, all loving the same thing.\n\n<b>You started releasing music at the start of the pandemic. How much has music production remained a part of your creative practice since?</b>\n\nI still produce, and although I haven't released, I've contributed to some great records. I was fortunate to receive some funding in 2022 which set me off my journey as a composer. So I've been learning piano the last two years, and mostly writing on there.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nThe genocide on Palestinians—it's disgraceful that this is happening before our eyes. Free Palestine.\n\n<b>What are you looking forward to in the near future?</b>\n\nFinishing my album. I'm doing a residency at Pioneer Works in September. Composing my first orchestra performance.\n",
+    "blurb": "A poignant journey through experimental jazz, aqueous downtempo and lush ballads from a one-of-a-kind producer."
+  }
+}

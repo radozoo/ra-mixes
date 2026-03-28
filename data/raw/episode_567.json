@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "567",
+  "url": "https://ra.co/podcast/567",
+  "id": "567",
+  "__typename": "Podcast",
+  "title": "RA.567 Pablo Mateo",
+  "date": "2017-04-10T00:00:48.000Z",
+  "fileSize": 154408963,
+  "duration": "01:04:14",
+  "imageUrl": "https://static.ra.co/images/podcast/ra567-pablo-mateo-cvr.jpg",
+  "contentUrl": "/podcast/567",
+  "tracklist": "Kassem Mosse - Shaqued\nBasic Soul Unit - Swept Up\nLevon Vincent - Launch Ramp To The Sky\nMoritz Von Oswald Trio - Blue Dub \nJichael Mackson - Space\nMarcelus - Friction \nVoices From The Lake - 258 B\nArkvs - Politics Of Greed\nAnxur - Volo 2\nDasha Rush - Sail Away To Her\nMarko Fu¨rstenberg - 2006\nPeter Van Hoesen - Attribute One\nArtefakt - Transit\nSwedish Naan Boys - Portal Of Salvation\nSkee Mask - Panorama\nGraze - Circadia\nDonato Dozzy, Tin Man - Test 7\nTames - Episodes\nFluxion - Eruption",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/316965679",
+  "keywords": "Die Orakel, Lackrec, Uncage, Wrong Copy, MDR, ",
+  "artist": {
+    "id": "47213",
+    "__typename": "Artist",
+    "name": "Pablo Mateo"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Little is known about Pablo Mateo, but that hasn't stopped him from picking up a strong following. Spread across labels such as <a href=\"/reviews/16808\">Die Orakel</a>, LACKREC. and <a href=\"reviews/20369\">Uncage</a>, the Berlin-based producer's house tracks are rhythmic, direct and effective on the dance floor. When you also consider the standout techno he's produced as Wrong Copy, with an EP last year on Marcel Dettmann's MDR label, it becomes clear Mateo is an artist with exciting prospects. The majority of his gigs to date have been at home in Berlin, where he spins at venues like ://about blank, Griessmühle and Salon Zur Wilden Renate, but it feels inevitable that he'll soon become an international concern.  \n\nThe sound of his RA podcast is moodier than many of his most popular productions, which include breezy tunes like \"Je Suis\" and \"Finalcut,\" but the killer groove remains. Taking in atmospheric tracks from the likes of Jichael Mackson, Peter Van Hoesen and Skee Mask, RA.567 is a heady ride through tracks Mateo says he'd use to show people how \"beautiful dance music sounds to me.\"\n\n\n<b>What have you been up to recently?</b>\n\nAfter my EP on Uncage I've been working on a new label for the last couple of months. It's called Artful Rifle. The first record is in the pressing plant right now, and will be released within the next few weeks.\n\n<b>How and where was the mix recorded?</b>\n\nI sorted tracks back and forth for a few days to see how they work and fit together. Then I got two CDJs and a Xone:92 from a friend and recorded the mix with headphones on my living room floor, between my plants, without wearing socks—which you can probably hear.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nFor the mix I chose songs that I would show somebody to demonstrate how beautiful dance music sounds to me. For example, Marcelus's \"Friction\"—no matter in which venue I play this track, people react in a particular way. The track does something to the room—it creates some kind of peace on the dance floor. I always get the impression that, through this track, dancers start to introvert and concentrate on this state and what the music does to them.\n\n<b>Judging from your <a href=\"https://www.facebook.com/pablomateoberlin/\">Facebook page</a>, you seem fond of sharing music. What are you listening to at the moment?</b>\n\nI'm currently into old Brian Eno productions again. And I listen a lot to the last album by Kangding Ray on Raster-Noton (I'm running a bit late, I know). MF Doom always suits, and I recently discovered the narrative art and music by Laurie Anderson.\n\n<b>You've been gigging quite a bit across Germany over the last couple years. Are there any lesser-known clubs people should check out?</b>\n\nThere are a few venues coming to my mind, but you should definitely check out Goethebunker in Essen. It's an old air-raid shelter from WWII. Before the space was turned into a club, it was a store for horses' needs. Their Funktion-One system is well adjusted and over-sized. The sound becomes physical immediately without being too loud. And the team running the place is truly committed. Full support!\n\n<b>What are you up to next?</b>\n\nRight now I'm working on a conceptual techno LP, which I also want to translate into a live set. It was supposed to be dedicated to the Japanese anime <i>Ghost In The Shell</i>, from 1995, but after the bad remake came out I think I need to find a new source of inspiration. We will see...\n",
+    "blurb": "Murky beats from a rising talent. "
+  }
+}

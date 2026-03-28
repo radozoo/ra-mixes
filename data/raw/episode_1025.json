@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1025",
+  "url": "https://ra.co/podcast/1025",
+  "id": "1025",
+  "__typename": "Podcast",
+  "title": "RA.1006 Collabs 3000 (Speedy J & Chris Liebing) ",
+  "date": "2025-09-28T22:00:50.000Z",
+  "fileSize": 0,
+  "duration": "03:01:51",
+  "imageUrl": "https://static.ra.co/images/podcast/collabs3000.png",
+  "contentUrl": "/podcast/1025",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra1006-collabs-3000",
+  "keywords": "",
+  "artist": {
+    "id": "1703",
+    "__typename": "Artist",
+    "name": "Speedy J"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When Speedy J <a href=\"https://ra.co/features/1214\" target=\"_blank\">described</a> his studio dynamic with Chris Liebing back in 2014, he put it bluntly: \"I try to piss him off a little.\" The result? Dance music that's as functional and precise as Liebing demands, with just enough chaos to keep it interesting. That tension has defined the duo's partnership, Collabs 3000, since their first releases, and it's alive and well on their debut <i>RA Mix</i>. \n\nBoth artists are techno heavyweights in their own right. Jochem Paap, AKA Speedy J, helped Europe slow down after the breakneck '90s, proving that techno could chug as well as pummel. Liebing, meanwhile, commanded his popular label CLR and went from transforming schranz into the <a href=\"https://ra.co/features/4436\" target=\"_blank\">hard techno sound</a> that recently swept up a younger generation of ravers. \n\nThe Collabs project began life in <a href=\"https://www.discogs.com/release/203781-SpeedyJ-_-Adam-Beyer-Collabs-100?srsltid=AfmBOopxFb1iHrNgUAe2ShAsU6ZrzDkLnFjlL5GP_mWnWY4AQy_41PBl\" target=\"_blank\">2003</a> as a white-label experiment. Paap, restless after a decade of producing solo—which included some of the '90s most seminal techno records, from tracks on Warp's <i><a href=\"https://ra.co/reviews/35212\" target=\"_blank\">Artificial Intelligence</a></i> compilation to his 1993 debut album, <i><a href=\"https://ra.co/reviews/35212\" target=\"_blank\">Ginger</a></i>—turned to collaboration as a new creative spark. \"I usually don't view collaboration as the sum of two outputs,\" he told <i>Tone Glow</i> earlier this year, \"but as something that only exists in the combination of those two people.\"\n\nAs a pair, Collabs 3000 undeniably has its ear trained on the big room. Paap and Liebing are both former Berghain regulars, and the Berlin club's influence is clear across RA.1006: taut, muscular techno, or \"effective and structured\" in Liebing's words, with Paap injecting the right amount of unpredictability. Their 2005 full-length, <i>Metalism</i>, remains a landmark: polished, uncompromising and dynamite for any large sound system.\n\nWith the album now remastered for its 20th anniversary, Collabs 3000's <i>RA Mix</i> brings that same ferocious energy into sharp focus: smouldering textures, peak-time pressure and three unrelenting hours of classic techno. Crank it loud. -<i>Bella Aquilina</i>\n\n<b>What have you been up to recently?</b>\n\nChris Liebing: Jochem and I have been working on a new EP and I've re-mastered our joint album, <i>Metalism</i>, for its 20th anniversary, which will be released this fall. Apart from that I've been finalising my own album, so things have been pretty busy next to touring.\n\nJochem Paap: Been doing some deep dives in the studio, got some nice stuff in the pipeline.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nCL: This mix was recorded in June at one of the best festivals for underground techno in the Netherlands, 909, in Amsterdam. Jochem and I have been playing there for many years and we loved every second of it. When we play, we never really know what's going to happen. We're very much in tune with each other since we've been doing this for over 20 years now. The beauty of it is that every set is completely unique.\n\nJP: During the last 20 minutes,it started to pour and everyone got absolutely drenched—but the crowd stayed and it totally united everyone. It became one of those memorable festival moments. One of the most fun Collabs 3000 sets we've played in recent years.\n\n<b>What are you looking forward to in the near future?</b>\n\nCL: More Collabs 3000 sets, a great tour to North and South America that I'm going on in the fall of 2025 and then releasing my own album next year with some singles coming out before. The label work also never stops, so expect some great releases on CLR.\n\nJP: More studio time!\n\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nCL: I'm convinced that we can save our environment, our health and that we can be kinder to animals if we change our way of eating. I've been a vegan for over 15 years and I wish more people would realise that veganism would solve a lot of problems on this planet. \n\nJP: Take good care of the people around you.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nCL: One club would have to be Berghain for I've played the longest and most intense sets of my life there. Apart from that my most memorable parties were in the mid-to-late '90s at the Omen club in Frankfurt.They formed my understanding of techno until today.\n\nJP: The +8 Rave on the South Pole in 1991.\n",
+    "blurb": "Three hours of incendiary techno, as two veterans go head-to-head."
+  }
+}

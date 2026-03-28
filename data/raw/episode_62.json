@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "62",
+  "url": "https://ra.co/podcast/62",
+  "id": "62",
+  "__typename": "Podcast",
+  "title": "RA.062 Joris Voorn",
+  "date": "2007-07-16T00:13:43.000Z",
+  "fileSize": 66530740,
+  "duration": "00:55:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra062-joris-voorn-cover.jpg",
+  "contentUrl": "/podcast/62",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra062/",
+  "keywords": "",
+  "artist": {
+    "id": "625",
+    "__typename": "Artist",
+    "name": "Joris Voorn"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Joris Voorn is a producer, a DJ, a live act and a visual artist. Like many Dutchmen, he makes techno with a nod to Detroit, first pricking up ears in 2004 with the release of the ‘The Lost Memories’ EPs which included the big dancefloor cuts ‘Missing’ and ‘Incident’, the latter of which became one of the most hammered anthems of the year. Since then Voorn has released two full lengths albums, ‘Future History’ and this year’s ‘From a Deep Place’, both of which fused together deep house, old skool Detroit and even some ambient landscapes.\n\nAside from his own bleeps and bloops, Voorn also spins records. Last year his debut mix compilation for Belgian club Fuse headed in a more minimal direction, fusing together Detroit classics from Robert Hood, Carl Craig and Jeff Mills with newer outings from Sleeparchive, Marc Houle and Matthew Dear. Those who’ve heard 'Fuse' or one of Voorn’s high energy live shows might be surprised by his RA podcast though: This one is fifty-four minutes of deep house meets ambient with an emphasis on silky synths and even silkier vocals.\n\n<b>What have you been working on recently?</b>\n\nI just finished my remix of Kevin Saunderson's 'Bassline' track, which I hope will be released soon. On top of that I've been working on my new live set which will involve a laptop, something not so easy after playing live with hardware for more than five years.\n\n<b>Where was the mix recorded?</b>\n\nIn my studio in Rotterdam. Since I don't have any DJ setup in there anymore I had to work with Ableton again as with my Fuse mix CD. The good thing is that it allowed me to chop up tracks, rearrange them completely and layer tracks together to create a unique mix. I think my favourite part is the mix of Raz Ohara's 'Whitney Ma' and Radio Slave's 'Play to Win' remix. They create a magical moment together.\n\n<b>What are you up to next?</b>\n\nI'd hoped to have a bit of a relaxing summer, but it's fully booked with gigs all around Europe, so lots of flying to do again.",
+    "blurb": "This week’s podcast is an hour of silky smooth house from Joris Voorn."
+  }
+}

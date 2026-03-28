@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "82",
+  "url": "https://ra.co/podcast/82",
+  "id": "82",
+  "__typename": "Podcast",
+  "title": "RA.082 Goon & Koyote",
+  "date": "2007-12-10T18:54:56.000Z",
+  "fileSize": 66375011,
+  "duration": "00:55:18",
+  "imageUrl": "https://static.ra.co/images/podcast/ra082-goon-koyote-cover.jpg",
+  "contentUrl": "/podcast/82",
+  "tracklist": "01. Intro MJ\n02. Romanthony - Everybody Dancing / Soundhack - Double Hammer\n03. Stakker - Humanoid (Feadz 2007 Mix)\n04. Ravey - Think\n05. <a href=\"dj-page.aspx?id=527\">Todd Terry</a> - In The Name Of Love - unrealeased\n06. <a href=\"dj-page.aspx?id=569\">Armand Van Helden</a> - Touch Your Toes / The Unknown D.J. \n07. DJ Slip - X-men\n08. Bobmo coming out on Eurogirls Arcade Mode / Institubes\n09. Blapps Posse - Bus It (It's time to get b'zy)\n10. TC Crew - Once Bitten\n11. Steve Silk Hurley feat J. Principle - Cold World\n12. Nu Shooz - Point of no return\n13. Rave Tool\n14. 808 State - Flow Coma (<a href=\"dj-page.aspx?id=828\">Aphex Twin</a> remix)\n15. 2 in a Room - Wiggle it (Club mix)\n16. 808 State - Cubik\n17. Adam Kesher - Modern Times (Goon & Koyote remix) - Disque Primeur\n18. Fast Eddie (Big Ol' Booty Remix)\n19. Drexciya III - Aquatic Bata Particles - <a href=\"record-label.aspx?id=1079\">Submerge</a>\n20. Gemini - For The Crazy - <a href=\"record-label.aspx?id=1094\">Relief Records</a>\n21. Robot Man - Do Da Doo (remix)\n22. Soundhack - Soundhack #2 untitled\n23. J.M. Silk - All In Vain - Jack Trax\n24. U.P.I - She's a Freak - Natural Records\n25. <a href=\"dj-page.aspx?id=841\">Modeselektor</a> - Sucker Pin - <a href=\"/record-label.aspx?id=737\">BPitch Control</a>\n26. <a href=\"dj-page.aspx?id=100\">Cajmere</a> - House Werk - <a href=\"record-label.aspx?id=1094\">Relief Records</a>\n27. Julian \"Jumpin\" Perez \"Jack Me till I Scream\" (DJ International)\n28. Goon & Koyote \"no name yet\" (Disque Primeur)\n29. DJ Funk \"Knock Knock\" (Cosmic Records)\n30. Thomas Bangalter \"Spinal Beats\" (Roulé)\n31. Juiceboxxx and Dre Skull \"Center Stage\" (Vicious Pop Records)\n32. Chaka Khan \"I feel for you\"\n33. The Unknown DJ \"808 Beats\" (Techno Hop)\n34. Vanity 6 \"Nasty Girl\"\n35. Outro MJ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra082/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:0"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "For many years, Goon & Koyote were the biggest French importers of booty and ghetto tech in France, inviting the likes of DJ Godfather, Bitch Ass Darius and Disco D to parties at clubs like Rex Club and Le Triptyque. But so far they’re best known for <i>Diamond Grills</i> from 2005, the first ever French booty mixtape, which mixed – count ‘em – 150 tracks over 70 minutes. Hosted by DJ Nasty, reportedly the filthiest man in Detroit, what was cool about the mix was that alongside a double dose of booty, electro, Miami bass and ghetto house, the mix also found space for non-booty music from the likes of R. Kelly, Mr. Oizo and Three 6 Mafia. Totally party-tastic, but very clever with it.\n\nGoon & Koyote’s RA Podcast is on a similar tip. Kicking off with the (now creepy) sample of Macaulay Culkin from Michael Jackson’s ‘Black or White’ video and a couple of touch-your-toes bass tracks, you think the mix is going to be all about the sleaze…but it’s more than that. Not just a one-dimensional homage to rear ends, RA.082 mixes up house, electro, acid, soul, techno with the booty and tech and ends up somewhere… (good god) intelligent. Turn it up and enjoy. \n\nThree questions for G&K:\n\n<b>What have you been working on recently?</b>\nWe've just finished our first record which will be released on <a href=\"http://www.disqueprimeur.com/site.html\">Disque Primeur</a>. There will be three tracks + two remixes from Dre Skull and DJ Guy.\n\n<b>Where was the mix recorded?</b>\nThis mix was recorded in November 2007 at home in Paris, République. \n\n<b>What are you up to next?</b>\nPreparing a live show and setting up a tour in Europe and Australia. Also we are resident DJs on WRCP 93.9 Radio Campus Paris every month. Check out our show at <a href=\"http://www.radiocampusparis.org\">Radio Campus Paris</a>, Saturday nights from 11pm-midnight GMT+ 1. ",
+    "blurb": "RA.082 is a lesson in booty bass from Parisians Goon & Koyote.\r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "136",
+  "url": "https://ra.co/podcast/136",
+  "id": "136",
+  "__typename": "Podcast",
+  "title": "RA.136 The Orb",
+  "date": "2009-01-08T09:00:10.000Z",
+  "fileSize": 67538952,
+  "duration": "00:56:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra136-the-orb-cover.jpg",
+  "contentUrl": "/podcast/136",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra136/",
+  "keywords": "orb, the orb, beatless, chillout, chill, out, ambient",
+  "artist": {
+    "id": "119",
+    "__typename": "Artist",
+    "name": "The Orb"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The first line of The Orb's <a href=\"http://en.wikipedia.org/wiki/The_Orb\">Wikipedia entry</a> pretty much says it all: \"The Orb are an English electronic music group known for popularising chill out music in the 1990s.\" For much of the decade—and on into the '00s—the group has been among the preeminent purveyors of ambient house, stitching together little fluffy clouds and perpetual dawns that seemed to stretch out into forever.\n\nSo, as revelers continue to come down from the after-effects of marathon New Year's Eve parties, we thought it only made sense to go to the source for the ultimate club music detox soundtrack. Ambient to its core, The Orb have put together a slow-moving (and mostly beatless) podcast for RA that should bring you gently into 2009—and get you ready for the year to come. Sit back, relax and enjoy the ultraworld.\n\n<b>What have you been working on recently?</b>\n\nI've been playing guitar in Stanley Kubrick Goes Shopping alongside Dennis Morris from the legendary British black punk band Basement 5. I'm also writing and producing with LA band The Daylights, East London teenage indie band The Screaming 66, all-female electro band Client, my own band Vertical Smile, and writing with and for various other amazing artists.\n\n<b>How and where was the mix recorded?</b>\n\nWe did it in November at my home studio called The Dreaming Cave in Wandsworth, London. It's called The Dreaming Cave because we are in close proximity to a Nod. There are four Nods in South London. A Nod is a pre-Roman indigenous oracular temple, similar to Delphi in Ancient Greece, dedicated to the Celtic god Nodern, who is a god of dreams and visions. It's actually where the phrases \"land of nod\" and \"nodding off\" originate!\n\n<b>Can you tell us a little about the mix?</b>\n\nAlex came up with about 75% of the track selection and myself the rest. Then we—along with our engineer David Nock—arranged and mixed in other sounds and atmospheres, our only remit being to make it beatless and very ambient. We had more spoken word on at first but then adjusted the feedback knob to a more ambiguous dimension!\n\n<b>What are you up to next?</b>\n\nIn February I go to Spain to work with various artists on writing and production projects. I can't mention who just yet!\n\n<b>How did your hook up with Kompakt start?</b>\n\nWe met Thomas Fehlmann years before when we remixed German band Marathon, and he and Alex have remained firm friends and collaborators since. It was Thomas that suggested Kompakt.\n\n<b>With Thomas Fehlmann's departure from The Orb, is the Kompakt relationship finished?</b>\n\nThere are no concrete fixtures with The Orb apart from Alex. All things are possible!\n\n<b>Do you have any plans to tour this year?</b>\n\nYes!\n\n<b>What can people expect from one of your live shows at the moment?</b>\n\nLight and sound from beyond the fringe!\n\n<b>What did Dreadzone's Tim Bran bring to the table on your latest record?</b>\n\nTim is a very talented writer and keyboard wizard as well as being very gifted on the mix!\n\n<b>Can we expect to hear more from The Fireman?</b>\n\nThere are some surprises in store...",
+    "blurb": "RA goes beatless: The Orb provide a chillout podcast to start off 2009."
+  }
+}

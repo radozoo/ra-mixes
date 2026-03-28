@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "564",
+  "url": "https://ra.co/podcast/564",
+  "id": "564",
+  "__typename": "Podcast",
+  "title": "RA.564 KABLAM",
+  "date": "2017-03-20T00:00:11.000Z",
+  "fileSize": 140253961,
+  "duration": "00:58:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra564-kablam-cvr.jpg",
+  "contentUrl": "/podcast/564",
+  "tracklist": "The Knife - Hangin' Out \nNi-Ku - '----'oo----'\nSwan Meat - Intention Tremor\nMya Gomez - Sohotsohot\nAmnesia Scanner - AS Brieth (ft. Colin Self)\nSoda Plains - Espalho Meu Passo\nMobilegirl - unreleased\nAbyss X - Fang\nKABLAM - Vanmakt\nMichael Nyman - The Garden Is Becoming a Robe Room\nEvanescence - BMTL (Shyshaker Dusk Edition)\nChino Amobi - Chino AS Benedict ft. Nkisi\nCelyn June - Thorax Drive\nToxe - unreleased\nRihanna - Sex With Me (rip ME edit)\nHAJ300 - Du tappar det sa latt\nDozer - KBZM002\nSissel Wincent - wow engelska\nM.E.S.H. - Follow & Mute (estoc detox)\nKamixlo - Steal her manz ck edit\nSwan Meat & Erisa - I offered you love\nSteve Miller Band - Serenade\nThe Knife - Hangin' Out (Speziale RA readers I'll twist yr dick version)\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/313368015",
+  "keywords": "JANUS, Kajsa Blom, club, Furiosa, The Knife, Dromfakulteten",
+  "artist": {
+    "id": "51830",
+    "__typename": "Artist",
+    "name": "Kablam"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In an <a href=\"http://www.thefader.com/2016/05/04/kablam-janus-furiosa-interview\">interview</a> with <i>FADER</i> last year, Kajsa Blom, AKA KABLAM, said that for her the worst kind of music is that which doesn't affect her. \"I'd rather listen to something really awful—something that makes me feel disgust,\" she said. Blom is one of the leading lights in the so-called experimental club scene, a geographically and stylistically diffuse group of artists who've bubbled to the surface recently with music characterised by its desire for impact. For the past few years, Blom has been making herself heard through her involvement with Janus, the highly influential party, record label and collective based in Berlin. The idea of genres quickly becomes meaningless when considering Blom's sets at Janus. It's maybe better to think in terms of emotions—anger, joy, lust, hate etc.—which she expresses using any type of club music that fits the moment and her mood. \n\nIn that same interview, Blom said that when she was growing up, in a small village near to Gothenburg in Sweden, she channelled her anger over political and social issues into a band she played in. She later became drawn to DJing, and would edit music for her sets (something she still does today), which eventually led to producing original tracks. She built a healthy body of music on <a href=\"https://soundcloud.com/ka-blam\">SoundCloud</a>, and last year released her debut EP, <i>Furiosa</i>, through Janus. If you missed the release or you're new to Blom's music, we suggest checking out \"<a href=\"https://www.youtube.com/watch?v=l1RQQcuc2gc\">Arch</a>,\" a three-minute summary of the power and urgency you'll find in all of Blom's work. \nWhen you're done with that, put aside an hour for her RA podcast: it's a mix that demands attention. \n\n\n<b>What have you been up to recently?</b>\n\nI've been working on new music, applying for grants, trying to make a living. I'm <i>trying</i> to do music full-time. \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in my studio at Drömfakulteten in Stockholm. It's the best place in the world (my world). I recorded it using Virtual DJ and Ableton Live. Unfortunately, I don't have access to CDJs, but I tried to record a mix that sounds like how I would play on CDJs. A bit of a backwards method, haha.\n\n<b>Can you tell us about the idea behind the mix?</b>\n \nI started to collect new music as soon as I got the request, and a bunch of talented people sent me stuff, and then I just went from there. It turned out quite intense and all over the place. The intro and the outro, which is a classic by The Knife, is dedicated to the RA readers. \n\n<b>You tend to move between styles, tempos, etc. in your sets. Does this require much pre-planning on your part?</b>  \n\nI don't like to do a lot of pre-planning when I play out. It's all about daring to try new things in the moment. \n\n<b>Which artists are you most excited by at the moment?</b> \n\nSo many! Mobilegirl, Toxe, Ziúr, Swan Meat, Negroma, HAJ300, rip ME, Jackie, Sonja Tofik, Coucou Chloe, Fantasy Face, Arca, Lotic, etc.!\n",
+    "blurb": "The Janus artist unleashes chaos. \r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "275",
+  "url": "https://ra.co/podcast/275",
+  "id": "275",
+  "__typename": "Podcast",
+  "title": "RA.275 DJ Deep",
+  "date": "2011-09-05T00:01:24.000Z",
+  "fileSize": 72688300,
+  "duration": "01:00:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra275-dj-deep-cvr.jpg",
+  "contentUrl": "/podcast/275",
+  "tracklist": "Murphy Jax - Smoodrama - Clone\nOsunlade - The 8th Chakra - Yoruba\nRootstrax - Harlequin (Kerri Chandler edit) - Deeply Rooted House\nGerd feat. LB BAD - H.O.U.S.E (Jacob Korn remix)\nFast Eddie - Time to Jack - DJ International\nEmika - Count Backwards (Marcel Dettmann remix) - Ninja Tune\nSkudge - Melodrama - Skudge\nSplice - Trouble - Farden\nAnthony Shakir- Travellers (MRSK remix) - Rush Hour\nMike Dehnert - Montage - Fachwerk\nBen Klock - You - Klockworks\nArnaud le Texier - Ingredients - Children of Tomorrow\nRoman Lindau - Sub Suggestion - Fachwerk\nRejected - For the People (Ben Klock remix) - Rejected\nFrancois X - Code Red (Marcel Dettmann remix) - Deeply Rooted House",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra275/",
+  "keywords": "DJ Deep, house, techno",
+  "artist": {
+    "id": "1879",
+    "__typename": "Artist",
+    "name": "DJ Deep"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Cyril Etienne des Rosaies has been a part of the Parisian house and techno scene for almost two decades. He got his initial break in the first half of the '90s playing for Laurent Garnier at his Oz, Zoo and Wake Up parties, while schooling himself in the art of Detroit techno and NYC and Chicago house in local record stores. His first efforts in music production hit shelves in 1997 (as The Deep alongside Julien Jabre), and although the name DJ Deep has since been more readily associated with the excellent <i>City to City</i> mix CDs, Etienne des Rosaies has proffered a stream of music through labels like BBE, Distance and his own Deeply Rooted House. With regards to the latter, DRH was set up in 2004 alongside the now defunct House Music Records reissue label. Artists like Kerri Chandler, Franck Roger and Manoo formed the backbone of those early days; more recently it's been techno talent like Ben Klock, Mike Dehnert and Marcelus drawing a crowd. \n\nOld meets new, house meets techno and Deep gets, well, deep on RA.275. \n\n<b>What have you been up to recently?</b>\n\nTaking care of the label, DJing, listening and classifying about ten years of European techno records that I never had time to really organize in my collection, so that's been very inspiring.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at my dear friend Emmanuel's studio. He used to run a 12-inch record shop in Paris, and he has a nice little studio where it's cool to record. I used a DJR400, two Technics SL1200 and two CDJs. \n\n<b>Can you tell us about the idea behind the mix.</b>\n\nWell, as always when I try and record a mix, I spend a lot of time and attention in trying to present the best mix possible for music lovers. I put together a lot of records I wanted to include in the mix without thinking of how they will fit and if they will fit etc.; just stuff where I thought \"oh this has to be in the mix.\" It could be a nice classic that sounds very relevant today or a brand new track that I love. After that I have to find a path, where I can tell a \"little story\" and try and bring people into my own world if I can.\n\n<b>Can you tell us about the initial inspiration behind setting up <a href=\"http://www.electronique-spectacle.com/\">E&S</a>?</b>\n\nThe initial inspiration was meeting Jérome Barbé in his studio around 2003! He was very encouraging about trying to produce a nice unique product.The first step was to produce a great sounding rotary mixer (DJR100) as it was also harder and harder to get the vintage US ones, then came the idea of doing a portable version (DJR400).Sometimes it's not easy to convince people of how good something sounds, but if you manage to put it in a small box that you can travel with and plug it into a system it makes things much easier!\n\n<b>What are you up to next?</b>\n\nI'm really looking forward to going back to Japan in September, playing in Paris in October at Batofar with Marcel Fengler, and looking forward to playing a small party in Amsterdam during ADE. I've just started working with Uzuri Artist Bookings & Management so looking forward to that working relationship. Clone will be reissuing <i>Back in the Dark</i>EP in September, a collaborative EP between myself and Jovonn. The EP was first released back in 2000. I'm also looking forward to more releases on Deeply Rooted House. There will be a Francois X EP which includes a remix by Marcel Dettmann, out on September 12th. There will also be new EPs by Marcelus as well as Rootstrax plus more.",
+    "blurb": "A transatlantic trip through house and techno."
+  }
+}

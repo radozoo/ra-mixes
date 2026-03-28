@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "442",
+  "url": "https://ra.co/podcast/442",
+  "id": "442",
+  "__typename": "Podcast",
+  "title": "RA.442 Tin Man",
+  "date": "2014-11-17T00:00:38.000Z",
+  "fileSize": 162417931,
+  "duration": "01:07:35",
+  "imageUrl": "https://static.ra.co/images/podcast/ra442-tin-man-cvr.jpg",
+  "contentUrl": "/podcast/442",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra442/",
+  "keywords": "Johannes Auvinen, ambient, Neo Neo Acid, Vienna, techno, ",
+  "artist": {
+    "id": "10799",
+    "__typename": "Artist",
+    "name": "Tin Man"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Johannes Auvinen occupies a non-standard space within electronic music. Flick through the seven albums he's recorded as Tin Man, and you'll find ambient and classical explorations next to house and techno. Auvinen's deep, languid vocals feature on about half of his records, something that he says is essential to him, even if it's a turnoff for DJs. He's viewed as being part of the dance music underground, but is openly influenced by pop and mainstream culture. One of his other main influences is literature, and in the past Auvinen has absorbed himself in the work of a particular writer—Jorge Luis Borges, William Burroughs, F. Scott Fitzgerald—while producing an album. The Roland 303 features extensively in Auvinen's work—see 2012's <a href=\"/review-view.aspx?id=11359\"><i>Neo Neo Acid</i></a> in particular—but his acid lines tend to softly weep rather than squeal. While his contemporaries moved to clubbing hubs like London and Berlin, the California-raised Auvinen based himself in Vienna—\"I never wanted to move to Berlin or a place like that because I was afraid to see my reflection on the street too much,\" he <a href=\"/feature.aspx?1977\">told us</a> earlier this year. \"The independent electronic musician trying to make it.\" \n\nOn <a href=\"/review-view.aspx?id=15774\"><i>Ode</i></a>, his latest album, he considered the post-rave state, and wrote seven downcast instrumental techno tracks that came bundled with vocal versions. The album's shadowy spirit carries through to Auvinen's mix for us, an almost 70-minute session that feels built for both reflection and celebration.  \n\n\n<b>What have you been up to recently?</b>\n\nThe last couple of months I have been touring around the <i>Ode</i> record I just released on Acid Test. I played in Los Angeles, San Francisco, Seattle, Pittsburgh, New York, Mexico City, Chicago, Berlin, Graz, London, Amsterdam, Moscow, and Vienna. I had the chance to work with some collaborators in different cities. All fun, but tiring as I am still recovering from a major back surgery I had this summer.\n\n<b>How and where was the mix recorded?</b>\n\nEvery other mix I have made has been vinyl only, but for this I edited it together on my computer. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI decided to mix together <i>Ode</i> with other mixes that I made at the time I was putting together the album. So, it is a mix of other mixes. The mix should show some of the musical inspiration behind the record and also show some narrative paths the record connects through.\n\n<b>With <i>Ode</i> you appeared to consider the post-rave state. What was it about this subject that interested you?</b> \n\n<i>Ode</i> is the last part of a trilogy. <i>Wasteland</i> and <i>Scared</i> were the first and second part. The big idea behind this trilogy is to extend metaphors of the fallout of the financial crisis. If the question were \"What do we do after all the money/serotonin is gone?\" My answer would be a macabre celebration of the post-crash stasis. The profiteers will rush to rebuild and find a return to the status quo. I think we, the underground, can take this moment to claim the memory of the crescendos and the melodies that marked the moments we depleted the serotonin.\n \n<b>Do you feel as though there are still fresh angles to explore on the classic Roland gear you tend to produce with?</b> \n\nThe story of the Roland TB-303’s use in electronic music can answer this question because it is famously miss-used. The machine was intended to make realistic bass accompaniment. Now it is used to make amorphous acid sounds. In electronic music all technologies can be used toward the expressive ends of music makers; synthesisers can sing, drum machines can cry. \n\n<b>What are you up to next?</b> \n\nI will be releasing some collaboration work and getting back to the studio to work on the next album.",
+    "blurb": "One of electronic music's favourite outsiders steps up. "
+  }
+}

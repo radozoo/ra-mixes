@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "697",
+  "url": "https://ra.co/podcast/697",
+  "id": "697",
+  "__typename": "Podcast",
+  "title": "RA.697 SO",
+  "date": "2019-10-07T00:00:03.000Z",
+  "fileSize": 184258591,
+  "duration": "01:16:38",
+  "imageUrl": "https://static.ra.co/images/podcast/ra697-SO-cvr.jpg",
+  "contentUrl": "/podcast/697",
+  "tracklist": "Grand River - The Question Is\nPurl - Morgonljuset glittrar i frosten\nDonato Dozzy - K6\nGlos - Cut Tongues (Blind Observatory Remix)\nDistant Echoes - Wait For Me\nØ [Phase] - Search Party\nBrothers Black - Cold Shoulder\nPARABEL - Sektor 214\nZadig - Solar Analog\nTakaaki Itoh - Beige Shift\nRefracted - Erre\nNess - Galactic Logos\nAlan Backdrop - Midrov\nJon Hester - Impermanence\nOvandra - Retrofuture\nHoavi - Cloud9\nPloy - =O ",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/692145457",
+  "keywords": "Labryinth, Nachdigital, Walking Life, ambient, techno, tokyo",
+  "artist": {
+    "id": "46367",
+    "__typename": "Artist",
+    "name": "DJ SO"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Labyrinth is a festival with the stated aim of \"achieving integration—with self and others, with nature and sound—through dance.\" That may sound lofty, but for Labyrinth devotees, the festival's combination of lush ambient music and deep, psychedelic techno, aired through huge speaker stacks in the Japanese countryside, offers something close to transcendence. SO has been a Labyrinth resident DJ for 17 years. He's also one of the festival's organisers, making him a crucial part of the Labyrinth story. In the past couple of years, his sets have been among the festival's most talked-about.\n\nThough he's synonymous with Labyrinth, SO says it was another festival—Nachtdigital in 2016—that provided one of his biggest turning points as a DJ. \"I prepared well and had a lot of really nice feedback from people,\" he says. \"After that, I had a better idea of what my style as a DJ really was.\" That style is on full display on RA.697, an immaculate, flawlessly paced mix of ambient and techno.\n\n<b>What have you been up to recently?</b> \n\nI had a European tour this summer, playing at Nachtdigital, Waking Life and also in Prague. All of those parties were really amazing. After that it's now about working hard for The Labyrinth festival. My summer is always like this. \n\n<b>How and where was the mix recorded?</b>\n\nIt's recorded at my home studio with two of CDJ-2000 nexus and Alpha Recording System Model 6700, which is a rotary mixer. \n\n<b>Can you tell us about the idea behind the mix?</b> \n\nRecording a DJ mix in a studio is like creating your own story, more than DJing facing an audience. It's a short mix, 77 minutes, but I tried to show my current style. The concept is not super clear but I tried to make it so you want to listen to it in the open-air. And I also wanted to make one organic flow inspired by the dynamics and emotions in nature. And I also considered a lot about how the journey starts and closes as a story to show wider range—it's not only just straight techno. \n\n<b>You've been a resident DJ and organiser of Labyrinth festival for a long time. How do you find a balance for the preparation to achieve those two big things?</b> \n\nIt's really hard to organize a festival and DJ at the same time. What we can do is just start preparing as early as we can. But we decided to <a href=\"/news/43611\">move the venue</a> this year, which is a big challenge. I have such a big responsibility as one of the organisers, so we decided that I'm not DJing this year so I can focus on organizing. It was a hard decision for me but DJing without enough preparation is the worst thing to do, especially at Labyrinth. We have the 20-year anniversary next year. What I'm thinking about now is just making the festival happen without any big problems for next year.\n\n<b>You've played at some festivals and parties overseas recently and do you feel the pressure of being \"the Labyrinth DJ\"?</b>\n\nThere is pressure to play as a DJ from Labyrinth of course, because if people who don't know Labyrinth are listening to my set, it's gonna be a starting point for the festival's image. But when I played at Nachtdigital in 2016, I prepared well and had a lot of really nice feedback from people. After that, I had a better idea of what my style as a DJ really was, and it motivated much more than before. It was a big turning point in my DJ life. Big thanks to Steffen who brought me there. \n\n<b>What are you up to next?</b>\n\nAfter Labyrinth, I will have another European tour in November, so I will prepare for that. And in the future, I will focus on improving my DJ skills and hope I can play more globally.\n",
+    "blurb": "Enter the Labyrinth.  "
+  }
+}

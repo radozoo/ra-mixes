@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "139",
+  "url": "https://ra.co/podcast/139",
+  "id": "139",
+  "__typename": "Podcast",
+  "title": "RA.139 Disco Bloodbath",
+  "date": "2009-01-26T09:00:58.000Z",
+  "fileSize": 118753483,
+  "duration": "01:38:56",
+  "imageUrl": "https://static.ra.co/images/podcast/ra139-disco-bloodbath-cover.jpg",
+  "contentUrl": "/podcast/139",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra139/",
+  "keywords": "disco, bloodbath, uk, party",
+  "artist": {
+    "id": "6018",
+    "__typename": "Artist",
+    "name": "Disco Bloodbath"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The Disco Bloodbath boys have risen rapidly since starting their club night back in April of 2007. Beginning in an old Caribbean restaurant in the heart of Dalston, their effervescent mix of disco, italo and early house quickly attracted a following of clubbers that fancied a change from the usual London club night. As their popularity swelled, Bloodbath were forced to change venues multiple times due to the sheer demand for a place on their dance floor, and with <i>The Sunday Times</i> recently name checking them in an article about the capital's disco renaissance, it looks like their success is set to continue.\n\nBen Pistor, Dan Beaumont and Damon Martin, who also helps out behind the counter at Phonica Records, make up the trio and while they've hosted guests such as Lee Douglas, Thomas Bullock, Nathan Wilkins and Rune Lindbaek at their parties, on many an occasion it's the residents' sets that have managed to trump the headliner's performance. It's this mix of selection and mixing prowess that has won them countless residencies and guest slots outside of London, and this week's RA podcast highlights exactly why they've become the darlings of the city's revitalised disco scene.\n\n<b>What have you been working on recently?</b>\n\nAside from our own parties we're also holding down other London residencies (Dan plays at Macho City, Damon at Songs of Praise and Ben at Gold Dust) and DJing around the UK. Our remix of Franz Ferdinand's new single has just been released and we're doing a lot of studio work in partnership with Gucci Soundsystem's Ben Rymer.\n\n<b>Where and how was the mix recorded?</b>\n\nWe recorded the mix live in an East End basement on two 1210s and one slightly temperamental CDJ.\n\n<b>Can you tell us a little about the mix?</b>\n\nWe decided to do a mix that was musically representative of our party. We wanted to evoke the peaks, troughs and drama of a night at Disco Bloodbath where we get to play the play records we love irrespective of genre. It was also important to us that we recorded it live using predominantly vinyl. Hopefully after you listen to it you'll feel a bit cosmic - and forgive the occasional wonky transition!\n\n<b>Why Disco Bloodbath? Was there some part of the Manhattan club scene of the '90s you wanted to connect with?</b>\n\nEssentially we just thought it was a fantastic name for a party although we did want to evoke the excess, creativity and darkness of that period of New York nightlife. Having said that, our music policy is pretty far removed from the sounds of Michael Alig's parties... Somehow I can't see us booking Superstar DJ Keoki any time soon!\n\n<b>What would James St James make of the East London scene today?</b>\n\nWe told him we were naming our party after his book and he seemed quite chuffed about it! I think he would definitely see the influence of his heyday among the East End's current crop of club kids. We'd love to have him on our guestlist.\n\n<b>What are you up to next?</b>\n\nMore remixes, more parties, more DJing! Damon's production project with Ben Rymer is looking really exciting and hopefully some original Bloodbath music will appear in the next year. We've also got some bigger events lined up for later in the year, and Dan is working on a top-secret Dalston-based project that he's not allowed to discuss. Finally, Ben is doing a sporadic series of parties at the Lock Tavern in Camden called Let's Hold Hands.",
+    "blurb": "London's Disco Bloodbath crew get cosmic on this week's RA podcast."
+  }
+}

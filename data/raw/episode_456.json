@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "456",
+  "url": "https://ra.co/podcast/456",
+  "id": "456",
+  "__typename": "Podcast",
+  "title": "RA.456 Logos",
+  "date": "2015-02-23T00:00:22.000Z",
+  "fileSize": 171148508,
+  "duration": "01:11:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra456-logos-cvr.jpg",
+  "contentUrl": "/podcast/456",
+  "tracklist": "M.E.S.H - Scythians (Logos remix) (PAN)\nIpek Gorgun - Antilop (dub)\nLogos - No Skyline (forthcoming Different Circles)\nRene Hell - The Bridge (self-released)\nLee Gamble - Frame Drag (PAN)\nRabit - Still Lost more delayed (dub)\nLogos - Omega Point (dub)\nUntold - That Horn Track (Bleep)\nM.E.S.H - Infra-Dusk (forthcoming Black Ocean)\nMumdance & Logos - Chaos Engine (forthcoming Tectonic)\nAcre - Don't Get Me Started (forthcoming Wisdom Teeth)\nKid Antoine - Nightvision (Fraxinus remix) (dub)\nMumdance & Logos - Cold (forthcoming Tectonic)\nLogos - Glass (Shapednoise remix) (forthcoming Different Circles)\nEgyptrixx - Halocline Trance (Halocline Trance)\nRabit/DAT Oven - Thuggin' At The Icy Lake (dub)\nInkke - Choong Hoe (dub)\nJT The Goon - Garden of Eden (Devil Mix) (dub)\nInkke - Oni (dub)\nMoleskin - Imagine (Handsome Boys Lifestyle) (Sound Pellegrino)\nMoleskin - Reclaim The Title (Devil Mix) (dub)\nMM/Mumdance/Novelist - Swordplay (TT Drumz Xcursion) (dub)\nOneohtrix Point Never - Rush (Warp)\nStrict Face - Alice - (Peace 001)\nMr Mitch - The Man Waits (Logos remix) (dub)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra456/",
+  "keywords": "James Parker, Mumdance, Cold Mission, grime, bass, Different Circles, drone, Proto",
+  "artist": {
+    "id": "45194",
+    "__typename": "Artist",
+    "name": "Logos"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"Weightless\" is the term that James Parker, AKA Logos, and his close collaborator Mumdance have coined to describe their music. It started with Parker's <a href=\"/review-view.aspx?id=14044\"><i>Cold Mission</i></a>, which took grime and stripped it back to some core elements—macho chords, cocking gun samples, heavy basslines—that were left to float in a vacuum. Since then, Parker and Mumdance have widened the weightless purview. Crafting tracks and DJ sets that put an emphasis on space and silence, they've blurred the considerable boundary between club and ambient music. The pair have started a label called Different Circles as a hub for the stuff, and it sounds like little else out there. \n\nParker's spacey RA podcast—or \"assemblage,\" as he terms it—is a perfect encapsulation of the style. It starts in a pool of beatless sound, gradually collecting into broken rhythms, before wading back in again. Surprising at nearly every turn, Parker touches on Rene Hell's eerie drone, the retro UK styles of his recent <i>Proto</i> LP with Mumdance and a bewildering Strict Face cover of Alice Deejay's \"Better Off Alone.\"\n \n\n<b>What have you been up to recently?</b>\n\nDJing, remixes for PAN and others, getting our label Different Circles off the ground, and of course finishing the <i>Proto</i> project on Tectonic with Mumdance. I've also been working with Shapednoise and Mumdance on a collaborative live project called The Sprawl, which was commissioned by Red Bull and premiered at CTM in Berlin.\n\n<b>How and where was the mix recorded?</b>\n\nThis is an assemblage rather than a pure DJ mix—the two beat-mixed sections were mixed on CDJs but the whole mix was put together in Logic in my studio\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to represent the broadest range of music I would attempt in a club DJ mix, from noise and drone to my collaborations with Mumdance, to Egyptrixx's cybernetic dread and the grime we play at <a href=\"http://www.residentadvisor.net/event.aspx?683742\">Boxed</a>. Hopefully it makes a coherent whole—the listener can judge. I like reaching out beyond normal UK club boundaries, but without compromising the original vision. Our recent work with Shapednoise, for example, is part of that wider project.\n\n<b>How do you and Mumdance usually generate ideas when you're in the studio? Why does it work well between you?</b>\n\nWe generally try to work quite quickly—partly out of necessity, partly deliberately, in order to generate a direct effect in the sound. The mix is done mostly in the box, then once the basic track is there we tend to spend more time at it in our separate studios. Jack is a great engineer and I am usually happy to leave him to achieve the final mix. We typically use his Akai and some outboard FX to post-process.\n\n<b>Your music is known for its use of space. Does this ever confuse people on dance floors? Does it move people in interesting ways?</b>\n\nIt can—you have to be quite bloody-minded sometimes, although I enjoy playing harder material as well. It depends on my mood and the mood of the floor. One of the things I love about minimal music, and the weightless sound in particular, is finding ways to move people with implied rhythm of using bass as the primary mover. This is something dubstep originally did very well.\n\n<b>What are you up to next?</b>\n\nDifferent Circles 002 is a solo EP from me. Look out for that soon. I'm also trying to find the time to write some new solo material. Hopefully more live shows as The Sprawl. I'm DJing in China for the first time in March, which is exciting.",
+    "blurb": "Ladies and gentlemen we are floating in space."
+  }
+}

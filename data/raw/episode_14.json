@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "14",
+  "url": "https://ra.co/podcast/14",
+  "id": "14",
+  "__typename": "Podcast",
+  "title": "RA.013 Scarlett Etienne",
+  "date": "2006-06-05T02:04:38.000Z",
+  "fileSize": 60265993,
+  "duration": "01:02:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra013-scarlett-etienne-cover.jpg",
+  "contentUrl": "/podcast/14",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra013/",
+  "keywords": "",
+  "artist": {
+    "id": "735",
+    "__typename": "Artist",
+    "name": "Scarlett Etienne"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tipped by Gabriel & Dresden as the DJ 'most likely to breakthrough in 2006' and featuring as a key member of the Crosstown Rebels summer party crew, Scarlett has won fans from Miami's trance kids to East London's afterhours.  \n\nYet it hasn't always been electronic beats for Etienne. Trained in classical piano, ballet, and opera, she got her first break as a singer-songwriter at the age of 15. Armed with a Fender Stratocaster, a 12-string acoustic, various synthesizers, and an array of random instruments she self-produced a full-length demo titled \"Low-Budget Severity\" gaining airplay on indie and college radio stations throughout Canada where she lived at the time.\n\nFortunately for clubbers, sometime while living in New York, Scarlett discovered Tenaglia and the underground and began her path to becoming a DJ. Starting with residencies in New York (Sound Factory, Sullivan Room) and San Francisco (Mixed Elements), Scarlett was soon extending her frequent flying adding Madrid (Danzoo) and Verona (Alter Ego) to the roster where she still plays today.\n\nAfter completing a nine-month music production course in San Francisco earlier this year, her first two tracks 'Loose Lips Sync Ships' and 'Eleven' set for release, Scarlett has now based herself in Ibiza for the Summer. RA caught up with Scarlett in between airports and beach trips...\n\n<b>What have you been working on recently?</b>\nI've been working on a few tracks that are to be released on Kickboxer and Tsuba this summer.\n\n<b>Where was the mix recorded?</b>\nThe mix was recorded at my home in Ibiza.  \n\n<b>What are you up to next?</b>\nI'm about to work on some more productions, living in Ibiza for the season, running around Europe like a madwoman doing gigs like Stink @ DC10 August 11th.\n\n\n<i>Scarlett also plays two off-programme Sonar parties on Friday 16 June at Playa de la Nova Mar Bella (beach party during the day) and The Lab (at night).</i>",
+    "blurb": "Our thirteenth Resident Advisor Podcast comes from the globetrotting Scarlett Etienne."
+  }
+}

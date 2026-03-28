@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "50",
+  "url": "https://ra.co/podcast/50",
+  "id": "50",
+  "__typename": "Podcast",
+  "title": "RA.050 Ripperton",
+  "date": "2007-03-23T22:00:01.000Z",
+  "fileSize": 89504607,
+  "duration": "01:14:33",
+  "imageUrl": "https://static.ra.co/images/podcast/ra050-ripperton-cover.jpg",
+  "contentUrl": "/podcast/50",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra050/",
+  "keywords": "",
+  "artist": {
+    "id": "755",
+    "__typename": "Artist",
+    "name": "Ripperton"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Raphaël Ripperton is one half of Lazy Fat People, but he’s not fat and he’s definitely not lazy. Productivity-wise, he gives John Dahlback a run for his money: He’s been DJing since 1993, he’s played in bands (Soul Merge, Reasons), he runs a record label (Perspectiv), and he’s produced and remixed an endless run of 12”s over the last couple of years. As Lazy Fat People (with his pal Mirko Loco) he has put out singles on Border Community, Wagon Repair and most recently on Carl Craig’s Planet E label. Solo, Ripperton has released on Connaisseur, Crosstown Rebels (as Rayon), Num and Liebe*detail and he has remixed the likes of Patrick Chardronnet, Radio Slave and Spencer Parker. You get the idea – he’s a busy guy. He also finds the time to maintain a cool <a href=\"http://www.ripperton.com/myblog/\">blog</a>.\n\nAs a DJ, Ripperton spins the melodic and lush end of minimal techno, and for his RA podcast, he’s put together 75 minutes that makes space for a bit of dreaminess between house and techno. Listen out for unreleased tracks from Perspectiv Records also, including an Agnès remix of Masaya’s 'El Choquero' [Perspectiv 6] and 'We are the New Me' by Minz [Perspectiv 4]. If this is the evidence, Ripperton’s label is on the up and up.\n\n<b>What have you been working on recently?</b>\n\nI started my own label six months ago with Sam K called Perspectiv Records. With brilliants nu talents like Ndru, Sam K, Minz, Masaya, Lucy & the killer funkman Agnès. This year I have released three new 12\"s: ‘Narrow Minded EP’ on Connaisseur, ‘A Skilift Upstairs the Sleeping City’ on Systematic and ‘10a’ on Liebe*detail. Plus a new Lazy Fat People EP (with Loko) on Carl Craig's Planet E label.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded live in a hidden place in Lausanne. It's a special mix full of new deep 12\"s & unreleased stuff. Hope you enjoy!\n\n<b>What are you up to next?</b>\n\nI’m working on remixes for Shinedoe (Intacto), Robert Babicz (Systematic), Lee Van Dowski (Num), Alex Attias's Catalyst (Freedom Soundz) and Daniela Stickroth & Ercolino (Meerestief). I'm also working with Agnès on a new live project and releases. The next Lazy Fat People is coming out on Perspectiv with a remix by 2000 & One. We have also done some remixes for Undo (Factor city) and The Viewers (Audiomatique). In the next month I'm touring a lot across Europe & going to Japan.",
+    "blurb": "This week on the pod is Swiss DJ and producer Ripperton."
+  }
+}

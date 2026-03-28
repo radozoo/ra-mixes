@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "224",
+  "url": "https://ra.co/podcast/224",
+  "id": "224",
+  "__typename": "Podcast",
+  "title": "RA.224 Soul Clap",
+  "date": "2010-09-13T00:00:37.000Z",
+  "fileSize": 98410797,
+  "duration": "01:21:59",
+  "imageUrl": "https://static.ra.co/images/podcast/ra224-soul-clap-cover.jpg",
+  "contentUrl": "/podcast/224",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra224/",
+  "keywords": "soul, clap, soulclap, wolf, lamb",
+  "artist": {
+    "__ref": "Artist:3257"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Get the ladies on the dance floor, and the rest will follow. It's a simple rule. But Soul Clap's Charles Levine and Eli Goldstein understand it better than most. Although funk and jazz were the pair's first respective musical loves, they found a common passion in searching out disco, house and techno records at Boston's Vinyl Connection store, where they were schooled by resident disco connoisseur Caril Mitro.\n\nItzamna and Airdrop were early supporters, but it's their ongoing hook-up with the Wolf + Lamb crew that was the duo's real tipping point, culminating in a series of edits that housed up the likes of Fleetwood Mac, R. Kelly and Stevie Wonder, which have become staples in their DJ sets. Recently, the duo have released their <i>Action/Satisfaction</i> EP on Crosstown Rebels following a tequila-fuelled session at Damian Lazarus' Los Angeles abode, and when they're not in the studio, they're busy either touring the globe, or in Berlin where they've recently taken up residence. Don't go expecting much techno on their mix for this week's RA podcast, however, as Eli and Charles have crafted a soundtrack to the end of summer—a special sun-kissed selection of tracks and exclusive edits that will no doubt fuel the dance floor when they play at this year's <a href=\"/event.aspx?181613\">RA party</a> at <a href=\"/ade.aspx\">ADE</a>.\n\n\n<b>What have you been up to recently?</b>\n\nWell, right now we're transmitting from Moscow, where we play tonight. We've been based in Berlin since July and doing the European circuit with extra stops in Japan and Turkey. It's been an amazing summer of fun times and, most importantly, growing.\n\n<b>Where and how was the mix recorded?</b>\n\nThe mix was recorded over a month on Ableton beginning in Tokyo and continuing at Gadi Mizrahi + Deniz Kurtel's fool in berlin, by the pool at Es Vive hotel in Ibiza, before a gig at Balsaal in Hamburg and, finally, completed in Brussels at Eli's girlfriends flat. Basically the idea behind the mix was to capture the moment at the tail end of our first serious summer of touring. We wanted to create a late summer vibe, with lots of romance and emotion. The music is a combination of some of our tracks, remixes and edits as well as a bunch of exclusives received via \"The Wire\" (AKA the collective wolf + lamb file transfer system). We then sprinkled in some of our favorite favorite vinyl selections from our summer sets and finished off with some classic jams we've been playing.\n\n<b>Did you ever get your CDs back after their theft in Manchester? Have you changed anything about what you take to your gigs as a result?</b>\n\nUnfortunately, even with a reward offered by the club, we never got our CDs back, which sucked because we were finally getting comfortable after four months using CDs following three years of Serato. As a result, we had to lean even more heavily on vinyl while we burned back our CD collection. Luckily (or unluckily) right after that gig we got stuck at Manchester airport for eight hours, so we got to burn a bunch of important tunes right away. We were only traveling with about 30 CDs anyway, so it actually was a great chance for us to weed out the filler and fill the book up with new heat. All in all, it's all good and makes for a great story. Message to the dirty thief: \"We hope you're at least banging your girlfriend to our music :)\"\n\n<b>What are you up to next?</b>\n\nWe're moving to Miami for the winter with Gadi and Zev. We've got a bunch of remixes on the way, including Tiefschwarz, Michael J Collins, Greg Paulus and something for Under The Shade. We're mixing a compilation CD for Jonny White's No. 19 records out of Toronto that includes a bunch of cool exclusive music from the fam. And we're finishing up a Sect album for Wolf + Lamb.\n\nWe've also got this <a href=\"http://soulclap.us/freep\">awesome free.p.</a> we just released on the interwebs. It's called <i>The Clap & Friends</i> EP and features edits from No Regular Play, Death On The Balcony, Navbox and us. It's basically a compilation of some of our favorite edits we played all summer that we want to share with you. Word.",
+    "blurb": "The Boston-bred duo provide a soundtrack of mellow grooves for the end of summer."
+  }
+}

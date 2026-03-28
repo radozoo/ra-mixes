@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "785",
+  "url": "https://ra.co/podcast/785",
+  "id": "785",
+  "__typename": "Podcast",
+  "title": "RA.785 Ripatti",
+  "date": "2021-06-20T20:00:19.000Z",
+  "fileSize": 195722035,
+  "duration": "01:21:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra785-ripatti-cover.jpg",
+  "contentUrl": "/podcast/785",
+  "tracklist": "Untitled Track #1\nUntitled Track #2\nUntitled Track #3\nUntitled Track #4\nUntitled Track #5\nUntitled Track #6\nUntitled Track #7\nUntitled Track #8\nUntitled Track #9\nUntitled Track #10\nUntitled Track #11\nUntitled Track #12\nUntitled Track #13\nUntitled Track #14\nUntitled Track #15\nUntitled Track #16\nUntitled Track #17\nUntitled Track #18\nUntitled Track #19\nUntitled Track #20\nUntitled Track #21\nUntitled Track #22\nUntitled Track #23\nUntitled Track #24\nUntitled Track #25\nUntitled Track #26\nUntitled Track #27\nUntitled Track #28",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1072505221",
+  "keywords": "Sasu Ripatti, Vladislav Delay, Luomo, Planet Mu ",
+  "artist": {
+    "id": "9646",
+    "__typename": "Artist",
+    "name": "Vladislav Delay"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Let's get it out of the way: Sasu Ripatti is best known as Vladislav Delay. Under that name he's amassed one of the most important catalogues of experimental techno, positioning himself in a liminal space between clicks-and-cuts minimalism and dub techno. He released on both Mille Plateaux and Chain Reaction at the peak of each label's influence—including stone-cold classics like 2000's <a href=\"/reviews/24869\"><i>Multila</i></a>, which still sounds mind-blowing today. And that's not even mentioning Luomo, perhaps his most successful project, which imbued cold minimal techno and microhouse with warm R&B vocals. (If you haven't heard \"<a href=\"https://www.youtube.com/watch?v=1Jyu5lHjIGo\">Tessio</a>,\" then get ready to have your mind blown.) \n\nProjects like Luomo remind us that no matter how weird or abstract Ripatti's music gets, there's an obsession with popular music that runs underneath everything he does. It really comes out on his new album, <i>Fun Is Not A Straight Line</i>, released this coming week on Planet Mu under the name Ripatti. Inspired by his lifelong love of hip-hop, Ripatti takes samples and arranges them into hectic, uptempo tracks that feel like footwork, only more angular and mechanistic.\n\nHe says in the interview below that the new record—and this mix, which is made up entirely of all-originals from around the same time—are part of a process to make \"underground badass dance music\" in order to \"revisit the idea of club music.\" We'd have to agree with the badass part. Strap in and feel the vibrations, the latest iteration of one of electronic music's most restless and adventurous souls.\n\n<b>What have you been up to recently?</b>\n\nProcrastinating. Making mellow, feel-good music. Psychedelics. Yoga. Drums. Debate between green tea and coffee—if I had to give up one, which one would it be? Waiting for the mountains to open up enough to begin hiking season. Trying to predict the future. Learning new things in the studio. Trying to de-learn things I have already learned in the studio. Getting educated on the current pop music and culture by my daughter.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it in my studio, using my small Mackie mixer and few effects pedals. Latitude: 64.991013, Longitude: 24.694658\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI put together the best of underground badass dance music that I've been recently making. I only used unreleased tracks. The mix relates to something I've been into lately: revisiting the idea of club music, what I'd like to hear and be surprised by. Accepting the need for quantized music for a moment. Trying to share happiness. \n\n<b>Your new LP is primarily inspired by rap and footwork, and you mentioned <i>Illmatic</i> as an early hip-hop touchstone for you. What are some of your other, more recent, rap favourites?</b>\n\nDave East, Freddie Gibbs, Smoke DZA, Westside Gunn, Ghetts, Roc Marciano, Stove God Cooks, Che Noir, Injury Reserve, Audio Push, Quay Dash, Cartel Madras, Hood Crat, 38 Spesh, Sleepy Hallow, list goes on. I go for the rappers, not so much for the music. It's mainly if I connect with the voice and flow of an MC, if they have good timing and all that.\n\n<b>The LP is your second of the year so far, and under a new alias. How do you separate your aliases/projects and decide what gets released where—is it a conscious decision when you make the music?</b>\n\nI don't spend too much time or effort on this side of things, it seems to fall into place on its own. It's rarely in my mind when writing or producing music, more of an afterthought. But then again I don't ever write music randomly, there's always a concept in place that I follow, if only loosely. I guess that then helps to see it easily where it should go.\n\n<b>What are you up to next?</b>\n\nStill working tirelessly on my retirement fund. Staying off-grid. Plenty of new stuff in the works.",
+    "blurb": "Self-proclaimed badass dance music from Vladislav Delay."
+  }
+}

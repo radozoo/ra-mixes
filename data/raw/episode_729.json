@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "729",
+  "url": "https://ra.co/podcast/729",
+  "id": "729",
+  "__typename": "Podcast",
+  "title": "RA.729 Slikback",
+  "date": "2020-05-18T00:00:20.000Z",
+  "fileSize": 102013627,
+  "duration": "00:42:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra729-slikback-cvr.jpg",
+  "contentUrl": "/podcast/729",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/822874900",
+  "keywords": "Lasakanneku, Nyege Nyege, Hakuna Kulala, Kenya, Soda Plains, Kampala,",
+  "artist": {
+    "id": "81782",
+    "__typename": "Artist",
+    "name": "Slikback"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When Slikback released his first EP, <a href=\"/reviews/22772\"><i>Lasakaneku</i></a>, on Nyege Nyege Tapes's club-focused offshoot Hakuna Kulala in 2018, it was clear the Kampala-based label had unearthed a rare talent. What's followed since has been an electric run of live shows, mixes and EPs from the Kenyan artist, whose sonic signature is a fierce mix of shattered-glass synths, crisp drums and jittery, unpredictable rhythmic patterns.\n\nIn April of 2019, a tour of China led to gigs in Shenzhen, Shanghai, Hangzhou, Nanjing and Beijing, as well as a <a href=\"/reviews/24162\">collaboration</a> with <a href=\"/features/3604\">SVBKVLT</a> artist Hyph11E that was as rowdy as it was thrilling. Same goes for his latest release, a split EP on PAN with Soda Plains. Here, Slikback went for the throat, turning in two tracks <a href=\"/reviews/25013\">we said</a> reminded us of the \"gnarliest techstep drum & bass imaginable.\" On RA 728, the Kenyan artist delivers an all-originals mix, recorded on FruityLoops, that he says explores his \"darker parts\" while nodding to his influences.\n\n<b>What have you been up to recently?</b>\n \nI have been making music and hanging out with friends here. Also trying out some other hobbies, cooking, makeup :) etc.\n \n<b>How and where was the mix recorded?</b>\n \nI made the set in Kampala on my laptop through a music production software called fruity loops.\n \n<b>Can you tell us about the idea behind the mix?</b> \n \nIt's a trip into the darker parts of me while responding to my musical influences at some points. It's what I see as a reflection of me all built on sounds that I truly resonate with.\n \n<b>What music most inspired you growing up?</b> \n \nGrowing up I listened to a lot of Kenyan hip-hop and dancehall, I then had an EDM/pop phase before discovering trap and gqom.\n \n<b>What are you up to next?</b>\n \nWorking on music for local MCs and my album. Hopefully when the lockdown ends I will get back to playing my music and DJing again. I am also trying more sound design works as I have a huge love for visual work.\n",
+    "blurb": "A blistering all-originals mix. \r\n"
+  }
+}

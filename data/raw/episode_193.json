@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "193",
+  "url": "https://ra.co/podcast/193",
+  "id": "193",
+  "__typename": "Podcast",
+  "title": "RA.193 Petre Inspirescu",
+  "date": "2010-02-08T09:00:55.000Z",
+  "fileSize": 107680226,
+  "duration": "01:29:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra193-petre-inspirescu-cov.jpg",
+  "contentUrl": "/podcast/193",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra193/",
+  "keywords": "Petre Inspirescu, [a:rpia:r], RPR, Pedro, Romania, House",
+  "artist": {
+    "__ref": "Artist:1712"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Though he likes to keep a pretty low profile, Romanian house artist Petre Inspirescu, or Pedro as he's sometimes called, is probably one of the most talented names in electronic music today. As a producer, he makes the sort of mysterious, otherworldly house tracks that, <a href=\"/review-view.aspx?id=6985\">as Terrence Fuller puts it</a>, \"result in those WTF dance floor moments\" you're always hoping for when you go to a club. Pedro first caught our attention in 2007 with the release of <i>Tips</i>, his exceptional Cadenza debut, and outdid himself last December with <i>Intr-o Seara Organica...</i>, his incredibly deep album on [a:rpia:r].\n\nBut as subtle and refined as his productions may be, Pedro also excels in totally unleashed, sweaty peak-time energy. Along with his [a:rpia:r] comrades Raresh and Rhadoo, Pedro is known for his extensive record collection and his marathon sets. In his RA Podcast, recorded live at Fabric last November, Inspirescu shows just how panoramic his style is, elegantly maneuvering from restrained minimal to hard-hitting house and techno. We caught up with Pedro via email to ask him about his upcoming album, <a href=\"/event.aspx?135566\">Unsound Festival New York</a> (at which he'll make his US debut this coming weekend) and new names to watch for from Romania's vibrant scene.\n\n<b>What have you been up to recently?</b>\n\nRecently I've been working on a new concept album which will be released very soon—just that it will be on CD. It's a different kind of music and I am really excited about it. Hope you will enjoy it. ;) Apart from that I am working on some new dance releases as well—don't want to make any promotion on it, I prefer people who get excited for the music.\n\n<b>How and where did you record the mix? </b>\n\nThe mix I sent you was recorded at Fabric in London when <a href=\"/event.aspx?123479\">I played there</a> in November. It was a very nice party, I had a lot of fun.\n\n<b>You're playing at the Bunker next Friday for Unsound Festival New York. How do you feel about making your US debut? </b>\n\nI have one regret regarding the Unsound Festival New York... when I accepted the gig I had no idea about the concept behind the event, and because I was traveling I didn't have access to much information about it. The regret is that I could have done my first live act, since I am planning to start performing live later this year. It was too late to get prepared when I found out that it would have been a good opportunity. But don't get me wrong, I am very excited to be part of it.\n\n<b>What's new in the Romanian minimal scene? </b>\n\nThe Romanian (I wouldn't call it minimal) scene is developing more and more. The young generation of producers is becoming very strong. Just to name a few which maybe you already know: Praslea, Cezere, Kozo, Noi Doi, Cristi Cons, Dan Andrei and also watch out for Raresh very soon!\n\n<b>What are you up to next? </b>\n\nI am planning to start performing live soon, hopefully this year if not surely the next one. It's not easy to do a live performance as I am an analog lover. It takes time for preparation.",
+    "blurb": "The Romanian producer steps out of the shadows for a mix of otherworldly house and techno on this week's RA podcast."
+  }
+}

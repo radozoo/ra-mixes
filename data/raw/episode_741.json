@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "741",
+  "url": "https://ra.co/podcast/741",
+  "id": "741",
+  "__typename": "Podcast",
+  "title": "RA.741 Tzusing",
+  "date": "2020-08-17T00:00:04.000Z",
+  "fileSize": 217843308,
+  "duration": "01:30:38",
+  "imageUrl": "https://static.ra.co/images/podcast/ra741-tzusing-cvr.jpg",
+  "contentUrl": "/podcast/741",
+  "tracklist": "\"Please refer to DJ Bigos\"",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/877140247",
+  "keywords": "Taiwan, Taipei, EBM, gqom, techno, ",
+  "artist": {
+    "id": "51709",
+    "__typename": "Artist",
+    "name": "Tzusing"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tzusing normally splits his time between Taiwan and mainland China, but since the pandemic hit, he's been in Taiwan. Not that it's a bad place to be. By all measures, Taiwan is one of the least affected and most prepared countries when it comes to COVID-19. What Tzusing describes as \"a strong sense of civic duty,\" as well as a coordinated government response, has given way to an enviable situation. It's also allowed the club scene to stay alive—after a short shutdown—in a way that most other places haven't been able to match.\n\nWhich makes this mix unusual for this point in time. It was recorded live, at a nightclub, just last week. Tzusing originally submitted a slow, trudging session meant to reflect the quarantine mood—where most people can't go to nightclubs or parties—but at the eleventh hour decided to switch it for a live recording that he thought would better represent Taiwan. Recorded at Final in Taipei, it still represents a slower, more deliberate Tzusing than you might expect if you haven't heard him mix over the last couple years, though it's still  eclectic, switching between EBM, gqom, techno and experimental club, with unexpected highlights like Depeche Mode's 1997 sleeper hit \"It's No Good.\" Tzusing won't give us a tracklist, but there's a start.\n\n<b>What have you been up to lately?</b>\n\nI've been trying to find a safe way to leave Taiwan and get back to China. It has been extremely tricky with COVID and the closing of visa offices.\n\n<b>How and where was the mix recorded?</b>\n\nI originally recorded a mix in my family's place in Taichung, but decided against using that mix. Instead, I decided to go with a recording of a DJ set I played on August 8th at Final Taipei instead, as I felt it would better represent our scene. \n\n<b>Can you tell us the idea behind the mix?</b>\n\nThe original recording was a bit slower and a bit more somber in a way, reflecting the mood we have collectively felt the past year. This new club mix, as it's in a club context, has to be a bit dancier—but I'm still trying to make it as interesting as possible. Like with most of my sets, I’m trying to combine what is aggression and empathy. Playing Apex Legends with tears in your eyes. \n\n<b>This mix feels different to your DJing style from a few years ago. How have you evolved as a DJ over the years?</b>\n\nIn the last few years I have been able to build up more of a profile, so I’ve built up a more open-minded crowd that would stick around through a kick-less track, as opposed to a crowd that comes to a club or festival expecting a straight functional techno set. The club music landscape has also changed in the last few years, with DJs coming from more diverse backgrounds and in turn playing more diverse music. It has, in a way, normalized this type of set. \n\n<b>From the outside, Taiwan appears to have one of the best situations when it comes to the pandemic. What has it been like being there, and are clubs reopening or parties happening?</b>\n\nYes, Taiwan did an amazing job handling the pandemic. Taiwan never actually had a proper lockdown here though—people coming in after March had to quarantine. They did impose pretty strict conditions on entry. There is a strong sense of civic duty here in the culture, so even when the government didn’t require clubs to close, most clubs in the country took the whole month of April off. \n\nThere aren't any discussions about masks. One would look like a huge asshole if one didn't have a mask on during the months of March and April. No one would even need to ask a person to put on a mask. The sense of shame and guilt one would feel would be enough. This is part of the reason I wanted to go with this club set I played at Final, to celebrate this country's response. And for a variety of reasons, this country didn't get the media attention it deserved.  \n\n<b>What are you up to next?</b> \n\nJust trying to finish up some tracks to finally wrap up this collection of music, I'm a slow worker. Besides that, I'm also starting up a label called Sea Cucumber, which will release a variety of dance music. The range is wide but still in the general direction of the music I play. 3D artist Kim Laughton will be helping me on the visual side of things. It will feature artists that I really admire like Suda, MM and some up-and-coming people. \n",
+    "blurb": "Techno, gqom and synth pop, live from Taipei."
+  }
+}

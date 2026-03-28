@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "303",
+  "url": "https://ra.co/podcast/303",
+  "id": "303",
+  "__typename": "Podcast",
+  "title": "RA.303 A Guy Called Gerald",
+  "date": "2012-03-19T00:01:10.000Z",
+  "fileSize": 75996158,
+  "duration": "01:03:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra303-guy-gerald-cvr.jpg",
+  "contentUrl": "/podcast/303",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra303/",
+  "keywords": "A Guy Called Gerald, 303, tb-303, acid, house, techno",
+  "artist": {
+    "id": "1330",
+    "__typename": "Artist",
+    "name": "A Guy Called Gerald"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "So we had a neat idea: why not theme RA.303 on Roland's seminal TB-303 synth, the sound of acid house? In order to execute this ingenious plan we turned to Gerald Simpson, undoubtedly the UK's most revered proponent of the sound. This is largely thanks to a 1988 number named \"Voodoo Ray,\" which we guess you may have heard before. Gerald was also a founding member of 808 State, who themselves (or perhaps Gerald solo, but that's another story) wrote an all-time classic in \"Pacific State.\" You may have also heard of jungle. Well, Gerald had a rather large hand in birthing the genre through his early works on his own Juice Box Records. The ensuing years saw the Manchester-born artist continue to innovate, releasing <a href=\"http://www.discogs.com/A-Guy-Called-Gerald-Black-Secret-Technology/master/25248\">seminal full-lengths</a> and restlessly pushing his sound in a forward direction. These days you can find Gerald residing in Berlin, working on his \"gangsta tech\" project, although we'll leave him to explain that one. \n\nOn a basic level RA.303 comprises a stack of vintage acid house from Gerald's collection, but he's inviting us to guess whether the additional acid sounds that colour the mix come from a TB-303, an emulation, or perhaps both. \n\n<b>What have you been up to recently?</b>  \n\nWorking on a new type of techno called \"gangsta tech.\" The unique thing about gangsta tech is that it can only be performed live—the only way to really hear it is through a big soundsystem. \n\n<b>How and where was the mix recorded?</b>\n\nIn my studio in March.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWell, it was the 303rd podcast and RA asked me to give it [a 303-themed mix] a go. I started to dig through the crates until I got back to the beginning. What better place to start than the very first tracks from Chicago?\n\n<b>Do you remember when you first heard the TB-303?</b>\n\nYeah, it was a track by Newcleus in 1983 called \"<a href=\"http://www.youtube.com/watch?v=zEmg5GaAHbk&feature=related\">Jam On It</a>.\"  \n\n<b>And when did you first utilize one yourself?</b>\n\nWhen it first came out there was a music shop in Manchester selling it together with the 606. I used to go down to this shop every Saturday to try out all the new equipment.\n\n<b>Does the acid sound still have scope for exploration do you think?</b>\n\nNot for me, only because I'm sticking to my old school doctrine from the beginning, 30 years ago. I'm always looking for creative ways to use the latest equipment. But...I have no problem in helping people reminisce. \n\n<b>What are you up to next?</b> \n\nI'm writing new material constantly to play in my live show which means I'm striving for perfection in the realms of the gangsta tech. It's not the kind of music for American sell-out rappers who decided to get into cheesy '90s dance music, two decades too late. This is the real deal. This is as black as it gets.   ",
+    "blurb": "Acieeeed!"
+  }
+}

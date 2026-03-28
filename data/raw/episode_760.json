@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "760",
+  "url": "https://ra.co/podcast/760",
+  "id": "760",
+  "__typename": "Podcast",
+  "title": "RA.760 Hyph11E",
+  "date": "2020-12-28T00:00:47.000Z",
+  "fileSize": 137947939,
+  "duration": "00:57:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra760-hyph11e-cvr.jpg",
+  "contentUrl": "/podcast/760",
+  "tracklist": "Caliph8 - Tetrahedron\nBungalovv - Entre Chatarra\nSlikback - NULL\nTzusing - Balkanize\nNazar - 2 African Sickos feat. Citizen Boy\nOsheyack - Mutual Shaping\nNaaah - Untitled\nSwimful & 3ASIC - Untitled\nPrettybwoy - Mikoshi \n3Phaz - Cluster Drum\nPearson Sound - Cobwebs\nLaksa - Sen On One\nSeven Orbits - Ravevv101\nGooooose - Cows\nSexapil - Pingers 1\nHyph11E - Barnacles (Kode9 Remix)\nGRRL - Volt\nHyph11E - Get Out From Under\nLYM. - CONFRITAMENTO\nNgalah Oreyo x UMOJA - GALA GALA (Siu Mata Edit)\n33EMYBW - Coupling\nZaliva-D - Speed of Faith\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/959161510",
+  "keywords": "Tess Sun, Shanghai, Accretion, footwork, Photek, SVBKVLT, Aperture, ",
+  "artist": {
+    "id": "77162",
+    "__typename": "Artist",
+    "name": "Hyph11E"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "After opening with a fog of foreboding drone, Chinese producer Tess Sun's debut album <a href=\"/reviews/25234\"><i>Aperture</i></a> bursts into life with \"Accretion,\" a track that jams together ideas from footwork, drum & bass and experimental club music into an airless vacuum. She structures complex and thundering tracks around carefully programmed breaks—sometimes reaching Photek levels of intricacy—and often forgoes kick drums in favour of dread clouds of sub-bass and low, jabbing notes that hit like a hand to the sternum. Her music tends to be dark, but it's also athletic and precise, with hyperreal sound design, a style she first outlined on 2017's <a href=\"https://svbkvlt.bandcamp.com/album/vanishing-cinema\">Black Pepper ?</a>, which was Shanghai label SVBKVLT's first true club anthem.\n\nSun, originally from Beijing, was one of many people who fell for Shanghai's bustling, leftfield club scene almost as soon as she encountered it. (Like her label-mate <a href=\"/podcast-episode.aspx?id=734\">Osheyack</a>, she basically went for one weekend and never looked back.) Her innovative approach to dance music, expansive in its influences but tight and exact in execution, quickly made her one of the stars of the scene, and <i>Aperture</i> is arguably the finest electronic music full-length to come out of the scene that centers around the city's influential nightclub, ALL. \n\nHer perspective feels more global than local, however—she's <a href=\"/reviews/24162\">collaborated heavily</a> with Slikback, and Kode9 even contributed a rare remix on <a href=\"/news/73680\">a recent single</a>. You don't get much more bona fide than that. On her <i>RA</i> Podcast, Sun showcases the global scene she's become a core member of, mixing her own tracks with cuts from other hotly-tipped producers like 3Phaz, Nazar, 33EMYBW, GRRL and Bungalovv, a network that covers not only the major dance music hot spots but features nodes across Asia, the Middle East, Africa and Latin America. This is some of the most exciting electronic music around, put together by one of its key figures.\n\n<b>What have you been up to recently?</b>\n \nI just finished an eight-city tour of China last month, and I've been readjusting back to studio mode. Recently I've been working on some collaborations and remixes.\n\n<b>How and where was the mix recorded?</b>\n \nI had a little think about which tracks I wanted to put in the mix, put them all in a list, had a practice, then recorded it on my Traktor controller at home.\n\n<b>Can you tell us about the idea behind the mix?</b>\n \nFor this mix, I played some new tracks from friends and also what I've been listening to recently. I did the mix the same way I would DJ in a club.\n\n<b>You released your debut album, <i>Aperture</i>, this autumn, with a focus around the theme of \"holes.\" Can you talk more about that idea and how it relates to the music?</b>\n \nThe original idea comes from an image in my head, looking at myself as an incomplete individual from an outside perspective. These potholes have always existed, they will heal and divide again through time. <i>Aperture</i> follows a process from the formation to disappearance of a breathing hole. I wanted to capture the image and the atmosphere around me during the time, and blend it as much as I can into the music.\n\n<b>What's the Shanghai nightlife scene like right now, this far into the pandemic? Are venues open as normal etc, and/or are people still going out?</b>\n \nYeah, everything started getting back to normal after May. Right now I don't feel much difference from before, except there are no international bookings at the moment. All the clubs are open and people go out clubbing every weekend.\n\n<b>What are you up to next?</b>\n\nI have a couple of shows in the next few weeks. Besides this, I'm trying to make more tracks and start preparing for the next release.\n",
+    "blurb": "Electrifying club sounds from one of Shanghai's brightest stars."
+  }
+}

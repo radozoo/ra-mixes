@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "464",
+  "url": "https://ra.co/podcast/464",
+  "id": "464",
+  "__typename": "Podcast",
+  "title": "RA.464 Paula Temple ",
+  "date": "2015-04-20T00:00:39.000Z",
+  "fileSize": 142475649,
+  "duration": "00:59:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra464-paula-temple-cvr.jpg",
+  "contentUrl": "/podcast/464",
+  "tracklist": "Ancient Methods x Black Egg - Ohne Hande A Cappella - aufnahme + wiedergabe\nTarik Barri - Eleven\nKwartz - Hole - New Rhythmic\nEomac - Spectre Tommy Four Seven Remix - Killekill\nSNTS - N6 - SNTS\nPaula Temple - Ful (Synthapella Version) - R&S\n[Lakker - Dryad Intro]\nPlanetary Assault Systems - 808 Track - Token\nSterac - Rotary - Klockworks\nXhin - Blades - Stroboscopic Artefacts\nTommy Four Seven - Track 5 - CLR\nErika - North Hex Orphx Remix - Interdimensional Transmissions\nPerera Elsewhere - Ebora feat. Paula Temple Remix EDIT - Friends of Friends\nThe Knife - Stay Out Here (Paula Temple Remix) - Rabid\nHector Oaks - Strobing Morning - Sonntag Morgen\nCTRLS - Modular - Token\nPlanetary Assault Systems - Rip The Cut - Ostgut\nSimulacra - Droste Effect - Subsist\nExium - Oppression - Nheoma\nKangding Ray - Thar - Stroboscopic Artefacts\nReeko - Blueshift - Tsunami\nEomac - Crackts - Killekill\nCaustic Window - Joyrex J5 - Rephlex\nClark - Sodium Trimmers - Warp\nSawf - Stepa (Prosthetic Pressings\nPaula Temple - Deathvox - R&S\nDeveloper - In Pure Form - Modularz\nD. Carbone - Asynthetic - Inner Surface Music\nBrother From Another Planet - Chronicles - 7th City\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra464/",
+  "keywords": "techno, industrial, Materials, MXF8, R and S, Noise Manifesto",
+  "artist": {
+    "id": "33115",
+    "__typename": "Artist",
+    "name": "Paula Temple"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In a usually apolitical scene, Paula Temple's style of understated engagement feels refreshing. Through her position as a DJ, producer and label boss, she's raised issues related to gender and sexual equality, governmental and societal \"control systems\" and European border policies, but has kept her brand of powerful, industrially-tinged techno at the centre of her message. Temple got her start in music in the early '00s, recording a well-regarded EP for Chris McCormack's Materials label, and picking up admirers like Jeff Mills and the late John Peel. She became involved with development work on the MXF8, one of the first live performance MIDI controllers, and, by her own admission, lost inspiration in the studio—it would be six years (time she largely spent teaching music tech to underprivileged kids) before Temple released her next record. \n\nThese days Temple is a mainstay of R&S Records: the <a href=\"/review-view.aspx?id=12950\"><i>Colonised</i></a> and <a href=\"/review-view.aspx?id=15657\"><i>Deathvox</i></a> EPs reintroduced her to the techno scene with tracks that kicked hard but were rich in sound design and crafty arrangements. Meanwhile, her own label, Noise Manifesto, has shown a similar appetite for pushing sonic and conceptual boundaries. Today the label will put out <a href=\"/news.aspx?id=28845\"><i>Decon Recon #1</i></a>, a record that aims to blur the lines of authorship. Oni Ayhun, Planningtorock, rRoxymore and Temple herself placed samples in an open archive and then reconstructed the parts to form complete tracks—the twist is that it won't be made clear who produced what. \n\nTemple's DJ sets are also non-standard. She runs a hybrid Ableton / decks setup that allows her to put together killer mixes like RA.464, which keeps the tone engaging and the intensity levels cranked. \n\n\n<b>What have you been up to recently?</b> \n\nPlayed at the Bloc. weekender, Convergence in London and the R&S Records showcase parties. A double remix for Fink has just come out. Also did another double remix for The Knife alongside Kane Roth and Tama Sumo as Tarantism.\n\n<b>How and where was the mix recorded?</b> \n\nI used my hybrid setup, which is one 1210 turntable, Ableton live, Ableton Push, Allen & Heath K2 and a Pioneer mixer. I recorded this at home in Berlin straight after playing at Stattbad on a Sunday morning. \n\n<b>Can you tell us about the idea behind the mix?</b> \n\nI wanted to capture the feeling I had just experienced in the club a few hours before, and also to bring into the mix how I've been playing across Europe recently. So the mix recreates some of my favourite moments that I hope people who have been to see me play will remember. It captures how I can go really deep, especially when I play in Berlin, and be explosive all in one set. I added some synth-rich tracks that have been blowing my mind recently, like \"Eleven\" by Tarrik Barri and then a \"synthapella\" of my track \"Ful.\" I ended with an ambient piece I played on the fly with the Push, named so because of the time of day.\n\n<b>What are you up to next?</b> \n\nI'm working on the next release for R&S Records, some remixes, a split release for a Berlin label that will come out later this year, and a collaboration release and showcase events called Decon/Recon for Noise Manifesto. I'm playing in the States this month for the first time.\n\n\n<span class=\"grey\"><i>Paula Temple plays this year's <a href=\"/promoter.aspx?id=39131\">Movement festival</a>, which takes place in Detroit between May 23rd and May 25th.</i></span>\n",
+    "blurb": "Techno from the bleeding edge. \r\n"
+  }
+}

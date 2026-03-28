@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "418",
+  "url": "https://ra.co/podcast/418",
+  "id": "418",
+  "__typename": "Podcast",
+  "title": "RA.418 Rodhad",
+  "date": "2014-06-02T00:00:26.000Z",
+  "fileSize": 226464800,
+  "duration": "01:34:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra418-rodhad-cvr.jpg",
+  "contentUrl": "/podcast/418",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra418/",
+  "keywords": "Techno, Dystopian, Token, dub, Berlin, ",
+  "artist": {
+    "id": "10751",
+    "__typename": "Artist",
+    "name": "Rødhåd"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "A lot has changed for Rødhåd since we <a href=\"/feature.aspx?1745\">spoke with him last year</a>. Back then, he was very much an emerging talent. Almost all of his DJ appearances were happening in or around his hometown of Berlin, with just a handful of international dates each year. He'd been a word-of-mouth favourite in the German capital's techno circles for some time, known for his long and expansive after-hours sets. These days, he's one of world's most <a href=\"/dj/rodhad/dates\">in-demand</a> techno DJs, often hitting more than five countries a month.  \n\nBehind the decks, Rødhåd's style is slick, loopy and hypnotic. It's a sound he developed playing extended sets in Berlin clubs, and when coupled with his deft mixing, it makes for some truly immersive moments. Despite his newfound acclaim, Rødhåd hasn't departed from the subtle, often melancholic tones of his early career. On his RA podcast, he demonstrates his trademark style of brooding hypnotism, delicately stitching peak-time cuts with poignant atmospherics. \n\n\n<b>What have you been up to recently?</b>\n \nSince we spoke last time, a lot changed. At the moment, I'm traveling a lot, playing almost every weekend, and am super busy in my lovely studio. I'm also trying to find some rest between all the craziness. \n\n<b>How and where was the mix recorded?</b>\n\nI did the mix at home, as I feel most comfortable when I can do it in the morning in my bathrobe with a coffee. While I'm playing a lot from USBs these days, I did the mix with three CDJs. I just own two of them, so I had to ask my friend Don Williams if I could borrow me one of his. Luckily he agreed. I had two days to record. I did one test mix and then recorded the final take early in the next morning. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to play a trippier and more hypnotising set than the last few podcasts I've done. For me, the flow of good music brings you into a journey you really want to ride till the end. I'm playing a lot of festivals and prime-time club sets these days, but I still like the melancholic and dramatic side of techno and other electronic music. I tried to include all my wishes, feelings, hope and experiences into it, and I'm really happy with the result. \n\n<b>How have you found it playing lots more headline slots in the last year?</b>\n\nThese days I'm in a good position. I've seen so many different clubs and festivals, and have received super productive feedback on my sets. Yes, I played some crazy gigs here and there and sometimes my name was billed as headliner, but that's not really important. To see that people can associate Rødhåd with an atmosphere of music they like, and that people are really going to record stores to buy my vinyl, is what makes me happy. Getting something back for everything I worked many years on is a super feeling! \n\n<b>Have you been able to continue with your full-time position outside of music?</b>\n\nIn the beginning of last year I cut back my working hours. But in summer I realised it's not possible to do both in a reasonable way. So I decided to stop my full-time job and risk the way of being an artist.  \n\n<b>What are you up to next?</b>\n\nFirst, I'm happy about our <a href=\"/event.aspx?599336\">next Dystopian party</a> at Arena Club in Berlin on June 20th with my buddies Kr!z, Don Williams and the amazing Jeroen Search. Besides that, I'll be touring in the next few weeks to Lisbon, Paris, Prague, Hamburg, Nürnberg, Gent, Heidelberg, Stuttgart and more festivals all around Europe. Last but not least, I finished some remixes and am working on some new material of my own that you will hear soon. And then, hopefully a holiday someday.",
+    "blurb": "A new techno heavyweight steps up. "
+  }
+}

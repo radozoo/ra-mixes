@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "68",
+  "url": "https://ra.co/podcast/68",
+  "id": "68",
+  "__typename": "Podcast",
+  "title": "RA.068 Dan Curtin",
+  "date": "2007-08-28T14:03:23.000Z",
+  "fileSize": 88040609,
+  "duration": "01:13:21",
+  "imageUrl": "https://static.ra.co/images/podcast/ra068-dan-curtin-cover.jpg",
+  "contentUrl": "/podcast/68",
+  "tracklist": "01.  Michal Ho feat. Jonjon - Take Away - <a href=\"record-label.aspx?id=902\">Tuning Spork</a>\n02.  Dennis Ferrer feat. Mia Tuttavilla - Transitions (Sasse Edit)   <a href=\"record-label.aspx?id=45\">Defected</a>\n03.  Fuckpony - Cold Slave -  <a href=\"record-label.aspx?id=403\">Get Physical</a>\n04.  Innersphere aka Shinedoe - Phunk (Ricardo Villalobos rmx)  <a href=\"record-label.aspx?id=986\">Intacto</a>\n05.  Freak 7 vs Critical Phase - Pitch Black (Orlando Voorn rmx)  New Religion\n06.  Einzelkind - Maferefumeco - <a href=\"record-label.aspx?id=962\">Kindisch</a>\n07.  Falko Brocksieper - Black Box - <a href=\"record-label.aspx?id=672\">Sub Static</a>\n08.  Reboot - Clear Motion - <a href=\"record-label.aspx?id=1128\">Below</a>\n09.  Bushwacka! - Long Distance - <a href=\"record-label.aspx?id=939\">Olmeto</a>\n10.  Selway+Vincenzo - Dream Stealer (Joe Mull rmx)  <a href=\"record-label.aspx?id=1121\">CSM</a>\n11.  Sleeper Thief - Vaja de Suba Te - <a href=\"record-label.aspx?id=772\">Mobilee</a>\n12.  Bart Skils & Anton Pieete - The Shining - <a href=\"record-label.aspx?id=813\">100% Pure</a>\n13. Gemini - In My Head (Derrick Carter rmx)  <a href=\"record-label.aspx?id=141\">Classic</a>\n14.  Gourachandra - Show You The Way (Dan Curtin rmx) <a href=\"record-label.aspx?id=906\">It  Is What It Is</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra068/",
+  "keywords": "",
+  "artist": {
+    "id": "1454",
+    "__typename": "Artist",
+    "name": "Dan Curtin"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Dan Curtin started his production career in Cleveland, Ohio, not exactly one of the world's hotbeds of techno music. Isolated from clubs, DJs and even records themselves, Dan concentrated on honing in on his own sound as a producer, finding success with releases on Sublime, Peacefrog and his own label Metamorphic in the mid-nineties.\n\nFast forward a decade or so and Dan is still releasing on Metamorphic, although these days from Berlin, where he's also been putting the hours into new ventures such as live performance and DJing. As if to prove it, Dan has just released his debut mix CD, 'Mindin' Business Part 2' on Jay Haze's label Tuning Spork label, a double CD of his own material, TS releases and records from likeminded techno producers such as DJ 3000, Michal Ho and Italoboyz. \"Now I feel like I am a DJ,\"  Curtin told website 11th Hour Technology a year or so back. \"Not just a producer who DJs, but a DJ and a producer. Now those two aspects of the music business hold equal importance for me.\"\n\nFor his RA podcast, Dan Curtin has put together a techno set which finds the middle ground between floorshakers and experimentation. One for those long Midwestern drives.\n\n<b>What have you been working on recently?</b>\nJust released a double mix CD on Tuning Spork,  got my new studio built up and am working on my new album.\n\n<b>Where was the mix recorded?</b>\nIn my studio.\n\n<b>What are you up to next?</b>\nSingle releases on Tuning Spork and Metamorphic, September remixes on Nummer and It Is What It Is, gigs throughout Europe and North America, this weekend at <a href=\"/event-detail.aspx?id=28666\">SubScape</a> in Antwerp.",
+    "blurb": "Techno veteran Dan Curtin gets behind the decks for this week's RA podcast."
+  }
+}

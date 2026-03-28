@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "548",
+  "url": "https://ra.co/podcast/548",
+  "id": "548",
+  "__typename": "Podcast",
+  "title": "RA.548 John FM",
+  "date": "2016-11-28T00:00:52.000Z",
+  "fileSize": 168261971,
+  "duration": "01:09:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra548-john-fm-cvr.jpg",
+  "contentUrl": "/podcast/548",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/295117779",
+  "keywords": "Hoolamix, Detroit, House, Omar-S, Jay Daniel, Trilogy Tapes",
+  "artist": {
+    "id": "60186",
+    "__typename": "Artist",
+    "name": "John F.M."
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The SoundCloud tags on \"<a href=\"https://soundcloud.com/johnf-m/broken\">Broken</a>,\" a recent John FM production, are: #Translation #what #is #it #to #be #human. This scuffed electro track is beaten-up and full of remorse, FM's vocals barely penetrating the gloom. \"We hate and neglect each other and in turn find ourselves often guilty of the same betrayals,\" he <a href=\"http://www.thefader.com/2016/07/11/john-fm-broken\">told <i>FADER</i></a> at the time of its release. Rewind a few months and we find him on very different form. \"Did you say you're single? Would you care to mingle?\" he sings warmly on \"<a href=\"https://www.youtube.com/watch?v=RNnCCuTpmSs\">Heard Chew Single</a>,\" the fantastic closing track on Omar-S's album <a href=\"/reviews/18989\"><i>The Best</i></a>. John FM is a 23-year-old from Detroit who, through two EPs on FXHE Records and two guest appearances on Omar-S tracks, has cultivated a rich artistic identity. His two versions of \"Motion\" are another great example of this. The original is a slow and heavy soul jam; on the acoustic version, FM's voice confidently carries the song with just a piano for accompaniment. It's already very clear that FM's aims extend far beyond making people dance. His next EP will be dropping soon through Will Bankhead's freewheeling Trilogy Tapes, and we'd put money on it being an early highlight of 2017. \n\nFM hasn't played outside of the US at this point, but his RA podcast shows what to expect when he inevitably does. It's a rough-and-ready vinyl session chocked full of attitude and classic tracks, with Moodymann, Omar-S, Tyree, Jay Daniel and Prince all making the cut. \n\n\n<b>What have you been up to recently?</b>\n\nWorking a day job. Working my craft. Getting new gear. Laying low and staying out of trouble. I'm so close to where I need to be it seems pointless to revert to old ways. \n\n<b>How and where was the mix recorded?</b>\n\nIt was made in my basement in my robe. Hahaha. Comfort is key. I went vinyl only except for one cut (Jay Daniel's \"Yemaya\") because he didn't have the pressings back yet when I made the mix. It just dropped by the way. Go cop dat boyo! \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nSo the mix is essentially my soundtrack on a time-lapsed night out in Detroit, from dusk till dawn. How I bounce from club to club, I made this mix with myself in mind. I just wanted something good to listen to in the car that accurately represented certain moments in the night that I often experience. \n\n<b>For those who don't know you, tell us a bit about yourself and your work in music so far.</b>\n\nI kinda decided music was what I was going to do coming out of high school. I met Jay Daniel at a local black-owned health food store where he worked at the time (RIP Goodwells, fuck gentrification). I would come in from time to time chop it up about house, and eventually he taught me how to mix. He started to pop off, which gave me encouragement to kick it into high gear. Started buying more records, more gear. Then my senior year of college, I met Omar-S at a Fundementals event, and then again at a Theo Parrish show the following night. He said I looked like MK both times, which was bullshit cuz I don't think I look like him but whatever. It went from there and here we are.\n\n<b>What's the artistic community like in Detroit in 2016? People are obviously very aware of the music coming out of the city but seem less aware of what it's like there on the ground.</b>\n\nThere's a clear divide between those from \"new Detroit\" and \"old Detroit.\" A friend once told me, \"New Detroit thinks the big three are Comerica Park, Ford Field and Joe Louis Arena (which is now essentially Little Caesars Arena, what kind of fuckary?) Feel me? Old Detroit knows what the city is built on and who to pay their respects to. Motown, auto industry, some garage rock, techno, ghetto tech, jittin, blue collar jobs, Southern influence, Belle Isle, the riots, black bottom. This is a gritty place that's getting an involuntary facelift. Yeah, I'm not going to lie, certain parts of the city are looking nicer, but they're only really nice for the people who can afford it, which, more times than not, isn't a minority. \n\n<b>What are you up to next?</b>\n\nFinishing up the mixdowns for a Trilogy Tapes release. Up and up baby. Fuckem. \n",
+    "blurb": "The new school of Detroit in effect. \r\n"
+  }
+}

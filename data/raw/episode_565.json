@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "565",
+  "url": "https://ra.co/podcast/565",
+  "id": "565",
+  "__typename": "Podcast",
+  "title": "RA.565 Lutto Lento",
+  "date": "2017-03-27T00:00:01.000Z",
+  "fileSize": 121118400,
+  "duration": "00:50:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra565-lutto-lento-cvr.jpg",
+  "contentUrl": "/podcast/565",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/314661312",
+  "keywords": "Ludomir Grzelak, FTD, Where To Now, Dark Secret World, Gaza Vybz Rum",
+  "artist": {
+    "id": "40771",
+    "__typename": "Artist",
+    "name": "Lutto Lento"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It can be hard to describe Ludomir Grzelak's music, but if you try you'll probably land on the word \"weird.\" The Polish producer's work, whether it's on tape or wax, is a strange swirl of samples, from Enya to dissonant instrumentation to the field recordings that lurk in the shadows of most his releases. He's a true explorer who mines ideas from everywhere—from pop songs, from his physical environment, from God-knows-where on the internet. You get the impression that he picks up sounds wherever he goes, saving them for later use in some bizarre but affecting sound collage, the kind he's released for labels like FTD and Where To Now. \n\nHis RA podcast, however, focusses on one strand of his sound: dancehall. The mix is made up of 7-inch records collected mostly while he was on vacation in Jamaica. But considering this is Lutto Lento, it's no sunny-day dancehall session, and instead we get the dubbed-out B-sides. It's a trippy mix that feels more like a ghostly skeleton of dancehall. Instruments pop in and out of the mix, vocals appear as short stabs or eerie transmissions, and it's put together with the same cut-and-paste-collage feel of his productions.\n\n\n<b>What have you been up to recently?</b>\n\nJust finished a score for a theatre piece, right now working on an audio piece for an art installation and then I'll have a few weeks for myself before starting the next bigger work. Also, my debut album <i>Dark Secret World</i> should be finally out in a few days from now.\n\n\n<b>How and where was the mix recorded?</b>\n\nLate night in my apartment in Warsaw while sipping purple Gaza Vybz Rum.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI basically limited myself to Jamaican 7-inch dancehall records, and more precisely to the B-sides—\"versions\" of different riddims. I bought some of them from local collectors in Kingston and Montego Bay during my recent trip to Jamaica, others were found on Discogs or in records stores. The final part of a mix is an instrumental version of one of the legendary Tiger's tracks, on top of which I put a spoken-word speech and then had some fun with looping it.\n\n<b>What attracted you to working with cassette as a format?</b>\n\nI've been using tapes to make music since I can remember, mostly to process the sound but not really to get the nice tape hiss, haha. What I'm interested in the most is cutting and sticking together, constructing short loops or experimenting with the physical aspect of the tape by stretching or scuffing its surface. \n\n<b>It sounds like you use field recordings pretty extensively in your music—is this the case?</b>\n\nA field recording opens this mix, you're right. I use field recordings in my own tracks as well, some are recorded by myself, others are found and sampled. This stuff can create different atmospheres in music, like you've got a slow insect making his own sounds and then compare it with having more of them, or just that one but layered; the first one makes you calm, the other one leaves you fearful. Pitching down or up, cutting, playing backwards, you can make whole library out of these.\n\n<b>What are you up to next?</b>\n\nGetting ready to compose my next movie score, also gathering ideas for some new club music. Two exciting records from very interesting artists should be out on my DUNNO Recordings in the following weeks.\n",
+    "blurb": "The Polish artist mixes up dancehall B-sides."
+  }
+}

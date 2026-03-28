@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "64",
+  "url": "https://ra.co/podcast/64",
+  "id": "64",
+  "__typename": "Podcast",
+  "title": "RA.064 Samim",
+  "date": "2007-07-30T09:00:51.000Z",
+  "fileSize": 72589536,
+  "duration": "01:00:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra064-samim-cover.jpg",
+  "contentUrl": "/podcast/64",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra064/",
+  "keywords": "",
+  "artist": {
+    "id": "961",
+    "__typename": "Artist",
+    "name": "Samim"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Samim is one to watch in 2007. His latest 12” ‘Heater’ is poised to be the first accordion techno hit ever – and yep, that’s a good thing – while in September he drops his debut artist album on Get Physical, ‘Flow’. As a producer, Samim has often been one half of duos, joining forces with Michal Ho as Samim & Michal, Jay Haze as Bearback and Fuckpony (check out their album ‘Children of Love’ for some delicious Prince-goes-clubbing action), and lately percussionist Miguel Toro, with whom he’s been gigging as a live techno/percussion double act.\n\nBut Samim also does stuff his on his own: his remix of Pier Bucci ‘Hay Consuelo’ was a sleeper club hit earlier this year, while he’s steadily building a reputation as a live act that can deliver serious fun to the party: in the last month alone he’s played Watergate in Berlin, Fabric in London and Monza in Ibiza. \n\nSamim also mixes records together, too, and RA.064 is a rare opportunity to check out his bag. Full of sly creative winks that link up the likes of Afrobeat, techno, house and reggae, it’s an hour of good, clean Swiss fun. With accordions. Not convinced? Samim is also techno’s most enthusiastic blogger: check out <a href=\"http://www.robidog.com/\">Robidog</a>, one of the nicest places on the net to get your daily YouTube fix. And in a RA podcast/Robidog frenzy special, Samim has put together a page about RA.064: there’s a tracklist with links, a timeline breakdown of the mix as well as video links for further listening. How cool is that? Click on this picture to check it out:\n\n<a href=\"http://www.robidog.com/podcast/residentadvisor/\" target=\"_blank\"><img src=\"/images/podcast/samim_rapodcast_vis.jpg\" alt=\"Samim’s RA.064 breakdown \" border=\"0\" align=\"left\" class=\"imgborder\"></a><br clear=\"all\">\n\nThree questions for the Chairman of the Board:\n\n<b>What have you been working on recently?</b>\n\nIt's been a very busy year so far. Besides my packed weekend touring schedule, I've managed to produce my new album 'Flow' for Get Physical. I hope that the first single 'Heater' will make lots of people smile. It will be out August 1. Besides the music, my Internet-based activities are lots of fun right now. I've never communicated with such a wide range of people before, most notably through the community which is shaping around my blog Robidog.\n\n<b>Where was the mix recorded?</b>\n\nI did the mix in my Berlin studio. It felt a bit like traveling the world though, as the mix features music from so many different cultures.\n\n<b>What are you up to next?</b>\n\nI'm preparing my new liveset for the upcoming world tour, planning for the next few releases. There's also a couple of crazy things in the making that I can't talk about just yet!",
+    "blurb": "This week’s podcast is a rare DJ mix from Get Physical talent Samim, complete with links and visuals."
+  }
+}

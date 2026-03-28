@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "364",
+  "url": "https://ra.co/podcast/364",
+  "id": "364",
+  "__typename": "Podcast",
+  "title": "RA.364 Skudge",
+  "date": "2013-05-20T00:00:44.000Z",
+  "fileSize": 89176439,
+  "duration": "01:14:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra364-skudge-cvr.jpg",
+  "contentUrl": "/podcast/364",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra364/",
+  "keywords": "House, Techno, Berns, Skudge Presents, Indigo Area",
+  "artist": {
+    "id": "15767",
+    "__typename": "Artist",
+    "name": "Skudge"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Swedish techno duo Skudge have mastered the art of being simultaneously unpredictable and reliable. They've been doing their thing for a few years now, and have managed to stay fresh without making drastic stylistic changes, although the horizons of their Skudge Presents imprint have been broaden in recent times by like-minded producers such as Rivet, MRSK and Aardvarck\n\n\"Is this techno or house?\" was one of the questions from Todd Burns' <a href=\"/feature.aspx?1321\">Charting Skudge</a> feature back in 2011. And you might ask yourself the same thing listening to their RA podcast. Starting out as you'd perhaps expect, their trip through tested favourites quickly takes a left turn towards hands-in-the-air material, before shrouding itself in darkness. You might even hear a trumpet or two.\n\n<b>What have you been up to recently?</b>\n\nWe just played a few gigs around Europe, and are now back home working on some remixes. But even before that, the never-ending fun of reconnecting cables in the studio! We also have to sort out the release schedule for our label, since we have so many records coming out this year alone. And right after our Stockholm residency at Berns this weekend, we're throwing our very first label night in Malmö next week with our friends from Kontra-Musik, at Inkonst. \n\n<b>How and where was the mix recorded?</b>\n\nWell, we started picking hundreds of our favorite records and along the way rediscovered gems from our respective collections. We then had to build a cohesive \"story,\" try different combinations and accept leaving many favourites on the cutting floor. Then came recording time, and even though we put massive pressure on ourselves, since this was the first proper podcast we ever did, we felt we needed to turn it in fast, and contemplated mixing it on the computer. But after a few weeks of working that way, we realized this wasn't working for us, as we are hopeless vinyl heads. So in the end, we just used a couple of Technics 1210s and a basic mixer with a few effects, recorded in Christian's Parisian studio with no post production. We really like DJing, but we seldom get to do it these days.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nObviously we wanted to showcase artists we really love, but we also wanted to tell a progressive story with a few neat surprises along the way, with loads of tension and contrast, and challenge tempo expectations a little. We wanted to fully embrace what DJing represents to us: combining two tracks to give birth to something that wouldn't exist otherwise, and travelling through different BPMs. DJing is a big deal for us, it is an art form that we feel is too often taken for granted, which amounts to a shitload of safe and boring mixes. It's sad, since DJing is one of the better ways for an artist to investigate outside his safe zone.\n\n<b>You've commissioned an extensive number of remixes of your work over the last couple of years. What interests you about the form?</b> \n\nWe must confess our fondness for the good old times, when labels such as Warp and others released remix EPs all the time. When LFO released a single, you knew there would be a part two of that, with remixes, and that was fun. Running a label is a lot of work, so you might as well have some fun! But it's mostly a good way to connect and collaborate with artists we love and think are relevant. We like the idea of a Skudge family, and some of the artists we want to collaborate with sometimes don't have time to make a full EP for us, or simply are under contract with another label, so a remix is always easier to convince an artist to do.\n\n<b>Do you produce with a particular club or dance floor in mind?</b> \n\nWe understand that in some cases that a pattern might be relevant. But for us, it would just make no sense. We just humbly attempt to make somewhat timeless music, so taking context into account would be irrelevant.\n\n<b>What are you up to next?</b>\n\nOur latest releases, with new artists such as Koehler and Fishermen, did extremely well. Look out for more of that this year, starting with an Innerspace Halflife EP later this spring, plus EPs and LPs from Alex Cortex, Aardvarck, Rolando, Fishermen and more yet unnamed on Skudge Presents. We're also starting groundwork on our own second album—hopefully for the beginning of next year—but we're not gonna rush things. We're also bringing the Skudge label night overseas and planning an extensive tour outside of Europe later this year, so be on the lookout.",
+    "blurb": "Techno by way of Sweden. "
+  }
+}

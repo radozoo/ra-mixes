@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "34",
+  "url": "https://ra.co/podcast/34",
+  "id": "34",
+  "__typename": "Podcast",
+  "title": "RA.033 Geddes",
+  "date": "2006-11-13T00:00:53.000Z",
+  "fileSize": 61393249,
+  "duration": "01:03:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra033-geddes-cover.jpg",
+  "contentUrl": "/podcast/34",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra033/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:863"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Geddes is the DJ, producer and promoter behind London’s famed <a href=\"http://www.residentadvisor.net/news.asp?ID=7953\">Mulletover</a> parties, known for their wacky themes (moustaches, flip-flops) and out-of-the-way venues. Mulletover have taken over Kwik-Fit garages, churches and forests before in the name of techno. Together with the lads from <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=810\">Audiofly</a>, Geddes is also one-third of Rekleiner, who’ve released deep, trancey minimal techno on Moodmusic, Connaisseur and Maschine Records.\n\nAs a DJ, Geddes plays lush and deep, spinning everything from deep house to minimal techno, often in the direction of Detroit. On his mix for RA, he also brings the funk.\n\nWhen the surprisingly mullet-free Geddes handed over the goods, RA peppered him with a few questions.\n\n<b>What have you been working on recently?</b>\n \nSince I got back from Ibiza things have been quite busy with lots of studio work including two remixes. One I did for Connaisseur Recordings titled ‘Compression’ by Sebastian Roya - the original was massive for me over the summer! The other is a remix of ‘Sharing Transparently’ by Cristian Paduraru for Absurd Recordings, which was also remixed by Dave DK. That's probably one of our best productions to date. Both releases are due out this month.\n\nApart from production, I’ve been really busy planning the festive season for my club night Mulletover. Our Christmas party with the superb <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=703\"> Daniel Stefanik</a> [Moon Harbour, Mobilee] is happening on November 25. On New Year's Eve we’re hosting room two of Turnmills while the Chemical Brothers play in the main room. Silversurfer [Crosstown Rebels] and :TERRY: [Freak n’ Chic] will be joining me. On New Year's Day we’re planning a very secret warehouse party. We have some very special guests lined up for the event, but we won't announce who will actually be playing until the day. \n\nDJ-wise, I played Zurich last month with <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=842\">Clive Henry</a>, then Leeds with Silversurfer and <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=735\">Scarlet Etienne</a>. This weekend just gone I was in Berlin where I played at Watergate, which is an amazing club. I'd never been or played there before but I had the most fantastic time! \n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded in my studio at home.\n\n<b>What are you up to next?</b>\n \nI've got another remix to do before the end of November for Adultnapper who's launching a new label at the beginning of next year. The track is titled ‘Floorescent’, with the original on the A-side and a remix from ourselves on the B.\n\nGig-wise, I’m at the Key in London this weekend with <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=711\">Guido Schneider</a>, then there's Mulletover the following weekend with Daniel Stefanik. December is pretty quiet so I’ll be spending most of my time in the studio.\n\n",
+    "blurb": "This week's RA podcast comes from Geddes, who delivers a mix of deep minimal funk."
+  }
+}

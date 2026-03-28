@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1003",
+  "url": "https://ra.co/podcast/1003",
+  "id": "1003",
+  "__typename": "Podcast",
+  "title": "RA.998 Kim Ann Foxman",
+  "date": "2025-07-20T21:59:10.000Z",
+  "fileSize": 0,
+  "duration": "01:09:14",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-998-kaf.jpg",
+  "contentUrl": "/podcast/1003",
+  "tracklist": "Speedy J - G Spot (J Spot Mix)\nKasra V - No Shade\nDJ Icey - Low Down Good Girl (Retro Edit Mix)\nDJ Professor - Runner (Undertrance)\nEoin DJ - Vapor Sprint\nPorn Kings - Up to No Good (Milky Bar Kids Remix)\nGuy Contact - Many Faces of Hedon\nBlu:sh - The Hawk (Blush Edit)\nRukmani - Rame (Resistance D. Remix)\nState of House - Feel It (Tranquility Mix)\nJ. Daniel - The Way (Original Mix)\nTwin Snakes (Kim Ann Foxman & Wiz) - JUICY :P (Unreleased)\nThe Source Experience - Synaesthesia\nBliss Inc. - Planet Unreal\nAlbion - Air (Oliver Lieb Remix)\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra998-kim-ann-foxman",
+  "keywords": "",
+  "artist": {
+    "id": "14842",
+    "__typename": "Artist",
+    "name": "Kim Ann Foxman"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The <i>RA Podcast</i> began with RA.001 in 2006. Since then, it's spotlighted the best and brightest in dance music every week, without fail. As we approach our 1,000th episode next month, we're switching things up, pairing artists whose sounds complement one another and, in doing so, zeroing in on the forces shaping the past, present and future of electronic culture.\n\nThis week, we shift lanes to Roza Terenzi and Kim Ann Foxman, two artists who strike a rare balance between reverence and reinvention. Both are key figures in queer clubbing circles, deeply informed by the halcyon days of '90s and early '00s club music yet fully committed to pushing it forward.\n\nEach artist has carved out a distinct path. Roza Terenzi started out in Perth, Australia, before making a home in Berlin in 2020, while the Hawaii-born Foxman made her name in New York by way of San Francisco in the early '00s. For RA.998, they've contributed separate mixes, to be enjoyed together as two parts of the same whole. (Listen to Roza Terenzi's A-side <a target=\"_blank\" href=\"/podcast/1002\">here</a>.)\n\nFoxman takes the B-side and makes her <i>RA Podcast</i> debut. As a vocalist for Hercules & Love Affair and a sought-after producer in her own right, the New York-based artist blends club heft and melodic flourish with a distinct pop sensibility shaped by '90s dance music. (She got her first job making smoothies at an all-ages club in Hawaii while Deee-Lite performed live behind her.)\n\nLike Roza Terenzi, Foxman draws from across eras. Her contribution to RA.998 is warm, expressive and emotionally tuned, unfurling a palette of house, breaks and trance laden with bright pads, bold hooks and an ear for atmosphere. Listen out for the Whitney Houston sample and you'll know what we mean. \n\nWhile Foxman and Roza Terenzi embrace a fun, vibrant musical style, their work is grounded in intentionality. They're invested in honouring the cultural and political roots of dance music: Foxman has long advocated for a more inclusive, community-driven club scene, while Roza Terenzi was among the first artists to begin <a target=\"_blank\" href=\"/news/82789\">pulling shows</a> this summer as a matter of principle.\n\nBoth sides of RA.998 show how the sounds of past eras can be reimagined to move seamlessly with the present. Hopefully you'll even feel a jolt of inspiration to get yourself to the nearest dance floor, ASAP.<i> –Bella Aquilina</i>\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b> \n\nI recorded my mix at home in Brooklyn. I wanted to mix some old-school gems from my early rave days with new jams I've been playing out lately. \n\n<b>What have you both been up to recently?</b>\n\nI just came back from a forest party in upstate New York. I love spending time up there. \n\n<b>As collaborators, what do you feel connects you creatively or philosophically as artists?</b> \n\nRoza Terenzi is one of my favorite DJs and producers. I love how she blends old-school influences with fresh ideas and sounds and creates something exciting and new. I love both her sets and productions.\n\n<b>You've both seen shifts in the dance music landscape over the years—how would you describe the biggest changes since you first emerged?</b>  \n\nThe dance music scene has become much more diverse and inclusive since I first started DJing, which was something really needed. There's also way more space for emerging artists now, which is amazing—it keeps things fresh, brings in new energy and constantly introduces new sounds.\n\n<b>What do you hope for in the rest of 2025, musically or otherwise?</b> \n\nNo more wars. I'm hoping for more music, more dancing and more moments of connection. We need joy and togetherness now more than ever.",
+    "blurb": "A queer icon steps up for RA.998's B-side."
+  }
+}

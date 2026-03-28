@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "125",
+  "url": "https://ra.co/podcast/125",
+  "id": "125",
+  "__typename": "Podcast",
+  "title": "RA.125 Move D",
+  "date": "2008-10-20T09:00:06.000Z",
+  "fileSize": 97504509,
+  "duration": "01:21:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra125-move-d-cover.jpg",
+  "contentUrl": "/podcast/125",
+  "tracklist": "01. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Like I Was King (Black Label Mix) - <a href=\"/record-label.aspx?id=576\">Compost Records</a>\n02. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Stray - <a href=\"/record-label.aspx?id=1014\">Philpot</a>\n03. <a href=\"/dj-page.aspx?id=1731\">Move D</a> feat. Fragment - Untitled - <a href=\"/record-label.aspx?id=1152\">Workshop</a>\n04. <a href=\"/dj-page.aspx?id=1731\">Move D</a> feat. Eric D. Clark - Untitled - Unreleased\n05. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Heidelberg Gals - <a href=\"/record-label.aspx?id=1214\">Running Back</a>\n06. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Untitled - Unreleased\n07. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Untitled - Unreleased\n08. Reagenz - Untitled - Unreleased\n09. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Cube - <a href=\"/record-label.aspx?id=1214\">Running Back</a>\n10. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Untitled - Unreleased\n11. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Untitled - Unreleased\n12. <a href=\"/dj-page.aspx?id=1731\">Move D</a> - Sisters & Brothers - <a href=\"/record-label.aspx?id=1596\">Uzuri</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra125/",
+  "keywords": "",
+  "artist": {
+    "id": "1731",
+    "__typename": "Artist",
+    "name": "Move D"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Looking over Move D's distinguished discography, it's almost easy to see why 2008 has been something of a watershed year for the producer. As the world of electronic music continues to move away from the dry, minimal sound, D's warm, deep past looks prescient. But while deep house and ambient music may once again fall out of favor, David Moufang, the man behind the Move D name, will most likely keep plugging away until the whole thing comes around again. (After all, he's already been at it for more than 16 years.)\n\nFor now, Moufang is riding high on a stellar set of singles, the most recent of which was released on fellow RA podcaster <a href=\"/dj-page.aspx?id=3760\">Gerd Janson</a>'s Running Back imprint. And yet most will remember 2008 as the year that Moufang once again proved that collaboration is his strong suit: <a href=\"/review-view.aspx?id=5296\">Moufang's stunning full-length</a> on Smallville with Benjamin Brunn continues to reveal its mysteries more than four months after its release. On his RA podcast, D has a few unreleased collaborations on tap, as well as a whole host of solo material—also unreleased. Sure, there are a few things you might have heard here before, but this live set from Berlin's Tape Club, is a self-portrait of the producer in flux. Moufang himself calls it a \"mess.\" We call it a pretty awesome one.\n\n\n<b>What have you been working on recently?</b>\n\nA new Reagenz album with Jonah Sharp, AKA Spacetime Continuum, which will be the follow-up to our 1994 debut album on Reflective and Source Records. Remixes for Minilogue, Class 71, Motorcitysoul, Russ Gabriel and Prime Numbers. I have a new 12-inch out on running back and one forthcoming on Uzuri, and a new album with Pete Namlook on Fax, as well as an upcoming vinyl LP with Bedouin Ascent on Binemusic.\n\n<b>Where and how was the mix recorded?</b>\n\nIt was recorded live at the Tape Club in Berlin in the summer of 2008 using Ableton Live, the Korg Legacy Collection and Bitstream 3x.\n\n<b>Can you tell us a little about the mix?</b>\n\nI was just trying out some soon-to-be and just-released tracks. A bit of a mess, really...\n\n<b>You're off to play <a href=\"/event-detail.aspx?id=68453\">Meandyou</a> in Manchester. Are you into Manchester's musical past?</b>\n\n24 hour party people! ;-)\n\n<b>How was your summer, having completed the LP?</b>\n\nIt was great. Took some time for vacation in Italy, ate some good food and did lots of guitar playing.",
+    "blurb": "Move D comes alive in this set from earlier this year at Berlin's Tape Club."
+  }
+}

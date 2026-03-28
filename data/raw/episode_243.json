@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "243",
+  "url": "https://ra.co/podcast/243",
+  "id": "243",
+  "__typename": "Podcast",
+  "title": "RA.243 Jonas Kopp",
+  "date": "2011-01-24T00:00:18.000Z",
+  "fileSize": 80407423,
+  "duration": "01:06:49",
+  "imageUrl": "https://static.ra.co/images/podcast/ra243-jonas-kopp-cvr.jpg",
+  "contentUrl": "/podcast/243",
+  "tracklist": "Francois X - Firewall (Burning Version Fx) - Deeply Rooted House\nMarkus Suckut - Pragmatics - Lineal\nSubstance - Gestalts - Ostgut Ton\nA Made Up Sound - Rear Window - Delsin\nShed - Boom Room - Ostgut Ton\nTazz - Unrestrained - Underground Quality\nBenny Rodrigues - G - Poker Flat\nFanon Flowers - Chicago Detroit Part I - SS\nAndres Zacco - Hattack - Unreleased Promo\nCounterpart - PR - M_REC LTD\nDeveloper - Edificio (Silent Servant Remix) - Modularz\nJonas Kopp - Nibirus - Enemy Records\nCassy - Never Give Up On A Mood Swing - Ostgut Ton\nFrancois X - Drummy Zone - Deeply Rooted House\nGustavo Lamaas - Mas - Greener\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra243/",
+  "keywords": "Jonas, Kopp, spectral, ostgut, techno, argentina",
+  "artist": {
+    "id": "2109",
+    "__typename": "Artist",
+    "name": "Jonas Kopp"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jonas Kopp's releases have been bubbling under for a number of years now—2010 was the year they boiled over. A more dark and considered ambience ran through the Argentinean producer's appearances on Stroboscopic Artefacts, Ostgut Ton and Perc Trax last year, while Kopp continued to build upon the housier end of his range with a second EP for Belgium label Curle Recordings. Promoters across Europe and Asia seemed to smell the producer coming into bloom: Kopp was booked on his first world tour towards the end of 2010, playing gigs in Germany, France, Spain, Denmark, China, Hong Kong and Japan. And this mass of forward-momentum spills over to his RA podcast. Techno is of course the common denominator, although his love for deeper house sounds is never more than a couple of chords away from the picture. \n\n<b>What have you been up to recently?</b>\n\nI was on tour around the world the past six months. I first went to Europe and then I was playing in Asia, in places such as Tokyo, Beijing and Hong Kong. I have been working on my new project and label that will be in stores soon this year (it will be available only as vinyl). I also had the opportunity to teach music production. I want to show my knowledge to the people that love electronic music. 2010 was a great year for me!\n\n<b>How and where was the mix recorded?</b>\n\nI recorded this mix with two Technics 1200 MkIIs and an Allen & Heath Xone:92 mixer—this is the current technical equipment that I'm using at the moment in my shows as DJ (classic way!). It was recorded at my studio in Buenos Aires.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nThis is a little sample of the music that I've been playing lately in my DJ sets. I like to play from ambient to house and techno. I really like to create different atmospheres. I try to mark a strong difference between my live PA and my DJ sets—because the direction of my live PA is more techno. I really enjoy playing different kind of styles as a DJ.\n\n<b>How is the house and techno scene in Buenos Aires at the moment?</b>\n\nTechno is the beat of the moment at the underground nights in Buenos Aires, but house is taking the stage... I think this year will be good for house and techno music. I want to start to do some parties in Buenos Aires in May and start to book some interesting names, friends of mine that would love to play in Buenos Aires. The crowd are waiting for new artists proposals in Buenos Aires.\n\n<b>What are you up to next?</b>\n\nSetting up my next European tour in March/April, a lot of huge gigs have been confirmed: Berghain, Culture Box, Harry Klein, Trouw and Cassette Club among others. I'm working hard to get a lot of new music, I have talked with DJ Deep about making an EP on his great label Deeply Rooted House, so I'm working on this project at the moment and lots of remixes. 2011 is really interesting for my label Traut, with really solid releases coming up and working on tracks for my new label M too. I have a lot of remixes to do, but one of the most important is my contribution to the new label project of my agency <a href=\"http://pullproxy.com/\">Pullproxy</a>. They are releasing the first record soon, a Falko Brocksieper track with a remix of mine among others.",
+    "blurb": "Buenos Aires is in the house. Or is that techno?"
+  }
+}

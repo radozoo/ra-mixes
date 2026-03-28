@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "424",
+  "url": "https://ra.co/podcast/424",
+  "id": "424",
+  "__typename": "Podcast",
+  "title": "RA.424 DJ Dodger Stadium ",
+  "date": "2014-07-14T00:00:43.000Z",
+  "fileSize": 161737424,
+  "duration": "01:07:17",
+  "imageUrl": "https://static.ra.co/images/podcast/ra424-dj-dodger-stadium-cvr.jpg",
+  "contentUrl": "/podcast/424",
+  "tracklist": "DJ Dodger Stadium - Sit Down Satan\nDJ Dodger Stadium - Love Songs\nChief Keef - Baby What's Wrong With You (DJ DS Dub)\nFrankie Bones - Strings of Death\nPrince - Nothing Compares 2 U (DJ DS Head High Edit)\nSpencer Parker - Yogoto\nMathew Jonson - Leaning to Fly Dub (DJ DS Dream Edit)\nDJ Dodger Stadium - Memory Lane\nStenny & Andrea - Sea (The Time Gate)\nRod Lee - Get Real High\nFloorplan - Funky Souls\nSHXCXCHCXSH - OOOVVVDDDDD\nBlood Orange - High Street (DJ DS Edit)\nJeff Mills - If (We)\nJoey Beltram - Flash Cube\nDJ Dodger Stadium - Never Win\nRaw Man - Lovers\nRecondite - PSY\nDJ Dodger Stadium - By Your Side\nPeter Ivers - In Heaven",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra424/",
+  "keywords": "DJ Dodger Stadium, Jerome LOL, Samo Sound Boy, Body High, LA, house, techno, DJ Sliink, Classixx",
+  "artist": {
+    "id": "51311",
+    "__typename": "Artist",
+    "name": "DJ Dodger Stadium"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jerome LOL and Samo Sound Boy have built an empire from their Los Angeles base. The releases from their label Body High represent a broad survey of the current American dance music landscape. You've got Samo's vocal-heavy techno, Todd Edwards' slinky garage, the jerky Jersey club of DJ Sliink—and that's barely scratching the surface. Body High's founders are veterans of the scene, and have become prominent DJs and producers as well. They've supported pop stars and crossover acts like Classixx, thrown warehouse parties, and have taken over Boiler Room LA with their Body High Radio series. In a city known for its constantly shifting tastes, trends and crowds, Body High have come closer to summing it all up than anyone else. \n\nThe music Jerome and Samo make as DJ Dodger Stadium more than lives up to that billing. Their love-letter to LA, <i>Friend Of Mine</i>, is a sleek take on house that we <a href=\"/review-view.aspx?id=15247\">described</a> as \"huge, universal and easy to love,\" which isn't a bad starting point for talking about their podcast. An intoxicating blend of harder techno and dreamy house, the duo throw in a helping of their own productions, some killer tailor-made edits (including Chief Keef, Prince and Mathew Jonson) and bona fide classics from Jeff Mills and Robert Hood. \n\n<b>What have you been up to recently?</b>\n\n<b>Sam:</b> We've been rehearsing our new live show every day. We're doing it without a laptop or any MIDI sync, just samplers and drum machines, so it really takes practice. \n\n<b>Jerome:</b> Trying to stay as cool as we can and stay hydrated in the studio.\n\n<b>How and where was the mix recorded?</b>\n\n<b>Sam:</b> We started off by making some of the special DJ Dodger Stadium edits we wanted to include over a few days, and then when we had those we recorded the mix all in one night at our studio in LA. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\n<b>Sam:</b> We wanted the mix to serve as sort of an addendum to the album. We saw it as chance to build on the mood we set with the LP while incorporating music we really love and respect.  \n\n<b>Jerome:</b> With the album, we tried to really create a world where all the songs existed together, and we feel the mix lives within that world as well. The tracks all capture the atmosphere we strove to create when making the album.\n\n<b>When did you guys start working together, and who brings what to the table?</b>\n\n<b>Sam:</b> We started working together three years ago, when made our first DJ Dodger Stadium  EP, <i>Stadium Status</i>. That was the first release and launching point for our label Body High.\n\n<b>Jerome:</b> Though we both have our own styles when we work independently, when we are DJ Dodger Stadium we really take on the same mentality and influences and work cohesively.\n\n<b>The new album was apparently inspired by John Fante's <i>Ask The Dust</i>. Can you elaborate on the connection between the novel and the record?</b>\n\n<b>Jerome:</b> Though that book is set during a very different Los Angeles, it captures so many aspects of the city that resonate today in our own lives. It wasn't the only thing that inspired the album, by any means, but we tried to evoke similar emotions with the album.\n\n<b>Sam:</b> To me, there's a real theme in that book about struggle and how it's cyclical and almost constant in life. That's something we thought about a lot while making the album, in our own lives and the people around us. Just trying to embrace that and not let it kill you.\n\n<b>What are you up to next?</b>\n\n<b>Samo:</b> We're headed to Australia and Europe for DJ Dodger Stadium shows later this summer and then we're going to come back and do a proper tour in the US this fall. We've also started on new material already as well as constantly working on more of our individual stuff. ",
+    "blurb": "Ethereal house and techno from two LA stalwarts.\r\n"
+  }
+}

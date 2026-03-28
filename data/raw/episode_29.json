@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "29",
+  "url": "https://ra.co/podcast/29",
+  "id": "29",
+  "__typename": "Podcast",
+  "title": "RA.028 Arnaud Rebotini",
+  "date": "2006-10-09T20:10:06.000Z",
+  "fileSize": 58556105,
+  "duration": "01:00:57",
+  "imageUrl": "https://static.ra.co/images/podcast/ra028-rebotini-cover.jpg",
+  "contentUrl": "/podcast/29",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra028/",
+  "keywords": "",
+  "artist": {
+    "id": "5117",
+    "__typename": "Artist",
+    "name": "Arnaud Rebotini"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<a href=\"/dj_view.asp?ID=831\">Black Strobe</a> is \"electronic music that is not afraid to scare people,\" according to Parisians Arnaud Rebotini and Ivan Smagghe. Formed behind the dance counter at Rough Trade in the mid-nineties, Black Strobe are all about the dark side of disco. They signed to Trevor Jackson’s Output label in 2000, predating the neo-electro scene together with like minds such as The DFA, <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=671\">Ewan Pearson</a> and <a href=\"http://www.residentadvisor.net/dj_view.asp?ID=582\">Tiga</a>. Tracks such as ‘Chemical Sweet Girl’, ‘The Abwehr Disco’ and ‘Nazi Trance Fuck Off’ consolidated Black Strobe’s reputation for big grooves with a dark and sinister heart. They’ve remixed Depeche Mode, The Rapture and kings of EBM Nitzer Ebb, which should give you an idea where they’re coming from. They also have an album in the works too. Oh, yeah, they’re from Paris, the punk disco epicentre of the universe. Nuff said.\n\nA classical buff, a computer science student and a death metaller at heart, Rebotini is usually the production half of Black Strobe. But with his RA podcast, Rebotini proves he’s got a record collection to rival Smagghe’s, with enough EBM-influenced goth-house on display to make even the most doomy goth clubber happy. \n\nRA caught up with Arnaud and quizzed him about the mix.\n\n<b>What have you been working on recently?</b>\n\nI'm working a couple of 12\"s and some remixes. Under my own name I’m releasing ‘Meshuggah’ on Kling Klong and ‘The Wood’ on Goodlife/PIAS. I’ve just released a remix of Oliver Huntemann’s ‘37°’ and I’ve been also remixing these records: Zen Kei ‘The Punisher [Great Stuff], Savas Pascalidis ‘Saigon Nightmare’ [Laser Gun], Ascii Disco ‘Closer’ and Water Lily ‘Invisible Ink’ [Mental Groove].\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded in my studio in Paris.\n",
+    "blurb": "Arnaud Rebotini from Black Strobe puts the needle on the records in this week’s RA Podcast.\r\n"
+  }
+}

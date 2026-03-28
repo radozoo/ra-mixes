@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "454",
+  "url": "https://ra.co/podcast/454",
+  "id": "454",
+  "__typename": "Podcast",
+  "title": "RA.454 DJ Masda",
+  "date": "2015-02-09T00:00:34.000Z",
+  "fileSize": 163209010,
+  "duration": "01:08:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra454-dj-masda-cvr.jpg",
+  "contentUrl": "/podcast/454",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra454/",
+  "keywords": "DJ Masda, Cabaret, Cabaret Recordings, Tokyo, Japan, house, techno",
+  "artist": {
+    "id": "37942",
+    "__typename": "Artist",
+    "name": "DJ Masda"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Masda is a veteran Japanese DJ who pushes the sort of classy house and techno you'd associate with someone like Daniel Bell or Zip. He's been playing out since the mid-'90s and, as he's never released any records, is considered to be one of the country's top DJs based on the strength of his club sets alone. Masda has built this reputation through a couple of key parties. The first was Osaka's quop, where as a resident DJ he played alongside big European names like Lawrence and Bell. The second was—and continues to be—Cabaret, his Tokyo party, which celebrated its 15th birthday in October. Cabaret takes place at Unit and the club's Saloon space, and in the past couple of years it's toured internationally, with notable stops at Club Der Visionaere and Salon Zur Wilden Renate in Berlin. (The subtle, reduced house music Der Visionaere favours is a great indication of Masda's style.) Cabaret has now spawned a record label, which Masda runs with So Inagawa, a respected Japanese artist who is about to put out his debut album through the label. They've also released an EP from Der Visionaere's Binh, a rising Berlin DJ and producer who is <a href=\"/news.aspx?id=27749\">next up</a> on Zip's Perlon label. \n\nAll in all, Masda is a DJ who deserves global recognition, as his stylish RA podcast shows. It's 68 minutes of super deep house and agile techno that slips down best in the small hours of the morning.  \n\n\n<b>What have you been up to recently?</b>\n \nOn the weekends I usually DJ somewhere in Japan, and during the week I stay home in my house far from the city to run my label, Cabaret Recordings, and work on distributing Japanese releases through the distributor EFD. Other than that, I try to spend as much time as I can at my favorite record stores, digging for records to play on the weekends.\n \n<b>How and where was the mix recorded?</b>\n \nI recorded the mix at Saloon, inside the venue Unit/Saloon, where I always do my Cabaret parties, during the day on a weekday when nobody was around. I used Technics turntables, Pioneer CDJs and a mixer.\n \n<b>Can you tell us about the idea behind the mix?</b>\n \nI didn't really have a specific idea. When I DJ I usually pay attention to the dance floor and build the mix on the spot, but since I didn't have anybody on the floor, I just picked the tracks that I felt like playing from whatever I happened to have on me. There is all kinds of stuff in there, but I did make sure everything flowed smoothly. Also, it was raining a lot in Tokyo on the day I recorded it, so that might have affected the outcome a little bit.\n \n<b>How was the Cabaret 15th Anniversary party?</b>\n \nSince it was our 15th anniversary we wanted to treat ourselves to something special, so we invited Daniel Bell for a ten-hour set. We had a huge crowd that really wanted to soak in the vibe and enjoy the party, and it turned out great. Even after Daniel's set there were a lot of people sticking around for the afterparty, which was delightful to see. It was a great way to close a chapter of Cabaret's history and start a new one.\n \n<b>You have played in Germany frequently these past couple of years. Do you feel Germany suits your style?</b>\n \nI haven't really played in many countries, so I can only really compare it with Japan, but I do feel Berlin is a place that has a lot more space and time. I did feel a sense of comfort in the people's tolerance. I felt people there generally accepted DJs that play well, regardless of fame and status—more so than the club goers in Japan. There are people like that in Japan, too, but there's still a strong sense of people just going out to see famous DJs.  \n\n<b>What are you up to next?</b>\n \nI’ll be playing alongside Eli Verveine in February on her Japan tour, and Giegling’s label owner Konstantin’s show in April. I also got a Europe tour lined up for March and April. As for my label, we’ll be releasing So Inagawa’s album in February, followed by EPs by Evan Baggs and a few other artists. I’ll also be distributing quality releases from Japanese labels overseas through EFD.",
+    "blurb": "A respected Japan selector shows his wares. "
+  }
+}

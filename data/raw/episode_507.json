@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "507",
+  "url": "https://ra.co/podcast/507",
+  "id": "507",
+  "__typename": "Podcast",
+  "title": "RA.507 Sadar Bahar",
+  "date": "2016-02-16T00:00:07.000Z",
+  "fileSize": 191730727,
+  "duration": "01:19:46",
+  "imageUrl": "https://static.ra.co/images/podcast/ra507-sadar-bahar-cvr.jpg",
+  "contentUrl": "/podcast/507",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/247138347",
+  "keywords": "Soul, house, Theo Parrish, Dego, Music Box, Soul in the Hole, Lee Collins",
+  "artist": {
+    "id": "36575",
+    "__typename": "Artist",
+    "name": "Sadar Bahar"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Sadar Bahar jokingly describes his vinyl-buying habit as a \"30-year disease, a sickness.\" Driven by an \"unquenchable desire to create one of the best collections ever,\" he filled his home with records, and once his home was full, he began storing them in his mother's basement. Speaking to <a href=\"http://rushhourmusic.com/?p=2891\">Rush Hour</a> last year, Bahar admitted to owning as many as nine copies of a single record. His collection includes plenty of exceedingly rare wax—he once <a href=\"https://www.youtube.com/watch?v=dKiyOT8MKdk\">told CDR</a> of a ten-year quest to find a copy of <i>Open Soul</i> by Tomorrow's People. There's also no shortage of other DJs playing music they first heard in a Sadar Bahar set. Theo Parrish, who describes Bahar's DJing as \"sick, sick, sick,\" freely admits to \"biting\" his selections, while Dego simply calls his sets \"ridiculous.\"\n\nBahar's schooling, like many Chicago DJs of his generation, came from watching Ron Hardy in action at the Music Box. \"Every time you went to see Ron Hardy, you'd come away with knowledge and having had a good time,\" he said to CDR. Years later, he noticed that standards had slipped: many of the city's DJs were shopping at the same record stores and playing the same music. This spurred him to go the opposite route, digging harder and deeper than his contemporaries. It's an approach that has come to define him, and it feeds into Soul In The Hole, the party he runs with Lee Collins. The music played at those vinyl-only parties is a joyous blend of disco, soul and gospel. In 2012, the UK label BBE issued a <i>Soul In The Hole</i> compilation, a killer selection that brought Collins and Bahar's sound to the world.\n\nBahar's RA podcast contains a few rare cuts, but that's not the focus—he plays a Blondie track that you can buy for spare change at secondhand shops. He also includes Martin L. Dumas, Jr.'s holy grail <a href=\"https://www.discogs.com/Martin-L-Dumas-Jr-Attitude-Belief-Determination-/release/1784303\">soul burner</a>, whose lyrics go: \"Positive attitude, belief and determination are the elements that make diamonds of us all.\" Anyone who's seen Bahar's smile beaming from behind the decks will agree that it's those qualities that make him such an inspiring DJ.\n\n\n<b>What have you been up to recently?</b>\n\nTraveling the world playing, making and searching for the hottest music.\n\n<b>How and where was the mix recorded?</b>\n\nWith vinyl, in the basement.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nTo continue to educate the world.\n\n<b>How would you describe your record collecting habits in 2016? Where are you digging these days?</b>\n\nIt's 30-year disease, a sickness! And I'm digging all over the world.\n\n<b>How do you feel that the Soul In The Hole ethos fits into today's dance music scene?</b>\n\nI think it fits well. It has been around before many current dancers or DJs were born. \n\n<b>What are you up to next?</b>\n\nContinue to release the hottest music to the people and make sure they are very happy when they leave any event they supported us at. Keep your soul in the hole!\n",
+    "blurb": "A Chicago favourite keeps the soul in the hole. \r\n"
+  }
+}

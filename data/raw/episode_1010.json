@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1010",
+  "url": "https://ra.co/podcast/1010",
+  "id": "1010",
+  "__typename": "Podcast",
+  "title": "RA.1000 Sama' Abdulhadi",
+  "date": "2025-08-12T09:01:04.000Z",
+  "fileSize": 0,
+  "duration": "01:02:31",
+  "imageUrl": "https://static.ra.co/images/podcast/ra1000_podcast_image-samaabdulhadira1000_.jpg",
+  "contentUrl": "/podcast/1010",
+  "tracklist": "Capra (MA) - Coveted Desires (Original Mix)\nBrunello - The Clown's Corridor\nSama' Abdulhadi & Carbon - Thany\nDiana - No Respite\nLuis M - Dark Pleasures (Original Mix)\nDara Ashrafi - Loop 12\nHNGT & Fade - Code Breaker (Original Mix)\nDeus Deserto & Sym Laith - Untitled\nFrank Biazzi - My House\nChris Liebing - Kaizen\nKVTS - Getup (Original Mix)\nMario Ochoa - Blackout\nAlchemy Circle - Inframundo\nNorvis - Unkillable\nZafer Atabey & AnDe Trois - Fastline\nDomek - Come Back (Original Mix)\nWill Lewis - Light Shift (Original Mix)\nLaurent Garnier - Tales from the Real World (Voltaire Remix)\nAhmed Fouad Nijem - Masare7",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra1000-sama-abdulhadi",
+  "keywords": "",
+  "artist": {
+    "id": "73672",
+    "__typename": "Artist",
+    "name": "Sama' Abdulhadi"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "What makes the sound of resistance? For Palestinian DJ and producer <a target=\"_blank\" href=\"/https://ra.co/features/4113\">Sama' Abdulhadi</a>, it's the freedom to explore her artistic expression in all its authenticity and complexity. The Ramallah native shot to global recognition in 2018 after helping build her local scene, in which she developed a high-octane style of techno that's \"become part of my brain, my ear.\" This took her to the world's biggest dance floors and, crucially, turned attention to the conditions from which her music was born.\n\nFor RA.1000, Abdulhadi steps up on the <i>RA Podcast</i> booth for the first time. What emerged is charging, self-assured techno, as calibrated for upending dingy basements as for conquering main stages across the international festival circuit. Here, she flexes the technical skills she sharpened during her time as a student of Beirut's underground dance movement. The guiding principle? Liquid, continuous motion. Carried by the precision of her blends, she surges through various shades of techno, spanning her own storming productions (\"Thany\") to new big-room contenders (Brunello and Connan's \"The Clown's Corridor\") and beloved veterans (<a target=\"_blank\" href=\"/features/4212\">Laurent Garnier</a>'s \"Tales from the Real World (Voltaire Remix)\"). \n\nBut what stands out is RA.1000's defiant energy—the kind that galvanises more than just dance floors. As we all watch the ongoing destruction of Palestine, this mix is an unequivocal reminder that we cannot look away. It's an invitation to not only revel in its soul-stirring humanity, but to fight for it. \"My sets are usually my therapy session,\" Abdulhadi told us in the interview below. \"It's kind of me yelling into a pillow. It's anger, frustration, hope.\"\n\nRA.1000 is a powerful journey through moods, tempos and stimuli, connected by a deep sense of love. A love for the music, the craft, the soil from which Abdulhadi grew. It's been well documented that techno's roots sprouted from resistance. But this entry is a record of where it's growing next. <i>– Rachel Grace Almeida</i>\n\n<b>Can you tell us the idea behind this mix? What do you hope listeners will take away from it?</b>\n\nMy sets are usually also my therapy sessions. It's kind of me yelling into a pillow one way or another. I can't really describe an idea. It's anger, frustration, hope. It's a compilation.\n\n<b>Is there a particular <i>RA Podcast</i> that has had a significant impact on you? If so, why?</b>\n\nThese were the favourites from my uni days. My teacher and I used to listen to them all the time: the king of DJ technique, James Zabiela (<a href=\"/podcast/319\">RA.319</a>); the scientist of sound and acoustics Max Cooper (<a href=\"/podcast/281\">RA.281</a>); the pride and joy of Palestine, descending from Bethlehem, Nicolás Jaar (<a href=\"/podcast/281\">RA.500</a>). \n\nIt just crossed my mind that Jaar was the 500th and I'm the 1000th. That's pretty epic ;) Feels like a score for Palestine.\n\n<b>In a world where technology is rapidly changing the way we DJ, how do you see the future of DJing and mixing evolving?</b>\n\nThat subject scares me. It's moving too fast. I usually like to have at least six to seven months with every new couple of tricks to perfect them, so they would become part of my brain, my ear. So my body would treat them as muscle memory. This keeps the mixing smooth and the mistakes fewer.\n\n<b>Can you share a mix that's particularly special to you? What makes it stand out?</b>\n\nJames Holden's <i>Balance 005</i>. The first time I heard it was 16 years ago, and even today, it still wins for me as the best set in history. The mixing, the tracks—it's too good. It works at a pre-game or at the afters, during a car cruise, or for chilling, partying. Any occasion, you can't go wrong.",
+    "blurb": "RA.1000 continues with a galvanising mix from the pride of Palestine's techno scene, Sama' Abdulhadi."
+  }
+}

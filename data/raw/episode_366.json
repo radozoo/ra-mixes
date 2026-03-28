@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "366",
+  "url": "https://ra.co/podcast/366",
+  "id": "366",
+  "__typename": "Podcast",
+  "title": "RA.366 John Roberts",
+  "date": "2013-06-03T00:01:34.000Z",
+  "fileSize": 60658006,
+  "duration": "00:50:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra366-john-roberts-cvr.jpg",
+  "contentUrl": "/podcast/366",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra366/",
+  "keywords": "John Roberts, Dial, House, Glass Eights, Fences, Travel Almanac, Graphic Design",
+  "artist": {
+    "id": "4671",
+    "__typename": "Artist",
+    "name": "John Roberts"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Since releasing his first record five years ago, US artist John Roberts has remained inimitable. You'll notice big differences between <a href=\"/review-view.aspx?id=8138\"><i>Glass Eights</i></a>, his debut album, and <a href=\"/news.aspx?id=18709\"><i>Fences</i></a>, its recent  follow-up, but the guts of Roberts' sound have remained unchanged—a singular, patchwork style of house composition that tugs on the heartstrings but still feels cerebral. In fact, the term \"house\" is a little reductive in Roberts' case. For every soaring dance floor track like \"Porcelain,\" there's a velvety experimental cut such as \"Paper Frames.\" <i>Fences</i> sits in the sweet spot between these approaches. The album is led by Roberts' love of delicate melodies, but his beats have never felt more rickety and left-of-centre.  \n\nRoberts' DJ sets usually draw heavily from classic house, but RA.366 hews more to the shadowy style of his own productions. \n\n<b>What have you been up to recently?</b>\n\nAfter finishing everything up for <i>Fences</i> and the most recent issue of <a href=\"http://travel-almanac.com/\"><i>The Travel Almanac</i></a>, I came to Paris and have been here for a couple of weeks, wandering around and preparing for a string of upcoming tour dates.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it in New York with records, CDs and tapes, some of which I've been playing in clubs recently and other favorites that I haven't really had the chance to play in a while.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI've been thinking a lot lately about the cassettes that I used to buy at parties in the Midwest when I was a teenager. They were these amazing mixes, mostly from Chicago-based DJs, which had been duplicated so many times that they sounded melted and faded like a bad Xerox. Some of them contained strange versions of tracks that I became really attached to but could never find on record. Unfortunately, the tapes lived primarily on the floor of my car where most of them were smashed, soaked and eventually rendered too dirty to play. \n\nSome years later, I tried to find other copies but wasn't able to. I eventually gave up and submitted to the idea of them just existing in a certain period of time and then fading away. I wanted to attempt to capture some of the qualities of those mixes here.\n\n<b>How will your live show change in light of the new album?</b> \n\nA lot of the tracks from the new album are a bit slower so I've been having a good time recreating more intense versions of them to play live.  I ended up doing that with some tracks from the last album as well and really grew attached to the idea of making these sort of \"live versions\" of songs that are only played in that particular setting and never released.\n\n<b>Do you have any core values or a particular approach as a DJ?</b> \n\nI usually just try my best to keep a genuine approach and focus on playing tracks that have influenced me in one way or another over the years. I try not to pander to a particular audience, but I also don't go out of my way to be alienating or overly esoteric, as I think that most people do go out to have a good time.\n\n<b>What are you up to next?</b> \n\nI'm finishing up some remixes at the moment that I'm really excited about, then beginning next week I'll start traveling for the rest of the year, playing shows in support of the new album!",
+    "blurb": "In session with Dial's US connection. "
+  }
+}

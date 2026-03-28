@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "843",
+  "url": "https://ra.co/podcast/843",
+  "id": "843",
+  "__typename": "Podcast",
+  "title": "RA.843 Nosedrip",
+  "date": "2022-07-31T23:00:20.000Z",
+  "fileSize": 432746888,
+  "duration": "03:00:19",
+  "imageUrl": "https://static.ra.co/images/podcast/ra843-nosedrip-cvr.jpg",
+  "contentUrl": "/podcast/843",
+  "tracklist": "Mazdaratti - Sleeps With The Foxes\nAphrodite - Q Flutes\nWeb - Sand Old Castle\nMasala - Lucid Dreams\nDune Coorr - Forces Of Angels\nDJ Crystl - Meditation\nFuryon - Trance Exploder\nJ-Zbel - Tunnel Vision\nCJ Bolland - Camargue\nAnymus - Expander\nMarco Repetto & Stefan Riesen - High-Flyer\nAerphax - Monkey Dance\nPillow Queen + Ruin - She’s Hot Magic\nGalaxy 2 Galaxy - Journey Of The Dragons\nEge Bam Yasi - Bubble (Remix)\nSagat - Blow\nPsychick Warriors Ov Gaia - Obsidian\nZen Paradox - Aquamarine\nBiotrans - Frehnor\nSelf-Transforming Machine Elves - Steve’s Green Thing\nParanoia - Novus II\nPeter Van Hoesen - Axis Mundi\nI Fly - De La Faire (Maria En Blanc)\nSpacetime Continuum - Tri Decagon\nAriel Kalma & Gilb'r - Tu ne peux pas savoir\nTelo - Anosis\nLocust - Prospero\nTaras Bulba - Die Wahrheit",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra843-nosedrip",
+  "keywords": "",
+  "artist": {
+    "id": "20254",
+    "__typename": "Artist",
+    "name": "Nosedrip"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If we were to pick one word to describe Ziggy Devriendt, AKA Nosedrip, it would probably be humble. He runs a one-man empire out of the modest Belgian coastal town of Ostend, and his STROOM label is one of the most quietly brilliant outfits in Western Europe. (You can read more about the label in <a href=\"/features/3449\" target=\"_blank\">our feature</a> from 2019.) A mixture of obscurer-than-obscure reissues and quirky new material makes for a label as unpredictable as it is essential, and Devriendt's unusual touch is all over it—he prefers to make up his own compilations and sequences instead of just repackaging old records, for example, which explains how important curation and putting songs together is to him.\n\nSo it's not a surprise that , in addition to being a music nerd supreme, Devriendt is also a remarkably good DJ, whose ear for oddball cuts translates well into intuitively danceable music. Judging from his <i>RA</i> Podcast, he's had trance on the mind—the mix features flighty beats that range from CJ Bolland and Psychick Warriors Ov Gaia to new-school practitioners like J-Zbel, plus a major highlight from Peter Van Hoesen that you might remember from Marcel Fengler's <a href=\"/reviews/9684\" target=\"_blank\"><i>Berghain 05</i> mix</a> and plenty of new material from Stroom. (He's also putting out a compilation of Belgian trance, which might explain the direction of this mix.) It's a three hour-ride that varies from jaw-dropping mixing to abrupt, almost shocking transitions that might startle you out of your chair. \n\n<b>What are you grateful for these days?</b>\n\nNot having the worst mental health. Being able to go to places again and see some long-lost unforgotten faces.\n\n<b>How and where was the mix recorded, and can you tell us the idea behind the mix?</b>\n\nThe mix is a collage of different dance-oriented tracks that I have played in the last year at clubs and festivals. It was recorded at a secret location. \n\n<b>Your musical taste is quite expansive, but this mix is focussed on what you called \"dance-oriented\" music. How do you organize your dance records, and, to you, what is the difference between dance-oriented and non-dance music?</b>\n\nI organize quite traditional in genres, geographical and timeframe and period. From the moment music is being used in a social context for dancing I consider it dance-oriented music.\n\n<b>STROOM puts out archival music as well as contemporary music. What do you look for in music when you're working with contemporary artists? And what's coming out on STROOM in the near future?</b>\n\nI would say I'm looking for non-generic honesty. There is a strange German archive project called Taras Bulba that will be out any minute now. We are expanding the Dali Muru & Polyphonic Swarm universe. A great compilation around projects by the belated Patrick Stas and, since dancing is possible again, a focus on Belgian / trance dance heritage will restart itself (some of the tracks are part of this mix).\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nThe financial reality where people are removing away from each other and the influence it has on culture and life in general.\n\n<b>What are you looking forward to in the near future?</b>\n\nPlaying Waking Life & Meakusma festivals. Some new releases. Explore Greece a bit more.",
+    "blurb": "Techno trance, STROOM style."
+  }
+}

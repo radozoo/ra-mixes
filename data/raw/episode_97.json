@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "97",
+  "url": "https://ra.co/podcast/97",
+  "id": "97",
+  "__typename": "Podcast",
+  "title": "RA.097 Sascha Dive",
+  "date": "2008-04-07T03:00:19.000Z",
+  "fileSize": 87691849,
+  "duration": "01:13:04",
+  "imageUrl": "https://static.ra.co/images/podcast/ra097-sascha-dive-cover.jpg",
+  "contentUrl": "/podcast/97",
+  "tracklist": "01. <a href=\"/dj-page.aspx?id=873\">Daniel Bell</a> - Subterranean - Elevate \n02. <a href=\"/dj-page.aspx?id=2329\">Miss Fitz</a> - Meternal - <a href=\"/record-label.aspx?id=832\">Raum...Musik</a> \n03. <a href=\"/dj-page.aspx?id=822\">J. Dahlbäck</a> - Untitled - Svek\n04. Christian Burkhardt - Untitled\n05. Sean Dimitrie & Tim Fuller - The Release - Manali\n06. Manny Diaz - Sleezy, Please Me - Polar Cap\n07. Walt J - Untitled - <a href=\"/record-label.aspx?id=1211\">Dow Records</a>\n08. Mara Trax - Let Goose - <a href=\"/record-label.aspx?id=1127\">Oslo</a>\n09. Nathan Hawks - Derrick's Chase (Groove Dub) - Analog\n10. Leif - Contentment - <a href=\"/record-label.aspx?id=488\">Mindtours</a>\n11. Playin' 4 The City - From Chicago To Paris - Distance\n12. Blaze - Paradise (Freaks Remix) - <a href=\"/record-label.aspx?id=354\">Playhouse</a>\n13. <a href=\"/dj-page.aspx?id=958\">Moodymann</a> - Shine - <a href=\"/record-label.aspx?id=82\">Peacefrog</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra097/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:1715"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you want to talk about truth in advertising, look no further than Sascha Dive’s label Deep Vibes. Dive began the imprint in 2006 and has been releasing the deepest house he can find (or produce) ever since. Clearly, young Sascha has his finger on the pulse: along with Oslo and Cecille, Deep Vibes has quickly become one of the main engines of reviving deep house in Germany’s club scene.\n\nProduction-wise, Dive is nothing if not straightforward: track titles veer towards the descriptive: ‘Deep in Rhythm’, ‘DEep’, ‘Deepest America’ and the music is similarly functional. On his RA podcast, you’ll get much the same: Dive works his way through a 72-minute set that doesn’t so much have peaks and valleys as it simply floats along with cut after cut of dark and, yes, deep vibes—whether he is spinning Dan Bell's old-school minimalism, Manny Diaz's svelte and sexy 'Sleezy, Please Me' or Moodymann's funky epics. Be prepared to get hypnotized.\n\n<b>How did you get into electronic music?</b>\n\nI got my first contact with electronic music in the early ‘90s. My brothers gave some tapes with the hottest shit from the UK, like DJ Duke, Culture Beat, etc. Really multifaceted music. After that, I decided to go to some clubs around Frankfurt like the Robert Johnson, Monza (old Monza). Another big influence was the Freebase record store.\n\n<b>When and why did you start Deep Vibes?</b>\n\nI started Deep Vibes in 2006. The idea for the label was to bring out some really deep and dark US house inspired tracks. \n\n<b>What have you been working on recently?</b>\n\nI’m working now on the new Deep Vibes Recordings release, the <i>Basic Collective</i> EP Part 3. I hope it will be finished before summer. I also just finished remixes for The Asphalt, Two Amadillos & the 1.000.000 Remix for Goldwill. \n\n<b>Where / how was the mix recorded?</b>\n\nThe mix was recorded at my label office. I used two Technics SL-1200MK2’s, a CD player from Technics (SL-DZ1200) and my Allen & Heath Xone 62.",
+    "blurb": "This week on the pod Sascha Dive provides some deep vibes."
+  }
+}

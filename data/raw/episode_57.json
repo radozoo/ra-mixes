@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "57",
+  "url": "https://ra.co/podcast/57",
+  "id": "57",
+  "__typename": "Podcast",
+  "title": "RA.057 Efdemin",
+  "date": "2007-06-10T22:00:25.000Z",
+  "fileSize": 128977778,
+  "duration": "01:47:27",
+  "imageUrl": "https://static.ra.co/images/podcast/ra057-efdemin-cover.jpg",
+  "contentUrl": "/podcast/57",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra057/",
+  "keywords": "",
+  "artist": {
+    "id": "896",
+    "__typename": "Artist",
+    "name": "Efdemin"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Efdemin, aka Phillip Sollmann, is a Berlin producer that's leading the way forward through the converging thickets of minimal, deep house and techno. Last month Efdemin released his debut album on Hamburg's Dial imprint, home to lush like-minded technoists Pantha Du Prince and Lawrence. But whereas Lawrence is about the romantic pads and Pantha the melodies, Efdemin is all about the careful, calculated groove. Check the singles ïLohn & Broto and aAcid Bells  for the evidence.\n\nWondering where this attention to detail comes from? Efdemin is a graduate of the Institute for Computer Music in Vienna, where he put together sound installations as well as worked on a contemporary opera morphing sopranos into howling voices. He also used to sing in a band, although you might not know it from his clothes. One of the snappiest dressed men in dance music, Efdemin's rarely spotted not wearing a shirt and tie.\n\nEfdemin is no slouch over the decks either. A resident at Berlin hotspot Panoramabar and Cityfox in Zurich, his rated Betalounge set last year is still regularly rinsed at the RA office. His RA podcast is bound for the same treatment. And if you like the sounds coming out of your speakers, this coming weekend he heads to Barcelona to play our very own RA party so thank him there!\n\nWatch out also this week for an exclusive Efdemin interview on RA, but in the meantime, here's a few quick questions.\n\n<b>What have you been working on recently?</b>\nI?ve been doing a remix together with my friend RNDM (Oliver Kargl) as Pigon for our labelmate Pantha Du Prince. It will be out soon. Then Iove been backing up my girlfriend. She is doing her first solo exhibition and that was a lot of work. Finally, whenever we have the time, Nick Hoeppner from My My and I try to work on our new live-house project, using hardware only and keeping it minimal and jackin'.\n\n<b>Where was the mix recorded?</b>\nThis mix is called Home From London because I recorded it at my Berlin home directly after I had returned from an amazing weekend in London, playing at Spd Electronic with my mate Lawrence. That was such a lovely party and I was very inspired doing a mix.\n\n<b>What are you up to next?</b>\nDoing more remixes, DJ a lot and work on the upcoming PIGON releases and taking care of the plants in my garden.\n",
+    "blurb": "This week's podcast is a deep house groover from Dial Records' man in Berlin, Efdemin."
+  }
+}

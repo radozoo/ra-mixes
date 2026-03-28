@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "301",
+  "url": "https://ra.co/podcast/301",
+  "id": "301",
+  "__typename": "Podcast",
+  "title": "RA.301 Floating Points",
+  "date": "2012-03-05T00:01:17.000Z",
+  "fileSize": 134268857,
+  "duration": "01:51:51",
+  "imageUrl": "https://static.ra.co/images/podcast/ra301-floating-points-cvr.jpg",
+  "contentUrl": "/podcast/301",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra301/",
+  "keywords": "Floating Points, Sam Shepherd, eglo, house, disco",
+  "artist": {
+    "id": "8375",
+    "__typename": "Artist",
+    "name": "Floating Points"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Floating Points is the recording alias of London-based DJ/composer/producer Sam Shepherd. If you're already familiar with his work it's likely that your access point was \"Vacuum Boogie,\" his irresistible 2009 track that despite its languid 116 beats per minute was among that year's major cross-genre success stories. In understanding Shepherd's approach to club music, it's important to point out his background in jazz piano and composition. However, in this case we're talking about far more than half-arsed Rhodes keys over a 4/4 kick. On tracks like \"People's Potential\" the feeling was that a true dialogue had been struck up between the poles of Shepherd's interests. 2011's <i>Shadows</i> EP was as interesting an interpretation of club music you're likely to hear. (And we thusly <a href=\"/review-view.aspx?id=10265\">gave it a 5</a>.) \n\nShepherd's approach is also informed by his residency at London's Plastic People and <a href=\"/feature.aspx?1210\">Eglo</a>, the label he co-runs with Rinse FM's Alexander Nut. (If you're in London on Thursday evening, <a href=\"/event.aspx?334131\">Eglo's 3rd birthday celebration</a> will definitely be worth a look.) In both cases he brings elements of soul, house, disco, techno and bass music to bear—and that's exactly what you can expect from RA.301. \n\n<b>What have you been up to recently?</b>\n\nGetting ready for a live set at Fabric this Thursday for Eglo's 3rd birthday. I have drum machine, synthesizers and pianos clocked up via a sequencer…hopefully it should work!\n\n<b>How and where was the mix recorded?</b> \n\nTwo record players and a mixer, nothing fancy. Recorded in a room of my house which is a dangerous mess of records.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nSome of the sounds that emanate from the basement of 147 Curtain Road [<a href=\"/club-detail.aspx?id=738\">Plastic People</a>].  \n\n<b>Has your DJ style always incorporated a cross-section of genres?</b> \n\nYeah definitely. I get bored of too much of one thing.\n\n<b>What are up to next?</b>  \n\nBeen building a studio in London and once I've finished with my Ph.D. I should be about ready to record an album with an ensemble that I started a few years back. In the meantime I'm working with Fatima for an album, and experimenting with this live project.",
+    "blurb": "Jazz, house, techno, disco, bass. "
+  }
+}

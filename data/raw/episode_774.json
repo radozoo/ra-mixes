@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "774",
+  "url": "https://ra.co/podcast/774",
+  "id": "774",
+  "__typename": "Podcast",
+  "title": "RA.774 Channel Tres",
+  "date": "2021-04-04T22:00:57.000Z",
+  "fileSize": 146080883,
+  "duration": "01:00:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra774-channel-tres-cvr.jpg",
+  "contentUrl": "/podcast/774",
+  "tracklist": "Custom Intro\nMike Dunn, Mousse T. — If I Can't Get Down - Mousse T.'s Funky Shizzle Mix\nSG Lewis — Feed The Fire feat. Lucky Daye\nAlan Braxe, Fred Falke - Intro\nJack J - Thirstin'\nChristian Rich - Everything Looks Bigger Closer (Vocal Edit)\nRevolution - Deep In Jersey Extended Mix\nDarius, Wayne Snow - Equilibrium\nFolamour - These Are Just Places To Me Now\nJoeski & Jesànte - How Do I Go On\nPeven Everett - Heat Up\nCoeo - Like It Is",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/1022542000",
+  "keywords": "Compton, Controller, JPEGMAFIA, SG Lewis, I can't go outside, Jack J",
+  "artist": {
+    "id": "88580",
+    "__typename": "Artist",
+    "name": "Channel Tres"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Some artists come out of the ether fully-formed. You hear them once and know they're meant to be stars. Channel Tres, from Compton, is one of those artists. Though he started out making beats for Wale, Kehlani and others, his own personality shone just as bright on his debut 2018 single \"<a href=\"https://www.youtube.com/watch?v=EtNIMvyEIQA\">Controller</a>.\" An irresistible blend of laid back hip-hop and modern house music that sounded like a blend of '90s Detroit house and the bass-heavy tech house that rules dance floors in Ibiza, you could hear the unmistakable strains of brilliance in the very first words he says. \n\nHis <a href=\"https://channeltres.bandcamp.com/album/channel-tres\">self-titled EP</a> that same year sealed the deal, leading to collaborations with artists like JPEGMAFIA, S.G. Lewis and Robyn—as well as remixes for artists like Mark Ronson and Grimes. He's crossed over into pretty much every section of mainstream music at this point.\n\nLike most people, the pandemic has been a time of reflection for Channel Tres. He released the 21-minute mixtape <a href=\"/news/73713\"><i>I Can't Go Outside</i></a> chronicling his feelings during the period, and featuring more stars like Tyler, The Creator and Tinashe. He told <i>RA</i> that he took the time to explore \"less polished\" dance music, getting more into the roots of house. That's what his <i>RA</i> Podcast is all about, a leisurely hour that lets each track simmer and cook, from classic Peven Everett and Mike Dunn to Jack J's immortal \"Thirstin'\" and even a cut from Alan Braxe and Fred Falke. It's a mix that, like he's done so well since \"Controller,\" highlights the melodic, sing-songy aspect of dance music as well as its funky, fat-bottomed side.\n\n<b>What have you been up to recently?</b>\n\nIn the studio working on new music that I'm really excited about. \n\n<b>How and where was the mix recorded?</b>\n\nIn the studio, on Ableton!\n\n<b>Can you tell us the idea behind the mix?</b>\n\nI played some songs that i like that i hope other people will like. It's just supposed to make people feel good and just hit play and see what happens. \n\n<b>Your last release, I Can't Go Outside, had some themes about the lockdown and the pandemic. Has the last year changed the way you think or feel about, or interact with, dance music?</b>\n\nYes, definitely. I was having trouble listening to polished dance music. Got me back into more unground stuff. Shoutout Detroit. \n\n<b>You operate in between the worlds of house music and hip-hop. Do you think there's more room for overlap between the two, and what is your relationship with the genres?</b>\n\nI grew up on hip-hop so that's automatic for me. Will always be who I am and a part of my culture. House music I got into in my 20s, when I was exploring different types of music. I was drawn to it because of the way it made me feel, and also where it came from. I think the two automatically overlap and should. Both were made by minority groups who created something out of nothing. They mean so much more than just the music. \n\n<b>What are you up to next?</b>\n\nA lot! I'm up to a lot. Most of it I can't share with everyone yet, but working on music and in the studio. I'm excited about what I'm working on.",
+    "blurb": "Lively house music from an LA star."
+  }
+}

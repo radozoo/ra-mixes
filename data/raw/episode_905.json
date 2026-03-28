@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "905",
+  "url": "https://ra.co/podcast/905",
+  "id": "905",
+  "__typename": "Podcast",
+  "title": "RA.905 Goldie",
+  "date": "2023-10-08T22:00:09.000Z",
+  "fileSize": 294050279,
+  "duration": "02:02:31",
+  "imageUrl": "https://static.ra.co/images/podcast/ra905-goldie-cvr.jpg",
+  "contentUrl": "/podcast/905",
+  "tracklist": "Goldie - Sub Intro (Metalheadz Dubplate)\nPhase - Eterna (Metalheadz Dubplate)\nAdred & Robert Manos - Captivate (Marcus Intalex Remix) (Metalheadz)\nQuartz - Notice The Reverse (Metalheadz)\nDillinja - Silver Blade (Prototype)\nJ Kenzo - Zegafunk (Metalheadz)\nGoldie - Kemistry (Doc Scott Remix) (London Records)\ndBridge - The Little Things (Metalheadz)\nDoc Scott - Swarm (Metalheadz)\nNookie - Untitled Dub (Metalheadz Dubplate)\nHLZ - All My Life (Metalheadz)\nJohn B - Up All Night (Data 3 Remix) (Metalheadz)\nGrooverider - Charade (Dub) (Deep Jungle)\nAdred - New Soul (Goldie's VIP Edit) ((Metalheadz Dubplate)\nSubmotive & Krakota - Tell Me VIP (Metalheadz Dubplate)\nAlex Reece - Pulp Fiction (Benny L Remix) (Metalheadz Dubplate)\nLynx - Splutter (Dubplate)\nDub Phizix & Strategy / Grey Code - Marka Goldie VIP (Dubplate)\nGreyCode - Actress / Commix - Belleview (dBridge Remix) (G's Edit) (Metalheadz Dubplate)\ndBridge & Vegas - True Romance (Headz 25 Edit) (Metalheadz)\nIlk - The Sound Of Falling (Narratives)\nKlute - Dawn Of Reason (JD Spesh) (Dubplate)\nIntalex & Spirit - Crackdown (Metalheadz)\nCalibre & Fats - Drop It Down (Signature)\nGoldie - Inner City Life (Break Remix) (London Records)\nTotal Science - Squash (Break Remix) (CIA Records)\nGoldie - Angel Feat. Eleanor Higgins (Scar Remix) (London Records)\nGoldie Vs. SB81 - Rockstar 81 (Metalheadz)\nVoltage - Anubis (Metalheadz Dubplate)\nGoldie - I Adore U (VIP) (Metalheadz Dubplate)\nSpirit - Re-Dial (Metalheadz)\nMako - Direct Source (Metalheadz Dubplate)\nGoldie - Air Ghost (Edit) (Metalheadz Dubplate)",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra905-goldie",
+  "keywords": "",
+  "artist": {
+    "id": "13",
+    "__typename": "Artist",
+    "name": "Goldie"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "For our 905th <i>RA</i> Podcast, we're proud to welcome Goldie, one of the most famous, talented and important electronic music artists of all time. Starting out as a graffiti artist, he eventually made music under the name Rufige Kru, helping push the then-nascent genre of jungle forward with tracks like \"Krisp Biscuit (Power)\" and \"Terminator.\" The latter was released under the name Metalheads, which would later become the name of his label (with a z instead of an s). Metalheadz—which he cofounded with DJ Storm and the late Kemistry—celebrates its 30th anniversary this year and remains the defining outlet of drum & bass, the genre that grew out of jungle that Goldie helped invent with records like 1995's massive crossover album <a href=\"https://en.wikipedia.org/wiki/Timeless_(Goldie_album)\" target=\"_blank\"><i>Timeless</i></a> (alongside countless other classics). He's a producer, DJ, actor and all-around celebrity, a huge personality in UK electronic music.\n\nGoldie is also <i>RA</i>'s guest curator this month, and his tenure starts with this mix. We'll have more to come starting this week—check our editor's letter later today for more information—but for now, here's a survey of drum & bass' past and present from a man who helped invent the genre. With plenty of new Metalheadz material plus a healthy dose of older tracks, these two hours lay out the history of Metalheadz, drum & bass and its various subgenres, from twinkling liquid to rumbling techstep. It's the first part of a month celebrating Goldie's legacy, and we can't wait to show you the rest.\n\n<b>What have you been up to recently?</b>\n\nI've been very, very busy. It's probably better if you asked me what I've <i>not</i> done recently. I've been doing a lot of art with a couple of artists in Thailand at my gallery <a href=\"https://aurum.gallery/\" target=\"_blank\">Aurum</a>.\n\n<b>How and where was the mix recorded, and can you tell us the idea behind the mix?</b>\n\nThe mix was recorded in London. The idea of the mix is time travel, going back and forth between Headz classics and new pieces that I really like that I've played in the last year or so.\n\n<b>What do you hope to accomplish with your guest curation month at <i>RA</i>?</b>\n\nWell, just to piss off you techno bods at <i>RA</i>. <i>[laughs]</i> Show you some dynamics. I want to change the narrative—which seems to be the same narrative at <i>RA</i>—by showing another beautiful genre of music that has been around for a very long time and seems to be overlooked.\n\n<b>How do you feel about the state of drum & bass these days? Is the scene healthy?</b>\n\nDrum & bass right now is very healthy, and always has been, because it's hard to dismantle. It's a very tight-knit family, community, within drum & bass.\n\n<b>What are you looking forward to in the near future?</b>\n\nManaging the future—we are the future. There's no tomorrow. What we do today creates tomorrow.",
+    "blurb": "Our guest curator for October finally gets an RA Podcast, showing off the history and future of drum & bass."
+  }
+}

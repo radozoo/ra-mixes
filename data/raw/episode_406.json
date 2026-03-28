@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "406",
+  "url": "https://ra.co/podcast/406",
+  "id": "406",
+  "__typename": "Podcast",
+  "title": "RA.406 DJ Marfox",
+  "date": "2014-03-10T00:00:32.000Z",
+  "fileSize": 139535517,
+  "duration": "00:58:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra406-dj-marfox-cvr.jpg",
+  "contentUrl": "/podcast/406",
+  "tracklist": "Intro DJ Marfox\nDJ Marfox - Zumbido \nDJ Marfox - Pemba \nDJ Satélite - Escangalho\nDJ Marfox- Noise\nDJ Marfox - Voodoo Sound Africa \nDJ N.K - Carga Nocturna\nDJ Marfox - Mãe Gorda \nDJ Marfox - Terra Batida \nDJ Marfox - Full Speed\nCristian Amby,Subtronikz Feat Jts & Trap - (DZC Deejays Electro Kuduro Mashup 2013) - Bass Slut\nDJ Marfox - Subliminar\nDJ Marfox - Beat And Break\nDJ N.K - African Zurik\nDJ Marfox - Lucky Punch\nDJ Marfox - Radio Oxigénio AM\nDJ Marfox - BIT (Binary Digital)\nDJ Marfox - Made In Brazil\nDJ Marfox - Urban DNA\nDJ Marfox & DJ Leo - Bazuka Remix\nDJ Marfox - Eu Sei Quem Sou\nDJ Marfox - Pensamentos\nDJ Marfox - Passa a Mensagem",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra406/",
+  "keywords": "DJ Marfox, Marlon Silva, Kuduro, Batida, Batucada, Lisbon, Portugal",
+  "artist": {
+    "id": "45412",
+    "__typename": "Artist",
+    "name": "DJ Marfox"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Today we posted an extended feature called <a href=\"/feature.aspx?2021\">The ghetto sound of Lisbon</a>, in which RA editor Ryan Keeling travelled to the Portuguese capital to meet the artists behind the city's thriving Afro-Portuguese dance music community, and the label, Príncipe, that's exposing their style to the outside world. In this tangled network of producers, crews and neighbourhoods, DJ Marfox is the scene's undisputed leading light. He was a core member of the DJs Do Ghetto crew, who in 2006 put out an eponymous compilation that's viewed as the scene's foundational release. The following year, a chance meeting with Pedro Gomes and Nelson Gomes, who ran the cultural association Filho Único, established a collaboration that would eventually birth the Príncipe label and parties. \n\nMarfox's style, which has its roots in kuduro but incorporates batida, house, kizomba, tarraxinha and funaná, has been showcased outside of Lisbon on <a href=\"/review-view.aspx?id=10337\"><i>Eu Sei Quem Sou</i></a>, Príncipe's first release, and at festivals such as Unsound and CTM. His frenetic, club-ready music has stylistic depth, but it's important to note that what Marfox does is just the tip of the iceberg for both Príncipe and the Lisbon scene.   \n\nRA.406 is a perfect DJ Marfox primer. It features music from all of his releases so far, as well as tracks from his next EP, which is forthcoming on Lit City Trax. As you'll tell from the mix's opening bars, this music that demands your full attention.  \n\n<b>How and where was the mix recorded?</b> \n\nThis mix was recorded at home with the Pioneer DDJ-WeGO controller.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to promote almost all the tracks of the three EPs that I've released to date, and to promote the fourth one, which is coming out in April.\n\n<b>How would you describe your music to someone who had never heard it?</b>\n\nIt's 100% dancing and vibrant music, somewhere between house and techno, at 140 BPM. It has short and dynamic variations, which easily makes any dance floor sweat—it is natural and hot. (Mind you, when I say \"natural\" it is with the clear purpose of letting you know that 99% of this music is produced on one of the most criticized software programs, Fruity Loops, and that 99% of the people that are making this music in Lisbon have no formal musical training). \n\n<b>Who are your favourite new Lisbon producers?</b>\n\nI don't have one specific favourite, I like a lot of them. Whenever I find they have their own identity, I then forward them to the Príncipe guys so that they listen to their music and from that point on help make the dream come true for those producers and DJs, which is to have their story put down to wax and be recognized for the excellent music that he or them are making.\n\n<b>What are you up to next?</b>\n\nIn terms of releases, I'm about to have my new EP out soon on NYC's Lit City Tracks, but I'm also working on a new one for later in the year for Príncipe. In terms of live performances, this year took off quite well: I was in Berlin and London, and there's hope to play more abroad, in Europe, in the United States, Japan. Let's wait for this fourth EP to come out in April— hopefully it gives me even more exposure worldwide so that I can continue to show my music. ",
+    "blurb": "The ghetto sound of Lisbon. "
+  }
+}

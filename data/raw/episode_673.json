@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "673",
+  "url": "https://ra.co/podcast/673",
+  "id": "673",
+  "__typename": "Podcast",
+  "title": "RA.673 Boris",
+  "date": "2019-04-22T00:00:20.000Z",
+  "fileSize": 279564285,
+  "duration": "01:56:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra673-boris-cvr.jpg",
+  "contentUrl": "/podcast/673",
+  "tracklist": "Desroi - Birth\n90 Process - Strange Feeling\nDormir - In Pursuit (Cop Envy)\nPloy - Ramos\nJ. Tijn - Concave\nPrimal Code - Alhambra\nLachrin - I XVI V VI VII\nEnd Train - Hypnosis (Tape feed)\nMartyn - Try To Love You\nUnhuman - Behind the Pulse\nMakeness - Get Tae\nThe Baker - Of Gold And Bitter Bread\nSpatial - A Music of Sound Systems (Yilan)\nKarim Maas - C C E D\nGabber Eleganza - Total Football\nArad - Slua Washed\nPhase Fatale - Incision\nAnalog Tara - Density and Surface\nVessel - Argo (For Maggie)\nClark - Piano Ecst\nVerraco - Don't Kill'em All\nMike Davis - Communique´ From An Absent Future 3\nTred - To(night)\nBarker - When Prophecy Fails",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/610128540",
+  "keywords": "Berghain, Ostgut, Paradise Garage, Adro, Catune",
+  "artist": {
+    "id": "11396",
+    "__typename": "Artist",
+    "name": "Boris"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"I believe it is my mission and duty to generate new emotions and new memories,\" Boris tells us in the interview below. This makes sense coming from a DJ, someone whose craft trades primarily in memories and experiences. People hear certain records on certain dance floors that inspire them to become DJs. When they play, they (ideally) create similar memories for their audience. Boris is uniquely well-positioned to do this. His personal history with music begins in West Berlin in the '80s, carries him through New York in the heyday of Paradise Garage and David Mancuso's Loft, and then back to Berlin in time for the heady early days of the city's techno scene. He was a resident DJ at Ostgut, and then its more famous successor, Berghain, which remains his home base today. \n\nBoris's style as a DJ reflects this rich pool of experiences. He is, in a word, eclectic, as at home playing techno in Berghain as he is playing house, disco, HI-NRG or whatever else upstairs in Panorama Bar (he provided one of that dance floor's more legendary moments when, in some Silvester of years past, he played, in its entirety, Maurice Revel's \"Boléro\"). For RA.673, Boris shows the depth and variety of his collection even while drawing from mostly new sounds, slipping from one style to the next in a smooth and unpredictable \"cassette tape style mix.\"\n\n\n<b>What have you been up to recently?</b>\n\nI've been traveling a lot. All over the globe. Making people happy.\n\n<b>How and where was the mix recorded?</b>\n\nI've recorded the mix in Bitwig on my desktop computer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to present a vast and varied selection of styles of new or recent tracks that I like and that would fit in a cassette tape style mix which you can listen to in many different settings, be it on low or high volume.\n\n<b>This super wide-ranging taste seems to be part of your speciality as a DJ—you play techno, you play disco, you once played Maurice Ravel in Panorama Bar. What inspired this approach to DJing?</b>\n\nI like a lot of different styles of music from all over the world and I'm constantly out looking for new and old stuff which will then be incorporated into my sets whenever I feel it's the right moment in space and time.\n\n<b>You have an extraordinary personal history with club culture,  having lived through mythologized eras in New York and Berlin, dancing at places like Paradise Garage. What part of your history as a DJ and a clubber do you look back on most fondly? How do those experiences shape the way you DJ today?</b>\n\nMusic shared amongst people through listening and dancing and a whole lot of other activities generates emotions and memories. Having been able to experience a lot of different music scenes and eras in two very pivotal cities of the world for underground club music showed me what can happen on the dance floor. I believe it is my mission and duty to generate new emotions and new memories. This is one of the most important things a DJ should be able to do. I feel very honoured and happy that people want to hear what I play.\n\n<b>What are you up to next?</b>\n\nMore traveling. More sharing of great music. Making more people happy.\n\n",
+    "blurb": "A cassette-style mix from Berghain's most eclectic DJ. "
+  }
+}

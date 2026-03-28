@@ -1,0 +1,2377 @@
+{
+  "nodes": [
+    {
+      "id": "Techno",
+      "count": 453,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "House",
+      "count": 408,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Minimal Techno",
+      "count": 281,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Deep House",
+      "count": 265,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Experimental",
+      "count": 241,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Ambient Techno",
+      "count": 159,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Detroit Techno",
+      "count": 142,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Electro",
+      "count": 138,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Industrial Techno",
+      "count": 129,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Drum and Bass",
+      "count": 121,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Tech House",
+      "count": 114,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Dub Techno",
+      "count": 108,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Ambient",
+      "count": 93,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "IDM",
+      "count": 81,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Breakbeat",
+      "count": 71,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "UK Garage",
+      "count": 70,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Disco",
+      "count": 68,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Funk",
+      "count": 61,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Dubstep",
+      "count": 60,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Electronic",
+      "count": 54,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Acid Techno",
+      "count": 54,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Soul",
+      "count": 50,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Acid House",
+      "count": 47,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Glitch",
+      "count": 44,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Grime",
+      "count": 44,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Dub",
+      "count": 43,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Footwork",
+      "count": 42,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Downtempo",
+      "count": 41,
+      "family": "Downtempo",
+      "color": "#7678ed"
+    },
+    {
+      "id": "Electroacoustic",
+      "count": 40,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Club Music",
+      "count": 38,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Jungle",
+      "count": 38,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Melodic Techno",
+      "count": 37,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Berlin Techno",
+      "count": 36,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Chicago House",
+      "count": 35,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Organic House",
+      "count": 33,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Jazz",
+      "count": 32,
+      "family": "Downtempo",
+      "color": "#7678ed"
+    },
+    {
+      "id": "UK Bass",
+      "count": 31,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Microhouse",
+      "count": 30,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Hard Techno",
+      "count": 30,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Hip Hop",
+      "count": 28,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Garage House",
+      "count": 28,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Bass Music",
+      "count": 27,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "EBM",
+      "count": 26,
+      "family": "Industrial & Wave",
+      "color": "#b5838d"
+    },
+    {
+      "id": "Industrial",
+      "count": 25,
+      "family": "Industrial & Wave",
+      "color": "#b5838d"
+    },
+    {
+      "id": "Balearic",
+      "count": 23,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Trance",
+      "count": 23,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Drone",
+      "count": 21,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Dancehall",
+      "count": 18,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Afro House",
+      "count": 18,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Kosmische",
+      "count": 18,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Progressive House",
+      "count": 17,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Post Punk",
+      "count": 16,
+      "family": "Industrial & Wave",
+      "color": "#b5838d"
+    },
+    {
+      "id": "Noise",
+      "count": 16,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Juke",
+      "count": 15,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Latin",
+      "count": 15,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Hardcore",
+      "count": 15,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Nu-Disco",
+      "count": 14,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Italo Disco",
+      "count": 13,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "New Wave",
+      "count": 13,
+      "family": "Industrial & Wave",
+      "color": "#b5838d"
+    },
+    {
+      "id": "Baile Funk",
+      "count": 12,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Gqom",
+      "count": 11,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Electro House",
+      "count": 10,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Reggae",
+      "count": 9,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Club Rap",
+      "count": 7,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Krautrock",
+      "count": 7,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Afrobeats",
+      "count": 7,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Reggaeton",
+      "count": 7,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "R&B",
+      "count": 6,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Psychedelic",
+      "count": 6,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Bassline",
+      "count": 5,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Cumbia",
+      "count": 5,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Rave",
+      "count": 4,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Ghetto House",
+      "count": 4,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Chillout",
+      "count": 4,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Synth Pop",
+      "count": 4,
+      "family": "Industrial & Wave",
+      "color": "#b5838d"
+    },
+    {
+      "id": "Ballroom",
+      "count": 4,
+      "family": "Downtempo",
+      "color": "#7678ed"
+    },
+    {
+      "id": "Amapiano",
+      "count": 4,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Baltimore Club",
+      "count": 3,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Kuduro",
+      "count": 3,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Batida",
+      "count": 3,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Ghetto Tech",
+      "count": 3,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Lo-Fi",
+      "count": 3,
+      "family": "Downtempo",
+      "color": "#7678ed"
+    },
+    {
+      "id": "Breakcore",
+      "count": 3,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "World Music",
+      "count": 3,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Trip Hop",
+      "count": 3,
+      "family": "Downtempo",
+      "color": "#7678ed"
+    },
+    {
+      "id": "Tropical",
+      "count": 3,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Percussion",
+      "count": 3,
+      "family": "Experimental",
+      "color": "#8ecae6"
+    },
+    {
+      "id": "Goa Trance",
+      "count": 3,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Miami Bass",
+      "count": 2,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Ragga",
+      "count": 2,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Ambient House",
+      "count": 2,
+      "family": "House",
+      "color": "#f4a261"
+    },
+    {
+      "id": "Classical",
+      "count": 2,
+      "family": "Downtempo",
+      "color": "#7678ed"
+    },
+    {
+      "id": "Future Bass",
+      "count": 2,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Trap",
+      "count": 2,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Boogie",
+      "count": 2,
+      "family": "Disco & Soul",
+      "color": "#e9c46a"
+    },
+    {
+      "id": "Psychedelic Techno",
+      "count": 2,
+      "family": "Techno",
+      "color": "#e63946"
+    },
+    {
+      "id": "Pop",
+      "count": 2,
+      "family": "Downtempo",
+      "color": "#7678ed"
+    },
+    {
+      "id": "UK Funky",
+      "count": 2,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Dembow",
+      "count": 2,
+      "family": "Global",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "Liquid Funk",
+      "count": 2,
+      "family": "Bass",
+      "color": "#2a9d8f"
+    },
+    {
+      "id": "Guaracha",
+      "count": 2,
+      "family": "Global",
+      "color": "#06d6a0"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Deep House",
+      "target": "House",
+      "weight": 183
+    },
+    {
+      "source": "House",
+      "target": "Techno",
+      "weight": 171
+    },
+    {
+      "source": "Minimal Techno",
+      "target": "Techno",
+      "weight": 142
+    },
+    {
+      "source": "Experimental",
+      "target": "Techno",
+      "weight": 103
+    },
+    {
+      "source": "Electro",
+      "target": "Techno",
+      "weight": 85
+    },
+    {
+      "source": "Industrial Techno",
+      "target": "Techno",
+      "weight": 83
+    },
+    {
+      "source": "House",
+      "target": "Minimal Techno",
+      "weight": 76
+    },
+    {
+      "source": "Deep House",
+      "target": "Minimal Techno",
+      "weight": 74
+    },
+    {
+      "source": "Deep House",
+      "target": "Techno",
+      "weight": 74
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "House",
+      "weight": 66
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Techno",
+      "weight": 65
+    },
+    {
+      "source": "House",
+      "target": "Tech House",
+      "weight": 64
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Minimal Techno",
+      "weight": 62
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Minimal Techno",
+      "weight": 61
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Experimental",
+      "weight": 61
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Techno",
+      "weight": 60
+    },
+    {
+      "source": "Disco",
+      "target": "House",
+      "weight": 58
+    },
+    {
+      "source": "Ambient",
+      "target": "Experimental",
+      "weight": 55
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Techno",
+      "weight": 54
+    },
+    {
+      "source": "Minimal Techno",
+      "target": "Tech House",
+      "weight": 54
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Minimal Techno",
+      "weight": 52
+    },
+    {
+      "source": "Deep House",
+      "target": "Tech House",
+      "weight": 51
+    },
+    {
+      "source": "Electro",
+      "target": "House",
+      "weight": 50
+    },
+    {
+      "source": "Experimental",
+      "target": "Industrial Techno",
+      "weight": 50
+    },
+    {
+      "source": "Funk",
+      "target": "House",
+      "weight": 49
+    },
+    {
+      "source": "Deep House",
+      "target": "Detroit Techno",
+      "weight": 48
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Techno",
+      "weight": 41
+    },
+    {
+      "source": "Experimental",
+      "target": "IDM",
+      "weight": 41
+    },
+    {
+      "source": "House",
+      "target": "Soul",
+      "weight": 39
+    },
+    {
+      "source": "Industrial Techno",
+      "target": "Minimal Techno",
+      "weight": 39
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Techno",
+      "weight": 37
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Dub Techno",
+      "weight": 36
+    },
+    {
+      "source": "Experimental",
+      "target": "House",
+      "weight": 36
+    },
+    {
+      "source": "Tech House",
+      "target": "Techno",
+      "weight": 35
+    },
+    {
+      "source": "Electronic",
+      "target": "Experimental",
+      "weight": 35
+    },
+    {
+      "source": "Acid House",
+      "target": "House",
+      "weight": 35
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Dubstep",
+      "weight": 35
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Techno",
+      "weight": 35
+    },
+    {
+      "source": "Funk",
+      "target": "Soul",
+      "weight": 34
+    },
+    {
+      "source": "Experimental",
+      "target": "Minimal Techno",
+      "weight": 32
+    },
+    {
+      "source": "Deep House",
+      "target": "Disco",
+      "weight": 32
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Experimental",
+      "weight": 32
+    },
+    {
+      "source": "House",
+      "target": "UK Garage",
+      "weight": 31
+    },
+    {
+      "source": "Electro",
+      "target": "Minimal Techno",
+      "weight": 30
+    },
+    {
+      "source": "IDM",
+      "target": "Techno",
+      "weight": 30
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "UK Garage",
+      "weight": 29
+    },
+    {
+      "source": "Experimental",
+      "target": "Glitch",
+      "weight": 28
+    },
+    {
+      "source": "Electroacoustic",
+      "target": "Experimental",
+      "weight": 28
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "IDM",
+      "weight": 27
+    },
+    {
+      "source": "Berlin Techno",
+      "target": "Minimal Techno",
+      "weight": 27
+    },
+    {
+      "source": "Electro",
+      "target": "Experimental",
+      "weight": 27
+    },
+    {
+      "source": "Ambient",
+      "target": "Electroacoustic",
+      "weight": 27
+    },
+    {
+      "source": "Acid House",
+      "target": "Techno",
+      "weight": 27
+    },
+    {
+      "source": "Chicago House",
+      "target": "House",
+      "weight": 26
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Electro",
+      "weight": 26
+    },
+    {
+      "source": "Ambient",
+      "target": "Electronic",
+      "weight": 26
+    },
+    {
+      "source": "Grime",
+      "target": "UK Garage",
+      "weight": 26
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "House",
+      "weight": 25
+    },
+    {
+      "source": "Deep House",
+      "target": "Soul",
+      "weight": 25
+    },
+    {
+      "source": "Dubstep",
+      "target": "Techno",
+      "weight": 25
+    },
+    {
+      "source": "Techno",
+      "target": "UK Garage",
+      "weight": 25
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Industrial Techno",
+      "weight": 25
+    },
+    {
+      "source": "Club Music",
+      "target": "Experimental",
+      "weight": 24
+    },
+    {
+      "source": "Deep House",
+      "target": "Funk",
+      "weight": 24
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Jungle",
+      "weight": 24
+    },
+    {
+      "source": "Garage House",
+      "target": "House",
+      "weight": 23
+    },
+    {
+      "source": "Deep House",
+      "target": "Organic House",
+      "weight": 22
+    },
+    {
+      "source": "House",
+      "target": "Organic House",
+      "weight": 22
+    },
+    {
+      "source": "Microhouse",
+      "target": "Minimal Techno",
+      "weight": 21
+    },
+    {
+      "source": "Deep House",
+      "target": "Dub Techno",
+      "weight": 21
+    },
+    {
+      "source": "Disco",
+      "target": "Funk",
+      "weight": 21
+    },
+    {
+      "source": "Dubstep",
+      "target": "UK Garage",
+      "weight": 21
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Grime",
+      "weight": 21
+    },
+    {
+      "source": "Hard Techno",
+      "target": "Techno",
+      "weight": 21
+    },
+    {
+      "source": "Hard Techno",
+      "target": "Industrial Techno",
+      "weight": 21
+    },
+    {
+      "source": "Breakbeat",
+      "target": "House",
+      "weight": 20
+    },
+    {
+      "source": "Electro",
+      "target": "Industrial Techno",
+      "weight": 20
+    },
+    {
+      "source": "House",
+      "target": "Jazz",
+      "weight": 20
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Deep House",
+      "weight": 20
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Experimental",
+      "weight": 20
+    },
+    {
+      "source": "Ambient",
+      "target": "Ambient Techno",
+      "weight": 19
+    },
+    {
+      "source": "Electro",
+      "target": "Tech House",
+      "weight": 19
+    },
+    {
+      "source": "Berlin Techno",
+      "target": "Techno",
+      "weight": 19
+    },
+    {
+      "source": "Dub",
+      "target": "House",
+      "weight": 19
+    },
+    {
+      "source": "Ambient",
+      "target": "Downtempo",
+      "weight": 19
+    },
+    {
+      "source": "Dub Techno",
+      "target": "House",
+      "weight": 19
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "IDM",
+      "weight": 19
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Industrial Techno",
+      "weight": 19
+    },
+    {
+      "source": "Drone",
+      "target": "Experimental",
+      "weight": 19
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Dub Techno",
+      "weight": 19
+    },
+    {
+      "source": "Disco",
+      "target": "Soul",
+      "weight": 18
+    },
+    {
+      "source": "Chicago House",
+      "target": "Deep House",
+      "weight": 18
+    },
+    {
+      "source": "Glitch",
+      "target": "IDM",
+      "weight": 18
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Electro",
+      "weight": 18
+    },
+    {
+      "source": "Experimental",
+      "target": "Industrial",
+      "weight": 18
+    },
+    {
+      "source": "Melodic Techno",
+      "target": "Techno",
+      "weight": 17
+    },
+    {
+      "source": "Hip Hop",
+      "target": "House",
+      "weight": 17
+    },
+    {
+      "source": "Dubstep",
+      "target": "Grime",
+      "weight": 17
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Drum and Bass",
+      "weight": 17
+    },
+    {
+      "source": "Melodic Techno",
+      "target": "Minimal Techno",
+      "weight": 16
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Experimental",
+      "weight": 16
+    },
+    {
+      "source": "Disco",
+      "target": "Techno",
+      "weight": 16
+    },
+    {
+      "source": "Ambient",
+      "target": "Drone",
+      "weight": 16
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Footwork",
+      "weight": 16
+    },
+    {
+      "source": "Techno",
+      "target": "Trance",
+      "weight": 16
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Tech House",
+      "weight": 15
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Electro",
+      "weight": 15
+    },
+    {
+      "source": "Deep House",
+      "target": "Jazz",
+      "weight": 15
+    },
+    {
+      "source": "Balearic",
+      "target": "House",
+      "weight": 15
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Industrial Techno",
+      "weight": 15
+    },
+    {
+      "source": "Electro",
+      "target": "IDM",
+      "weight": 15
+    },
+    {
+      "source": "Acid House",
+      "target": "Deep House",
+      "weight": 15
+    },
+    {
+      "source": "Dubstep",
+      "target": "UK Bass",
+      "weight": 15
+    },
+    {
+      "source": "Deep House",
+      "target": "Garage House",
+      "weight": 15
+    },
+    {
+      "source": "House",
+      "target": "Melodic Techno",
+      "weight": 14
+    },
+    {
+      "source": "Ambient",
+      "target": "IDM",
+      "weight": 14
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Dub Techno",
+      "weight": 14
+    },
+    {
+      "source": "Deep House",
+      "target": "Experimental",
+      "weight": 14
+    },
+    {
+      "source": "EBM",
+      "target": "Industrial Techno",
+      "weight": 14
+    },
+    {
+      "source": "Experimental",
+      "target": "Noise",
+      "weight": 14
+    },
+    {
+      "source": "IDM",
+      "target": "Minimal Techno",
+      "weight": 14
+    },
+    {
+      "source": "Techno",
+      "target": "UK Bass",
+      "weight": 14
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Electroacoustic",
+      "weight": 14
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "UK Bass",
+      "weight": 14
+    },
+    {
+      "source": "Ambient",
+      "target": "Techno",
+      "weight": 14
+    },
+    {
+      "source": "Footwork",
+      "target": "Juke",
+      "weight": 13
+    },
+    {
+      "source": "Club Music",
+      "target": "Techno",
+      "weight": 13
+    },
+    {
+      "source": "Chicago House",
+      "target": "Detroit Techno",
+      "weight": 13
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Minimal Techno",
+      "weight": 13
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Detroit Techno",
+      "weight": 13
+    },
+    {
+      "source": "Grime",
+      "target": "House",
+      "weight": 13
+    },
+    {
+      "source": "Berlin Techno",
+      "target": "Industrial Techno",
+      "weight": 13
+    },
+    {
+      "source": "Funk",
+      "target": "Techno",
+      "weight": 13
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Electro",
+      "weight": 13
+    },
+    {
+      "source": "Breakbeat",
+      "target": "IDM",
+      "weight": 13
+    },
+    {
+      "source": "Jungle",
+      "target": "Techno",
+      "weight": 13
+    },
+    {
+      "source": "EBM",
+      "target": "Techno",
+      "weight": 13
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Glitch",
+      "weight": 13
+    },
+    {
+      "source": "Jungle",
+      "target": "UK Garage",
+      "weight": 13
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Experimental",
+      "weight": 12
+    },
+    {
+      "source": "Dub",
+      "target": "Techno",
+      "weight": 12
+    },
+    {
+      "source": "Afro House",
+      "target": "Deep House",
+      "weight": 12
+    },
+    {
+      "source": "Experimental",
+      "target": "Post Punk",
+      "weight": 12
+    },
+    {
+      "source": "Glitch",
+      "target": "Techno",
+      "weight": 12
+    },
+    {
+      "source": "Downtempo",
+      "target": "House",
+      "weight": 12
+    },
+    {
+      "source": "Afro House",
+      "target": "House",
+      "weight": 12
+    },
+    {
+      "source": "Acid House",
+      "target": "Detroit Techno",
+      "weight": 12
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Jungle",
+      "weight": 12
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Industrial Techno",
+      "weight": 12
+    },
+    {
+      "source": "Glitch",
+      "target": "Industrial Techno",
+      "weight": 12
+    },
+    {
+      "source": "Experimental",
+      "target": "Footwork",
+      "weight": 12
+    },
+    {
+      "source": "Footwork",
+      "target": "Techno",
+      "weight": 12
+    },
+    {
+      "source": "Breakbeat",
+      "target": "UK Garage",
+      "weight": 12
+    },
+    {
+      "source": "Microhouse",
+      "target": "Techno",
+      "weight": 11
+    },
+    {
+      "source": "Dub Techno",
+      "target": "IDM",
+      "weight": 11
+    },
+    {
+      "source": "Downtempo",
+      "target": "Experimental",
+      "weight": 11
+    },
+    {
+      "source": "Dub",
+      "target": "Experimental",
+      "weight": 11
+    },
+    {
+      "source": "Ambient",
+      "target": "House",
+      "weight": 11
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "House",
+      "weight": 11
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Detroit Techno",
+      "weight": 11
+    },
+    {
+      "source": "Dubstep",
+      "target": "House",
+      "weight": 11
+    },
+    {
+      "source": "Industrial",
+      "target": "Techno",
+      "weight": 11
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Dub",
+      "weight": 11
+    },
+    {
+      "source": "Ambient",
+      "target": "Glitch",
+      "weight": 11
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Industrial Techno",
+      "weight": 11
+    },
+    {
+      "source": "Bass Music",
+      "target": "Techno",
+      "weight": 10
+    },
+    {
+      "source": "Glitch",
+      "target": "Minimal Techno",
+      "weight": 10
+    },
+    {
+      "source": "House",
+      "target": "Italo Disco",
+      "weight": 10
+    },
+    {
+      "source": "Minimal Techno",
+      "target": "Organic House",
+      "weight": 10
+    },
+    {
+      "source": "Progressive House",
+      "target": "Techno",
+      "weight": 10
+    },
+    {
+      "source": "Berlin Techno",
+      "target": "Detroit Techno",
+      "weight": 10
+    },
+    {
+      "source": "Funk",
+      "target": "Jazz",
+      "weight": 10
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Melodic Techno",
+      "weight": 10
+    },
+    {
+      "source": "Deep House",
+      "target": "Microhouse",
+      "weight": 10
+    },
+    {
+      "source": "House",
+      "target": "Nu-Disco",
+      "weight": 10
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Microhouse",
+      "weight": 10
+    },
+    {
+      "source": "Ambient",
+      "target": "Kosmische",
+      "weight": 10
+    },
+    {
+      "source": "Industrial Techno",
+      "target": "Noise",
+      "weight": 10
+    },
+    {
+      "source": "Bass Music",
+      "target": "Dubstep",
+      "weight": 10
+    },
+    {
+      "source": "House",
+      "target": "Jungle",
+      "weight": 10
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Drum and Bass",
+      "weight": 10
+    },
+    {
+      "source": "Dub Techno",
+      "target": "UK Garage",
+      "weight": 10
+    },
+    {
+      "source": "Footwork",
+      "target": "UK Garage",
+      "weight": 10
+    },
+    {
+      "source": "Footwork",
+      "target": "House",
+      "weight": 10
+    },
+    {
+      "source": "Ambient",
+      "target": "Dub Techno",
+      "weight": 9
+    },
+    {
+      "source": "EBM",
+      "target": "Electro",
+      "weight": 9
+    },
+    {
+      "source": "Electronic",
+      "target": "House",
+      "weight": 9
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Funk",
+      "weight": 9
+    },
+    {
+      "source": "Deep House",
+      "target": "Melodic Techno",
+      "weight": 9
+    },
+    {
+      "source": "Electronic",
+      "target": "Kosmische",
+      "weight": 9
+    },
+    {
+      "source": "Experimental",
+      "target": "Kosmische",
+      "weight": 9
+    },
+    {
+      "source": "Ambient",
+      "target": "Industrial",
+      "weight": 9
+    },
+    {
+      "source": "Jazz",
+      "target": "Soul",
+      "weight": 9
+    },
+    {
+      "source": "Dubstep",
+      "target": "Experimental",
+      "weight": 9
+    },
+    {
+      "source": "Ambient",
+      "target": "Drum and Bass",
+      "weight": 9
+    },
+    {
+      "source": "Experimental",
+      "target": "Grime",
+      "weight": 9
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Industrial Techno",
+      "weight": 9
+    },
+    {
+      "source": "Club Music",
+      "target": "Footwork",
+      "weight": 9
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Hardcore",
+      "weight": 9
+    },
+    {
+      "source": "Electro",
+      "target": "Trance",
+      "weight": 9
+    },
+    {
+      "source": "Club Music",
+      "target": "Drum and Bass",
+      "weight": 9
+    },
+    {
+      "source": "Dancehall",
+      "target": "Techno",
+      "weight": 8
+    },
+    {
+      "source": "Bass Music",
+      "target": "Experimental",
+      "weight": 8
+    },
+    {
+      "source": "Club Music",
+      "target": "Dancehall",
+      "weight": 8
+    },
+    {
+      "source": "House",
+      "target": "Progressive House",
+      "weight": 8
+    },
+    {
+      "source": "Acid House",
+      "target": "Electro",
+      "weight": 8
+    },
+    {
+      "source": "Jazz",
+      "target": "Techno",
+      "weight": 8
+    },
+    {
+      "source": "Deep House",
+      "target": "Dub",
+      "weight": 8
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Dubstep",
+      "weight": 8
+    },
+    {
+      "source": "Grime",
+      "target": "UK Bass",
+      "weight": 8
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Minimal Techno",
+      "weight": 8
+    },
+    {
+      "source": "Downtempo",
+      "target": "Electronic",
+      "weight": 8
+    },
+    {
+      "source": "Bass Music",
+      "target": "UK Garage",
+      "weight": 8
+    },
+    {
+      "source": "Grime",
+      "target": "Techno",
+      "weight": 8
+    },
+    {
+      "source": "Balearic",
+      "target": "Deep House",
+      "weight": 8
+    },
+    {
+      "source": "Drone",
+      "target": "Electroacoustic",
+      "weight": 8
+    },
+    {
+      "source": "Footwork",
+      "target": "IDM",
+      "weight": 8
+    },
+    {
+      "source": "Footwork",
+      "target": "Jungle",
+      "weight": 8
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Trance",
+      "weight": 8
+    },
+    {
+      "source": "Electro House",
+      "target": "House",
+      "weight": 7
+    },
+    {
+      "source": "Experimental",
+      "target": "Hip Hop",
+      "weight": 7
+    },
+    {
+      "source": "Deep House",
+      "target": "Downtempo",
+      "weight": 7
+    },
+    {
+      "source": "House",
+      "target": "Industrial Techno",
+      "weight": 7
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Microhouse",
+      "weight": 7
+    },
+    {
+      "source": "Disco",
+      "target": "Dub",
+      "weight": 7
+    },
+    {
+      "source": "Ambient",
+      "target": "Deep House",
+      "weight": 7
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Electro",
+      "weight": 7
+    },
+    {
+      "source": "House",
+      "target": "IDM",
+      "weight": 7
+    },
+    {
+      "source": "Dub",
+      "target": "Dubstep",
+      "weight": 7
+    },
+    {
+      "source": "Balearic",
+      "target": "Disco",
+      "weight": 7
+    },
+    {
+      "source": "Balearic",
+      "target": "Techno",
+      "weight": 7
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Experimental",
+      "weight": 7
+    },
+    {
+      "source": "Disco",
+      "target": "Nu-Disco",
+      "weight": 7
+    },
+    {
+      "source": "Disco",
+      "target": "Italo Disco",
+      "weight": 7
+    },
+    {
+      "source": "Acid House",
+      "target": "Minimal Techno",
+      "weight": 7
+    },
+    {
+      "source": "Ambient",
+      "target": "Minimal Techno",
+      "weight": 7
+    },
+    {
+      "source": "House",
+      "target": "Latin",
+      "weight": 7
+    },
+    {
+      "source": "Dubstep",
+      "target": "Electro",
+      "weight": 7
+    },
+    {
+      "source": "Electronic",
+      "target": "IDM",
+      "weight": 7
+    },
+    {
+      "source": "Deep House",
+      "target": "Drum and Bass",
+      "weight": 7
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Dub Techno",
+      "weight": 7
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Downtempo",
+      "weight": 7
+    },
+    {
+      "source": "Acid House",
+      "target": "Breakbeat",
+      "weight": 7
+    },
+    {
+      "source": "EBM",
+      "target": "Experimental",
+      "weight": 7
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Drone",
+      "weight": 7
+    },
+    {
+      "source": "Electroacoustic",
+      "target": "Glitch",
+      "weight": 7
+    },
+    {
+      "source": "Electroacoustic",
+      "target": "IDM",
+      "weight": 7
+    },
+    {
+      "source": "Experimental",
+      "target": "Jazz",
+      "weight": 7
+    },
+    {
+      "source": "Hardcore",
+      "target": "Techno",
+      "weight": 7
+    },
+    {
+      "source": "Hardcore",
+      "target": "Industrial Techno",
+      "weight": 7
+    },
+    {
+      "source": "Industrial",
+      "target": "Post Punk",
+      "weight": 7
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Electro",
+      "weight": 7
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Trance",
+      "weight": 7
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Hard Techno",
+      "weight": 7
+    },
+    {
+      "source": "Bass Music",
+      "target": "Club Music",
+      "weight": 6
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Deep House",
+      "weight": 6
+    },
+    {
+      "source": "Experimental",
+      "target": "Tech House",
+      "weight": 6
+    },
+    {
+      "source": "Chicago House",
+      "target": "Techno",
+      "weight": 6
+    },
+    {
+      "source": "Melodic Techno",
+      "target": "Organic House",
+      "weight": 6
+    },
+    {
+      "source": "Electronic",
+      "target": "Techno",
+      "weight": 6
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Disco",
+      "weight": 6
+    },
+    {
+      "source": "Funk",
+      "target": "Hip Hop",
+      "weight": 6
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Soul",
+      "weight": 6
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Melodic Techno",
+      "weight": 6
+    },
+    {
+      "source": "Dancehall",
+      "target": "Grime",
+      "weight": 6
+    },
+    {
+      "source": "Baile Funk",
+      "target": "Dancehall",
+      "weight": 6
+    },
+    {
+      "source": "Deep House",
+      "target": "Electro",
+      "weight": 6
+    },
+    {
+      "source": "Dub",
+      "target": "Funk",
+      "weight": 6
+    },
+    {
+      "source": "Electronic",
+      "target": "Post Punk",
+      "weight": 6
+    },
+    {
+      "source": "Dub",
+      "target": "Reggae",
+      "weight": 6
+    },
+    {
+      "source": "Ambient",
+      "target": "Dub",
+      "weight": 6
+    },
+    {
+      "source": "Experimental",
+      "target": "Microhouse",
+      "weight": 6
+    },
+    {
+      "source": "EBM",
+      "target": "New Wave",
+      "weight": 6
+    },
+    {
+      "source": "Deep House",
+      "target": "Electronic",
+      "weight": 6
+    },
+    {
+      "source": "Latin",
+      "target": "Techno",
+      "weight": 6
+    },
+    {
+      "source": "Dubstep",
+      "target": "IDM",
+      "weight": 6
+    },
+    {
+      "source": "Electro",
+      "target": "UK Garage",
+      "weight": 6
+    },
+    {
+      "source": "Soul",
+      "target": "Techno",
+      "weight": 6
+    },
+    {
+      "source": "Latin",
+      "target": "Soul",
+      "weight": 6
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Ambient Techno",
+      "weight": 6
+    },
+    {
+      "source": "Electroacoustic",
+      "target": "Electronic",
+      "weight": 6
+    },
+    {
+      "source": "Acid Techno",
+      "target": "House",
+      "weight": 6
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Kosmische",
+      "weight": 6
+    },
+    {
+      "source": "Experimental",
+      "target": "UK Bass",
+      "weight": 6
+    },
+    {
+      "source": "Dubstep",
+      "target": "Footwork",
+      "weight": 6
+    },
+    {
+      "source": "Footwork",
+      "target": "Grime",
+      "weight": 6
+    },
+    {
+      "source": "EBM",
+      "target": "Industrial",
+      "weight": 6
+    },
+    {
+      "source": "Club Music",
+      "target": "Grime",
+      "weight": 6
+    },
+    {
+      "source": "Club Music",
+      "target": "UK Garage",
+      "weight": 6
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Grime",
+      "weight": 6
+    },
+    {
+      "source": "Electronic",
+      "target": "Industrial",
+      "weight": 6
+    },
+    {
+      "source": "Electro",
+      "target": "Jungle",
+      "weight": 6
+    },
+    {
+      "source": "Baile Funk",
+      "target": "Club Music",
+      "weight": 6
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Trance",
+      "weight": 6
+    },
+    {
+      "source": "Dubstep",
+      "target": "Jungle",
+      "weight": 6
+    },
+    {
+      "source": "Dub Techno",
+      "target": "Glitch",
+      "weight": 5
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Detroit Techno",
+      "weight": 5
+    },
+    {
+      "source": "Electro",
+      "target": "Italo Disco",
+      "weight": 5
+    },
+    {
+      "source": "Chicago House",
+      "target": "Electro",
+      "weight": 5
+    },
+    {
+      "source": "Electro House",
+      "target": "Tech House",
+      "weight": 5
+    },
+    {
+      "source": "Electro House",
+      "target": "Techno",
+      "weight": 5
+    },
+    {
+      "source": "Organic House",
+      "target": "Tech House",
+      "weight": 5
+    },
+    {
+      "source": "Melodic Techno",
+      "target": "Tech House",
+      "weight": 5
+    },
+    {
+      "source": "Deep House",
+      "target": "Progressive House",
+      "weight": 5
+    },
+    {
+      "source": "House",
+      "target": "New Wave",
+      "weight": 5
+    },
+    {
+      "source": "Disco",
+      "target": "Experimental",
+      "weight": 5
+    },
+    {
+      "source": "Afrobeats",
+      "target": "House",
+      "weight": 5
+    },
+    {
+      "source": "Disco",
+      "target": "Jazz",
+      "weight": 5
+    },
+    {
+      "source": "Glitch",
+      "target": "House",
+      "weight": 5
+    },
+    {
+      "source": "Kosmische",
+      "target": "Techno",
+      "weight": 5
+    },
+    {
+      "source": "Dub",
+      "target": "Electronic",
+      "weight": 5
+    },
+    {
+      "source": "Downtempo",
+      "target": "Dub",
+      "weight": 5
+    },
+    {
+      "source": "Disco",
+      "target": "Electro",
+      "weight": 5
+    },
+    {
+      "source": "Acid House",
+      "target": "Disco",
+      "weight": 5
+    },
+    {
+      "source": "Downtempo",
+      "target": "Hip Hop",
+      "weight": 5
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Minimal Techno",
+      "weight": 5
+    },
+    {
+      "source": "Chicago House",
+      "target": "Soul",
+      "weight": 5
+    },
+    {
+      "source": "Glitch",
+      "target": "UK Garage",
+      "weight": 5
+    },
+    {
+      "source": "Minimal Techno",
+      "target": "UK Garage",
+      "weight": 5
+    },
+    {
+      "source": "House",
+      "target": "UK Bass",
+      "weight": 5
+    },
+    {
+      "source": "Downtempo",
+      "target": "IDM",
+      "weight": 5
+    },
+    {
+      "source": "Funk",
+      "target": "Latin",
+      "weight": 5
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Tech House",
+      "weight": 5
+    },
+    {
+      "source": "Electro",
+      "target": "Industrial",
+      "weight": 5
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Breakbeat",
+      "weight": 5
+    },
+    {
+      "source": "Acid House",
+      "target": "Jungle",
+      "weight": 5
+    },
+    {
+      "source": "IDM",
+      "target": "Jungle",
+      "weight": 5
+    },
+    {
+      "source": "Downtempo",
+      "target": "Techno",
+      "weight": 5
+    },
+    {
+      "source": "Bass Music",
+      "target": "House",
+      "weight": 5
+    },
+    {
+      "source": "Electroacoustic",
+      "target": "Techno",
+      "weight": 5
+    },
+    {
+      "source": "Bass Music",
+      "target": "Drum and Bass",
+      "weight": 5
+    },
+    {
+      "source": "Ambient",
+      "target": "Breakbeat",
+      "weight": 5
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Dub Techno",
+      "weight": 5
+    },
+    {
+      "source": "Noise",
+      "target": "Techno",
+      "weight": 5
+    },
+    {
+      "source": "Acid Techno",
+      "target": "Breakbeat",
+      "weight": 5
+    },
+    {
+      "source": "Ambient Techno",
+      "target": "Electronic",
+      "weight": 5
+    },
+    {
+      "source": "Experimental",
+      "target": "Hard Techno",
+      "weight": 5
+    },
+    {
+      "source": "Chicago House",
+      "target": "Funk",
+      "weight": 5
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Progressive House",
+      "weight": 5
+    },
+    {
+      "source": "Post Punk",
+      "target": "Techno",
+      "weight": 5
+    },
+    {
+      "source": "Electroacoustic",
+      "target": "Industrial Techno",
+      "weight": 5
+    },
+    {
+      "source": "Tech House",
+      "target": "UK Garage",
+      "weight": 5
+    },
+    {
+      "source": "Club Music",
+      "target": "Industrial Techno",
+      "weight": 5
+    },
+    {
+      "source": "Acid Techno",
+      "target": "EBM",
+      "weight": 5
+    },
+    {
+      "source": "Hardcore",
+      "target": "Jungle",
+      "weight": 5
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Tech House",
+      "weight": 5
+    },
+    {
+      "source": "Electro",
+      "target": "Footwork",
+      "weight": 5
+    },
+    {
+      "source": "Deep House",
+      "target": "UK Garage",
+      "weight": 5
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Grime",
+      "weight": 5
+    },
+    {
+      "source": "Gqom",
+      "target": "House",
+      "weight": 5
+    },
+    {
+      "source": "House",
+      "target": "Trance",
+      "weight": 5
+    },
+    {
+      "source": "Cumbia",
+      "target": "Techno",
+      "weight": 5
+    },
+    {
+      "source": "Baile Funk",
+      "target": "Experimental",
+      "weight": 5
+    }
+  ]
+}

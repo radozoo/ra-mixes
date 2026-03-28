@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "44",
+  "url": "https://ra.co/podcast/44",
+  "id": "44",
+  "__typename": "Podcast",
+  "title": "RA.044 Château Flight",
+  "date": "2007-02-12T21:00:31.000Z",
+  "fileSize": 73494593,
+  "duration": "01:01:13",
+  "imageUrl": "https://static.ra.co/images/podcast/ra044-chateauflight-cover.jpg",
+  "contentUrl": "/podcast/44",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra044/",
+  "keywords": "",
+  "artist": {
+    "id": "867",
+    "__typename": "Artist",
+    "name": "Château Flight"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Château Flight is the collaboration between Parisian DJ and producers Gilb’r and Nicolas Chaix, aka I:Cube. The two are a ragbag of different influences and styles: Gilb'r is a hip-hop-loving ex-radio jock who even became known for spinning drum’n’bass alongside the likes of Fabio and Grooverider during the nineties, while I:Cube’s debut single ‘Disco Cubizm’ propelled him into the premier league of French house producers when he was just a teenage schoolboy. The pair formed Château Flight in 1997 with an open agenda, and have since released a variety of remixes and albums on Gilb’r’s Versatile label. Château Flight’s music is informed as much by dark experimental disco as house or techno. “Château Flight is a pure playground project, a field where neither of us has been before,” says Gilb’r. “It gives us the freedom to try any idea or technical process.” Their latest efforts are a score specially written for the silent film <a href=\"http://www.residentadvisor.net/news.asp?ID=8327\">Les Vampires</a> and the EP ‘Baroque’ out on hot Berlin label Innervisions, home of Âme, Dixon and Henrik Schwarz. As Schwarz puts it: “These two guys reach a level of complexity right now that no one else out there seems to reach.”\n\nChâteau Flight’s RA podcast was recorded in the Versatile Records basement studios in Paris during time out from prepping a new live show. Ranging from dark disco to dub to house, the mix is versatile stuff.",
+    "blurb": "Top Parisian duo Château Flight spin the RA podcast this week."
+  }
+}

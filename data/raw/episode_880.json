@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "880",
+  "url": "https://ra.co/podcast/880",
+  "id": "880",
+  "__typename": "Podcast",
+  "title": "RA.880 Bill Kouligas",
+  "date": "2023-04-16T23:55:24.000Z",
+  "fileSize": 215270534,
+  "duration": "01:29:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra880-BillKouligas-cvr.jpg",
+  "contentUrl": "/podcast/880",
+  "tracklist": "Toxe - World Zoom\nHonour - ILLBETHERE,4EVERANDEVER\nObjekt - Second Witness\nArca - Anaesthetic\nTzusing - Idol Baggage\nM.E.S.H. - Search. Reveal.\nTCF - C6 81 56 28 09 34 31 D2 F9 \nAsma Maroof / Patrick Belaga / Tapiwa Svosve -  Delicate Distance Between Boulders\nErwan Sene - Block That Kill\nYves Tumor - Broke In (feat. Oxhy)\nHonour - 2Yung2Die (Moon Mix)\nValerio Tricoli - Das Schräg Haus\nElysia Crampton - Morning Star-Red Glare-Sequoia Bridge (feat. Jeremy Rojas)\nCRYSTALLMESS - Fear Of A / Black Planet\nupsammy - Being is a Stone\nBeatrice Dillon - Square Fifths\nerrorsmith - Retired Low-level Internal Server\nSTILL - Rough Rider (Low Jack Remix)\nE-Saggila - Cluebeat\nLala &ce, Low Jack, Le Diouck - Superficielle\nAnne Imhof, Eliza Douglas, Billy Bultheel - Moshpit I\nEartheater - MMXXX feat. Moor Mother (Tzusing Remix)\nHeith - Your Element (a spell of equality)\nPan Daijing - Tissues\nAmnesia Scanner & Bill Kouligas - Lexachast V\nEartheater - Below The Clavicle\nKareem Lotfy - Fr3sh\nRashad Becker - themes V\nSteven Warwick - Danke (feat. Josephine Pryde)\nAmnesia Scanner - AS Bounds",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra880-bill-kouligas",
+  "keywords": "",
+  "artist": {
+    "id": "37981",
+    "__typename": "Artist",
+    "name": "Bill Kouligas"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Bill Kouligas is the mind behind one of modern electronic music's greatest and most innovative labels, PAN. His remarkable ear for music meant that he released some of the earliest records from luminaries like Yves Tumor, Helena Hauff and Eartheater, helping to jumpstart several remarkable careers. And each PAN release is lovingly and lavishly packaged like an art object in itself, an approach you can read more about in this month's <a href=\"/features/4161\" target=\"_blank\">feature-length cover story</a>.\n\nThe Berlin artist's <i>RA</i> Podcast is an audio companion to that cover story, and it underlines not only Kouligas's range as a label A&R but also as a DJ. Reflecting the label's evolution from straight-up noise to musique concréte to leftfield dance music and then avant-pop, the mix cycles through stages of strange, staggered beats, almost celestial ambient music, passages of overwhelming noise and sound that sublimate into floating clouds before solidifying back into club music, and a couple engaging spoken word passages and endless manipulations of the human voice. In other words, it sounds a lot like PAN.\n\n<b>What have you been up to recently?</b>\n\nThe past few months have been mostly on the road playing shows and working between Berlin, Milan and Paris in music and design projects. This is going to extend until the end of the year with monthly events, showcasing in various venues and festivals for our 15th label anniversary. \n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was simply recorded on the computer, and functions more as a listening session rather a club mix. The label covers a wide range of sounds and genres which is inevitably quite hard to pin down and create a streamlined sonic narrative. I tried to include as much as I could to genuinely represent our music world. \n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nIt’s probably an obvious answer for many, but having the ongoing support of Berghain club in Berlin for the past 11plus years has been incredibly fundamental for the growth of both the label and myself. Their ongoing trust and openness has allowed us to bring together contrasting electronic music artists in a context that was not common for most big club institutions, especially in the early years when those events started taking place.  \n\n<b>You're known primarily as a label head, but you DJ regularly. How do you prepare for your DJ sets, and what do you listen for that's different than when you're A&Ring?</b>\n\nMaking and performing music has actually been the oldest thing I have been involved in since the late '90s. It’s still a very pure and fun way to select things I love to listen and make a dialogue out of. Having that said, the music I play out is for the most part quite different to what the label releases, but the curatorial sensibility might be the same.\n\n<b>What are you looking forward to in the near future?</b>\n\nOur current dream and general vision is to redefine the direction of what our music label suggests and stands for nowadays with the aim to expand to a new chapter that can keep supporting our ever expanding artist community and its needs. It's ultimately a transitional stage and we are excited for all new developments we are experimenting with to take shape soon.\n\nPhoto: Wolfgang Tillmans",
+    "blurb": "The PAN founder (and RA cover star) goes deep into his unique sound world."
+  }
+}

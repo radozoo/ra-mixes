@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "525",
+  "url": "https://ra.co/podcast/525",
+  "id": "525",
+  "__typename": "Podcast",
+  "title": "RA.525 Dr. Rubinstein",
+  "date": "2016-06-20T00:00:06.000Z",
+  "fileSize": 203254991,
+  "duration": "01:24:34",
+  "imageUrl": "https://static.ra.co/images/podcast/ra525-dr-rubinstein-cvr.jpg",
+  "contentUrl": "/podcast/525",
+  "tracklist": "Andrea Parker - Angular Art - Touchin' Bass\nLonny - Theme From Murdercapital - Murder Capital\nHardfloor & E.R.P. - You Know The Score (E.R.P. Version)\nSkee Mask - Shred 08 - Ilian Tape\nFar Out Radio Systems - LV-426 - Tanzbar Records\nBLD - CCY (Rave) - BLD Tape Recordings\nCivilian - Comcept - Out Electronic Recordings\nNess - Pantropy - Rising Label \nDelta Funktionen - Phantom - Radio Matrix\nDorian Gray - Nyctophilia - Android Muziq\nUnknown Artist - 303003 - Planet Rhythm Records  \nRuhig - Eddying - Midgar \nVril - Torus CXXVIII - Forum\nLost Trax - Life Out Of Balance - Frustrated Funk\nUmwelt - Gravitational Lens - Killekill\nBlind Observatory - Way - Gravitational\nAndrea - Rainbow - Ilian Tape \nPulse One - In-Mortal - Fullpanda Records\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/272246422",
+  "keywords": "Marina Rubinstein, About Blank, Berghain, Organik",
+  "artist": {
+    "id": "39337",
+    "__typename": "Artist",
+    "name": "Dr. Rubinstein"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Marina Rubinstein's been turning heads in Berlin's techno scene ever since she arrived four years ago, and she's done so purely on the strength of her DJ style. Shortly after arriving from Tel Aviv, she landed a gig at ://about blank and made an immediate impression—the club has invited her back dozens of times since. Her horizons expanded steadily from there. In 2014, she made her Berghain debut. Earlier this year, she played a mind-bending set at Organik Festival in Taiwan. Next week, she'll play our <a href=\"/promoter.aspx?id=59455\">In Residence</a> party at LuxFrágil in Lisbon. \n\nAlmost all of this she did the old-fashioned way: through word-of-mouth buzz based on her club sets. Thus far, Rubinstein has no productions or labels with which she's associated, and few online mixes. What she does have is a singular command of fierce, dynamic, highly visual techno records. RA 525 is a perfect example of what sets her apart, piecing together trippy and evocative club cuts into a gripping narrative.\n\n\n<b>What have you been up to recently?</b>\n\nLately I had the chance to travel a lot and play abroad. One highlight was Organik festival in Taiwan. That is definitely one of the most beautiful spots I've ever been to.\n\n<b>How and where was the mix recorded?</b>\n\nA lot of digging through my records. Writing playlists and trying things out. In the end I recorded the mix at home using my computer and an old Vestax mixer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to step away from the club and bring tracks together that I would love to listen to at home or when I'm on the road. Some twisted grooves, some mellow tunes and, well, still some straightforward techno tracks found their way in.\n\n<b>For readers who are new to you, tell us a bit about yourself. Where are you from originally, and how'd you end up being a techno DJ in Berlin?</b>\n\nI was born in Kaliningrad, which is a small town in Russia. I used to live in Israel since the beginning of '00s until I moved to Berlin four years ago. That also must have been the time when I started collecting and playing records. I already had spent some time in Berlin the year prior where my passion for techno grew, so I felt like moving. When ://about blank gave me the chance to play my first gigs in town I really felt it was the right decision.\n\n<b>What would you say defines you as a DJ? What kind of records do you gravitate towards, and what are your favourite kind of events to play at?</b>\n\nI love to party and to dance and this really reflects in how I play. My sets mostly consist of intense tracks that I would love to dance to myself—throw some acid lines on top of each other, add dramatic drums and there you got me. I don't have any preferences for events as long as people are open minded and respectful.  \n\n<b>What are you up to next?</b>\n\nThere are some cool gigs coming up that I have been looking forward to for some time now. Melt! festival, RA's In Residence in Lisbon, CSD Night at Berghain and a gig at Concrete in Paris. So of course the days in between I will spend digging for new tunes and hopefully I will find some time to go rave a little with my friends. \n",
+    "blurb": "Cosmic techno from a Berlin up-and-comer. \r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "737",
+  "url": "https://ra.co/podcast/737",
+  "id": "737",
+  "__typename": "Podcast",
+  "title": "RA.737 DJ Perception",
+  "date": "2020-07-20T00:00:18.000Z",
+  "fileSize": 135074017,
+  "duration": "00:56:06",
+  "imageUrl": "https://static.ra.co/images/podcast/ra737-dj-perception-cvr.jpg",
+  "contentUrl": "/podcast/737",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/861153742",
+  "keywords": "Garage, UKG, Croydon, Camberwell, MoodSwing",
+  "artist": {
+    "id": "64441",
+    "__typename": "Artist",
+    "name": "DJ Perception"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Perception could be the best UK garage DJ you've not yet heard of. He is a self-described “2-step connoisseur” from Camberwell, known in the UKG community as a producer, weekly host on specialist station Vision Radio and owner of record label MoodSwing. Above all, DJ Perception has been a collector from teen years, one who prides himself on material that no-one else has. These are not just obscure gems you can find on Discogs or at Croydon's DnR Vinyl for a price, but stacks of dubplates and DATs that don't exist in the public domain at all, often snapped up in bulk from older artists who got out the game when opportunities in UK garage dried up. His home is a drop-in hub for everyone from foundational producers like Dem 2, Sky Joose and El-B, to younger names in the scene like Ollie Rant, Mick James, Dr Banana and Lady Passion (Perception's sister, who has been on the decks since age 13 too). If you want to identify an unmarked white label, offer a trade or simply come round to play and make tunes until the small hours, Perception's is the place to be.\n\nThis history is on show in RA.737, made up almost exclusively of unreleased pressings from back in the day or forthcoming bits from DJ Perception himself. Getting through 34 records in 56 minutes, the music is on the deep and atmospheric end of the spectrum, but the mix has a chunky, almost carnivalesque energy. Basslines wobble like spring doorstops, clipped human voices rise through the haze, soulful keys noodle about and the drums never take a breather from skipping and bumping along. Good luck identifying any of it: we tried, and Shazam picked up one single correct ID across the mix – we'd be surprised if more than 10 copies existed of most of these tunes. On RA.737, DJ Perception offers you a look into the world of strictly underground 2-step and UKG, one that you might never want to leave.\n\n<b>What have you been up to recently?</b>\n\nI am currently producing UK garage tracks with an old skool flavour, also pushing other artists music and working with other producers on various projects.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my bedroom studio on Technics decks and Pioneer CDJs.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea behind the mix is to introduce listeners to the sound of underground garage music and hopefully inspire other artists to keep the genre alive. \n\n<b>Your speciality as a DJ comes from records that you say people are unlikely to hear anywhere else. What is special to you about the process of collecting this?</b>\n\nI have been collecting vinyl since the age of 13 and I just hunt for the rarest music I can find, which involves tracking down producers. I now produce on my own MoodSwing label and various other labels.\n\n<b>Who are the underground UKG & 2step producers that you think more people out there should be paying attention to?</b>\n\nMasterplan, Dee Cypher, Stixy D, Para, SkyJoose, Chris Mack, El-B, Opus and HighRise.\n\n<b>What are you up to next?</b>\n\nWe are currently finalising our MoodSwing Garage Documentary which will be out on the streets soon. We are also starting our own vinyl cutting service which will be up and running soon. Other than that – I am always making music and searching for new underground talent.\n\n\n",
+    "blurb": "The hidden heart of South London's UK garage scene steps out.\r\n"
+  }
+}

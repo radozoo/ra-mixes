@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "185",
+  "url": "https://ra.co/podcast/185",
+  "id": "185",
+  "__typename": "Podcast",
+  "title": "RA.185 Guillaume & The Coutu Dumonts",
+  "date": "2009-12-14T09:00:01.000Z",
+  "fileSize": 81952598,
+  "duration": "01:08:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra185-guillaume-cover.jpg",
+  "contentUrl": "/podcast/185",
+  "tracklist": "Rick James - Love Interlude\nQ-Tip - Life is Better\nLinkwood Family - Piece of Mind\nORS - Body to Body Boogie\nThe Budos Band - Chicago Falcon\nSabu Martinez - Afro Temple\nThe Daktaris - Musicawi Silt\nZapp and Roger - More Bounce to the Ounce\nBanbarra - Shack Up\nMauri Bailey - Soul Pop\nThe Budos Band - Eastbound\nWar - Galaxy\nAl Green - You've Got the Love I Need\nD'Angelo - Chicken Grease\nFrankie Valli and The Four Seasons - Beggin' (Pilooski Edit)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra185/",
+  "keywords": "Guillaume and the Coutu Dumonts, Musique, Risquee, house, soul, ",
+  "artist": {
+    "__ref": "Artist:2012"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "House and techno may not have been Guillaume Coutu Dumont's first musical loves, but all it took was one night of electronic music under the stars to make him realise the potential of the form. Before that fateful night with Julien Roy (who he went on to produce with as Egg), Guillaume preferred the use of live instrumentation over sequenced sounds, playing percussion in funk and jazz bands, but that evening was to change his outlook on composition and performance forever. \n\nEver since, Guillaume has focused his attention on electronic music almost exclusively, putting together electroacoustic house tracks that have been released by celebrated underground labels like Oslo, Circus Company and Musique Risquée. His live sets have also been turning heads, fusing his jaunty uptempo house sound with live percussion and plenty of enthusiasm. When we we <a href=\"/feature.aspx?859\">spoke to him</a> a couple of years ago, Guillaume said that he was working too hard on doing his own music to DJ, but for this week's RA podcast, he's crafted us a selection of funk, hip-hop, boogie, soul and other vintage dance floor jams.\n\n\n<b>What have you been working on recently?</b>\n\nA lot of new music. I've been working on a new album for Circus Company, a remix for Dorian Paic (Raum Musik), a remix for Ryan Crosson and César Merveille (Circus Company), a remix for Mike Shannon (Haunt), some new Chic Miniature tracks, etc... All this coupled with being a new dad. Things are going rather fast those days.\n\n<b>How and where did you record the mix? </b>\n\nWell, I am not a DJ at all... so first I had to digitalize my records! I was sneezing the whole day because of the dusty covers. Even if I don't DJ, I like to buy my music on vinyl. Then I imported everything in Ableton and tried to create some transitions. \n\n<b>Can you tell us a little bit about the idea behind the mix? </b>\n\nIt's all tracks that really inspire me and from artists I love. It's all about funk, Afrobeat, soul, hiphop or R&B. A lot of people have the idea that there was no good funk after 1972 ... but I think it's important to realize that there are a lot of people out there busting their asses to create some new stuff out of a vintage and authentic sound. The mix is a balance between old and new. \n\n<b>You're well known for being an ardent live performer, but do you ever get tempted to do more DJ sets? </b>\n\nArdent! [<i>laughs</i>] I am really into making music. Composing, collecting sounds and assembling them is what I love to do (sounds awfully like DJing no??). Doing this podcast was my first experience in mixing some music that wasn't mine. It was really interesting. So I don't know: Maybe I'll become a DJ for podcasts...and weddings! \n\n<b>How are you finding Berlin since your move? </b>\n\nBerlin is changing a lot those days. But still, I love this city because people let you be. It's not like other big European cities where you constantly feel pressure. I don't know what's next for us (especially now that we have a child) but for now, I am happy to feel \"home\" every time I come back to Berlin on Sunday night.\n\n<b>What are you up to next? </b>\n\nI need to finish a lot of music before leaving for my vacation. Five weeks in Vietnam with the family. I can't wait!",
+    "blurb": "The Berlin-based Montrealer gets funky on this week's RA podcast."
+  }
+}

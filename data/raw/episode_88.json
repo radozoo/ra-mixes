@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "88",
+  "url": "https://ra.co/podcast/88",
+  "id": "88",
+  "__typename": "Podcast",
+  "title": "RA.088 Andy Stott & Claro Intelecto",
+  "date": "2008-01-28T15:30:01.000Z",
+  "fileSize": 62993557,
+  "duration": "00:52:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra088-stott-intelecto-cover.jpg",
+  "contentUrl": "/podcast/88",
+  "tracklist": "01. Mind Games \n02. Find My Way\n03. Bad Landing\n04. Dependant\n05. Dead D10\n06. Momento\n07. Silver Metalic Dollers\n08. Rise\n09. Ignorance\n10. Gone to the Dogs \n11. Hostile ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra088/",
+  "keywords": "",
+  "artist": {
+    "id": "1529",
+    "__typename": "Artist",
+    "name": "Andy Stott"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Over the last couple of years, Modern Love have issued a series of deep techno 12-inches that have almost singlehandedly put Manchester front and centre of dance music once again. Two of the label’s sharpest weapons are producers Andy Stott and Claro Intelecto: the 27-year-old Stott has had a dozen finely-wrought, bassy releases on the label, including the celebrated full-length <a href=\"/review-view.aspx?id=4171\"><i>Merciless</i></a>, while Claro, aka Mark Stewart, has made his name with four volumes of <i>Warehouse Sessions</i> EPs, each of which has been justly celebrated for bringing a bit of the warehouse spirit back to modern techno.\n\nStott and Claro also play live, both together and separately, and if you’re in the vicinity of Berlin you can check them out in the flesh alongside Moritz Von Oswald, Larry Heard and much more at our <a href=\"/event-detail.aspx?id=39652\">RA vs. Club Transmediale</a> bash this Friday. But if you're on the other side of the world, Andy and Claro’s joint RA Podcast is an excellent taste of what you’ll be missing out on. Made up of exclusive cuts from both artists including unreleased material that is bound to work Modern Love fans into a lather, RA.088 is fifty minutes of deep techno guaranteed to turn your living room into a miniature warehouse. Make us rave, Modern Love!\n\n<b>What have you been working on recently?</b>\n\nAndy: I've been trying to get a start on the next album. I think we have one track in the shortlist so far, so it's still at a very early stages. There's another 12-inch on the way too called <i>Bad Landing</i> that should be out at the end of February. Shlom has been compiling tracks for a kind of 'Best of' out of all the previous twelves that we have released. We're almost done with the final tracklisting so when he's happy with it we'll both go through it until it's done. It should be out later in the year. \n\nClaro: I've recently been putting the finishing touches to lots of new stuff including <i>Warehouse Sessions Vol. 5</i> which will complete the series, and a new single-sided 12\" called <i>Rise</i>. These are both due out very soon along with my new album entitled <a href=\"/news.aspx?id=9068\"><i>Metanarrative</i></a>, my first on Modern Love due out on the 14th of March.\n\n<b>Where was the mix recorded?</b>\n\nAndy: The mix was recorded at my house in Manchester. We had a lot of fun putting it together! With a lot of new tracks finished for this mix there is quite a lot in there which is brand new material. \n\n<b>What are you both up to next?</b>\n\nAndy: We’re playing the RA vs. Club Transmediale event at the start of February. It’ll be good to go over with Claro and the Pendle boys and obviously the line-up for the event is killer. After that I have shows back home in Leeds and a show in Manchester for Sequence. I’m looking forward to those as it's rare that I play on home turf. Bloc Weekend is another big gig which I'll be doing with Claro. That’s another joint set. \n\nClaro: I also plan to tour the release of the <i>Metanarrative</i> album...",
+    "blurb": "RA presents a joint podcast from two of deep techno’s finest: Andy Stott and Claro Intelecto from Modern Love."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "443",
+  "url": "https://ra.co/podcast/443",
+  "id": "443",
+  "__typename": "Podcast",
+  "title": "RA.443 Graze",
+  "date": "2014-11-24T00:00:34.000Z",
+  "fileSize": 145608196,
+  "duration": "01:00:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra443-graze-cvr.jpg",
+  "contentUrl": "/podcast/443",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra443/",
+  "keywords": "Adam Marshall, Christian Andersen, techno, toronto, New Kanada, XI, Soft Gamma Repeater",
+  "artist": {
+    "id": "46589",
+    "__typename": "Artist",
+    "name": "Graze"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Adam Marshall and Christian Andersen are Torontonians who were living in Berlin around the turn of the decade. Marshall had been successfully running the New Kanada label for a few years, but Andersen, a veteran of the then-disintegrating dubstep scene under the name XI, had a harder time getting his career off the ground.\n\nAt the tail end of Andersen's stint in the German capital, the two started jamming together and eventually came up with a stellar <a href=\"/review-view.aspx?id=13046\">debut EP</a>. <i>Graze</i> was a near-perfect blend of Marshall's more austere stylings and Andersen's crystal clear sound design. The record was a hit, spawning a full-length and five more EPs in one highly productive year-and-a-half span. That work ethic crosses over to the club stage as well: Graze are known for playing marathon live sets where they work up as big a sweat as their audience. That live set is in full effect on their RA podcast, an hour of hi-definition techno made with svelte synths, crisp drums and a few surprises here and there. \n\n\n<b>What have you been up to recently?</b>\n\nChristian's been brushing up on his stack arrays, and Adam has been quietly absorbing some key heliotropes. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded live at Adam's studio in Berlin, with some post-processing at a friend's home studio on Vancouver Island.  \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe mix is a snapshot of our current live set, and incorporates a lot of the tracks off our new album, <a href=\"/review-view.aspx?id=15922\"><i>Soft Gamma Repeater</i></a>, along with reinterpretations of past classics and a healthy dose of new material.\n\n<b>You've produced two albums and three EPs in two years despite now living on different continents. How does the production process work between you two?</b>\n\nWe both find that we work better and more efficiently when we develop and flesh out ideas in isolation. Our current workflow is that one of us starts the track with a simple melodic sketch or short drum loop, and then we pass that file onto the other person, who develops the idea further. After a few back-and-forths, the tracks start to calcify into final versions. Along the way, many ideas get trashed or completely twisted into new directions, but because we both trust each other's aesthetic, this casual culling process seems to speed up our workflow considerably.  \n\nNeither of us get too hung-up on final directions with the tracks, and we both stay open to completely new directions during the production process. I don't think either of us really knows where the tracks will end up while we're working on them, but this keeps things fresh and exciting.\n\n<b>Tell us about your live show.</b>\n\nThe main focus of the project is geared towards our live show, which we've been developing and refining over the past year. We use an ever-changing combination of analogue and digital hardware, and our live sets are pretty intense, energy-wise. While we love and embrace hardware instruments, we also use a lot of controllers to interact with software—and we find it's the combination of the two that really allows us to perform and improvise the way we want on stage. As with DJing, it's the delicate balance between order and chaos that usually produces the most compelling performances—and when playing live we enjoy trying to balance on the blade of that knife. \n\n<b>What are you up to next?</b>\n\nNow that our album is finally out, we look forward to some serious touring over the next year. We'll also be patiently waiting for whatever Magic Leap is developing. ",
+    "blurb": "Live techno from the in-form Canadian duo."
+  }
+}

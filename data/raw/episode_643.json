@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "643",
+  "url": "https://ra.co/podcast/643",
+  "id": "643",
+  "__typename": "Podcast",
+  "title": "RA.643 The Hacker",
+  "date": "2018-09-24T00:00:42.000Z",
+  "fileSize": 175968820,
+  "duration": "01:13:13",
+  "imageUrl": "https://static.ra.co/images/podcast/ra643-the-hacker-cvr.jpg",
+  "contentUrl": "/podcast/643",
+  "tracklist": "Manie Sans Delire - Static Control\nIdentified Patient - Nothing Happened\nCredit 00 - Ritmo Metallico (Belgium Mix) \nAmato & Adriani - Untitled \nLokier - Screws In Paradise\nThe Mover - Final Distance\nBetonkust & Innershades - Forever In Boccaccio\nDurand - Human Belly\nTronik Youth - Insecticide (The Hacker Remix)\nFront 242 - Masterhit\nGabe Gurnsey - You Can (The Hacker Remix) \nCelldod - Dansar\nCute Heels - State Of Mind (LA 4A Remix)\nMiss Yeti - Obsessed (David Carretta Remix)\nSchwefelgelb - Um Meine Haut\nElectro Nation - Clone Wars   \nHelena Hauff - Hyper-Intelligent Genetically Enriched Cyborg\nKraftwerk - Uranium\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/504351078",
+  "keywords": "Electro, Michel Amato, Dark Entries, Nobodys Bizness, Mechanical dreams, Miss Kittin",
+  "artist": {
+    "id": "708",
+    "__typename": "Artist",
+    "name": "The Hacker"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Should you need any more proof that music moves in cycles, we'd like to present Michel Amato, AKA The Hacker. With the dance music scene recently becoming fascinated with electro and EBM all over again, the veteran French artist now finds himself with a fresh set of admirers. The reality, of course, is that Amato never went away—he's simply been cultivating his '80s-enriched style of dance music as the wider scene listened to other things. Amato has experience with these types of situations. He was right there in the thick of it in the early 2000s when everyone was losing their shit to electroclash, a genre that combined many of Amato's musical loves. With his long-time friend Caroline Hervé, Miss Kittin & The Hacker became one of the iconic acts of the period, releasing insouciant club bombs like \"<a href=\"https://www.youtube.com/watch?v=GeLw1iFoXho\">Frank Sinatra</a>\" and \"<a href=\"https://www.youtube.com/watch?v=ASNnl-jgu38\">1982</a>\" and the long-player <i>First Album</i>. They decided to put the collaboration on ice as electroclash inevitably imploded, but Amato went on to a successful solo career that saw him take his signature sound to labels like Infiné, PIAS and Correspondant. As Amato notes below, the recent emergence of labels like Dark Entries, Mannequin and Helena Hauff's Return To Disorder helped create an environment in which his music was ripe for reappraisal. Dark Entries has so far released two instalments of <i>Lost Tracks</i> from Miss Kittin & The Hacker, as well as <i>Le Théâtre Des Opérations</i>, the 2017 album from Amato that fit snugly with the sound of the day. \n\nAmato's RA podcast draws from plenty of new music that sounds like it could have come out at any point in the last 30 years. It's the sound of an artist who has always doggedly done his own thing. \n\n\n<b>What have you been up to recently?</b>\n\nTouring a lot and making new music. Right now I'm working on a project with Alessandro Adriani that we're both quite excited about (check the mix's tracklist). \n\n<b>How and where was the mix recorded?</b>\n\nI did it last month, recorded live in a bar, a kind of goth/new wave place, in my hometown (Grenoble, France). I can't record a set in my flat, it's difficult to find a \"vibe\" when you're mixing alone facing a wall. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's basically to show that there is a link between the new electro/EBM scene and people like me, which is why I mixed old and new. All of this makes sense in my opinion, there is a continuity between both eras. \n\n<b>Have you noticed an increased interest in your music recently? It seems like people's tastes have shifted towards your style.</b> \n\nYes for sure, after years of tech/deep house, it seems that people are looking for something else, maybe something more musical, music that is more than just a groove going on for hours. I think it reflects the weird period we're living in, where the idea of the future isn't that bright for many people. But it's not just that. People like Helena Hauff and labels like Dark Entries and Mannequin (amongst others) are definitely putting a new light on electro/EBM/Italo in their own ways, beyond what could just be a revival. \n\n<b>Your work with Miss Kittin represents one of the most enduring partnerships in electronic music. Why do you work so well together?</b>\n\nHahaha, I'd like to know! This kind of collaboration is hard to explain, we just do things naturally without thinking too much. Maybe that's the secret, I don't know. Ask Caroline what she thinks about that :-)\n\n<b>What are you up to next?</b>\n\nAmato (my other alias) is coming back with two releases spread over the next months, one on Pinkman Records that will come first and then an EP for Return To Disorder that I did quite a while ago actually. The Hacker was quite busy last year with the Dark Entries LP; I'm giving it a little rest until next year, releases-wise only though as touring never stops.\n",
+    "blurb": "Electro, EBM and techno from a true original. \r\n"
+  }
+}

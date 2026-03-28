@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "107",
+  "url": "https://ra.co/podcast/107",
+  "id": "107",
+  "__typename": "Podcast",
+  "title": "RA.107 Laurent Garnier",
+  "date": "2008-06-15T22:31:37.000Z",
+  "fileSize": 77894165,
+  "duration": "01:04:54",
+  "imageUrl": "https://static.ra.co/images/podcast/ra107-laurent-garnier-cover.jpg",
+  "contentUrl": "/podcast/107",
+  "tracklist": "Onur Özer & Nina Simone (unreleased bootleg)\nQbical - Looped Ride [Manual Music]\nInk & Needle - Tatoo 10 [Tatoo]\nMarco Bailey & Tom Hades - e=mb² [MB Electroniks]\nOk Corral - Sandscape [Groove++]\nMinilogue - Doiicie A [Minilogue]\nEC50 - Jonestown (Kool Acid Mix) [Forteana]\nLaurent Garnier - Desireless [PIAS Benelux]\nPezzner - Big Roll [Freerange]\nSilent Phase - Spirit Of Sankofa [Transmat]\nMiddlewood Sessions - Fall Back (Spiritual South Remix) [Brownswood]\nLuisito Quintero - Music For Gong Gong - Vega",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra107/",
+  "keywords": "",
+  "artist": {
+    "id": "164",
+    "__typename": "Artist",
+    "name": "Laurent Garnier"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As the title of his recent 12-inch states, Laurent Garnier has been getting back to his roots of late. After spending much of the early '00s chasing down his jazz muse with Bugge Wesseltoft and indulging all sorts of influences (rock included) on 2005's <i>The Cloud Making Machine</i>, Garnier is now focusing his attention again solely on dance music. \n\nHis RA podcast is quintessential Garnier: driving, bigroom, and unafraid of jazz instrumentation or progressive touches. Beginning with Miss Fitz's controversial Nina Simone-sampling 'Drifting On', the mix travels 65 minutes of house and techno that is pure Garnier. There'll be a couple you know, there'll be a few that you don't, but Garnier keeps this party bumping throughout. In fact, you may just have a red face, by its end, from dancing so hard.\n\nRA caught up with Laurent on email.\n\n<b>What have you been working on recently? And in what ways are you going Back to Your Roots?</b>\nI’ve been working on a script for the cinema adaptation of my book \"electrochoc\" and on my new album... it looks like my music at the moment is much more influenced by black music than ever before.  \n\n<b>Where and how was the mix recorded?</b>\nI wanted to record a DJ gig for the podcast, but I haven't been able to record any of my sets lately, so I just did a mix at home. It was nice to do so, as I never usually mix at home. So I just played some of the tracks I really wanted to listen to. The mix is about some of the track I really like at the moment. It's as simple as that.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\nNo proper idea behind it, just a nice ride. It's only a mix - not a conceptual piece of art.\n\n<b>You've also got your own radio, PBB, putting out music 24hrs a day. Tell us about the project?</b>\nI started it the week after I left radio Nova (Paris). I was working there at the time as the musical director. I really wanted to take it further, defending more underground music at Nova, but the boss wasn't seeing it that way. So I left. \n\nI felt pretty upset about the situation, and while I sat down in front of my records at home, the idea of doing my own radio station just came up. Within a week I started PBB. The whole idea behind it is pretty simple; sharing my record collection with music fans and programming the kind of radio station I've always hoped for. I wish I had more time to invest in it and make it sound more professional, but I don't have enough time to do everything I would like! \n\n<b>You've been outspoken politically in the past, what do you think of the current global climate? And have you been following the US Democratic primary?</b>\nOf course I have been following what is happening in the US. I guess everyone with a bit of a brain or a slight interest in life has to follow what is happening. The world hasn't been so fucked for a hell of a long time, and I find that very scary. \n\n<b>What are you up to next?</b>\nHopefully finishing my new album as well as getting my new live show ready for next year. Hopefully getting the film directed and out before 2011 (believe me it's not that far). I am also supposed to make music for a brilliant French contemporary choreographer for the end of next year. And finally trying to look after my family the best I can.\n\nThat's a hell of a lot already! Merci a toi x",
+    "blurb": "The legendary French DJ and producer cooks up a crispy selection of driving house and techno.\r\n"
+  }
+}

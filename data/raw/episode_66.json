@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "66",
+  "url": "https://ra.co/podcast/66",
+  "id": "66",
+  "__typename": "Podcast",
+  "title": "RA.066 Ron Trent",
+  "date": "2007-08-14T20:52:17.000Z",
+  "fileSize": 90015389,
+  "duration": "01:14:59",
+  "imageUrl": "https://static.ra.co/images/podcast/ra066-ron-trent-cover.jpg",
+  "contentUrl": "/podcast/66",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra066/",
+  "keywords": "",
+  "artist": {
+    "id": "894",
+    "__typename": "Artist",
+    "name": "Ron Trent"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Ron Trent's first release was the techno classic ‘Altered States’ way back in 1990, but since then his output has been overwhelmingly deep house, with jazz, Afro influences and percussion to the fore. Chicago born and bred, Trent set up the legendary labels Prescription and Balance together with Chez Damier in the early nineties, later moving to New York and issuing records on Clair Audience, Distance, Peacefrog among many others.\n\nA DJ since high school, Ron Trent has been spinning club nights and his own events for twenty years. Notable highlights of his long commitment to the culture include setting up the collaborative USG center in Chicago in the nineties, running the African Blues parties in New York, and spinning an influential residency with jazz/blues label Giant Step at Shine, which led to A&R and in-production work for the famous label. These days Trent is back in Chicago where he puts on a party called African HiFi, which focuses on African beats and sounds.\n\nTrent is busier than even in 2007: he's still committed to deep house on Prescription, but he's also producing for RnB acts; in fact he's also got some of his own RnB tracks ready for release under the new moniker Jamal. He's also found time to build a studio, and his newest project is a remix album of big Afro artists and tracks. Sounds tasty.\n\nFor his RA Podcast, Ron Trent has put together a double dose of top notch house for RA readers. Part one of a two-part mix is available for download from today, while iTunes subscribers can pick up the second half of the mix later this week. Check it.\n\n\n<b>What have you been working on recently?</b>\n\nRecording all day and all night.\n\n<b>Where was the mix recorded?</b>\n\nHere in my  Laboratory  \n\n<b>What are you up to next?</b>\n\nMUSIC, MUSIC, MUSIC",
+    "blurb": "This week's podcast is a double dose of house from Chicago legend Ron Trent."
+  }
+}

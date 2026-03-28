@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "305",
+  "url": "https://ra.co/podcast/305",
+  "id": "305",
+  "__typename": "Podcast",
+  "title": "RA.305 Chez Damier",
+  "date": "2012-04-02T00:01:03.000Z",
+  "fileSize": 92597240,
+  "duration": "01:17:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra305-chez-damier-cvr.jpg",
+  "contentUrl": "/podcast/305",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra305/",
+  "keywords": "Chez Damier, House, KMS, Prescription, Balance Alliance, Mojuba, Yore",
+  "artist": {
+    "id": "8452",
+    "__typename": "Artist",
+    "name": "Chez Damier"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "You realise an artist is of great import when you can break down their contribution to a scene into single words. Prescription. The Music Institute. KMS. Chicago's Chez Damier has plenty of associations which are spoken of in reverent terms within house music circles. Damier's first major involvement in the scene dates back to the late '80s and the opening of The Music Institute, the club he founded in Detroit alongside Alton Miller and George Baker that was instrumental in techno's development in the city. Around this time he was also a label manager and recording artist for Kevin Saunderson's KMS, releasing all-time greats like <i>Can You Feel It</i> and <i>Untitled</i>. Upon moving back to the Windy City around 1993, Damier hooked up with Ron Trent to create Prescription: The run of singles they released up until 1995 are among the most influential pieces of house music even committed to wax, taking in many of their own titles in collaboration—\"Morning Factory,\" \"Sometimes I Feel Like,\" \"Be My.\" \n\nAfter a split due to musical differences and a period looking after Prescription sub-label Balance, Damier took an extended break from music, only to return in earnest back in 2009. He looked to German imprints Mojuba and Yore to facilitate his comeback but began his own project, Balance Alliance, to showcase mainly new European talents. There was also evidence that he hadn't lost his knack for anthems, helping pen one of 2010's standout dance floor tracks with The Gathering's \"In My System.\" \n\nNeedless to say there is a bright, timeless quality that pervades RA.305. This is house music mixed by a man who still clearly loves what he does after more than 20 years in the game. We'd also like to mention that Chez Damier will be one of the next DJs involved in our recently launched <a href=\"/news.aspx?id=16081\">RA VS</a> series, playing for us at Barcelona's <a href=\"/event.aspx?348785\">BeCool</a> alongside the equally venerable Kerri Chandler on June 16th. \n\n<b>What have you been up to recently?</b> \n\nI have been on the road quite a bit, working with Groove Distribution for The Balance Recordings series, and working on an album project for Mojuba. \n\n<b>How and where was the mix recorded?</b> \n\nThe mix was recorded with a mixer and CDJ 1000s. \n\n<b>Can you tell us about the idea behind the mix?</b> \n\nWell this is my 25th anniversary with entertaining the dance floor. My mission and objection has always the same: bringing people together while introducing new sounds to my audience, and hopefully the end results is lots of love in the room.\n\n<b>You talked in a <a href=\"http://www.5chicago.com/features/july2011/chez-damier/index.html\">recent interview with 5 Chicago</a> about trying to make new classics by keeping certain tracks in your DJ sets for a prolonged period. Can you think of any recent examples of this?</b>  \n\nAlmost anyone who comes out to hear me or my style of DJ set can always count on what I call my own classic anthems. To name a couple, tracks like Marko Militano's \"Good People\" (Frankie Knuckles unreleased mix) and Derrick Carter's rework of Suzy Q's \"I Can't Give You More.\"\n\n<b>You also talked about the need for nurturing new talent. Is there anyone at the moment in particular who you really feel has something to say?</b>  \n\nYes I do. Balance artist Brawther, and my new production assistant Roberto Bosco (Wave Music) and Demetrio Giannice (Enterbt Records). At the moment these three are my main focus because I am concentrated on album releases for each of them.\n\n<b>What are you up to next?</b>   \n\nA new project on the horizon with Marc Kinchen (MK) and with all this before me, I will just have to surprise myself as to what my next move might be. I am looking forward to maybe another tour with Derrick Carter. ",
+    "blurb": "A house music institution. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "189",
+  "url": "https://ra.co/podcast/189",
+  "id": "189",
+  "__typename": "Podcast",
+  "title": "RA.189 Marcus Worgull",
+  "date": "2010-01-11T00:00:48.000Z",
+  "fileSize": 93512043,
+  "duration": "01:17:54",
+  "imageUrl": "https://static.ra.co/images/podcast/ra189-marcus-worgull-cover.jpg",
+  "contentUrl": "/podcast/189",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra189/",
+  "keywords": "Marcus, Worgull, innervisions, house, deep, cologne",
+  "artist": {
+    "id": "1301",
+    "__typename": "Artist",
+    "name": "Marcus Worgull"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "What with his regular international appearances and countless compilations featuring his tracks, you could be forgiven for overlooking the fact that Marcus Worgull has only had three solo releases to his name over the past decade. But what he lacks in quantity, he certainly makes up for in quality, with the hypnotic \"Dragon Loop\" still sounding fresh after nearly five years on the shelves. \n\nWorgull shares a similar musical trajectory to his Innervisions compadre Dixon, originally focusing on the nu-jazz and broken beat scene before moving over to the housier sound that informs his current productions and DJ sets. Marcus' affair with house isn't a recent development, however, with his position as the owner of Cologne's Groove Attack record shop giving him an ideal position from which to survey a wide range of music over the past two decades. \n\nAs you'd expect from the owner of a vinyl emporium, Worgull's love of wax extends to his DJ sets, and for his RA podcast he's dug deep into his collection, treating us to a selection that showcases his fondness for house as well as giving us an insight into his wider musical passions.\n\n<b>What have you been working on recently?</b>\n\nAfter a lot of working and travelling in December, the new year starts—like always—quite relaxed. Apart from my duties in my record store, I'm working on different things music-wise: First, I'm trying to finish some tracks for Innervisions. The sketches for these have existed for a long time, but now it's time to finish and release them. \n\nI'm also honoured to do a remix for my old friend Kabuki, a drum & bass producer from Frankfurt. It will be released on Bryan Gee's mighty V Recordings label and I'm proud to do this. The remix should be done during the next few days. In December I DJed at a concert of one of my favourite bands called A Mountain Of One and got in touch with one of the singers, Fumi Okiji. We are also planning to do something together and I'm very curious what will come out of this. And I'm busy looking after our new apartment, as I'm finally moving to Cologne in a couple of weeks. A lot of things have to be prepared for this.\n\n<b>Where and how was the mix recorded?</b>\n\nIt was recorded at the infamous Worgulator Studios, which is my bedroom. I used two Technics MK II, one Pioneer CD player and my beloved Rane XP 2016 mixer, which I bought second hand last year.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nI started recording this mix on a bright, sunny winter's day. At the place where I live at the moment, a little village outside of Wuppertal, the winters are beautiful. We always have a couple of white weeks, which will be one of the few things that I will miss when I move out of here—apart from my good friends. So I had some cake, I even put candles on and wanted to start with some reggae music—the kind of music that led me to buying records, going to clubs and dancing—but somehow I didn't manage to find the link from reggae to the 4/4 stuff that I also wanted feature on the podcast. So I did a next try, immediately starting with housey dance stuff, but it also didn't feel right. And then, maybe it was the mood when the bright day turns to dark night, or maybe it was the spooky shadows from the candlelight, something forced me to this part of my collection where the more psychedelic, fusion-soaked stuff is, so the mix starts a bit more experimental. If you are not into this krautrockish, early electronic stuff, you better skip the beginning of the mix. If you don't skip and survive it, things will get easier, there is a bit of disco coming up, even—surprise, surprise—some house music.\n\n<b>Your DJ sets have shown your soul influences in the past. In this podcast and your mix for Beats in Space, you reveal a guitar influence too. How big is your record collection?</b>\n\nI never counted my records, but I guess there are about five or six thousand, which is not that much for someone who owns a record store and DJs with vinyl too.\nI go through them from time to time and regularly say \"goodbye\" to some of them. This podcast and also the one for Tim Sweeney's Beats In Space, doesn't reflect the way I'm DJing normally. I play mostly in a house and techno context, and I really like to do this, because this constantly going bassdrum develops its own magic and energy, as we all know. I think a podcast is a different business, as the listener is listening to this at home or in front of the computer while working, maybe while driving the car, but definitely not in a club or on a dance floor, so a podcast is a good possibilty to show something different.\n\n<b>What are you up to next?</b>\n\nGoing to the fridge and having a beer.",
+    "blurb": "The Innervisions affiliate houses it up on this week's RA podcast."
+  }
+}

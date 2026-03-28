@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "903",
+  "url": "https://ra.co/podcast/903",
+  "id": "903",
+  "__typename": "Podcast",
+  "title": "RA.903 Mike Paradinas (ft. Jlin)",
+  "date": "2023-09-24T21:00:44.000Z",
+  "fileSize": 98037947,
+  "duration": "00:40:51",
+  "imageUrl": "https://static.ra.co/images/podcast/ra903-mikeparadinas-jlin-cvr.jpg",
+  "contentUrl": "/podcast/903",
+  "tracklist": "Jlin - Fourth Perspective\nJlin - Iris\nJlin - Borealis\nJlin - Speed Of Darkness\nJlin - Auset\nJlin - Embryo\nJlin - Auset\nJlin - Connect The Dots\nJlin - Summon\nJlin - Paradigm\nJlin - Loc'd & Ready\nJlin - Blue I\nJlin - Unorthodox Elements\nJlin - Tower\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra903-mike-paradinas-ft-jlin/",
+  "keywords": "",
+  "artist": {
+    "id": "26134",
+    "__typename": "Artist",
+    "name": "µ-Ziq"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "For the past few years, <i>RA</i> <a href=\"/features/4248\" target=\"_blank\">cover star</a> Jlin has been churning out percussive compositions that sit at the intersection of IDM, trap, mutant techno and sound art. Her tracks are tactile and structurally complex—stacked drums interlock with glistening melodies and heaving basslines on groundbreaking albums like <a href=\"/reviews/21055\" target=\"_blank\"><i>Dark Origami</i></a>. Her rhythms gracefully crosscut over one another like towering blocks in an architecture sketch for a truly cerebral experience.\n\nGrowing up in Gary, Indiana, the former steel factory worker wears many hats. She produces mind-bending club music, usually for Mike Paradinas's label Planet Mu, scores modern dance performances and arranges for instrumental ensembles. Her process of collaboration is deeply symbiotic, as shown on her new EP, <a href=\"https://jlin.bandcamp.com/album/perspective\" target=\"_blank\"><i>Perspective</i></a>. The acoustic version of the record, written for and performed with Chicago's Third Coast Percussion, was nominated for a Pulitzer Prize this year—an unprecedented honour for a dance music artist.\n\nJlin's style is sometimes described as avant-garde, but modernist is a better word. She originally started out making footwork and despite moving away from it in recent years, the genre's jittery energy still flows through her productions, a testament to her ability to experiment across styles. Being a math whiz only adds to the angular, carefully calculated feel of her production.\n \nIn celebration of Jlin's career, Mike Paradinas serves up a 40 minute mix that shows off her range and most importantly, her passion for this music. For more on the artist born as Jerrilynn Patton, read our <a target=\"_blank\" href=\"/features/4248\">cover story</a>.\n\n<b>What have you been up to recently?</b>\n\nPlaying Dekmantel and MUTEK, running Planet Mu...\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nIn my office, and the idea was to provide a mix for your Jlin feature, as she is a composer and not a DJ.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nI used to go to the Mambo in Brixton as a teenager... lots of jazz dancing and a great selection of rhythms.\n\n<b>How did you first come across Jlin's music, and what made it stand out to you?</b>\n\nShe was part of DJ Roc's clique Bosses Of The Circle when I first heard her music back in late 2010. She messaged me with her tracks over the next year and then appeared on my compilation <i>Bangs & Works Vol. 2</i> in 2011.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nTrans rights.\n\n<b>What are you looking forward to in the near future?</b>\n\nHaving some of the ice cream in my freezer.",
+    "blurb": "Experimental, Pulitzer Prize-worthy percussion music—a tribute to Jlin."
+  }
+}

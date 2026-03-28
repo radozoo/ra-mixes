@@ -1,0 +1,296 @@
+2026-03-16 22:43:31,558 INFO === PILOT START: 218 epizod ===
+2026-03-16 22:43:31,558 INFO Krok 1: Fetching epizod...
+2026-03-16 22:43:32,442 INFO [1/218] Fetching episode 809
+2026-03-16 22:43:35,191 INFO [809] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_809.json (source=apollo_cache)
+2026-03-16 22:43:39,596 INFO [2/218] Fetching episode 874
+2026-03-16 22:43:44,206 INFO [874] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_874.json (source=apollo_cache)
+2026-03-16 22:43:48,043 INFO [3/218] Fetching episode 608
+2026-03-16 22:43:51,241 INFO [608] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_608.json (source=apollo_cache)
+2026-03-16 22:43:55,328 INFO [4/218] Fetching episode 609
+2026-03-16 22:44:55,799 WARNING [609] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:45:01,278 INFO [5/218] Fetching episode 616
+2026-03-16 22:45:04,285 INFO [616] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_616.json (source=apollo_cache)
+2026-03-16 22:45:08,743 INFO [6/218] Fetching episode 635
+2026-03-16 22:45:10,085 INFO [635] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_635.json (source=apollo_cache)
+2026-03-16 22:45:13,238 INFO [7/218] Fetching episode 661
+2026-03-16 22:45:15,092 INFO [661] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_661.json (source=apollo_cache)
+2026-03-16 22:45:18,412 INFO [8/218] Fetching episode 725
+2026-03-16 22:45:19,912 INFO [725] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_725.json (source=apollo_cache)
+2026-03-16 22:45:22,952 INFO [9/218] Fetching episode 735
+2026-03-16 22:46:23,262 WARNING [735] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:46:28,666 INFO [10/218] Fetching episode 742
+2026-03-16 22:46:31,649 INFO [742] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_742.json (source=apollo_cache)
+2026-03-16 22:46:35,793 INFO [11/218] Fetching episode 748
+2026-03-16 22:46:37,024 INFO [748] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_748.json (source=apollo_cache)
+2026-03-16 22:46:40,496 INFO [12/218] Fetching episode 766
+2026-03-16 22:46:43,487 INFO [766] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_766.json (source=apollo_cache)
+2026-03-16 22:46:48,344 INFO [13/218] Fetching episode 770
+2026-03-16 22:47:49,105 WARNING [770] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:47:53,687 INFO [14/218] Fetching episode 773
+2026-03-16 22:48:54,021 WARNING [773] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:48:57,990 INFO [15/218] Fetching episode 409
+2026-03-16 22:49:58,299 WARNING [409] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:50:02,561 INFO [16/218] Fetching episode 411
+2026-03-16 22:51:02,954 WARNING [411] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:51:06,537 INFO [17/218] Fetching episode 413
+2026-03-16 22:51:10,124 INFO [413] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_413.json (source=apollo_cache)
+2026-03-16 22:51:14,090 INFO [18/218] Fetching episode 417
+2026-03-16 22:52:14,399 WARNING [417] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:52:19,792 INFO [19/218] Fetching episode 419
+2026-03-16 22:53:20,194 WARNING [419] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:53:24,126 INFO [20/218] Fetching episode 423
+2026-03-16 22:53:27,575 INFO [423] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_423.json (source=apollo_cache)
+2026-03-16 22:53:33,325 INFO [21/218] Fetching episode 424
+2026-03-16 22:54:34,438 WARNING [424] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:54:40,127 INFO [22/218] Fetching episode 425
+2026-03-16 22:54:43,620 INFO [425] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_425.json (source=apollo_cache)
+2026-03-16 22:54:49,518 INFO [23/218] Fetching episode 426
+2026-03-16 22:55:50,107 WARNING [426] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:55:53,641 INFO [24/218] Fetching episode 429
+2026-03-16 22:56:53,994 WARNING [429] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:56:59,228 INFO [25/218] Fetching episode 432
+2026-03-16 22:57:59,818 WARNING [432] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:58:03,311 INFO [26/218] Fetching episode 436
+2026-03-16 22:58:06,902 INFO [436] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_436.json (source=apollo_cache)
+2026-03-16 22:58:11,947 INFO [27/218] Fetching episode 443
+2026-03-16 22:58:15,470 INFO [443] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_443.json (source=apollo_cache)
+2026-03-16 22:58:19,468 INFO [28/218] Fetching episode 448
+2026-03-16 22:58:23,040 INFO [448] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_448.json (source=apollo_cache)
+2026-03-16 22:58:26,471 INFO [29/218] Fetching episode 449
+2026-03-16 22:59:26,858 WARNING [449] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 22:59:32,689 INFO [30/218] Fetching episode 452
+2026-03-16 23:00:33,018 WARNING [452] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:00:36,981 INFO [31/218] Fetching episode 460
+2026-03-16 23:00:40,533 INFO [460] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_460.json (source=apollo_cache)
+2026-03-16 23:00:45,654 INFO [32/218] Fetching episode 466
+2026-03-16 23:01:45,964 WARNING [466] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:01:49,509 INFO [33/218] Fetching episode 470
+2026-03-16 23:01:53,004 INFO [470] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_470.json (source=apollo_cache)
+2026-03-16 23:01:57,699 INFO [34/218] Fetching episode 472
+2026-03-16 23:02:01,444 INFO [472] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_472.json (source=apollo_cache)
+2026-03-16 23:02:06,233 INFO [35/218] Fetching episode 476
+2026-03-16 23:03:06,537 WARNING [476] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:03:10,072 INFO [36/218] Fetching episode 479
+2026-03-16 23:04:10,987 WARNING [479] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:04:14,880 INFO [37/218] Fetching episode 487
+2026-03-16 23:05:15,375 WARNING [487] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:05:20,223 INFO [38/218] Fetching episode 489
+2026-03-16 23:06:20,518 WARNING [489] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:06:25,097 INFO [39/218] Fetching episode 492
+2026-03-16 23:07:25,453 WARNING [492] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:07:30,685 INFO [40/218] Fetching episode 516
+2026-03-16 23:08:31,000 WARNING [516] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:08:36,895 INFO [41/218] Fetching episode 522
+2026-03-16 23:08:38,308 INFO [522] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_522.json (source=apollo_cache)
+2026-03-16 23:08:41,588 INFO [42/218] Fetching episode 544
+2026-03-16 23:09:41,881 WARNING [544] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:09:45,249 INFO [43/218] Fetching episode 555
+2026-03-16 23:10:45,579 WARNING [555] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:10:49,680 INFO [44/218] Fetching episode 584
+2026-03-16 23:10:51,068 INFO [584] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_584.json (source=apollo_cache)
+2026-03-16 23:10:55,694 INFO [45/218] Fetching episode 586
+2026-03-16 23:10:59,316 INFO [586] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_586.json (source=apollo_cache)
+2026-03-16 23:11:03,355 INFO [46/218] Fetching episode 588
+2026-03-16 23:12:03,639 WARNING [588] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:12:07,586 INFO [47/218] Fetching episode 591
+2026-03-16 23:12:10,832 INFO [591] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_591.json (source=apollo_cache)
+2026-03-16 23:12:14,067 INFO [48/218] Fetching episode 206
+2026-03-16 23:13:14,382 WARNING [206] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:13:19,927 INFO [49/218] Fetching episode 214
+2026-03-16 23:13:23,916 INFO [214] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_214.json (source=apollo_cache)
+2026-03-16 23:13:27,875 INFO [50/218] Fetching episode 216
+2026-03-16 23:13:31,411 INFO [216] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_216.json (source=apollo_cache)
+2026-03-16 23:13:34,579 INFO [51/218] Fetching episode 217
+2026-03-16 23:14:34,876 WARNING [217] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:14:40,466 INFO [52/218] Fetching episode 220
+2026-03-16 23:14:44,050 INFO [220] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_220.json (source=apollo_cache)
+2026-03-16 23:14:48,177 INFO [53/218] Fetching episode 224
+2026-03-16 23:15:48,511 WARNING [224] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:15:54,081 INFO [54/218] Fetching episode 234
+2026-03-16 23:16:01,705 INFO [234] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_234.json (source=apollo_cache)
+2026-03-16 23:16:04,895 INFO [55/218] Fetching episode 243
+2026-03-16 23:17:05,196 WARNING [243] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:17:10,100 INFO [56/218] Fetching episode 249
+2026-03-16 23:18:10,450 WARNING [249] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:18:13,542 INFO [57/218] Fetching episode 262
+2026-03-16 23:18:17,335 INFO [262] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_262.json (source=apollo_cache)
+2026-03-16 23:18:21,044 INFO [58/218] Fetching episode 267
+2026-03-16 23:19:21,393 WARNING [267] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:19:26,614 INFO [59/218] Fetching episode 278
+2026-03-16 23:20:26,935 WARNING [278] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:20:30,366 INFO [60/218] Fetching episode 279
+2026-03-16 23:20:34,293 INFO [279] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_279.json (source=apollo_cache)
+2026-03-16 23:20:38,386 INFO [61/218] Fetching episode 280
+2026-03-16 23:20:42,079 INFO [280] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_280.json (source=apollo_cache)
+2026-03-16 23:20:45,342 INFO [62/218] Fetching episode 281
+2026-03-16 23:21:45,912 WARNING [281] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:21:49,360 INFO [63/218] Fetching episode 282
+2026-03-16 23:22:49,948 WARNING [282] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:22:53,984 INFO [64/218] Fetching episode 283
+2026-03-16 23:23:04,850 INFO [283] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_283.json (source=apollo_cache)
+2026-03-16 23:23:08,655 INFO [65/218] Fetching episode 284
+2026-03-16 23:23:12,763 INFO [284] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_284.json (source=apollo_cache)
+2026-03-16 23:23:16,369 INFO [66/218] Fetching episode 285
+2026-03-16 23:23:19,793 INFO [285] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_285.json (source=apollo_cache)
+2026-03-16 23:23:24,623 INFO [67/218] Fetching episode 288
+2026-03-16 23:24:24,954 WARNING [288] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:24:28,717 INFO [68/218] Fetching episode 304
+2026-03-16 23:25:29,057 WARNING [304] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:25:33,697 INFO [69/218] Fetching episode 308
+2026-03-16 23:26:34,037 WARNING [308] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:26:38,690 INFO [70/218] Fetching episode 314
+2026-03-16 23:26:42,217 INFO [314] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_314.json (source=apollo_cache)
+2026-03-16 23:26:45,681 INFO [71/218] Fetching episode 341
+2026-03-16 23:27:45,990 WARNING [341] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:27:49,674 INFO [72/218] Fetching episode 345
+2026-03-16 23:27:53,606 INFO [345] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_345.json (source=apollo_cache)
+2026-03-16 23:27:58,077 INFO [73/218] Fetching episode 346
+2026-03-16 23:28:58,401 WARNING [346] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:29:04,253 INFO [74/218] Fetching episode 347
+2026-03-16 23:29:08,103 INFO [347] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_347.json (source=apollo_cache)
+2026-03-16 23:29:12,244 INFO [75/218] Fetching episode 349
+2026-03-16 23:30:12,597 WARNING [349] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:30:15,831 INFO [76/218] Fetching episode 350
+2026-03-16 23:31:16,626 WARNING [350] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:31:20,345 INFO [77/218] Fetching episode 351
+2026-03-16 23:32:20,877 WARNING [351] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:32:24,311 INFO [78/218] Fetching episode 354
+2026-03-16 23:33:25,066 WARNING [354] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:33:30,634 INFO [79/218] Fetching episode 355
+2026-03-16 23:33:35,697 INFO [355] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_355.json (source=apollo_cache)
+2026-03-16 23:33:41,583 INFO [80/218] Fetching episode 363
+2026-03-16 23:34:41,877 WARNING [363] Navigation failed: Timeout 60000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+2026-03-16 23:34:47,021 INFO [81/218] Fetching episode 368
+2026-03-16 23:34:50,959 INFO [368] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_368.json (source=apollo_cache)
+2026-03-16 23:34:56,297 INFO [82/218] Fetching episode 372
+2026-03-16 23:35:00,118 INFO [372] Uloženo: /Users/radozoo/Documents/claude/ra/data/raw/episode_372.json (source=apollo_cache)
+2026-03-16 23:35:04,182 INFO [83/218] Fetching episode 374

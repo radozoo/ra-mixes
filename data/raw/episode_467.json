@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "467",
+  "url": "https://ra.co/podcast/467",
+  "id": "467",
+  "__typename": "Podcast",
+  "title": "RA.467 Vril",
+  "date": "2015-05-11T00:00:22.000Z",
+  "fileSize": 133353767,
+  "duration": "00:55:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra467-vril-cvr.jpg",
+  "contentUrl": "/podcast/467",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra467/",
+  "keywords": "techno, Hannover, Giegling, Basic Channel, Torus, Portal, Delsin, Semantica, Dystopian, Soliloquay, Torus XXXII",
+  "artist": {
+    "id": "48012",
+    "__typename": "Artist",
+    "name": ".VRIL"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Vril is a low-key techno artist who delivers his message simply and powerfully. You won't have noticed significant shifts in his style since he started releasing under the name in 2010. Instead, the Hannover artist has gradually refined a brand of deep, loop-driven techno that draws from the dub techno blueprint of Basic Channel. Much of this music has arrived through Giegling, <a href=\"/feature.aspx?2334\">RA's favourite label</a> of 2014. The German imprint has released a handful of Vril 12-inches and an album, last year's <i>Torus</i>, which gently widened his purview through ambient, electro and downtempo. Vril followed that one earlier this year with <a href=\"/review-view.aspx?id=16326\"><i>Portal</i></a>, a far more direct and club-focused full-length (\"in the right hands at the right times, this music can feel as thrilling, fiery and dangerous as dancing on hot coals,\" said Paul Clarke in our review) that came out on leading Dutch techno label Delsin. Vril has gained plenty of other notable supporters. The highly respected Spanish label Semantica has released Vril's music; the much-loved Berlin party/crew/label Dystopian featured one of his tracks, \"Tannhauser Gate,\" of their recent <a href=\"/review-view.aspx?id=16153\"><i>Soliloquy</i></a> compilation; and Marcel Dettmann has included Vril tracks on his last two mix CDs, ending <a href=\"/review-view.aspx?id=15448\"><i>fabric 77</i></a> with the sublime \"Torus XXXII.\" \n\nVril has been building a strong reputation for his live performances. He's become increasingly busy over the last 12 months, with <a href=\"/dj/vril/dates\">gigs</a> in an impressive number of countries, and he'll set out this week on his first US tour, with stops in Miami, New York, Washington DC and Philadelphia. Vril goes live on his RA podcast, and he's put together something special for us: a home-listening reimagining of his set made up almost entirely of new, unreleased music.    \n\n\n<b>What have you been up to recently?</b>\n\nMuch travelling and minimal amounts of sleep but maximal energy at the same time from all the people who came to the live shows. Thank you! You are great. \n\n<b>How and where was the mix recorded?</b> \n\nAt the Vril station, a horrible place. \n\n<b>Can you tell us about the idea behind the mix?</b> \n\nOne song in the mix is already released but the rest of them are new, unreleased stuff that was brought here from far off places in my mind. It was then tuned to the original Kammerton 432Hz, mixed together and overdubbed with a few chosen loops of really old techno songs from musicians who are inspiring me until today. This podcast is more tranquil and has nothing to do with the live sets I play at the moment. \n\n<b>Tell us about your live set. What gear do you tend to use and how do you approach it?</b> \n\nI use analog recorded loops from all single instruments of my released and unreleased songs, which I arrange, change and mix live on eight tracks. Plus analog drum machine dubs and FXs.\n\n<b>What are you up to next?</b> \n\nStarting my own label/sublabel. Playing live till I snuff it. And of course, keeping on that good work with Giegling, Dystopian and Delsin. \n\n\n<span class=\"grey\"><i>Vril is playing our stage at this year's <a href=\"/event.aspx?686527\">Peacock Society </a>, which takes place in Paris between July 10th and July 12th.</i></span>\n",
+    "blurb": "Sublime live techno with a subtle twist.  "
+  }
+}

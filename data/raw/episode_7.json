@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "7",
+  "url": "https://ra.co/podcast/7",
+  "id": "7",
+  "__typename": "Podcast",
+  "title": "RA.006 Matt Tolfrey",
+  "date": "2006-04-10T03:00:19.000Z",
+  "fileSize": 111016698,
+  "duration": "01:32:29",
+  "imageUrl": "https://static.ra.co/images/podcast/ra006-matt-tolfrey-cover.jpg",
+  "contentUrl": "/podcast/7",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra006/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:709"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "A regular at Fabric and Nottingham's Stealth, Matt gained attention last year on the production front with his track 'The Horn' released on Crosstown Rebels and providing one of the highlights of Damian Lazarus's Bugged Out mix.\n\nSince then Matt has played a series of dates in Ibiza including Space, as well as Public Life and the T-Bar in East London, where he holds a monthly Thursday night residency.\n\nMatt's labels Leftroom Records and Leftroom Limited have been gaining strong support from artists such as Troy Pierce, Magda and Craig Richards, with a few tracks having already featured on the RA Podcast! RA caught up with Matt about the impromptu mix...\n\n<b>What have you been working on recently?</b>\nWe are just about to release Leftroom003 which is a full MarcAshken EP. We have had lots of good support on this one, so I'm hoping it will all kick off from here.\n\nWe also launched Leftroom Limited at WMC, so i am just getting that ready for a May release. It's a release by Craig Sylvester and me under our Popeye guise. It's very different to what you would expect from us, so will definitely turn a few heads. It's kind of what the Limited label is about. Music wise, it is going to bring a new dimension to Leftroom as a whole, mixing it up with house, techno, experimental and even some uplifting stuff. Check out the <a href=\"http://www.leftroom.com\">Leftroom website</a> for more information, and please sign up to our mailing list.\n\nRebel Agency is also in the process at the moment of piecing together my first tour of the U.S. and Canada for July. We have three or four dates already, so hopefully by the time I leave, I’ll have a good month worth of gigs to get stuck into. I can't wait.\n\n<b>Where was the mix recorded?</b>\nThe mix was recorded at my studio here in Nottingham, known as Villa Salvina. It was done with 2x CDJ800's and 2x 1210s. The mix was actually done on very short notice as I only found out I had to do it the Friday before it was aired on the Monday <i>(sorry, our bad - Ed)</i>, so hopefully it doesn't sound too rushed. There's lots of upcoming Leftroom bits on there, and loads of exclusives from my favourite artists at the moment. \n\n<b>What are you up to next?</b>\nIt's my <a href=\"http://www.residentadvisor.net/event_view.asp?ID=12182\">Leftout </a> night this coming Thursday (13th April) at the T-Bar in London with Craig Richards, Glimpse Live and myself. The opening night in March with James Holden was completely packed, so I am really looking forward to it.\n\nWe are also doing a Leftroom showcase at the forthcoming <a href=\"http://www.encompass-london.com\">Encompass festival</a> in London at the beginning of May. There are a lot of good labels involved there so you should definitely look into it. \n\nWe have our next Crosstown Rebels EP due out in July, which is a four tracker by Craig Sylvester and me. I've also just started a solo project. I have one track finished and loads more to polish off. Hopefully some will end up out and about in the not too distant future.",
+    "blurb": "The next instalment of the RA Podcast comes from Nottingham based DJ and producer Matt Tolfrey."
+  }
+}

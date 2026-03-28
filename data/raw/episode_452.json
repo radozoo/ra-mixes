@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "452",
+  "url": "https://ra.co/podcast/452",
+  "id": "452",
+  "__typename": "Podcast",
+  "title": "RA.452 DJ Bone vs Differ-Ent",
+  "date": "2015-01-26T00:00:43.000Z",
+  "fileSize": 202005402,
+  "duration": "01:24:04",
+  "imageUrl": "https://static.ra.co/images/podcast/ra452-dj-bone-cvr.jpg",
+  "contentUrl": "/podcast/452",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra452/",
+  "keywords": "Eric Dulan, Detroit, Techno, Differ-Ent, Don't be afraid, Leftroom, Subject Detroit",
+  "artist": {
+    "id": "1016",
+    "__typename": "Artist",
+    "name": "DJ Bone"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As a techno artist, Eric Dulan is quintessentially Detroit. He grew up listening to The Electrifying Mojo, attended the early techno parties at The Music Institute and eventually developed a fast-and-futuristic DJ and production style. But like so many of his Motor City peers, he's also cut a path that's very much his own: his tracks (at once colorful and utilitarian) and his DJ sets (typically raucous, three-to-five-deck affairs) are always unmistakably Bone. Perhaps the most impressive thing about Dulan is that in 20 years he's never lost momentum—today he's as prolific as ever, with recent records on Don't Be Afraid, Leftroom and his own label, Subject Detroit.  \n\nDulan's latest 12-inch on Don't Be Afraid debuts a new project: Differ-Ent, an alter-ego Dulan describes as having \"a more aggressive, structured sound... with a darker essence.\" On RA. 452, Dulan moves between these two sides of himself, delivering a mix that's warm, hard-hitting and loaded with personality. \n\n\n<b>What have you been up to recently?</b>\n\nI took all of January off from DJing to upgrade my studio and record a bunch of new music. I'm mostly producing songs for my Dance Tracks project as well as music for Differ-Ent's debut album. I've been working a lot on this other side of me lately. My first EP as Differ-Ent is being released on the very brave DBA label and will drop in a few days so I'm very excited about that.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded this one at Subject Detroit Headquarters in the B studio. I've revamped a separate room to be used just for mixing. It has special lighting and sound so that I can really focus and get into it. I used three Technics 1200 turntables and two Pioneer CDJs.\n\n<b>Could you tell us about the idea behind the mix</b>\n\nI started with a straightforward but funky vibe (DJ Bone style), weaving in and out of melodies, keeping it danceable but with a lot of soul and emotion. Then I took it to a more aggressive, structured sound (Differ-Ent) with a darker essence. The majority of the last half of the mix is where I employ a lot of three-deck mixing.\n\n<b>How do you define the difference between Bone and Differ-Ent?</b>\n\n(I'll speak in the third person for this one.) DJ Bone is about two major things, skills and a vibe. He doesn't feel that using effects or sync will enhance what he can do himself and he never programs or pre-arranges his sets. DJ Bone makes it his job to bring the right sounds into the room at the right time to create something special. \n\nDiffer-Ent is the other side of Bone's Gemini being. He is Detroit techno's orphaned son. He's darker, more aggressive and straight to the point but still manages to remain beautiful in a very twisted way. Differ-Ent is the deepest and darkest at the same time. Differ-Ent = Tech-no.\n\n<b>We saw that you recently played New York for the first time in 15 years—how did it go?</b>\n\nNew York was a great experience! It's tough for most US clubs to book underground DJs like me so I rarely play here, but the promoters in NY knew it would take something special to get me back there and they came through with a true underground experience. The venue was an undisclosed loft location in Brooklyn. No one knew where until hours before. Three levels with a rooftop, bar, secret security and amazing sound. And I swear this place was at double the max capacity too! I can't wait for the next one.\n\n<b>What are you up to next?</b>\n\nAfter my studio month I'll be back to traveling again starting in February. I'm on the TURF tour in the UK which ends with a very special appearance of DJ Bone vs. Differ-Ent at <a href=\"/event.aspx?646431\">Bloc. Weekend</a>. I will also be heading to Cardiff, Berlin, Paris, Haarlem and Basel in the next couple of months. I have a lot of new music to play and techniques to display on the decks so be on the lookout for DJ Bone vs. Differ-Ent. A Special Thanks to all who know and support true underground DJs. Respect!",
+    "blurb": "A Detroit techno heavyweight goes head to head with himself. "
+  }
+}

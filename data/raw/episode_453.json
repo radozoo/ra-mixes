@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "453",
+  "url": "https://ra.co/podcast/453",
+  "id": "453",
+  "__typename": "Podcast",
+  "title": "RA.453 Suzanne Kraft",
+  "date": "2015-02-02T00:00:39.000Z",
+  "fileSize": 149945661,
+  "duration": "01:02:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra453-suzanne-kraft-cvr.jpg",
+  "contentUrl": "/podcast/453",
+  "tracklist": "*Dropt Call*\nThe Talent - Telex (live)  (Suzanne Kraft &  )\nCloudface - Otcho\nMatthew Brown - Headly Foot\nDolo Percussion/ Phillips & Jensen - Dolo 8/Live at Tonalism\n*Dropt Call*\nMuslimgauze - Sudanese Amputate The Hands of Thieves\nDude Energy - Beat Desire\nKloke - Space & Time\nJuju & Jordash - Wheeze Please\nDude Energy - Theoretically Dope\nAbstract Thought - Me Want Woman's Punani\n*Dropt Call*\nSuzanne Kraft - Dead Ringer\nJex Obelix - Crash In The Dark\nSuzanne Kraft - Safety DJ (live take)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra453/",
+  "keywords": "Diego Herrera, Dublab, Running Back, Young Adults, Dude Energy, Melody As Truth, Future Times, Mood Hut, LA",
+  "artist": {
+    "id": "30533",
+    "__typename": "Artist",
+    "name": "Suzanne Kraft"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If his RA podcast is anything to go by, Diego Herrera is someone whose artistic identity is shaped by the people and places around him. You can tell this from the mix's tracklist: as he puts it below, it's a snapshot of where's he's at. There's a live recording from an event presented by <a href=\"http://dublab.com/\">dublab</a>, the non-profit internet radio site where's he's now a creative director after four years at the station. There are tracks from Suzanne Kraft, the name with which he's been building a reputation through standout releases on labels like Running Back and Young Adults, and there are a couple tracks by Dude Energy, a new alias he adopted for a release on Tornado Wallace's Animals Dancing label. There's a recent live jam he recorded with Jonny Nash, whose Melody As Truth has a release coming from Herrera later this year. There's music from Future Times, Public Possession and Mood Hut, likeminded label crews who seem to share Herrera's easy-going approach. \n\nAnd finally there's LA, his hometown. A humid undercurrent fuels the mix, a collection of house, techno and electro tracks put together with the loose, freewheeling spirit that's becoming Herrera's trademark. \n\n\n<b>What have you been up to recently?</b>\n\nI'm just at the end of finishing up a record I recorded surprisingly fast for Jonny Nash's Melody As Truth label. Just sent off pre-masters.\n\n<b>How and where was the mix recorded?</b>\n\nOn my laptop in my bed.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI suppose you could call it a \"snapshot\" of where I was at mentally at the time. Jonny had just been in town, and we were working on a live set—that's what the first track is an excerpt from. Juggling remixes and my own productions as well.  \n\n<b>Tell us about your involvement with dublab.</b> \n\nI've been a part of dublab since I started interning junior year of high school, helping when I could. After a couple years of that I came on as a staff member. Over the last four years I've managed broadcasts, hosted a weekly show and, more recently, taken on role of creative director, facilitating artist collaborations and design needs.\n\n<b>How healthy is the LA scene right now in your view?</b> \n\nI'd say it's always pretty healthy but not when it comes to \"nightlife\"—at least not the international idea of nightlife. We've got loads of really good and different producers/musicians collaborating and mingling all the time. \n \n<b>What are you up to next?</b> \n\nHopefully some surprises.",
+    "blurb": "One of LA's finest brings the heat. "
+  }
+}

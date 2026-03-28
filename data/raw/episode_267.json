@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "267",
+  "url": "https://ra.co/podcast/267",
+  "id": "267",
+  "__typename": "Podcast",
+  "title": "RA.267 DJ Qu ",
+  "date": "2011-07-11T00:01:12.000Z",
+  "fileSize": 76842337,
+  "duration": "01:04:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra267-dj-qu-cvr.jpg",
+  "contentUrl": "/podcast/267",
+  "tracklist": "Slam Mode - Eternal - Ibadan\nChris Brann - Tama Felise - Obliq Sound\nFred P - FP Project4 - Unreleased\nAmo E Mathieu - Lamb of Sun - Earthumental\nLevon Vincent - WKO - Unreleased\nAybee - 11:11 - DeepBlak\nDennis Ferrer - Red Room (Beat loop) - Objectivity\nBig Moses - Brighter Days - Nite Grooves\nDJ Jus-Ed - Gitty Up - Unreleased\nThe HouseFactors - Play it Loud - Black Market Int.\nDJ Qu - In This Society - Unreleased\nKit Clayton - Belt Frictional Problem (DJ Qu's edit) - Throw\nD.F.T - Weird or Wired\nDanza Electronica - Ritmo Total - Federation of Drums",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra267/",
+  "keywords": "DJ Qu, house, Jus-Ed, Strength Music, Underground Quality, NYC",
+  "artist": {
+    "id": "5285",
+    "__typename": "Artist",
+    "name": "DJ Qu"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "DJ Qu is a deep house DJ and producer who doesn't mind being called as such. Most artists are sniffy at best—outwardly hostile at worst—when labelled with a specific genre tag, whereas Ramon Lisandro Quezada has embraced the term, spending the last few years mining the very depths of the sound. Many will have first encountered Qu via his association with Jus-Ed's New York-based Underground Quality imprint and its coterie of artists' rise to international prominence during 2009, although Qu did have something of a lead up to this. He began Strength Music Recordings back in 2006, using it as a platform to showcase mainly his own productions, which as of earlier this year includes a classy full-length offering in the form of <i>Gymnastics</i>.   \n\nIt has been said before but Qu and his aforementioned NYC contemporaries are among the most affable people you're likely to meet on the scene—qualities we think translate to the music selected on RA.267. Unreleased tracks from Fred P., Levon Vincent, Jus-Ed and Qu himself nestle in alongside deep house cuts of the highest calibre. \n\n\n<b>What have you been up to recently?</b>\n\nI've been away on some DJ gigs, promoting the <i>Gymnastics</i> album and also praising my oldest nephew for graduating from high school and making his way to college. That's a big deal for me.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my home using my Vestax PMC mixer, two Technics 1200s, two Pioneer CDJs, a Pioneer EFX500 box and then through my recording studio to spice it up a bit.\n\n<b>Can you tell us a little bit more about the idea behind the mix.</b>\n\nThe idea behind the mix is simple. I basically put together a combination of music that I personally dig. Some of the music is released and some unreleased.\n\n<b>You sampled our <a href=\"/podcast-episode.aspx?exchange=13\">2010 in review Exchange</a> on <i>Gymnastics</i>. Does sampling generally form much of a basis for your productions?</b>\n\nSampling is definitely a huge part of my production right now. I'm slowly learning to play instruments and getting better with live recording, but I have no shame in sampling.\n\n<b>What are you up to next?</b>\n\nNext up for me is a three week tour through Europe in August 2011—going to visit numerous countries in Europe so I'm looking forward to that. I'm also getting some releases ready for the Strength Imprint and have some remixes coming out on other labels so it's definitely busy around here. ",
+    "blurb": "Deep house music from America's East Coast."
+  }
+}

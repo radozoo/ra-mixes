@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "745",
+  "url": "https://ra.co/podcast/745",
+  "id": "745",
+  "__typename": "Podcast",
+  "title": "RA.745 Sleep D",
+  "date": "2020-09-14T00:00:40.000Z",
+  "fileSize": 120268981,
+  "duration": "00:49:57",
+  "imageUrl": "https://static.ra.co/images/podcast/ra745-sleep-d-cvr.jpg",
+  "contentUrl": "/podcast/745",
+  "tracklist": "Sleep D - From Village To Empire\nSleep D - Together\nBig Yawn - Reflex (Sleep D Remix)\nSleep D - Sacred Tongue\nSleep D - Outdoor System\nSleep D - Sunrise In The Crater (I Exist) \nSleep D - Mother ",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/893040901",
+  "keywords": "Techno, Melbourne, Corey Kikos, Maryos Syawish, Antipodean, Butter Sessions, Rebel Force, ",
+  "artist": {
+    "id": "26462",
+    "__typename": "Artist",
+    "name": "Sleep D"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "While plenty of established Melbourne artists have made the move overseas to write a new chapter in their career, Sleep D's ongoing success story has unfolded at home. Corey Kikos and Maryos Syawish, two guys from the southern Melbourne suburb of Frankston, have spent the past decade building a strong network of Antipodean talent to the world through Butter Sessions, their <a href=\"/features/2955\">blog-turned-party-turned-label</a> whose extended family includes Roza Terenzi, Rings Around Saturn, Furious Frank, Cale Sexton and Booshank. \n\nThrough their own productions as Sleep D the duo have influenced the evolving sound of their city, releasing a string of house, techno and electro records that ooze class and character—whether they're dark and gritty, bright and polished or something else entirely. Their debut album <i><a href=\"/reviews/24300\">Rebel Force</a></i>, released late last year on Anthony Naples' Incienso imprint, showed they're still as driven as ever to finesse their sound while never staying in the same place for too long. \n\nWhile Sleep D are regarded as killer selectors, they're especially skilled at crafting immersive (and one-off) live sets that are contoured for both sweaty club sessions and big-tent festival elation. For their <i>RA</i> Podcast they deliver a live performance of all-new material that recalls simpler times on the dance floor. \n\n<b>What have you been up to recently?</b>\n\nMaking music, walking the dogs, making coffee and working on expanding our label Butter Sessions (BSR).\n\n<b>How and where was the mix recorded?</b>\n\nWe recorded this live set at our studio in Melbourne using a combo of digital and analogue equipment like drum machines, samplers, synths, FX and VSTs. It's 100 percent original tracks that were created in the past few months. We basically wrote the music and then deconstructed it to play back live with additional jamming and some glue at the end to bring it all together.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nUsually when we create a live set, the time, place and people play a big role in determining the direction we go. As we were going to be \"performing\" this in our studio we wanted to create a fantasy scenario based on our experiences on dance floors at festivals, clubs and other spaces.\n\n<b>How is the Melbourne scene looking to you in 2020?</b>\n\nMaryos: At this stage it's looking like a long recovery for the music scene here, which has existed only in the virtual realm for most of 2020. I think artists, venues, organisers etc. have been optimistic for the most part—creating, planning, re-imagining their output for when we can come together again. Hopefully the good eggs can push through to the other side.\n\nCorey: I've been lucky to master music for a lot of Melbourne artists and have heard some amazing music being created throughout 2020—the musical energy is going strong! On the other hand I feel for the venues, festivals and promoters, and hope they can hold on until we can safely go out and have a party!\n\n<b>Have any positives come out of the pandemic for you guys, either as artists or as label owners?</b>\n\nWe're fortunate enough to say the pandemic has been the catalyst for many positive changes for us. It's given us the time to reflect and realise what's truly important, both within music and life in general. We've been able to refine our practice in the studio and now have a much clearer path for our label in the future.\n\n<b>What are you up to next?</b>\n\nWe've just released a new EP titled <a href=\"https://sleep-d.bandcamp.com/album/freak-of-nature\"><i>Freak Of Nature</i></a> on Butter Sessions and are re-planning celebrations for ten years of BSR. We have remixes for Gordon Koang, Big Yawn and Sascha Funke coming out sometime in 2020, along with a collaboration with Big Yawn for a WAT compilation. We've also been working on a more meditative collaborative album with a highly talented group of musicians called The Adlib Collective—we're putting the finishing touches on now, hopefully for release in early 2021!\n",
+    "blurb": "Live techno and house from Melbourne."
+  }
+}

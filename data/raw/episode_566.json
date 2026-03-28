@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "566",
+  "url": "https://ra.co/podcast/566",
+  "id": "566",
+  "__typename": "Podcast",
+  "title": "RA.566 Sisi",
+  "date": "2017-04-03T00:00:58.000Z",
+  "fileSize": 180796759,
+  "duration": "01:15:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra566-sisi-cvr.jpg",
+  "contentUrl": "/podcast/566",
+  "tracklist": "Yuji Ohno - Dreamin' In The Space \nChiemi Manabe - Untotooku\nMike Francis - Features Of Love (Club Mix)\nGaz Nevada - Special Agent Man (Male version) \nGaz Nevada - Special Agent Man (Rap version) \nAdrian Gurvitz - New World\nMartin Kershaw - Keep On Pokin' \nBilly Thorpe - Stimulation\nInternational Music System - Nonline\nDaniele Baldelli - Mooneyes\nSupermax - Spooky (edit)\nNicky Bulldog - Dog-Power-Song (edit)\nFreddy The Flying Dutchman - Wojtyla Disco Dance\nRinder & Lewis - Lust  (12 inch Disco Version\nThe Chaplin Band - Il Veliero (12'' Extended)\nCounting Down\nA Guy Called Gerald - Rhythm Of Life \nQ - The Voice Of Q\nTantra - A Place Called Tarot\nCharlie - Spacer Woman\nBig Ben Tribe - Tarzan\nLa-Bionda - I Wanna Be Your Lover",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/315810522",
+  "keywords": "Disco, Tetsuyoshi Kisisita, Disk Union, Test Trax, Tosi, Timonthy Really, Rainbow Disco Club",
+  "artist": {
+    "id": "26785",
+    "__typename": "Artist",
+    "name": "Sisi"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tetsuyoshi Kisisita is a DJ close to the heart of Tokyo's scene. By day, he works at <a href=\"http://diskunion.net/\">Disk Union</a>, a chain of excellent record stores that's invaluable to the city's collectors and connoisseurs. Most nights he stays up till 3 AM writing and finding music for <a href=\"http://test-trax.com/\">Test Trax</a>, a \"super niche\" diggers' blog he runs with another local DJ, Tosi, of the Timothy Really crew. Most weekends he's playing records somewhere in Japan, either dishing out stripped back house or serving up the kind of pop and disco oddities that only a dedicated digger like himself could get his hands on. Among his most treasured gigs is Rainbow Disco Club, an intimate springtime open-air just south of Tokyo that's gone from strength to strength these past few years, and where he's a resident DJ.  \n\nThe theme for this year's Rainbow Disco Club is \"psychic dance,\" and this is what Sisi had in mind as he recorded RA.566. It's a simmering medley of pop and disco that might transport you, however briefly, to the grassy dance floors that inspired it. \n\n\n<b>How and where was the mix recorded?</b>\n\nAt home using two turntables, two CDJs, an Allen & Heath and Studio One.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nBeing inspired by Kikiorix's design concept for this year's Rainbow Disco Club, \"Psychic Dance,\" I decided to take weird and obscure '80s music between 100 to 120 BPM and piece it together in the context of dance music.\n\n<b>Your DJ style in the early 2000s could be described as minimal techno or house, but over the years your style has evolved. Can you tell us about that?</b>\n\nI personally don't think that I've changed that much, but since discovering alternative parties and artists like Life Force or Bing, I'm now flipping through more diverse crates at record stores. But my sets are still tagged as house, and when it comes to deep submerged dance experiences I'm a strict minimalist. I think it's more like, I grew up and can now appreciate carrots.\n\n<b>What is the feeling like at Rainbow Disco Club?</b>\n\nIt is a festival without unwanted static noise. A festival that isn't hindered by corporate noise that affects the quality of the music is extraordinary to see in Japan. If the festival were affected by outside forces they would have never chosen a globally unknown DJ like me as a resident. It is a paradise where everybody shines rainbow colors and is filled with pure love for music.\n\n<b>What are you up to next?</b>\n\nAs for gigs, I'm performing with DJ Tennis and DJ Chida at Omotesando Vent in April, Rainbow Disco Club 2017 in Izu in May, followed by RDC spinoffs in Shanghai and Hong Kong, and then I have Claremont 56's 10th anniversary Japan tour. In June, I'm playing at Contact for Mule Musiq's party, and then I'm heading to Akita for a gig, my home away from home.\n\nAs for production, there's a plan to release records of edits that came out of the blog we're doing, as well as releases for Mule Musiq and Hole And Holland that I still haven't turned in masters for, even though they reached out to me last year. I am going to take this opportunity to swear that I will get these projects done.\n",
+    "blurb": "Smoldering pop and disco from one of Tokyo's finest selectors. \r\n\r\n"
+  }
+}

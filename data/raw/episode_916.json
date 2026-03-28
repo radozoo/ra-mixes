@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "916",
+  "url": "https://ra.co/podcast/916",
+  "id": "916",
+  "__typename": "Podcast",
+  "title": "RA.916 Dr Banana",
+  "date": "2023-12-24T23:00:51.000Z",
+  "fileSize": 175418836,
+  "duration": "01:13:05",
+  "imageUrl": "https://static.ra.co/images/podcast/ra916-drbanana-cvr.jpg",
+  "contentUrl": "/podcast/916",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra916-dr-banana",
+  "keywords": "",
+  "artist": {
+    "id": "85332",
+    "__typename": "Artist",
+    "name": "Dr Banana"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Dr Banana is a name that commands a lot of respect in certain corners of the dance music world. The man has his Ph.D in record digging—not literally, mind you, but play along—and key to his success is the sense of fun, joy and ecstasy he brings to his DJing. UK garage historian? Sure. Blinding DJ? Definitely. He likes to play records you've never heard before, records that not only make you dance but might remind you of some of your favourite, formative records of yore.\n\nThe UK artist started out with a fashion line and some records and ended up an influential label boss, collector and DJ. He made his name with skippy, retro UK garage—sometimes from new producers and sometimes unearthed from the archives—and nicely coincided with the genre's explosion in popularity. Since then, he's highlighted everything from old-school German garage to new-school producers like K-LONE. His DJ sets have only become more adventurous and, crucially, even more bumping. Jungle, R&B, tech house, you name it. His <i>RA</i> Podcast zeroes in on a vintage-sounding, rollicking kind of house music, full of seismic disco basslines and quirky vocal samples. It's as celebratory as it is mysterious.\n\nOnce, Dr Banana was a not-so-well-kept secret for the heads—the kids in Berlin and London who were starting to realise the similarities between UK garage, minimal and tech house. Now, he's for everyone, and starting to earn the wider recognition he deserves.\n\n<b>What have you been up to recently?</b>\n\nI've been on the road a lot doing my darnedest to nice up the dance floors as I go. \n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded on a pair of Technics 1210s and a Pioneer mixer of some description at Ten87 studios in Tottenham. As it has been a hot minute since I last recorded a mix, I wanted to put a party selection together that reflects what I'm playing out and about.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nThere are so many clubs and parties that have a special place in my heart and have had a big impact on me but if I had to choose one it would be Closer in Kyiv. It's a magical place run by an amazing team with the best residents going in my opinion. The first time I played there I was meant to be in Kyiv for 3 days, but I missed my flight and stayed for two weeks.\n\n<b>You were once known primarily for UK garage, but your DJing runs the gamut of styles. What are you looking for when you're digging for records—what kind of thing/vibe catches your ear?</b>\n\nMy ears are wide open to many different styles when I'm digging. I go through periods where certain sounds really capture me and I'll follow them down rabbit holes for a time and then move onto the next. Across all genres I'd say I'm looking for something; positive, wiggy, groovy, fun and different. I love finding the sort of records that really twists people's melons on the dance floor.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nCeasefire in Palestine. It is beyond heartbreaking to see the millions of innocent lives affected throughout the region. The death toll including thousands of children continues to rise and our spineless politicians sit and watch. It's truly sickening. Also the ongoing war in Ukraine, it's a place so dear to my heart and I've heard many terrifying stories first hand from friends still living there.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm going on tour in North and South America at the beginning of 2024 which I'm very excited about. It will be my first time in South America, a place I've always been really drawn to. I also have lots of bits in the work for my clothing company which I'm looking forward to sharing with the world.",
+    "blurb": "The doctor is in."
+  }
+}

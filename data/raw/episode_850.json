@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "850",
+  "url": "https://ra.co/podcast/850",
+  "id": "850",
+  "__typename": "Podcast",
+  "title": "RA.850 Nene H",
+  "date": "2022-09-18T23:00:54.000Z",
+  "fileSize": 155175216,
+  "duration": "01:04:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra850-nene-h-cvr.jpg",
+  "contentUrl": "/podcast/850",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra850-nene-h-20220919",
+  "keywords": "",
+  "artist": {
+    "id": "77263",
+    "__typename": "Artist",
+    "name": "Nene H"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Whether you're hearing a track or a DJ set, you can usually tell it's Nene H pretty quickly. In just a few years, Beste Aydin has developed a very specific approach within the realm of techno. She inhabits the genre yet colours just enough outside the lines without losing the plot—or the pull—entirely. The focus is on fun, on groove and on hooks, with sets that dip into trance, electro, ghetto house and even hints of hyperpop, tying in neon threads into techno's all-black garb. \n\nShe's used techno as a jumping off point for orchestral and <a href=\"https://www.facebook.com/watch/?v=2476242275757355\" target=\"_blank\">choral</a> performances, as well as the poignant expression of grief (on her stellar <a href=\"/reviews/34113\" target=\"_blank\">debut album</a>). She's become a regular at Berghain and groundbreaking festivals like CTM, traversing a highbrow-lowbrow line that posits that every kind of dance music deserves the highbrow treatment. Her <i>RA</i> Podcast is an irresistible hour of techno full of what she calls \"Neneisms,\" turns into pop hooks amidst hulking techno beats and dips into funky, electro-informed beats.\n\n<b>What are you grateful for these days?</b>\n\nI am grateful for my body for carrying me around in this tough sleepless job. Grateful for things that work out, but also things that didn't work out. Because in long term I always understood that it was for the better. I am also grateful for my friends and family, I wish I could be more with them. \n\n<b>How and where was the mix recorded, and can you tell us the idea behind the mix?</b>\n\nAt home. I have a very functional and boring looking studio. I didn't have time to decorate it. The Idea behind the mix is to showcase in a short period of time, some of the roads that I take and some of the progressions that I make on the dance floor to give it a twist, and keep everyone on their toes. I have worked on my sound a lot over many years and I stand for what I bring to the table that is a little different. I would say there are some signature Neneisms in there. But I generally kept the vibe quiet groovy and very home-listening friendly. \n\n\n<b>You mentioned \"Neneisms,\" and bringing your own ideas/sounds to the table. What are those Neneisms?</b>\n\nI hear connections in the tracks and genres that are not so typical and try to find bridges that are a bit unusual or not really traditional. It allows me to go to all these different places without losing the flow but still moving through different moods and genres. It works really well on longer sets where I have the possibility to go anywhere I want. Or anywhere the crowd wants. They also have a lot of saying in this of course. I listen to what they respond more to. Sometimes it takes a while to get the crowd but I try my very best to read what is happening around me, I am very aware and sympathetic of my surroundings.\n\n<b>Can you tell us more about your new label and what will you be doing with it?</b>\n\nI have had a lot of experiences with different types of labels until now and I can't say that they have all been so nice. My aim is to do it differently and shake this system a bit in my own little way, where the profit all goes to the artists and only focus will be to elevate the people who deserve to have a voice in the scene but maybe are a bit looked over or not taken so seriously. It will be a platform to represent the underrepresented, shine light to the talented marginalized beings and support them in their journey in the best and most personal way possible, building trustworthy relationships.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nI have done so much activism in the last year, and I understood first hand how limited we people are to change something on a bigger scale. Let alone that paying more attention to something does not change anything at all. We all know how fucked up the world is and everyone knows where the problems are. Discrimination, climate change, racism… But our personal contributions vary a lot. Such as one person being vegan for the climate and then one another person's fabric causing irreversible damage to water and air, is crazy disproportionate. We can only make small changes within our communities, we still actively decide to do these small changes in our little bubble. \n\n<b>What are you looking forward to in the near future?</b>\n\nKicking off my label is something I am really looking forward to. I hope that it can be part of change in the industry even if in a smaller scale. Again, what we can do is little, but we hope that it becomes part of something good.",
+    "blurb": "Extremely funky techno from Berlin via Istanbul."
+  }
+}

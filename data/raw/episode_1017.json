@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1017",
+  "url": "https://ra.co/podcast/1017",
+  "id": "1017",
+  "__typename": "Podcast",
+  "title": "RA.1000 Helena Hauff",
+  "date": "2025-08-13T16:30:41.000Z",
+  "fileSize": 0,
+  "duration": "01:45:54",
+  "imageUrl": "https://static.ra.co/images/podcast/ra1000_podcast_image-helenahauffra1000_(1).jpg",
+  "contentUrl": "/podcast/1017",
+  "tracklist": "Cybotron - Earth\nLittle Computer People - Little Computer People (Karl Bartos Remix)\nMobile Space Unit - Penalty Dream\nKlangwerk - Die Kybernauten\nScope - The Future (Cybotron Mix)\nCalagad 13 - Super Jam (Xtndd)\nNovamen - Bubblegum\nMiddle Men - Defeat The Object\nInterfunk - Travel To Another Dimension\nExcel - Don't Stop Now\nChaos - Afrogermanic\nT.Linder - Wolfpack\nT.Linder feat. Blak Tony - Leatherneck\nThe Martian - Skypainter\nThe Shadow - The Vision\n6K - Exponential\nHazed - Bellchant\nJoey Beltram - Orion\nSebastian S., Jessie Deep! - Escape\nLory D - Sickness\nUnderground Resistance - Riot\nOligo - Light Orbit\nThe AM - Sex Worker\nuNN - Make Me Listen (Electro)\nEDO8 - Voyager\nInsync vs Mysteron2 - Science Fact\nScan X - Higher",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1000-helena-hauff",
+  "keywords": "",
+  "artist": {
+    "id": "43227",
+    "__typename": "Artist",
+    "name": "Helena Hauff"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When Helena Hauff made her first <i>RA Podcast</i> appearance back in 2013, she was on the eve of releasing her debut production, <i>Actio Reactio</i>, on Actress' Werkdiscs imprint. In the 12 years that have elapsed since, she's become not just a household name within electronic music, but the kind of rare talent that lives in impenetrable seclusion from industry tumult.\n\n(Hauff, enviously, has never even owned a smartphone.)\n\nHer calling card was and continues to be her penchant for rough and ready EBM, electro and new wave, recorded straight to tape. And while her selections are seemingly untethered to the trend cycles that dominate popular dance music culture, they have staying power. Her unique ability is creating a singular listening experience from otherwise disparate or out-of-favour tracks, with a raw immediacy that functions as a redress to overly-choreographed modern DJing.\n\nThe Hamburg icon showcases her outsider approach to selection once again in her mix for RA.1000. Threaded together by strobe-lit DIY electronica, old-school acid house and corrosive machine funk that chews up the ear, the nearly two-hour set pulls music from modern producers while explicitly referencing electronic music's history.\n\nIn the sci-fi themed first half, Hauff drops not one but two Cybotron tracks, nodding to Juan Atkins' blueprint for the world of electro. You'll also hear \"Riot\" from Underground Resistance, the definitive mission statement for the Motor City techno collective for a world ablaze. Here, Hauff raises the bar once again, demonstrating how these songs and their sentiments continue to resonate through the ages. This is musical anarchism executed to the highest degree. <i> – Chloe Lula</i>\n\n<b>Can you tell us the idea behind this mix, and what do you hope listeners take away from it?</b>\n\nI wanted it to be a celebration of the past and future of techno and electro. I was looking to include a lot of old classics and give them a moment by combining them with newer productions. It reflects my love for Detroit techno and electro in general, and I hope people will find joy in listening to this machine funk trip.\n\n<b>Is there a particular RA Podcast that has had a significant impact on you? If so, why?</b>\n\n<a href=\"https://ra.co/podcast/190\" target=\"_blank\">DJ Stingray</a>. I'm a huge Drexciya fan and used to collect all their records and all of Stingray's projects as well. I only knew him as a producer but this mix introduced me to his DJing.\n\nAlso <a href=\"https://ra.co/podcast/547\" target=\"_blank\">RA.547 RVDS</a>. This mix just sends me into a wonderfully strange universe of dreams I kinda never wanna leave.\n\n<b>Can you share a mix that's particularly special to you?</b> \n\nI'm hugely inspired by <a href=\"https://ra.co/dj/i-f\" target=\"_blank\">Intergalactic FM</a>. I used to listen to their Hotmixes nonstop. It really helped form my identity as a DJ. One that means a lot to me is <a href=\"https://soundcloud.com/morah-l/black-mixx-the-waltz-morah-on_intergalactic-fm\" target=\"_blank\">Black Mixx - Morah - \"The Waltz</a>.\" It touches me profoundly in its deep understanding of the pain humans quite often have to go through.\n\n<b>In a world where technology is rapidly changing the way we DJ, how do you see the future of DJing and mixing evolving?</b>\n\nI hope the art form of playing records won't get lost but I also hope that people get creative and find new ways of working with technology and merging sound.",
+    "blurb": "One of the enduring powerhouses of our era returns for RA.1000 with a riotous mix."
+  }
+}

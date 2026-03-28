@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "357",
+  "url": "https://ra.co/podcast/357",
+  "id": "357",
+  "__typename": "Podcast",
+  "title": "RA.357 John Swing",
+  "date": "2013-04-01T00:01:37.000Z",
+  "fileSize": 84189732,
+  "duration": "01:09:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra357-john-swing-cvr.jpg",
+  "contentUrl": "/podcast/357",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra357/",
+  "keywords": "John Swing, Relative, Techno, Appointment, Vinalog",
+  "artist": {
+    "id": "37227",
+    "__typename": "Artist",
+    "name": "John Swing"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "John Swing is a name that rarely appears anywhere except the inside label of a 12-inch. Along with the artist EMG, he runs Relative, a cryptic source of dusty club tracks that's put out ten EPs in the last few years. All of their releases are vinyl-only, and recorded live with analog gear—an approach (or code of ethics) they share with their peers Lucretio and Marieu of Restoration Records. EMG and John Swing also collaborate with the Restoration crew as Appointment, and with each other as Vinalog. \n\nOf all the artists in this murky collective, John Swing is the most party-rocking. His style is rough around the edges, but his tracks are loaded with warm basslines, meaty kick drums and sassy vocal samples. Despite some recognition among DJs and connoisseurs, none of his records are widely known, thanks mostly to his label's shadowy MO. \n\nJohn Swing's RA podcast provides a blueprint for his sound: gritty, funky and covered in the sepia tinge of old vinyl.\n\n<b>What have you been up to recently?</b>\n \nI've been busy arranging future releases, attending mastering sessions and recording some music.\n \n<b>How and where was the mix recorded?</b>\n \nAt home, two turntables, one mixer and records of course. \n \n<b>Can you tell us a bit about the idea behind the mix?</b>\n \nI simply wanted to record something that represented my sound. I generally tend to combine \"raw\" and \"funky\" as much in my music.\n \n<b>All of your records share a certain production approach. Can you explain what this is? </b>\n \nWell, I've always been fascinated by the sound of old records, so probably most of my inspiration in the production approach comes from the past. I've always tried to discover what techniques were used in the production process back then; that's why I make my music only with analog gear and record everything live through the desk. This is probably what gives that live feel to my/our recordings that finally end up on wax. \n \n<b>What are you up to next?</b>\n \nReleasing records mainly. Our next release is Relative 010 by Vinalog, which is my project with EMG. It will be in shops by next week. As well I'm working together with EMG, Lucretio and Marieu for the Appointment live act, which will be ready to perform very soon!",
+    "blurb": "Dirty house from an underground favorite. "
+  }
+}

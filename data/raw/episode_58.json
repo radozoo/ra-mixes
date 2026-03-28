@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "58",
+  "url": "https://ra.co/podcast/58",
+  "id": "58",
+  "__typename": "Podcast",
+  "title": "RA.058 Guy Gerber",
+  "date": "2007-06-18T14:11:20.000Z",
+  "fileSize": 83472191,
+  "duration": "01:09:32",
+  "imageUrl": "https://static.ra.co/images/podcast/ra058-guy-gerber-cover.jpg",
+  "contentUrl": "/podcast/58",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra058/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:802"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Guy Gerber is a 33 year old ex-footballer and one of the world’s hottest producers right now. He first came to attention in 2004 with ‘Stoppage Time’, a peaktime destroyer which Gerber put together in three hours supposedly. It was picked up by DJs as varied as John Digweed and Sven Vath. In fact, Vath loved it so much he signed Gerber to Cocoon for whom he has produced three 12”s, including RA fave ‘Sea of Sand’ with Shlomi Aber, and now a debut LP ‘Late Bloomers’, released this month.\n\nGerber has recently come into his own as a DJ too heading out from Tel Aviv each weekend to play clubs around Europe, North America and Asia. Never one to be easily pigeonholed in any particular style, Gerber weaves together house and techno with a fine ear for melody on his RA podcast. This is the one that'll usher in the summer.\n",
+    "blurb": "This week's podcast is a special selection from Cocoon Records’ Guy Gerber."
+  }
+}

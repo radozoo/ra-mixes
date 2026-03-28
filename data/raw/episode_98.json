@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "98",
+  "url": "https://ra.co/podcast/98",
+  "id": "98",
+  "__typename": "Podcast",
+  "title": "RA.098 Todd Terje",
+  "date": "2008-04-14T04:00:31.000Z",
+  "fileSize": 71902179,
+  "duration": "00:59:53",
+  "imageUrl": "https://static.ra.co/images/podcast/ra098-todd-terje-cover.jpg",
+  "contentUrl": "/podcast/98",
+  "tracklist": "01. M.I.A. - Paper Planes (DFA Mix)\n02. Sly & Robbie - Triplets\n03. Chaz Jankel & Laura Weymouth - Whisper\n04. !!! - Must Be The Moon (Emperor Machine Mix)\n05. Armand Van Helden - Je T'aime (Simian Mobile Disco Mix)\n06. Broke - We Ain't Got It\n07. Mathias Kaden - Rhythma\n08. Class Action - Weekend\n09. Cole Medina - Red Hot\n10. Tron Scott's Freaks in Space - Prog Rocks And Moon Jocks\n11. Mirror Boys - See The Music\n12. The Temptations - Law Of The Land (Iskra Edit)\n13. Konk - Percussion Jam\n14. Mr. Raoul K - Le Cercle Peul\n15. Sueno Latino - Luxuria (Cutmaster-G Techno Age Mix)\n16. Bruce Springsteen - I'm On Fire (Cousin Cole Mix)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra098/",
+  "keywords": "",
+  "artist": {
+    "id": "1831",
+    "__typename": "Artist",
+    "name": "Todd Terje"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Although he may be best known for his inclusion on Michael Mayer’s <i>Immer 2</i> compilation, Todd Terje ain’t much of a house and techno guy. Disco is his game. The Norwegian DJ/producer is a compatriot of the Lindstrom/Prins Thomas axis of dance music, a cabal of Scandinavians continuing the Idjut Boys skewed version of disco and Balearic beach sounds. Terje’s specialty is the edit. His official and unofficial reworkings of tunes by artists as diverse as Curtis Mayfield, Paul Simon and KC & The Sunshine Band have gained him a following among adventurous listeners and DJs alike.\n\nOn his RA podcast, you’ll get to hear some of Terje’s work in the editing arena on tracks new and old. It’s a set that eschews the idea of simply making the easy mix, taking in space disco, reggae, R&B and even some Bruce Springsteen. Boss.\n\n<b>What have you been working on recently?</b>\n\nNot exactly \"recently\", but there are a few remixes coming out soon: a Dølle Jølle mix on Permanent Vacation, a Jose Gonzalez mix on Imperial Records and, hopefully, a\nSimon Baker mix I did just for fun.\n\n<b>Where/how was this mix recorded?</b>\n\nSince I don't own CD players, this mix is 31.7% vinyl, 29.2% Serato and 34.2% Acid Pro 6.0. Hehe. The last 4.9%? Overdubs. Done in my \"studio\" in Oslo.\n\n<b>Can you tell us anything about the idea behind the mix?</b>\n\nIf your wife allows you out for one hour only, but you still want a full DJ set with the slow beginning and the famous end-of-night smoocher, this is for you. It’s a compressed version of how I would DJ live. (I like to play much, much longer though, I’m a bit of tired of the typical two hour slot.)\n\n<b>Are there any special techniques that you can share with RA readers on how to properly groom a mustache?</b>\n\nI'll never share my secret recipe for successful facial hair! One tip, though: they say you stimulate the hair roots by shaving, so you should probably start shaving when you're nine years old.\n\n<b>What's up next for Todd Terje?</b>\n\nFirst I'll put out a few singles by myself, then when the album is ready I'll go label shopping. I haven't done any tunes of my own in a long while, and it's about time.",
+    "blurb": "This week on the RA podcast: a left-field disco mix from Norway’s Todd Terje.\r\n"
+  }
+}

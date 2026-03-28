@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "421",
+  "url": "https://ra.co/podcast/421",
+  "id": "421",
+  "__typename": "Podcast",
+  "title": "RA.421 Lena Willikens",
+  "date": "2014-06-23T00:00:10.000Z",
+  "fileSize": 141509349,
+  "duration": "00:58:52",
+  "imageUrl": "https://static.ra.co/images/podcast/ra421-lena-willikens-cvr.jpg",
+  "contentUrl": "/podcast/421",
+  "tracklist": "Tolouse Low Trax - Eisenbahnzunge (soon on Karaoke Kalk)\nAuto Repeat - Mad Cow (Carl Craig remix) (SSR Records)\nShackleton - Freezing Opening Thawing (Woe To The Septic Heart)\nKhidja - Mustafa (Emotional Especial)\n33.10.3402 - Cool Down (ESP Institute)\nStreetwalker - Ooze (Diagonal)\nMontezumas Rache - Wu Du Wu (Second Circle)\nPhantom Horse - Fernando (Dekorder)\nRaudive - Visitor (Macro)\nFurther Reductions - Death To The Beat (Cititrax)\nRed Axes - Candela (I´m A Cliché)\nStreetwalker - Untitled (Cititrax)\nPhilipp Gorbachev - What Do You Need (Cómeme) \nSalo Mentale - Golden Twilight (SD Records)\nrRoxymore - Ministry Of Silly Talks (Huntley & Palmers)\nC.P.I. - Poceso (Barnt rmx) (Hivern Disc)\nEkoplekz - Nerva Beacon (Planet Mu)\nHodge - Amor Fati (Dnuos Ytivil)\nMariah - Shinzo No Tobira (Shan-Shan)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra421/",
+  "keywords": "Comeme, Kosmische, Salon Des Amateurs, Titanoboa, Sentimental Flashback, Dusseldorf",
+  "artist": {
+    "id": "47250",
+    "__typename": "Artist",
+    "name": "Lena Willikens"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "On her monthly slot on Cómeme radio, Lena Willikens introduces herself with a deadpan German accent and briefly explains the show's theme. She's recorded 19 of them so far, and the range of styles she's covered is vast. One time, she took a \"musical excursion\" that started in the Western Sahara and ended up in Lebanon, stopping in Ethiopia, Iran and Thailand along the way. Another week, she explored '70s music from African countries like Nigeria, Ghana and Burkina Faso, which followed a show that focussed on kosmische. At Salon Des Amateurs, the tiny spot in Düsseldorf where Willikens is a resident, she's spent the past five years feeding these influences into her club sets. She's gained a reputation as a DJ with a distinctive edge, and word has gradually begun to spread—Willikens now plays abroad at respected venues like Plastic People, ://about blank and Batofar. \n\nBut what is it about Willikens style that's so clearly distinguished her? It's tough to place, but on RA.421it seems to be a flair for freakiness. Every track—whether it's the 100 BPM beat-downs at the start, or the druggy techno near the end—has some little quirk or eccentricity that makes it pop. As the mix makes clear, she has both the skills and the record collection to become an underground favourite.\n\n<b>What have you been up to recently?</b>\n\nI'm on my way back home from Barcelona. We had a wonderful Cómeme night at Moog, with a lot of friends, a really good soundsystem, and it was packed from the beginning till the end. I felt the freedom that I could go quite far, playing the weirdest tracks and still having the crowd with me—those are the moments where I know why I'm doing it! \n\n<b>How and where was the mix recorded?</b>  \n\nAt home with my turntables, CDJs, mixer and soundcard.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nTrippy, rough and twisted. Feeling hallucinogens without taking some. I imagined little unpredictable lindworms sneaking out of the speakers and freaking out. \nThey can be pretty mean and in the next moment really tender or funny, and they possibly let you forget about the body you're trapped in. Let's leave our bodies!\n\n<b>Tell us about the vibe at Salon Des Amateurs.</b>\n\nThe name speaks for itself. An amateur is someone who loves what he does. Some friends of mine opened the Salon without knowing anything about how to run a proper business. In the beginning it was not even their intention to run a club—you could go there on a Friday night and someone would be playing Sun Ra at peak-time. You can still feel this freedom there. \n\n<b>We read that you play the Theremin. What drew you to it?</b> \n\nThe Theremin is one of the instruments that you are never able to control totally. It's always slightly out of tune with a beautiful warm sound. It has its one mind—I can't imagine geting bored of it! I play it mainly in my noise band Titanoboa, with effect pedals and a loop station to build drone soundwalls.\n\n<b>What are you up to next?</b> \n\nTomorrow I have to finish my 20th \"Sentimental Flashback\" radio show for Radio Cómeme. Then I'll enjoy a weekend off, where I can go to my studio.",
+    "blurb": "A deeply singular mix from one of Europe's undiscovered talents. "
+  }
+}

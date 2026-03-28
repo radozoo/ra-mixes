@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "358",
+  "url": "https://ra.co/podcast/358",
+  "id": "358",
+  "__typename": "Podcast",
+  "title": "RA.358 D-Bridge ",
+  "date": "2013-04-08T00:00:33.000Z",
+  "fileSize": 78096530,
+  "duration": "01:04:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra358-dbridge-cvr.jpg",
+  "contentUrl": "/podcast/358",
+  "tracklist": "Kryptic Minds - Burnt To Ashes - Exit Records\ndBridge - Beg, Steal & Borrow - Exit Records\nDub Phizix - Yukon - Exit Records\nLoxy & Resound - Residual Move - Exit Records\nRuffhouse - Greyscale - Exit Records\nConsequence & Fis - Untitled - Exit Records\nCMX ft dBridge - Tesserae - Exit Records\nInstra:mental & dBridge - White Snares - Nonplus Records\nDan HarbarNam - The Rendering Of Garlic Boy (Loxy & Resound Remix) - Cylon Recordings\ndBridge - I Know - Exit Records\nSkeptical - Another World VIP - Exit Records\nAbstract Element - Acid Coke - Dub\ndBridge - OnO - Exit Records\nLoxy & Resound - Thin Ice (Skeptical Remix) - Exit Records\nJoe Seven - Juiced - Exit Records\nRuffhouse - Untitled - Dub\ndBridge - Without Sound - Exit Records\nWraetlic - Better The Devil (dBridge Advocate Mix) - Convex Industries\ndBridge, Indigo & Synkro - Untitled - Exit Records\nClarity - Constant - Exit Records\nLoxy & Resound - Black Hole VIP - Exit Records",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra358/",
+  "keywords": "Drum, Bass, dnb, Darren White, Future Forces, Autonomic, Mosaic",
+  "artist": {
+    "id": "11450",
+    "__typename": "Artist",
+    "name": "dBridge"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When we spoke to him for an edition of <a href=\"feature.aspx?1325\">Machine Love</a> in 2011, we made the point that Darren White's career has been one of distinct chapters. Two years on, and we may not have had the seismic shifts such as those between his Future Forces Inc, Bad Company or Autonomic phases, but White has continued his tireless pursuit of innovation. In <i> Chic Anatomy / Den-En-Toshi</i> and <i>Passing Encounter / Scarlett</i> he began exploring straight 4/4 for the first time, passing Drexciyan electro and tense techno as he did so. Meanwhile his label, Exit Records, has issued some seriously far-out club forms in the last 12 months. There's been Dawn Day Night's raucous jungle/juke hybrids, FIS's blackened off-the-grid rhythms, and Om Unit and Sam Binga's unlikely marriage of drum & bass and boogie. \n\nExit is as much the star as D-Bridge on RA.358. The mix is comprised mainly of unreleased tracks from the label, much of it lifted from the follow-up to the excellent <a href=\"review-view.aspx?id=8601\"><i>Mosaic Vol. 1</i></a> compilation.  \n\n<b>What have you been up to recently?</b>\n\nI've mainly been in the studio, working on my album.\n\n<b>How and where was the mix recorded?</b>\n\nI've got a DJ setup at home, so I did it there via my usual Serato setup.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nI've got a compilation coming soon, <i>Mosaic Vol. 2</i>, so I wanted to showcase a lot of forthcoming music on Exit Records.\n\n<b>You were scheduled to play your first set as Velvit this past New Year's. Will you be looking to do this more often in the future?</b> \n\nI hope so. I like to explore new things in music, and this is definitely that. I have a somewhat ignorance-is-bliss approach to it.\n\n<b>Where are some of your favourite places to play right now?</b> \n\nIt's still Womb in Tokyo and Sun & Bass in Sardinia. More recently, Outlook and Dimensions have become memorable gigs.\n\n<b>What are you up to next?</b> \n\nExcited for the <a href=\"event.aspx?456435\">Exit Records party</a> on the 12th of April at Fire and finally finishing my second LP this year.",
+    "blurb": "Advanced drum and bass. "
+  }
+}

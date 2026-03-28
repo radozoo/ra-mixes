@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "326",
+  "url": "https://ra.co/podcast/326",
+  "id": "326",
+  "__typename": "Podcast",
+  "title": "RA.326 Apparat",
+  "date": "2012-08-27T00:01:56.000Z",
+  "fileSize": 64795005,
+  "duration": "00:53:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra326-apparat-cvr.jpg",
+  "contentUrl": "/podcast/326",
+  "tracklist": "Space Dimension Controller - 2257 AD\nPional - In Another Room\nTevo Howard - Spend Some Time\nJacob Mikesh Filburth - At the Ranch (Lauer remix)\nTodd Terje - Swing Star Pt II\nZZT - ZZafrica - (Julio Bashmore remix)\nJacques Greene - These Days\nGlass Candy - Sugar & Whitebread\nBostro Pesopeo & Pional - Yes \nCollege - Incident\nDaphni - Ahora (Margot remix)\nM83 - When Will You Come Home\nTahiti 80 - Darlin Adam Eve Song (John Talabot remix)\nZodiac Free Arts Club - Lindos Express\nTim Hecker - Hatred of Music II",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra326/",
+  "keywords": "Apparat, Sascha Ring, Moderat, Walls, Multifunktionsebene, DJ Kicks, bPitch control, ",
+  "artist": {
+    "id": "748",
+    "__typename": "Artist",
+    "name": "Apparat"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The drums and arrangements may have evolved around it, but melody has always remained central to Sascha Ring's craft. Cast an ear back to 2001's <i>Multifunktionsebene</i> and it's there wafting over the IDM-informed glitch; fast-forward to 2011's <i>Devil's Walk</i>and it's leading delicate songs you could hear on the radio. In the time between these two full-lengths Ring became one of Germany's preeminent electronic artists. 2006's <i>Orchestra of Bubbles</i> alongside fellow Berliner Ellen Allien hit as interest in the sounds of the city were reaching fever pitch. A similarly Berlin-centric project was conceived in 2009 with the release of <i>Moderat</i>, Ring's collaboration with Gernot Bronsert and Sebastian Szary of Modeselektor. His live solo material had by this point taken on the form of a band, set-up to tour his crossover full-length <i>Walls</i>. The show was expanded upon for last year's <i>Devil's Walk</i>, Ring's most introverted and traditionally structured offering yet. \n\nAs he showed on his excellent entry in the <i>DJ-Kicks</i> series, Ring knows his way around a mixer as well. We reckon RA.326 is equally as arresting…maybe even life changing. (Ring will explain below.)  \n\n<b>What have you been up to recently?</b>\n\nWe're in the last weeks of the band tour and we're still having a blast. We go to India tomorrow and after that I'll start working with Gernot and Szary from Modeselektor again. I guess this winter I can't escape to a nice and warm place—I'll be stuck in the studio... \n\n<b>How and where was the mix recorded?</b>\n\nI just recently got into dance music again. It takes a lot of patience to find good stuff but there is good music that's worth searching for. I've been DJing mostly a mix of noisy and some melodic techno but after playing a show with John Talabot I got into his stuff and I discovered all this \"good mood music\" which is pretty weird actually because for most of my life I've been into depressing music. I guess it means I'm in a good mood these days. I made the mix with Traktor, somewhere on the road I guess...\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWell, like I said before, I grew up with The Cure and kept on listening to mostly dark music for most of my life so the music I chose is a bit unusual...but it still appeals to my sense of melody and it brings back old '80s childhood memories. I guess this mix marks a real turning point in my life: I'll be a happy and optimistic person from now on. Forever.\n\n<b>You'd mentioned that you were a \"gabba kid\" in a recent interview. Who were some of the acts you were into?</b>\n\nI listened to cheesy Dutch gabba when I was 13. Euromasters and stuff. But I got into Bunker, Acidplanet and Reference quite soon after. It's not gabba but it really made sense as a next step. I was into hard techno for quite a while actually, until this dumb and loopy \"schranz\" stuff destroyed it for me. Anyone remember that? \n\n<b>What are you up to next?</b>\n\nM.O.D.E.R.A.T.",
+    "blurb": "Melodic melancholia."
+  }
+}

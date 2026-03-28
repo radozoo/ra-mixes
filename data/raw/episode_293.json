@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "293",
+  "url": "https://ra.co/podcast/293",
+  "id": "293",
+  "__typename": "Podcast",
+  "title": "RA.293 Nicholas",
+  "date": "2012-01-09T00:01:18.000Z",
+  "fileSize": 77262371,
+  "duration": "01:04:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra293-nicholas-cvr.jpg",
+  "contentUrl": "/podcast/293",
+  "tracklist": "Nicholas - Where Is The Compassion - Small World Disco\nNY House'n Authority - Forty House (Nicholas Basement Dub) - Needwant\nNicholas - Love Message - unreleased\nNY House'n Authority - Apt 1A (Nicholas Witness Remix) - Needwant\nNY Stomp - The NY House track (Nicholas Basement Dub) - Illusion recordings (forthcoming)\nKaspar - Got Good Love (Nicholas Remix) - 4Lux (forthcoming)\nBasil feat. Burrell - Black Man (Nicholas Black & Proud mix) - Needwant\nNicholas - untitled beats - unreleased\nNicholas - Sanctuary Of Love - Ourvision\nNicholas - We Can Change - unreleased\nNicholas - A Little Stronger - unreleased\nNicholas - Blessin' - Amplified (forthcoming)\nOne Way - Come Give Me Your Love - MCA",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra293/",
+  "keywords": "Nicholas, house, nu-groove, Quintessentials, 4Lux, Ourvision",
+  "artist": {
+    "id": "19842",
+    "__typename": "Artist",
+    "name": "Nicholas"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It's fair to say that 2011 was a watershed year for young Nicholas Iammatteo. The producer known as Nicholas had releases on labels like 4Lux, Quintessentials and Ourvision Recordings. And he tackled the unenviable task of re-editing the celebrated catalogue of Nu Groove <a href=\"/review-view.aspx?id=10039\">with aplomb</a>. Despite his obvious devotion to the house sound of yore, you can hear that Nicholas has a distinct touch to his productions as well as those that see the light of day on No More Hits, his prolific vinyl imprint. \n\nLucky for us, on RA.293 Nicholas plays his own material, including some unreleased productions, so this live house performance will sound like the Nicholas you know and love, or otherwise provide an excellent introduction. \n\n<b>What have you been up to recently?</b>\n\nEnjoying my Christmas holidays, relaxing and of course making a lot of fresh new music.\n\n<b>How and where was the set recorded?</b>\n\nI did it at home with laptop and MIDI controller to manage FX, samples and plug-in instruments.\n \n<b>Can you tell us about the idea behind the mix?</b>\n \nIt's basically a live set like the ones I perform when playing out in clubs. So that's why it's exclusively my own stuff, remixes, edits and original productions. A lot of those songs are still unreleased. Lately I have spent a lot of time in the studio making raw tracks specifically for my live sets. Other than this, the idea behind it is to show and send out my love for the roots of underground dance music. \n\n<b>We heard that you didn't have the original parts to work with for <i>Back on Track</i>, and therefore had to work directly from the original vinyl. How difficult did this prove?</b>\n \nYeah, I didn't have parts or master tracks so all I could do was record the original songs from my vinyl collection and start from that. The hardest thing was trying to achieve a good quality vinyl rip, especially because those 20-year-old records have been played several times, so they had a number of crackles and other sort of noises. But I also had a Nu Groove mix CD by Little Louie Vega I bought many years ago in NYC and I used that too, as the tracks were recorded perfectly. Getting those rips to sound right was a nightmare occasionally! Not having parts also means that the only way I could remix those tracks was by editing and sampling, so it was quite tricky that way.\n\n<b>What are you up to next?</b>\n\nI'm always making music, trying to play around with new sounds and experimenting with various styles of house and techno. I don't like to stick to the same thing for too long. In the last months I've done a few techno tracks which is something I've never released up until now, although I did make a lot of techno music many years ago before I was even releasing music. Other than this I have some fresh wax coming out in the next months, so keep an eye out.",
+    "blurb": "Italy's up-and-coming house talent offers up a live jam."
+  }
+}

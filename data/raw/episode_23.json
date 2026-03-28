@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "23",
+  "url": "https://ra.co/podcast/23",
+  "id": "23",
+  "__typename": "Podcast",
+  "title": "RA.022 Dennis Rodgers",
+  "date": "2006-08-28T22:00:17.000Z",
+  "fileSize": 54510215,
+  "duration": "00:56:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra022-rodgers-cover.jpg",
+  "contentUrl": "/podcast/23",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra022/",
+  "keywords": "",
+  "artist": {
+    "id": "716",
+    "__typename": "Artist",
+    "name": "Dennis Rodgers"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Dennis Rodgers is one third of New York's Robots, a techno trio out of New York who run regular parties at Cielo and the weekly show Robot Radio on East Village Radio. Tipped as a DJ to watch, Dennis is fingers behind the funkier end of the dance spectrum on the show. He reads a mean weather report.\n\nHe's also a capable producer, his remix of Butane's 'The Sound of Digi Down' included on the first 12\" on Butane's Alphahouse label out of St. Louis. Dennis tells RA he's currently beefing up his studio acumen so keep an ear out for more of his studio creations. \n\nWe chatted to Dennis while he was grappling with our FTP server...\n\n<b>What have you been working on recently?</b>\n\nWell the Robots party, which I do with Nick AC and Bill Patrick, has been in full swing of late. It just seems to get better and and better. We will be doing the party once a month now at Cielo here in New York.  We also do Robot Radio which airs every Thursday from 6-8pm on <a href=\"http://www.eastvillageradio.com\">East Village Radio</a>.\n\nHisham Samawi and I have the next release almost ready to go on our label Native Theory.  I've also been working hard at getting some of my own stuff done, in between bass fishing trips, which will probably end up on the upcoming Robots label.\n\n<b>Where was the mix recorded?</b>\n\nIn my studio on Staten Island. If you listen close you can hear the Wu Tang Clan influences.\n\n<b>What are you up to next?</b>\n\nBasically I've just got my new Macbook and I'm going to install Serato and get that going. But what I'm really concentrating on now is just finishing some more music and getting it out there!\n",
+    "blurb": "Crouching over the decks this week is Gotham DJ Dennis Rodgers, who spins a tightly woven set of minimal house and techno.\r\n"
+  }
+}

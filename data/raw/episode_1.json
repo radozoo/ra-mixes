@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "1",
+  "url": "https://ra.co/podcast/1",
+  "id": "1",
+  "__typename": "Podcast",
+  "title": "RA.001 Troy Pierce",
+  "date": "2006-03-06T22:30:42.000Z",
+  "fileSize": 105702783,
+  "duration": "01:27:59",
+  "imageUrl": "https://static.ra.co/images/podcast/ra001-troy-pierce-cover.jpg",
+  "contentUrl": "/podcast/1",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra001/",
+  "keywords": "Troy, Pierce, m-nus, minus, minimal, techno, berlin",
+  "artist": {
+    "id": "688",
+    "__typename": "Artist",
+    "name": "Troy Pierce"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Well known for his work on Minus with fellow migrant Richie Hawtin, Troy is part of Run Stop Restore with label mates Magda and Marc Houle. He also releases under the alias Louderbach on Underline.\n\nIn 2005, Troy gained more attention as a DJ on the Minimise to Maximise tour, playing a host of parties across the Europe including Watergate (Berlin), The End (London) and the Pop festival (Cologne). His inventive sets earnt him a top ten position in the Best Newcomer category in Groove Magazine's respected <a href=\"/feature.aspx?709\">annual poll</a>. \n\nThis year sees Troy touring stateside and once again teaming up with Richie Hawtin and Marc Houle at <a href=\"/event.aspx?11149\">BED</a> in Miami for the Winter Music Conference. His new Louderbach LP <i>Enemy Love</i> is also due to drop in March, while on the remix front Troy has already provided his touch to The Knife, Donnacha Costello and Get Physical stars Chelonis R. Jones and Booka Shade.\n\nRA caught up with Pierce to talk about the podcast and get a glimpse of what's around the corner.\n\n<b>What have you been working on recently?</b>\n\nIt's been super busy so far this year, finishing up remixes for Punkt Music, Intrinsic Design, Northern Lite as well as new material for Minus. I am also finalising things for a new sub label of Minus called Items & Things (together with Magda and Marc Houle).\n\n<b>Where was the podcast recorded?</b>\n\nAt my studio in Berlin using Final Scratch, Ableton, Allen & Heath CTRL 92 mixer, Cycloops and of course the occasional vinyl.\n\n<b>What are you up to next?</b>\n\nThere are quite a few things coming up: a new Minus compilation (tour to follow), a first release on Items & Things, and a top secret US tour planned as well.",
+    "blurb": "Our debut podcast comes from Berlin resident Troy Pierce. "
+  }
+}

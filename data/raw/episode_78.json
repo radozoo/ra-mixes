@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "78",
+  "url": "https://ra.co/podcast/78",
+  "id": "78",
+  "__typename": "Podcast",
+  "title": "RA.078 Tyger Dhula",
+  "date": "2007-11-13T14:22:29.000Z",
+  "fileSize": 71996473,
+  "duration": "00:59:58",
+  "imageUrl": "https://static.ra.co/images/podcast/ra078-tyger-dhula-cover.jpg",
+  "contentUrl": "/podcast/78",
+  "tracklist": "01. Subway - Joy II (Nuphonic)\n02. Eddie Fowlkes - Where Will I Be *<a href=\"dj-page.aspx?id=378\">Claude Young</a>`s Last Temptation* (Backtobasics)\n03. <a href=\"dj-page.aspx?id=1020\"></a><a href=\"dj-page.aspx?id=1020\">Cobblestone Jazz</a> - Hired Touch (!K7-Wagon Repair) \n04. <a href=\"dj-page.aspx?id=961\">Samim</a> vs Signor Andreoni - Deep Meet (Tuning Spork) \n05. Cuica - Why Not Samba? (Ubiquity) \n06. 100 Hz - Tub Rub (Pacific) \n07. DJG-6 (White) \n08. Art Konik - Hum *Playin` 4 the city rmx* (Comet) \n09. 100 Hz - Shoot the Bar (Pacific) \n10. Inner City - Do Ya *The <a href=\"dj-page.aspx?id=378\">Claude Young</a> Mix* (Network) \n11. Mr. Scruff - Giffin (Ninja Tune) \n12. <a href=\"dj-page.aspx?id=900\">Theo Parrish</a> - Sawala Sayale (Sound Signature) \n13. <a href=\"dj-page.aspx?id=1884\">Heiko Laux</a> - Dedicated to All Believers  (Yoshitoshi) \n14. <a href=\"dj-page.aspx?id=1020\"></a><a href=\"dj-page.aspx?id=1020\">Cobblestone Jazz</a> - PBD (!K7-Wagon Repair) \n15. Dimlite - Synonym4 (A Few Among Others)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra078/",
+  "keywords": "",
+  "artist": {
+    "id": "1020",
+    "__typename": "Artist",
+    "name": "Cobblestone Jazz"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tyger Dhula is responsible for the loops and sampling side of Cobblestone Jazz, the Vancouver three-piece bringing the spirit of improvisation and jazz to techno. The band, made up of Dhula, Mathew Jonson (bass & drum programming) and Danuel Tate (live keys, vocals), have been particularly busy recently, releasing a string of singles and an album (<i>23 Seconds</i>) in 2007, but they’ve actually been playing together since the late nineties, not only in Cobblestone Jazz but in other Wagon Repair collaborative projects such as The Modern Deep Left Quartet (with The Mole) and Dante & Dhula.\n\nWhile Jonson and Tate are responsible for the techno and jazz sides of Cobblestone respectively, Dhula’s role is a little more mysterious. With a background as a DJ and a producer, Dhula takes on the programming side of Cobblestone in the studio, while live he’s the man who ties it all together, mixing tracks, feeding samples to Tate and looping sounds and effects for the dancefloor.\n\nOne thing about Cobblestone Jazz is they like to do things their own way. When we asked trio for a mix for the RA podcast, lo and behold they took us literally, handing in the first ever Cobblestone Jazz-endorsed DJ set, handpicked and mixed by Dhula. \"Dan and Mat actually entrusted me to do the mix and pick the records,\" say Tyger. The odd thing is that Dhula’s mix channels a lot of the same spirit as his band, this time via the decks. His rare RA set mixes up jazz-influenced house, hypnotic techno and Cobblestone productions to intriguing and original effect. Check it.\n\nA few words from Tyger about the mix:\n\n<b>What have you been working on recently?</b>\nWriting for Cobblestone Jazz and Dante & Dhula, touring the recent Cobblestone album.\n\n<b>Where was the mix recorded?</b>\nIt was mixed in Victoria, BC at my studio there. Then I did some mastering edits in an apartment in Tokyo.\n\n<b>What are you up to next?</b>\nAnother Dante & Dhula single, more touring with Cobblestone and spending time with my family.",
+    "blurb": "This week's podcast is an hour of grooves from Tyger Dhula, the DJ arm of live techno trio Cobblestone Jazz.\r\n"
+  }
+}

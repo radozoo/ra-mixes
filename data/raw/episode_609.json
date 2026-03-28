@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "609",
+  "url": "https://ra.co/podcast/609",
+  "id": "609",
+  "__typename": "Podcast",
+  "title": "RA.609 Fantastic Man",
+  "date": "2018-01-29T00:00:14.000Z",
+  "fileSize": 232160366,
+  "duration": "01:36:34",
+  "imageUrl": "https://static.ra.co/images/podcast/ra609-fantastic-man-cvr.jpg",
+  "contentUrl": "/podcast/609",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/390737517",
+  "keywords": "Mic Newman, Permanent Vacation, Mind Lotion,",
+  "artist": {
+    "id": "20125",
+    "__typename": "Artist",
+    "name": "Fantastic Man"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Mic Newman has spent most of his life as an artist bouncing between London, Berlin and his hometown of Melbourne, Australia. Luckily, this trans-hemispherical existence seems to do wonders for his productivity. In addition to crafting balmy club tracks for labels like Love On The Rocks and Fine Choice Records, he runs a label of his own: Superconscious Records, with fellow Aussie Francis Inferno Orchestra. A few years ago, Newman found himself in limbo between London and Berlin, \"living like a nomad, in and out of friends' places and using random studios.\" But he managed to find inspiration in the chaos, which found form on <i>Altitude Attitudes</i>, an LP of drifting, sun-kissed electronics on the French label Antinote under the name Mind Lotion. \n\nNewman has a few distinct musical modes—in addition that one-off home listening LP, he just unveiled a new alter-ego called P.M.T.C.—but most of his records mine a particular sound:  sunny and psychedelic, but with a smooth club punch. That's what we get on RA.609, a lush introduction to Newman's salty-aired sound. \n\n\n<b>What have you been up to recently?</b>\n\nI've been at home in Melbourne for my annual winter hiatus from Berlin, and although the shows haven't quite stopped, it always feels like a nice break and a good opportunity to get grounded and reconnect with family, friends and the Australian countryside, which is a good source for inspiration. \n\nIt's also interesting to catch up with the local scene and check what the artists who've been holding it down locally have been up to. \n\n<b>How and where was the mix recorded?</b>\n\nLike most of my mixes, and because I haven't owned a comprehensive DJ setup in years, I compiled the tracks I had, recorded the ones I needed from records and arranged them in Ableton Live, and did so at my old bedroom studio in South Melbourne.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to keep it relatively straight up, I guess it's more a snapshot and combination of what I've been playing lately, and some things I couldn't quite get away with playing that often, with some personal classics thrown in for good measure.  \n\n<b>It seems like you've had a bit of a breakthrough over the last couple of years. <i>Rhythm Algorithm</i> and <i>Galactic Ecstasy</i> are some of your best-received records to date, and you also squeezed out an LP on Antinote. What's behind this burst of creativity?</b>\n\nYeah I guess it looks that way, but really there wasn't any more activity than usual, it was mostly good timing. Those three projects you mentioned came out within six months of each other, which seems like I'd been locked up in my studio without sunlight for months, but was quite the opposite. I had finished the <i>Mind Lotion</i> LP for over a year prior to its release, and the others flowed out quite quickly. It was luck that they were released on good effective labels and really quickly without delay—that part doesn't always happen like that! \n\n<b>You've just unrolled a new project called P.M.T.C. What distinguishes this one from your other monikers? </b>\n\nI've always felt quite transient when looking for \"my sound.\" I've never quite felt content in any certain style or even process for that matter, and often go on random tangents that are for the most part a complete waste of time, but every now and then something fun comes out of it, which is essentially what P.M.T.C. is: an extension, or tangent of that evolution. It's a step further (than usual for FM) into \"more clubby, less organic\" territory breaking the 130-BPM mark, and taking influence from early techno-trance-ambient-euro-prog type records that I've been enjoying playing lately. There's not a whole lot more to it really, \n\n<b>What are you up to next?</b>\n\nHaving just had the last EP released last month and a few other completed projects just released—remixes for Hivern Discs and Unknown To The Unknown as well as a one-off VA collaboration for Vinyl Factory, <i>Toilet Paper Magazine</i> and Nike Lab—I now have a lot more spare time and space to waste exploring new musical rabbit holes.  \n\nThere's also the label I co-run, Superconscious Records, and we are just in the process of tying up a string of weird and wonderful releases for 2018, so I'm excited to put some more energy into developing those projects. \n\nAnd finally, gig-wise, I will stick around the Southern Hemisphere with a few more Australian shows, which will conclude with Pitch Festival in Victoria in mid-March, and then head back to Berlin where I will play one of my favorite parties, Cocktail d'Amore, in April along with a bunch of others.\n\n",
+    "blurb": "Bangers in a Balearic haze. \r\n"
+  }
+}

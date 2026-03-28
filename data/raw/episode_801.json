@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "801",
+  "url": "https://ra.co/podcast/801",
+  "id": "801",
+  "__typename": "Podcast",
+  "title": "RA.801 Laelo Black",
+  "date": "2021-10-10T22:00:12.000Z",
+  "fileSize": 145120830,
+  "duration": "01:00:20",
+  "imageUrl": "https://static.ra.co/images/podcast/ra801-laelo-black-cvr.jpg",
+  "contentUrl": "/podcast/801",
+  "tracklist": "Boddhi Satva - Zid Lmel feat. Maalem Hammam\nJungle Woz - The Jungle feat. Jamie 3:26 (Jamie's Jungle Sounds Edit)\nKowton - Scido\nBenny T - Prayer \nCommodo - Transit\nNan Kole & Giulia Tess - Tears\nAl Wootton - A Clean Heart\nDJ Plead - Rough Text\nYak - Mido\nJossy Mitsu - Whirl \nAmazondotcom - A Flower, Nocturnal And Permanent \nNativ - Dizzy \nAARRT - Nightline999\nNora Zion - Battle \nLogic1000 - Baddie Part Two\nBreaka & Bakey - Pro Perc \nKaval - Carolina Bela \nKaval - Birds On Parade\nRazzler Man - Swahili \nPugilist - Acid Flange \nNice Girl - Yardmaster, Pt. II feat. Eden Burns\nAl Wootton - Ender\nrRoxymore - Price of Highest Consciousness \nMoktar - Silk",
+  "archived": true,
+  "streamingUrl": "",
+  "keywords": "Tsasha, hip-hop, baile funk, Fourth World, Kowton, Commodo, Jossy Mitsu, Plead",
+  "artist": {
+    "id": "101266",
+    "__typename": "Artist",
+    "name": "Laelo Black"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<div class=\"plyr\"><iframe width=\"464\" height=\"155\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1139486440&color=%239ab288&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe></div>\n\nEven though she didn't plan on it, Laelo Black, formerly known as TSASHA, seems like the kind of artist who was destined to become a DJ and share her energy with others. As she says in the interview below, she decided to pick up DJing because she wasn't totally happy with the music she heard on nights out, and her sets have the feel of a polyglot dance music obsessive who just plays what they want to hear, instead of focusing on genres or scenes.\n\nShe's only been DJing for a few years but already has a distinct sound thanks to that eclecticism—you're as likely to hear UK leftfield techno as hip-hop, Baile funk and experimental Fourth World-style sounds. Her <i>RA</i> Podcast traverses multiple worlds in just an hour, weaving together beats from the likes of Kowton, Commodo, Jossy Mitsu and DJ Plead with a special ear for pacing and interlocking. Her style of mixing—and the tracks she chooses to blend together—often highlights the hidden nooks and crannies, the intricacies of the rhythms. She's the kind of DJ that can make you hear new things in tracks you already know, which is a big reason why we're so excited about her. \n\n<b>What are you grateful for these days?</b>\n\nThe little things. I've been trying to be more present and appreciative of the moments I spend with my loved ones. I can get caught up being on my toes & always thinking of the next pattern—so being still and just embracing the everyday is something that’s becoming more important.\n\nAlso compassion and peace of mind, life's too short. \n\n<b>How and where was the mix recorded? Can you tell us the idea behind the mix?</b>\n\nThe mix was recorded on a Sunday evening, in one take. Some of my favourite producers are in this mix, so some sounds will be familiar… I've been digging for two months, and the day I recorded this was the first day I felt in touch with the sounds and mood of the mix. I had a sound healing massage the day before I recorded this mix. I feel it's a spiritual, hypnotic feel and perfectly captures the energies I've been feeling lately. A mixture of a light and dark sonics, with a sprinkle of experimental. \n\n<b>Your bio says you came into DJing \"out of sheer curiosity.\" Can you tell us more about that and your origins as a DJ?</b>\n\nI've always sought comfort and connection in music. However, I didn't set out to become a DJ.. the younger me would definitely be surprised. I thought it was too much pressure (which it is!) but I got bored of hearing the same typical sets on nights out. I felt like I wanted to express myself and open people up by putting them on new sounds and unexpected blends.\n\n<b>Why the name change, and what does it mean to you?</b>\n\nIt represents new beginnings, almost like a coming of age vibe. I know I'm not alone in saying that the past two years have consisted of deep self reflection and a serious setting of intentions. The same way my sound has evolved over the (short) course of my DJing, my aura and identity has too—so I felt it’s only fitting. \n \n<b>What's one social or political cause you want the world to pay more attention to?</b> \n\nPoverty eradication. \n\n<b>What are you up to next?</b>\n\nI've recently changed my name from TSASHA to Laelo Black, so I’m focussed on smoothly building this (vital) rebrand. I'm working on production too, so (fingers crossed) I'll be sharing my sounds with everyone next year (eek!). Very excited for that. ",
+    "blurb": "Broken techno and eclectic beats from the DJ formerly known as TSASHA."
+  }
+}

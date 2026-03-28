@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "595",
+  "url": "https://ra.co/podcast/595",
+  "id": "595",
+  "__typename": "Podcast",
+  "title": "RA.595 M.E.S.H.",
+  "date": "2017-10-23T00:00:51.000Z",
+  "fileSize": 147885032,
+  "duration": "01:01:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra595-mesh-cvr.jpg",
+  "contentUrl": "/podcast/595",
+  "tracklist": "cEvin Key - Bob's Shadow\nAirhead - ???\nDeena Abdelwahed - Walk On, Nothing To See Here\nNKC - Puncture\nMun Sing - Revenge (Tomás Urquieta Remix)\nMasaacooramaan - Exhume\nM.E.S.H. - Coercer\nB.YHZZ - Handle (MM 8-Bar Version)\nHyph11e - Unknown Number (M.E.S.H. Remix)\nPinch & Mumdance - Control\nAir Max '97 - Hounded\nTzusing - Track 4, Bedouin Records EP\nDJ Richard - M.D.W.B.\nLow Concept - Keys To My House\nDJ Missdevana - Brass\nTomás Urquieta - Anatomía (M.E.S.H. Remix) \nPhysical Therapy - Leipzig Swing\nM.E.S.H. - Mimic\nMeuko! Meuko! - About Time\nCiBep\nPrimitive Art - Sequrity",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/348168362",
+  "keywords": "James Whipple, Janus, PAN, Tzusing, Massacooramaan",
+  "artist": {
+    "id": "32531",
+    "__typename": "Artist",
+    "name": "M.E.S.H."
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "James Whipple is a resident at Janus, the Berlin party whose music policy has spread across the world as part of a movement known as deconstructed or experimental club music. His early work as M.E.S.H., including his 2015 album for PAN, <i> Piteous Gate</i>, was among the scene's most complex and adventurous. He made dance music that was dense with references, samples and explosive sound design, delivered over frantic rhythms partly inspired by the internet's information overload. With experience, Whipple has streamlined his sound, culminating in his new album, <a href=\"/news.aspx?id=40124\"><i>Hesaitix</i></a>, where hyperactive rhythms bubble up in between prettier and more restrained passages of ambience. \n\nThere isn't much restraint on Whipple's RA podcast, but he does retain a sense of balance and considered momentum. He drops tracks from the likes of Tzusing, DJ Richard, Air Max '97 and Massacooramaan, intricately matching strange drum patterns as if they were pieces of the same puzzle. Whipple says his aim with DJing is to \"unlock all the desire in this music so it doesn't just dissipate\"—on his RA podcast he fully harnesses the power of experimental club music for a mix that's every bit as compelling as one of his records. \n\n\n<b>What have you been up to recently?</b> \n\nWe just had our five-year anniversary party for Janus at Berghain and Corsica Studios. Over the summer I was in Panicale, Italy where I worked on <i>Hesaitix</i>. Also got to test out most of the record live at Cxema in Kiev, which was a blessing. \n\n<b>How and where was the mix recorded?</b> \n\nAt home in Berlin, using a black CDJ-350 and a white CDJ-350, and a Vestax VCM-600 MIDI-mixer that I've been using with Ableton in a weird custom mixing setup. \n\n<b>Could you tell us about the idea behind the mix?</b> \n\nAfter lots of excruciatingly long mixdowns of my own music this year I really wanted to make my version of a very tracky and hard club mix—something drum-focused with a lot of energy and forward momentum, playing loose. The artists featured make stuff I love to play out because it's so adventurous rhythmically while being totally sharp and focused. \n\n<b>Tell us about <i>Hesaitix</i>.</b> \n\nIt's an attempt to condense a lot of sounds and ideas that started broken into something focused and almost harmonious. Letting the sounds speak for themselves and letting myself be surprised by them. Letting go of the need to justify something I'm barely in control of and still somehow finding something more personal in that process. Somehow reflecting the absurdity of nightlife, the ego-torture of being an artist, the ecstasy of community, and the haunted and impenetrable character of sound that remains when all that falls away :) \n\n<b>The album is something of a departure from the sound of <i>Piteous Gate</i>. Does your DJing tend to undergo similar transitions?</b> \n\nI like to be reactive as a DJ. I'm also more willing these days to take my time and let things build. There's so much new stuff happening sonically right now. As a DJ I want to stitch it together, make it flow in the club, unlock all the desire in this music so it doesn't just dissipate.  \n\n<b>What are you up to next?</b>  \n\nHeading back to Berghain this weekend for our PAN night, working on some video stuff and my live set for <i>Hesaitix</i> with Michael Guidetti and Ruben Spini, and releasing a remix for Hyph11e on her new EP. \n",
+    "blurb": "An hour of futuristic club music. "
+  }
+}

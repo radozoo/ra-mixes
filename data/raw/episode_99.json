@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "99",
+  "url": "https://ra.co/podcast/99",
+  "id": "99",
+  "__typename": "Podcast",
+  "title": "RA.099 The Count & Sinden",
+  "date": "2008-04-21T03:00:47.000Z",
+  "fileSize": 69270865,
+  "duration": "00:57:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra099-count-sinden-cover.jpg",
+  "contentUrl": "/podcast/99",
+  "tracklist": "01. The Count & Sinden - Dock Leaf - <a href=\"/record-label.aspx?id=810\">Domino</a>\n02. The Count & Sinden - Stinging Nettle - <a href=\"/record-label.aspx?id=810\">Domino</a>\n03. Toddla T - Inna Di Dancehall (The Count & Sinden Remix) - 1965\n04. Detboi - Come Rest Up - CDR\n05. Se:sa - I Like It Like This (The Count & Sinden Remix) - <a href=\"/record-label.aspx?id=63\">Positiva</a>\n06. T2 - Butterflies (<a href=\"/dj-page.aspx?id=2983\">The Count</a> Remix) - All Around The World\n07. Bjork - Innocence (<a href=\"/dj-page.aspx?id=967\">Sinden</a> Remix) - One Little Indian\n08. Jay Stewart – Don’t Do It (Rico Tubbs VIP Remix) - <a href=\"/record-label.aspx?id=649\">Menu Music</a>\n09. Machines Don’t Care - Drop It To The Floor - Machines Don’t Care\n10. <a href=\"/dj-page.aspx?id=2532\">Azzido Da Bass</a> - Dooms Night (<a href=\"/dj-page.aspx?id=1721\">Switch</a> Remix) - Frenetic\n11. Dj Tamiel - Funky Dance - CDR\n12. Voodoo Chilli - Streetplayers - Cheap Thrills\n13. The Count & Sinden - Beeper - <a href=\"/record-label.aspx?id=810\">Domino</a>\n14. The Count & Sinden - Beeper (A Trak Remix) - <a href=\"/record-label.aspx?id=810\">Domino</a>\n15. Kudu - Lets Finish (<a href=\"/dj-page.aspx?id=967\">Sinden</a> Remix) - Nublu\n16. Larry Tee feat. Princess Superstar - Licky (<a href=\"/dj-page.aspx?id=2983\">Herve</a> Remix) - iO Records\n16. Machines Don’t Care - Soundboy Massive - Machines Don’t Care\n17. The Count - Dibby DJ - Cheap Thrills\n18. South Rakkas Crew - Mad Again (Fake Blood Remix) - <a href=\"/record-label.aspx?id=935\">Mad Decent</a>\n19. Fake Blood - Fake Blood Theme - Counterfeet\n20. Alan Braxe - Addicted - <a href=\"/record-label.aspx?id=931\">Kitsune</a>\n21. <a href=\"/dj-page.aspx?id=569\">Armand Van Helden</a> - J'Taime (<a href=\"/dj-page.aspx?id=1721\">Switch</a> Remix) - <a href=\"/record-label.aspx?id=464\">Southern Fried</a>\n22. Solid Groove - This Is Sick (<a href=\"/dj-page.aspx?id=2983\">Herve</a> Reshuffle) - CDR",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra099/",
+  "keywords": "",
+  "artist": {
+    "id": "2983",
+    "__typename": "Artist",
+    "name": "Herve"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Joshua Harvey and Graeme Sinden are the London producers behind The Count and Sinden. Perhaps better known under their solo guises, Hervé and Sinden, the duo have brought their warped dance music sensibility together to craft one of the 2008’s most insistent singles, ‘Beeper.’ The earworm can be directly traced back to The Count and Sinden’s love of everything from Baltimore club, hip-hop, electro, Miami bass and grime.\n\nBaile funk, dancehall, bassline house and plenty of other genres also factor into the stop-start podcast that they’ve crafted exclusively for RA. But The Count and Sinden don’t care all that much about genre tags. Their goal is simply to rock the party—and in this rambunctious mix that takes in Bjork, Armand van Helden and South Rakkas Crew, that’s exactly what they do. \n\n<b>What have you been working on recently?</b>\n\nWe've been busy working on the full-length album for Domino and also the follow-up single to 'Beeper'. We're also rehearsing hard too. We're just about  to embark on the Count and Sinden Live club tour which starts mid-May and then were onto the Summer Festival circuit soon after. We have also been finishing off the Machines Don't Care collaboration album\n\n<b>Where and how was the mix recorded?</b>\n\nWe recorded it in the studio on Ableton Live. We didn't want it to be too tricksy, it's easy to get carried away with its features, layering loads of samples and throwing down 100 tunes in an hour. It's more old-school tunes played after the other style.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nTo represent our sound, be eclectic and make it fun to listen to. It's a typical Count & Sinden set, some remixes we have done together and individually as Herve and Sinden, some new signings to our respective labels Cheap Thrills and Counterfeet and influences.\n\n<b>London's got a lot going on. And it's different to say the Baltimore thing in the USA. How have Grime and Dancehall influenced your sound?</b>\n\nGrime and dancehall are influences but then so is everything to us. We don't draw the line anywhere. I'd say London city is an influence but, without focusing too much on any area, the UK is more of an influence—music from the past up to the present day. Travelling to other countries and meeting people and getting a kick out of music across the world is really important too.\n\n<b>Who still uses a beeper?</b>\n\nHustlers and Famlay.",
+    "blurb": "This week on the RA podcast: a rambunctious party mix from UK duo The Count and Sinden."
+  }
+}

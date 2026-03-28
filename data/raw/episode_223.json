@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "223",
+  "url": "https://ra.co/podcast/223",
+  "id": "223",
+  "__typename": "Podcast",
+  "title": "RA.223 Superpitcher",
+  "date": "2010-09-06T00:00:44.000Z",
+  "fileSize": 81873852,
+  "duration": "01:08:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra223-superpitcher-cover.jpg",
+  "contentUrl": "/podcast/223",
+  "tracklist": "<a href=\"/dj/superpitcher\">Superpitcher</a> - Voodoo - Kompakt\n<a href=\"/dj/djkoze\">DJ Koze</a> - Blume Der Nacht - Pampa\n<a href=\"/dj/gadimizrahi\">Gadi Mizrahi</a> - She Only Looks At You - Spectral\n<a href=\"/dj/isolee\">Isoleé</a> - The Fantastic Researches of Yushin Maru - Dial\n<a href=\"/dj/superpitcher\">Superpitcher</a> - Rabbits in a Hurry (<a href=\"/dj/saschafunke\">Sascha Funke</a>'s JD Is The One Rabbits) Kompakt\n<a href=\"/dj/romanflugel\">Roman Flügel</a> - How To Spread Lies\n<a href=\"/dj/axelboman\">Axel Boman</a> - Purple Drank - Pampa\nNebraska - A Weekend On My Own - Rush Hour\n<a href=\"/dj/superpitcher\">Superpitcher</a> - Black Magic - Kompakt\nBalam Acab - See Birds (Sun) - Tri Angle",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra223/",
+  "keywords": "Superpitcher, Kilimanjaro, Kompakt, Cologne, Voodoo, techno, house",
+  "artist": {
+    "id": "682",
+    "__typename": "Artist",
+    "name": "Superpitcher"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There are few producers who embody the spirit of the Kompakt label more than Aksel Schaufler. Over the past decade, his Superpitcher output has cemented his place as one of the label's most enduring artists, covering schaffel, micro house, stomping Cologne techno and, of course, his own brand of dreamily emotive electronic pop. \n\nAlthough he's proved himself to be adept at creating driving, club-ready anthems for the Kompakt Extra sub-label, his forays into the album format have seen Schaufler demonstrate his keen ear for a killer pop hook. <i>Here Comes Love</i>'s brooding vocal techno was well received by rock and electronic audiences alike, while his Supermayer project with Kompakt co-founder Michael Mayer saw him continue to blur genre boundaries in a wonderfully oddball manner. His sophomore solo full-length, <i>Kilimanjaro</i>, is due for release this week, and showcases a slighty more jaunty vibe than the lush melancholia of its predecessor. Those of you who are looking for a preview can check out a couple of its inclusions on his self-described \"voodoo\" mix for this week's RA podcast.\n\n<b>What have you been up to recently?</b>\n\nI was touring a lot recently and just found the time to allow myself the luxury of a little vacation. I've begun to work on the dub versions of my new album, <i>Kilimanjaro</i>, during that time. It feels great to destroy everything and strip it down. I've always been impressed by this technique which was brought to perfection by the geniuses of King Tubby, Lee Perry, etc. who took amazing, beautiful songs and  changed them radically into music that sounds like it comes from outer space, just by leaving everything out and adding crazy effects. I've also been doing a lot of press which is the hardest thing for me to do.\n\n<b>Can you tell us a bit more about <i>Kilimanjaro</i>? You mentioned there were more live instruments and singing in it. Have you been able to put together a band to take it on the road?</b>\n\nKilimanjaro is a place in my mind, a place where you can go, find peace or get really lost. It's a place with tons of energy and vibrations, a place in Africa, a place wherever you are. The mountain of fear, a place where you eventually find yourself... \n\nI'm spending a lot of time putting together a band, it's something I've been thinking about for many years. It's just so difficult because the context of a club is kind of limited, so it must be super compact and, of course, super fresh. Also it must look super flashy. I hope we will be ready for next year.\n\n<b>Where and how was the mix recorded?</b>\n\nThe mix was recorded at home, last minute, because I was on the road for weeks. I used two turntables, one CD player, a looper and a little effects tool. It was a dark night.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nVoodoo!\n\n<b>What are you up to next?</b>\n\nProducing a Pachanga Boys record and doodling with my poodles.",
+    "blurb": "The Cologne dandy presents a bewitching mix of voodoo house and techno."
+  }
+}

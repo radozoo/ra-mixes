@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "206",
+  "url": "https://ra.co/podcast/206",
+  "id": "206",
+  "__typename": "Podcast",
+  "title": "RA.206 Mike Slott",
+  "date": "2010-05-10T00:00:46.000Z",
+  "fileSize": 55709074,
+  "duration": "00:46:24",
+  "imageUrl": "https://static.ra.co/images/podcast/ra206-mike-slott-cover.jpg",
+  "contentUrl": "/podcast/206",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra206/",
+  "keywords": "Mike Slott, dubstep, wonky, LuckyMe, Lucky 19teen, bass",
+  "artist": {
+    "__ref": "Artist:15492"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Glasgow's electronic music scene has birthed a fair number of internationally renowned producers over the last few years, with most of them centring around the extended LuckyMe collective that has helped to focus and channel their scene's loose dedication to forward-thinking beats. While Hudson Mohawke and Rustie have already enjoyed major successes, LuckyMe recruit Mike Slott should definitely not be forgotten. Slott was surrounded by music from an early age, with his father Mike Nolan becoming the first major label jazz signing in Ireland, but it's hip-hop that has been his primary passion.\n\nHis first forays into the world of recorded music came when he hooked up with the aforementioned Hud Mo during a period of time spent in Scotland, the results being their colourful and off-kilter Heralds Of Change project for All City Records. Several solo 7-inches and an appearance on Rush Hour's <i>Beat Dimensions Vol. 2</i> followed to demonstrate that the producer was more than capable of combining affecting melodies with space-age beats on his own. But it was last year's <i>Lucky 9Teen</i> mini-album, a concise and flowing collection of woozy, instrumental offerings, that heavily impressed us here at RA, so we naturally decided to bring him on board to play live at our <a href=\"http://www.redbullmusicacademy.com/academy-info/history/post/All/0/1395\">Red Bull Music Academy</a> party alongside Scuba, Untold and Jamie Vex'd at T Bar a couple of months back. This week's podcast is a recording of Mike's set that evening, which sees him reconfigure tracks from <i>Lucky 9Teen</i> while throwing in plenty of fresh material.\n\n<b>What have you been working on recently?</b>\n\nJust working on a full-length. Up to now, it's all been 7-inches, EPs, remixes, 12-inches, etc. I've never made an album proper so I'm really enjoying the process at the moment.\n\n<b>Can you tell us a little bit about your live set-up?</b>\n\nThe live set is something I've looked on as just a kind of developing assignment, I guess. Something that develops and changes over time, different equipment or ideas or learning more about Ableton and stuff like that. But also in terms of learning how to create an atmosphere with the set too. It's been cool seeing what works and what doesn't. I approached the whole set like I would making one track, so a lot of the tunes in the set aren't really tunes that I've made at home to be released, they are just different pieces of different tracks that I've made and put together to try to be able to play with them a bit and make something new. A lot of them don't have names or anything.\n\n<b>How's life in Harlem treating you at the moment?</b>\n\nI love New York man, I've always wanted to live here and the opportunity arose a little while ago. There's such a general sense of excitement being here. Just taking a walk or sitting in the park or whatever, you can't help but be inspired even if you don't realize it.\n\n<b>Do you have anything special planned for the LuckyMe party at Sonar this summer?</b>\n\nYeah, working on figuring it out now. I've never played to that size of crowd before, so I want to do something that's a little different to playing in a regular venue, hopefully a bit of something that everyone can enjoy.\n\n<b>What are you up to next?</b>\n\nJust trying to finish up my album, develop my sound more and experiment. Obviously I'm looking forward to Sonar and the North Sea Jazz Festival, and I'm also doing some stuff on Ghostly International, some remixes and there will be a Japanese release of my last record, <i>Lucky 9Teen</i>, which came out a few months ago.",
+    "blurb": "The Harlem-based Irishman brings his kaleidoscopic beatsmithery to this week's RA podcast."
+  }
+}

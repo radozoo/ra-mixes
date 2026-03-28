@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "114",
+  "url": "https://ra.co/podcast/114",
+  "id": "114",
+  "__typename": "Podcast",
+  "title": "RA.114 Aeroplane",
+  "date": "2008-08-04T00:00:45.000Z",
+  "fileSize": 78529645,
+  "duration": "01:05:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra114-aeroplane-cover.jpg",
+  "contentUrl": "/podcast/114",
+  "tracklist": "01. Fleet Foxes - White Winter Hymnal - Bella Union\n02. Quixote Feat. Lisa Li-Lund - Before I Started to Dance (<a href=\"/dj-page.aspx?id=904\">Prins Thomas</a> Diskomiks) - <a href=\"/record-label.aspx?id=735\">Versatile</a>\n03. They Came From The Stars I Saw Them - Moon Song (Holy Ghost! Remix) - This Is Not An Exit\n04. The Shortwave Set - Now Til 69 (<a href=\"/dj-page.aspx?id=3228\">Aeroplane</a> Remix) - <a href=\"/record-label.aspx?id=663\">Wall Of Sound</a>\n05. Dolle Jolle - Balearic Incarnation (<a href=\"/dj-page.aspx?id=1831\">Todd Terje</a> Mix) - Permanent Vacation\n06. <a href=\"/dj-page.aspx?id=789\">Eine Klein Nacht Muzik</a> - La Serenissima - <a href=\"/record-label.aspx?id=883\">Modular Recordings</a>\n07. David Rubato - Circuit (<a href=\"/dj-page.aspx?id=3228\">Aeroplane</a> Remix) - <a href=\"/record-label.aspx?id=1382\">Institubes</a>\n08. Eddy Meets Yannah - Solid Ground (<a href=\"/dj-page.aspx?id=427\">Crazy P</a> Remix) - Solid Ground\n09. <a href=\"/dj-page.aspx?id=3087\">Toby Tobias</a> - The Feeling (<a href=\"/dj-page.aspx?id=1456\">John Daly</a> Remix) - <a href=\"/record-label.aspx?id=811\">Rekids</a>\n10. Mugwump - Yajna - Disco 45/<a href=\"/record-label.aspx?id=675\">Kompakt</a> \n11. Bostro Pesopeo - Communquis - <a href=\"/record-label.aspx?id=1142\">Permanent Vacation</a>\n12. <a href=\"/dj-page.aspx?id=3119\">Maelstrom</a> - Enter The Cosmo (Sankt Goran & Erik Sidung Remix) - Solar Disco",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra114/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:3228"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If Aeroplane didn't exist, it might've been necessary to invent them. Over the course of three singles for the Eskimo label, the duo has produced a spate of disco pop epics that sounds so perfectly formed that they almost <i>have</i> to be ripping off somebody. It's as if they're music already existed and Stephen Fasano and Vito De Luca simply picked it off a tree, shined it a little, and presented it to the world.\n\nAeroplane's DJing sounds much the same way. Effortless, we mean. As they prove on their RA podcast, there's plenty of low-hanging fruit of the nu-disco, nu-balearic, nu-pop variety around these days. And, instead of quick mixing trickology, the duo often lets these tunes play out almost in their entirety before moving on to the next one, offering you the opportunity to take a listen to some of their newest remixes (The Shortwave Set, David Rubato), as well as some other choice upfront music. \n\n<b>What have you been working on recently? Is there a release date for the full-length? </b>\n\nLast month we did remixes for The Shortwave Set (\"Now 'Til 69\"), David Rubato (“Circuit”), and MGMT (“Electric Feel”). Now we are working on our album, which, if everything works, will be released in April 2009.  \n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nThe mix is a selection of what you could hear when we play a DJ set in a club.\n\n<b>Where and how was the mix recorded?</b>\n\nIt was recorded at home with two turntables, two CD players, and a basic mixer.\n \n<b>A recent compilation you were featured on was titled <i>Nu Balearia</i>. What are some of your favorite Ibiza memories?</b>\n\nI've never been to Ibiza. We are classified as \"balearic music,\" but we do pop music. For us, Balearic is a feeling—not a style.\n\n<b>What are you up to next?</b>\n\nA lot of DJ sets (an Australian tour, UK, Ireland, Greece, France...) and, most importantly, finishing the album!",
+    "blurb": "Aeroplane fly high with a set of disco pop in this week's RA podcast."
+  }
+}

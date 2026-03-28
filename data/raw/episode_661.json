@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "661",
+  "url": "https://ra.co/podcast/661",
+  "id": "661",
+  "__typename": "Podcast",
+  "title": "RA.661 FIT Siegel",
+  "date": "2019-01-28T00:00:32.000Z",
+  "fileSize": 176476963,
+  "duration": "01:13:25",
+  "imageUrl": "https://static.ra.co/images/podcast/ra661-fit-siegel-cvr.jpg",
+  "contentUrl": "/podcast/661",
+  "tracklist": "Can't Remember Artist (Old White Label)\nBilly Nightmare - Dance, Shake, Swing\nMark Grusane - Stand Down\nTimenet - On The Move\nThe Rhythm Masters - The House Of Acid (Remix)\nStreet Side Boyz - I Want To Be With You (AFX Version)\nUnderground Resistance - Like That\nPrince - Tambourine (Gay Marvine Edit)\nAlternations - Fantasy\nMoodymann - No\nMarcellus Pittman - Revenge For Nothing\nTraxmen - No Way Back\nPlayground Productionz - Hypnosis\nRon Trent - Love Dub\nDj Blend - Dj Blend Detroit\nRoyal House - Dirty Beats\nRamjac Corporation - Cameroon Massif (Massive Mix)\nCan't Remember (Old White Label)\nUnderground Resistance - Electronic Emotions\nComplex - Dream World\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/565797858",
+  "keywords": "Detroit, Aaron Siegel, FIT Distribution, Submerge, S M Trading Co, Underground Resistance",
+  "artist": {
+    "id": "61405",
+    "__typename": "Artist",
+    "name": "FIT Siegel"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Everyone talks about Detroit, but outside of Movement weekend, there's just a small crew of artists, producers and labels on the ground getting it done. For the past ten years, Aaron \"FIT\" Siegel has been a pillar of this close-knit scene, throwing parties, making records, running a label and bringing Detroit wax to the world through FIT Distribution. FIT's creative, no-nonsense approach has brought him close to some of the Motor City's most elusive dance music characters. For years, his studio was housed in Submerge, UR's legendary Grand Blvd headquarters. He's also worked closely with Moodymann, Omar-S and Theo Parrish.\n\nSiegel reveals he'll be shuttering his distribution company in the interview below. While this is sad news for anyone looking to get their hands on underground vinyl from Detroit, it means we'll get to learn more about FIT the artist and DJ. Siegel already has two classics to his name—2012's \"Tonite,\" a piano house rave-up featuring L'Renee on vocals, and \"Carmine,\" a contemplative acid cut that presaged the resurgent interest in IDM, ambient house and electro. Recently he's been in a collaborative mood, forming S & M Trading Co. with DJ Sotofett and crafting another widescreen 12-inch with Gunnar Wendel (AKA Kassem Mosse).  \n\nHis RA mix, meanwhile, feels like something you'd listen to while driving around Detroit with someone in the know. We're treated to several UR tracks, including \"Like That,\" a 12-inch exclusively released through Todd Osborne's Technical Equipment Supply, unidentified white labels, an unreleased edit from Gay Marvine and music from Marcellus Pittman and Moodymann, to name a few.  \n\n<b>What have you been up to recently?</b>\n\nBusiness as usual over here— working in the studio, preparing some new releases for the label, and basically just trying to keep things moving!\n\n<b>When and where did you record the mix?</b>\n\nRecorded a few months ago at my studio. Turntables, CDJs and an old Vestax mixer I bought from Richie Hawtin's dad that he was selling when they all moved to Berlin. Nice guy.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nSomething I would want to listen to in the car at night.\n\n<b>You move pretty easily between house, acid, various '80s subgenres, Prince and whatever else, making it fit into your sound. How does this relate to the Detroit style of DJing?</b>\n\nI guess it's about playing all the different types of sounds that I'm into and just trying to make it work. Finding the connections between it all. I think that's what DJs here do. No questions about what genre this track or that track is. The question is: is it hot?... Or not?\n\n<b>FIT Distribution has remains a hub for vinyl in the US in a fairly difficult market where other competitors have shut their doors. What's going on with your distribution company?</b>\n\nWe will be closing up the distribution side of things over here at the end of the month. I made the decision to turn our focus inwards in order to give more time and attention to the label and (for me) to make music. Maybe we will press up some special projects from close friends here and there. Who knows? But after ten years it's time to change things up. One thing I need to say is that this whole operation most definitely wouldn't have made it this far without the help of  Mark Sandford, who has been managing the office for the last few years. He helped modernize this place—before he came around I was keeping track of everything with paper print-outs, a pen and a damn clipboard.  \n\n<b>What are you up to next?</b>\n\nThe next record for FIT SOUND is an EP I recorded with Kassem Mosse called <i>Saboten</i> which comes out this week. The next DJ gig is February 8th in Madrid, Spain. Other than that it's about spending more time in the studio, lining up some interesting releases for the label, DJing when I can, and like I said earlier—just trying to keep it moving.\n",
+    "blurb": "Detroit night-drive music."
+  }
+}

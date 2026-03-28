@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "262",
+  "url": "https://ra.co/podcast/262",
+  "id": "262",
+  "__typename": "Podcast",
+  "title": "RA.262 Sei A",
+  "date": "2011-06-06T00:01:39.000Z",
+  "fileSize": 78538831,
+  "duration": "01:05:24",
+  "imageUrl": "https://static.ra.co/images/podcast/ra262-seia-cvr.jpg",
+  "contentUrl": "/podcast/262",
+  "tracklist": "Sei A - Frozen Flower - CDR\nRichard Seeley - First Hour - Zombie Soundsystem\nSamaan - Navigator (Area Challenger Deep Version) - Fullbarr Digital\nZoltan Solomon - For the Girls Who Died Last Night - Deepindub\nIndigo - Fallen - On The Edge\nAlex Smoke - Never Want To See You Again (Sei A Mix) - Soma\nEd Davenport - Basium - NRK\nSei A - Who Dare Wins (Sei A Alternate Mix) - Turbo Recordings\nBenjamin Damage & Doc Daneeka - Infamous - 50 Weapons\nBnjmn - Blocks - Rush Hour\nGesaffelstein - The Lack of Hope - Turbo Recordings\nAzari & III - Hungry for the Power (Sei A Mix) - Turbo Recordings",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra262/",
+  "keywords": "Sei A, house, techno, turbo, Andy Graham, Azari",
+  "artist": {
+    "id": "4822",
+    "__typename": "Artist",
+    "name": "Sei A"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Sei A is young Scottish \"tech house\" producer Andy Graham. The quotation marks reference Graham's <a href=\"http://www.discogs.com/artist/Sei+A#t=Releases_All&q=&p=1\">Discogs page</a>. And while this might not be an entirely inaccurate description of the music he makes, it would be an over-simplification of an artist who's drawn upon a wealth of 4/4 styles since debuting back in 2008. Graham's first LP dropped that year through Missive, showcasing an artist who wasn't afraid to marry melody to stomping club beats, while his latest full-length on Turbo, <i>White Rainbow</i>,  combined claustrophobic synthesizers with restless vocals and rhythms. In addition to marking himself out as a bit of remix specialist—Terrence Fixmer, Booka Shade and Azari & III have been among his recent refixes— Graham heads up the Seinan Music imprint, which has proffered a modest trio of releases since being established in 2008. \n\nFor all of Graham's acquired credits these past few years we have to admit to being a little taken aback by this mix for us. As touched on below, a subtle yet distinctive bass music influence runs through these 65 minutes (think Mount Kimbie rather than Skream), all fleshed out by a delicately composed selection of afterhours house.   \n\n<b>What have you been up to recently?</b>\n\nFor the last couple of months I've been getting together some fresh tracks. I've been back and forth with a lot of material but really trying to nail/develop a certain sound, trying to curate a fresh sound for myself and listeners alike to keep it all interesting and different at the same time. On the release front I've been finalising two new EPs for Turbo, with one of the tracks featured at the start of the mix, \"Frozen Flower.\"\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my small studio in London. I used two Pioneer CDJ-1000s and a Pioneer DJM-600 mixer. I then took it all into Logic 8 and fixed it up slightly. I use Logic for production and like to have my mixes at the end to have a somewhat wholesome sound/mix.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nThe mix was to try and cover various elements of techno/bass/dub; mainly using it as a warm-up tool to bring it forward into the \"later hours\" type vibe and also to showcase a couple of new Sei A tracks/remixes.\n\n<b>Your mix appears to draw upon bass music influences—would this be accurate? And if so, has this influence been creeping into your music recently?</b> \n\nWithout a doubt, yes. I'm glad this mix shows that. My DJ sets are somewhat covering that sound more and more. Living in London has helped this as well. Although Glasgow has something really special going on at the moment but that's well deserved. There's so much good music out there, the wealth of talent at the moment is so inspiring, it's amazing.\n\n<b>What are you up to next?</b>\n\nNext I have a couple of EPs lined up for Turbo. A new collaboration with someone (no names attached for twitter legal reasons) which will cross loads of sounds—bringing in some really cool singers to work on the collaboration as well. I also have film and game scripts to work on. On top of all that I will begin to make new bodies of work, hopefully making the third album something to remember, if it even becomes an album. ",
+    "blurb": "Afterhours house and bass-inclined tunes from the Scottish producer."
+  }
+}

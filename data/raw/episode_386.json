@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "386",
+  "url": "https://ra.co/podcast/386",
+  "id": "386",
+  "__typename": "Podcast",
+  "title": "RA.386 Machinedrum",
+  "date": "2013-10-21T00:00:35.000Z",
+  "fileSize": 149451853,
+  "duration": "01:02:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra386-machinedrum-cvr.jpg",
+  "contentUrl": "/podcast/386",
+  "tracklist": "Machinedrum - Rise N Fall\nMachinedrum - The Palace\nMachinedrum - Show Ur Love\nFuture Sound of London - Ill Flower (Machinedrum Remix)\nMachinedrum - Knowfuture\nSkeptical - Eyes Down\nOm Unit - Deep Sea Pyramid\nSystem - Sound Man\nTek 9 - Spring\nRob & Goldie - Shadow\nDwarde - Algid\nTessela - Hackney Parrot (Sam Binga Crackney Parrot Refix)\nItal Tek - BB\nJon Convex - With You (Kid Drama's Autonomic Mix) \nInstra:mental & dBridge - White Snares\nNaibu - Just Like You (Fracture's Astrophonica Remix)\nAMIT - Human Warfare (Machinedrum Remix) \nFIS - Love Drama Stress (Machinedrum Edit) \nMachinedrum - Overtime",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra386/",
+  "keywords": "Machinedrum, Vapour City, Travis Stewart, footwork, Njord District",
+  "artist": {
+    "id": "13537",
+    "__typename": "Artist",
+    "name": "Machinedrum"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When Machinedrum reinvented himself in 2011 with footwork as his muse, it sent seismic waves through bass music. By then footwork was the sound du jour, but Travis Stewart stood out by blending it with the pastoral textures of Boards Of Canada, the heart-in-mouth thrill of jungle, and his own polished aesthetic. We liked <i>Room(s)</i> so much that we gave it <a href=\"/review-view.aspx?id=9439\">5/5 rating</a>. Needless to say the pressure was on for this year's follow-up, the excellent <a href=\"/review-view.aspx?id=13790\">Vapor City</a>, a concept record about an imaginary city and his first album for Ninja Tune. \n \nCritical acclaim aside, Machinedrum's impact is evident in his RA podcast—one look at the tracklist and you'll see there's a whole legion of producers mashing up jungle, footwork and drum & bass into a thrilling fast-paced amalgam behind him (along with some tasty unreleased material of his own). Fracture, Om Unit, Tessela and Ital Tek are among the ranks bringing renewed attention to the tempo.\n\n<b>What have you been up to recently?</b>\n\nTons of touring! Constant travel! Moving back to NYC in the middle of all of it. Going to the doctor today to get earwax removed. Gonna eat vegan haggis in Edinburgh on Thursday.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at my studio in Vapor City, using powerful crystalline equipment that I found in an abandoned club.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThis mix represents the Njord District of Vapor City. It's the financial and commerce center where the rich get richer and the poor get poorer, rising and falling daily.\n\n<b>Did you continue to produce \"as quickly as possible\" when you were putting together the new record? What's the lower bracket for how quickly you'd finish a track?</b>\n\nYes, but I spent a lot of time with the final mixes, which is a big difference to how I approached <i>Room(s)</i>.  [With] most tracks on <i>Vapor City</i> I would at least get the arrangement finished within three - five hours. The mixing, however, would average three - four days.\n\n<b>Do you feel like there's been a more widespread and meaningful exploration of higher tempos in dance music of late?</b>\n\nYes, but with attention to its slower halftime-tempo counterpart. The songs may be written at 160 - 170 but can easily fit in a set of 80 - 85.\n\n<b>What are you up to next?</b>\n\nI'm moving back to NYC, as I said. Going to spend a lot of time with my family and my girlfriend, both of whom have been quite neglected over the past year from all the traveling. 2014 will be less about touring and more about getting to work in the studio where I belong.",
+    "blurb": "The multifaceted artist takes us to Vapor City."
+  }
+}

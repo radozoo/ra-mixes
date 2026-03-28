@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "552",
+  "url": "https://ra.co/podcast/552",
+  "id": "552",
+  "__typename": "Podcast",
+  "title": "RA.552 Tuff City Kids",
+  "date": "2016-12-26T00:00:11.000Z",
+  "fileSize": 150599822,
+  "duration": "01:02:36",
+  "imageUrl": "https://static.ra.co/images/podcast/ra552-tuff-city-kids-cvr.jpg",
+  "contentUrl": "/podcast/552",
+  "tracklist": "Zeus B Held - The Glass Bead Dice Man (Feat. Luke Rhinehart)\nThe Reels - Return (TCK Edit for Diego)\nThe Now Generation - African Nightclub\nJapan - Cantonese Boy (TCK Edit)\nAbsolute Body Control - Lonely This Christmas\nEleven Pond - Watching Trees (Bedroom Demo) (DJ GJ Edit)\nCamouflage - The Great Commandment (Justin Strauss Remix)\nThe Unknown DJ - Basstronic (Bonus Beats)\nNeuland - Gehirnamputiert\nGabi Delgado - History Of A Kiss\nForum - Papillon\nPet Shop Boys - Heart (Shep Pettibone Version)\nSoundmachine - It Ain't Necessarily So (In the Style Of Bronski Beat)\nBritish Electronic Foundation - Decline Of The West\n",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra552-tuff-city-kids",
+  "keywords": "Gerd Jansen, Philip Lauer, House, Disco, Unterton, Delsin, Internasjonal",
+  "artist": {
+    "id": "26645",
+    "__typename": "Artist",
+    "name": "Tuff City Kids"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tuff City Kids is Gerd Janson and Phillip Lauer, two Frankfurt-area veterans known for melody-rich house and disco. Alongside their successful solo endeavours, Janson and Lauer have been making music together since the late '00s, starting out as specialist remixers before issuing original Tuff City Kids material across labels like Unterton, Delsin and Internasjonal. But while their catalogue includes dozens of remixes, a handful of singles and an album, they play together only a few times a year. In those sets—which in 2016 took in Robert Johnson, Sónar and venues across the US—you're likely to hear the same classic club sounds Janson and Lauer deliver solo, taking in slamming house and disco, new wave, EBM and more. The pair skew towards big records, but their delicate touch and expert pacing gives their sets a special finesse—it's a style informed by years of record collecting and experience behind the decks.\n  \nTuff City Kids are in party mode on this week's podcast.  An upbeat selection of their favourite \"'80s and not '80s songs,\" RA.552 is stacked with catchy vocals, booming drums and soaring melodies—the kind of mix you can trust to do the job wherever you end up this New Year's.\n\n\n<b>What have you been up to recently?</b>\n\n<b>Phillip:</b> Besides touring, working on new material for Talamanca System and several remixes.\n\n<b>Gerd:</b> What he said.\n\n<b>How and where was the mix recorded?</b>\n\n<b>Phillip:</b> On a kitchen table with Ableton Live, without really knowing how it works. It took ages.\n\n<b>Gerd:</b> Yes, it's our first \"in the box\" mix, as it might be called by professionals. It wasn't that easy. Mainly because Philipp left me alone for hours while going shopping or preparing food (which is important, too). We even needed to call 911-Shan a few times before having everything cleaned up by Mixmastering, Heidelberg alias Lopazz.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\n<b>Phillip:</b> We put together some of our favourite '80s and not '80s songs. Wave, new beat, pop, proto-whatever.\n\n<b>Gerd:</b> That was his idea. My idea was to do something wild and extravagant like a Latin Rascals Mastermix. Stutter effects, mega loops and all that. I mean, if you are using a computer for it, you might as well. Philipp's idea manifested itself though.\n\n<b>How was 2016 for you guys on a personal level?</b>\n\n<b>Phillip:</b> I liked most of it\n\n<b>Gerd:</b> What he said.\n\n<b>Did you have any favourite releases from the year?</b>\n\n<b>Phillip:</b> ... \n\n<b>Gerd:</b> Everything Philipp did, plus the results of the end-of-the-year charts and polls.\n\n<b>What are you up to next?</b>\n \n<b>Phillip:</b> Touring, recording music.\n\n<b>Gerd:</b> What he said.\n",
+    "blurb": "Throwback party bombs from Gerd Janson and Phillip Lauer. \r\n"
+  }
+}

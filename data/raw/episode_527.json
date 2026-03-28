@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "527",
+  "url": "https://ra.co/podcast/527",
+  "id": "527",
+  "__typename": "Podcast",
+  "title": "RA.527 Red Greg",
+  "date": "2016-07-04T00:00:47.000Z",
+  "fileSize": 172609188,
+  "duration": "01:11:53",
+  "imageUrl": "https://static.ra.co/images/podcast/ra527-red-greg-cvr.jpg",
+  "contentUrl": "/podcast/527",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/272246842",
+  "keywords": "Darren Griffiths, Disco, Soul, Under the Influence, You're a melody, disco, soul",
+  "artist": {
+    "id": "19198",
+    "__typename": "Artist",
+    "name": "Red Greg"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Darren Griffiths, AKA Red Greg, is not a widely known DJ, but among disco and soul aficionados he's one of the most highly regarded. He's been collecting records since the late '80s, cultivating an outrageously deep collection of dance floor-focussed disco, boogie and soul. His compilation <i>Under The Influence</i>, released on Z records in 2011, is a great example of his style. The release featured a slew of mega obscure, independently released music. Perhaps the pick of the release was Aged In Harmony's \"You're A Melody,\" an incredibly funky and rare mid-tempo soul track. When Floating Points tried to track down a vinyl copy, he was pointed in the direction of Griffiths. A friendship blossomed that lead to him playing Floating Points' You're A Melody party at Plastic People. Jeremy Underground also played that night, and the <a href=\"https://soundcloud.com/floatingpoints/youre-a-melody-1\">recording</a> introduced Griffiths to a much wider audience, the mix being voted in the <a href=\"/features/1971\">top mixes of 2013</a> on RA. \n\nSince then Griffiths has continued to deliver his blend of soulful dance music to increasingly international audiences, with gigs across Europe as well as further appearances at You're A Melody. His RA mix shows why he's held in such high esteem. It's fanatically obscure selection of music delivered with the skill to get any dance floor moving.  \n\n\n<b>What have you been up to recently?</b>\n\nBesides keeping busy with my day job and buying records, I have been playing at a few parties (around three or four a month, which is perfect for me at the moment). I have just returned from Amsterdam, after playing at the Nomads Festival on the Lumberjack In Hell stage, which was very positive and gave me a much needed lift after Brexit.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at home when I had the chance to get rid of my yapping dog for a few hours on a Sunday afternoon. It's been over a year since I've recorded a mix, and this is my first home mix using a rotary mixer. So this was recorded with an E&S DJR400 and my beloved 30-year-old Technics 1210s.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nTo be honest, I didn't have much of idea for this mix, as it was actually recorded on the spur of the moment. I previously intended on doing something mid tempo with lots of soul and a touch of jazz, but after going through my records for a gig, I decided it would be better to include quite a few favourites and records that paint a picture of the music I'm likely to play in DJ set. Soul, boogie, disco etc.\n\n<b>Do you have any particular digging tips you'd like to share with us?</b>\n\n1. Never walk past a place that sells records.\n\n2. If you discover something good, buy all the cheap copies you can. Good records only increase in value, and they can be very handy for trades. \n\n3. Don't get obsessed with expensive or in-demand records. Not only is everyone else chasing them but there are plenty of better records out there for a fraction of the price.\n\n4. Take risks. If something is telling you to buy a record, don't hesitate. You can always sell it.\n\n5. Never judge a record by its cover.\n\n6. Be patient and keep quiet. Posting a record you want on social media or in a record sales group with like minded people can push up Discogs wants from 20 to 200 in a few days. You may as well put yourself at the back of the queue.\n\n7. Make a mental note of musicians, producers, labels you like.\n\n8. Have a quick flick through other genres of music when out digging. Records always get misplaced, usually by other diggers on purpose because they've run low on cash.\n\n9. Build up trust with dealers and they will look after you.\n\n10. Most of all, just buy records you love, especially if digging to DJ. Have your own sound, there are enough records out there.\n\n<b>What are you up to next?</b> \n\nI'm looking forward to July and playing at the Southern Soul Festival in Montenegro and then a couple of London gigs. There's also Mona's Balearic Closing Party in Paris on the 13th, which is always great fun, with the waacking dance class beforehand.  \n",
+    "blurb": "Obscure soul, disco and boogie from a highly regarded selector. \r\n"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "89",
+  "url": "https://ra.co/podcast/89",
+  "id": "89",
+  "__typename": "Podcast",
+  "title": "RA.089 Kalabrese",
+  "date": "2008-02-04T22:00:18.000Z",
+  "fileSize": 87869841,
+  "duration": "01:13:11",
+  "imageUrl": "https://static.ra.co/images/podcast/ra089-kalabrese-cover.jpg",
+  "contentUrl": "/podcast/89",
+  "tracklist": "01. <a href=\"dj-page.aspx?id=2133\">Kalabrese</a> - Skamel\n02. <a href=\"dj-page.aspx?id=2133\">Kalabrese</a> - Alberto \n03. Joe Claussel - Unchain\n04. Isabel Parra - Folkmusic From Chile\n05. Mambotour - El Planta\n06. <a href=\"dj-page.aspx?id=111\">Kevin Saunderson</a> - 808 Pattern\n07. Mike Dunn - Let It be House - <a href=\"record-label.aspx?id=1043\">Clone Classic Cuts</a>\n08. Promo\n09. <a href=\"dj-page.aspx?id=2296\">Mathew Jonson</a> - unknown - <a href=\"/record-label.aspx?id=827\">Wagon Repair</a>\n10. <a href=\"dj-page.aspx?id=2296\">Quarion</a> – Karasu - <a href=\"dj-page.aspx?id=1629\">Crowdpleaser</a> rmx – <a href=\"/record-label.aspx?id=1132\">Drumpoet Community</a>\n11. <a href=\"dj-page.aspx?id=896\">Efdemin</a> - Just a Track - <a href=\"/record-label.aspx?id=823\">Dial</a>\n12. Camille - Ta Douleur (<a href=\"dj-page.aspx?id=759\">Henrik Schwarz</a> rmx)\n13. Thomas Dolby - One of Our Submarines (Villalobos rmx) - Salz\n14. <a href=\"dj-page.aspx?id=1513\">Prosumer</a> - The Craze - <a href=\"/record-label.aspx?id=354\">Playhouse</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra089/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:2133"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As a kid, Kalabrese, aka Sacha Winkler, raided his parents record collection, cottoning onto the sounds of Hendrix, Coltrane and Zappa before eventually picking up the sticks and drumming along to his heroes. Later as the drummer in hip hop collective Sendak, Winkler released two longplayers and toured Switzerland in the early nineties before striking out on his own as DJ and producer Kalabrese, releasing a handful of electronic 12\"s with kooky vocals on label such as Stattmusik and Perlon including the romantic Chinese take-away song '73 Chicken Fried Rice'.\n\nLast year's full-lengther <i>Rumpelzirkus</i>, praised as much for its pop songwriting sensibilities as for its loose, swinging take on the minimal house template, brought Winkler back to his drumming and live roots. Over the last year, he's toured the album with his Rumpelorchestra, a four-piece band that sees Winkler singing and playing live percussion. The band has earned invites to Mutek, C/O Pop, Club To Club and Club Transmediale festivals.\n\nAs a DJ, Kalabrese has been spinning records for over a decade at Zurich hotspots such as Q and Cityfox taking in minimal house, techno, euphoric pop and disco. \"What keeps me going are the magic moments on the dancefloor and all the small stories surrounding the party. I like to freak out, to lose ground together with friends, to flow with the music. Foolish, eccentric and always with a waggish, but nevertheless soulful style,\" says Winkler.\n\nWinkler's podcast for RA is an eclectic and funky seventy minutes taking in Thomas Dolby, Mathew Jonson as well as 2007 house standards from Efdemin and Prosumer. \n\nA few words from Sacha:\n\n<b>What have you been working on recently?</b>\n\nI’ve just finished two remixes, one for an Arabian compilation based in London (mo'zik rec). The track is calling ‘Elleli' and will be out soon. The track had been played by a lot of friends and also Kerri chandler played it in his set. I’ve also done another remix for the Filewile-Collective, a dub collective based in Bern, Switzerland. Besides that, I’ve been rehearsing my live-project for gigs. It’s really great to work with musicians. We can \nbe very creative and bring my music on another level. \n\n<b>Where was the mix recorded?</b>\nI recorded it at my club, <a href=\"http://www.zukunft.cl/\">Club Zukunft</a>.\n\n<b>What are you up to next?</b>\nNext week I start work on my new album. I’m so happy to dive in to the process. My last album I finished in march ’07 so I’m a bit impatient.",
+    "blurb": "This week on the pod is a DJ mix from Swiss house maverick Kalabrese. "
+  }
+}

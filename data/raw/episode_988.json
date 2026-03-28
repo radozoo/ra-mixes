@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "988",
+  "url": "https://ra.co/podcast/988",
+  "id": "988",
+  "__typename": "Podcast",
+  "title": "RA.988 PLO Man",
+  "date": "2025-05-11T21:30:35.000Z",
+  "fileSize": 0,
+  "duration": "01:54:11",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-989-ploman1x1(1).jpg",
+  "contentUrl": "/podcast/988",
+  "tracklist": "Margaret Dygas - See You Around\nRicardo Villalobos - Lub\nBaby Ford & Zip - Morning Sir\nBobby Konders - Dub Massai Style (Mark's Mix)\nDan Lodig - Nulf\nBrinkmann / Scanner - Adria\nKotai + Mo - Silencer\nTD5 - Cofferdam\nJeff Mills - Protector\nAlex Cortex - Untitled\nUnik - Tilt\nCritical Digital - It's House\nFingers Inc. - I'm Strong (Instrumental)\nCari Lekebusch - Output-1\nKMFH - Dances with a Sun Goddess\nIAMTHATIAM - Time 4 Harmony in This World\nExos - Maya\nRhythm & Sound - Mango Drive\nMoodymann - Freeki Mutha F Cker\nSnPLO - Untitled\nBurger Ink - Love Is the Drug (Paris Texas)\nRon Trent - I Feel the Rhythm (Paul Johnson RMX)\nSnPLO - D\nStudio 1 - Rosa 2\nRhythm Maker - Experiment No.1\nMononom - Untitled\nYim - Untitled\nBaby Ford - Westway\nGrungerman - Ambient Grunge\nDjigui - Ladilikan (Natty Bass Sound System Dub Mix)\nGregory Isaacs - Make Me Prosper\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra988-plo-man",
+  "keywords": "",
+  "artist": {
+    "id": "53381",
+    "__typename": "Artist",
+    "name": "PLO Man"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Why do certain sounds cultivate a cult following? Simply put, it's often because they resist easy consumption. PLO Man and his imprint Acting Press lean into this. Searching for the Berlin-based DJ and producer, you won’t find much online presence, interviews or conventional PR. What you will find, if you look hard enough, is a catalogue of records and mixes with a kind of tape hiss charm (a spiritual successor to Basic Channel and Chain Reaction, but scuzzier and lighter on its feet).\n\nFounded in 2015, <a href=\"https://ra.co/labels/12273\" target=\"_blank\">Acting Press</a> once seemed to belong to the short-lived \"outsider house\" trend, but is now synonymous with a certain strain of modern minimal, one that is analogue, spacious and pointedly opaque. PLO Man's output, both solo and collaborative, is equally sparse by design: this week, he joins the <i>RA Podcast</i> with characteristically elusive style, accompanying the near two-hour mix is a one-answer Q&A that gives almost nothing away.\n\nStripped-back, ever-so-slightly sleazy and coated in dust, PLO Man's <i>RA Podcast</i> continues that lineage in style. Opening with the featherlight microhouse of Margaret Dygas, RA.988 unfolds into a carefully curated spectrum of minimal, dub and deep techno. Among familiar names—look out for the blinding <a href=\"https://ra.co/features/4429\" target=\"_blank\">Rhythm & Sound</a> and <a href=\"https://ra.co/features/4221\" target=\"_blank\">Moodymann</a> blend—are deep cuts and left turns from minimal contemporaries alongside the odd outlier, like lovers' rock pioneer Gregory Isaacs.\n\nEven as a young generation develops a newfound appreciation for minimal, there's something quietly radical about how little RA.988 tries to please. It's patient, looping, at times hellbent on thwarting easy gratification—a reminder of how inscrutable some of the genre's hypnotic classics felt on first runthrough. Like the best of his forebears, PLO Man wants it to take time for you to settle in. But once you do, you won't want to leave. <i> – Bella Aquilina </i>\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded at my apartment in Berlin—two decks, X:one 62 and a recorder. The mix is all records that I have in my record bag anyways and is stuff that if you came to check me out somewhere you'd potentially hear. \n\nThere are lots of memories for me in this music: friends, places, experiences etc. I wanted to acknowledge all the people that I love in my life with music that reminds me of them, and our relationships\n\nPhoto credit: Patrick Woodling\n",
+    "blurb": "A clinic in minimal from the elusive Acting Press boss. "
+  }
+}

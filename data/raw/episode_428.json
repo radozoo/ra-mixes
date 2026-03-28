@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "428",
+  "url": "https://ra.co/podcast/428",
+  "id": "428",
+  "__typename": "Podcast",
+  "title": "RA.428 Steve Rachmad vs STERAC",
+  "date": "2014-08-11T00:00:02.000Z",
+  "fileSize": 144348341,
+  "duration": "01:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra428-steve-rachmad-cvr.jpg",
+  "contentUrl": "/podcast/428",
+  "tracklist": "Mario & Vidis feat. Giedre - Suspend The Feeling - Silence Music\nChymera - Aloof (extended mix) - Connaisseur\nRoland Klinkenberg - Kindred Spirits - Everysoul\nItamar Sagi - Invisisble Key - Ovum\nDubspeeka - Pretty Liar - Truesoul\nRolando - Mood Maker - R3\nYotam Avni - This Is How - (unreleased)\nMike Dehnert - Movement - Delsin\nRobert Hood - Untitled 1 (Mark Broom edit) - M-Plant\nSandrien - I Left My Girlfriend At The Club - Theory\nPlanetary Assault System - No Exit - Mote Evolver\nØ [Phase] - Emergence (In A Psychological System) - Token  \nInigo Kennedy - Lullaby - Token",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra428/",
+  "keywords": "Sterac, Holland, techno, Secret Life of Machines, Klockworks, Netherlands",
+  "artist": {
+    "id": "665",
+    "__typename": "Artist",
+    "name": "Steve Rachmad"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"Holland always had a very special connection with Detroit,\" Richie Hawtin said in <a href=\"https://www.youtube.com/watch?v=CwpZBLkSePA\">this 2012 video</a>, produced to celebrate the achievements of Dutch techno artist Steve Rachmad. \"What Steve shows is that connection.\" Rachmad played a key role in the early development of techno in the Netherlands. He formed close ties with the Motor City, introducing its artists and music to Dutch clubbers while putting his own spin on the emerging techno sound. In 1995, under the name STERAC, he released <a href=\"/review-view.aspx?id=11238\"><i>Secret Life Of Machines</i></a>, an album that captures this creative dialogue and that is now considered a classic. Rachmad has remained as one of the scene's key players for over 25 years, continuing to explore and refine the classic Detroit techno blueprint under a number of aliases. Aside from his given name, STERAC is his main moniker, the name he used for a <a href=\"/review-view.aspx?id=15117\">killer outing</a> on Ben Klock's Klockworks label earlier this year. \n\nRachmad wears both of these hats on his RA podcast. Starting out deep and dusky, the mix moves through the gears and ends up at the high-intensity style Rachmad has been moving people with for so many years.  \n\n\n<b>What have you been up to recently?</b>\n\nI have lots gigs in the summer so I've been travelling a lot—Fusion festival in Larz, HYTE Barcelona, Exit Festival in Serbia, Womb Tokyo, Family Piknik in Montpellier, Circoloco at DC10 Ibiza, as well as some Dutch shows like Dekmantel festival, where I played at Boiler Room, Ultrasonic festival, the closing of the legendary Doornroosje, and my residency kis. in Studio 80. In between when I'm at home and there's enough time I'm trying to finish as many tracks and remixes as possible.\n\n<b>How and where was the mix recorded?</b> \n\nI recorded it in my living room on three Pioneer CDJ 2000 Nexus and a Pioneer 900 mixer, sitting on the floor.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea is communicate the difference between STERAC and Steve Rachmad. This is something we have started splitting gig-wise to avoid confusion between different sets. And in this hour I'm trying to show the difference. \n\n<b>How have you separated out your main aliases over the years?</b>\n\nA lot of them I'm actually not using anymore but still a few are left, like STERAC, Parallel 9, Sterac Electronics, and I might use SCORP for some future stuff, who knows. They all stand for different styles of music I make. It's best to YouTube them all and hear for yourself. STERAC stands for dark, groovy and deep techno; Parallel 9 for more dubby, melodic techno; Sterac Electronics for old-school electro and '80s disco. \n\n<b>How healthy is the Dutch techno scene right now?</b>\n\nI think it's pretty healthy at the moment. Next to the more clubby techno sound there is a lot of space for deeper and darker stuff, which is a good thing. There are some quality young generation artists in the making, I am happy to see that.\n\n<b>What are you up to next?</b> \n\nI'm not back on track with my releases yet so the plan is to do a lot of studio work hopefully after the summer. Next to that a lot of traveling is on the menu. I play for Carl Cox at Space Ibiza, Output in New York, Flash in Washington, Circoloco at DC10, Berghain, Trouw in Amsterdam, as well as some more alternative festivals like Landjuweel at Ruigoord, Shoeless at Ruigoord and Magneet Festival in Amsterdam.",
+    "blurb": "The godfather of Dutch techno faces off with his alter-ego. \r\n"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "683",
+  "url": "https://ra.co/podcast/683",
+  "id": "683",
+  "__typename": "Podcast",
+  "title": "RA.683 Phuong Dan",
+  "date": "2019-07-01T00:00:04.000Z",
+  "fileSize": 192215947,
+  "duration": "01:19:51",
+  "imageUrl": "https://static.ra.co/images/podcast/ra683-phuong-dan-cvr.jpg",
+  "contentUrl": "/podcast/683",
+  "tracklist": "Okkulte Stimmen - Paranormale Stimme Auf Dem Anrufbeantworter\nMechthild von Leusch - Legenden Des Windes\nPeter Gordon & Lawrence Weiner - Deutsche Angst\nRandy-Raine Reusch - Pelan Pelan\nZero Kama - Winged Eye Hadit\nMorl Drammaz - Krew Blood\nTai Rona - Unreleased\nNightmare Lodge - It Passed Like A Dream (31st October Night Mix)\nLW & ©  - Flove \nThomas Brinkmann - RRR\nCoil - The Hills Are Alive\nThis Fluid - Less Than U\nLamusa II - Area PM \nThe Orb - Earth (Gaia)\nFull Dynamik Range - Trance (Dance)\nSkull - Camazotz\nZaliva-D - Can´t Go Back\nBlack Lung - Question Four\nOkkulte Stimmen - Paranormale Stimme Auf Dem Anrufbeantworter\n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/644568702",
+  "keywords": "Golden Pudel,  Alexis LeTan, Vladimir Ivkovic, Lena Willikens, Gatto Musculoso",
+  "artist": {
+    "id": "70758",
+    "__typename": "Artist",
+    "name": "Phuong Dan"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When people eulogize dance music culture, they often praise the values of freedom and acceptance that arise in the ideal club setting, but that freedom isn't always felt in the musical policy. For whatever reason—either a fear of losing the floor or orthodox tastes—many DJs still serve up hours of unremarkable music that barely varies in tempo or sonic makeup.\n\nThat's what makes Phuong Dan such a compelling selector by comparison. His sets are hypnotic and decidedly funky, but he seems intent on bucking convention each time out. The kick on Dan's stunning <i>RA.683</i> set doesn't drop until 20 minutes in, but the preamble isn't strictly ambient—it's a skilful melange of strange rhythms, creepy tones and ritual chanting. Dan is also part of a group of DJs—like Alexis Le-Tan, Vladimir Ivkovic and Lena Willikens—who embrace slower tempos and wrong-speed records.\n\nWhile the latter two honed their unconventional style at Düsseldorf's Salon des Amateurs, Dan is a long-time resident at another bastion of musical freedom, the Golden Pudel in Hamburg. Everyone from Tolouse Low Trax to Danny Wang has guested at Dan's Gatto Musculoso party, where the early hours are dedicated to \"non-functional music.\" In addition to DJing, Dan busies himself with diverse creative projects—he's compiled multiple photo books and written a <a href=\"http://www.a-house-in-ninh-hoa.com/en/\">documentary film</a>—but the German-born, Vietnamese-descended polymath has spent much of 2019 on the road, touring Europe, Australia, America and Asia. <i>RA.683</i> consists of fascinating music from a fascinating person.\n\n<b>What have you been up to recently?</b>\n\nEnjoying summer in Hamburg with my loved ones and working on different musical programs which will take place in Amsterdam and Prague next year.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded at my apartment in February with two Technics SL-1210 MK2 turntables, two CDJs and a Rodec MixBox MK2.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI was about to leave for the US, Australia, Vietnam, then Paris and Amsterdam—a long trip. I was feeling as joyful as I was tense. Being overextended, I felt it would be the right moment to be spontaneous and playful. I went through my shelves and made this mix in one take shortly before I was leaving.\n\n<b>You're part of a wave of DJs playing considerably slower than \"traditional\" tempos at clubs and festivals. Why do you gravitate towards playing lower tempos? What does it bring out in the music, in dancers?</b>\n\nWithout making it a principle—I also do enjoy faster music—I feel that slower tempos and right records on the wrong speed can create and provide an atmosphere which is spacious and loose. I like it rather smoothly inviting and hypnotizing than urgent or forcing. The patience which comes with this setting very is appealing to me.\n\n<b>You've been a resident at the Golden Pudel in Hamburg for almost 15 years, the tiny club famous for its 3€ covers, fearless music policy and freak energy. As you travel to other clubs and countries to play, do you feel the need to compromise in ways you wouldn't at the Pudel?</b>\n\nSpaces and situations are always different and particular of course, but no, I generally don't. What really counts is that you can share the whole night with your guests at the Pudel. It starts by 11 PM and usually doesn't end before 6 AM. You have plenty of time to build it up and travel through all kinds of moods, while usual slots are much shorter...\n\n<b>What are you up to next?</b>\n\nIn the foreseeable future: Losing myself in music, having holidays in Paris, hosting some of my nights at the Golden Pudel, indulging myself in Czech silent movies, DJing at De School during Dekmantel Festival and at Berlin Atonal—among other gigs—and trying to make my first Nigvsiani Badrijani.",
+    "blurb": "A hypnotic mix from the Golden Pudel resident.\r\n"
+  }
+}

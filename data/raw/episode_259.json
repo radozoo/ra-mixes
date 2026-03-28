@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "259",
+  "url": "https://ra.co/podcast/259",
+  "id": "259",
+  "__typename": "Podcast",
+  "title": "RA.259 Skream",
+  "date": "2011-05-16T00:01:58.000Z",
+  "fileSize": 74080341,
+  "duration": "01:01:41",
+  "imageUrl": "https://static.ra.co/images/podcast/ra259-skream-cvr.jpg",
+  "contentUrl": "/podcast/259",
+  "tracklist": "Benga - Smack Your Bitch Up \nRedlight vs P Money - Left The Source - DUB\nSkream - Indistinct - DUB\nDonaeo - Swagger (Skreamix)\nSkream vs Rye Rye - BANGBOX - DUB\nSkream - Xmas Day Swagga - Tempa\nDismantle - Computation - Wheel & Deal\nBenga - Dont Wanna - DUB\nSkream - Riggin - Disfigured Dubz\nSkream ft Trim - Tweedle Dee Tweedle Dum - DUB\nRossi B & Luca -  Police a Cum run (Jakes remix) \nCaspa - Hot Shoe Shuffle - Dub Police \nDismantle - Word Dance - Wheel & Deal\nSkream - Trashcan Funk - DUB\nA-Trak - RayBan Vision (Lucky Beard remix)\nDoes It Offend You, Yeah? - Wondering (Dirtyphonics remix)\nMagnetic Man - MAD (Skream VIP) - DUB \nBenga - Any Steppers - DUB\nSkream - Where You Should Be feat .Sam Frank - Tempa\nSkream - Anticipation feat. Sam Frank - Tempa\nSkream - Rollin Kickz (Magnetic Man edit) - Tempa\nJohn Convex - Falling \nThe Weeknd - What You Need  \nPrince - Just as Long as We're Together",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra259/",
+  "keywords": "Skream, bass, dubstep, benga, tempa, magnetic man, auto-tune, donaeo",
+  "artist": {
+    "id": "981",
+    "__typename": "Artist",
+    "name": "Skream"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Croydon. Big Apple Records. Hatcha. Skream's back story evokes all the right passages of dubstep folklore. Oli Jones began making music as a 15-year-old; he was an employee of the now legendary record store and one of dubstep's first and foremost producers before his teenage years were through. Much of the music in the developmental stages of his career was recorded alongside Benga, with whom Jones now lines up—in addition to Artwork—as Magnetic Man. The group became the genre's biggest crossover success to date at the end of last year with the release of their self-titled album, although Jones as always remained entirely difficult to pin down—NonPlus+, Swamp 81, Deep Medi Musik and Tempa are just a few of the imprints to host his zig-zagging 12-inches in the past few of years.    \n\nIf you've caught Skream spinning at any point in his breakneck career you'll know that the man is all about energy—and his mix for us is no different. Gigantic basslines knock heads with UK-centric rhymes and rhythms, and plenty of new and exclusive music.  \n\n\n<b>What have you been up to recently?</b>\n\nSame old really; touring, making tunes etc. We (Magnetic Man) did Coachella last month, which was amazing!\n\n<b>How and where was the mix recorded?</b>\n\nRecorded through my computer on 2 CDJ 1000s and a Pioneer 800. \n\n<b>Can you tell us a little bit more about the idea behind the mix.</b> \n\nIt's definitely a club/dance floor-orientated mix with a lot of tunes I’m playing out at the moment. \n\n<b>What's the longest you've gone without <a href=\"http://twitter.com/I_Skream\">tweeting</a> this year?</b> \n\nAbout five minutes (while I've been doing this LOL). \n\n<b>What are you up to next?</b>   \n\nThe same as what I'm always doing: making tunes and touring. Oh yeah, and being a dad.",
+    "blurb": "Dubstep's biggest DJ steps up.  "
+  }
+}

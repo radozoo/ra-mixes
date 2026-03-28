@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "248",
+  "url": "https://ra.co/podcast/248",
+  "id": "248",
+  "__typename": "Podcast",
+  "title": "RA.248 Danny Tenaglia",
+  "date": "2011-02-28T00:00:38.000Z",
+  "fileSize": 80751679,
+  "duration": "01:07:14",
+  "imageUrl": "https://static.ra.co/images/podcast/ra248-danny-tenaglia-cvr.jpg",
+  "contentUrl": "/podcast/248",
+  "tracklist": "Unknown\nGorge - Keya  \nYaha Z & Anton S - What Do You Know \nAlex Flitsch & Mutant Clan - Imanah\nPascal Feos - Under the Golden Beat \nCamelphat - Amor De Trompeta \nLemos - Frequent \nNathan Dellano & Virgil T - CosmoDrumWork (Motego mix)\nNicole Moudaber - Five Point Palm \nJames Ruskin - The Outsider \nShonky & Agaric  vs. Love Commandments - Dudu \nPhunx & Taster Peter - Shared People \nJit Van Moorst - Oops \nBalls In Your Mouth\nMastik Soul - South Tribal  \nDario Zenker - Belfort \nMasomenos - Coco Classico",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra248/",
+  "keywords": "Danny Tenaglia, house, NYC, marathon set, tribal drums",
+  "artist": {
+    "id": "24",
+    "__typename": "Artist",
+    "name": "Danny Tenaglia"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"A DJs' DJ.\" There are countless jocks that have been bestowed the title down the years—but perhaps none more deserving than Danny Tenaglia. The Brooklyn DJ cut his teeth on the late '70s New York club scene during the heyday of Paradise Garage, but it was in the city's roller discos that Tenaglia learned the invaluable art of working a crowd. His craft was further honed through his many residencies in the city down the years, which included stints at hugely influential spots such as Twilo, Tunnel and Vinyl. Tengalia's rolling, drum-heavy sound began to take on an almost mythical status by the late '90s, while his 12-inch releases and standout mixes for Global Underground and Basics helped further fan the flames. It's at Miami's annual WMC, though, that Tenaglia really grew to a position of notoriety. His famed marathon sets at Groovejet and latterly Space became the toast of the conference; the one party that artists and clubbers alike deemed truly indispensable.  \n\nAs testament to his continued longevity behind the decks, Tenaglia's deeply hypnotic mix for us coincides with his <a href=\"/event.aspx?233181\">50th birthday celebrations</a> at New York's Best Buy Theater this coming Saturday. \n\n<b>What have you been up to recently?</b>\n\nI have been preparing for a whole bunch of gigs for the month of March, special events and various collaborations. \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded at my personal loft/studio in NY using Logic.\n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\nJust keeping it modern and fresh, techno driven. Considering that I needed to keep it to 60 minutes, I wanted to remain consistent with the style and not change it too much. \n\n<b>You will be celebrating your 50th birthday in New York this weekend: does retirement ever enter into your thinking?</b>    \n\nNever!\n\n<b>It will also be your 25th WMC this year. Are there any parties from down the years that really stand out in your mind?</b>\n\nEvery single event we had at Groovejet up until 1999 and also the first three years at Club Space from 2000 to 2003. \n\n<b>What are you up to next?</b>\n\nMore travels but not as much as I did in the past. I have a few productions in the works. Other than that, enjoying life!",
+    "blurb": "The legendary jock celebrates his 50th birthday with RA."
+  }
+}

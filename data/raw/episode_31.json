@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "31",
+  "url": "https://ra.co/podcast/31",
+  "id": "31",
+  "__typename": "Podcast",
+  "title": "RA.030 Adam Beyer",
+  "date": "2006-10-23T06:42:57.000Z",
+  "fileSize": 82080106,
+  "duration": "01:25:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra030-adambeyer-cover.jpg",
+  "contentUrl": "/podcast/31",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra030/",
+  "keywords": "",
+  "artist": {
+    "id": "190",
+    "__typename": "Artist",
+    "name": "Adam Beyer"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Together with the likes of Cari Lekebush and Joel Mull, Adam Beyer carved out a name for himself in the Swedish techno scene in the late nineties and early noughties with pulverising, loop-driven techno on outputs such as Primate and his own labels Drumcode and Code Red.\n\nBut last year's 'Fabric 22' showed Beyer was also a bit of a softie, unifying the harder stuff techno with the minimal bleeps of Alex Under and Dominik Eulberg. At the same time Beyer's 'A Walking Contradiction' was snatched up by Richie Hawtin and John Acquaviva's Plus8 label, becoming one of the biggest tracks  of the year, later popping up on mix CDs by Luciano and Miss Kittin.\n\nOn his RA podcast Beyer pulls another U-turn with a slick but banging mix where there's not a beat out of place. This one increased productivity in the RA office, we assure you.\n\n<b>What have you been working on recently?</b>\n\nThe next thing I have coming out is the Drumcode ten year anniversary compilation. It includes seven new exclusive tracks from myself, Lekebusch, Samuel Session, Grindvik, Hardcell, Skoog and Mighty Thor. \n\nRight now I'm on a US tour, I'm playing with Magda in LA tonight. Then I've got a bunch of Drumcode parties to promote the compilation and tenth anniversary of the label. \n\n<b>Where was the mix recorded?</b>\n \nAt home in one take. No editing. \n\n<b>What are you up to next?</b> \n\nTomorrow I'm off to New York for a couple of days, then Canada and then back down to Detroit to finish off the tour. In November I have some gigs in Europe then I'll spend three weeks in South America in December. After New Year's I'll go to Japan. Then the season is over and I'll take a break and work on some new music.",
+    "blurb": "This week Swedish techno artist Adam Beyer weighs in with a peaktime techno workout."
+  }
+}

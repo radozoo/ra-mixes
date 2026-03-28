@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "380",
+  "url": "https://ra.co/podcast/380",
+  "id": "380",
+  "__typename": "Podcast",
+  "title": "RA.380 Joey Anderson ",
+  "date": "2013-09-09T00:00:07.000Z",
+  "fileSize": 152859713,
+  "duration": "01:03:33",
+  "imageUrl": "https://static.ra.co/images/podcast/ra380-joey-anderson-cvr.jpg",
+  "contentUrl": "/podcast/380",
+  "tracklist": "Roy Davis Jr. - I'm the DJ   \nInnerspace Halflife - Outer Path     \nN.Dawson - Malfunction  \nTerre  Thaemlitz - G.R.R.L Banji (demo dub) \nVin Sol and Matrixxman - Dirty Laundry   \nD'Marc Cantu - Shims Tetsuo   \nLawrence - Trescore         \nVince Watson - View To The Past     \nFred P - Project 05       \nNorm Talley - Analogue XTC     \nOmar S - Helter Skelter     \nVakula - Exp Techno     \nJoey Anderson - Archerer's Ceremony     ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra380/",
+  "keywords": "Joey Anderson, Inimeg Recordings, New York, House, Avenue 66, Latency",
+  "artist": {
+    "__ref": "Artist:14149"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"I don't often get excited like I did about Aphex Twin or somebody like that so much any more. But one guy, Joey Anderson, every time he puts a record out I personally am excited.\" Levon Vincent said that in an <a href=\"/feature.aspx?1587\">RA interview</a> last year. He was explaining why Anderson's music got so much emphasis in <a href=\"/review-view.aspx?id=10840\"><i>fabric 63</i></a>, a mix that opened with the creepy \"Earth Calls\" and later slithered through \"Hydrine.\" At that point Anderson had released a couple of EPs—one featuring a track by DJ Qu, another a track by Jus-Ed—through his own Inimeg Recordings. These guest producers point roughly to the nature of his deep house sound, although, like the other members of this loose New York/New Jersey network, Anderson's style is all his own. An interesting quirk in his music is that he barely uses snares or claps—and if he does they're never on the two- and the-four beat, like in almost all other house and techno. This lends his music an unresolved feeling of tension, which is only intensified by his bittersweet use of melodies. A run of 12-inches this year, for labels like Absurd's new <a href=\"/review-view.aspx?id=13320\">Avenue 66</a> venture and French imprint <a href=\"/review-view.aspx?id=12819\">Latency</a>, has seen his vibe hit home like never before.   \n\nAnderson has become a DJ/producer to name-check among fans of deeper house and techno. On RA.380, he further fuels his budding reputation with just over an hour's worth of dusky club music.  \n\n<b>What have you been up to recently?</b>\n\nGoing to work everyday, working on music after. Going out when I can.\n\n<b>How and where was the mix recorded?</b>\n\nI recorded the mix at home in Jersey City, USA. I recorded it with two Technics, two Denon CDJs and an analog audio burner.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThere is not really a particular idea of the mix, but I attempted to focus on the journey.\n\n<b>People associate you with producers like Levon Vincent, Fred P and DJ Qu. What exactly do you share with those guys?</b> \n\nI feel we all share the same passion for the music. Also all of us share the same common stories about the old days in the NY club scene. In the same sense, all the artist above are profoundly original in their sound. To be associated with them is an overwhelming compliment.\n\n<b>As a former dancer, which DJs do you enjoy moving to?</b> \n\nJus Ed is always on point for me, and Anthony Parasole always plays something I've never heard before.\n\n<b>What are you up to next?</b>\n\nContinuing to move forward musically, hopefully growing organically, and trying to be a better person. ",
+    "blurb": "Deep and dusty sounds from the New York up-and-comer. "
+  }
+}

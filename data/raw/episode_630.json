@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "630",
+  "url": "https://ra.co/podcast/630",
+  "id": "630",
+  "__typename": "Podcast",
+  "title": "RA.630 Yoshinori Hayashi",
+  "date": "2018-06-25T00:00:02.000Z",
+  "fileSize": 178050380,
+  "duration": "01:14:04",
+  "imageUrl": "https://static.ra.co/images/podcast/ra630-Yoshinori-Hayashi-cvr.jpg",
+  "contentUrl": "/podcast/630",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/463142478",
+  "keywords": "Rainbow Disco Club, Going Good, Nu Groove, Disco Halal, Gravity Graffiti, Jinn Records",
+  "artist": {
+    "id": "63174",
+    "__typename": "Artist",
+    "name": "Yoshinori Hayashi"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "At this year's Rainbow Disco Club festival in Japan, Yoshinori Hayashi <a href=\"https://soundcloud.com/rainbowdiscoclub/rdc-022-yoshinori-hayashi\">played a set</a> that neatly showcased his sonic palette. Starting around 10 AM, he began by soothing his crowd with a selection of crackly jazz records by the likes of Billy Cobham. Half an hour in, he transitioned into house with an old <a href=\"https://www.youtube.com/watch?v=0jVUFnCO8Ck\">Nu Groove number</a>, bringing the festival to life and setting the tone for the rest of the day. He calls his approach to production \"collage expression,\" and the phrase applies to his DJ sets too, which bring together many sounds—not just jazz and house, but disco, techno and experimental music—into a coherent whole.\n\nHayashi been getting more attention from outside Japan since his 2015 EP for the London label Going Good, which we <a href=\"/reviews/17454\">described</a> as a \"complex patchwork of studio gear, live instruments, dusty jazz records and smartly cut library sounds.\" He toured Europe as a DJ for the first time in 2017, and has been playing gigs outside Japan again recently. In RA.630, Hayashi dives even deeper into his music collection, moving smoothly from jazz-rock to cosmic club fare.\n\n<b>What have you been up to recently?</b>\n\nI began to meet a lot of kind people locally and internationally after my debut on Going Good. Working, making music, working again, then DJing.\n\n<b>How and where was the mix recorded?</b>\n\nAt home. Two Technics SL-1200MK3, a TASCAM M-03ST.\n\n<b>Could you tell us about the idea behind the mix?</b>\n\nConnecting opposites using old-school tricks.\n\n<b>The mix and your records are musically broad. But are there particular artists or styles of music that have been especially important to you?</b>\n\nIn terms of the club music, a small part of '90s house music, techno and DJing, which are innovative and have originality, are important for me.\n\n<b>Your records tend to include field recordings and samples. Can you give us an example of how an idea for a track has come from one or the other?</b>\n\nThe ideas come to me while I'm working on the tracks over and over again. I think I like a sort of collage expression, but I prefer to reconstruct it and even add sounds I play by myself.\n\n<b>What are you up to next?</b>\n\nBeing open-minded as a human.",
+    "blurb": "Woven sounds."
+  }
+}

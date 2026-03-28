@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "324",
+  "url": "https://ra.co/podcast/324",
+  "id": "324",
+  "__typename": "Podcast",
+  "title": "RA.324 Untold",
+  "date": "2012-08-13T00:01:05.000Z",
+  "fileSize": 75218158,
+  "duration": "01:02:26",
+  "imageUrl": "https://static.ra.co/images/podcast/ra324-untold-cvr.jpg",
+  "contentUrl": "/podcast/324",
+  "tracklist": "STL - The Taphead - Something\nRobag Wruhme - Brumby Kapell - Musik Krause\nOscar Mulero - Introducing Errors - Warm up\nSleeparchive - Ronan Point 2 - Tresor\nMetasplice - Buoyant Slight - Morphine\nUgandan Methods - Beneath the Black Arch - Ancient Methods\nBlawan - Tuesday's March - Frozen Border\nGo Hiyama - Fallingwater - Token\nStanislav Tokachev - Building Peaks - Modularz\nPercussions - Bird Songs - Text\nMarcelus - Super Strength - Tresor\nStrip Steve feat. Das Glow - Calcium - Album Edit - Boysnoize\nSei A - Unknown - unreleased\nMidland & Pariah - Untitled 2 - Works the Long Nights\nJ Tijn - The Anti Mixdown - Turbo\nMilton Bradley - Echoes from the Past - Do Not Resist The Beat\nUntold - Motion the Dance - Hemlock",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra324/",
+  "keywords": "Untold, Jack Dunning, Hessle, Hotflush, Hemlock, bass, techno",
+  "artist": {
+    "id": "7220",
+    "__typename": "Artist",
+    "name": "Untold"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"As a producer I won't re-use the same sounds or rely on a template for year after year,\" Jack Dunning told us during his <a href=\"feature.aspx?1105\">Breaking Through feature</a> in 2009, \"and as a label owner I won't release throwaway music.\" Has he been true to his word? Well, he's now known as one of the UK's most vital DJs, producers and label managers—so that'll be a resounding yes. Around the time of that interview he'd already been moving through the creative gears for a year or two on labels like Hessle Audio, Hotflush and his own Hemlock Recordings. (Listen back to \"<a href=\"http://www.youtube.com/watch?v=YmGVIsf2gbc\">Anaconda</a>\" for a reminder of just how hard he was kicking.) Then came electro for R & S (<i>Stereo Freeze</i>); collaborations with UK funky force Roska and Hyperdub three-piece LV; a dub-wise side project with Samuel Chase as Dreadnought; and 130 BPM-plus techno for Clone Basement Series. Bringing things forwards to 2012, and it's at that last genre Dunning appears to have stopped to explore. The three-part <i>Change In A Dynamic Environment</i> series—the last of which sees release this week—has comprised six confident and evolving techno tracks suffused with Dunning's obligatory perversions. \n\nAs RA.324 hopefully illustrates, artists like Blawan, Four Tet, Pariah and Dunning (all of which feature here) appear to be revelling in their techno outsider statuses right now, respectful of the canon but bending things out of shape all the same. \n\n<b>What have you been up to recently?</b>\n\nI've just wrapped up my three part EP <i>Change in a Dynamic Environment</i> and I've been busy working on the Hemlock release schedule for the rest of the year.\n\n<b>How and where was the mix recorded?</b>\n\nIn my front room at home using vinyl, CDJs and an Allen & Heath mixer. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's an hour of dark, percussive techno with an industrial edge. Something suitable for a motorway drive at night. I held back on selecting tracks that contained lots of melody, instead leaving the drums and FX to provide the focus and set the mood. The kicks bang quite hard towards the end.\n\n<b>You said recently that shape-shifting as a producer \"can make things tricky when you're playing.\" Could you elaborate on this?</b>\n\nI've been in awkward situations where a crowd have paid to hear a certain type of music, and the stuff I'm playing isn't what they expected or what they want to dance to. I have to find a balance between playing interesting music and showcasing new material without ignoring the crowds' needs. Thankfully I haven't had to draw for the emergency \"get out of jail free\" tracks so often recently.\n\n<b>What are you up to next?</b>\n\nMixing a compilation for Hemlock which will be released this winter, and working on new Untold material for other labels.",
+    "blurb": "Techno of a different sensibility."
+  }
+}

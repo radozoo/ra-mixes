@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "5",
+  "url": "https://ra.co/podcast/5",
+  "id": "5",
+  "__typename": "Podcast",
+  "title": "RA.038 Stacey Pullen",
+  "date": "2006-12-18T15:15:19.000Z",
+  "fileSize": 64144378,
+  "duration": "01:06:47",
+  "imageUrl": "https://static.ra.co/images/podcast/ra038-pullen-cover.jpg",
+  "contentUrl": "/podcast/5",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra038/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:45"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Born into a musical family – his dad was in a Motown group called The Capitols – Pullen has been playing music since a young age, first gravitating toward the drums, playing the snare drum in high school and at Tennessee State University. \"Music chose me\" as Pullen puts it. But it was the first wave of Detroit techno that really got his motor running: back in the day he used to make eight hour trips back to the city just to hear Derrick May spin at the Music Institute. Fast forward fifteen years and Pullen is acknowledged as a pillar of the second wave of Detroit techno alongside the likes of Carl Craig and Underground Resistance. Though a little quieter on the production front of late, Pullen is still clocking up the frequent flyer miles as a DJ, spinning his trademark wide-ranging sets of house and techno around the world. His DJ philosophy? \"I don't really classify music,\" says Pullen. \"I didn't even know electro was electro until someone told me. I enjoy music for what it is. In clubs a lot of people ask ‘What are you gonna play tonight?\" and I never know. I just play from the heart. It's house, techno, broken beat or whatever: if the vibe is right I do it.\"\n\nPullen brings his open-minded attitude to his RA mix. One minute you're listening to vocal house, the next deep techno, and thanks to his impeccable mixing skills, you don't even know how you got there. Impressive.\n\n\n<b>What have you been working on recently?</b>\nNew releases for my label and being a world traveler.\n\n<b>Where was the mix recorded?</b>\nIn Detroit at my now defunct residence called Oslo on October 7 2006.\n\n<b>What are you up to next?</b>\nFilling the void... recording, recording, recording...",
+    "blurb": "This week's RA podcast is from Detroit techno legend Stacey Pullen."
+  }
+}

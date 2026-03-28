@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "106",
+  "url": "https://ra.co/podcast/106",
+  "id": "106",
+  "__typename": "Podcast",
+  "title": "RA.106 Nôze",
+  "date": "2008-06-09T02:00:33.000Z",
+  "fileSize": 89989564,
+  "duration": "01:14:58",
+  "imageUrl": "https://static.ra.co/images/podcast/ra106-noze-cover.jpg",
+  "contentUrl": "/podcast/106",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra106/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:2669"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "\"Minimal is from Germany and we are from France, we make a different kind of minimal. I hope you like it. It's a little bit strange.\" Nicolas Sfintescu and Ezechiel Pailhès ain't kidding. RA scribe Jacob Wright calls it \"boozecore\" and there probably isn't a better word for what Nôze create in their Parisian studio. Pan flutes, drunken trombones, barroom piano, all of it make it in to the duo's latest full-length, <i>Songs on the Rocks</i>.\n\nIn this live set, taken from the recent Piknic Electronic party during Montreal's <a href=\"http://www.mutek.org/\">Mutek Festival</a>, the first thing you'll notice is those voices. Sfintescu often sounds like he's channeling a vodka-soaked Tom Waits; Pailhès is like the prototypical French crooner that can't seem to keep his pants on. Throughout, they enact a stand-up comedy routine, beginning the festivities by welcoming a rain-soaked Montreal crowd, \"Hello Ibiza!\" Things only get funnier—and stranger—from there, including peons to washing your feet, piano-led showtunes and the always lovable closing number 'Remember Love'. It's a rough and ready trip with the campest duo in dance music working today.",
+    "blurb": "This week on the pod: a live set from the court jesters of dance music recorded at Mutek in Montreal.\r\n"
+  }
+}

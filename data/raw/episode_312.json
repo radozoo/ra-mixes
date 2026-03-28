@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "312",
+  "url": "https://ra.co/podcast/312",
+  "id": "312",
+  "__typename": "Podcast",
+  "title": "RA.312 Deetron",
+  "date": "2012-05-21T00:01:20.000Z",
+  "fileSize": 93380590,
+  "duration": "01:17:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra312-deetron-cvr.jpg",
+  "contentUrl": "/podcast/312",
+  "tracklist": "J. Greenspan - Crown Princess - Jiaolong\nElgato - Zone - Hessle Audio\nMarvin Gaye - If This World Were Mine - Motown\nRoy Ayers - Tarzan (Ame Remix) - Rapster\nMonty Luke - Yesterday & Tomorrow - BC001\nSLG - I Love You But I've Chosen Disco (Axel Boman Remix) - Pets\nLorca - Can't See Higher - Dumb8\nMidland - What We Know (MCDE RMX) - AUS\nAfrica Hitech - How Does It Make You Feel? - Warp\nGoldfrapp - Fly Me Away (C2 Remix 2)\nBo Saris - She's on Fire (Maya Jane Coles Remix) - CDR\nColo - Never Again (George Fitzgerald RMX) - Take Records\nAme - Kuma - Sonar Kollektiv\nLife & Death - Morgana (C2 remix) - Visionquest\nBoddika & Joy Orbison - Froth - SUNKLOWUN\nBicep - Stripper - Love Fever\nUnknown - Clone Gold 12\"\nDark Sky - F Technology - Black Acre\nBoddika - Acid Jackson - SWAMP81\nKraftwerk - Numbers - EMI\nNikola Gala - Only (Ryan Elliott RMX) - Rekids\nTodd Terje - Inspector Norse - Smalltown Supersound\nBeanfield - Tides (Chateau Flight Beats) - Compost\nAndres - New for U - Mahogany Music\nStereotyp - Keepin Me (Fauna Flash RMX) - G-Stone\nPatrice Scott - Orbital Bliss - Sistrum\nFred P - Free Your Mind (Simbad Remix) - CDR\nJeff Mills - Peart - Purpose Maker\nJose Gonzalez - Cycling Trivialities (Edit) - CDR\nMountains - Newsprint - Thrill Jockey",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra312/",
+  "keywords": "Deetron, House, Music Man, Sam Geiser, Rejected, Blanace",
+  "artist": {
+    "id": "869",
+    "__typename": "Artist",
+    "name": "Deetron"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Deetron: A name you can depend on. The Swiss DJ and producer has been in the house and techno scene since the mid-'90s, and he seemingly hasn't put a foot wrong at any point. Whether it be his exceptional three-deck mixing or his elegant productions for label home base Music Man, Sam Geiser is the definition of consistent. Of late, however,  Deetron has been outdoing himself a bit. Last year's <i>Starblazer</i> single for Rejected was one of the most charted tracks of 2011 on Resident Advisor, while his two-disc mix for Balance showed that he's just as comfortable mixing digital as he is analogue. \n\nDeetron describes RA.312  as \"relentless,\" and we're inclined to agree with him. It's more than 70 minutes of bangers, new and old, fit together by one of the world's foremost jocks.\n\n<b>What have you been up to recently?</b>\n\nI've been touring on the weekends while catching up with my job as a houseman during the week. Apart from that I tried to make use of every free minute to work in the studio. I've got a new single coming up for Music Man with Andy Butler from Hercules & Love Affair on vocals, which should finally be released in June as we're still waiting for the last remix. Other than that I've been working on remixes for Steve Kotey and Andy Meecham on Classic as well as Cocolores on Exploited. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded in my studio using decks and CDJs. I've edited a few of the tracks beforehand, but recorded the final mix live using the aforementioned equipment. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea was to create a relentless, captivating, upbeat and danceable mix, which includes the main four musical elements of my DJ sets: My love for melodic techno, my obsession with bass-influenced house and techno, my soft spot for disco and my craving for good vocals. Furthermore the intention was to include older records, which have been favorites of mine over many years and to revive them in a modern context alongside new tracks. \n\n<b>Has living in Bern had much of an effect on your music do you think? If so, how?</b>\n\nI don't think it had an immediate influence on my music, but the quiet atmosphere of the city and distance from the epicentres of house and techno have helped me to stay focused and down to earth and not to be influenced by trends or hypes. \n\n<b>What are the crowds typically like in Switzerland? </b>\n\nThey are musically well-educated, rather open-minded and while they might not be as outgoing as elsewhere normally, I've experienced very enthusiastic crowd reactions in clubs around Switzerland recently.\n\n<b>What are you up to next?</b>\n\nI will be working on my own material exclusively for the next few months and I'm getting ready for a rather hectic summer this year.",
+    "blurb": "Swiss beats."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "256",
+  "url": "https://ra.co/podcast/256",
+  "id": "256",
+  "__typename": "Podcast",
+  "title": "RA.256 Robag Wruhme",
+  "date": "2011-04-25T00:00:28.000Z",
+  "fileSize": 70879981,
+  "duration": "00:59:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra256-robag-wruhme-cvr.jpg",
+  "contentUrl": "/podcast/256",
+  "tracklist": "Intro - Robag's Calimba Bimmel\nToro Y Moi - Blessa\nKlouds - Remember Who You\nSouleance - Passarinho\nLetherette - Cherryade\nOnra & Quetzal - You Don't Have To Go\n1 J To The C - Nono\nVeronika Fischer - He, Wir Fahr'N Mit Dem Zug\nCommon - Go!\nColm K & Freestylemelloship - Dancing Skulls\nPete Winslow - Beachcomber\nOliver Onions & Bud Spencer - My Name Is Zulu\nHildegard Knef - Ich Liebe Euch - DJ Koze Remix\nWoods - Blood Dries Darker\nRocko Schamoni - Supersticious Ladybaby\n9th Wonder & Buckshot - Here We Go\nGil Scott-Heron & Jamie Xx - My Cloud\nPeter Presto - Viaduc\nFour Hands - Hizou\nFlight Of The Conchords - Au Revoir\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra256/",
+  "keywords": "Robag Wruhme, Wighnomy Brothers, house, mixtape",
+  "artist": {
+    "id": "10978",
+    "__typename": "Artist",
+    "name": "Robag Wruhme"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Delicacy is not necessarily an adjective you'd attach to Robag Wruhme if you saw him behind the decks. Either solo or in tandem with Sören Bodner as the now defunct Wighnomy Brothers, Wruhme has gained a reputation for his boisterous, hard-drinking DJ sets. But scratch the surface of his recorded music, and in particular his recently released <i>Thora Vukk</i> LP for Pampa, and a whole microcosm of elegance and grace is there to enjoy. Wruhme was the production brains behind the Wighnomy Brothers, who from their hometown base of Jena in the east of Germany put out a string of leftfield house and techno releases through Freude Am Tanzen until their split at the end of 2009. During that time they also proffered a seminal mix CD in the form of <i>Metawuffmischfelge</i>, a feat Schablitzki followed up on earlier this year with his excellent <i>Wuppdeckmischmampflow</i> for Kompakt. \n\nMuch like his latest full-length, Wruhme has only minor dance floor considerations on his mind for this mix—hip-hop, pop, chillwave, spoken-word and (of course) bags of oddities are much more the order of the day.  \n\n<b>What have you been up to recently?</b> \n \nInterviews and podcasts. \n\n<b>How and where was the mix recorded?</b> \n\nIn Jena in my bedroom and in my kitchen, with a turntable, apples and a lot of vinyl and CDs. \n\n<b>Can you tell us a little bit more about the idea behind the mix?</b>\n\n\"Good Morning\" was and is the idea ... I hope I can share that.\n\n<b>What are you up to next?</b>\n\nI have to work in my own car wash centre and then I will bring out the vegetables in my garden... it's April! \n",
+    "blurb": "The Jena joker turns in an eclectic mix of hip-hop, pop, chill wave and more."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "383",
+  "url": "https://ra.co/podcast/383",
+  "id": "383",
+  "__typename": "Podcast",
+  "title": "RA.383 Trentemoller",
+  "date": "2013-09-30T00:00:48.000Z",
+  "fileSize": 113662973,
+  "duration": "00:54:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra383-trentemoller-cvr.jpg",
+  "contentUrl": "/podcast/383",
+  "tracklist": "Dorit Chrysler - Avalanche\nDirty Beaches - Elli\nBeak - Yattoon\nPinkunoizu - The Great Pacific Garbage Path\nWhite Hills & Gnod - Drop Out\nThe Warlocks - Shake The Dope Out (remix)\nKid Kongo Powers & Khan - Why Hurt Flesh\nBeak - Iron Acton\nSoft Moon - Repetition\nA Place To Bury Strangers - You Are The One\nTropic Of Cancer - I Feel Nothing\nTrentemøller - Piano Piece For Cassette",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra383/",
+  "keywords": "Trentemoller, Lost, Anders, Henrik Vibskov, Denmark",
+  "artist": {
+    "id": "672",
+    "__typename": "Artist",
+    "name": "Trentemøller"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Anders Trentemøller's sonic evolution has been fascinating to watch. The Danish artist established himself in the mid-'00s as a purveyor of electro- and minimal house, and became one of the scene's most popular names. Although it was a step away from the dance floor compared to his earlier singles like \"Physical Fraction\" and \"Sunstroke,\" his debut album, <a href=\"/review-view.aspx?id=4009\"><i>The Last Resort</i></a>, defined this period. Its crepuscular atmosphere and exquisite production garnered it a perfect score here on RA when it was released in 2006. Trentemøller was very much thought of as a dance producer back then, but there were hints on the <i>The Last Resort</i> as to what would come next. \n\nIn 2008, Trentemøller began to tour <i>The Last Resort</i> with a band. The following year, he released <i>Harbour Boat Trips</i>, a 21-track compilation that presented his influences—Suicide, The Raveonettes, Soft Cell. In 2010, he released his second album, <i>Into The Great Wide Yonder</i>, which formally introduced instruments and vocalists to his palette. The logical conclusion to all of this arrived earlier this month when <a href=\"/review-view.aspx?id=13538\"><i>Lost</i></a>, his third album, was released. \"Another fuck-you to whatever genre you thought you had him boxed into,\" said its press text, which was backed up by fully realised electronic pop record.   \n\nGuitars rather than synths are the driving force on RA.383, a mix Trentemøller simply describes as \"some of my favourite tunes.\" \n\n<b>What have you been up to recently?</b>\n\nRehearsing with my band, getting ready for the November tour in Europe. \n\n<b>How and where was the mix recorded?</b>\n\nOn my laptop in my apartment.  \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI just wanted to mix in some of my favorite tunes. I was more concerned about mixing tunes that would fit pitch-wise rather than beat mixing.  \n\n<b>How did your support slots on the Depeche Mode tour go?</b>\n\nIt was fantastic. Such a wild thing to play these huge stadiums and the guys from DM are so cool and down to earth. \n\n<b>How did the approach to <i>Lost</i> differ from your previous albums?</b> \n\nNot much actually, other than I wrote some tunes this time with much more focus on the vocals. Even though your guy (doing the average review of my album) thinks I \"use a million of ideas where I could use three,\" I don't see it that way at all. I think on the other hand that this album is my most focused and I actually love to have details and many layers in my music. Both things, in my world, can go hand in hand.  \n\n<b>What are you up to next?</b> \n\nGoing on vacation: three weeks in Japan!\n",
+    "blurb": "The always confounding producer plays us his favourites. "
+  }
+}

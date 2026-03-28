@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "838",
+  "url": "https://ra.co/podcast/838",
+  "id": "838",
+  "__typename": "Podcast",
+  "title": "RA.838 OSSX",
+  "date": "2022-06-26T22:00:00.000Z",
+  "fileSize": 159040049,
+  "duration": "01:06:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra838-ossx-cvr.jpg",
+  "contentUrl": "/podcast/838",
+  "tracklist": "TAH x OSSX - SMOOTH BRAIN (Unreleased)\nMax Watts - Aerial View\nSoul Mass Transit System - Its U Edit\nMani Festo - Night Drive\nBakey - Jack Pot\nOSSX - DON'T CARE, DIDN’T ASK\nDJ Sega - Where's Yo Head At (2007)\nBooman - HA DANCE REMIX\nOSSX - 336 (Unreleased)\nStones Taro - Step Into Midnight\nLektor Scopes - Sportscenter (Unreleased)\nAnika Kunst - Detox\nRobin S - Luv 4 Luv (DJ SWISHA's Bmore Mix) (Unreleased)\nMary J Blige - Fxmily Affair 2014 (DJ Problem Remix)\nLektor Scopes - My Intentions (Unreleased)\nDJ Lokey - Get With This (Get Busy)\nLektor Scopes - Kilonova (Unreleased)\nDJ Sliink - 6th Ward Dumaine\nTAH x OSSX - GABBY (Unreleased)\nTAH x OSSX - One Way (Unreleased)\nBody Mechanic - Peaceofmine\nZenker Brothers - Focus On Positivity\nDJ Big O - Becky\nDJ SWISHA x BASSBEAR!! x Kanyon - Eric Phresh (Unreleased)\nJuiceboxx ft. Technics - Sweat\nTAH x OSSX - Payment Plan\nBored Lord x OSSX - ALL THAT EXTRA SHIT\nBakey - Two Minds\nHertz Collision - Rescue Me\nTAH x OSSX - BIBLE BELT (Unreleased)\nDJ Savage - Long Time\nDJ Sega - Reminisce 2020\nChante Moore - Wey U",
+  "archived": true,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra838-ossx",
+  "keywords": "",
+  "artist": {
+    "id": "101062",
+    "__typename": "Artist",
+    "name": "OSSX"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Last year, New Jersey group OSSX <a href=\"/features/3952\" target=\"_blank\">wowed us</a> with <a href=\"https://soundcloud.com/ossx/100-unreleased-ossx-mix\" target=\"_blank\">a mix</a> of completely original material that blended infectious edits of Janet Jackson and September with tracks like \"<a href=\"/reviews/33763\" target=\"_blank\">Split Wig</a>\"—one of last year's indisputable breakbeat anthems—that showed how the then-duo could bring together generations of American dance music into one compelling, vibrant mix that celebrates all shades of East Coast club.\n\nTheir <i>RA</i> Podcast might not be an all-originals mix, but it shares the same spirit. OSSX—now a trio, with Juke Bounce Werk member Elise joining original duo Equiss and Lektor Scopes—sprinkle the mix with more of their excellent unreleased originals, in-between canny and clever edits new and old, like DJ Sega's rework of Basement Jaxx's \"Where Your Head At,\" which makes for an early highlight, along with DJ Swisha's Baltimore club edit of Robin S.'s \"Luv 4 Luv\" and the bouncy DJ Problem version of Mary J. Blige's classic \"Family Affair.\" You can hear both the evolution and history of these genres through this mix, along with cuts that touch on UK garage, ballroom and jungle. Trust us when we say that this is over an hour of pure fun, showing the ingenuity and timelessness of American dance music through the decades.\n\n<b>What are you grateful for these days?</b>\n\nWe are grateful for the health of our friends and family!!\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded in Brooklyn, New York. The idea was to capture the same energy OSSX brings to the club environment.\n\n<b>Your productions reflect a deep love for classic hip-hop. Have any rap producers particularly influenced you?</b>\n\nOur roots are like 80 percent hip-hop and rap. we are definitely directly influenced by anyone from Pete Rock, Timbaland, DJ Premier and Q-tip to Pi'erre Bourne, WondaGurl and Wheezy.\n\n<b>How has Elise joining the group changed the dynamic or approach to music, or what has she brought to the group?</b>\n\nWe are officially a trio. DJ Elise is such a brilliant and masterful DJ whose cutting-edge sets have been influencing us for a while now. Certain songs she's played in sets have set a lightbulb off in our heads and lead us to create reinterpretations of songs, like \"Wey U\" by Chante Moore, for the club, thanks to her. After seeing us DJ one day she said she was in OSSX and we couldn't pass up the opportunity to have an individual with such an amazing understanding of music join us. \n\n<b>What are you looking forward to in the near future?</b>\n\nLooking forward to our upcoming release with Tah (Turnpike Authority 2) and also our upcoming sets in new cities.",
+    "blurb": "East Coast club music in all its glory."
+  }
+}

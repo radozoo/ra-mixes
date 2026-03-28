@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "329",
+  "url": "https://ra.co/podcast/329",
+  "id": "329",
+  "__typename": "Podcast",
+  "title": "RA.329 Gaslamp Killer",
+  "date": "2012-09-17T00:01:39.000Z",
+  "fileSize": 53870046,
+  "duration": "00:44:34",
+  "imageUrl": "https://static.ra.co/images/podcast/RA329-gaslamp-killer-cvr.jpg",
+  "contentUrl": "/podcast/329",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra329/",
+  "keywords": "Gaslamp Killer, brainfeeder, bass, la, low end  ",
+  "artist": {
+    "id": "10547",
+    "__typename": "Artist",
+    "name": "The Gaslamp Killer"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "You don't get a word like \"motherfucker\" attached to your name for no good reason. William Bensussen, AKA The Gaslamp Killer, has been in peoples' faces right from the start. Coming up in the rock town of San Diego, Bensussen would continually clear dance floors in the city's Gaslamp district—hence the name—by playing Mobb Deep and Dilla. \n\nThings didn't stay this way forever. In LA he became a resident DJ at Daddy Kev's Low End Theory, the mythologised weekly party and producer hangout that has seen the likes of Daedelus, Nosaj Thing and Flying Lotus rise from its ranks. It was on the latter's Brainfeeder that GLK met a global audience as a producer. 2009's <i>My Troubled Mind</i> and the following year's <i>Death Gate</i> threw up his love of grizzly beats and obscure samples. Seeing GLK behind a pair of turntables is, however, when the MF tag makes most sense. His shows are the epitome of unhinged energy. Rock, jazz, bass music and funk are just as likely to be aired as hip-hop, as he wigs out with his now trademark dance moves.  \n\nGLK's \"Resident Killer mix\" is 45-minute slice of what we're talking about—plus you get the added bonus of a coda comprised solely of music from <a href=\"news.aspx?id=17090\"><i>Breakthrough</i></a>, his madcap debut album which was released today through Brainfeeder. \n\n<b>What have you been up to recently?</b>\n\nTouring (as usual), working on new music with Jungle By Night from Amsterdam, not to mention enjoying this amazing summer of love!\n\n<b> How and where was the mix recorded?</b> \n\nIn my room at my house in Los Angeles on ProTools with my Dr. Sample 303.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's one of my best mixes yet. The first part is all about the heavy newer beat music with a bunch of unreleased stuff from my worldwide crew of beat making friends. The second part is a little more hip-hop turntablist influenced and the third part is all brand new GLK <i>Breakthrough</i> material! \n\n<b>Tell us about the writing of <i>Breakthrough</i>.</b>  \n\nI worked on it tirelessly between touring and touring—trying to work with some of my favourite LA musicians to make it all come to life a little more than my previous records. Also, had to reach out to Dimlite (CH) all the way out in Zurich cause he is one of my favourite producers of all time and I am working on a whole record with him soon! \n \n<b>Outside of your LA base, where do you see as being other key strongholds for your sound?</b> \n\nLondon, Manchester, Paris, Amsterdam, Berlin, Istanbul, Tel Aviv, Athens, Tokyo, Johannesburg and New York fuckin City are some of my most favourite places to play. They always get what I'm bringing to the table and always have amazing openers playing with me that make me want to run for the hills! Some of these cities even have Low End Theory-related events that stemmed from our little Wednesday night club in LA. Pretty fuckin cool. \n\n<b>What are you up to next?</b> \n\n<a href=\"/dj/thegaslampkiller/dates\">Release parties all over the world</a> plus a new Low End Theory podcast with a VERY special guest! Even planning a trip to India with Gonjasufi to try and record some new material there. But it's all in the works so I can't promise anything just yet! ",
+    "blurb": "Raw sounds from an LA b-boy."
+  }
+}

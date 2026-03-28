@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "12",
+  "url": "https://ra.co/podcast/12",
+  "id": "12",
+  "__typename": "Podcast",
+  "title": "RA.011 Digitalism",
+  "date": "2006-05-22T01:00:55.000Z",
+  "fileSize": 59183768,
+  "duration": "01:01:37",
+  "imageUrl": "https://static.ra.co/images/podcast/ra011-digitalism-cover.jpg",
+  "contentUrl": "/podcast/12",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra011/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:727"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "One of the strongest challenges to the minimal bandwagon is that of the new French revolution. A second generation of Gaelic talent lead by labels like <a href=\"http://www.kitsune.fr\">Kitsune</a> and <a href=\"http://www.edbangerrecords.com\">EdBanger</a> is challenging the tech-trance ascendancy with some heavy rocking basslines and dirty synths. \n\nOne of the brightest stars of this next wave is <b>Digitalism</b>. And they're not actually French. The white hot live act and remix duo of Jens Moelle and Ismail Tuefekci hail from Hamburg. Regularly confused, the guys recognise their sound may be 'a bit French'. \n\nWhile the influence of Daft Punk can be detected on their huge hit 'Zdarlight', it's the French attitude of ambivalence that’s more noticeable in their sound. Lending itself to a rough live feel, the pair have garnered strong support from other artists that straddle the electro-rock divide such as Soulwax and Erol Alkan. \n\nOn the remix front Digitalism have applied their touches to the likes of Tiga on ‘Far From Home’, the Test Icicles with ‘What’s Your Damage?’, Cut Copy's ‘Going Nowhere’, the Futureheads 'Skip To The End' and young guns The Presets 'Down Down Down', all of which feature in the podcast. The duo has a natural fit with the <a href=\"http://www.modularpeople.com\">Modular</a> vibe, which looks set to get stronger with their Australian tour in June.\n\n<b>What have you been working on recently?</b>\nRight now, we're working on the album and everything around it. This is why we also had to cancel all remix requests. Before this, we finished the next single Jupiter Room and the concept about it. Gonna be fun! Out mid June on Kitsuné.\n\n<b>Where was the mix recorded?</b>\nIt's been recorded in our private playground, our studio, during some weird sessions.\n\n<b>What are you up to next?</b>\nAfter the album production we're gonna focuse to expand our live sets with a special light show. Some rehearsals in Paris to be done soon therefore.",
+    "blurb": "White hot live act and remix duo Digitalism provide the latest Podcast."
+  }
+}

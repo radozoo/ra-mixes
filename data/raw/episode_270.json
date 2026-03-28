@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "270",
+  "url": "https://ra.co/podcast/270",
+  "id": "270",
+  "__typename": "Podcast",
+  "title": "RA.270 Tokimonsta",
+  "date": "2011-08-01T00:01:47.000Z",
+  "fileSize": 62742295,
+  "duration": "00:52:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra270-tokimonsta-cvr.jpg",
+  "contentUrl": "/podcast/270",
+  "tracklist": "Torso Kurten - The Fraternity Of Torture\nBaris Manco- Lambaya Puf De\nDJ Krush - Roll & Tumble\nStromba - Manphibian\nGonjasufi - Kowboyz&Indians\nTokimonsta - Brand New\nTortoise - Senecca\nLuniz - Put The Lead On Ya\nSamiyam - Already\nFlying Lotus - Dirty Chopsticks\nHï¿½zel - Piano Boy\nTokimonsta - In The Mist\nJeremia Jae - $Easons\nGucci Mane - Photoshoot (Flying Lotus Remix)\nJonwayne - Time Trial\nDaedelus - Tailor-Made (Tokimonsta Remix)\nUnknown Shapes - If I Should Die\nTokimonsta - Mileena's Theme\nAfrica Hitech - 93 Million Miles\nFuck Buttons - Rough Steez\nOorutaichi - Futurelina\nAustin Peralta - Epilogue: Renaissance Bubbles\nBeach House - Walk In The Park\nTokimonsta feat. Gavin - Darkest (Dim)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra270/",
+  "keywords": "Tokimonsta, bass, Ninja Tune, Low End Theory, Brainfeeder",
+  "artist": {
+    "id": "13583",
+    "__typename": "Artist",
+    "name": "TOKiMONSTA"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Jennifer Lee, AKA Tokimonsta, is part of the Flying Lotus-helmed Brainfeeder crew out of Los Angeles. Bearing in mind their deep impact upon the wider electronic music scene, it's easy to forget that this coterie of artists, which also includes the likes of Gaslamp Killer, Samiyam, Ras G and Daedelus, have only been operating in a formalized group structure for the last couple of years. In fact Lee only put out her debut 12-inch at the beginning of 2010. Since that release, through UK imprint Ramp Recordings, her melodically intricate and rhythmically challenging take on instrumental hip-hop has surfaced on labels like All City Records and of course Brainfeeder, while her debut album, <i>Midnight Menu</i>, was put out in July of last year by Japanese imprint Listen Up. By the time RA profiled her for our <a href=\"/feature.aspx?1256\">Breaking Through series</a> a couple of months later Christine Kakaire found Lee humbled and somewhat wide-eyed by the extensive touring and exposure the release had afforded her. \n\nRA has never been to <a href=\"http://www.lowendtheoryclub.com/\">Low End Theory</a>, the fabled LA beats party that so many of the Brainfeeder crew, including Tokimonsta, regularly frequent, but we'd like to imagine that it sounds something like this mix. The likes of Gonjasufi, Flying Lotus, Africa Hitech and Samiyam coalesce to form a cloud of hazy, humid hip-hop. \n\n<b>What have you been up to recently?</b>\n\nLately, I've been touring quite a bit, but I'm looking forward to getting back in the studio.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was done with Ableton at a Starbucks.\n\n<b>Tell us about the idea behind the mix.</b>\n\nAs with all my mixes, I want to present songs that I really enjoy listening to. In which case, some songs are quite old, some new, some of a completely different class of music than what I'm regularly associated with. It covers a pretty wide range of moods and emotions as well.\n\n<b>You've been on the road almost constantly in the last year. Do you get the chance to get back to Low End Theory much these days?</b>\n\nI definitely try to drop by when I'm at home. I must admit that it's getting a bit hectic as of late with the notoriety it has now, but it's the best place to meet up with friends you haven't seen for a while.\n\n<b>You were chosen as the #1 female DJ by LA Weekly. What did that mean for you?</b>\n\nOverall, I felt quite happy about it. However, I don't really DJ when I play out, as I do a live set. They had this in mind, but couldn't justify having a separate category for \"live performers\" for women as they did with men. Then there's the other topic of genderizing music and having to do two categories instead of just one. I might have been more happy being within the top 10 for a combined male and female category versus being #1 for an all female one.\n\n<b>What are you up to next?</b>\n\nWorking on tunes!",
+    "blurb": "LA beat science. "
+  }
+}

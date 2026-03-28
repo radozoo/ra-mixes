@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "47",
+  "url": "https://ra.co/podcast/47",
+  "id": "47",
+  "__typename": "Podcast",
+  "title": "RA.047 Vince Watson",
+  "date": "2007-03-06T00:00:16.000Z",
+  "fileSize": 72218412,
+  "duration": "01:00:09",
+  "imageUrl": "https://static.ra.co/images/podcast/ra047-vincewatson-cover.jpg",
+  "contentUrl": "/podcast/47",
+  "tracklist": "Intro\nRenassance (Planet e)\nMystical Rhythm (Ibadan)\nRendezvous (Planet e)\nInfluence Pt 1 (Influenced)\nIoa (Delsin)\nUntitled â€“ Unreleased\nUntitled â€“ Unreleased\nUntitled â€“ Unreleased\nUntitled â€“ Unreleased\nOutro â€“ Unreleased",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra047/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:870"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Vince Watson might have been gathering steam recently, but he’s always been a producer with broad appeal. He’s rated by harder techno DJs such as Carl Cox and Christian Smith, he’s released house music on Ibadan and NRK (the classic ‘Mystical Rhythm’), and his latest records have come out on Detroit-centric labels such as Planet E (‘Renaissance’) and Delsin (the longplayer ‘The eMotion Sequence’). “I try and make all my sets a journey through different elements of my music,” Watson told RA. “I don't just write techno. I just write music, and want people to listen to it as music, nothing more nothing less. I'm not a genre freak.”\n\nWatson also runs his own record label Bio Music, which has released the likes of Steve Rachmad, Joris Voorn, Deetron and Ben Sims. Now there are some names that might clue you in to where he’s coming from: He might be Detroit-influenced, but he’s European and forward-thinking about it too (Yes, the Detroit/Glasgow axis does exist!) But maybe rather than genre, perhaps the key to Watson’s sound is his unique instrumentation: his music is characterised by strong, complex keyboard arrangements which gather momentum, and expanse, over time to hypnotic and highly danceable effect. He also has great taste in natural scientists: Sir David Attenborough is his number one MySpace friend.\n\nFor his RA mix, Watson has assembled sixty minutes of music refreshingly free of the fly-by-night techno trends; it’s a live mix full of lush pads, Detroit touches and Watson’s own unique sense of harmony. This one flies by real quick.\n\nRA caught up with Vince Watson for a chat when he handed over his mix.\n\n<b>What have you been working on recently?</b>\nI've been getting into the heart of my Fcom album, which has been taking a long time. I wanted to do a project that was very Fcom but showed a different side to my music that some people may not have heard before. I'm also recording the next Planet E single and recording a single for the UR guys for Submerge Recordings. I also have a remix coming out soon on Kompakt's new sub-label 'Orphanear' for Mute records artist Turner.\n\n<b>Where was the mix recorded?</b>\nThe mix was recorded live at my new studio, Biocom 2 – all new refittted and new setup. This mix is exclusive and will not be performed anywhere like this. It includes some unsigned, unfinished and unreleased material as well as the cuts that are on the streets at the moment. \n\n<b>What are you up to next?</b>\nMusicwise, I'm doing a remix swap with Laurent Garnier, who will be remixing a track from my Delsin album 'The eMotion Sequence'. Gigwise, I'm off to Brazil shortly for my yearly visit, playing for the Circuito guys new club 'Clash' which has just opened. I'll also be appearing at Kozzmozz in Belgium next month and I'm also putting the fine details onto an Australia and New Zealand tour for this OZ summer in late November.",
+    "blurb": "This week's podcast is sixty minutes of Detroit-style hypnotism from Vince Watson."
+  }
+}

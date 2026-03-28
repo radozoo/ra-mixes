@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "479",
+  "url": "https://ra.co/podcast/479",
+  "id": "479",
+  "__typename": "Podcast",
+  "title": "RA.479 Cassegrain",
+  "date": "2015-08-03T00:00:51.000Z",
+  "fileSize": 146729888,
+  "duration": "01:00:56",
+  "imageUrl": "https://static.ra.co/images/podcast/ra479-cassegrain-cvr.jpg",
+  "contentUrl": "/podcast/479",
+  "tracklist": "Fred Giannelli - The Acid Didj 3 - (Superstition)\nJeff Derringer - Ballorama [Cassegrain dub] (forthcoming L.A.G.)\nTM404 - Sketch for Cassegrain (unreleased)\nClaudio Prc & Ness - Icore [Nuel remix] (Outis Music)\nMagna Pia - Black Bone (unreleased)\nRhyw - Motorcycle Man (unreleased)\nMike Parker - Inversion 1 (Geophone)\nNHK yx Koyxen - 845 (Diagonal)\nInland - Footstone (unreleased)\nMagna Pia - Devonian (unreleased)\nSuper Unknown - Transistor Line (Tar Hallow)\nAlex Coulton - Freefall [Function & Inland remix] (Bloc.)\nRhyw - Disperse Phase (unreleased)\nLee Gamble - Jove Layup (PAN)\nSteve Bicknell - Lost Recordings 10 B2 (Cosmic)\nEkserd - Hidden Document ii [Svreca remix] (Ressort Imprint)\nPost Scriptum - Gliese 581 (forthcoming Infrastructure NY)\nFranklin De Costa - Serpentine Tekk (unreleased)\nCassegrain & Tin Man - Ether Ether (Infrastructure NY)\nDJ Richard - Zero (Dial)\nDorisburg - Computer Drumming 128 (Boss Musik)\nBandulu - Trinity (Blanc)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra479/",
+  "keywords": "Alex Tsiridis, Huseyin Evirgen, techno, krake, prologue, Function, Inland Infrastructure",
+  "artist": {
+    "__ref": "Artist:16657"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "When Alex Tsiridis and Hüseyin Evirgen attended the 2008 Red Bull Music Academy in Barcelona, they might not have imagined how game-changing the trip would turn out to be. Tsiridis, who is Greek-English, lived in Wales back then; Evirgren, originally from Istanbul, was splitting his time between Berlin and Vienna. Cassegrain was born when they crossed paths at the academy. In the seven years since then, the duo have released over a dozen 12-inches of mind-bending techno on labels like Prologue, Krake and, most recently, Function and Inland's Infrastructure New York, tunnelling further and further into their murky and immersive sound with each one. For years they collaborated remotely, sending each other stems over email. Now they're both based in Berlin, a move that's ushered in a new phase for the project. \n\nCassegrain's combination of engrossing atmospheres, tactile sound design and hypnotic rhythms tends to have an almost psychedelic effect. That's basically what you get on RA 479—a propulsive, 22-track romp through the subconscious. \n\n\n<b>What have you been up to recently?</b> \n\nWe had a couple of things out recently with Tin Man, a track on the Ostgut Ton 12-inches as part of Function's <i>Berghain</i> mix, followed by an EP on his Infrastructure NY label, which he now runs with Inland. We've both been working on solo projects, too. Besides that, remixing quite a bit and enjoying playing out more than we used to. \n\n<b>How and where was the mix recorded?</b>\n\nAt our studio in Treptow, Berlin, layered and treated in Ableton. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nWe wanted the mix to be something you can listen to quite smoothly but still be dance floor-based, representing our current tastes within the electronic/ club-ish sphere. We were happy to get hold of quite a few unreleased and exclusive bits from friends too to make it extra special. \n\n<b>You toured the US for the first time a couple months ago. How did it go?</b>\n\nThat was a great experience. We played in Seattle, Detroit, Washington DC and Chicago. All shows were great: warm, lovely people and tight scenes. We're going back in September, and we'e really looking forward to it and feeling very lucky!\n\n<b>How did you find working with the 4DSOUND system?</b>  \n\nDefinitely one of the most interesting things we've ever worked on. It's amazing what the guys behind it have created. We had the chance to revisit our album in a completely new context and approach. We deconstructed the whole thing and re-mixed it specifically for the 4D system. It was refreshing to perform our music outside a club environment for a change, and we're gonna be doing it again very soon at Today's Art Festival in The Hague.\n\n<b>What are you up to next?</b>\n\nMaking music, playing basketball and travelling. After the album last year, our collaboration with Tin Man, remixes and getting our solo projects started took up all of our time and we haven't worked on any original Cassegrain material since. So this will be the focus again, as of now.",
+    "blurb": "Surrealistic techno from the Berlin-based duo. "
+  }
+}

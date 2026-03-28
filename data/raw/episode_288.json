@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "288",
+  "url": "https://ra.co/podcast/288",
+  "id": "288",
+  "__typename": "Podcast",
+  "title": "RA.288 Consequence",
+  "date": "2011-12-05T00:01:49.000Z",
+  "fileSize": 72961059,
+  "duration": "01:00:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra288-consequence-cvr.jpg",
+  "contentUrl": "/podcast/288",
+  "tracklist": "They Live - 7998 - Exit Records\nConsequence - Magda Trench - Exit Records\nMindmapper & Silvahfonk - Oxygen- CX\nDiagram & Korsun - Retrogression - ???\nASC- Scanners - ???\ndBridge - So Lonely (Akkord Remix) Dub\nGenotype - Feel Free - ???\nConsequence & Genotype - Void Dub One - ???\nReza - Yanomami - Tech Noir\nASC - Transfer Loop - ???\nSynth Sense & Anile - Static Movements (Consequence Remix) Silk Recordings\ndBridge - Fire Fall You - ???\n(TEASE) Dub Phizix & Skeptical feat Strategy - Marka - Exit Records\nGenotype - Keep your distance blood - ???\nGenotype & Consequence - Void Dub Two - ???\nReza - Phantom - Cylon Recordings\nGenotype - Cat Walk -???\nLoxy & Resound & Skeptical - Choices - ???\nAmit - Manic Minor - Exit Records\nLoxy & Resound - Depth Excess - Exit Records\nConsequence - Soul Sees Spirit - Exit Records\nFis & Tokyo Prose - The Truths - Samurai\nMathew Jonson - Cold Blooded (dBridge Remix) - Crosstown Rebels",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra288/",
+  "keywords": "Consequence, drum and bass, edm, autonomic, australia",
+  "artist": {
+    "__ref": "Artist:12348"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you were to take his two album projects this year in isolation, it could reasonably be concluded that Cam McLaren had only a peripheral involvement with the drum & bass scene. As one half of They Live alongside Joe Seven, McLaren released <i>Cancel Standard</i> in March this year, a record RA's Andrew Ryce <a href=\"/review-view.aspx?id=8842\">described</a> at the time as \"basically an electro album.\" <a href=\"/news.aspx?id=15120\">His forthcoming full-length</a> as Consequence, meanwhile, has far more in common with Aphex Twin than Andy C. So what are his drum & bass credentials? Well, dBridge signed McLaren while on tour in New Zealand back in 2009, figuring that his melodically rich and experimental take on the genre would work perfectly as an album for his label, Exit Records. And he was right. <i>Live For Never</i> stands as one of the finest examples in its class, coinciding perfectly with—and helping to define—the sound that would later be coined as \"Autonomic\" thanks to dBridge and Instra:mental's ground-breaking podcast series of the same name.  \n\nOn RA.288 we get the more floor-focussed end of the Consequence range: the velvety textures and grainy electronics are still in place, but are pinned to the canvas by some of the most dynamic drum programming you're likely to hear this year—or any for that matter. \n\n<b>What have you been up to recently?</b>\n\nI only moved to London about six months ago, so I'm still finding my feet. When I move around it takes a while before I'm settled in, but I'm getting there.\nNow that my album is complete and out of the way, I have found time to start work on some new collaborative projects with dBridge and Jon Convex. I have also been working on my live show. So time is always running low.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at my house in London using digital technologies. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe mix represents an idea of blending different sounds and textures within the 170 BPM tempo. I like to think of mixes or sets translating into some kind of story. Recently I have been fortunate enough to have received so much good music from like-minded producers. In a way this mix is just a snapshot of what I'm into and what's out there. I can see the style represented in this mix fitting into a number of scenarios, it all has a visual feel about the sound.\n\n<b>What are you up to next?</b>     \n\nFor the next while I'm focusing on developing my live show further and touring the new album. There is going to be another They Live album coming next year as well. \nI'm also working under a bunch of new aliases in different areas of sound, more on those later... I look forward to working with more people now that I'm based in Europe, so we will see what happens.",
+    "blurb": "Advanced drum and bass from an Autonomic stalwart."
+  }
+}

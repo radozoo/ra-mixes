@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "540",
+  "url": "https://ra.co/podcast/540",
+  "id": "540",
+  "__typename": "Podcast",
+  "title": "RA.540 Zaltan",
+  "date": "2016-10-03T00:00:54.000Z",
+  "fileSize": 155120351,
+  "duration": "01:04:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra540-zaltan-cvr.jpg",
+  "contentUrl": "/podcast/540",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/285814079",
+  "keywords": "Quentin Vandewalle, Antinote, Paris, Domenique Dumont, Greena, Syracuse, ",
+  "artist": {
+    "id": "36110",
+    "__typename": "Artist",
+    "name": "Zaltan"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Quentin Vandewalle runs Antinote, a Parisian label with a distinctive roster of artists and eye-catching record sleeves. When we named it one of our <a href=\"/features/2573\">favourite labels</a> of 2015, we noted that there was \"no sound that ties the Antinote crew together.\" Instead, it's Vandewalle's unique, wide-ranging tastes that gives the label coherency. Antinote has grown from <a href=\"/features/1827\">humble beginnings</a>, and is now an outlet where Stéphane Laporte's crackly ambience sits happily next to Domenique Dumont's tropical excursions, Syracuse's stylish synth pop and Geena's grubby lo-fi house. Many of these artists rarely—if ever—appear on other labels, giving Antinote a feeling of singularity. \n\nVandewalle's DJing echoes his label. His sets are playful and pleasingly freeform, peppered with catchy tunes you don't hear other DJs play. Many of his best musical finds have been picked up from years of digging in Paris's second-hand record shops and flea markets. (Alongside Gwen Jamois, who works with Vandewalle on Antinote, he used to do occasional shifts at Vinyl Office, a small record shop on Rue Trousseau.) Vandewalle's RA podcast contains no shortage of leftfield gems, with tunes from Francis Bebey and Finis Africae alongside European pop and boogie. He describes it as a \"living-room mix\" that's best experienced with a glass of wine. \n\n\n<b>What have you been up to recently?</b>\n\nI just got a new office in the 10th arrondissement of Paris. Very nice place. So I can now begin to focus more on the label. I'm currently working on the next few Antinote releases. We are about to finish the tracklisting of the third and final volume of the Tolouse Low Trax <a href=\"/news.aspx?id=36302\">trilogy</a>. I just got the cover of the new Geena EP—it will be something special, trust me! And I played some very nice gigs recently as well. \n\n<b>How and where was the mix recorded?</b> \n\nI recorded it in the basement studio next to our office. I did it in the morning just after dropping the kids at school. I had a fresh, clear head. I usually do one-take mixes but I really fucked up one mix at some point so I decided to do it again. I played most of the tunes on vinyl and a few digitals as well—mostly edits and unreleased stuff.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nI decided to play the records I play at home while I'm tidying my living room or cooking something and having a glass of wine. It's definitely a living-room mix. So get yourself a good glass of wine and play this mix.\n\n<b>Have you ever been tempted to make music, or are you content being a label boss and DJ?</b>\n\nOf course I do but to be honest I don't really have the time. Being a DJ and running the label make my days full enough. We have two kids at home and a lot to do, but it's never too late. I sing some stuff into my iPhone sometimes so I don't forget what I have in mind. I love to sing, actually.\n\n<b>Where are your favourite places to dig for music at the moment?</b>\n\nI am now living in Les Puces de Clignancourt. There are five second-hand record shops in my street and ten or more stores close by. It's pretty nice. I can meet loads of international DJs there every weekend. \n\n<b>What are you up to next?</b>\n\nI'm working on the label's next few releases—we have many things <a href=\"https://soundcloud.com/dkmntl/dekmantel-radio-w-zaltan-samo-dj-23-09-2016\">on the way</a>. We're doing a compilation for the fifth birthday of Antinote with only unreleased stuff. There will also be a few more projects around the label's anniversary. \n\n",
+    "blurb": "A living-room mix from the man behind Antinote. \r\n"
+  }
+}

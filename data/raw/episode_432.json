@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "432",
+  "url": "https://ra.co/podcast/432",
+  "id": "432",
+  "__typename": "Podcast",
+  "title": "RA.432 Lunice",
+  "date": "2014-09-08T00:00:41.000Z",
+  "fileSize": 150840426,
+  "duration": "01:02:46",
+  "imageUrl": "https://static.ra.co/images/podcast/ra432-lunice-cvr.jpg",
+  "contentUrl": "/podcast/432",
+  "tracklist": "Mike Slott - Simple Dreams of Simple Days\nGeinoh Yamashirogumi - Theme of Tetsuo II\nSpaceghostpurrp - Success\nFrench Montana - Ain't Worry Bout Nothin' (Acapella)\nRick Ross feat. Young Jeezy - War Ready\nLunice - Steady Flexin' \nDeniro Farrar feat. Lunice - Let It Burn (Instrumental)\nFuture - Sh!t (Acapella)\nMeek Mill - Levels\nNicki Minaj - Lookin' Ass\nLunice - I See U\nDrake feat. Soulja Boy - We Made It\nMachinedrum - DDD\nCJ Flemings - Ain't Ready\nVisionist - Pursue\nInkke - Lego Riddim\nFrench Fries - Yo Vogue\nPARTYNEXTDOOR - Make A Mill\nKelela - Floor Show\nJacques Greene - Afterlife\nTY Dolla $ign - Missionary\nLil Durk - DAWUW (Instrumental)\nRockie Fresh feat. Lunice - Superman OG (Instrumental)\nKanye West feat. Mr. Hudson - I'm In It\nSoulja Boy - Ferrari\nILoveMakkonan - Tuesday\nYung Gud - U Want Me\nKanye West feat. Big Sean - I Don't Like (Acapella)\nTNGHT - Uh Uh\nFuture feat. Pusha T & Pharrell Williams - Move That Dope (Acapella)\nTommy Kruise & High Klassified - Washington\nLunice - Can't Wait To\nTNGHT - Top Floor\nLunice - Century\nDrake - OVOXO (TEAMS 8 TRUST EDIT)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra432/",
+  "keywords": "hip-hop, Fermin Pierre, LuckyMe, TNGHT, Higher Ground, Lunice, Kanye West",
+  "artist": {
+    "id": "17529",
+    "__typename": "Artist",
+    "name": "Lunice"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Montreal's Lunice Fermin Pierre II is a core member of the LuckyMe crew. He's long been known for blending rap with cross-genre dance music, and his exaggerated movements behind the decks are as talked about as the sets themselves. But Lunice's greatest achievement to date is his hook-up with Scottish producer Hudson Mohawke as TNGHT. The two made one of the trap movement's defining tracks (\"Higher Ground\"), and they were eventually tapped by Kanye West to lend their distinct, horn-heavy sound to his album <i>Yeezus</i>, on its centrepiece \"Blood On The Leaves.\"\n\nLunice has been riding high on the success of TNGHT, and with an album on the way, his solo career is about to get a big boost. A good time to tap him for a podcast, in other words. His DJ sets trade hip-hop's usual rapid-fire mixing style for a more measured approach, blending mainstream rap with forward-thinking club music and using acapellas to create inspired mashups. Drake into Machinedrum, French Fries into PARTYNEXTDOOR and Future over Tommy Kruise are just a few of the delights on his RA podcast. \n\nIf you like what you hear, Lunice will be playing alongside Kaytranada at <a href=\"/event.aspx?618139\">our showcase</a> event at Decibel Festival in Seattle on September 24th.  \n\n<b>What have you been up to recently?</b>\n\nI've been working on my first LP for Lucky Me.\n\n<b>How and where was the mix recorded?</b>\n\nIn my mixes, like at my shows, I tend to approach it from a producer's perspective, where I think about making an hour-long track mixed with songs instead of drum kits. I also like to add my own production on top of certain songs and not credit it as a \"Lunice Edit\" or remix, because that's just how I like to work. I'm usually on the go when working on mixes. I find that being in a different environment every time is inspiring.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI try to keep things simple as to how I want to present any of my projects. Same goes for this mix. A simple approach to get my style across to the listener.\n\n<b>Tell us about the vibe on your upcoming album.</b>\n\nAs I work on the album, I keep in mind, 'How will it play out at my shows?' From what colour and direction the lighting rig should be to where I should be standing on stage. I took everything into account while making these songs. I'm trying to bring my performance to the next platform.\n\n<b>You're known for your energetic stage presence, but is this something that's tough to maintain now that you're touring hard?</b>\n\nI generally eat better and exercise regularly now. And I don't tour for a long time but I do travel often. I like it that way much better, it gives me time to be back home, rest, work then head back out again. That enables me to perform 100% every time.\n\n<b>What are you up to next?</b>\n\nThe next thing for me is to finalize the stage design and show concept. I've been experimenting with a couple things on my last tour and I've been really happy with how things are coming together. ",
+    "blurb": "Hip-hop from TNGHT's Canadian half. "
+  }
+}

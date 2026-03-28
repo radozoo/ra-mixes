@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "91",
+  "url": "https://ra.co/podcast/91",
+  "id": "91",
+  "__typename": "Podcast",
+  "title": "RA.091 Pole",
+  "date": "2008-02-18T09:55:22.000Z",
+  "fileSize": 67551192,
+  "duration": "00:56:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra091-pole-cover.jpg",
+  "contentUrl": "/podcast/91",
+  "tracklist": "01. <a href=\"/dj-page.aspx?id=2517\">Pole</a> - Intro - <a href=\"/record-label.aspx?id=886\">~scape</a>\n02. Pangaea - Coiled - Hessle Audio\n03. <a href=\"/dj-page.aspx?id=976\">Shackleton</a> - You Bring Me Down - <a href=\"/record-label.aspx?id=1056\">Skull Disco</a>\n04. Mala - Left Leg Out - <a href=\"/record-label.aspx?id=1230\">DMZ</a>\n05. Roy Lee - Give Me Power - Trojan\n06. Benny Ill, <a href=\"/dj-page.aspx?id=938\">Kode9</a> & The Culprit - Fat Larry's Skank (<a href=\"/dj-page.aspx?id=938\">Kode9</a> Remix) - <a href=\"/record-label.aspx?id=1040\">Tempa</a>\n07. <a href=\"/dj-page.aspx?id=1851\">Benga</a> - Crunked Up - <a href=\"/record-label.aspx?id=1040\">Tempa</a>\n08. <a href=\"/review-view.aspx?id=4771\">2562</a> - Channel Two - <a href=\"/record-label.aspx?id=1100\">Tectonic</a>\n09. Danny Hensworth - Mr. Money Man - Upsetters\n10. Johnny Osbourne - Purify Your Heart - Trojan\n11. Althea and Donna - Uptown Top Ranking - Joe Gibbs Records\n12. <a href=\"/dj-page.aspx?id=1756\">DJ Pinch</a> - 136 Trek - <a href=\"/record-label.aspx?id=1456\">Punch Drunk</a>\n13. Untold - Test Signal - Hessle Audio\n14. CNE Skank - Forgive Them Lord - The Upsetters\n15. Max Romeo - Birth of Reggae Music - Wackie's\nOverdubs and Interludes by <a href=\"/dj-page.aspx?id=2517\">Pole</a> (Unreleased Snippets)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra091/",
+  "keywords": "",
+  "artist": {
+    "id": "2517",
+    "__typename": "Artist",
+    "name": "Pole"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It’s only been a little over a decade since slippery hands helped make Stefan Betke’s career. But his malfunctioning Waldorf 4-Pole filter didn’t create the music of <i>1</i>, <i>2</i> and <i>3</i>, Betke did. And, in so doing, Betke became a giant of the experimental wing of the dub genre. It seemed over, though, at the turn of the century, when Betke completed his trilogy and went searching for other avenues of musical exploration. \n\nThis exploration led to collaborations with Fat Joe on his self-titled album, as well as a live trio with Zeitblom and Hanno Leichtmann. But Betke didn't truly find a new sound until 2007’s <i>Steingarten</i>, which was a return-to-form of epic proportions, further investigating dub’s possibilities while sounding like little else in his catalogue. Here, on his RA podcast, Betke does the same, mixing classic dub tracks with the acknowledged sound of now: dubstep. It’s a place where old and new mingle, conversing with one another, all held together by overdubs and unreleased music by Pole himself. Nice.\n\n\n<b>1. What have you been working on recently?</b>\n\nI am mainly working on a couple of 12-inches that should come out during later this year. They're very dubby and faster than my usual work. It's much dancier...\n\n<b>2. Where was the mix recorded?</b>\n\nI recorded the mix in my studio in Berlin. (Scape Studio Berlin).\n\n<b>3. What are you up to next?</b>\n\nI will be touring again from around the end of March till the end of April, mainly in Canada and the states, as well as some shows in Europe like Paris, Frankfurt and Berlin.",
+    "blurb": "This week's RA podcast is a selection of dub, old and new, from German experimentalist Pole."
+  }
+}

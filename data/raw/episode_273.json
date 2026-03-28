@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "273",
+  "url": "https://ra.co/podcast/273",
+  "id": "273",
+  "__typename": "Podcast",
+  "title": "RA.273 Renaissance Man ",
+  "date": "2011-08-22T00:00:34.000Z",
+  "fileSize": 72262148,
+  "duration": "01:00:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra273-renaissance-man-cvr.jpg",
+  "contentUrl": "/podcast/273",
+  "tracklist": "Ragnar Grippe - Ten Temperaments: 2\nIke - Ribbons\nDJ Hell & Anthony Rother - German Bodymachine\n11:11 - Tourist Trap (Renaissance Man remix)\nUnique 3 - Weight For The Bass (3 Ton Edit)\nMichna - Redline Flights\nTevo Howard - Spend Some Time (Underground mix)\nMartyn - Masks\nThe Swiss - Double Or Nothing (Renaissance Manremix)\n5 Mic Cluster - Basildon Lover\nAquarius Heaven - Universe\nRenaissance Man - Stalker Humanoid\nDexter - Space Booty\nInstra:mental - User\nThe Other People Place - Let Me Be Me\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra273/",
+  "keywords": "Renaissance Man, Jaxxon, Downtown, Sound Pellegrino, Dubsided, Made to Play, ",
+  "artist": {
+    "id": "6443",
+    "__typename": "Artist",
+    "name": "Renaissance Man"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It seems as though any sound is up for grabs in Renaissance Man's studio. The Finnish duo sampled spraycans on their 2009 debut through Dubsided; used scat singers and (synthesized) insects on Made to Play; and chopped-up religious chants via Sound Pellegrino. Their forthcoming album, <i>The Renaissance Man Project</i>, runs even further with this approach. Ticking clocks, ping-pong balls, fireworks and sitars are just a few of the overt sonic sources, although many of the tear-out inclinations of Downtown and Jaxxon's previous releases have been scrubbed from the palette, leaving behind an air of experimentation and genre explorations. \n\nThe album might not be suffused with the kind of classic electro flavours present throughout RA.273, but that just serves to illustrate the breadth of Renaissance Man's purview these days. \n\n<b>What have you been up to recently?</b>\n\nFinishing an album, making another album, enjoying the perks of global warming in Helsinki, preparing our first live show, making a video, writing a book.\n\n<b>How and where was the mix recorded?</b>\n\nLive on a Sunday morning on a rusty container ship hosting a 72-hour fetish party, sailing in the extra-legal international waters of the Baltic Sea. Or on Ableton Live in Ville's flat in Berlin. One can believe either of the stories but the first-mentioned provides a better mental setting for its full appreciation. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's a concept-free representation of what we are playing out at the moment; a healthy dose of different styles, old and new. \n\n<b>Where are you at musically at the moment? There seems to a strong\n(proper) electro current running through the mix.</b>\n\nTrue. Lately we have found ourselves digging, playing and rediscovering a lot of electro-ish stuff. Growing up in the Finnish electronic music scene one could not avoid the influence of artists such as Mr. Velcro Fastener, Mono Junk, ImatranVoima, Helsinki Bass Machine (who is, by the way, featuring under a different name on our upcoming album) and their likes. Not to speak of the DJ'ing of K-X-P's KaukoLampi or the legendary Helsinki Turbo parties. So it's in our blood but perhaps a bit more explicit than earlier. \n\n<b>What was behind your decision to leave Helsinki?</b>\n\nWell only half of RM (Ville) left Helsinki more permanently. It's the usual story, being a music producer, moving to Berlin. Helsinki is a small city and Finland a small country relatively far away from the rest of the European \"scene.\" It still has great events (like Flow Festival) and a few nice clubs, but we find ourselves playing mainly elsewhere.\n\n<b>What are you up to next?</b>\n\nTouring both DJ'ing and with our live show. Ville is also working on a new musical project, Millennium, with City Slang artist Norman Palm and on a mysterious project called Madgermany with writer Ingo Niermann. Martti's book <i>Solution Finland: The Welfare Game</i> will be out in the fall on Sternberg Press. We are also working on a literary compendium to the album with the London-based design collective Åbäke. And of course, new Renaissance Man material is already in the works.",
+    "blurb": "Electro and beyond by way of Finland."
+  }
+}

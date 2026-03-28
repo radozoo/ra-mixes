@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "504",
+  "url": "https://ra.co/podcast/504",
+  "id": "504",
+  "__typename": "Podcast",
+  "title": "RA.504 Gunnar Haslam",
+  "date": "2016-01-25T00:00:37.000Z",
+  "fileSize": 160612284,
+  "duration": "01:06:48",
+  "imageUrl": "https://static.ra.co/images/podcast/ra504-gunnar-haslam-cvr.jpg",
+  "contentUrl": "/podcast/504",
+  "tracklist": "Hieroglyphic Being - Lost In Translation - Spectral Sound \n21 Brothers - Brothers In Arms - Logistic Records\nAcid Jesus - Uranium Smuggle - Klang Elektronik\nCheap and Deep - Time Stops (Ectomorph Remix) - Modular Cowboy\nDettinger - Puma B1 - Kompakt\nSkee Mask - Larus Canus - Ilian Tape\nGunnar Haslam - Athabaskan Languages\nDJ Qu - Get Sum - Strength Music\nDBX - Flying Saucer - Accelerate\nAngel De La Guardia - Blind - Broken Call Records\nNorman - Windtunnel - Synewave\nSubstance - Relish Bonus - Chain Reaction\nJahiliyya Fields - Clear Collar - L.I.E.S.\nJeff Mills - Man Made - Axis\nAutechre - Draun Quarter - Warp\nFabrice Lig - Sweet Remembers - Clone\nEscape Force - L1 - Confused House",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/243672870",
+  "keywords": "Techno, Large Hadron Collider, LIES, Bunker, Naif, Tin Man, Romans",
+  "artist": {
+    "id": "42778",
+    "__typename": "Artist",
+    "name": "Gunnar Haslam"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Gunnar Haslam is a pretty heady guy. In his former life studying particle physics, he did work related to the Large Hadron Collider, including tasks such as \"<a href=\"http://daily.redbullmusicacademy.com/2014/07/gunnar-haslam-feature\">looking for missing energy vectors</a>.\" His music, too, has a certain cerebral edge, especially on his albums for L.I.E.S.—to give you an idea, the title <i>Mirrors And Copulation</i> is a reference to \"Tlön, Uqbar, Orbis Tertius,\" a short story by the Argentine author Jorge Luis Borges. \n\nHaslam got his feet wet with DJing and production as an undergraduate at NYU, a time when he attended The Bunker religiously. When he released his first record in 2013—a full-length called <i>Mimesiak</i>—it was like a dam had broken. Since then he's maintained a steady outpouring of music, dropping EP after EP on Delsin, Argot, Mister Saturday Night and Efdemin's Naïf label, which put out what might be his biggest track yet: \"Overcomplete,\" a colossal acid banger that's become something of a sleeper hit. In the meantime, he also made music with Tin Man as Romans, a duo that's about to tour Europe as a live act. Next month, L.I.E.S. will release his third album in three years, <i>Lebesgue Measures</i>. \n\nHaslam recorded RA.504 at the crest of this wave last summer. Stringing together an hour of spacey and avant-garde club tracks, the mix is a vivid introduction to this new artist's sound. \n\n\n<b>What have you been up to recently?</b>\n\nAt the moment I have been retooling my live setup, both for solo sets and for live shows as Romans with Tin Man. More immediately I am eating some leftover pasta with anchovies and cauliflower that I made last night and watering my plants.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at my home in Fort Greene, Brooklyn using two turntables, a mixer and one CDJ for unreleased tracks or things I only have on CD. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nMost podcasts I've done in the past start off slow and end with a bang. Here, I wanted to start with a bang and end on mushrooms.\n\n<b>You recently moved to Paris for a couple months. What were you up to there?</b>\n\nI was with a team in the computer science department at École Normale Supérieure in Paris researching representations of timbral structures. We also worked on some interesting chord recognition systems using wavelets and supervised learning techniques. On the weekends, I took advantage of my European base and played a good amount of gigs. I lived in Paris for a while a few years ago and it has always felt something like a second home to me. Perhaps I will return more permanently in the future.\n\n<b><i>Lebesgue Measures</i> will be your third LP on L.I.E.S. What makes that label a good fit for you?</b>\n\nWell Ron [Morelli] was the first person to take a shot on my music and he's been supportive ever since. The first album was kind of a compilation of early works that we put together, but ever since I just send him completed records and they come out with minimal fuss (despite the ever-worsening pressing plant issues). He has a real deep love for a wide variety of music and that gives me the freedom to send him whatever I want. We also just get along well—maybe that's our Long Island roots or whatever.\n\n<b>What are you up to next?</b>\n\nGetting ready for a short tour with Bryan Kasenic, Tin Man, and family from The Bunker for some Romans shows at Concrete, Berghain and The Pickle Factory, and starting to sort out shows for the rest of the year. \n\nFar as records go, the <i>Athabaskan Languages</i> 12-inch is out next week on Delsin, and the <i>Lebesgue Measures</i> LP follows on L.I.E.S. later in the month. A Romans LP is imminent at some point in the future, as well as some fun 12-inches and surprises along the way. Other than that, I'm working on a couple new solo LPs, so business as usual I guess.",
+    "blurb": "Modern techno from a New York up-and-comer. \r\n"
+  }
+}

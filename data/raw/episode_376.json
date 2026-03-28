@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "376",
+  "url": "https://ra.co/podcast/376",
+  "id": "376",
+  "__typename": "Podcast",
+  "title": "RA.376 Oneman",
+  "date": "2013-08-12T00:00:56.000Z",
+  "fileSize": 70841140,
+  "duration": "00:58:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra376-oneman-cvr.jpg",
+  "contentUrl": "/podcast/376",
+  "tracklist": "DEA Project - Real Deal\nFloating Points - ARP3\nM Dubs - Over Here\nGeeman - Fire Extinguisher\nMixx Vibes - Can't Get Enough\nTrevino - Infared\nBoddika - Heat\nRedinho - Searching\nSOPHIE - Elle\nCream Dream - Ur Love\nOris Jay - Biggin Up The Massive\nTodd Edwards - Winter Behaviour\nHysterics - Club Switch\nZed Bias - Da Same\nRound One to Five \nGroove Chronicles - Millennium Funk\nBoddika - Black\nSouthside Recordings White Label\nJeremih - F*U All The Time [Akito Claptrap x Ice Rink Blend]\nSasha Go Hard - No Time\nDesto - Dust Pyramids\nLil Silva - Mask\nMJ Cole - Waiting For The Day [Beat Free Mix]",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra376/",
+  "keywords": "Oneman, Stephen Bishop, Rinse FM, Croydon, garage, bass",
+  "artist": {
+    "__ref": "Artist:12844"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Oneman is a club DJ through and through. But for the 360 experience, there's no better place to catch him than on his Rinse FM show. Each Tuesday evening between nine and 11 PM, Stephen Bishop hopscotches through his hard drive playing the best in UK club music and well beyond. His playful presentation style is carried over from the pirate radio stations he grew up listening to in South London.\n\nBishop made his name during dubstep's formative years. He earned a reputation as a fearsome vinyl DJ with garage as his specialist subject. \"Because I didn't produce tunes, my whole thing would be if I had two tracks I picked that mixed together really well, I'd use that as a statement mix,\" he's said in the past. It's a method he's stuck with down the years, although there were signs earlier this year that he's been spending time in the studio when he dropped a free edits compilation, which mashed music from acts like TNGHT, Zomby and The xx. The past twelve months have also seen him release a <a href=\"/review-view.aspx?id=11492\">Fabriclive</a> instalment in addition to <a href=\"/news.aspx?id=18664\"><i>Solitaire Vol 1</i></a>, a standout freely downloadable mix that was cleverly marketed in the style of a hip-hop mixtape. \n\nBishop is playing at the UK's <a href=\"/event.aspx?447280\">Beacons</a> festival this weekend (RA will also be there, hosting a stage) but ahead of his trip to Yorkshire, we get RA.376, a slamming \"off the cuff\" selection that draws heavily from Bishop's UK garage roots.  \n\n<b>What have you been up to recently?</b>\n\nLast few months have been busy with festivals (and recording the RA mix!). It's been pretty diverse this year—from the SonarLab stage at Sonar by Night to Montreux Jazz Festival it's been pretty interesting. A lot of new ones for me, too, like Hideout. \n\n<b>How and where was the mix recorded?</b>\n\nIt was pretty off the cuff, really. I did it at home on my setup of two 1200 Technics and a Pioneer DJM900 mixer, with a bunch of vinyl I picked out from my collection and some choice cuts I've been playing recently that I dropped through Serato.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's just a journey of good dance music—something you would expect to hear me play out if you saw me this weekend. It's very club-led and is based on the experience of seeing me play, which I think you can hear in the mix. I wanted it to have some distance from my current project: I'm working on <i>Solitaire Vol. 2</i> for late fall, which will be on less of an upfront club vibe. \n\n<b>How do you usually prepare for you Rinse shows?</b>\n\nThey are never prepared. I just know I want to play some 120 - 128 BPM stuff and some 135 - 140 BPM stuff, so I usually split it into two hours, unless I have a guest then we switch the format a bit. I had SAMO from Body High on a few weeks back with an excellent mix. One of my favourites has to be my back-to-back with Jackmaster, with Todd Edwards doing a special mix. Great atmosphere all night and the studio was popping. \n\n<b>As someone who's deeply involved with UK club music, which style do\nyou think people are most excited about right now?</b>\n\nGood DJs! It's nice to see crowds really appreciate a breadth of selection from every aspect of club music right now. \n\n<b>What are you up to next?</b>\n\nI'm working on <i>Solitaire Vol. 2</i> at the moment, and heading back over to the US before the end of the year. And getting ready for <a href=\"/event.aspx?502801\">Standard Place 3rd birthday</a> in London on 23rd August. ",
+    "blurb": "Garage, house, grime, dubstep, hip-hop."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "815",
+  "url": "https://ra.co/podcast/815",
+  "id": "815",
+  "__typename": "Podcast",
+  "title": "RA.815 Sky H1",
+  "date": "2022-01-16T23:00:43.000Z",
+  "fileSize": 150802360,
+  "duration": "01:02:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra815-sky-h1-cvr.jpg",
+  "contentUrl": "/podcast/815",
+  "tracklist": "Evitceles - Flow with me\n???? - Dream Houses Of The Global North\nSKY H1 - Darklite\nMaria Horn - Fides Minus\nKane Ikin - untitled\nSilk Road Assassins - Vectors\nZomby - Such a feeling\nPhotek - 124\nSagat - Satellite\nClara La San - Nineteen Twenty\nJoy Orbison - In drink\nPhilip Jondo ft. DJ Plead - Whowhuwho\nClams Casino - Tunnel speed\nLala &ace - Sipa\nIceboy Violet - Eyes Drippin 2 Hard (Lil Baby, Gunna & Young Thug) Silk Road Assassins - Bowman\nCasement - Cloudspeed\nPerila - haven't left home 4 4 days\nJohn T Gast - track 8\n???\nTeams - OneWorld ??\nSKY H1 - Labyrinth\n???",
+  "archived": true,
+  "streamingUrl": "",
+  "keywords": "Wellness, meditation, Azure, ambient",
+  "artist": {
+    "id": "61888",
+    "__typename": "Artist",
+    "name": "SKY H1"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "<div class=\"plyr\"><iframe width=\"464\" height=\"155\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197499579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe></div>\n\nPhotographer: Maryan Said\n\nThis month on <i>Resident Advisor</i>, we're putting <a href=\"/features/3958\" target=\"_blank\">the focus</a> on wellness—not exactly whole foods and crystals, but the everyday things we can do for ourselves to better our physical and mental health. What we eat and <a href=\"/features/3960\" target=\"_blank\">put into our bodies</a>, how we think about ourselves and the things around us, how we use revelry, dancing and togetherness as a tool for all sorts of things. This mix is intended to be a sort of companion to this month's editorial, an invitation for reflection and maybe meditation, if you feel like it.\n\nSKY H1's debut album from last month, <a href=\"/reviews/34545\" target=\"_blank\">Azure</a>, struck a beautiful middle ground between ambient and dance music, weaving sounds and influences from rave, hardcore and especially drum & bass into lightweight compositions that move like incense smoke wafting through the air. The mixing is impeccable, and the tracks slot into each other wonderfully, with careful attention paid not only to beat-matching but key and melody, too. The result is an hour of blissful, often emotional beats that you can meditate to, but that also stand up to close listening—dance music that floats beautifully into the ether.\n\n<b>What are you grateful for these days?</b>\n\nBeing healthy and alive, surrounded by friends, having an amazing support network. The fact I can do what I love to do, that I could release music recently and collaborate with so many talented people.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded in my music studio in Brussels. I've tried to play a lot of different things while at the same time keeping it cohesive. I like to see my DJ mixes as an extension of who I am as a music producer, mixing different genres like ambient, breaks, beats, vocals and finding the emotional layer that connects all the tracks. It's going in all different types of directions and BPMs, old and new tracks.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nI want to point towards a local initiative that does an amazing job at helping refugees that are homeless during the hard winter days. Hébergement plateforme Citoyenne (http://www.bxlrefugees.be/en/my-front-page/onthaal-vluchtelingen-thuis/) is a platform that unites people in Brussels that want to welcome refugees in their home and give them a safe place and a roof over their head for one or a few nights, or for a longer period of time.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm really looking forward to winter being over and hopefully being able to play some shows again closer to spring.",
+    "blurb": "Meditative beats that waft like smoke."
+  }
+}

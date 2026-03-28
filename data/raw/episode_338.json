@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "338",
+  "url": "https://ra.co/podcast/338",
+  "id": "338",
+  "__typename": "Podcast",
+  "title": "RA.338 Apollonia",
+  "date": "2012-11-19T00:00:34.000Z",
+  "fileSize": 103581822,
+  "duration": "01:25:55",
+  "imageUrl": "https://static.ra.co/images/podcast/ra338-apollonia-cvr.jpg",
+  "contentUrl": "/podcast/338",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra338/",
+  "keywords": "Apollonia, Dyed Soundorom, Dan Ghenacia, Shonky",
+  "artist": {
+    "id": "38550",
+    "__typename": "Artist",
+    "name": "Apollonia"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Apollonia is a label and DJ collective comprising Dyed Soundorom, Dan Ghenacia and Shonky. Rising from the ashes of Ghenacia's Freak n' Chic at the beginning of 2012, the trio endeavoured to build a platform for their shared musical vision—something Soundorom <a href=\"/feature.aspx?1678\">articulated</a> as \"a mix of white soul and black music\" earlier this year. What that usually means for the dance floor is house music with a focus on groove, with an equal amount of emphasis placed on the past and the present. DC-10 in Ibiza has been a stronghold for their sound this past summer. The trio has played back-to-back-to-back regularly, with a semi-strict policy of spinning one record apiece. Their relationship with the club is actually long held: Ghenacia has been a resident since 2001, while Soundorom joined during 2010 in the same capacity. Shonky has been playing regularly for two years now. \n\nRecorded at the end of the Ibiza season, the trio approached their mix for us in exactly the same manner as their club sets, resulting in a perfect 85-minute encapsulation of the dynamic trio. Apollonia will keep the joint sets rolling into 2013, starting out at <a href=\"news.aspx?id=17810\">BPM Festival</a> in Mexico where they'll all make their debuts at the event. \n\n<b>What have you been up to recently?</b>\n\nWe just launched the Apollonia band and label one year ago, it's our first year of touring properly after hanging out and working together for more than ten years. We've played some amazing gigs this summer. Some highlights include Panorama Bar, DC-10, fabric and just recently Movement in Torino, playing with Derrick May; we've been big fans of Derrick since the start of our careers, so this was great for us.\n\nWith the label, we've released two EPs so far, one from Shonky, <i>Minneapolis Touch</i>, and one from Dan Ghenacia and Shonky, <i>Close to the Edge</i>. Dan has also just completed the third EP, <i>Trax On Da Road</i>, coming in December. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at the end of the Ibiza season. It was really interesting to prepare the selection because we are not just one artist, but three. We did the selection all together and for the recording we did it at a little private gathering with our close friends at home.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nThe idea behind the mix is to introduce the way we play as Apollonia: back2back2back. That means one record each like we do during our Apollonia DJ show, and this is how we mixed the podcast. In terms of the sounds, the Apollonia concept is based around blending black music with white soul, and the best of the old with the new.\n\n<b>Were there any particular prevalent sounds or styles that you noticed at DC-10 this year?</b>\n\nThe more housey sounds from legends like Kerri Chandler and Doc Martin were clearly really popular among the ravers. And one of the main changes this year was the arrival of DJs like Ben Klock and Marcel Dettmann. They fit perfectly in the club and it shows the evolution of Ibiza as major place for underground music.\n\n<b>What are you up to next?</b>\n\nWe are actually all in Berlin right now, working on an Apollonia EP. In January, we will be touring South America, including Apollonia's first ever performance at BPM Festival, plus more great shows for next year like fabric and D-Edge are already planned.\n\nFor the label, after Dan's EP is released in December, Dyed is remixing a track from Daze Maxim and we are starting a repress series on the label, re-releasing some forgotten classics with new remixes. The first one, \"Underwater,\" is coming from Point G (DJ Gregory) and then we have a Kerri Chandler track with some top secret remixers lined up. We also have the first album release on the label coming from Chris Carrier and Hector Moralez in 2013, so keep an eye out for that.   ",
+    "blurb": "Dyed, Dan and Shonky. "
+  }
+}

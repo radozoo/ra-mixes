@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "304",
+  "url": "https://ra.co/podcast/304",
+  "id": "304",
+  "__typename": "Podcast",
+  "title": "RA.304 Airhead",
+  "date": "2012-03-26T00:01:07.000Z",
+  "fileSize": 63640989,
+  "duration": "00:53:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra304-airhead-cvr.jpg",
+  "contentUrl": "/podcast/304",
+  "tracklist": "Pete Stollery - Altered_Images - Empreintes DIGITALes\nAirhead - Wait - R&S Records\nJames Blake - Saying - Unreleased\nRaime - Retread - Blackest Ever Black\nTRS-80 - Karen's Reflection - Vinyl International\nFloating Points - Danger - Eglo Records\nPaul Woolford & Psycatron - Stolen - Hotflush Recordings\nBurial - Street Halo - Hyperdub\nBlawan - Bohla - R&S Records\nFantastic Mr Fox & Jamie XX - Miss You - Unreleased\nJames Blake - Vogue - Unreleased\nShlohmo - Rained The Whole Time - Friends Of Friends\nKlaus - Strafe - Unreleased\nShlohmo - The Way U Do (Airhead remix) - Friends Of Friends\nAirhead & James Blake - Intl. Pembroke Anthem - Unreleased\nUntold - Discipline - Hemlock Recordings\nUnknown - Untitled\nWiley - Ice Rink - Wiley Kat Records \nPlat - Paeling - Unschooled Records  ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra304/",
+  "keywords": "Airhead, Rob McAndrews, post-dubstep, brainmath, burial",
+  "artist": {
+    "id": "26263",
+    "__typename": "Artist",
+    "name": "Airhead"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "We apologise in advance for mentioning James Blake in the first sentence of this introduction, but it's by far the simplest means of framing the music of Rob McAndrews, AKA Airhead. The pair share a similarly sparse approach to melodic and percussive composition, no doubt honed growing up together in south London. Their first formal collaboration, <i>Pembroke</i>, surfaced via Ramp Recordings sub-label Brainmath in March 2010 which, considering the lust for all things Blake these past two years, makes it all the more surprising Airhead has largely flown under the radar since. McAndrews followed the track up with the gorgeous \"Paper Street\" later that year, backed with an equally lovely Nick Höppner version. Signing to R&S seems to be one of the main affirmations of a breakthrough producer these days, and so it was no great surprise when it was announced earlier this year that McAndrews would release <i>Wait/South Congress</i> as a ten-inch single through the label, with a debut album to follow later in 2012.  \n\nThere's plenty of the reflective electronics Airhead has become known for on RA.304 but he appears equally adept at applying the pressure when the moment necessitates it. A couple of unreleased James Blake productions make it on to the mix, along with music from Floating Points, Wiley, Shlohmo and Raime.  \n\n<b>What have you been up to recently?</b>\n\nWriting, DJing and purging my bonsai of red spider mites. That isn't a euphemism.\n\n<b>How and where was the mix recorded?</b>\n\nOn a pair of 1210s, CDJ1000s and a DJM-800 mixer at the R&S studio in London.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nIt's a collection of some of my favourite music as well as some of my own work, roughly divided into three sections. I spent a fair amount of time trying to strike a balance between the more dance floor-oriented tracks and quieter moments.\n\n<b>Could you fill us in on a few biographical details? You've been a pretty low-key presence to date.</b> \n\nI grew up and currently live in London. I played the cello and guitar from an early age and bought a sampler when I was 15 having become obsessed with a producer called Odd Nosdam. I tried to copy his setup, and then I tried to copy his music.  Things developed, nowadays I'm writing more and hopefully imitating less.\n\n<b>How would you describe the music you make?</b>\n\nI suppose the tracks that have been released so far are relatively slow and introverted, but I can see that changing over the next year or so.\n\n<b>You've toured with James Blake and released a collaboration alongside him.  What is the connection between you guys?</b>\n\nWe went to school and have always written and performed together. He's one of my closest friends and an incredible musician to work alongside.\n\n<b>What are you up to next?</b>\n\nThis year I'll be working on a lot more music for R&S and DJing as much as possible.\n\n\n<i>Photo credit: Mateusz Sleczka</i>",
+    "blurb": "A new UK talent in the ascendancy."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "124",
+  "url": "https://ra.co/podcast/124",
+  "id": "124",
+  "__typename": "Podcast",
+  "title": "RA.124 Derrick Carter",
+  "date": "2008-10-13T09:00:41.000Z",
+  "fileSize": 95858418,
+  "duration": "01:22:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra124-derrick-carter-cover.jpg",
+  "contentUrl": "/podcast/124",
+  "tracklist": "01. So Called - These Are The Good Old Days (D's BHQ Vocal) - Unreleased\n02. Home And Garden feat. Chez Damier - In & Out (D's Nü-Vo Vox) - OM\n03. <a href=\"/dj-page.aspx?id=47\">Ian Pooley</a> feat. Tim Fuller - What I Got Is Love (D's BHQ Vocal) - Unreleased\n04. DJ Bang - St. James Infirmary Blues (Mix 2) - GKM\n05. Adele - My Same (D's BHQ Vocal edition) - <a href=\"/record-label.aspx?id=4\">XL Recordings</a>\n06. <a href=\"/dj-page.aspx?id=2282\">Hercules & Love Affair</a> - You Belong (D's Rhythm Bounce) - <a href=\"/record-label.aspx?id=773\">DFA Records</a>\n07. Nate Manic - It's Never Easy (BHQ Malfunction) - Bad Advice\n08. 3rd Face - Canto Della Liberta (a la Boompty Dub) - <a href=\"/record-label.aspx?id=141\">Classic</a> \n09. Easily Influenced - Rockit (BHQ Favorite Mix) - HAWT\n10. Trade Marq - Broken Wagon (Brknwgnbhq Dub) - Bananza\n11. The Microphone Band - U Step (D's Chicago Rub) - Dust Traxx\n12. Greens Keepers - Buffalo Girlz (D's Club Vocal) - GKM\n13. Almost September feat. MC Lyte - Beautiful (D's BHQ Vocal) - Unreleased\n14. <a href=\"/dj-page.aspx?id=2215\">Roisin Murphy</a> - Ruby Bleü (D's Private Stock) - Unreleased\n15. Amos Lee - Sweet Pea (a la Boompty) - Unreleased",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra124/",
+  "keywords": "",
+  "artist": {
+    "id": "68",
+    "__typename": "Artist",
+    "name": "Derrick Carter"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Is there a name more synonymous with Chicago house music than Derrick Carter? You might be able to make a case for Green Velvet or Felix Da Housecat, but Carter surely belongs in the conversation. Through his productions, remixes and DJ sets, he was one of the most important figures in the Windy City's mid-'90s resurgence.\n\nLike his contemporaries, Carter hasn't slowed down a bit: After a stellar run of exactly 100 releases with his Classic label (an imprint run with Luke Solomon that is set to open its doors once again later this year), Carter focused his attention on DJing and production, but perhaps most of all remixing—as you'll hear on his RA podcast. \"I've been working on loads of stuff but it seems as if it takes forever to get released,\" he tells us. That much is clear: Carter's RA podcast is all him, all boompty, all house, all nü pschidt. It's a bouncy mix that'll have you wondering what all those labels are waiting for...\n\n<b>What have you been working on recently?</b>\n\nA lot of the stuff that's included in this mix. Plus, a few other goodies. I've got a new release (as DJ Bang) on Perspex, which is Anu from Freeform Five's label. I've also got a new thing coming out on GKM (Greens Keepers Music) and an assortment of remixes, and productions under various nom de plumes.\n\n<b>Where and how was the mix recorded?</b>\n\nI recorded it here at my place. I just kinda started and mixed it. Not much in the way of trickery involved as I wanted to leave the music pretty much unmolested. Me and my CDJ's. I did a little pre-mastering is all...\n\n<b>Can you tell us a little about the mix?</b>\n\nWell, I've been working on loads of stuff but it seems as if it takes forever to get released and I have people coming up to me all of the time asking what I've been up to \"studio-wise.\" I thought that I could take this opportunity to let a few cats out of the bag and create a B.H.Q. Showcase.\n\n<b>How did it feel to be named the 66th most famous Chicagoan a few years back?</b>\n\nIt felt just fine. Not much different than any other day really. Though, it rather impressed my neighbors.\n\n<b>Why are you bringing Classic back?</b>\n\nWhy not? It's still a valid and well regarded marquee. We mostly shut it down in order to have a break and figure out what our next move should be. Cue to now and we've figured it out. Besides, there's a world of music out there and we rather liked having a little corner of this madness which we could call our own. \n\n<b>What are you up to next?</b>\n\nI am literally just about to go and walk the dogs. After that, I'm off to bed. It's nearly 7 AM and I could use the rest.",
+    "blurb": "This week on the pod: A mix straight from Chicago's Boompty HeadQuarters by Derrick Carter."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "244",
+  "url": "https://ra.co/podcast/244",
+  "id": "244",
+  "__typename": "Podcast",
+  "title": "RA.244 Isolee",
+  "date": "2011-01-31T00:01:13.000Z",
+  "fileSize": 67796590,
+  "duration": "00:56:28",
+  "imageUrl": "https://static.ra.co/images/podcast/ra244-isolee-cvr.jpg",
+  "contentUrl": "/podcast/244",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra244/",
+  "keywords": "Isolee, Pampa, Microhouse, Techno, Electronica",
+  "artist": {
+    "id": "657",
+    "__typename": "Artist",
+    "name": "Isolee"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Raijko Mueller is one of electronic music's master craftsmen. His 1998 single \"Beau Mot Plage\" and the 2000-released LP <i>Rest</i> would be sufficient enough to support such a statement. The former is a melodic classic—the latter helped engineer the DNA of microhouse. Both were released through Frankfurt imprint Playhouse, Mueller's hometown label with whom he began a relationship back in 1996 and went on to release numerous 12-inches and a pair of albums. <i>Rest</i> was followed up in 2005 by <i>We Are Monster</i>. The record was widely believed to have exceeded the temperate majesty of its predecessor. Six years since its release, and Mueller has put out music with Diynamic, Mule and Dial, and is about to proffer <i>Well Spent Youth</i>, the latest Isolee full-length, set to drop through DJ Koze's high flying Pampa Records.  \n\nAs he explains below, Mueller is not a DJ—but therein lays his podcast's strength. Think of these 56 minutes as a mixtape: one that offers a window into the world of Isolee by bundling together house, electronica, downtempo, soul and techno.  \n\n<b>What have you been up to recently?</b>\n\nI have been to Montreal's Igloofest this weekend, an open-air event, where people dance at -20 degrees outside with a great atmosphere. The right clothes are essential for survival.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix is mostly from vinyl recorded into Ableton Live and then adjusted in the software at home. I'm not a DJ—I have two 1210s and a mixer [but] I can't mix records.\n\n<b>Can you tell us a little bit more about the mix?</b>\n\nThis is my first mix for a podcast. I found it quite difficult to make a choice of tracks/songs as I don't regularly buy new records and don't keep myself up to date all the time. I also didn't want to make something that would sound like a straight DJ mix. I guess the mix is more like a journey or a soundtrack, putting tracks together that don't always fit together due to their rhythm and tempo, but where I liked the changing of atmosphere.\n\n<b>How would you say that your new album differs from your previous full-lengths?</b>\n\nI would say the new album is a bit more going back to what I have done before <i>We Are Monster</i>. I think it is a bit more abstract, more intimate, and more electronic. There is less, or nothing, of the disco and indie appeal of my last album.\n\n<b>What made you settle on DJ Koze's Pampa Records to release the album?</b>\n\nThis happened because we are good friends, and since I quit Playhouse in 2007 I still did not know where to release my new album. This [Pampa] became a serious option because of many reasons. DJ Koze lives in Hamburg—so do I. There has been a close communication about the tracks and the album. It is a new and small label which gives you a lot of freedom in creating sound and artwork, and with Marcus Fink running the business of the label, there is someone with a long experience in music business.\n\n<b>What are you up to next?</b>\n\nI will do some live gigs and make music for a skateboard video, and hopefully some new tracks in between.",
+    "blurb": "The revered German producer records his very first podcast. "
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "910",
+  "url": "https://ra.co/podcast/910",
+  "id": "910",
+  "__typename": "Podcast",
+  "title": "RA.910 Kasra",
+  "date": "2023-11-12T23:00:01.000Z",
+  "fileSize": 148749899,
+  "duration": "01:01:59",
+  "imageUrl": "https://static.ra.co/images/podcast/ra910-kasra-cvr.jpg",
+  "contentUrl": "/podcast/910",
+  "tracklist": "Kasra - Spaceman\nHalogenix - Lana\nParticle & Molecular - Switch Hunt VIP\nKasra - bb.oo\nVisla and Dot.Dash - The Brim\nEnvy & Molecular - Black Opal\nEnei - Odd Flip\nGyofield - Dirac Rhythm\nLatesleeper - Bullsquid\nCritical Impact / TI & Jakes - Black Bandana (Kasra Remix) \nWaeys - B.B\nKasra x Slay - City Of Rain\nHalogenix - Tekina VIP\nEnei - Falling\nKasra x Riko Dan - Talk Up\nSpectrasoul x Alix Perez - So Close\nIvy Lab - Snap 101\nIvy Lab - 20 Questions\nSkeptical - Imperial\nSkeptical - Thru My Head\nParticle - No Mistakes VIP\nKasra x Visla - Azure VIP\nMefjus x Skeptical - Runway\nQZB - Artificial (Visla Remix)\nBreak - Head Shot\nKasra x Killa P - Running Red\nVisla X Wingz - Untitled\nKasra - Ski Mask\nQZB - Riot Gear Romance\nNapes - Tokyo Drifting\nVisla - Rakka",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra910-kasra/",
+  "keywords": "",
+  "artist": {
+    "id": "8332",
+    "__typename": "Artist",
+    "name": "Kasra"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Last month, we focused on the history of one of the most important music genres and scenes to come out of the UK: drum & bass. With this <i>RA</i> Podcast from Kasra, we switch over to the style's cutting edge. He's probably best known for his long-running Critical Music label, whose name is instructive. You'll find some of the most essential drum & bass of the last two decades in its back catalogue.\n\nAs a DJ and producer, Kasra embodies everything great about Critical and its approach: drum & bass with flair and personality, forward-thinking while staying true to the roots of the sound. The kind of music he plays is wide-ranging, but it usually leans towards the tight and minimalist. The basslines stop and start like stuck engines, drums hit with the mechanical precision of a Swiss-made watch, the MCs move with a tactical flow. Kasra's <i>RA</i> Podcast is a blend of new and old cuts from the likes of Skeptical, Halogenix, Break and the boundary-breaking Ivy Lab, plus a few cuts from the man himself. \n\n<b>What have you been up to recently?</b>\n\nIt's been a hectic time for the label with a constant flow of releases and a few of the artists working on longer-form projects that need more dedicated attention. I managed to also find time to finish an eight-track release of my own. \n\nOn the live side I've had a really nice run of gigs in the UK and Europe taking in Manchester, Vienna, Berlin, Rotterdam and more, as well as doing the important stuff like being a dad and husband.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind the mix?</b>\n\nI recorded the mix live in the studio on three decks. I wanted the mix to showcase what I'm about as a DJ really. A selection of upfront music and favourites from the archives utilising some longer mixes and blends. I tend to mix pretty quick but I like the tunes to roll as much as possible. This mix also felt like a really good place to showcase some of the music I have forthcoming. Thank you to all the producers whose music makes up this mix. \n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n \nTheres been a few—special shouts to fabric or Flex in Vienna, for example, but one that really shaped me and my label was Swerve at The Velvet Rooms in Central London. Ridiculous lineups on the regular with all the scene descending on the basement venue for the best of the underground. I would go religiously every Wednesday at the start of the label's life to hear Calibre and the like, as well as give out test presses to any of the DJs that would take them. Special times.\n\n<b>What/who are you most excited about coming up on the label in the near future or next year?</b>\n\nWe love looking towards the future and have a slew of releases to be excited about. New music from the likes of Ivy Lab, Enei, Calyx, Simula, Visla and long-form projects from Particle and myself. \n\n<b>After all these years, what is it about your favourite drum & bass tracks that grab you? What do you look for?</b>\n\nI always look for groove, a great use of elements—by that I mean everything in the tune having a purpose—and that feeling that makes me excited to play the track in a club. I just know when I hear something that I'm going to enjoy playing it, and that hopefully the crowd will too. That can be an upfront track that I've just been sent or an older tune I've just come across or added back into my sets. Similarly it can be something deep and rolling or a bit heavier. This works the same for tracks to sign—you just know. \n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n \nTheres many things in the world that need our attention but none more than the humanitarian crisis taking place in Gaza. If you can donate to the causes trying to help, if you can write to your MP, if you can share a post—do it. \n\n<b>What are you looking forward to in the near future?</b>\n \nThe release of my new music and some of the shows we have lined up.\n",
+    "blurb": "Cutting-edge drum & bass from the Critical Music boss."
+  }
+}

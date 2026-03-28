@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "235",
+  "url": "https://ra.co/podcast/235",
+  "id": "235",
+  "__typename": "Podcast",
+  "title": "RA.235 jozif",
+  "date": "2010-11-29T00:00:32.000Z",
+  "fileSize": 70582760,
+  "duration": "00:58:47",
+  "imageUrl": "https://static.ra.co/images/podcast/ra235-jozif-cover.jpg",
+  "contentUrl": "/podcast/235",
+  "tracklist": "<i>No tracklist provided</i>.",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra235/",
+  "keywords": "jozif, wolf and lamb, chicago, moog, fist or finger",
+  "artist": {
+    "id": "2203",
+    "__typename": "Artist",
+    "name": "jozif"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Even without the gigs at fabric and the EP for Wolf + Lamb, you get the sense that jozif should somehow be famous. He's an infectious character (unless it's a Monday), and it's a trait that projects itself upon his music. We know this because jozif works at RA. But that's really the least interesting point to note here. His new vinyl-only imprint—the classily titled Fist or Finger—alongside longtime friend Craig Richards, will see the pair take a side of a 12-inch each for its initial three releases, with jozif appeasing the dance floor and Richards soundtracking the comedown. The project represents a continued forward momentum for jozif in 2010: he's appeared alongside The Mole on the <i>Coca Grande</i> EP for Vitalik, put out the sparkling <i>Chicago</i> EP through Wolf + Lamb and became one of London's most <a href=\"/dj/jozif/dates\">in-demand</a> DJs. Both of these facets are displayed in their full pomp on his mix for us. RA.235 is comprised almost entirely of edits and remixes jozif produced exclusively for the podcast, showcasing his love for compelling melodic lines and vibey acoustic drums. We caught up with him ahead of his appearance at <a href=\"/event.aspx?203347\">RA's London Xmas party</a>. \n\n<b>What have you been up to recently?</b>\n\nDoing this podcast! I've had a really great summer actually, getting to play all over the place and doing stuff like fabric and We Love at Space as well remixing and writing. I've launched a new little vinyl-only thing called Fist or Finger. It's been a pretty exciting year. \n\n<b>How and where was the mix recorded?</b>\n\nThe final version was recorded in my little Dalston studio in London. But there are about 34-and-a-half versions on various laptops at home. \n\n<b>Can you tell us a little bit more about the mix?</b>\n\nI wanted to do something special (to me at least) rather than just do a straight DJ mix. Sometimes I think it's tricky to translate a DJ set from a dirty dance floor at 8 AM on a Sunday to something that is both palatable and cohesive enough to listen to on your iPod on the way to work at 8 AM on a Monday. Lots of things happen \"on the night\" that simply don't make sense or translate across in the cold light of day. \n\nThe majority of it is re-workings of some of my favourite tracks with a few original pieces and one remix of myself (which was quite weird). Things like Eleanor Rigby, Bat for Lashes and the Britney track took the longest as they were totally re-written, whereas the Chromatics and Jamie Jones things were more edits than anything else where I just fiddled with the arrangement and added some drums, strings and in Jamie's case, a full vox (sorry mate). I tried to use similar elements on each of the tracks throughout the mix to give a bit more of a cohesive feel. \n\nOnce all the tracks were written I just simply got them in tempo and key order and worked out a flow. Most of them ended up getting nipped and tucked along the way anyway. Over the years I have collected loads of little recordings that I'd made of pieces of speech, TV news, old documentaries so just popped them over the top. \n\n<b>You have an interesting way of programming your drums. Can you tell us a bit about how your current style came to be?</b>\n\nDo I? Thanks. (I think.) Well, I suppose it's because I'm always trying to get that live kind of sound in my drums—I'm not really one of those people that loves the 909/707 and will put everything on the \"one.\" My drums tend to be a bit looser than that which sometimes can get me into trouble. I'm probably more of a Lars Ulrich/Christian Prommer/Kenny Clare fan than a Jeff Mills one for example. I think I might be a bit obsessed with drums and percussion—programming rhythm sections is by far my favourite part of writing music. That's probably why I spend so much time doing it! To me, if you can get those elements right, you don't need to do too much more over the top. \n\n<b>What are you up to next?</b>\n\nRemixes for My Favorite Robot, Mobilee, Compost and Island Records. Fist or Finger volume 2/3/4 and EPs for InFine and Leftroom. I'm also just in the middle of reworking some of Ben Westbeech's new material for his new live show/tour, which is very exciting!",
+    "blurb": "The breakthrough London producer presents an hour's worth of exclusive remixes and edits."
+  }
+}

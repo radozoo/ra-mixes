@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "747",
+  "url": "https://ra.co/podcast/747",
+  "id": "747",
+  "__typename": "Podcast",
+  "title": "RA.747 Kabuto",
+  "date": "2020-09-28T00:00:00.000Z",
+  "fileSize": 145989289,
+  "duration": "01:00:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra747-kabuto-cvr.jpg",
+  "contentUrl": "/podcast/747",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/900860935",
+  "keywords": "Lair, Grassroots, Daze of Phase, Evan Baggs, Gwenan, ",
+  "artist": {
+    "id": "40911",
+    "__typename": "Artist",
+    "name": "KABUTO"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In addition to his low-key LAIR series at Grassroots, where he highlights Japanese artists, Kabuto runs an important party in Tokyo called Daze Of Phaze. It tends to host a more melodic contingent than the sleek, minimalist house or hypnotic techno you'd hear elsewhere in the capital, a style that one of our Japanese correspondents has described as a cross between American house and techno and the kind of stuff you'd hear at Frankfurt club Robert Johnson. DJs like Evan Baggs, Andrew James Gustav, Gwenan and Oskar Offermann have made it their Tokyo home, to give you an idea.\n\nThis hybrid approach comes across in Kabuto's own DJing, which is elegant and smooth, but notably chunky: there are Detroit-style chords all, thick acidic basslines and soaring strings, the kind of house music that wears its disco and hi-NRG influences on its sleeve. The mix is seamless, near-perfect, but hardly clinical. There's a warmth to it that seems to define Kabuto, who is known as Aniki—an affectionate Japanese term for \"big brother\"—to artists and friends across the world.\n\n<b>What have you been up to recently?</b>\n\nDue to the pandemic of COVID-19, all the gigs got cancelled after my Australian tour in early March. However, I slowly started DJing again now and have been busy with planning the next Daze Of Phaze party, which has been paused since last year.  \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded at home with two turntables and a mixer.\n\n<b>Can you tell us about the idea behind this mix?</b>\n\nThere's no particular concept, but it would be nice if you enjoy it while driving or moving.\n\n<b>How have you been spending your time during the pandemic?</b>\n\nI've been playing some livestreams from clubs, organising my record collection at home, digging at record stores and spending time with family and friends.\n\n<b>What has the Tokyo scene's response to the pandemic been like, and how is the scene there now? Are clubs open?</b>\n\nThe Japanese government and Tokyo were too slow to respond to the crisis, rather than the scene's response. There are still lots of people affected by the pandemic. Under these completely unforeseeable circumstances, clubs manage to open with measures to prevent the spread of infection, but they have much smaller crowds. All the businesses from clubs, festivals to record shops have been facing financial difficulties, I guess.\n\n<b>What are you up to next?</b>\n\nSince travelling abroad will not be possible for a while, I think I'll focus on playing in Japan. Everyone involved in the dance music scene around the world should be in a very difficult time. I'm going to do what I can do around myself proactively now.\n\n",
+    "blurb": "Smooth house from a crucial Japanese DJ."
+  }
+}

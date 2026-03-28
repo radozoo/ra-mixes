@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "218",
+  "url": "https://ra.co/podcast/218",
+  "id": "218",
+  "__typename": "Podcast",
+  "title": "RA.218 Peverelist",
+  "date": "2010-08-02T00:00:08.000Z",
+  "fileSize": 75951274,
+  "duration": "01:03:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra218-peverelist-cover.jpg",
+  "contentUrl": "/podcast/218",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra218/",
+  "keywords": "Peverelist, Tom Ford, punch, drunk, Dubstep, Bristol, dubplates",
+  "artist": {
+    "id": "4134",
+    "__typename": "Artist",
+    "name": "Peverelist"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tom Ford is arguably the central figure in Bristol's electronic music community, spending his day job managing <a href=\"http://www.rootedrecords.co.uk\">Rooted Records</a>—the last remaining small shop in the city that sells new stock—and running the <a href=\"record-label.aspx?id=1456\">Punch Drunk</a> label, which is resolute in its function as a platform for Bristol talent. Ranging from the fluorescent dubstep of <a href=\"dj/gemmy\">Gemmy</a> and <a href=\"dj/guido\">Guido</a> through to the heavily dub and jungle-infused tracks from <a href=\"dj/rsd\">RSD</a>, the imprint hosts a wide variety of different styles, but what really makes it stand out is its consistent level of quality over the past four years.\n\nFord's own music—under the Peverelist moniker—is a major part of the Punch Drunk sound, reconfiguring soundsystem culture's past into futuristic technoid rollers that sound like nobody else around. Even though it was released late in the year, his debut album <a href=\"http://www.residentadvisor.net/review-view.aspx?id=6883\"><i>Jarvik Mindstate</i></a> managed to reach #19 in our <a href=\"http://www.residentadvisor.net/feature.aspx?1121\">albums of 2009 poll</a> with its twisted subversion of dub, jungle and techno sounds.\n\nBeing a record shop employee and a self-confessed soundsystem culture vulture, his passion for vinyl extends to his own DJing, and he continues to cut a large amount of dubplates for his live sets. Hence, it's no surprise to hear that this week's RA podcast is an all-vinyl set from Ford, which is packed full of fresh dubs and plenty of his own material. We shot Tom an e-mail to talk about the mix, his current production habits, and who he's been in the studio with.\n\n<b>What have you been working on recently?</b>\n\nPunch Drunk just had the Guido album hit the streets around a month ago. That was followed by my new 12-inch <i>Better Ways of Living / Fighting Without Fighting</i> which came out last week. I have been working at Rooted as normal, juggling that with Punch Drunk-related stuff. I haven't had much time in the studio, but have managed to complete a couple of remixes recently, one for Bristol Roots crew Dubkasm, one for October's Caravan label. I've been planning ahead with the label releases for the rest of the year and have some great 12-inches lined up, the next one is a tune called \"Find Your Way\" by a producer called Superisk, which has been causing waves in London over the last couple of months.\n\n<b>How and where was the mix recorded? </b>\n\nJust in my bedroom on my 1210s. A few acetates and a few records. No special FX, no Ableton, no CDJs, just raw DJing as it should be.\n\n<b>Can you tell us a little about the mix? </b>\n\nThere's the A side from the new Peverelist 12-inch buried in there alongside some brand new unheard Bristol dubs and a few familiar faces. It's a snapshot of the Pev DJ bag at the moment I guess, a real mixture.\n\n<b>We hear that you're doing some collaborations at the moment. Can you tell us a little about them? </b>\n\nCollaborating can be fun, a new creative angle and a good social. I recently linked Appleblim to remix our friend Bass Clef's track \"Promises\" from his <i>May the Bridges I Burn Light My Way</i> album. I've also been working with Hyetal on a couple of beats which came out great. We're both really pleased with them. \n\n<b>Where are your favourite places to play outside of the UK? </b>\n\nIt's an honour to travel abroad to play and I've never had a bad experience. It's always great to see how other scenes operate and how music works in the different contexts. I always love Berlin and have many friends there. I've played there twice this year so far, once at Mark Ernestus's Wax Treatment dance and once at the Sub:Stance party at Berghain. Japan is wicked as well, I spent a bit of time out there at the end of '08. \n\n<b>Do you feel the need to expand your production horizons at all, or are you still comfortable with your Fruity Loops set-up? </b>\n\nIt's not what you've got, it's how you use it. I'd love to increase my studio and expand, but I don't have the budget. Spent it all on dubplates.\n\n<b>What are you up to next? </b>\n\nI'm having a weekend off! Heading off to the <a href=\"/event.aspx?162678\">Free Rotation festival</a> and I can't wait. Otherwise I'm looking forward to getting back in to the studio, and moving forward with the label and music in general. ",
+    "blurb": "The Punch Drunk boss digs into his box of dubplates for this week's RA podcast."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "36",
+  "url": "https://ra.co/podcast/36",
+  "id": "36",
+  "__typename": "Podcast",
+  "title": "RA.035 Heidi",
+  "date": "2006-11-27T00:00:42.000Z",
+  "fileSize": 78053096,
+  "duration": "01:21:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra035-heidi-cover.jpg",
+  "contentUrl": "/podcast/36",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra035/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:771"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Heidi is one of the newest artists signed to electrohouse output Get Physical, home to Booka Shade, M.A.N.D.Y and DJ T. This summer she released her first 12”, 'Vejer', and mixed the first volume of the label's new compilation series ‘Monza Club Ibiza’.\n\nIt's no big secret why Heidi's box is always well stocked. During the week she works at London record shop Phonica, which she set up three years ago with two friends and has quickly become of one of Europe's best places to shop for vinyl.\n\nHeidi spins regularly at top venues such as Fabric and the Panoramabar in Berlin. Recently her phone's been ringing off the hook with calls to play in Rotterdam, Athens and even as far afield as Moscow, where her RA podcast was recorded. You can catch her in Mexico this New Year's Eve with Michael Mayer. \n\nFrom deep house (Darkmountaingroup) to dubtronica (Deepchild) to big room techno (Martin Buttrich), Heidi shows her taste for mixing the old with the new on a mix from a recent set recorded at the Propaganda club in Moscow. Listen carefully and you can hear those crazy Russians cheering in the background.\n\nRA chatted to Heidi about the mix...\n\n<b>What have you been working on recently?</b>\n\nI've been DJing a lot recently and I haven't had time to start any new projects. Laundry is a priority at the moment.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was recorded live at the Propaganda Club in Moskow at the end of October. It's a little over an hour taken from a three and half hour set. There are a few messy bits in it but I blame the vodka. I'm only human, and it's true what they say about Russians.\n\n<b>What are you working on next?</b>\n\nMy next project is an exclusive track for the Get Physical five-year anniversary compilation.\n",
+    "blurb": "This week's podcast is a club mix from Heidi, the latest signing to Get Physical."
+  }
+}

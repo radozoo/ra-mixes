@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "475",
+  "url": "https://ra.co/podcast/475",
+  "id": "475",
+  "__typename": "Podcast",
+  "title": "RA.475 Blanck Mass",
+  "date": "2015-07-06T00:00:37.000Z",
+  "fileSize": 231641988,
+  "duration": "01:36:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra475-blanck-mass-cvr.jpg",
+  "contentUrl": "/podcast/475",
+  "tracklist": "Marie Osmond - Paper Roses\nElaine Radigue - Triptych pt. 1\nRalph Vaughan Williams - Fantasia On A Theme\nThe Occult Oriented Crime - Worship Me In The Sanctuary Of Transcendence\nJacob Kirkegaard & Elsie Marie Pade - Symphonie Magnetophonique\nSatomi Taniyama - Simulations Of A Garbage Truck\nTangerine Dream - Love On A Real Train\nLichens - Kopernik Trip Note\nPieter Nooten & Michael Brook - Searching\nLeyland Kirby - They Are All Dead, There Are No Skip At All\nBeyond The Black Rainbow OST - Sinoia Caves 'Night Mode'\nMoin - Elsie\nFrancesco Clemente - Flight Through The Resonant Fog\nKlaus Doldinger - 'Das Boot' Theme\nAndrea Belfi - Roteano\nHawaiian Orchestra - White Birds\nLee Moses - Bad girl\nTonto's Expanding Head Band - Jetsex\nMarcello Giombini - Titoli (Main Titles)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra475/",
+  "keywords": "Benjamin John Power, Fuck Buttons, Tarot Sport, Surf Solar, Sundowner, Dumb Flesh, soundtrack, cinematic, ambient",
+  "artist": {
+    "id": "56888",
+    "__typename": "Artist",
+    "name": "Blanck Mass"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Blanck Mass is a side project of Benjamin John Power, a UK artist who's best known as one half of Fuck Buttons, alongside Andrew Hung. The group released their first record, <i>Street Horrrsing</i>, in 2008, and took up a curious position: they were a noise band who made strangely accessible music. This quality developed further on their next album, <a href=\"/review-view.aspx?id=6824\"><i>Tarot Sport</i></a>, where for every shriek of a guitar there was an enveloping synth line or an arresting melody waiting to ensnare you. The album's latent appeal was fully realised when the director Danny Boyle used two of its tracks—\"Surf Solar\" and \"Olympians\"—as part of the opening ceremony for the 2012 Olympic Games in London. The track's soaring leads and dramatic chord progressions matched the occasion's epic sense of scale. While the Union Jack flag was raised, the London Symphony Orchestra played a cover of \"Sundowner,\" a track from the first self-titled Blanck Mass <a href=\"/review-view.aspx?id=9666\">record</a>. That album focused on powerful, cinematic ambient, but when Power returned as Blanck Mass earlier this year, things had changed. The melodies were still meteoric on <a href=\"/review-view.aspx?id=16864\"><i>Dumb Flesh</i></a>, but they came backed by massive drums and twisted voice samples. It was a record that would never achieve mainstream success, but Power's flair for hooks had again bubbled to the surface.  \n\nPower recently curated a \"re-score\" of <i>The Strange Colour Of Your Body's Tears</i>, a 2013 horror film from Belgium, which feels fitting in light of his RA podcast, which has the same sense of narrative you'd expect from an original soundtrack.  \n\n\n<b>What have you been up to recently?</b>\n\nI just a few days ago got home from London as I was performing live with Boredoms at the Barbican on 27th June as a cymbal leader in their 88-cymbal-players piece. It was a good, solid few days practising with 13 other cymbal leaders before the other players joined us. It was a really positive experience and I'm glad I participated. \n\n<b>How and where was the mix recorded?</b>\n\nThe mix was recorded at my home studio here in Edinburgh. I used Ableton.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nThe majority of tracks in the mix are skeletal, unadorned and haunting. I wanted to amplify these stark elements within a new context, creating a new story. As with much of my work, this is an exercise in narrative. The flow is pretty surreal. \n\n<b>Where does Blanck Mass stand in relation to your work as part of Fuck Buttons?</b> \n\nFuck Buttons is how the relationship between Andy and myself manifests itself into tangible art, as opposed to what each player says as an individual. Therefore it stands to reason that we both have to be present from the very beginning of a Fuck Buttons writing session for the outcome to be a Fuck Buttons track. Anything I do on my own is Blanck Mass. \n\n<b>You said <i>Dumb Flesh</i> was \"a comment on the flaws of the human form in its current evolutionary state.\" Does that come from something of a misanthropic viewpoint?</b> \n\nTo an extent, but it's more a comment of the hopelessness of our genetic heritage. The last thing we can do is turn to our humanity to counteract the frailties our bodies have arrived at. \n\n<b>What are you up to next?</b> \n\nWriting. Playing live shows. Trying to fix my house up. I'm pretty content with my lot.   \n\n\n",
+    "blurb": "A sonic odyssey from one half of Fuck Buttons. \r\n"
+  }
+}

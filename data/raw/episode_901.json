@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "901",
+  "url": "https://ra.co/podcast/901",
+  "id": "901",
+  "__typename": "Podcast",
+  "title": "RA.901 Clarisa Kimskii",
+  "date": "2023-09-10T22:00:35.000Z",
+  "fileSize": 158060595,
+  "duration": "01:05:39",
+  "imageUrl": "https://static.ra.co/images/podcast/ra901-clarisakimskii-cvr.jpg",
+  "contentUrl": "/podcast/901",
+  "tracklist": "Fred Mann - What A Pity\nDekeyden - Clandestine Writings\nEinoxÂ - Meta\nFase Bipolar - Stellar Sorrow\nLewis FautziÂ - CovalentÂ Bond\nVielsÂ - Distorted Realities\nTrinidad ShevronÂ - Torches\nDistant Echoes - Sinistroro\nOscar Mulero - Pura No Forma\nAlvinho L Noise - Lamento\nYuka - Long Way\nAugusto Taito - Amazon Pearls\nLidvall - Bald Wisdom\nIvana & Ryogo Yamamori - Sustained Supersonic\nWilliam AristÂ - Accelerate V\nFabrizio Lapiana - Collective Chaos (Neel & Laertes Remix)\nDEAS - Nano Sound\nDaito - Where's My Cattle feat. Emag Emuser\nLewis Fautzi & Nuklear D - Acid Is Back\nQuelza - Green Roads\nBailey Ibbs - Caelid\nBlack Mirror Park - The Great Filter\nConceptual (IT) - Don't Forget Your Role",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra901-clarisa-kimskii/",
+  "keywords": "",
+  "artist": {
+    "id": "38666",
+    "__typename": "Artist",
+    "name": "Clarisa Kimskii"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "New York party Merge is often described as a queer techno extravaganza. Over the past two years, it's built a loyal community from the ground up while integrating everything from high-energy trance to disorienting acid into its rave repertoire. Resident Clarisa Kimskii has played a defining role in the collective's growth, largely thanks to the ultra-kinetic and rhythmic pace of her DJ sets.\n\nTime and time again, the Washington DC native has demonstrated her ability to lock in dancers through captivating and hypnotic selections across various sub-styles of techno. There are tribal, witchy cuts. Jacking, Detroit-style funk. Psychedelic, DJ Nobu-style grooves and austere sounds that nod to Sandwell District. It's the kind of range that explains why Kimskii has been booked worldwide many years over, and more and more as of late. Her deep understanding of techno's myriad flavours come from two decades of industry experience as well as esoteric productions on labels like Mysteries Of The Deep and L.A.G. (her own short-lived, underrated, essential techno platform).\n\nKimskii's long time in the techno scene, her experience and her expertise is expressed in full form on her <i>RA Podcast</i>. Moving from industrial grit to gentle transcendence to heady acid, the mix feels free, fluid but also remarkably precise, just like Kimskii herself.\n\n<b>What have you been up to recently?</b>\n\nI moved back to New York just about a year ago after having been away since 2013. It's been a whirlwind ever since. I've been getting reacclimated to the city in my late 40s, all while transitioning and getting to know myself better. I've been growing as a DJ through my residency with Merge, all while easing into a busier touring schedule and all that comes with it (<i>i.e.</i> irregular sleep). \n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nThe mix was recorded using two Pioneer XDJ-1000MK2s and an Allen & Heath XONE:92 mixer recorded into a Zoom HN4 recorder. My DJ setup is the front part of what's to become of my studio space. There's a train track literally outside the window. The train entering and leaving creates a rumbling bass like effect for me to contend with when I play. I've found it to be quite enjoyable and challenging. The concept behind this mix was to play as close as I do when I play live, meaning sound-wise, I'm generally weaving in and out of different subgenres of techno. I also have a tendency to do long and sometimes aggressive mixing. \n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nI'd have to say just treating the Earth better. If you litter, please don't. If you dump dangerous chemicals into any body of water, please stop it. It's as if some people hate our planet. If you disrespect Mother Earth, you disrespect yourself, period.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nThe one party that's had a huge impact on me as an artist in so many ways would have to be The Bunker New York. I saw some of my all-time favorite artists (Silent Servant, Surgeon, Marcel Dettmann, Marcellus Pittmann and Claude Young) there for the first time, particularly when it was at Public Assembly.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'm really beside myself that I'm playing Sustain-Release this year! There are also some dates forthcoming that I'm pinching myself about. I'm also excited to get back into the studio and record new music. ",
+    "blurb": "Hypnotic techno from a New York scene mainstay."
+  }
+}

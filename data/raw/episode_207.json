@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "207",
+  "url": "https://ra.co/podcast/207",
+  "id": "207",
+  "__typename": "Podcast",
+  "title": "RA.207 Rub N Tug",
+  "date": "2010-05-17T00:00:58.000Z",
+  "fileSize": 96055387,
+  "duration": "01:20:01",
+  "imageUrl": "https://static.ra.co/images/podcast/ra207-rub-n-tug-cover.jpg",
+  "contentUrl": "/podcast/207",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra207/",
+  "keywords": "Rub n Tug, Eric Duncan, Thomas Bullock, Map of Africa, Whatever We Want Records, Still Going, NYC, House",
+  "artist": {
+    "id": "949",
+    "__typename": "Artist",
+    "name": "Rub N Tug"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Thomas Bullock and <a href=\"/dj/ericduncan\">Eric Duncan</a> may have used their production skills to reinterpret heavyweight acts such as Zero 7, LCD Soundsystem, Roxy Music and Coldplay, but there's no questioning their underground disco credentials. Originally meeting via a mutual acquaintance who worked for the Sarcastic clothing and music company responsible for issuing Harvey's seminal <i>Sarcastic Disco</i> mix, the duo became synonymous with wild disco parties in NYC before gathering an international reputation with their party-starting <i>Campfire</i> mix for Eskimo in '05.\n\nDuncan and Bullock's DJing calendar has been jam-packed ever since, and they've both been keeping busy with an array of other projects: Bullock teaming up with both Harvey and Rene Perez for the psychedelic rock of the Map Of Africa and Bobby Marie outfits, and Duncan has gone solo as Dr. Dunks and worked alongside Liv Spencer as Still Going. Eric will also be performing alongside Isolee, Nicholas Jaar, Guillaume & The Coutu Dumonts and jozif at our <a href=\"/event.aspx?165916\">RA By Night</a> event during next month's Sonar festival in Barcelona, so we thought that it was the ideal time to enlist the pair to do us a podcast. We caught up with them by e-mail to ask about the mix, their current plans and the prospect of some original Rub N Tug tracks.\n\n<b>What have you been working on recently?</b>\n\nWe are doing the final mixdown of our full-length album.\n\n<b>Where and how was the mix recorded?</b>\n\nOver at Eric's on two turntables, a mixer and one CDJ. Since this was a last minute thing, time was tight, so we just pressed record and did it in one go. We took a picture of the set-up...\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nKinda treated it like a gig, I guess. Just some fresh stuff we're playing at the moment, tunes that were already in our bags.\n\n<b>You earned quite a rep with your NYC loft parties. Do you still throw your own raves?</b>\n\nYeah, those parties are fun. We haven't done it in a while. It's getting tougher to find that special venue where anything goes as long as you can go... So I guess the answer is yes, we still do the parties. Just not as often as we used to.\n\n<b>You're playing a lot of dates in Europe this summer. Have you been tempted to set up a more permanent base outside the states?</b>\n\nWe love New York. Don't think we will be leaving here any time soon. Flying back and forth is not so bad. \n \n<b>With so many other projects you're both involved in, do you find it hard to find time for Rub n Tug?</b>\n\nNot really. We work when we need to work most of the time.\n \n<b>What are you up to next?</b>\n\nRub N Tug original 12-inch singles, followed by the album.",
+    "blurb": "The NYC disco dons get housey on this week's RA podcast."
+  }
+}

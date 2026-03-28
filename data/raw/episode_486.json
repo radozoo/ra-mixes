@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "486",
+  "url": "https://ra.co/podcast/486",
+  "id": "486",
+  "__typename": "Podcast",
+  "title": "RA.486 DJ Richard",
+  "date": "2015-09-21T00:00:35.000Z",
+  "fileSize": 177249527,
+  "duration": "01:13:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra486-dj-richard-cvr.jpg",
+  "contentUrl": "/podcast/486",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra486/",
+  "keywords": "White Material, Young Male, RISD, Noise, techno, avant garde, ",
+  "artist": {
+    "id": "38935",
+    "__typename": "Artist",
+    "name": "DJ Richard"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "In 2012, DJ Richard founded White Material with Quinn Taylor, AKA Young Male, a friend and former classmate at Rhode Island School Of Design. By their own admission, they were a little wet behind the ears. \"The only thing I knew about selling music was selling cassettes at a noise show,\" Richard <a href=\"/feature.aspx?1843\">told us a couple years ago</a>. That didn't slow them down much—their tracks were strange and fresh enough to make their label an immediate hit, landing a distribution deal with Hard Wax and quickly selling out their first releases. Things have moved fast since then. Richard relocated to Berlin, got a job at Record Loft and honed his craft as a DJ and producer. This month he released <a href=\"/review-view.aspx?id=17595\"><i>Grind</i></a>, his excellent debut album on Dial Records.\n\nOn paper it might seem like Richard's changed a lot these past few years, moving as he has from the basement shows of Providence to the nightclubs of Europe. But his history with America's scrappy noise underground still informs his music, lending a dark, arthouse spirit to even his most clubby productions. RA.486 underlines this fact, stringing 74 minutes of avant-garde selections into what sounds like a transmission from the dark corners of the subconscious. \n\n\n<b>What have you been up to recently?</b>\n\nBack in Berlin after an extended visit to Rhode Island. Trying to keep my head above water and work on some new material.\n \n<b>How and where was the mix recorded?</b>\n\nSome records, some CDs, somewhere in Treptow… Thanks to FLEXXSEAL HQ. \n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI focused on records that I listen to mostly at home. A mix for listening to alone.\n\n<b>You've lived in Berlin for a few years now. Do you feel that's reshaped your taste in music or your style as a DJ /producer at all?</b>\n\nI think working at the Record Loft had the biggest impact. It was a way for me to dive into 1980s / early 1990s Dutch / Belgian / UK records that didn't quite make it to The States.\n \n<b>Tell us a bit about your new album <i>Grind</i>. When and where did you record it, and what was that experience like overall?</b>\n\nThe album was recorded last fall in Berlin, after an original version was lost to a burglary. I did 90% of the tracks within a three-month window, which was much faster than I had worked in the past. Most of the tracks are live takes. I would like to do more LPs in the future. \n\n<b>What are you up to next?</b>\n\nSome remixes, some 12-inches and maybe moving to the woods. ",
+    "blurb": "Murky ambience from a dance music outsider.\r\n"
+  }
+}

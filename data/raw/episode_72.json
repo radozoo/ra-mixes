@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "72",
+  "url": "https://ra.co/podcast/72",
+  "id": "72",
+  "__typename": "Podcast",
+  "title": "RA.072 Deadbeat",
+  "date": "2007-09-30T14:36:20.000Z",
+  "fileSize": 85550990,
+  "duration": "01:11:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra072-deadbeat-cover.jpg",
+  "contentUrl": "/podcast/72",
+  "tracklist": "01. Fixed Elections (Dancehall mix) - unreleased\n02. Refund Me (featuring Bubbz) - <a href=\"record-label.aspx?id=886\"></a><a href=\"record-label.aspx?id=886\">~Scape</a>\n03. Where Has My Love Gone - <a href=\"record-label.aspx?id=886\">~Scape</a>\n04. Bad Man Mash Up - unreleased\n05. Deep in Country (featuring Moral Undulations) - <a href=\"record-label.aspx?id=886\">~Scape</a>\n06. Gimme a Little Dub - <a href=\"record-label.aspx?id=886\">~Scape</a>\n07. Gimme a Little Slack (featuring Jah Cutta) - <a href=\"record-label.aspx?id=886\">~Scape</a>\n08. Turbulence - <a href=\"record-label.aspx?id=886\">~Scape</a>\n09. Texas Tea - <a href=\"record-label.aspx?id=886\">~Scape</a>\n10. One One Five - <a href=\"record-label.aspx?id=886\">~Scape</a>\n11. Plumbicon remix - Ml/i\n12. Mecca Drum Jack - <a href=\"record-label.aspx?id=827\">Wagon Repair</a>\n13. To Berlin With Love (Dancehall mix) - unreleased\n14. Sylvenstein Remix - <a href=\"record-label.aspx?id=886\">~Scape</a>\n15. Claudette (featuring Gregory Issacs) - Shockout\n16. Look How She Hot (featuring Daddy Freddy) - unreleased\n",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra072/",
+  "keywords": "",
+  "artist": {
+    "id": "979",
+    "__typename": "Artist",
+    "name": "Deadbeat"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Deadbeat is the alter ego of Scott Monteith, who has been releasing his own special blend of dub-fueled electronics since 2000. The son of a Reiki therapist and a church minister, Scott's first musical experience was singing in a church choir, a direction which was soon trumped by his headlong plunge into the Toronto rave scene as a teenager, where he experienced \"a musical awakening during a DJ set around '94 or '95 made up almost entirely of Basic Channel and Maurizio records\". The second big  influence on Deadbeat came at university, when a techno-hating roommate of Scott's, in an effort to stop the deluge of drum'n'bass and techno thumping from the next room, took it upon himself to introduce him to classic roots, ska, and dub. Deadbeat has been obsessed with it ever since. \n\nBut besides Germany and Jamaica, there's a third strong ingredient in Deadbeat's music: expert sound design.  A strong advocate of computer-based production (\"I don't use any hardware other than MIDI controllers and I don't think I ever will,\" he says), Scott is solidly grounded in the boffin side of the business: he even used to work for AAS putting together the Tassman softsynth.\n\nThe result is a unique take on dub techno which has appeared on labels such as ~scape, Cynosure and Revolver as well as live out in the clubs across the world. In fact, despite his studio expertise, perhaps in the club is where Deadbeat is most in his element: His live laptop act is one of the most infectious around. But don't take out word for it - check out his RA podcast: 71 minutes of exclusive Deadbeat dub, techno and dancehall which presses all the right buttons. \n\nWe caught up with Scott when he handed over the mix:\n\n<b>What have you been working on recently?</b>\nI released my last album, <a href=\"review-view.aspx?id=4598\">Journeyman's Annual</a>, on Scape in June and have toured a lot over the summer in support of it. I've also officially relocated to Berlin as of June so naturally I've spent a fair amount of time in the last months just setting up house and adjusting to the new surroundings.\n\n<b>Where was the mix recorded?</b>\nAt the studio I share with Mike Shannon here in Berlin.\n\n<b>What are you up to next?</b>\nJust finished work on a record for Wagon Repair which should  appear at some point in the coming months. Ive been bitten by the techno bug again as a result of the move I think, which is nice as 4 to floor tracks I've written over the last couple of years that I've been really happy with have been few and far between. I expect it's going to be a very productive winter!",
+    "blurb": "This week's podcast is an exclusive live set from Canadian dub techno producer Deadbeat."
+  }
+}

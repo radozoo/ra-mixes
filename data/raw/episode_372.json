@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "372",
+  "url": "https://ra.co/podcast/372",
+  "id": "372",
+  "__typename": "Podcast",
+  "title": "RA.372 Akkord",
+  "date": "2013-07-15T00:00:59.000Z",
+  "fileSize": 68269770,
+  "duration": "00:56:40",
+  "imageUrl": "https://static.ra.co/images/podcast/ra372-akkord-cvr.jpg",
+  "contentUrl": "/podcast/372",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra372/",
+  "keywords": "Akkord, Synkro, Indigo, Joe McBride, Liam Blackburn, Houndstooth, bass, techno, IDM",
+  "artist": {
+    "id": "39372",
+    "__typename": "Artist",
+    "name": "Akkord"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "It's been revealed that the Akkord project is headed up by Synkro & Indigo, which, if you're familiar with their music, makes total sense. Both solo and in tandem, the two producers have spent the past five years turning out intelligently crafted bass music in a variety of vibrant shades. The Akkord name has similarly grown to be associated with complex rhythms and imposing bass weight. The journey began last year with a couple of limited-run vinyl releases (read Andrew Ryce's review of <a href=\"/review-view.aspx?id=10648\"><i>AKKORD001</i></a> here) and continued with <a href=\"/review-view.aspx?id=12865\"><i>Navigate</i></a>, a standout four-track EP for Houndstooth, the high-flying label venture from London venue fabric. That release's title track is a good place to get a handle on Akkord: the mood is cold but engaging, and its clever drum programming puts it at an intersection between techno, bass music and IDM. \n\nAs explained below, an Akkord album is the works for Houndstooth, but ahead of that release we get RA.372, a near hour-long exploration of the duo's thrilling vision of club music. \n\n<b>What have you been up to recently?</b>\n \nFinishing tracks for our first album.\n \n<b>How and where was the mix recorded?</b>\n \nThe mix was recorded live in Ableton using several MIDI controllers. \n \n<b>Can you tell us about the idea behind the mix?</b>\n\nThis mix is a variation of tracks that have influenced our sound and more recent productions from friends.\n \n<b>You started out as a collective but are now down to two members. Could you outline the project's story up to this point?</b>\n \nFor logistical reasons there has only been two members performing as Akkord, however there are more than two people working on the production in some of the Akkord tracks. So far there has been no production credits on our releases, but this will be different on the album and later down the line will be incorporated into the live set.\n\n<b>Why did you chose to launch enigmatically?</b>\n\nSome of the members have worked on collaborative material previously under different names and didn't want this work to be associated with the Akkord project.\n \n<b>A brief Akkord bio mentions a passion for \"mathematics and sacred geometry.\" Could you explain?</b>\n\nEvery musician and music lover has an interest in mathematics and geometry whether they know this or not. All music incorporates math, but this is something that is usually overlooked. For example, the golden ratio is found everywhere in nature, and one of the most used drum breaks in electronic music, the amen break (taken from The Winstons song \"Amen Brother\"), holds the exact mathematical proportions of the golden ratio. \n\nRhythmical structure is very important to us and this is where a lot of the math is in most music. The way we build tracks is quite simple, but complex rhythms allow us to do more with fewer elements. We would like to encourage more awareness into how patterns in nature and sound frequencies work together to create everything around us, not just music.\n \n<b>What are you up to next?</b>\n \nFinishing the live set and writing more music.",
+    "blurb": "Math and music. "
+  }
+}

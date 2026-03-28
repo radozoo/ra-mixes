@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "933",
+  "url": "https://ra.co/podcast/933",
+  "id": "933",
+  "__typename": "Podcast",
+  "title": "RA.933 KI/KI",
+  "date": "2024-04-21T22:00:22.000Z",
+  "fileSize": 230295826,
+  "duration": "01:35:57",
+  "imageUrl": "https://static.ra.co/images/podcast/ra933-ki.ki-cvr.jpg",
+  "contentUrl": "/podcast/933",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra933-kiki/",
+  "keywords": "",
+  "artist": {
+    "id": "84447",
+    "__typename": "Artist",
+    "name": "KI/KI"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "By anyone's standards, KI/KI has had a meteoric rise. She started DJing at queer party SPIELRAUM in Amsterdam in 2018, and by now she's one of Europe's most-talked about DJs. She blends modern strands of techno with trance and acid in a way that feels all her own, veering away from the sugar highs of other DJs or the clobbering kick drums of so much fast dance music. Her style is aerodynamic and sleek, not bludgeoning.\n\nIn addition to her DJ career, KI/KI runs the label slash, which has put out music from the likes of Alpha Tracks, Peachlyfe and Newa, artists who share her canny blend of techno and trance aesthetics and sneaky pop sensibilities. Acid is another big love, as shown by her <a href=\"https://www.youtube.com/watch?v=VfcEAfmNVGM\" target=\"_blank\">5HRS OF ACID</a> concept. The decades-old sound has become a key part of her style and appeal, as you'll hear on her <i>RA</i> Podcast. It's a barreling 90 minutes through techno and trance with trap and dubstep accents, breathless but perfectly paced. <i>– Andrew Ryce</i>\n\n<b>What have you been up to recently?</b>\n\nThere's a lot of exciting stuff coming up. I'm currently working on new releases, there will be new music coming out on slash in the near future. I'm currently touring while I also keep on working on my new live show. More details about that soon!\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nAt home in my living room in Amsterdam.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nThis month, CLUB RAUM opened in Amsterdam after a long time. I'm a resident at SPIELRAUM, this club is very close to my heart and I think the Amsterdam queer scene really needs this club and I'm proud I can be part of this.\n\n<b>What are you looking forward to in the near future?</b>\n\nI'll be playing several exciting live shows this summer, releasing music and I'm really looking forward to the start of the summer.\n\n",
+    "blurb": "Banging trance and techno from a modern star."
+  }
+}

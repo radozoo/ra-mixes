@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "990",
+  "url": "https://ra.co/podcast/990",
+  "id": "990",
+  "__typename": "Podcast",
+  "title": "RA.990 bastiengoat",
+  "date": "2025-05-25T22:00:42.000Z",
+  "fileSize": 0,
+  "duration": "01:00:40",
+  "imageUrl": "https://static.ra.co/images/podcast/podcast-full-formats-990-bastiengoat1x1.jpg",
+  "contentUrl": "/podcast/990",
+  "tracklist": "Kaval - Yaji's Attack \nbastiengoat - lychee martini [Unreleased] \nToma Kami - Ritmo Actual\nUntold - Bones (Rockwell Remix)\nDJ POLO - Bloodhound\nMs Banks - Get Low (ZJ Edit)\nDehousy - Karuba\nbastiengoat - 2 da ground [Unreleased]\nKorma - Lacewing\nDJ Doomscroll - Doomscroll \nCarla Martinez - go (again)\nBastiengoat - The run up [Unreleased]\nP2P - Hot!\nTrustee - Tarantula \nRITCHRD - Shake (bastiengoat Remix)\nbastiengoat - Chair too big\nThast - Fuck U (Korma's Xssory Remix VIP)\nbastiengoat - Fretor\nbastiengoat - Xigaroni \nbastiengoat - Clown meat in the morning\nbastiengoat - Mylar \nbastiengoat - Beautiful Lover\nMary Droppinz - Pink Lambo (bastiengoat Remix)\nbastiengoat - Recursive \nbastiengoat - Imma Dog (Remix)\n",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-990-bastiengoat/",
+  "keywords": "",
+  "artist": {
+    "id": "114059",
+    "__typename": "Artist",
+    "name": "bastiengoat"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you've been in the club recently, chances are you've heard the work of Julian Edwards, AKA bastiengoat. Maybe it was the standout 2022 track \"Tell Me If You Like It,\" which blends jungle breaks with a slinky sample from Cassie's R&B anthem \"Me & U\" to create a 130 banger perfect for modern dance floors. The Oakland-based producer has become a go-to name for party cuts that <i>bounce</i>, favoured by the likes of <a target=\"_blank\" href=\"/features/4307\">Bianca Oblivion</a> and fellow Bay Area artist—and frequent back-to-back partner—<a target=\"_blank\" href=\"/features/4272\">Bored Lord</a>.\n\nBorn and raised in the Bay Area, Edwards is deeply connected to Oakland's underground rave scene. Reflecting on his early experiences, he explained how the region's unique blend of crowds—from \"raw hardcore sound to hyphy house parties\"—and legacy of DIY warehouse raves has always shaped his music. While gentrification in the region has limited opportunities to throw parties in those spaces, Edwards, as part of the label and collective NO BIAS, is carrying that torch for a new generation, pushing jungle, UK garage and all manner of US club variety while maintaining a strong DIY ethos. Since 2020, NO BIAS has been releasing everything from footwork, juke and Jersey club to dubstep, all while staying true to the Bay Area's punky, anti-establishment spirit. As dance music grows increasingly global and commercial, Edwards and co. offer a refreshing antidote. \n\nA prolific producer, Edwards is hard to pin down musically. He can apply his distinctive touch to virtually any genre. Take \"Slander,\" where he blends hardcore and electro with Jersey club. Or \"at em\" a collision of 2-step, bassline and furious breaks. At the core of his work is a transatlantic bass connection, much like fellow West Coast star Introspekt. Both have a serious knack for fusing intricate rhythms with the kind of deep, murky bass weight synonymous with so much UK dance music. \n\nFor RA.990, Edwards jumps between genres with flex and ease—one moment it's grime-like basslines evoking \"<a target=\"_blank\" href=\"/exchange/343\">Pulse X</a>,\" then aqueous, melancholic club, before twisting into fast and furious breaks. Rough, ready and rowdy, it's music that's equal parts technical showcase and peak-time firework display.\n\n<b>What have you been up to recently?</b> \n\nI've been very into real / acoustic percussion. Especially snare drums. I always love a freaky swing. \n\n<b>How and where was the mix recorded?</b>\n\nMy house on the computer. I'm in the middle of moving haha.\n\n<b>And can you tell us the idea behind it?</b>\n\nI tried to include a lot of original stuff that’s unreleased, new and old. Some are coming out soon. Also, some tracks I've been playing recently that I've found inspiring.\n\n<b>What are you looking forward to in the near future?</b>\n\nHoping to write some more music I'm proud of and maybe get some gigs in new places I haven't been to yet.\n\n<b> What's one social or political cause you want the world to pay more attention to?</b>\n\nPalestine and Stop cop city(s).\n\n<b>What's one club or party that had a major impact on you as an artist</b>\n\nMy friends and I used to have a warehouse called trash palace that was very formative for me and a lot of close friends. It was a very special time. ",
+    "blurb": "One hour of resolutely DIY club workouts, from the in-demand Oakland producer. "
+  }
+}

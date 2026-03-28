@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "295",
+  "url": "https://ra.co/podcast/295",
+  "id": "295",
+  "__typename": "Podcast",
+  "title": "RA.295 Jay Shepheard",
+  "date": "2012-01-23T00:01:04.000Z",
+  "fileSize": 75458092,
+  "duration": "01:02:50",
+  "imageUrl": "https://static.ra.co/images/podcast/ra295-Jay-Shepheard-cvr.jpg",
+  "contentUrl": "/podcast/295",
+  "tracklist": "Non Fiction - Obey You Aul - TBA\nDaniel Wang - Unhouse - Rushhour \nJay Shepheard & Matt Burton - Liberal Z (JS live version) - Retrofit  \nPhreek + 1 - Passion (DJ T remix) - Compost\nEamon Harkin - John Boy - Wurst CDR\nKaos Falco Ritmo (JS unofficial edit) - not released\nDave DK - Byway - Moodmusic \nMateo & Matos - Discocide - Glasgow Underground \nMondo - Work Me Baby (Roostracks mix) - Deeply Rooted House \nTrubi Trio - Universal Love (Teifschwarz remix) - Compost \nSugardaddy - Love Honey (funk mix) - Tirk\nThe Beloved - Sun Rising (JS unofficial edit) - not released \nNicholas - All Night Long (Gerds oldschool mix) - 4Lux \nJay Shepheard - Pipes N Sneakers (JS live version) - Compost\nSoundstream - Makin Love - Soundstream \nKaos - Bang The Box - K7",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra295/",
+  "keywords": "Jay Shepheard, Retrofit, Compost, house, disco ",
+  "artist": {
+    "id": "2946",
+    "__typename": "Artist",
+    "name": "Jay Shepheard"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "You don't win prizes for being dependable, but if such an award existed then Jay Shepheard would be a worthy nominee. The UK house producer has never scored a \"hit\" as such, instead amassing a considered discography since his debut release for Compost back in 2007. For much of his early recording career, the Munich label was his home base, putting out 12-inches like <i>Pipes N Sneakers</i>, which, contrary to our earlier statement, was something of a breakout track for him. Shepheard's path to this point has also been notable for his clarity of message: a palpable disco thread has run through his house productions for labels like Buzzin' Fly, Dirt Crew and Electric Minds. Or in other words, he's not one to ride trends. These days his low-key Retrofit imprint has been the primary outlet for his music. In its first six releases it's also given a leg-up to highly promising names like Matthew Burton and Tad Willey. \n\nShepheard has always favoured playing live at his club gigs but is also a dab hand behind the decks, which is what we get on RA.295. This is high grade house and disco that almost always has a smile on its face. \n\n<b>What have you been up to recently?</b>\n\nFiling my tax return. Fun, fun, fun! \n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded at my studio / flat in Hackney, London using Ableton. I worked out the tracklist and running order and then did it in two takes—a first draft and then a final.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThere's a few old favs of mine in here, some edits I've made for my DJing and some versions of my own tracks that have never been heard outside the clubs. All this mixed up with some new(ish) releases that I've been into lately. \n\n<b>How hard do you find it to survive on a house music producer's salary in London?</b> \n\nPeaks and troughs really, as with most freelance work. It can be a bit tough in London, what with the rents, but all in all it's fine—I certainly wouldn't swap making music for a bigger salary and a boring job! \n\n<b>How does your live set inform your productions and vice versa?</b> \n\nGenerally speaking my live set is made up of new ideas that later become finished tracks, some of which I release. It's a good way of testing out both the mix and arrangements to see what works best. Now and then I keep stuff only in the live set, though, and in the released tracks I often keep some ideas just for me to play out.\n\n<b>What are you up to next?</b>  \n\nI've had a few weeks of down time after a fairly hectic end to 2011 so it's pretty much back to the grind as of now. Got gigs coming up soon so will be travelling about in the EU quite a bit, also working on the label as the next Retrofit (7) is out end of January. In the studio I'm working on some new originals and finishing off an album project that I've had on the boil for a while.",
+    "blurb": "Timeless house and disco. "
+  }
+}

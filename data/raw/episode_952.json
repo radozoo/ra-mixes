@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "952",
+  "url": "https://ra.co/podcast/952",
+  "id": "952",
+  "__typename": "Podcast",
+  "title": "RA.952 Two Shell",
+  "date": "2024-09-01T21:47:12.000Z",
+  "fileSize": 0,
+  "duration": "01:27:57",
+  "imageUrl": "https://static.ra.co/images/podcast/ra.952twoshell1440x1440.jpg",
+  "contentUrl": "/podcast/952",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra952-two-shell/",
+  "keywords": "",
+  "artist": {
+    "id": "95030",
+    "__typename": "Artist",
+    "name": "Two Shell"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "We've been angling for an <i>RA Podcast</i> from Two Shell for a while. The London duo started out as low-key producers making throwback jams that <a href=\"https://ra.co/reviews/25009\" target=\"_blank\">piqued our interest</a> at the turn of the decade, but once they reinvented themselves as gleeful hackers rummaging around the dance music mainframe, the clamour became unstoppable. Bicep/Overmono for the heads, indeed.\n\nNow that we've finally bagged a mix from clubland's premier mischief-makers, it still poses more questions than it answers: Was it pre-recorded? What's the deal with that AI voice guiding the set along? How can we be sure it was even them? Hang on: is \"even them\" even them??\n\nWhat we <i>can</i> tell you is that the duo floored <i>RA</i>'s stage at <a href=\"https://ra.co/features/4321\" target=\"_blank\">Horst Arts & Music 2024</a>, which is where RA.952 was recorded. Few genres were left untarnished as they veered off-piste on a thrill-seeking mission toward breaking the 170+ BPM speed barrier. No tracklist or Q&A provided, but honestly, what did you expect? The only thing we can be absolutely, positively, 100 percent sure about when it comes to Two Shell is that they do things their own way. <i>– Gabriel Szatan</i>",
+    "blurb": "Non-stop shellers, live—we think—from Horst."
+  }
+}

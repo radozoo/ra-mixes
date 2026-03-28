@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "463",
+  "url": "https://ra.co/podcast/463",
+  "id": "463",
+  "__typename": "Podcast",
+  "title": "RA.463 Nick Hoppner",
+  "date": "2015-04-13T00:00:45.000Z",
+  "fileSize": 165640035,
+  "duration": "01:08:48",
+  "imageUrl": "https://static.ra.co/images/podcast/ra463-nick-hoppner-cvr.jpg",
+  "contentUrl": "/podcast/463",
+  "tracklist": "Earthen Sea - Beat 13 - Lovers Rock\nLawrence - Chez Dupont - Dial\nMadder Modes - Myth Of The Muses - Millions Of Moments\nTominori Hosoya - Chihiro - Soirée Records International\nX - X B1 - No label - RHD-X\nDie Roh - Xm 11 - Black Venison\nDJ Qu - SS1 - secretsundaze\nFantastic Man - Donkey Punch - Fine Choice Records\nTambien & Tiago - A1 - Public Possession/Interzona\nTotal Science - Sweet Potato - Skindeep\nKeith Worthy - Leftfield - Aesthetic Audio\nDJ Sprinkles + Mark Fell - Insight - Comatonse Recordings\nScott Grooves - Movin' On - Modified Suede Recordings\nNeeds - Piano Groove - Needs Music",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra463/",
+  "keywords": "house, folk, ostgut, bergain, panorama bar, My My, ",
+  "artist": {
+    "id": "2033",
+    "__typename": "Artist",
+    "name": "Nick Höppner"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Nick Höppner has a lot of obvious credentials—for starters, he's a Panorama Bar resident and celebrated producer on the club's label, Ostgut Ton, which he managed for years. But the thing that really makes him extraordinary is harder to define. For lack of a better term, it has to do with sincerity. As a DJ and a producer, Höppner's sound is defined by an emotional honesty that's rare in dance music. You can hear it in the soaring, bittersweet melodies of his new album, <i>Folk</i>. And you can sense it on the dance floor when he pulls out something like, say, Underworld's \"Two Months Off\"—this is a man expressing himself fully and unabashedly through music. And that's what you get on RA.463, a mix Höppner says was made to showcase his club DJ style as accurately as possible. \n\n\n<b>How and where was the mix recorded?</b>\n\nI recorded it on an afternoon in early March at Berghain on the Rane MP-2016 rotary mixer, two Technics SL-1210MK2s and one Pioneer CDJ-2000 Nexus.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nMost of my podcasts in the past have been made with Ableton. I really liked the idea of constructing mixes in ways not possible by conventional DJing techniques. This time around I felt differently and went the opposite way as I wanted this to represent my DJing as closely as possible. So the plan was to record this mix in one take, no postproduction—100% live. I also wanted to use vinyl only with the exception of the DJ Qu and Lawrence tracks, which hadn't been released when I recorded the mix. In terms of my selection I wanted it to both represent my current sets and fairly recent releases. This is why I almost only picked records from the bag I was traveling with at that point in time. I mostly went for some of the deeper, more house leaning 12-inches in there, as well as two personal classics (\"Total Science\" and \"Needs\"). \n\n<b><i>Folk</i> is your first solo album. What was the process like for you? How long did it take? What was the hardest part?</b>\n\nI'm not sure how long it actually took to record the album. I guess five to six months. I took some time off at the beginning of 2014 to write it. I felt I was really off to a good start, but six weeks in my dad went into hospital for planned surgery that went wrong. He spent eight weeks in intensive care and eventually passed away in early April. This all happened in Hamburg, so I was going back and forth all the time and I didn't really have time to go to the studio anymore, not to mention I couldn't focus on production anyway. Sometime in early summer I felt ready to go back to the studio and a few new tracks happened really quickly that helped me a lot to eventually form a proper idea of where I wanted to go with the album. \n\nThe hardest part was finishing each and every track. I realized it is fairly easy to have ideas and to start tracks, but actually finishing them—all that dull work that simply has to be done—is really tough. I also always have a hard time mixing my tracks down, it's not really my strong suit.\n\n<b>What are you up to next?</b>\n\nI've just collected remixes with Ostgut Ton for my album from The Black Madonna, Aardvark, Liit and Herva, hopefully coming out in the late summer. I'm also touring a lot. Currently I'm never home for longer than three or four days. The little time I have is spent on family, studio and preparation of my DJ sets. ",
+    "blurb": "Super-smooth house from the Ostgut Ton mainstay.\r\n"
+  }
+}

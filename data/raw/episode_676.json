@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "676",
+  "url": "https://ra.co/podcast/676",
+  "id": "676",
+  "__typename": "Podcast",
+  "title": "RA.676 Croatian Amor",
+  "date": "2019-05-13T00:00:32.000Z",
+  "fileSize": 143686192,
+  "duration": "00:59:46",
+  "imageUrl": "https://static.ra.co/images/podcast/ra676-croatian-amor-cvr.jpg",
+  "contentUrl": "/podcast/676",
+  "tracklist": "Croatian Amor - Towards Isa \nMini Esco - Wonderboy \nFlower Salesman In Athens\nKamil Dossar - unreleased\nFennesz - Liminal \nPelle Gudmundsen Holmgren - Song \nWallmö - Unreleased \nKYO & Jeuru - Unreleased \nRaime - See Through Me I Dare You \nSmerz - Sure \nHorn Rehearsal In Malaga \nChristoph De Babalon - Luxury of Sadness \nCoil - Babylero \nSusumu Hirasawa - Berserk OST \nSimon Fischer Turner - Into Bush\nEdward Artemyev & Vyacheslav Ovchinnikov - Part XII. Bach (Rem. 2)\nVarg & Coucou Chloe - I Get Lit \nUnreleased \nAstrid Sonne - Unreleased \nLoke Rahbek - A Word A Day\nKhalilH2OP - Unreleased\nCroatian Amor - Like Man \noqbqbo - All This Waiting \nOlymphia - No Fear \nCTM & Little Artist - Poser \n",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/619829658",
+  "keywords": "Loke Rahbek, Posh Isolation, Damien Dubrovnik, Varg, Puce Mary, Kisloty",
+  "artist": {
+    "id": "71166",
+    "__typename": "Artist",
+    "name": "Croatian Amor"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Loke Rahbek's fingerprints are all over contemporary European electronic music. Ten years ago in Copenhagen, he cofounded Posh Isolation, a label and collective that broke out from the noise music sphere and now sits at the centre of Scandinavian ambient, experimental and techno. As part of Lust For Youth, Rahbek made stirring synth pop; as part of Damien Dubrovnik, it was screeching, ear-bleeding noise. That's in addition to other projects where he's collaborated with the likes of Varg and Puce Mary. But it's under the Croatian Amor name that Rahbek has created his most immersive musical world, collapsing ambient, noise, experimental and spoken-word into something eerily beautiful and unsettling. That vision coalesced into the <i>Isa</i> LP, released earlier this year, where \"real beauty and nightmarish visions are constant companions,\" according to <a href=\"/reviews/23382\">our review</a>.\n\n\"I think I never wanted Croatian Amor to be a person and I still do not really,\" Rahbek said in a 2018 interview. \"If it has to be a person then I think it should be several different [people], possibly at the same time.\" Ahead of his live performance at our upcoming <a href=\"/news/43608\">Community Connections</a> showcase in Paris, Rahbek shows off the many sides of Croatian Amor through an expansive collage-style set. Silence and space swallow everything in in between whisper-quiet songs and explosions of colour, as 4/4 and trap rhythms appear then dissolve.\n\nAbstract and ambient tracks from the likes of Fennesz, Coil and Simon Fischer Turner collide with fizzy, crystalline pop by Varg and Smerz. If you're not a Posh Isolation diehard, there will be pleasant surprises too, like the ghostly deadpan rap of KYO and Jeuru's unreleased song, or the Burial-esque float of Mini Esco. If you think of Posh Isolation as a noise collective, then this mix will blow that idea wide open—listen carefully and you can hear Copenhagen's idea of the future of ambient, hip-hop and pop all in one.\n\n<b>What have you been up to recently?</b>\n\nI have been traveling this last week. I was in Italy and Russia and then Italy again. We had a two-day celebration for Posh Isolation in St. Petersburg at Kisloty, and in Italy I got to visit some cities I had never seen. Besides that I have been making music and working on our birthday party which is happening in Copenhagen from May 23rd through 25th. \n\n<b>How and where was the mix recorded?</b>\n\nI began on a flight between St. Petersburg and Naples, and finished it in our office on a Monday with massive grey clouds outside the window.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThere is no greater idea than to collect music I am listening to at the moment. Some of it is new, some of it is still unreleased, some of it I have been listening to for years. There is a lot of Copenhagen in the mix and a lot of friends, a lot of people affiliated with Posh Isolation. But there are also people I have never met and some that I believe are dead. Even if the styles are many and the tempos vary I think they work well together. \n\n<b>What separates Croatian Amor from all your other projects—especially when it comes to selecting music like this for a DJ set?</b>\n\nIntuition is the main instrument. Perhaps the different projects have different tool boxes, they fit different days. \n\n<b>You helped start Posh Isolation back in 2009. How has it evolved over the years?</b>\n\nA lot has changed the last ten years of course, we are not the same and the label is not the same and at the same time it really does not feel that different. We release music that we like by people we like. The sound and aesthetic has grown organically with the community it comes from.\n\n<b>What are you up to next?</b>\n\nGoing swimming. \n",
+    "blurb": "Melodic daydreaming."
+  }
+}

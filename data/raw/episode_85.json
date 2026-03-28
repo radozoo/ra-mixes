@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "85",
+  "url": "https://ra.co/podcast/85",
+  "id": "85",
+  "__typename": "Podcast",
+  "title": "RA.085 Tobias Freund",
+  "date": "2008-01-08T04:14:13.000Z",
+  "fileSize": 72022812,
+  "duration": "01:00:00",
+  "imageUrl": "https://static.ra.co/images/podcast/ra085-tobias-freund-cover.jpg",
+  "contentUrl": "/podcast/85",
+  "tracklist": "01. Robert Fripp ‘Preface’ from <i>Exposure</i> [BGM, 1979]\n02. Ryuichi Sakamoto ‘Milan 1909’ from <i>Futurism</i> [MIDI Inc., 1986]\n03. Nash the Slash ‘Ylla’ from <i>Dreams and Nightmares</i> [Cut Throat Records, 1979]\n04. WIR ‘Naked Whooping & Such Like’ from <i>The First Letter</i> [Mute, 1991]\n05. Pyrolator ‘Nordatlantik’ from <i>Inland</i> [Ata Tak, 1979]\n06. The Flying Lizards ‘Trouble’ [Virgin Records, 1980]\n07. Andy Partridge ‘Shore Leave Ornithology (Another 1950)’ from <i>Take Away</i> [Virgin Records, 1980]\n08. Les Vampyrettes ‘Biomutanten’ [EMI Electrola, 1985]\n09. The Gadgets ‘Gevil's Dyke’ [Final Solution, 1980]\n10. Baka Forest People ‘Heart of the Forest’ (A Capella) [Rykodisc, 1993]\n11. Haruomi Hosono ‘Luminescent/Hotaru’ from <i>Philharmony</i> [Alfa Records, 1982]\n12. Savant ‘The Neo-Realist’ [Pol Records, 1983]\n13. Squarepusher ‘Vacuum Garden’ from <i>Hello Everything</i> [Warp, 2006]\n14. Gary Numan ‘Cry the Clock Said’ from <i>Dance</i> [Beggars Banquet, 1981]\n15. Dome ‘Keep It’ [Dome Records, 1980]",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra085/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:833"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Tobias Freund has been making music for twenty five years. Besides earning his crust as a hired studio gun, Tobias has a long resume of techno records to his name. Often these have been collaborations, as Sieg Über Die Sonne with Dandy Jack, as Atom™ & Pink Elln with Uwe Schmidt, as nsi. with Max Loderbauer, or most recently as Odd Machine with Ricardo Villalobos. Tobias also records solo, under the name Pink Elln for techno — don’t say it out loud in German, it’s rude — and Tobias for house (remember ‘Street Knowledge’?). All in all, this is a man that has made a huge variety of music from techno to house to neo-acid to experimental/classical records.\n\nSimilarly, Tobias has torn up the rulebook for his RA Podcast. In a first for the series, RA.085 is a non-dance mix. Skipping back 25 years for the most part, Tobias' mix is a selection—drawn from an obviously fantastic record collection—that concentrates on experimental/post punk from the early eighties. Featuring XTC and Yellow Magic Orchestra offshoots, Gary Numan, Holger Czukay and a host of obscure avant garde records from the period, RA.085 is a bit of a lesson in dark, experimental machine music from the eighties. Lights down low for this one.\n\n\n\n<b>What have you been working on recently?</b>\nRight now I am working on the next Tobias release, which will be finished end of January. Parallel I am working with Max on some new nsi. music experiments. \n\n<b>Where was the mix recorded?</b>\nI recorded the mix in my living room.\n\n<b>What are you up to next?</b>\nI have to finish some remix requests, and after that I’ll focus on the slow beat project I started with my wife Cassy.",
+    "blurb": "RA kicks off 2008 with something completely different: an experimental/post-punk mix from veteran producer Tobias Freund."
+  }
+}

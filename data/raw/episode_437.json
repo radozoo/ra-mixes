@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "437",
+  "url": "https://ra.co/podcast/437",
+  "id": "437",
+  "__typename": "Podcast",
+  "title": "RA.437 Dave Clarke",
+  "date": "2014-10-13T00:00:10.000Z",
+  "fileSize": 207636985,
+  "duration": "01:26:22",
+  "imageUrl": "https://static.ra.co/images/podcast/ra437-dave-clarke-cvr.jpg",
+  "contentUrl": "/podcast/437",
+  "tracklist": "The Clash - London calling (RadicalG remix) \nMillimetric - Negative Leaders (The Horrorist remix) \nThe Hacker - A Thousand Time (Perspects remix) \nSindrome - J'prends Tous Les Avions Aui S'écrasent (ADAN & ILSE remix) \nAutokratz - Push (Mr Magnetik Rmx) \nLectromagnetique - She \ndynArec - The Courteous Mercenary \nPip Williams - Ulterior Motives \nDjedjotronic - Traffic \nBlack Smith Craft - Noises at Night \nAnthony Rother - Automat \nFleck ESC - Stepping Away \nMr Magnetik - Night Wolves (DeFeKT remix) \nThe Exaltics - Ten Days (Sync 24 Remix) \nRXmode - Tears \nDez Williams - le claqueurs \nAnthony Rother - Momentum \nCommuter - Digital Memories Part 1 \nSimulacra - Enantiodromia \nThe Exaltics - The Way Out \nMazzula - Sat-ur-dee Night \nUmwelt - Evolution Stellaire \nKitbuilder - City Of The Damned (Radioactive Man Rmx) \nMazzula - Sleeping Dragon \nAdan & Ilse - By The Way (remix by NÖVÖ) \nI Am Kloot - These Days (Dave Clarke Remix) \nPlacebo - Scene Of the Crime (Dave Clarke Remix)  ",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra437/",
+  "keywords": "Techno, electro, archive one, white noise, world service, Amsterdam",
+  "artist": {
+    "id": "57",
+    "__typename": "Artist",
+    "name": "Dave Clarke"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "At this year's <a href=\"/local.aspx?ai=29&m=ade\">Amsterdam Dance Event</a>, Dave Clarke will be involved with four panels, with topics ranging from opinions on music to global clubbing. Clarke is often hard to miss at ADE. He tends to be the most outspoken person in the room, and rightfully so: he started DJing in the mid-'80s and has been consuming electronic music ever since. He built his reputation in the '90s through a series of belligerent productions, including his 1995 album <i>Archive One</i>, which is considered a techno classic. His DJ career followed a similar trajectory, with Clarke building a reputation as a fearsome selector who brought a sense of hip-hop showmanship to his performances.\n  \nHe was one of the few DJs to appear regularly on the BBC radio shows of John Peel, the late broadcaster who, like Clarke, took an uncompromising attitude to his craft. Clarke is less focussed on studio work these days, but he keeps a presence on the airwaves through White Noise, a radio show he records from his Amsterdam base that has so far chalked up 457 episodes. \n\nFor all of his achievements in clubs, on radio and in the studio, it's been Clarke's mix CDs that have arguably done the most to secure his status. In particular his two <i>World Service</i> mixes, released in 2001 and 2005 respectively, are seen as masterpieces of the form. For his RA podcast we asked Clarke for an electro mix as a nod to <i>World Service</i>—the mixes were famously divided into a techno disc and an electro disc. He sent us almost 90 minutes of twitchy, syncopated sounds that bear the hallmarks of his classic explorations of the style. \n\n\n<b>What have you been up to recently?</b>\n\nGetting prepared for ADE, my radio shows, a voiceover for a Ramones document trailer for Vevo, remixing Placebo and many others.  \n\n<b>How and where was the mix recorded?</b>\n\nOn a boat in Amsterdam, it was recorded in one take.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nYou guys wanted an electro mix, so it would be rude to do something else, plus it's always fun to do an electro mix. There's still so much great music and producers in that field. \n\n<b>You have a longstanding relationship with ADE. Why have you chosen to become so involved over the years?</b> \n\nIt has been organic. This is the city that I live in, I am really proud of Amsterdam and I am very proud of what Richard and Karsten have made, and I have only been part of it for half the story.\n\n<b>Do you feel like people are more engaged in the discourse surrounding dance music these days?</b> \n\nIt depends on your definition of \"dance music.\" The more business-savvy people are always up for talking, and of course the business-savvy people reside in the popular genres.\n\n<b>Has the conversation changed much over the years in your view?</b> \n\nIn a way, the 360 record deal never took off for most people (which is good), but managers are always looking at expanding the revenue stream of the artist and making sure money comes in from the new digital models, so more people look forward and less lament the passing of older models.\n\n<b>What are you up to next?</b>\n\nAbout to dash for a train to Brussels for my gig in Lille... bye!",
+    "blurb": "The Baron Of Techno drops electro. "
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "101",
+  "url": "https://ra.co/podcast/101",
+  "id": "101",
+  "__typename": "Podcast",
+  "title": "RA.101 Falko Brocksieper",
+  "date": "2008-05-05T19:30:29.000Z",
+  "fileSize": 79406959,
+  "duration": "01:06:08",
+  "imageUrl": "https://static.ra.co/images/podcast/ra101-falko-brocksieper-cov.jpg",
+  "contentUrl": "/podcast/101",
+  "tracklist": "01 Coalition Of The Killing - Azizam - <a href=\"/record-label.aspx?id=1193\">Karloff</a>\n02 The Cheapers - Caves - <a href=\"/record-label.aspx?id=1353\">Upon You</a>\n03 <a href=\"/dj-page.aspx?id=1983\">Agnès</a> - Dancing Bells - <a href=\"/record-label.aspx?id=1199\">Minibar</a>\n04 <a href=\"/dj-page.aspx?id=2110\">Falko Brocksieper</a> - Private - <a href=\"/record-label.aspx?id=672\">Sub Static</a>\n05 Jahcoozi - Shake The Doom (<a href=\"/dj-page.aspx?id=752\">Cassy</a> Remix) - <a href=\"/record-label.aspx?id=981\">Careless</a>\n06 <a href=\"/dj-page.aspx?id=1454\">Dan Curtin</a> - Pull Up - <a href=\"/record-label.aspx?id=1060\">Leena</a>\n07 Tampopo - Helicopters Got Cameras (<a href=\"/dj-page.aspx?id=833\">Tobias.</a> Remix) - Métisse\n08 <a href=\"/dj-page.aspx?id=2110\">Falko Brocksieper</a> - Zychological - <a href=\"/record-label.aspx?id=672\">Sub Static</a>\n09 <a href=\"/dj-page.aspx?id=1454\">Dan Curtin</a> - Glance - <a href=\"/record-label.aspx?id=1060\">Leena</a>\n10 <a href=\"/dj-page.aspx?id=2107\">Johnny D</a> - Tramodysee - <a href=\"/record-label.aspx?id=1127\">Oslo</a>\n11 <a href=\"/dj-page.aspx?id=2046\">Bart Skils</a> & <a href=\"/dj-page.aspx?id=3029\">Anton Pieete</a> aka District One - One 2 One - <a href=\"/record-label.aspx?id=813\">100% Pure</a>\n12 <a href=\"/dj-page.aspx?id=1399\">Mark August</a> - Warm (<a href=\"/dj-page.aspx?id=1962\">Zander VT</a> Detune Mix) - Métisse\n13 <a href=\"/dj-page.aspx?id=945\">Baby Ford</a> and the iFach Collective - Bad Friday - <a href=\"/record-label.aspx?id=531\">Klang</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra101/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:2110"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Falko Brocksieper might have moved away from Cologne in 2004, but you can still hear the lush techno sound of his home city in his productions. A producer since 1999, Brocksieper has released on a variety of labels including Sub Static, Resopal, Treibstoff and Dumb Unit and Tuning Spork. This month, though, sees the release of his first full-length in five years on Sub Static, <i>Heavy Day</i>, which promises to showcase both where Brocksieper’s been and where he’s going. Mixed in with his usual analog-based minimal funk is a number of vocal tracks, featuring the talents of Richard Davis, Big Bully and M.I.A.\n\nAs a DJ, his style has been described as \"intelligent and optimistic\", and he places special emphasis on mixing up older tracks with more recent records. In keeping with the theme, his RA podcast is sprinkled with new productions by the likes of Cassy, Johnny D and Agnès, and closes out with a classic track by Baby Ford. You can also hear a few of the tracks from <i>Heavy Day</i> on the podcast (although none of the vocal cuts). Enjoy.\n\n<b>Where and how was your mix recorded?</b>\n\nDue to problems with my own DJ-equipment it was recorded at Benjamin Fehr’s home with two turntables and a regular mixer.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nThe idea was simply presenting a few of my album tracks side-by-side with some of my recent favourite releases—paving the way for a remarkable Baby Ford classic I dug out.\n\n<b>It’s been a while since we saw a full-length from you. Why the long wait?</b>\n\nYes, it’s been five years. A lot changed for me in between that time, most significantly my move from Cologne to Berlin. In 2004, I didn’t have any releases at all. But at some point, I got new inspiration and I did a whole bunch of EPs and remixes, which more and more gave me the artistic consistency to start working on a new album.\n\n<b>What are you up to next?</b>\n\nRight now I’m very busy preparing my first live set ever, which will be ready along with my album release (shite, that’s next week already!). But it’s great fun and it’s already given me some decent input for a few new tracks that will come.\n\n<b>One of your alias on discogs is Falko “The Hitmachine” Brocksieper. How did that come about?</b>\n\nOMG, as far as I remember, the staff at Resopal came up with this alias in the credits on my EP for them in 2003, just for the hell of it. [laughs] I felt a bit awkward when I saw it even came to be an official name variation of me on Discogs. I think when I’m making music I always happen to be too dreamy to ever meet \"The Hitmachine\" requirements. That’s probably why I’ve never happened to record one, as measured by the majority’s opinion.",
+    "blurb": "Sub Static label head Falko Brocksieper mixes it up this week on the RA podcast."
+  }
+}

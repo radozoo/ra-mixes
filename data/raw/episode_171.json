@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "171",
+  "url": "https://ra.co/podcast/171",
+  "id": "171",
+  "__typename": "Podcast",
+  "title": "RA.171 Erol Alkan",
+  "date": "2009-09-07T00:00:07.000Z",
+  "fileSize": 96647634,
+  "duration": "01:20:31",
+  "imageUrl": "https://static.ra.co/images/podcast/ra171-erol-alkan-cover.jpg",
+  "contentUrl": "/podcast/171",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra171/",
+  "keywords": "Erol Alkan, Disco 3000, Mustapha 3000, balearic, groove, Beyond, wizard, sleeve, erol, electro, rave, disco, house",
+  "artist": {
+    "id": "598",
+    "__typename": "Artist",
+    "name": "Erol Alkan"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "If you haven't heard the name of Erol Alkan over the past decade, just what rock have you been living under? That said, while Alkan might be an international megastar now, his beginnings seem quite humble when you consider that his first Trash party in 1997 managed to rustle up a crowd of just 60 people. Things didn't stay like that for long, however, with the Monday night mix of indie, rock and pop attracting a fervent young crowd ready to let their hair down as if the weekend was only just starting. The turn of the decade saw Erol start to experiment with mash-ups under the name Kurtis Rush, with the chapter of his production period coming to a close in spectacular fashion with Kylie performing his bootleg of \"Blue Monday\" and her own \"Can't Get You Out Of My Head\" at 2002's Brit Awards.\n\nHis DJing schedule has been overflowing with shows ever since, but becoming an accomplished producer in his own right has been Erol's real goal during the last five years. Remixes were his first port of call, with Alter Ego, Klaxons, Hot Chip, Daft Punk and Franz Ferdinand amongst the acts to get the Erol touch, and he's also had his hand in producing guitar bands such as Mystery Jets and Late Of The Pier. Last month saw the release of a single with Boys Noize, seeing the pair mix up French house, acid and disco over two separate tracks.\n\nIn 2008 Alkan unveiled his Disco 3000 DJ moniker, recording a special disco-flavoured mix for his website. This week's RA podcast sees Alkan continue his Disco 3000 mix project, with disco, Italo, electro and even an early house cut getting blended into a rapid-fire 80-minutes. We spoke to Erol by e-mail to ask him about the mix, his current projects and getting intimate in the club.\n\n<b>What have you been working on recently?</b>\n\nOriginal music. The first 12-inch (\"Waves,\" and \"Death Suite\" which I wrote and produced with Alex Ridha) came out recently on Boys Noize Records. I've also been working on an original Beyond The Wizards Sleeve record, which I'm really excited about.\n\n<b>Where and how was the mix recorded?</b>\n\nPart of it was hanging over from the first Disco 3000 podcast which I began on Christmas Day 2007. I tried to finish it back in March, but the stars were not aligned in my favour and it was never completed.\nEverything was put together at my home studio, using a pair of turntables, a CD-J and a Yamaha CS-10 synth for some additional mania.\n\n<b>Can you tell us a little about the idea behind the mix?</b>\n\nI made the first Disco 3000 mix for myself, and then realised it was a way to highlight part of the DNA of club music I love so much. The records stem from the '70s to the '00s: It's not a strict disco set and there is no odour of purism about it, even though some of the tracks are quite obscure.\n\n<b>You’ve selected quite a few disco-orientated acts for your <a href=\"event.aspx?109925\">Warehouse Project date</a>. Do you have any plans for a studio project in this vein?</b>\n\nThe music I am making is moving more in that direction then what people would expect.\n\n<b>Do you miss playing intimate shows now that you're such a household name?</b>\n\nYes. But I do still play small unannounced shows, especially as Disco 3000 and Beyond The Wizards Sleeve. I have plans for a tiny Erol Alkan-based party where I can do whatever I please, but I can't announce it on the biggest dance website on the planet, can I?",
+    "blurb": "Erol Alkan dons his Disco 3000 cap on this week's RA podcast."
+  }
+}

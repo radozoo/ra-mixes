@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "429",
+  "url": "https://ra.co/podcast/429",
+  "id": "429",
+  "__typename": "Podcast",
+  "title": "RA.429 Moire",
+  "date": "2014-08-18T00:00:57.000Z",
+  "fileSize": 164605188,
+  "duration": "01:08:30",
+  "imageUrl": "https://static.ra.co/images/podcast/ra429-moire-cvr.jpg",
+  "contentUrl": "/podcast/429",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra429/",
+  "keywords": "Bass, Shelter, Actress, Werkdiscs, Never Sleep, ",
+  "artist": {
+    "id": "44291",
+    "__typename": "Artist",
+    "name": "Moiré"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "As an artist, Moiré finds a lot of inspiration in the tricks your mind can play on you. His name is a reference to the optical illusion that occurs when two patterns are overlaid just-so (as seen the cover of his debut album, <i>Shelter</i>). He's frank about the influence of drugs on his work—one of his first tracks was simply called \"Drugs,\" and he recently told <a href=\"http://thequietus.com/articles/15971-moire-interview-shelter\"><i>The Quietus</i></a> that druggy disorientation is something he looks for in music. Unsurprisingly, his own records explore a murky, psychedelic space. Voices mutter in the fog, half melodies drift in and out of focus, and kick drums plod along like a raver headed home at dawn. \n\n<i>Shelter</i>, Moiré's debut album, comes out this week on Actress's label, Werkdiscs. RA. 429 expands on the mood of that LP, combining the producer's offbeat material with hazy cuts from likeminded artists. \n\n\n<b>What have you been up to recently?</b>\n\nWatching David Lynch talking about transcendental meditation and <i>Jodorowsky's Dune</i> on the loop while learning new gear I got, working on the variety of album-related stuff, live show, some remixes and some new tunes too.\n\n<b>How and where was the mix recorded?</b>\n\nWell, I like to do mixes live so decks, mixer and some synth or effect box for effects. It makes them less perfect and loose but that's what I'm into. I spend some time figuring out what should be the selection and then I just go to wine shop, get nice bottle and I'm in.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nI wanted to present some of my new music, some tunes I love by other artists as well as some unreleased material. My aim was to make the mix feel like a live recording from a gig—something that I would play on a night.\n\n<b>For most of us, you first popped onto the radar last year with the <a href=\"/review-view.aspx?id=12408\"><i>Never Sleep</i> EP</a>. What were you up to before then?</b>\n\nBefore that I was studying music in my free time. I always wanted to make music, it just takes time and if you have other passions it's difficult to finish it, which results in many druggy sleepless nights. I was always busy with design and a variety of art projects—that is my background.\n\n<b>How did you land your first record on Werkdiscs?</b>\n\nMy mate knew Actress and he liked what I was doing so we decided to send some of my material to Werkdiscs and that was pretty much it.\n\n<b>You're getting ready to release your first album, <i>Shelter</i>. When did you start working on the record, and what has that process been like for you?</b>\n\nIt's hard to say when I started working on the record, it was probably in me for longer then I thought… Making <i>Shelter</i> was about finding an answer to a question: what is it that I'm trying to make? The actual music came later. I wanted it to be one piece, not just a collection of tunes. I had some ideas and sketches, but the moment I realised what <i>Shelter</i> was meant to be I started writing specific material for it. \n\n<b>What are you up to next?</b>\n\nWorking on the <i>Shelter</i> show, experimenting with hardware possibilities and tools that I want to introduce to my gigs. I'm also collaborating with my mate Disguise on the visual side of the shows. And I'm finishing a few remixes, DJ mixes… and thinking about new ideas for new material.",
+    "blurb": "Shadowy sounds from an intriguing newcomer. \r\n"
+  }
+}

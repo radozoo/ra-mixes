@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "742",
+  "url": "https://ra.co/podcast/742",
+  "id": "742",
+  "__typename": "Podcast",
+  "title": "RA.742 Vlada",
+  "date": "2020-08-24T00:00:56.000Z",
+  "fileSize": 155795993,
+  "duration": "01:04:48",
+  "imageUrl": "https://static.ra.co/images/podcast/ra742-vlada-cvr.jpg",
+  "contentUrl": "/podcast/742",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/881121382",
+  "keywords": "Waking Life, Nachdigital, Mutabor, Fauna",
+  "artist": {
+    "id": "18441",
+    "__typename": "Artist",
+    "name": "Vlada"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Like so many DJs who play restrained, subtle house, Vlada keeps a low profile. You won't find much of substance on the English-language internet about the Berlin-based, Russian-born DJ, aside from a load of excellent mixes available to stream. It's a cliché, sure, but Vlada prefers to let the music speak for itself.\n\nVlada is a regular at a certain circuit of festivals—her first mention in these pages was <a href=\"/reviews/21435\">our review</a> of 2017's Waking Life in Portugal, a small event that commands a cult following—and she came to our attention in a big way after playing a banner set at the final Nachtdigital in Germany last year. (You can read more about that <a href=\"/reviews/24095\">here</a>.) \n\nWe described her set as \"lush and futuristic, full of surprising changes and surreal hooks,\" which goes for her <i>RA</i> Podcast one too: she taps into a vein that feels sultry, technologic and full of melody, even when it's subtle and swinging. It captures her in her element, at home base, in Moscow's Mutabor club before the pandemic. Lock into her hypnotic, inviting grooves, and when you're done you'll be scouring her <a href=\"https://soundcloud.com/playvlada\">SoundCloud page</a> to hear more.\n\n\n<b>What have you been up to lately?</b>\n\nI've been lucky to spend the last five months in nature, a lot of swimming, reading, cooking and studio time.\n\n<b>How and where was the mix recorded?</b>\n\nIt was recorded in our beloved Mutabor club in Moscow around wintertime.\n\n<b>Can you tell us the idea behind the mix?</b>\n\nI've been away from my record collection since March. I wanted to record a mix with club music but with some kind of twist that is also suitable to put on at home. While listening to this recording I was trying to get inspired to record a new one, but then realised I kind of like it the way it is. \n\n<b>You were raised as a classically trained piano player. How did you first get into dance music?</b>\n\nMy dad was collecting jazz and funk records and was happy to get me involved as well. He helped me out to get some DJ lessons and bought my first vinyl records when I was 14. \n\n<b>You have strong ties to two of the best dance music scenes in the world, Berlin and Moscow. Do you think that these scenes will come back or be as strong after the pandemic? And how has the pandemic changed your relationship with clubbing and DJing, if at all?</b>\n\nI try to look at it just as some kind of long break that everyone needed. Or opportunity to get out of our bubble and figure out what else we could do in our lives. In Moscow things started to happen slowly with the local scene involved. Berlin will always find its way... I think we just have to be patient.\n\n<b>What are you up to next?</b>\n\nNot much planned for now. I just started a record label called Fauna, so probably gonna work on some future releases with my friends. And hopefully learn some new tricks. \n\n",
+    "blurb": "Understated house from a crucial Russian DJ."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "678",
+  "url": "https://ra.co/podcast/678",
+  "id": "678",
+  "__typename": "Podcast",
+  "title": "RA.678 Massimiliano Pagliara",
+  "date": "2019-05-27T00:00:51.000Z",
+  "fileSize": 213357102,
+  "duration": "01:28:45",
+  "imageUrl": "https://static.ra.co/images/podcast/ra678-massimiliano-pagliara-cvr.jpg",
+  "contentUrl": "/podcast/678",
+  "tracklist": "01. Herzel - Glide [Uncanny Valley]\n02. Fort Romeau - Eye Of Re [Permanent Vacation]\n03. Tammo - Swimming [Nous'klaer Audio]\n04. Meggy - Flowers [Suol]\n05. Younger Than Me - Manchester's Teen [Tusk Wax]\n06. Nathan Micay - The Party We Could Have [LuckyMe]\n07. Sei A - Tunnels [Aus Music]\n08. Heinrich Tillack - Past Vs Future [Force Inc.]\n09. Boof - Backlash [Running Back]\n10. Marlon Hoffstadt - Open Focus [Midnight Themes]\n11. Jordan Gcz - Pinball Lizard [Rush Hour]\n12. Kassian - Bad Habit [Heist Recordings]\n13. Jules Etienne - Biscotte [Funnuvojere Records]\n14. Benjamin Fröhlich - Spitting Image (Cooper Saver Remix) [Permanent Vacation]\n15. SIRS - Disco Dancing [Sirsounds Records]\n16. Teatre - Remnants [PPP Records]\n17. Stojche - The Exchange (Gian's Hydrocity Refix) [Jaunt Records]",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/627413451",
+  "keywords": "Panorama Bar, Ostgut Ton, Robert Johnson, Funnuvojere, ",
+  "artist": {
+    "id": "10350",
+    "__typename": "Artist",
+    "name": "Massimiliano Pagliara"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Massimiliano Pagliara came to Berlin from Lecce, Italy, to be a professional dancer. \"That's what I was doing at the very beginning,\" he once told us. \"But then, you know, Berlin nightlife, clubbing and all of that.\" Now, save the occasional strikingly lithe move in the DJ booth, Pagliara's given that up for a life of making others dance, whether as a DJ, producer or label curator. Working amidst his vast and lovingly assembled <a href=\"/features/2348\">collection of synthesizers</a>, he crafts sonically rich cuts of house and disco with a hint of Balearic flair, with pastel-colored albums and EPs on labels like Ostgut Ton, Live At Robert Johnson and Cocktail d'Amore Music. This year, he also started his own label, Funnuvojere Records. As a DJ, he's honed his craft at some of the world's best dance floors, holding residencies at both Panorama Bar and Robert Johnson. \n\nIn his productions and his DJ sets, Pagliara has a sonic richness and sun-kissed aesthetic that makes him irresistible for fans of house and disco's modern mutations, though he's just as comfortable with sleek techno rhythms and writhing acid lines. RA.678 shows him running at full tilt, cherry-picking bits from every corner of his musical universe. \n\n<b>What have you been up to recently?</b>\n\nI've been touring in the US and Canada and finished a couple of remixes, as well as starting work on some new projects. Robert Johnson will be celebrating their <a href=\"https://www.residentadvisor.net/news/43695\">20-year anniversary</a> in various cities and I am very happy to be playing with them both at the home base in Offenbach and elsewhere for this special occasion with the RJ family. Save the date!\n\n<b>How and where was the mix recorded?</b>\n\nThis mix was recorded at home, using two CDJs and a Taula 4 mixer.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nRecording a mix is never an easy thing to do. Mostly because time is always quite limited. Usually I like to go in different musical directions when I DJ, which is often more difficult when recording a 1-hour or 1.5-hour podcast. I have included some of my current favourite tunes that I've been playing out in clubs, as well as a few Massi all-time faves such as Boof's \"Backlash\" on Running Back and that acid anthem from '94 by Heinrich Tillack on Force Inc, an iconic techno label from back in the day. The mix starts more on a ravey-technoish-psychedelic side, it gets funkier in the middle and ends with some dreamy electro beats. So yeah, I have tried my best to squeeze in a bit of everything, hoping that it all came through well.\n\n<b>Your label Funnuvojere put out its first records this year. What's that project been like so far and what do you have in the pipeline?</b>\n\nI have had the idea of starting a label for a long time and I am happy it has finally happened. There are many people out there that I respect and their music truly inspires me. So I wanted to create a space / platform where I can share my love for their beautiful creations. For this year, there are two more releases planned, one early summer by the Berlin-based Brazilian Rotciv and one by the Turin-based American Derek Neal, coming around fall / winter. I have included the track \"Biscotte\" by Jules Etienne in this mix. His EP was the second installment on the label, released this past March.\n\n<b>You're a pretty hardcore synth collector. What pieces of gear are you having the most fun with at the moment?</b>\n\nI have recently re-discovered my Korg EX-8000, the rack version of the DW-8000 from 1985. A very nice hybrid synth, with digital waveforms and analog VCF and VCA. I have had it for a while, but haven't used it much. Lately been playing a lot with it and had much fun!\n\n<b>What are you up to next?</b>\n\nMore traveling, working on new music, exercising, but also summer is coming, and so I will try to go to the beach as much as possible :)\n\n",
+    "blurb": "Soaring rhythms from a Panorama Bar resident."
+  }
+}

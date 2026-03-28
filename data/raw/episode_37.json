@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "37",
+  "url": "https://ra.co/podcast/37",
+  "id": "37",
+  "__typename": "Podcast",
+  "title": "RA.036 Slam",
+  "date": "2006-12-04T23:21:37.000Z",
+  "fileSize": 68607442,
+  "duration": "01:11:26",
+  "imageUrl": "https://static.ra.co/images/podcast/ra036-slam-cover.jpg",
+  "contentUrl": "/podcast/37",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra036/",
+  "keywords": "",
+  "artist": {
+    "id": "233",
+    "__typename": "Artist",
+    "name": "Slam"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Slam are Stuart McMillan and Orde Meikle to their mums. They’re the Scots behind Soma Records, which puts out the ‘Sci.Fi.Hi.Fi’ compilation series and material by artists such as Funk D'Void and Repeat Repeat. \n\nMost clubgoers will know Slam from their end-of-night house groover 'Lifetimes' and last year's 'This World', both of which featured the smooth vocals of Tyrone Palmer. But Slam have actually had their fingers in all sorts of pies since the early nineties: If you're a Glaswegian, you'll know them for their long-running monthly night Pressure at the Arches and the Slam Tent at the T in the Park Festival, both of which have seen the likes of Hawtin vs Villalobos, Sven Vath and Digitalism pass through their doors. And though their sound is rooted in techno, Slam will also be known to progressive fans for the album 'Alien Radio', which blew up big on prog floors in 2001.\n\nAs DJs, Slam have shown themselves to be consistently on the case. On 'Fabric 09' (2003) they mixed up the tech house of Tony Thomas and 16B with the harder European techno of Marco Bailey and Danilo Vigorito, while last year's 'Nightdrives' saw them tapping Detroit old hands Carl Craig and Model 500 alongside younger upstarts Mathew Jonson, John Dahlback and Nathan Fake. This time for their RA mix, they live up to their name, offering a slamming hour of techno recorded live at The Arches in Glasgow in October.\n\nRA talked to Slam about their mix...\n\n\n<b>What have you been working on recently?</b>\n\nWe are taking time off touring to complete the new artist album due out on <a href=\"http://www.somarecords.com\">Soma</a> in May 2007. Its the first brand new Slam material since 'Year Zero\" in 2004. The single, which is coming out at the end of January, is finished - expect a biggie!\n\n<b> Where was the mix recorded?</b>\n\nThe mix was recorded on October 27th, at Pressure, which is <a href=\"http://www.slamevents.com\">our monthly residency</a> at the Arches in Glasgow - we just celebrated our 8th birthday there last week, when Luciano, Carl Craig, Damian Lazarus, Craig Richards and Repeat Repeat joined the party!\n\n<b>What are you up to next?</b>\n\nWe are releasing the annual Soma compilation CD with the best singles from 2006, with a special \"slam mix soma\" bonus CD, with a few classics and hard to find tracks mixed in with more recent releases. We have remixed Alex Smoke, Christian Smith and John Selway this year and we plan to do a few more mixes as soon as the album is finished. We also plan to do a DJ mix CD\nas part of the <a href=\"http://www.scifihifi.co.uk\">Sci-Fi Hi-Fi</a> series.",
+    "blurb": "This week's podcast is from Scottish institution Slam, recorded live at The Arches in Glasgow."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "28",
+  "url": "https://ra.co/podcast/28",
+  "id": "28",
+  "__typename": "Podcast",
+  "title": "RA.027 Ewan Pearson",
+  "date": "2006-10-02T09:00:23.000Z",
+  "fileSize": 72076246,
+  "duration": "01:15:02",
+  "imageUrl": "https://static.ra.co/images/podcast/ra027-ewan-cover.jpg",
+  "contentUrl": "/podcast/28",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra027/",
+  "keywords": "",
+  "artist": {
+    "id": "671",
+    "__typename": "Artist",
+    "name": "Ewan Pearson"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Ewan Pearson’s dayjob is a remixer: he rerubbed everyone including <b>Royksopp</b>, <b>Goldfrapp</b>, <b>Moby</b>, <b>The Chemical Brothers</b>. <b>Freeform Five</b>, <b>Depeche Mode</b>, <b>The Rapture</b> and <b>Alter Ego</b>. These days he makes his home in Berlin, but don’t expect minimal techno: Pearson’s sound is defined by a love of melody and an instantly recognisable way with a rhythm.\n\nHe’s also no slouch as a DJ either. Last year’s 'Sci-Fi Vol. 1' on Soma Records took electrohouse by the scruff of the neck and gave it a good shake, and recently he’s been DJing the big clubs, including a premium spot at this year’s Love Parade, where he was one of the lucky few to spin at the Victory Column (though like everyone, he only got through four records.)\n\nPearson’s mix for RA features the likes of <b>Justus Kohncke</b>, <b>Junior Boys</b> and <b>Jimpster</b>, but don’t worry, not every track begins with a J. Pearson blends the tracks into a seamless and satisfying whole: not only does he blend the records wonderfully, but he does it in key.\n \nRA had a quick chat to Ewan in Ibiza when he handed over the mix.\n\n<b>What have you been working on?</b>\n\nRecently I produced eight tracks for the new Rapture album 'Pieces of the People We Love' together with Paul Epworth. That album was just released this week. At this very moment I am putting the final touches to seven tracks for the forthcoming Tracey Thorn solo record which will come out next year. Plus I've got remixes for Fields and Pet Shop Boys about to drop too. \n\n<b>Where was the mix recorded?</b>\n\nThis mix was done on the road (the only real time I get to do things like this, folks) in Ableton Live on my laptop, during several stopovers on a long trip from Norway to Ibiza. I wanted to do something that was almost entirely mixed in key. I'd worked out most of these mixes from playing out but there were a couple where the pitch had to be tweaked in the computer so they didn't clash.\n \nIt was just intended to be a little selection of some of my favourite tracks from the summer to give out to friends and people I met during my last stay in Ibiza. A little present to commemorate what had been a lovely summer - in particular several trips to Ibiza. I named it in honour of the Villa of Joy at which I spent several very jolly mornings after coming back from DJing at Space. It's for Kim, Helen, Vicki, Chris, Kelly and all the other reprobates that I hung out with there. \n\n<b>What are you up to next?</b>\n\nNext I have to do some mixes for a couple of people - including a brilliant singer from Nashville called Cortney Tidwell - and then I have some options. Not sure which I'll end up doing yet. I'm also gonna work on some of my own stuff in the lead up to Christmas.\n",
+    "blurb": "In this week’s RA Podcast, DJ and remixer extraordinaire <a href=dj-page.aspx?id=671>Ewan Pearson</a> manages to catch the sound of the late summer.\r\n"
+  }
+}

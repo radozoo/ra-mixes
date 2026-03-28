@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "71",
+  "url": "https://ra.co/podcast/71",
+  "id": "71",
+  "__typename": "Podcast",
+  "title": "RA.071 Crowdpleaser",
+  "date": "2007-09-24T13:23:10.000Z",
+  "fileSize": 93269127,
+  "duration": "01:17:42",
+  "imageUrl": "https://static.ra.co/images/podcast/ra071-crowdpleaser-cover.jpg",
+  "contentUrl": "/podcast/71",
+  "tracklist": "01. Konk - Your Life (Dub)\n02. Aurra - Such a Feeling (Shep Pettibone Mix)\n03. Gallifré - House Rhythm\n04. The Strikers - Body Music (Body Dub Edit)\n05. Stevie Wonder- 4 UR Love (Edit)\n06. Braxton Holmes & Mark Grant - Ron Hardy\n07. S.L.Y - I Need a Freak\n08. James Brown - Bring It On\n09. Empathy Boxx - Hunger Trak\n10. Masters At Work – Tranz - MAW Records\n11. House Of Gypsies - Kool Life (Classic Dub)\n12. Crowdpleaser & Ly Sander - Jupiter - <a href=\"record-label.aspx?id=1005\">Deeply Rooted House</a>\n13. Millsart - Nights Of Africa - <a href=\"record-label.aspx?id=233\">Axis</a>\n14. Trackheads - Feel (Edit)\n15. Crowdpleaser & St. Plomb - New Times Roman \n(Indian Summer Edit) - <a href=\"record-label.aspx?id=755\">Mental Groove</a>\n16. Lou Reed - Metal Machine Music\n17. Femi Kuti - Sorry Sorry (Old School Afro Dub)",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra071/",
+  "keywords": "",
+  "artist": {
+    "id": "1629",
+    "__typename": "Artist",
+    "name": "Crowdpleaser"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Gregor Schönborn has been producing as Crowdpleaser since 1999. Perhaps his biggest success so far has been the longplayer <a href=\"/review-view.aspx?id=3754\">'2006'</a> made with likeminded producer St. Plomb, which managed to meld dark and funky techno to the artist album format in a wholly original fashion. Both solo and with St. Plomb, Crowdpleaser has released a number of electro-inflected techno twelves on labels such as Mental Groove, Viking Music and Deeply Rooted House, tracks which have found their way into DJ sets by the likes of Michael Mayer, Tiga and Thomas Brinkmann.\n\nA designer by day, Schönborn's Photoshop skills grace the sleeves of the Mental Groove catalogue, but on the weekends he's also a DJ. A regular on the Swiss and European circuit, Crowdpleaser's set are often built on a bedrock of forward-thinking house and techno, but for his RA Podcast he's up to different tricks, finding room for classic house from Ron Hardy and Masters at Work as well as more vintage tracks by the likes of James Brown, Femi Kuti and even Lou Reed in between the 4/4 pulse. Crowdpleasing stuff.\n\nRA caught up with Crowdpleaser for a chat when he handed over the mix:\n\n<b>What have you been working on recently?</b> \nI just did the track 'Jupiter' with Ly Sander for DJ Deeps Tronic Jams series on Deeply Rooted House which is out now. I'm also remixing Quarion’s 'Karasu', which will be released on Swiss N°1 Deephouse Label Drumpoet Community this fall. The remixes for the 2006 Album we did with St. Plomb by Autorepeat, Quenum, Donato Dozzy, Dachshund and A Jackin Phreak will be coming out this year on Mental Groove.\n\n<b>Where was the mix recorded?</b>\nIt’s a mix I specially recorded in my record room for RA with my  brand new <a href=\"http://www.electronique-spectacle.com\">DJR400 Mixer</a>, this mixer is a musical instrument!  \n\n<b>What are you up to next?</b>\nTracks, tracks and tracks.",
+    "blurb": "This week's RA podcaster is Swiss DJ and producer Crowdpleaser from the Mental Groove stable."
+  }
+}

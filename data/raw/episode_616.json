@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "616",
+  "url": "https://ra.co/podcast/616",
+  "id": "616",
+  "__typename": "Podcast",
+  "title": "RA.616 Mall Grab",
+  "date": "2018-03-12T12:00:10.000Z",
+  "fileSize": 144399082,
+  "duration": "01:00:01",
+  "imageUrl": "https://static.ra.co/images/podcast/ra616-mall-grab-cvr.jpg",
+  "contentUrl": "/podcast/616",
+  "tracklist": "Mall Grab - Canine Melody\n??? - ???\nYaleesa Hall - Zoe Price\nAutomne - SRL Shit\nNite Fleit - Little Friend\nMall Grab - Antipodean\nPeach - Silky\nDaniel Maloso - Body Music\n??? - ???\n??? - ???\nMall Grab - The Heart Is A Lonely Hunter\nRoza Terenzi - Soft\n??? - ???",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/415910868",
+  "keywords": "Jordon Alexander, Steel City Dance Discs, Loods, Nonstop Feeling",
+  "artist": {
+    "id": "55212",
+    "__typename": "Artist",
+    "name": "Mall Grab"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Whether they knew it or not, it seemed that people were waiting for an artist like Jordon Alexander to come along. The sheer appetite for his style of house music, which blends dusty drums with infectious samples and melodies, explains why he went from playing a handful of small parties in Australia <a href=\"/dj/mallgrab/dates?yr=2015\">one year</a>, to touring the globe <a href=\"/dj/mallgrab/dates?yr=2016\">the next</a>—a tenfold increase in gigs according RA's events section. Here was a young guy from an unremarkable town in Australia whose releases, DJ sets and social media embodied a good-times vibe that people around the world loved to identify with. His big tracks, such as \"<a href=\"https://www.youtube.com/watch?v=FHm5H3OfvPM\">Feel U</a>,\" \"<a href=\"https://www.youtube.com/watch?v=gq9fGwJ_HQE\">Can't</a>\" and \"<a href=\"https://www.youtube.com/watch?v=ci5TTUjJ22U\">I Just Wanna</a>,\" were uncomplicated and extraordinarily effective, the type of thing that transcends scenes and tastes. \n\nIt also helped that he was linked with a hyped sound: lo-fi house. Alexander himself has never identified with the genre, but the crunchy drums and scuffed aesthetic of his music again tapped into something people seemed to crave. You get the clearest sense of what Alexander is about through Steel City Dance Discs, the label he runs with his friends Jarred Kennedy and Jackson Fitzsimmons. They're seven releases deep at this point, and the <a href=\"https://soundcloud.com/steelcitydancediscs\">forthcoming 12-inch</a> from Loods & Mall Grab nicely captures the label's essence: classic party music for modern dance floors.\n \nAlexander's RA podcast is a shade darker than you might expect from hearing his releases. The mood is often tense, with electro influences looming overhead, and it features at least three new Mall Grab productions. It's the sound of an artist continuing to feel out the musical world around him.   \n \n<i>Mall Grab is playing back-to-back with Or:la on the RA's Gain stage at <a href=\"/events/1034575\">DGTL Amsterdam festival</a> on March 31st, with CC:DISCO!, Honey Dijon and Mano Le Tough also on the lineup.</i>\n \n \n<b>What have you been up to recently?</b>\n \nI'm currently in the middle of an incredible tour, where I've been able to curate lineups with my friends and artists I love. It's my first experience doing so, and I already can't wait to do it again. Aside from that, working on a line of clothing for the record label, and working on the label itself I run with my best friends Jarred and Jackson, Steel City Dance Discs. Along with that, trying to work on an LP.\n \n<b>How and where was the mix recorded?</b>\n \nThe mix was recorded on the floor of my spare room because my table couldn't fit everything, using borrowed CDJS and one Technics 1210. There are definitely some obviously flawed mixes in there, but it's best to focus on the lovely music for dis wun.\n \n<b>Can you tell us about the idea behind the mix?</b>\n \nThere's no real concept behind this mix, it's essentially a collection of tracks I've been playing out lately. I tried to think of it as a one-hour DJ set rather than a mix. There are a lot of tracks from myself and a lot from friends.\n \n<b>Are you getting to skateboard much these days?</b>\n \nI'm trying to as much as possible. It's sweet because I live around the corner from Gillett Square in Dalston, however the only downside to London really is the weather haha.\n \n<b>What are you up to next?</b>\n \nContinuing the Nonstop Feeling tour and planning a lot of cool stuff for the coming months. Hopefully getting in the studio with some artists I really admire and making as much music as I can whenever I can!\n ",
+    "blurb": "One of dance music's biggest new talents steps up.  "
+  }
+}

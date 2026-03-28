@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "265",
+  "url": "https://ra.co/podcast/265",
+  "id": "265",
+  "__typename": "Podcast",
+  "title": "RA.265 Convextion",
+  "date": "2011-06-27T17:46:21.000Z",
+  "fileSize": 79366979,
+  "duration": "01:06:06",
+  "imageUrl": "https://static.ra.co/images/podcast/ra265-convextion-cvr.jpg",
+  "contentUrl": "/podcast/265",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra265/",
+  "keywords": "Convextion, techno, electro, Gerard Hanson",
+  "artist": {
+    "id": "5294",
+    "__typename": "Artist",
+    "name": "Convextion"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There's not too much to go on when attempting to decipher Gerard Hanson, AKA Convextion. What's clear is that he resides in Dallas, Texas, records techno as Convextion, electro as E.R.P and released his debut 12-inch back in 1995 through Matrix Records. His biography also isn't particularly enlightening—merely a run through of his influences and releases—but does confirm that throughout his 16-year recording career Hanson has remained \"willingly anonymous.\" This mysterious shroud coupled with a limited number of releases (Hanson put-out only two 12-inches between '97 and '05) has led to something of a cult Convextion/E.R.P. following. Those who've tracked Hanson's limited manoeuvres have seen their faith rewarded recently, however, as fresh E.R.P. material came to light through highly regarded Spanish imprint Semantica, revealing some of Hanson's finest work to date under either moniker.\n\nOn this live set, recorded last year at a <a href=\"/event.aspx?185427\">Bleep43 party</a> in London, you'll hear Hanson moving through his trademark sound of fast-paced techno and electro. \n\n<span class=\"grey\"><i>Photo credit: <a href=\"http://arcart.org\" class=\"grey\">Max Duley</a></i></span>",
+    "blurb": "A rare recorded session from one of techno/electro's cult figures."
+  }
+}

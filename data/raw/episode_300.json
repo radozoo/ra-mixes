@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "300",
+  "url": "https://ra.co/podcast/300",
+  "id": "300",
+  "__typename": "Podcast",
+  "title": "RA.300 DJ Harvey",
+  "date": "2012-02-27T00:00:22.000Z",
+  "fileSize": 127110642,
+  "duration": "01:45:52",
+  "imageUrl": "https://static.ra.co/images/podcast/ra300-dj-harvey-cvr.jpg",
+  "contentUrl": "/podcast/300",
+  "tracklist": "",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra300/",
+  "keywords": "DJ Harvey, harvey, sarcastic, disco, house, psychedelic",
+  "artist": {
+    "id": "906",
+    "__typename": "Artist",
+    "name": "DJ Harvey"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Why does DJ Harvey enjoy such a cult status? The short answer is that he's a bit of a rock star. Right from the early days as resident at London's Ministry of Sound, a mythical aura has swirled around his Larry Levan-inspired style of DJing and larger than life personality. Black Cock also fuelled this fire: the imprint he began back in 1993 alongside Gerry Rooney marked Harvey out as an edits specialist, with the demand for original BC presses giving rise to a string of <a href=\"http://www.discogs.com/label/Black+Cock+Records+%282%29\">counterfeits</a>. Trawl a little further through Discogs and you come to  <a href=\"http://www.discogs.com/DJ-Harvey-Sarcastic-Study-Masters/release/605268\"><i>Sarcastic Study Masters</i></a>, a 2001 promo mix he recorded for Sarcastic Clothing which is currently listed for £245 ($380) and upwards. (\"This is one of the best mixes I have ever heard\" says one effusive commenter on the site.) Sarcastic (Disco) is also the name of Harvey's quarterly warehouse party in his adopted hometown of LA; the private event is arguably the best place to catch Harvey embarking on a famed extended set. \n\nHaving fixed up the visa issues that prevented him from travelling outside the US, Harvey began touring the globe again in 2010. That year also saw him begin Locussolus, the vehicle for his original productions for International Feel that culminated in a <a href=\"/review-view.aspx?id=9062\">full album release</a> the following year. (We're told he's currently working on a new EP under the alias.) And if you've checked any of the recent interviews with Harvey you'll know he's ripe for a quote and an anecdote—<a href=\"/podcast-episode.aspx?exchange=41\">his Exchange</a> with us last year was unsurprisingly one of the most engaging in the series to date. \n\nAll of which brings us on to RA.300. We knew that as one of the few genuinely eclectic selectors on the circuit his mix for us would be far-reaching…but this quite frankly is ridiculous. The man himself describes it as \"an Afro, Gothic disco fusion, with dark undertones.\" We're simply saying that's it totally far out, man.  \n\n<b>What have you been up to recently?</b>\n\nJust came from a run of great gigs: Santos in NY, Public Works in SF. We had an epic Sarcastic Disco at the end of last year. My US gig circuit is great, I'm really happy about it. Also some nice remixes, chilling in Venice, the usual.\n\n<b>How and where was the mix recorded</b>\n\nThe mix was recorded at Climax Discoteque, a gentleman's club in Venice CA, on a very rare, collectable, in some cases kindly donated and in part, vintage, hi-fi.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nAn Afro, Gothic disco fusion, with dark undertones but a high degree of musical sophistication. Not so easy-listening, more very freaky psychedelic dancing.\n\n<b>What have been your reservations over putting out mixes until now?</b>\n\nI did a mix for everyone that came to my <a href=\"/event.aspx?311720\">New Year's gig at Freaks in Japan</a>, we made a really nice CD and gave one to everyone that came. I have been reluctant to do mixes due to bootlegging. All those credit to the edit and other mixes you see out there are not mine, it's people with little imagination bootlegging stuff I did years ago to make a buck, so I thought the best way to combat the problem was to not put out any mixes and not allow any sets to be recorded for a little while. There is something about coming to the party and hearing myself or another DJ live that can never be captured for a later date. This mix was done especially for you guys, one take and it was great fun to do.\n\n<b>What's your preferred DJ set-up?</b>\n\nThree Technics turntables that are set up so they don't feedback; two Pioneer CDJs; a rotary mixer; a crossover and 5 band EQ—I have great ones given to me by Alpha Recordings. I like Shure Audiofile stylus and Audio Technica headphones. \n\n<b>What are you up the next?</b>\n\nThis coming weekend I'm playing at Terry Richardson's afterparty for his first LA exhibition at Oh Wow gallery. It's in a suite at Chateau Marmont—that's the stuff of legends right there. Upcoming I have a gig for the Rhonda boys in LA, I might hit SXSW for the first time this year right before Miami. Then it's off to Europe. \"The management\" are cooking up something for London at some point and I can't wait.   ",
+    "blurb": "Harvey marks our 300th podcast with an extremely rare recorded mix."
+  }
+}

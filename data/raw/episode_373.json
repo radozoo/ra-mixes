@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "373",
+  "url": "https://ra.co/podcast/373",
+  "id": "373",
+  "__typename": "Podcast",
+  "title": "RA.373 Helena Hauff ",
+  "date": "2013-07-22T00:00:14.000Z",
+  "fileSize": 89501876,
+  "duration": "01:14:15",
+  "imageUrl": "https://static.ra.co/images/podcast/ra373-helena-hauff-cvr.jpg",
+  "contentUrl": "/podcast/373",
+  "tracklist": "Das Ding - Take Me Away\nPerseus Traxx - Bunker 3099 B2\nThe Minister - Flying Around\nSendex - Untitled\nAcido - After Club Rectum (Crystal Bois' 727 MANIA)\nDMX Krew - Body Destruction\nThe Neon Judgement - TV Treated (New Version)\nFront 242 - Work 01\nRaheem Hershel - Electroclash\nUnit Moebius - Binky Boy\nI.B.M. Presents Monsieur Black - Hurt U\nThe Dirty Criminals - Hurt Yourself\nMaurice Joshua With Hot Hula Hands - I Got A Big Dick (Instrumental)\nSound Of Mind - It's Material\nMystery Plane - Road Movie\nPerseus Traxx - Bunker 3099 B4\nThe Neon Judgement - Stay Mad",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra373/",
+  "keywords": "Helena Hauff, Golden Pudel, Hamburg, Birds and Other instruments, Actio Reactio, Black Sites, EBM, new beat",
+  "artist": {
+    "id": "43227",
+    "__typename": "Artist",
+    "name": "Helena Hauff"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "The Golden Pudel—a tiny, scruffy club by the Hamburg fish markets, which happens to be one of Europe's best party spots—has provided the perfect habitat for Helena Hauff to cultivate her DJing style. It's here that she's built her name as a selector, weaving energetically between neck-snapping electro, new wave and EBM at her Birds & Other Instruments party, which has featured the likes of I-F and Mike Huckaby as guests since it launched in 2010. Hauff credits the club's unique atmosphere as a key influence in her development: \"You have the freedom to experiment without being afraid of messing up,\" she says.\n\nHauff is about to make inroads as a producer, with her first two records due to land next month. The first is a solo 12-inch called <i>Actio Reactio</i> for Actress's Werkdiscs, while the second is a collaborative EP for PAN, produced under the name Black Sites with fellow Pudel resident f#x.\n\nFor her RA podcast, Hauff throws down records from Bunker, Mathematics, Minimal Wave and Sonic Groove among others, providing an electrifying insight into one of Europe's brightest new DJ talents. \n\n<b>What have you been up to recently?</b>\n\nI recently spent some time in London DJing. And I'm busy recording new material.\n\n<b>How and where was the mix recorded?</b>\n\nAt home with my records and turntables.\n\n<b>Can you tell us about the idea behind the mix?</b> \n\nI love EBM and new beat stuff. I wanted to combine those sounds with some acid!\n\n<b>You're a resident DJ at the Golden Pudel. How important has the club been to the development of your DJ style? </b>\n\nIt was very important. There you have the freedom to experiment without being afraid of messing up. I started to combine different styles and developed my own way of DJing.\n\n<b>You're about to release a debut EP for Werkdiscs. How long have you been producing for and what have you got coming up? </b>\n\nI started to collect synthesizers and produce about two years ago. An EP on Werkdiscs called <i>Actio Reactio</i> and a collaborative work with f#x under the name Black Sites on PAN are both coming out soon.\n\n<b>What are you up to next? </b> \n\nMaking more music and DJing. I'll be playing at <a href=\"/event.aspx?484021\"> Unsound</a> in Poland, too.",
+    "blurb": "Acid and electro from the docks of Hamburg. "
+  }
+}

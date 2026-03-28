@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "90",
+  "url": "https://ra.co/podcast/90",
+  "id": "90",
+  "__typename": "Podcast",
+  "title": "RA.090 Sasse",
+  "date": "2008-02-12T23:24:02.000Z",
+  "fileSize": 81944390,
+  "duration": "01:08:16",
+  "imageUrl": "https://static.ra.co/images/podcast/ra090-sasse-cover.jpg",
+  "contentUrl": "/podcast/90",
+  "tracklist": "01. <a href=\"dj-page.aspx?id=412\">Poxymusic</a> - Warpaint (<a href=\"dj-page.aspx?id=750\">Claude VonStroke</a> Remix) - <a href=\"/record-label.aspx?id=175\">Hussle</a>\n02. <a href=\"dj-page.aspx?id=1905\">Worthy</a> - Work The Walls (Yankee Zulu Remix) - <a href=\"/record-label.aspx?id=1315\">Katabatic</a>\n03. <a href=\"dj-page.aspx?id=834\">Dirt Crew</a> - Boogie Down (<a href=\"dj-page.aspx?id=2110\">Falko Brocksieper</a> Remix) - <a href=\"/record-label.aspx?id=851\">Dirt Crew 22</a>\n04. Autuori - Everlasting Cigaret - <a href=\"/record-label.aspx?id=918\">Battle 013</a>\n05. <a href=\"dj-page.aspx?id=2151\">Tigerskin</a> - The Holy Grail - <a href=\"/record-label.aspx?id=961\">Moodmusic 059</a>\n06. <a href=\"dj-page.aspx?id=2485\">Lee Jones</a> - Aria (<a href=\"dj-page.aspx?id=1713\">Tiger Stripes</a> Remix) - <a href=\"/record-label.aspx?id=796\">Aus Music</a>\n07. <a href=\"dj-page.aspx?id=2108\">Daso</a> - Thujon - <a href=\"/record-label.aspx?id=873\">Connaiseur</a>\n08. Liquid People - Son Of Dragon - <a href=\"/record-label.aspx?id=45\">Defected</a>\n09. <a href=\"dj-page.aspx?id=892\">Spirit Catcher</a> - Voo Doo Knight (Wagon Cookin Remix) - <a href=\"/record-label.aspx?id=961\">Moodmusic 060</a>\n10. <a href=\"dj-page.aspx?id=1560\">Sasse</a> - Clemens - <a href=\"/record-label.aspx?id=961\">Moodmusic</a>\n11. Penner & Mulder - Are You Lost - <a href=\"/record-label.aspx?id=961\">Moodmusic</a>",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra090/",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:1560"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "With releases on more than twenty labels under eight pseudonyms in the past 15 years, Sasse gets around. His Moodmusic label is the epitome of good-time house music, featuring releases from Spirit Catcher, Dirt Crew and Henrik Schwarz (Sasse's partner in crime in Asshole & Gentleman). This goodwill has even gotten him into the good graces of one Tracey Thorn: Sasse co-wrote 'It's All True' on her new album along with Darshan Jesrani and Ewan Pearson.\n\nBesides producing, Sasse also DJs, holding down residencies at Berlin's Panoramabar and Weekend. You can also catch his next month also in the Austrian Alps at <a href=\"/event-detail.aspx?id=34840\">Snowbombing</a> if you're in the vicinity. Sasse's RA podcast is a taster of his club style, moving from trance-inflected house music to the emotional Euro-techno of the Daso's 'Thujon' and Lee Jones' newie 'Aria' before slowing down with Penner & Mulder's elegiac closer 'Are You Lost?'. No need to buckle up: with Sasse at the wheel, you know it's going to be a smooth ride.\n\n<b>What have you been working on recently?</b>\n\nRemixes! One of Jori Hulkkonen feat. John Fox 'Never Been Here Before', which should come out in February. Two are due in March: the first is for Wagon Cooking on Compost, the second for Elmar Schubert for Fantazise in Dubai. There's also one that's supposed to come out this spring sometime that I've done of Marcus, a band from Belgium. I'm also working on a new 12-inch for Thugfucker with Holmar Filipsson. It's called 'Lilly Louisa' and should be out in March. Finally, I'm also putting together remixes for Kiki and I's 'Belvedere' from Jori Hulkkonen, 2 Armadillos & Till von Sein.\n\n<b>Where was the mix recorded?</b>\n\nThe mix was done at the Blackhead Studios, Berlin.\n\n<b>What are you up to next?</b>\n\nI'm working on an Asshole & Gentleman album with Henrik Schwarz, as well as a solo album (hopefully out this summer). The first single for the solo album will come out this spring. It's called 'Sunday Music'. I've also got a new 12-inch on Mule coming out in the summer called 'Lake Michigan'.",
+    "blurb": "This week's RA podcast: a DJ mix from the owner of Moodmusic, Sasse."
+  }
+}

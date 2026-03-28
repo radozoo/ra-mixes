@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "344",
+  "url": "https://ra.co/podcast/344",
+  "id": "344",
+  "__typename": "Podcast",
+  "title": "RA.344 Mano Le Tough",
+  "date": "2012-12-31T00:00:06.000Z",
+  "fileSize": 92080990,
+  "duration": "01:16:24",
+  "imageUrl": "https://static.ra.co/images/podcast/ra344-mano-le-tough-cvr.jpg",
+  "contentUrl": "/podcast/344",
+  "tracklist": "Levon Vincent - Stereo systems (excerpt) - Novel Sound\nYoung Marco - Video Days - ESP Institute\nTrus'me - Nards (Ryan Elliott Remix) - Prime Numbers\nMatias Aguayo - Papel original - Soul Jazz Records\nBarnt - Ariola - Cómeme\nHerbert - It's Only (DJ Koze remix) - Pampa\nMano Le Tough - Moments of Truth - Permanent Vacation\nThe Cheapers - The Black Bell - Bar 25\nMri - Rejam (Robag Wruhme Diplopie Myx Atacke) - Resopal Scallware\nMarcus Worgull - Salam feat. Peter Pardeike - Innervisions\nTin Man - Nonneo (Donato Dozzy remix) - Acid Test\nIan Pooley - CompuRhythm (Baikal remix) - Innervisions\nMano Le Tough - Dreaming Youth - Permanent Vacation\nGerry Diver - House Ceilidh feat. Margaret Barry - Speech Profect",
+  "archived": true,
+  "streamingUrl": "https://www.mixcloud.com/residentadvisor/ra344/",
+  "keywords": "Mano Le Tough, House, Disco, Niall Mannion, Permanent Vacation, ",
+  "artist": {
+    "id": "2565",
+    "__typename": "Artist",
+    "name": "Mano Le Tough"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "There was a definite sense of momentum behind Mano Le Tough in 2012. Talk of the Irishman's DJ sets reached word-of-mouth status among European club-goers, building on a reputation he'd earned through hard gigging in his home town, Berlin, these past few years. With a fondness for songs (as opposed to tracks), Niall Mannion's sets had a poise and melodic sensibility that at times brought to mind the Innervisions crew. He finished the year by hitting #53 on <a href=\"feature.aspx?1700\">RA's DJ poll</a>—not too shabby for a debutant. \n\nMelody is also front and center in Mannion's recorded music. Disco-indebted labels like Prins Thomas' Internasjonal, Tensnake's Mirau and Ben Watt's Buzzin' Fly have all been natural homes for him so far, while Munich's Permanent Vacation—who put out his excellent recent remix of Róisín Murphy's \"Simulation\"—will release his debut album, <a href=\"news.aspx?id=18474\"><i>Changing Days</i></a>, in February 2013.   \n\nTwo tracks from the album make it onto RA.344, a mix that flows through a range of house-based textures, but is defined by an absorbing lightness of touch. \n\n<b>What have you been up to recently?</b>\n\nWell, I just finished <a href=\"news.aspx?id=18474\">my debut album</a> last month, which was a very intense period. Since then I have been relaxing a bit for the first time in a while, although of course I've been touring every weekend, so not relaxing too hard! It has been really nice to catch up with friends and do non album-related stuff for a bit.\n\n<b>How and where was the mix recorded?</b>\n\nThe mix was done on the computer, mostly in airplanes and a little at home in the studio.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nThe idea behind the mix was to make something representative of what I play out at the moment but in a somewhat condensed form, like a snapshot of a longer set I would play at Panorama Bar. It also includes a couple of exclusives from my album. \n\n<b>What did you set out to achieve with your debut album?</b>\n\nGood question. I guess I just wanted to make a record which was an honest reflection of myself as an artist at this point in my development. I learnt a lot about myself in the process. It was tough, but a good experience.\n\n<b>You're not shy of melodies in your sets and productions. Has this always been the case? What does this stem from?</b>\n\nThis has definitely always been the case. When I make music I often start with a melodic hook and build the track from there. When I DJ it can be a bit different, often I play quite atonal techno stuff then reel people back in with something more melodic. In electronic music, and especially in DJing, it is possible to present very contrasting styles of music together and create something interesting and dramatic. I think it's important to listen to lots of different types of music, it helps you think about music in a more abstract way and make and play more interesting music.\n\n<b>What are you up to next?</b>\n\nI am playing on New Year's Day in London for <a href=\"event.aspx?398195\">Electric Minds</a> and in Leeds for <a href=\"event.aspx?400749\">Mono_cult</a>. Then I am off to the <a href=\"event.aspx?388058\">BPM Festival</a> in Mexico and after that I come back to Europe for a series of album release parties, including <a href=\"event.aspx?435581\">Bob Beamen</a> in Munich, <a href=\"event.aspx?432350\">Panorama Bar</a>, Trouw in Amsterdam and a very special party in Ireland I can't say much about yet!",
+    "blurb": "Shimmering house music from a producer on the rise.  "
+  }
+}

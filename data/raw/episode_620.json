@@ -1,0 +1,27 @@
+{
+  "source": "apollo_cache",
+  "podcast_id": "620",
+  "url": "https://ra.co/podcast/620",
+  "id": "620",
+  "__typename": "Podcast",
+  "title": "RA.620 dgoHn",
+  "date": "2018-04-16T00:00:10.000Z",
+  "fileSize": 120415310,
+  "duration": "00:50:10",
+  "imageUrl": "https://static.ra.co/images/podcast/ra620-dgohn-cvr.jpg",
+  "contentUrl": "/podcast/620",
+  "tracklist": "dgoHn - So Be It, Lumbricina - Love Love Records\nKunst - Hill - Kunst\nBadun - Glry Studio (dgoHn Remix) - Schematic, Leek Records\nMacc & dgoHn - Mustard Greens - Subtle Audio, Rephlex Records\nEDM - CLTRE AVA V2 - Electric Dance Music\nRognvald - R.O.G.N.V.A.L.D - Love Love Records\nScale - Mind Control - Pinecone Moonshine\ndgoHn - Ralph - Love Love Records\nEDM - 170FE1 - Electric Dance Music\nGreenleaf - Eater Of Worlds - Jungletrain Recordings\nRelapse - My Hiding Place - Subtle Audio\nNebula - Noir - Subtle Audio\ndgoHn - Drainbow - Unreleased\nParadox - The Bolide - Paradox Music\nIcarus - Arzach - Recordings of Substance\nNic TVG - Unchanged, Undisturbed - Pinecone Moonshine\nLord Of The D - Street Fighter - Rewind Records",
+  "archived": true,
+  "streamingUrl": "https://api.soundcloud.com/tracks/430387740",
+  "keywords": "John Cunnane, drumfunk, drum and bass, IDM, Rephlex, Paradox, Subtle Audio, Love Love Records",
+  "artist": {
+    "id": "43462",
+    "__typename": "Artist",
+    "name": "dgoHn"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "John Cunnane is a practitioner of drumfunk, a drum & bass subgenre that focuses on virtuosic breakbeat chopping and a jazzy sense of rhythm and improvisation. Where breakcore goes for the jugular, drumfunk hangs back, delighting in repetition and strange patterns, and sometimes hinting at the percussive side of late '90s IDM. (As one half of Macc & dgoHn, Cunnane made the album <i>Some Shit Saaink</i>, a <a href=\"https://www.discogs.com/Macc-dgoHn-Some-Shit-Saaink/release/2381876\">minor classic</a> released on Rephlex, the label started by Aphex Twin and Grant Wilson-Claridge.) Alongside more prominent drumfunk producers like Paradox, who is largely credited with inventing the genre, Cunnane represents an experimental end of the scene now centered on Colchester's Love Love Records and the often-overlooked Irish label Subtle Audio, the two imprints where he's released most of his recent EPs.\n\ndgoHn's music might be mostly drums, but he squeezes plenty of variety out of them. His approach is more colourful than many of his peers: at one moment he's making futuristic breakcore-influenced music, and at another he's making something resembling early jungle or even acid jazz. This vibrant spread of sounds is on display on his RA podcast, which highlights everything this odd little scene has to offer. There are tracks from lesser-known projects like Kunst (his collaboration with fellow Rephlex head Jodey Kendrick), Rognvald (who released a record on Planet Mu as Burnkane almost a decade ago), drumfunk stalwarts Nic TVG and Greenleaf, as well as some artists from Subtle Audio. It's almost an hour of endlessly creative percussive music that should impress dilettantes and drum & bass acolytes alike.\n\n\n<b>What have you been up to recently?</b>\n\nMaking music, always making music. I have been working on more tunes for Love Love Records, and a few other bits for other labels.\n\n<b>How and where was the mix recorded?</b>\n\nAt home, on a laptop, using Ableton and a few MIDI controllers.\n\n<b>Can you tell us about the idea behind the mix?</b>\n\nNot really, it's just a few tunes that I like, and a few of my own, mixed (blended/forced) together in a way that in the end the whole thing (arguably) doesn't sound shit. I don't always get it right, but I'm pretty sure that's the general idea behind any mix I do.\n\n<b>Most people refer to your music as \"drumfunk\"—is this something you identify with? Does this sound or scene still exist in your mind?</b>\n\nI suppose I agree with the term \"drumfunk\" to describe my music, but that's mostly because I honestly don't think that most of my tunes fit in with the whole drum & bass or jungle thing, and having a different genre name helps.... maybe? And given that I focus on the beats a lot, \"drumfunk\" is probably quite apt, but whether it is correct or not is another thing, and I'm not sure I care all that much.\n\n<b>The way you chop up breaks feels both futuristic and old-school. What's your setup like?</b>\n\nMy setup is basic and cheap, but I like it that way because I'm comfortable with it. There is nothing futuristic or old-school about how I chop up breaks, it's just a DAW and the scissors tool.\n\n<b>What are you up to next?</b>\n\nMore of the same, probably. I might do an album if I can be bothered. There are some collaborations in the works. There is a project I'm working on with Oliver Duckert (Badun), and at some stage there will be more stuff with Jodey Kendrick, and probably (not?) there might be some more Macc & dgoHn music.\n",
+    "blurb": "Drumfunk."
+  }
+}
