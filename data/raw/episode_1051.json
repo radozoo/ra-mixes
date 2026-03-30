@@ -1,0 +1,25 @@
+{
+  "source": "httpx_next_data",
+  "podcast_id": "1051",
+  "url": "https://ra.co/podcast/1051",
+  "id": "1051",
+  "__typename": "Podcast",
+  "title": "RA.1032 Fcukers",
+  "date": "2026-03-29T22:30:59.000Z",
+  "fileSize": 0,
+  "duration": "01:01:01",
+  "imageUrl": "https://static.ra.co/images/podcast/fcukers_ra1032_1x1(1).png",
+  "contentUrl": "/podcast/1051",
+  "tracklist": "Chemical Brothers - Hot Acid Rhythm 1 \nBig Muff - Pornstar (Big C's Groovy dub) \nGroove Armada - If Everybody Looked The Same \nArsenal - A Volta\nBah Samba - Carnival (Original Mix) \nRalphi Rosario - Brinca (The Definitive Vocal Mix) \nCassius - Calliope\nMinimal Funk - Turn It To The House (Roger Rama Nu Funk Era) \nPressure Drop - Theme for the Outcaste \nOl' Dirty Bastard & Master Fuol - Last Call\nPinty - Go to Bed Pt. 2 \nJ-Walk - Beetroot Soup \nBomb the Bass - One to One Religion (Skankapella Remix)",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1032-fcukers",
+  "keywords": "",
+  "artist": {
+    "__ref": "Artist:179978"
+  },
+  "translation": {
+    "__typename": "PodcastContent",
+    "content": "Fcukers don't really care about success. Or at least, that's how it started. \"We don't give a shit. We're not going to have a music career. Who cares? We're going to do exactly what we want,\" Jackson Walker Lewis told <i>Rolling Stone</i>, recalling the duo's early mindset. The origin of their name, lifted from the iconoclastic slogan top that defined a generation of anti-fashion kids, is a fitting touch for a duo transforming '90s nostalgia into something that sounds distinctly modern. \n\nThat irreverence still runs through the duo, made up of Lewis and Shanny Wise. Like many before them, Fcukers (sometimes, but not always, capitalised as FCUKERS) are indie kids turned club kids, resulting in a sound that draws from a multitude of influences spanning big beat, filter house, dance punk, drum & bass, reggae and dub, to name a few. Their rise has been swift: debut single \"Mothers\" landed in 2023, quickly catching ears across both music and fashion circles, including Hedi Slimane, who flew the band out to Paris to soundtrack one of his fashion show afterparties.\n\nBehind the attitude, though, is a genuine education in dance music lineage. Lewis traces it back to his time working in a Brooklyn record store, digging through bargain bins and stumbling into house music. \"It was this whole new world,\" he said. That instinct—part crate-digger, part pop showmanship—has since drawn the attention of artists like Charli XCX and Tiga. \n\nTheir <i>RA Mix</i> captures that balance. It's Fcukers on DJ duty: a loose, referential run through turn-of-the-millennium cuts, from Groove Armada to The Chemical Brothers and Cassius. Neverslipping into pastiche, RA.1032 channels the wide-eyed optimism of an era they clearly hold dear. And with their debut album, <i>Ö</i>, landing this week, Fcukers might still claim to not care about success, but it has found them all the same. - <i>Bella Aquilina</i>",
+    "blurb": "'90s nostalgia, big beat and bargain-bin house courtesy of the New York dance-pop duo."
+  }
+}

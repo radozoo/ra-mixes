@@ -119,13 +119,18 @@ def load_mixes():
 
     # ── LLM cache (labels + genres) ─────────────────────────────────────
     llm_cache = {}
-    llm_path = DATA_DIR / "llm_genre_cache_normalized.jsonl"
-    if llm_path.exists():
-        with open(llm_path, encoding="utf-8") as f:
-            for line in f:
-                if line.strip():
-                    obj = json.loads(line)
-                    llm_cache[obj["podcast_id"]] = obj
+    # Prefer enriched cache with label_categories if available
+    for llm_path in [
+        DATA_DIR / "llm_genre_cache_with_categories.jsonl",
+        DATA_DIR / "llm_genre_cache_normalized.jsonl",
+    ]:
+        if llm_path.exists():
+            with open(llm_path, encoding="utf-8") as f:
+                for line in f:
+                    if line.strip():
+                        obj = json.loads(line)
+                        llm_cache[obj["podcast_id"]] = obj
+            break
 
     # ── Merge ────────────────────────────────────────────────────────────
     mixes = []
@@ -134,6 +139,7 @@ def load_mixes():
         ep["genres"] = genre_map.get(pid, [])
         ep["tracks"] = tracks_map.get(pid, [])
         ep["labels"] = llm_cache.get(pid, {}).get("labels", [])
+        ep["label_categories"] = llm_cache.get(pid, {}).get("label_categories", {})
         ep["id"] = pid
         mixes.append(ep)
 
@@ -177,6 +183,8 @@ def build_html(mixes, graph):
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>RA Genre Network</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
 body {{
@@ -262,6 +270,33 @@ body {{
 .ep-item .ep-num {{ color: #666; margin-right: 6px; }}
 .ep-item.active .ep-num {{ color: #e63946; }}
 
+/* Center panel — tabs + views */
+.center-panel {{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}}
+.center-tabs {{
+  display: flex;
+  background: #1a1a1a;
+  border-bottom: 1px solid #333;
+  flex-shrink: 0;
+}}
+.center-tab {{
+  background: none;
+  border: none;
+  color: #888;
+  padding: 10px 22px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 15px;
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s;
+}}
+.center-tab:hover {{ color: #ccc; }}
+.center-tab.active {{ color: #fff; border-bottom-color: #4fc3f7; }}
+
 /* Center — graph */
 .graph-area {{
   flex: 1;
@@ -269,6 +304,191 @@ body {{
   overflow: hidden;
 }}
 .graph-area svg {{ width: 100%; height: 100%; }}
+
+/* Label filter area */
+.label-filter-area {{
+  flex: 1;
+  padding: 14px 18px;
+  overflow-y: auto;
+  font-family: 'DM Sans', sans-serif;
+}}
+.label-filter-area::-webkit-scrollbar {{ width: 6px; }}
+.label-filter-area::-webkit-scrollbar-track {{ background: #0a0a0a; }}
+.label-filter-area::-webkit-scrollbar-thumb {{ background: #444; border-radius: 3px; }}
+
+/* Active filters bar */
+.active-filters {{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+  min-height: 28px;
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #222;
+}}
+.active-filters:empty {{ display: none; }}
+.active-filter-chip.label-chip {{
+  font-size: 13px;
+  padding: 4px 10px 4px 12px;
+  font-style: normal;
+  border-radius: 10px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: opacity 0.15s;
+}}
+.active-filter-chip:hover {{ opacity: 0.8; }}
+.active-filter-chip .remove {{ opacity: 0.5; font-size: 16px; }}
+.active-filter-chip .remove:hover {{ opacity: 1; }}
+.clear-filters-btn {{
+  font-size: 13px;
+  color: #666;
+  cursor: pointer;
+  padding: 2px 8px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  background: none;
+  font-family: inherit;
+  transition: color 0.15s;
+}}
+.clear-filters-btn:hover {{ color: #e63946; border-color: #e63946; }}
+.filter-match-count {{
+  font-size: 13px;
+  color: #666;
+  margin-left: auto;
+}}
+
+/* Genre filter section (full width, above masonry) */
+.genre-filter-section {{
+  margin-bottom: 16px;
+  padding: 12px 14px;
+  background: #111;
+  border: 1px solid #252525;
+  border-radius: 8px;
+}}
+.genre-filter-title {{
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}}
+.genre-filter-items {{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}}
+.genre-filter-chip {{
+  font-size: 13px;
+  padding: 4px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  opacity: 0.7;
+  font-family: inherit;
+  border: none;
+  transition: opacity 0.15s, box-shadow 0.15s;
+}}
+.genre-filter-chip:hover {{ opacity: 1; }}
+.genre-filter-chip.selected {{
+  opacity: 1;
+  box-shadow: 0 0 0 1.5px rgba(255,255,255,0.6);
+}}
+.genre-filter-chip .chip-count {{
+  font-size: 10px;
+  opacity: 0.55;
+  margin-left: 3px;
+}}
+
+/* Masonry layout for label categories */
+.label-masonry {{
+  columns: 2;
+  column-gap: 14px;
+}}
+@media (min-width: 1200px) {{
+  .label-masonry {{ columns: 3; }}
+}}
+
+/* Category tile */
+.label-cat-section {{
+  break-inside: avoid;
+  margin-bottom: 14px;
+  padding: 10px 12px 8px;
+  background: #111;
+  border: 1px solid #252525;
+  border-radius: 8px;
+  border-left: 3px solid #444;
+}}
+.label-cat-section[data-cat="mood"]      {{ border-left-color: #7c4fa0; }}
+.label-cat-section[data-cat="energy"]    {{ border-left-color: #c76b00; }}
+.label-cat-section[data-cat="setting"]   {{ border-left-color: #0080b0; }}
+.label-cat-section[data-cat="geography"] {{ border-left-color: #007a40; }}
+.label-cat-section[data-cat="style"]     {{ border-left-color: #0050c0; }}
+.label-cat-section[data-cat="era"]       {{ border-left-color: #a08000; }}
+.label-cat-section[data-cat="vibe"]      {{ border-left-color: #a0006a; }}
+
+.label-cat-title {{
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #666;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}}
+.label-cat-items {{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}}
+.label-filter-area .filter-label-chip.label-chip {{
+  font-size: 13px;
+  padding: 4px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 1px solid;
+  opacity: 0.65;
+  font-style: normal;
+  transition: opacity 0.15s, box-shadow 0.15s;
+}}
+.label-filter-area .filter-label-chip:hover {{ opacity: 1; }}
+.label-filter-area .filter-label-chip.selected {{
+  opacity: 1;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.5);
+}}
+.label-filter-area .filter-label-chip .chip-count {{
+  font-size: 10px;
+  opacity: 0.5;
+  margin-left: 2px;
+}}
+.show-more-btn {{
+  font-size: 11px;
+  color: #555;
+  cursor: pointer;
+  padding: 3px 8px;
+  background: none;
+  border: 1px solid #333;
+  border-radius: 8px;
+  font-family: inherit;
+  margin-top: 6px;
+  transition: color 0.15s;
+}}
+.show-more-btn:hover {{ color: #aaa; border-color: #555; }}
+
+/* Active filter chip for genres */
+.active-filter-chip.genre-chip {{
+  font-size: 12px;
+  padding: 3px 8px 3px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border: none;
+}}
 
 /* Edge filter buttons */
 .edge-filters {{
@@ -452,6 +672,25 @@ body {{
   background: #1a1a1a;
   font-style: italic;
 }}
+/* Category-colored label chips */
+.label-chip[data-cat="mood"]      {{ background: #2d1b3d; border-color: #7c4fa0; color: #c4a0e8; }}
+.label-chip[data-cat="energy"]    {{ background: #2d1a00; border-color: #c76b00; color: #ffb040; }}
+.label-chip[data-cat="setting"]   {{ background: #001e2d; border-color: #0080b0; color: #50bce8; }}
+.label-chip[data-cat="geography"] {{ background: #001a0e; border-color: #007a40; color: #40c878; }}
+.label-chip[data-cat="style"]     {{ background: #001530; border-color: #0050c0; color: #5090f0; }}
+.label-chip[data-cat="era"]       {{ background: #2a2000; border-color: #a08000; color: #e0c040; }}
+.label-chip[data-cat="vibe"]      {{ background: #2a001a; border-color: #a0006a; color: #f060c0; }}
+/* Category group header */
+.label-cat-group {{
+  display: contents;
+}}
+.label-cat-dot {{
+  display: inline-block;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  margin-right: 2px;
+  vertical-align: middle;
+}}
 
 /* Blurb */
 .detail-blurb {{
@@ -605,10 +844,21 @@ body {{
     <div class="sidebar-player" id="sidebarPlayer"></div>
   </div>
 
-  <!-- Center: graph -->
-  <div class="graph-area" id="graphArea">
-    <svg id="graph"></svg>
-    <div class="tooltip" id="tooltip"></div>
+  <!-- Center: tabs + views -->
+  <div class="center-panel">
+    <div class="center-tabs">
+      <button class="center-tab active" data-view="graph">Network Graph</button>
+      <button class="center-tab" data-view="labels">Labels</button>
+    </div>
+    <div class="graph-area" id="graphArea">
+      <svg id="graph"></svg>
+      <div class="tooltip" id="tooltip"></div>
+    </div>
+    <div class="label-filter-area" id="labelFilterArea" style="display:none">
+      <div class="active-filters" id="activeFilters"></div>
+      <div class="genre-filter-section" id="genreFilterSection"></div>
+      <div class="label-masonry" id="labelMasonry"></div>
+    </div>
   </div>
 
   <!-- Right: episode detail -->
@@ -680,6 +930,332 @@ function renderEpisodeListByGenres(genreSet) {{
 searchInput.addEventListener('input', e => renderEpisodeList(e.target.value));
 renderEpisodeList();
 
+// ── Label & Genre Filter Panel ─────────────────────────────────────────────
+const CAT_ORDER = ['mood','energy','vibe','style','geography','setting','era'];
+const CAT_NAMES = {{ mood:'Mood', energy:'Energy', vibe:'Vibe', style:'Style', geography:'Geography', setting:'Setting', era:'Era' }};
+const DEFAULT_SHOW = 50;
+
+// Precompute label counts per category
+const LABEL_COUNTS = {{}};
+CAT_ORDER.forEach(cat => {{ LABEL_COUNTS[cat] = {{}}; }});
+MIXES.forEach(m => {{
+  if (!m.label_categories) return;
+  CAT_ORDER.forEach(cat => {{
+    (m.label_categories[cat] || []).forEach(l => {{
+      LABEL_COUNTS[cat][l] = (LABEL_COUNTS[cat][l] || 0) + 1;
+    }});
+  }});
+}});
+
+// Precompute genre counts
+const GENRE_COUNTS = {{}};
+MIXES.forEach(m => {{
+  (m.genres || []).forEach(g => {{
+    GENRE_COUNTS[g] = (GENRE_COUNTS[g] || 0) + 1;
+  }});
+}});
+const SORTED_GENRES = Object.entries(GENRE_COUNTS).sort((a, b) => b[1] - a[1]);
+
+let activeFilters = [];  // [{{category, label}}]  category='genre' for genres
+let expandedCats = new Set();
+
+function getFilteredMixes() {{
+  if (activeFilters.length === 0) return MIXES;
+  return MIXES.filter(m => {{
+    const cats = m.label_categories || {{}};
+    return activeFilters.every(f => {{
+      if (f.category === 'genre') return (m.genres || []).includes(f.label);
+      return (cats[f.category] || []).includes(f.label);
+    }});
+  }});
+}}
+
+function computeFilteredCounts(filteredMixes) {{
+  const labelCounts = {{}};
+  CAT_ORDER.forEach(cat => {{ labelCounts[cat] = {{}}; }});
+  const genreCounts = {{}};
+  filteredMixes.forEach(m => {{
+    if (m.label_categories) {{
+      CAT_ORDER.forEach(cat => {{
+        (m.label_categories[cat] || []).forEach(l => {{
+          labelCounts[cat][l] = (labelCounts[cat][l] || 0) + 1;
+        }});
+      }});
+    }}
+    (m.genres || []).forEach(g => {{
+      genreCounts[g] = (genreCounts[g] || 0) + 1;
+    }});
+  }});
+  return {{ labelCounts, genreCounts }};
+}}
+
+function renderGenreFilterSection() {{
+  const container = document.getElementById('genreFilterSection');
+  container.innerHTML = '';
+
+  const filteredMixes = getFilteredMixes();
+  const displayCounts = activeFilters.length > 0
+    ? computeFilteredCounts(filteredMixes).genreCounts
+    : GENRE_COUNTS;
+
+  const entries = Object.entries(displayCounts).sort((a, b) => b[1] - a[1]);
+  if (!entries.length) return;
+
+  const expanded = expandedCats.has('genre');
+  const visible = expanded ? entries : entries.slice(0, 30);
+  const hasMore = entries.length > 30;
+
+  const title = document.createElement('div');
+  title.className = 'genre-filter-title';
+  title.textContent = `Genres (${{entries.length}})`;
+  container.appendChild(title);
+
+  const items = document.createElement('div');
+  items.className = 'genre-filter-items';
+
+  visible.forEach(([genre, count]) => {{
+    const chip = document.createElement('span');
+    chip.className = 'genre-filter-chip';
+    const node = nodeMap.get(genre);
+    const color = node ? node.color : '#666';
+    chip.style.background = color;
+    chip.innerHTML = `${{genre}}<span class="chip-count">${{count}}</span>`;
+    if (activeFilters.some(f => f.category === 'genre' && f.label === genre)) {{
+      chip.classList.add('selected');
+    }}
+    chip.addEventListener('click', () => toggleLabelFilter('genre', genre));
+    items.appendChild(chip);
+  }});
+
+  container.appendChild(items);
+
+  if (hasMore) {{
+    const btn = document.createElement('button');
+    btn.className = 'show-more-btn';
+    btn.textContent = expanded ? 'Show less' : `Show all ${{entries.length}}`;
+    btn.addEventListener('click', () => {{
+      if (expanded) expandedCats.delete('genre');
+      else expandedCats.add('genre');
+      renderFilterPanel();
+    }});
+    container.appendChild(btn);
+  }}
+}}
+
+function renderLabelMasonry() {{
+  const container = document.getElementById('labelMasonry');
+  container.innerHTML = '';
+
+  const filteredMixes = getFilteredMixes();
+  const displayCounts = activeFilters.length > 0
+    ? computeFilteredCounts(filteredMixes).labelCounts
+    : LABEL_COUNTS;
+
+  CAT_ORDER.forEach(cat => {{
+    const entries = Object.entries(displayCounts[cat] || {{}})
+      .sort((a, b) => b[1] - a[1]);
+    if (!entries.length) return;
+
+    const expanded = expandedCats.has(cat);
+    const visible = expanded ? entries : entries.slice(0, DEFAULT_SHOW);
+    const hasMore = entries.length > DEFAULT_SHOW;
+
+    const section = document.createElement('div');
+    section.className = 'label-cat-section';
+    section.setAttribute('data-cat', cat);
+
+    const title = document.createElement('div');
+    title.className = 'label-cat-title';
+    title.textContent = `${{CAT_NAMES[cat]}} (${{entries.length}})`;
+    section.appendChild(title);
+
+    const items = document.createElement('div');
+    items.className = 'label-cat-items';
+
+    visible.forEach(([label, count]) => {{
+      const chip = document.createElement('span');
+      chip.className = 'filter-label-chip label-chip';
+      chip.setAttribute('data-cat', cat);
+      chip.innerHTML = `${{label}}<span class="chip-count">${{count}}</span>`;
+      if (activeFilters.some(f => f.category === cat && f.label === label)) {{
+        chip.classList.add('selected');
+      }}
+      chip.addEventListener('click', () => toggleLabelFilter(cat, label));
+      items.appendChild(chip);
+    }});
+
+    section.appendChild(items);
+
+    if (hasMore) {{
+      const btn = document.createElement('button');
+      btn.className = 'show-more-btn';
+      btn.textContent = expanded ? 'Show less' : `Show all ${{entries.length}}`;
+      btn.addEventListener('click', () => {{
+        if (expanded) expandedCats.delete(cat);
+        else expandedCats.add(cat);
+        renderFilterPanel();
+      }});
+      section.appendChild(btn);
+    }}
+
+    container.appendChild(section);
+  }});
+}}
+
+function renderFilterPanel() {{
+  renderGenreFilterSection();
+  renderLabelMasonry();
+}}
+
+function renderActiveFilters() {{
+  const container = document.getElementById('activeFilters');
+  container.innerHTML = '';
+  if (activeFilters.length === 0) return;
+
+  activeFilters.forEach((f, idx) => {{
+    const chip = document.createElement('span');
+    if (f.category === 'genre') {{
+      chip.className = 'active-filter-chip genre-chip';
+      const node = nodeMap.get(f.label);
+      chip.style.background = node ? node.color : '#666';
+    }} else {{
+      chip.className = 'active-filter-chip label-chip';
+      chip.setAttribute('data-cat', f.category);
+    }}
+    chip.innerHTML = `${{f.label}} <span class="remove" data-idx="${{idx}}">&times;</span>`;
+    chip.querySelector('.remove').addEventListener('click', (e) => {{
+      e.stopPropagation();
+      activeFilters.splice(idx, 1);
+      onFiltersChanged();
+    }});
+    container.appendChild(chip);
+  }});
+
+  // Match count
+  const count = document.createElement('span');
+  count.className = 'filter-match-count';
+  const matchCount = getFilteredMixes().length;
+  count.textContent = `${{matchCount}} mix${{matchCount !== 1 ? 'es' : ''}}`;
+  container.appendChild(count);
+
+  // Clear all
+  const clear = document.createElement('button');
+  clear.className = 'clear-filters-btn';
+  clear.textContent = 'Clear all';
+  clear.addEventListener('click', clearAllFilters);
+  container.appendChild(clear);
+}}
+
+function toggleLabelFilter(cat, label) {{
+  const idx = activeFilters.findIndex(f => f.category === cat && f.label === label);
+  if (idx >= 0) {{
+    activeFilters.splice(idx, 1);
+  }} else {{
+    activeFilters.push({{ category: cat, label: label }});
+  }}
+  onFiltersChanged();
+}}
+
+function onFiltersChanged() {{
+  renderActiveFilters();
+  renderFilterPanel();
+  applyLabelFilters();
+}}
+
+function applyLabelFilters() {{
+  if (activeFilters.length === 0) {{
+    // Collapse detail panel when no filters
+    detailPanel.classList.add('collapsed');
+    return;
+  }}
+
+  const filtered = getFilteredMixes();
+
+  // Show filtered mixes in right detail panel (like genre detail)
+  detailPanel.classList.remove('collapsed');
+
+  const filterDesc = activeFilters.map(f => f.label).join(' + ');
+  const epList = filtered.slice(0, 50).map(m =>
+    `<div class="track-item" style="cursor:pointer" onclick="selectEpisode(mixMap.get('${{m.id}}'))">` +
+    `<span class="track-num">${{m.mix_number}}</span>` +
+    `<span class="track-artist">${{m.artist}}</span></div>`
+  ).join('');
+
+  detailContent.innerHTML = `
+    <div style="position:relative">
+      <button class="detail-close" onclick="clearAllFilters()">Close</button>
+      <div class="detail-header">
+        <div class="ep-title">Label Filter</div>
+        <div class="ep-artist">${{filterDesc}}</div>
+        <div class="detail-meta">
+          <div class="meta-item"><span class="meta-val">${{filtered.length}} episodes</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="tracklist-section">
+      <div class="tracklist-header">Episodes (${{filtered.length}})</div>
+      ${{epList}}
+      ${{filtered.length > 50 ? '<div class="no-tracklist">...and ' + (filtered.length - 50) + ' more</div>' : ''}}
+    </div>
+  `;
+
+  detailPanel.scrollTop = 0;
+}}
+
+function clearAllFilters() {{
+  activeFilters = [];
+  expandedCats.clear();
+  onFiltersChanged();
+}}
+
+function showLabelMixes(cat, label) {{
+  // Find all mixes with this label in this category
+  const matches = MIXES.filter(m => {{
+    const cats = m.label_categories || {{}};
+    return (cats[cat] || []).includes(label);
+  }});
+
+  detailPanel.classList.remove('collapsed');
+
+  const epList = matches.slice(0, 50).map(m =>
+    `<div class="track-item" style="cursor:pointer" onclick="selectEpisode(mixMap.get('${{m.id}}'))">` +
+    `<span class="track-num">${{m.mix_number}}</span>` +
+    `<span class="track-artist">${{m.artist}}</span></div>`
+  ).join('');
+
+  detailContent.innerHTML = `
+    <div style="position:relative">
+      <button class="detail-close" onclick="clearSelection()">Close</button>
+      <div class="detail-header">
+        <div class="ep-title"><span class="label-chip" data-cat="${{cat}}">${{label}}</span></div>
+        <div class="detail-meta">
+          <div class="meta-item"><span class="meta-val">${{matches.length}} episodes</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="tracklist-section">
+      <div class="tracklist-header">Episodes (${{matches.length}})</div>
+      ${{epList}}
+      ${{matches.length > 50 ? '<div class="no-tracklist">...and ' + (matches.length - 50) + ' more</div>' : ''}}
+    </div>
+  `;
+
+  detailPanel.scrollTop = 0;
+}}
+
+// Tab switching
+document.querySelectorAll('.center-tab').forEach(tab => {{
+  tab.addEventListener('click', () => {{
+    document.querySelectorAll('.center-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    const view = tab.dataset.view;
+    document.getElementById('graphArea').style.display = view === 'graph' ? '' : 'none';
+    document.getElementById('labelFilterArea').style.display = view === 'labels' ? '' : 'none';
+    if (view === 'labels') renderFilterPanel();
+    if (view === 'graph') setTimeout(resizeGraph, 100);
+  }});
+}});
+
 // ── Selection State ─────────────────────────────────────────────────────────
 let highlightedNodes = new Set();
 let directGenres = new Set();
@@ -735,9 +1311,21 @@ function showEpisodeDetail(mix) {{
   const kwHtml = mix.keywords ? mix.keywords.split(',').map(k => k.trim()).filter(Boolean)
     .map(k => `<span class="kw-chip">${{k}}</span>`).join('') : '';
 
-  // Labels chips
-  const labelsHtml = mix.labels && mix.labels.length
-    ? mix.labels.map(l => `<span class="label-chip">${{l}}</span>`).join('') : '';
+  // Labels chips — use label_categories if available, else fall back to flat labels
+  let labelsHtml = '';
+  if (mix.label_categories && Object.keys(mix.label_categories).length > 0) {{
+    const chips = [];
+    // Render in category order, skip 'other'
+    CAT_ORDER.forEach(cat => {{
+      const items = mix.label_categories[cat];
+      if (items && items.length) {{
+        items.forEach(l => chips.push(`<span class="label-chip" data-cat="${{cat}}" style="cursor:pointer" onclick="showLabelMixes('${{cat}}','${{l.replace(/'/g, "\\\\'")}}')">${{l}}</span>`));
+      }}
+    }});
+    labelsHtml = chips.join('');
+  }} else if (mix.labels && mix.labels.length) {{
+    labelsHtml = mix.labels.map(l => `<span class="label-chip">${{l}}</span>`).join('');
+  }}
 
   // Links
   const links = [];
@@ -845,8 +1433,7 @@ function selectGenreNode(nodeId) {{
 
   selectedMixId = null;
 
-  // Filter episode list to this genre
-  renderEpisodeListByGenres(new Set([nodeId]));
+  // Show genre detail in right panel (don't filter left sidebar)
 
   showGenreDetail(nodeId);
   updateVisuals();
