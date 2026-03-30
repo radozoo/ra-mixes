@@ -279,23 +279,27 @@ body {{
 }}
 .center-tabs {{
   display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 0;
   background: #1a1a1a;
   border-bottom: 1px solid #333;
   flex-shrink: 0;
 }}
 .center-tab {{
-  background: none;
-  border: none;
+  background: #0a0a0a;
+  border: 1px solid #333;
   color: #888;
-  padding: 10px 22px;
+  padding: 6px 20px;
   cursor: pointer;
-  font-family: inherit;
-  font-size: 15px;
-  border-bottom: 2px solid transparent;
-  transition: color 0.15s;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  border-radius: 20px;
+  transition: all 0.2s;
 }}
-.center-tab:hover {{ color: #ccc; }}
-.center-tab.active {{ color: #fff; border-bottom-color: #4fc3f7; }}
+.center-tab:hover {{ color: #ccc; border-color: #555; }}
+.center-tab.active {{ color: #fff; background: #333; border-color: #555; }}
 
 /* Center — graph */
 .graph-area {{
@@ -1472,10 +1476,24 @@ const zoom = d3.zoom()
   .on('zoom', (event) => gRoot.attr('transform', event.transform));
 svg.call(zoom);
 
+// Family gravity centers — arranged in a ring (hoisted for resizeGraph)
+const families = [...new Set(GRAPH_NODES.map(n => n.family))];
+const familyCenter = {{}};
+
 function resizeGraph() {{
   width = graphArea.clientWidth;
   height = graphArea.clientHeight;
   svg.attr('viewBox', [0, 0, width, height]);
+
+  // Recenter simulation forces
+  const newCx = width / 2, newCy = height / 2;
+  simulation.force('center', d3.forceCenter(newCx, newCy).strength(0.03));
+  const newRingR = Math.min(width, height) * 0.25;
+  families.forEach((f, i) => {{
+    const angle = (2 * Math.PI * i / families.length) - Math.PI / 2;
+    familyCenter[f] = {{ x: newCx + newRingR * Math.cos(angle), y: newCy + newRingR * Math.sin(angle) }};
+  }});
+  simulation.alpha(0.15).restart();
 }}
 
 // Prepare simulation data
@@ -1483,10 +1501,7 @@ const simNodes = GRAPH_NODES.map(n => ({{ ...n }}));
 const simEdges = GRAPH_EDGES.map((e, i) => ({{ ...e, index: i }}));
 const cx = width / 2, cy = height / 2;
 
-// Family gravity centers — arranged in a ring
-const families = [...new Set(GRAPH_NODES.map(n => n.family))];
-const familyAngle = {{}};
-const familyCenter = {{}};
+// Initialize family gravity centers
 const ringR = Math.min(width, height) * 0.25;
 families.forEach((f, i) => {{
   const angle = (2 * Math.PI * i / families.length) - Math.PI / 2;
