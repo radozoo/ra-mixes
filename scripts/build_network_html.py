@@ -181,444 +181,622 @@ def build_html(mixes, graph):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>RA Genre Network</title>
+<title>RA Podcast Mixes</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=Lexend:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
+/* ═══════════════════════════════════════════════════════════════════
+   歌舞伎町 2AM — Kabukicho After Midnight
+   Neon reflections on wet asphalt. Dense light in narrow alleys.
+   Information overload at Shinjuku station. The hum of vending machines.
+   ═══════════════════════════════════════════════════════════════════ */
+
+:root {{
+  --night: #080a18;
+  --night-mid: #0c0e1e;
+  --night-surface: #101225;
+  --night-elevated: #16182e;
+  --glass: rgba(10, 12, 28, 0.82);
+  --glass-border: rgba(255, 255, 255, 0.06);
+  --glass-border-hover: rgba(255, 255, 255, 0.12);
+  --neon-pink: #ff2d78;
+  --neon-cyan: #00e5ff;
+  --neon-amber: #ffaa00;
+  --neon-violet: #7b61ff;
+  --neon-green: #00ff88;
+  --text-bright: #f0ecf8;
+  --text-mid: #9590a8;
+  --text-dim: #4e4968;
+  --text-ghost: #2a2640;
+  --font-display: 'Syne', sans-serif;
+  --font-body: 'Lexend', sans-serif;
+  --font-data: 'JetBrains Mono', monospace;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}}
+
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+
 body {{
-  background: #0a0a0a;
-  color: #e0e0e0;
-  font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+  background: var(--night);
+  color: var(--text-bright);
+  font-family: var(--font-body);
+  font-weight: 300;
   overflow: hidden;
   height: 100vh;
 }}
 
-/* Header */
+/* Film grain overlay */
+body::after {{
+  content: '';
+  position: fixed;
+  inset: 0;
+  opacity: 0.025;
+  pointer-events: none;
+  z-index: 9999;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 128px 128px;
+}}
+
+/* Neon scrollbars */
+::-webkit-scrollbar {{ width: 3px; }}
+::-webkit-scrollbar-track {{ background: transparent; }}
+::-webkit-scrollbar-thumb {{ background: rgba(255,45,120,0.25); border-radius: 3px; }}
+::-webkit-scrollbar-thumb:hover {{ background: rgba(255,45,120,0.5); }}
+
+/* ── Header ─────────────────────────────────────────────────── */
 .header {{
-  height: 40px;
-  background: #1a1a1a;
-  border-bottom: 1px solid #333;
+  height: 56px;
+  background: var(--glass);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient(90deg, transparent 0%, var(--neon-pink) 30%, var(--neon-cyan) 70%, transparent 100%) 1;
   display: flex;
   align-items: center;
-  padding: 0 16px;
-  gap: 16px;
-  font-size: 13px;
+  padding: 0 28px;
+  gap: 28px;
+  position: relative;
+  z-index: 10;
 }}
-.header .title {{ font-weight: 700; color: #fff; letter-spacing: 1px; }}
-.header .stat {{ color: #888; }}
-.header .stat span {{ color: #ccc; }}
+.header .title {{
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 16px;
+  color: var(--text-bright);
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-shadow: 0 0 30px rgba(255,45,120,0.3);
+}}
+.header .title:hover {{
+  text-shadow: 0 0 40px rgba(255,45,120,0.6), 0 0 80px rgba(0,229,255,0.2);
+}}
+.header .stat {{
+  font-family: var(--font-data);
+  font-size: 11px;
+  color: var(--text-dim);
+  letter-spacing: 0.5px;
+}}
+.header .stat span {{
+  color: var(--neon-cyan);
+  text-shadow: 0 0 10px rgba(0,229,255,0.3);
+}}
 
-/* Layout: 3-panel */
+/* ── Layout ─────────────────────────────────────────────────── */
 .container {{
   display: flex;
-  height: calc(100vh - 40px);
+  height: calc(100vh - 56px);
 }}
 
-/* Left sidebar — episode list */
+/* ── Sidebar — glassmorphic ─────────────────────────────────── */
 .sidebar {{
-  width: 260px;
-  min-width: 260px;
-  background: #1a1a1a;
-  border-right: 1px solid #333;
+  width: 280px;
+  min-width: 280px;
+  background: var(--glass);
+  backdrop-filter: blur(16px);
+  border-right: 1px solid var(--glass-border);
   display: flex;
   flex-direction: column;
   overflow: hidden;
 }}
 .search-box {{
-  padding: 10px;
-  border-bottom: 1px solid #333;
+  padding: 16px;
+  border-bottom: 1px solid var(--glass-border);
 }}
 .search-box input {{
   width: 100%;
-  padding: 8px 10px;
-  background: #0a0a0a;
-  border: 1px solid #444;
-  border-radius: 4px;
-  color: #e0e0e0;
-  font-family: inherit;
-  font-size: 12px;
+  padding: 11px 16px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--glass-border);
+  border-radius: 12px;
+  color: var(--text-bright);
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 300;
   outline: none;
+  transition: all 0.3s var(--ease);
 }}
-.search-box input:focus {{ border-color: #666; }}
+.search-box input::placeholder {{ color: var(--text-dim); }}
+.search-box input:focus {{
+  border-color: var(--neon-cyan);
+  box-shadow: 0 0 0 3px rgba(0,229,255,0.08), inset 0 0 20px rgba(0,229,255,0.03);
+}}
 .episode-list {{
   flex: 1;
   overflow-y: auto;
   padding: 4px 0;
 }}
-.episode-list::-webkit-scrollbar {{ width: 6px; }}
-.episode-list::-webkit-scrollbar-track {{ background: #1a1a1a; }}
-.episode-list::-webkit-scrollbar-thumb {{ background: #444; border-radius: 3px; }}
 
 .ep-item {{
-  padding: 6px 12px;
+  padding: 9px 18px;
   cursor: pointer;
-  font-size: 11px;
-  color: #999;
+  font-size: 12px;
+  font-weight: 300;
+  color: var(--text-mid);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  transition: background 0.15s;
+  transition: all 0.2s var(--ease);
+  border-left: 2px solid transparent;
 }}
-.ep-item:hover {{ background: #252525; color: #ddd; }}
+.ep-item:hover {{
+  background: rgba(255,45,120,0.04);
+  color: var(--text-bright);
+  box-shadow: inset 2px 0 0 var(--neon-pink);
+  border-left-color: transparent;
+}}
 .ep-item.active {{
-  background: #2a2a2a;
-  color: #fff;
-  border-left: 2px solid #e63946;
+  background: rgba(255,45,120,0.08);
+  color: var(--text-bright);
+  border-left-color: var(--neon-pink);
+  box-shadow: inset 2px 0 12px rgba(255,45,120,0.15);
 }}
-.ep-item .ep-num {{ color: #666; margin-right: 6px; }}
-.ep-item.active .ep-num {{ color: #e63946; }}
+.ep-item .ep-num {{
+  font-family: var(--font-data);
+  color: var(--text-ghost);
+  margin-right: 10px;
+  font-size: 10px;
+}}
+.ep-item.active .ep-num {{
+  color: var(--neon-pink);
+  text-shadow: 0 0 8px rgba(255,45,120,0.5);
+}}
 
-/* Center panel — tabs + views */
+/* ── Center panel ───────────────────────────────────────────── */
 .center-panel {{
   flex: 1;
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  position: relative;
 }}
+
+/* Floating glassmorphic tab pills */
 .center-tabs {{
+  position: absolute;
+  top: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 6px;
-  padding: 10px 0;
-  background: #1a1a1a;
-  border-bottom: 1px solid #333;
-  flex-shrink: 0;
+  gap: 2px;
+  background: var(--glass);
+  backdrop-filter: blur(16px);
+  border-radius: 24px;
+  border: 1px solid var(--glass-border);
+  padding: 4px;
 }}
 .center-tab {{
-  background: #0a0a0a;
-  border: 1px solid #333;
-  color: #888;
-  padding: 6px 20px;
+  background: transparent;
+  border: none;
+  color: var(--text-dim);
+  padding: 7px 22px;
   cursor: pointer;
-  font-family: 'DM Sans', sans-serif;
-  font-size: 13px;
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.8px;
   border-radius: 20px;
-  transition: all 0.2s;
+  transition: all 0.25s var(--ease);
 }}
-.center-tab:hover {{ color: #ccc; border-color: #555; }}
-.center-tab.active {{ color: #fff; background: #333; border-color: #555; }}
+.center-tab:hover {{ color: var(--text-mid); }}
+.center-tab.active {{
+  color: var(--text-bright);
+  background: rgba(255,45,120,0.15);
+  box-shadow: 0 0 16px rgba(255,45,120,0.1);
+}}
 
-/* Center — graph */
+/* ── Graph area — ambient city glow ─────────────────────────── */
 .graph-area {{
   flex: 1;
   position: relative;
   overflow: hidden;
+  background:
+    radial-gradient(ellipse at 30% 40%, rgba(123,97,255,0.04) 0%, transparent 50%),
+    radial-gradient(ellipse at 70% 60%, rgba(0,229,255,0.03) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 50%, rgba(255,45,120,0.02) 0%, transparent 40%),
+    var(--night);
 }}
 .graph-area svg {{ width: 100%; height: 100%; }}
 
-/* Label filter area */
+/* ── Label filter area ──────────────────────────────────────── */
 .label-filter-area {{
   flex: 1;
-  padding: 14px 18px;
+  padding: 60px 24px 24px;
   overflow-y: auto;
-  font-family: 'DM Sans', sans-serif;
+  font-family: var(--font-body);
+  background: var(--night);
 }}
-.label-filter-area::-webkit-scrollbar {{ width: 6px; }}
-.label-filter-area::-webkit-scrollbar-track {{ background: #0a0a0a; }}
-.label-filter-area::-webkit-scrollbar-thumb {{ background: #444; border-radius: 3px; }}
 
-/* Active filters bar */
+/* Active filters */
 .active-filters {{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 5px;
-  min-height: 28px;
-  margin-bottom: 14px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #222;
+  gap: 6px;
+  min-height: 32px;
+  margin-bottom: 18px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--glass-border);
 }}
 .active-filters:empty {{ display: none; }}
 .active-filter-chip.label-chip {{
-  font-size: 13px;
-  padding: 4px 10px 4px 12px;
+  font-size: 12px;
+  padding: 5px 10px 5px 12px;
   font-style: normal;
-  border-radius: 10px;
+  border-radius: 20px;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
-  gap: 4px;
-  transition: opacity 0.15s;
+  gap: 6px;
+  transition: all 0.2s var(--ease);
 }}
 .active-filter-chip:hover {{ opacity: 0.8; }}
-.active-filter-chip .remove {{ opacity: 0.5; font-size: 16px; }}
+.active-filter-chip .remove {{ opacity: 0.4; font-size: 14px; }}
 .active-filter-chip .remove:hover {{ opacity: 1; }}
 .clear-filters-btn {{
-  font-size: 13px;
-  color: #666;
+  font-size: 11px;
+  color: var(--text-dim);
   cursor: pointer;
-  padding: 2px 8px;
-  border: 1px solid #333;
-  border-radius: 10px;
+  padding: 4px 14px;
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
   background: none;
-  font-family: inherit;
-  transition: color 0.15s;
+  font-family: var(--font-body);
+  transition: all 0.2s var(--ease);
 }}
-.clear-filters-btn:hover {{ color: #e63946; border-color: #e63946; }}
+.clear-filters-btn:hover {{
+  color: var(--neon-pink);
+  border-color: var(--neon-pink);
+  box-shadow: 0 0 12px rgba(255,45,120,0.15);
+}}
 .filter-match-count {{
-  font-size: 13px;
-  color: #666;
+  font-family: var(--font-data);
+  font-size: 11px;
+  color: var(--text-dim);
   margin-left: auto;
 }}
 
-/* Genre filter section (full width, above masonry) */
+/* Genre filter section */
 .genre-filter-section {{
-  margin-bottom: 16px;
-  padding: 12px 14px;
-  background: #111;
-  border: 1px solid #252525;
-  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 16px 18px;
+  background: var(--night-surface);
+  border: 1px solid var(--glass-border);
+  border-radius: 14px;
+  position: relative;
+  overflow: hidden;
+}}
+.genre-filter-section::before {{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--neon-pink), var(--neon-violet), transparent);
+  opacity: 0.4;
 }}
 .genre-filter-title {{
-  font-size: 11px;
+  font-family: var(--font-display);
+  font-size: 10px;
   text-transform: uppercase;
-  color: #888;
-  margin-bottom: 10px;
-  letter-spacing: 1px;
+  color: var(--text-dim);
+  margin-bottom: 12px;
+  letter-spacing: 3px;
   font-weight: 600;
 }}
 .genre-filter-items {{
   display: flex;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 6px;
 }}
 .genre-filter-chip {{
-  font-size: 13px;
-  padding: 4px 10px;
-  border-radius: 10px;
+  font-size: 12px;
+  padding: 5px 12px;
+  border-radius: 20px;
   cursor: pointer;
   color: #fff;
-  opacity: 0.7;
-  font-family: inherit;
+  opacity: 0.6;
+  font-family: var(--font-body);
+  font-weight: 400;
   border: none;
-  transition: opacity 0.15s, box-shadow 0.15s;
+  transition: all 0.25s var(--ease);
 }}
-.genre-filter-chip:hover {{ opacity: 1; }}
+.genre-filter-chip:hover {{
+  opacity: 0.95;
+  box-shadow: 0 0 14px currentColor;
+}}
 .genre-filter-chip.selected {{
   opacity: 1;
-  box-shadow: 0 0 0 1.5px rgba(255,255,255,0.6);
+  box-shadow: 0 0 0 1.5px rgba(255,255,255,0.5), 0 0 20px currentColor;
 }}
 .genre-filter-chip .chip-count {{
-  font-size: 10px;
-  opacity: 0.55;
-  margin-left: 3px;
+  font-family: var(--font-data);
+  font-size: 9px;
+  opacity: 0.5;
+  margin-left: 4px;
 }}
 
-/* Masonry layout for label categories */
+/* Masonry */
 .label-masonry {{
   columns: 2;
-  column-gap: 14px;
+  column-gap: 16px;
 }}
 @media (min-width: 1200px) {{
   .label-masonry {{ columns: 3; }}
 }}
 
-/* Category tile */
+/* Category tile — top neon glow line */
 .label-cat-section {{
   break-inside: avoid;
-  margin-bottom: 14px;
-  padding: 10px 12px 8px;
-  background: #111;
-  border: 1px solid #252525;
-  border-radius: 8px;
-  border-left: 3px solid #444;
+  margin-bottom: 16px;
+  padding: 14px 16px 10px;
+  background: var(--night-surface);
+  border: 1px solid var(--glass-border);
+  border-radius: 14px;
+  position: relative;
+  overflow: hidden;
 }}
-.label-cat-section[data-cat="mood"]      {{ border-left-color: #7c4fa0; }}
-.label-cat-section[data-cat="energy"]    {{ border-left-color: #c76b00; }}
-.label-cat-section[data-cat="setting"]   {{ border-left-color: #0080b0; }}
-.label-cat-section[data-cat="geography"] {{ border-left-color: #007a40; }}
-.label-cat-section[data-cat="style"]     {{ border-left-color: #0050c0; }}
-.label-cat-section[data-cat="era"]       {{ border-left-color: #a08000; }}
-.label-cat-section[data-cat="vibe"]      {{ border-left-color: #a0006a; }}
+.label-cat-section::before {{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+}}
+.label-cat-section[data-cat="mood"]::before      {{ background: linear-gradient(90deg, transparent, #b87ee6, transparent); }}
+.label-cat-section[data-cat="energy"]::before    {{ background: linear-gradient(90deg, transparent, #ff9f43, transparent); }}
+.label-cat-section[data-cat="setting"]::before   {{ background: linear-gradient(90deg, transparent, #45b7d1, transparent); }}
+.label-cat-section[data-cat="geography"]::before {{ background: linear-gradient(90deg, transparent, #26de81, transparent); }}
+.label-cat-section[data-cat="style"]::before     {{ background: linear-gradient(90deg, transparent, #6bb5ff, transparent); }}
+.label-cat-section[data-cat="era"]::before       {{ background: linear-gradient(90deg, transparent, #ffd93d, transparent); }}
+.label-cat-section[data-cat="vibe"]::before      {{ background: linear-gradient(90deg, transparent, #ff6b9d, transparent); }}
+
+/* Glow shadow */
+.label-cat-section[data-cat="mood"]      {{ box-shadow: 0 -2px 16px rgba(184,126,230,0.08); }}
+.label-cat-section[data-cat="energy"]    {{ box-shadow: 0 -2px 16px rgba(255,159,67,0.08); }}
+.label-cat-section[data-cat="setting"]   {{ box-shadow: 0 -2px 16px rgba(69,183,209,0.08); }}
+.label-cat-section[data-cat="geography"] {{ box-shadow: 0 -2px 16px rgba(38,222,129,0.08); }}
+.label-cat-section[data-cat="style"]     {{ box-shadow: 0 -2px 16px rgba(107,181,255,0.08); }}
+.label-cat-section[data-cat="era"]       {{ box-shadow: 0 -2px 16px rgba(255,217,61,0.08); }}
+.label-cat-section[data-cat="vibe"]      {{ box-shadow: 0 -2px 16px rgba(255,107,157,0.08); }}
 
 .label-cat-title {{
-  font-size: 11px;
+  font-family: var(--font-display);
+  font-size: 10px;
   text-transform: uppercase;
-  color: #666;
-  margin-bottom: 8px;
-  letter-spacing: 1px;
+  color: var(--text-dim);
+  margin-bottom: 10px;
+  letter-spacing: 3px;
   font-weight: 600;
 }}
 .label-cat-items {{
   display: flex;
   flex-wrap: wrap;
-  gap: 4px;
+  gap: 5px;
 }}
 .label-filter-area .filter-label-chip.label-chip {{
-  font-size: 13px;
-  padding: 4px 10px;
-  border-radius: 10px;
+  font-size: 12px;
+  padding: 4px 11px;
+  border-radius: 20px;
   cursor: pointer;
   border: 1px solid;
-  opacity: 0.65;
+  opacity: 0.55;
   font-style: normal;
-  transition: opacity 0.15s, box-shadow 0.15s;
+  font-weight: 400;
+  transition: all 0.25s var(--ease);
 }}
-.label-filter-area .filter-label-chip:hover {{ opacity: 1; }}
+.label-filter-area .filter-label-chip:hover {{
+  opacity: 0.9;
+}}
 .label-filter-area .filter-label-chip.selected {{
   opacity: 1;
-  box-shadow: 0 0 0 1px rgba(255,255,255,0.5);
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.4), 0 0 12px currentColor;
 }}
 .label-filter-area .filter-label-chip .chip-count {{
-  font-size: 10px;
-  opacity: 0.5;
-  margin-left: 2px;
+  font-family: var(--font-data);
+  font-size: 9px;
+  opacity: 0.4;
+  margin-left: 3px;
 }}
 .show-more-btn {{
   font-size: 11px;
-  color: #555;
+  color: var(--text-ghost);
   cursor: pointer;
-  padding: 3px 8px;
+  padding: 4px 14px;
   background: none;
-  border: 1px solid #333;
-  border-radius: 8px;
-  font-family: inherit;
-  margin-top: 6px;
-  transition: color 0.15s;
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
+  font-family: var(--font-body);
+  margin-top: 8px;
+  transition: all 0.2s var(--ease);
 }}
-.show-more-btn:hover {{ color: #aaa; border-color: #555; }}
+.show-more-btn:hover {{
+  color: var(--text-mid);
+  border-color: var(--glass-border-hover);
+}}
 
 /* Active filter chip for genres */
 .active-filter-chip.genre-chip {{
   font-size: 12px;
-  padding: 3px 8px 3px 10px;
-  border-radius: 10px;
+  padding: 5px 10px 5px 12px;
+  border-radius: 20px;
   cursor: pointer;
   color: #fff;
   display: inline-flex;
   align-items: center;
-  gap: 4px;
+  gap: 6px;
   border: none;
 }}
 
-/* Edge filter buttons */
+/* ── Edge filter buttons ────────────────────────────────────── */
 .edge-filters {{
   position: absolute;
-  bottom: 12px;
+  bottom: 16px;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
-  gap: 6px;
-  background: rgba(26, 26, 26, 0.9);
-  padding: 6px 10px;
-  border-radius: 6px;
-  border: 1px solid #333;
+  gap: 4px;
+  background: var(--glass);
+  backdrop-filter: blur(16px);
+  padding: 4px;
+  border-radius: 14px;
+  border: 1px solid var(--glass-border);
 }}
 .edge-btn {{
-  padding: 4px 10px;
+  padding: 5px 14px;
   font-size: 11px;
-  font-family: inherit;
-  background: #252525;
-  border: 1px solid #444;
-  border-radius: 3px;
-  color: #999;
+  font-family: var(--font-body);
+  background: transparent;
+  border: none;
+  border-radius: 10px;
+  color: var(--text-dim);
   cursor: pointer;
-  transition: all 0.15s;
+  transition: all 0.2s var(--ease);
 }}
-.edge-btn:hover {{ color: #ddd; border-color: #666; }}
-.edge-btn.active {{ color: #fff; border-color: #888; background: #333; }}
+.edge-btn:hover {{ color: var(--text-bright); }}
+.edge-btn.active {{
+  color: var(--neon-cyan);
+  background: rgba(0,229,255,0.1);
+  box-shadow: 0 0 10px rgba(0,229,255,0.1);
+}}
 
-/* Tooltip */
+/* ── Tooltip ────────────────────────────────────────────────── */
 .tooltip {{
   position: absolute;
   pointer-events: none;
-  background: rgba(0,0,0,0.85);
-  border: 1px solid #555;
-  border-radius: 4px;
-  padding: 6px 10px;
-  font-size: 11px;
-  color: #fff;
+  background: var(--glass);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--glass-border-hover);
+  border-radius: 10px;
+  padding: 8px 16px;
+  font-family: var(--font-body);
+  font-size: 12px;
+  color: var(--text-bright);
   white-space: nowrap;
   display: none;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 0 1px rgba(255,45,120,0.3);
 }}
 
-/* Node labels */
+/* ── Node labels ────────────────────────────────────────────── */
 .node-label {{
-  fill: #ccc;
+  fill: var(--text-mid);
   text-anchor: middle;
   pointer-events: none;
-  font-family: 'SF Mono', 'Fira Code', monospace;
+  font-family: var(--font-display);
+  font-weight: 500;
 }}
 
-/* Pulse animation */
+/* ── Pulse animation ────────────────────────────────────────── */
 @keyframes pulse-ring {{
-  0% {{ stroke-opacity: 0.8; stroke-width: 3; }}
-  100% {{ stroke-opacity: 0; stroke-width: 8; }}
+  0% {{ stroke-opacity: 0.7; stroke-width: 3; }}
+  100% {{ stroke-opacity: 0; stroke-width: 12; }}
 }}
-.pulse {{ animation: pulse-ring 1.2s ease-out infinite; }}
+.pulse {{ animation: pulse-ring 1.5s ease-out infinite; }}
 
-/* Right panel — episode detail */
+/* ── Right panel — glassmorphic ─────────────────────────────── */
 .detail-panel {{
-  width: 360px;
-  min-width: 360px;
-  background: #141414;
-  border-left: 1px solid #333;
+  width: 380px;
+  min-width: 380px;
+  background: var(--glass);
+  backdrop-filter: blur(20px);
+  border-left: 1px solid var(--glass-border);
   display: flex;
   flex-direction: column;
   overflow-y: auto;
   overflow-x: hidden;
-  transition: width 0.2s;
+  transition: width 0.35s var(--ease), min-width 0.35s var(--ease);
 }}
-.detail-panel::-webkit-scrollbar {{ width: 6px; }}
-.detail-panel::-webkit-scrollbar-track {{ background: #141414; }}
-.detail-panel::-webkit-scrollbar-thumb {{ background: #333; border-radius: 3px; }}
 .detail-panel.collapsed {{
   width: 0;
   min-width: 0;
   border-left: none;
 }}
 .detail-header {{
-  padding: 14px 16px 10px;
-  border-bottom: 1px solid #2a2a2a;
+  padding: 20px 22px 14px;
+  border-bottom: 1px solid var(--glass-border);
 }}
 .detail-header .ep-title {{
-  font-size: 16px;
+  font-family: var(--font-display);
+  font-size: 20px;
   font-weight: 700;
-  color: #fff;
-  margin-bottom: 2px;
+  color: var(--text-bright);
+  margin-bottom: 4px;
+  letter-spacing: 0.5px;
 }}
 .detail-header .ep-artist {{
-  font-size: 13px;
-  color: #ccc;
-  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 300;
+  color: var(--text-mid);
+  margin-bottom: 10px;
 }}
 .detail-meta {{
   display: flex;
-  gap: 12px;
-  font-size: 11px;
-  color: #777;
-  margin-bottom: 10px;
+  gap: 16px;
+  font-family: var(--font-data);
+  font-size: 10px;
+  color: var(--text-dim);
+  margin-bottom: 12px;
 }}
 .detail-meta .meta-item {{ display: flex; align-items: center; gap: 4px; }}
-.detail-meta .meta-val {{ color: #aaa; }}
+.detail-meta .meta-val {{ color: var(--text-mid); }}
 
 /* Genre chips */
 .genre-chips {{
   display: flex;
   flex-wrap: wrap;
-  gap: 4px;
-  margin-bottom: 4px;
+  gap: 5px;
+  margin-bottom: 6px;
 }}
 .genre-chip {{
-  font-size: 10px;
-  padding: 2px 8px;
-  border-radius: 10px;
+  font-size: 11px;
+  padding: 3px 10px;
+  border-radius: 20px;
   color: #fff;
-  opacity: 0.9;
+  opacity: 0.85;
   cursor: pointer;
-  transition: opacity 0.15s;
+  transition: all 0.2s var(--ease);
 }}
-.genre-chip:hover {{ opacity: 1; }}
+.genre-chip:hover {{ opacity: 1; box-shadow: 0 0 12px currentColor; }}
 
-/* Cover image */
+/* Cover image — neon bleed gradient */
 .detail-cover {{
   width: 100%;
-  height: 180px;
+  height: 200px;
   overflow: hidden;
-  border-bottom: 1px solid #2a2a2a;
+  border-bottom: 1px solid var(--glass-border);
+  position: relative;
+}}
+.detail-cover::after {{
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 80px;
+  background:
+    linear-gradient(180deg, transparent 0%, rgba(10,12,28,0.82) 100%),
+    linear-gradient(0deg, rgba(255,45,120,0.06) 0%, transparent 40%);
+  pointer-events: none;
 }}
 .detail-cover img {{
   width: 100%;
@@ -630,195 +808,210 @@ body {{
 /* Links */
 .detail-links {{
   display: flex;
-  gap: 6px;
-  margin-bottom: 8px;
+  gap: 8px;
+  margin-bottom: 10px;
 }}
 .detail-link {{
-  font-size: 10px;
-  padding: 3px 10px;
-  border-radius: 3px;
-  background: #252525;
-  border: 1px solid #444;
-  color: #ccc;
+  font-size: 11px;
+  padding: 4px 14px;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--glass-border);
+  color: var(--text-mid);
   text-decoration: none;
-  transition: all 0.15s;
+  font-family: var(--font-body);
+  transition: all 0.2s var(--ease);
 }}
-.detail-link:hover {{ background: #333; color: #fff; border-color: #666; }}
+.detail-link:hover {{
+  color: var(--neon-cyan);
+  border-color: rgba(0,229,255,0.3);
+  box-shadow: 0 0 16px rgba(0,229,255,0.1);
+}}
 
 /* Keyword chips */
 .kw-chips {{
   display: flex;
   flex-wrap: wrap;
-  gap: 4px;
-  margin-top: 6px;
+  gap: 5px;
+  margin-top: 8px;
 }}
 .kw-chip {{
-  font-size: 9px;
-  padding: 1px 7px;
-  border-radius: 8px;
-  border: 1px solid #444;
-  color: #888;
+  font-size: 10px;
+  padding: 2px 9px;
+  border-radius: 20px;
+  border: 1px solid var(--glass-border);
+  color: var(--text-dim);
 }}
 
-/* Label chips */
+/* Label chips in detail */
 .label-chips {{
   display: flex;
   flex-wrap: wrap;
-  gap: 4px;
-  margin-top: 6px;
+  gap: 5px;
+  margin-top: 8px;
 }}
 .label-chip {{
-  font-size: 9px;
-  padding: 1px 7px;
-  border-radius: 8px;
-  border: 1px solid #555;
-  color: #aaa;
-  background: #1a1a1a;
-  font-style: italic;
+  font-size: 10px;
+  padding: 2px 9px;
+  border-radius: 20px;
+  border: 1px solid var(--glass-border);
+  color: var(--text-mid);
+  background: rgba(255,255,255,0.03);
+  cursor: pointer;
+  transition: all 0.2s var(--ease);
 }}
-/* Category-colored label chips */
-.label-chip[data-cat="mood"]      {{ background: #2d1b3d; border-color: #7c4fa0; color: #c4a0e8; }}
-.label-chip[data-cat="energy"]    {{ background: #2d1a00; border-color: #c76b00; color: #ffb040; }}
-.label-chip[data-cat="setting"]   {{ background: #001e2d; border-color: #0080b0; color: #50bce8; }}
-.label-chip[data-cat="geography"] {{ background: #001a0e; border-color: #007a40; color: #40c878; }}
-.label-chip[data-cat="style"]     {{ background: #001530; border-color: #0050c0; color: #5090f0; }}
-.label-chip[data-cat="era"]       {{ background: #2a2000; border-color: #a08000; color: #e0c040; }}
-.label-chip[data-cat="vibe"]      {{ background: #2a001a; border-color: #a0006a; color: #f060c0; }}
-/* Category group header */
-.label-cat-group {{
-  display: contents;
-}}
+.label-chip:hover {{ opacity: 0.8; }}
+/* Category neon colors */
+.label-chip[data-cat="mood"]      {{ background: rgba(184,126,230,0.08); border-color: rgba(184,126,230,0.25); color: #caa0f4; }}
+.label-chip[data-cat="energy"]    {{ background: rgba(255,159,67,0.08);  border-color: rgba(255,159,67,0.25);  color: #ffbe78; }}
+.label-chip[data-cat="setting"]   {{ background: rgba(69,183,209,0.08);  border-color: rgba(69,183,209,0.25);  color: #78d0e5; }}
+.label-chip[data-cat="geography"] {{ background: rgba(38,222,129,0.08);  border-color: rgba(38,222,129,0.25);  color: #5aeca0; }}
+.label-chip[data-cat="style"]     {{ background: rgba(107,181,255,0.08); border-color: rgba(107,181,255,0.25); color: #98c8ff; }}
+.label-chip[data-cat="era"]       {{ background: rgba(255,217,61,0.08);  border-color: rgba(255,217,61,0.25);  color: #ffe580; }}
+.label-chip[data-cat="vibe"]      {{ background: rgba(255,107,157,0.08); border-color: rgba(255,107,157,0.25); color: #ff98bc; }}
+.label-cat-group {{ display: contents; }}
 .label-cat-dot {{
   display: inline-block;
   width: 6px; height: 6px;
   border-radius: 50%;
-  margin-right: 2px;
+  margin-right: 3px;
   vertical-align: middle;
 }}
 
-/* Blurb */
+/* ── Blurb ──────────────────────────────────────────────────── */
 .detail-blurb {{
-  padding: 10px 16px;
-  font-size: 11px;
-  line-height: 1.5;
-  color: #bbb;
+  padding: 14px 22px;
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--text-mid);
   font-style: italic;
-  border-bottom: 1px solid #2a2a2a;
+  font-weight: 300;
+  border-bottom: 1px solid var(--glass-border);
 }}
 
-/* Article (full content) */
+/* ── Article ────────────────────────────────────────────────── */
 .detail-article {{
-  padding: 12px 16px;
-  font-size: 11px;
-  line-height: 1.6;
-  color: #999;
-  border-bottom: 1px solid #2a2a2a;
+  padding: 16px 22px;
+  font-size: 12px;
+  line-height: 1.8;
+  color: var(--text-mid);
+  font-weight: 300;
+  border-bottom: 1px solid var(--glass-border);
 }}
-.detail-article b {{ color: #ddd; font-weight: 600; }}
-.detail-article i {{ color: #aaa; }}
-.detail-article a {{ color: #6ba3d6; text-decoration: none; }}
-.detail-article a:hover {{ text-decoration: underline; }}
+.detail-article b {{ color: var(--text-bright); font-weight: 500; }}
+.detail-article i {{ color: var(--text-mid); }}
+.detail-article a {{ color: var(--neon-cyan); text-decoration: none; }}
+.detail-article a:hover {{ text-shadow: 0 0 8px rgba(0,229,255,0.4); }}
 .detail-section-header {{
-  padding: 10px 16px 4px;
+  padding: 16px 22px 6px;
+  font-family: var(--font-display);
   font-size: 10px;
   font-weight: 600;
-  color: #555;
+  color: var(--text-ghost);
   text-transform: uppercase;
-  letter-spacing: 1px;
-  border-top: 1px solid #2a2a2a;
+  letter-spacing: 3px;
+  border-top: 1px solid var(--glass-border);
 }}
 .detail-qa b {{
   display: block;
-  margin-top: 12px;
+  margin-top: 14px;
   margin-bottom: 4px;
-  color: #ccc;
-  font-size: 11px;
+  color: var(--text-bright);
+  font-size: 12px;
+  font-weight: 500;
 }}
 
-/* Tracklist */
-
+/* ── Tracklist ──────────────────────────────────────────────── */
 .tracklist-header {{
-  padding: 10px 16px 6px;
-  font-size: 11px;
+  padding: 14px 22px 8px;
+  font-family: var(--font-display);
+  font-size: 10px;
   font-weight: 600;
-  color: #666;
+  color: var(--text-ghost);
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
   position: sticky;
   top: 0;
-  background: #141414;
+  background: var(--glass);
+  backdrop-filter: blur(16px);
+  z-index: 1;
 }}
 .track-item {{
-  padding: 5px 16px;
-  font-size: 11px;
-  line-height: 1.4;
-  border-bottom: 1px solid #1a1a1a;
+  padding: 8px 22px;
+  font-size: 12px;
+  line-height: 1.5;
+  font-weight: 300;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
+  transition: background 0.2s var(--ease);
 }}
+.track-item:hover {{ background: rgba(255,45,120,0.03); }}
 .track-item .track-num {{
-  color: #555;
+  font-family: var(--font-data);
+  color: var(--text-ghost);
   display: inline-block;
-  width: 24px;
+  width: 28px;
   text-align: right;
-  margin-right: 8px;
+  margin-right: 12px;
+  font-size: 10px;
 }}
-.track-item .track-artist {{
-  color: #ccc;
-}}
-.track-item .track-title {{
-  color: #888;
-}}
-.track-item .track-label {{
-  color: #555;
-  font-style: italic;
-}}
+.track-item .track-artist {{ color: var(--text-bright); font-weight: 400; }}
+.track-item .track-title {{ color: var(--text-mid); }}
+.track-item .track-label {{ color: var(--text-dim); font-style: italic; }}
 .no-tracklist {{
-  padding: 16px;
-  color: #555;
-  font-size: 11px;
+  padding: 22px;
+  color: var(--text-ghost);
+  font-size: 12px;
   font-style: italic;
 }}
 
-/* Detail placeholder */
+/* ── Detail placeholder ─────────────────────────────────────── */
 .detail-placeholder {{
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
-  color: #444;
-  font-size: 12px;
+  color: var(--text-ghost);
+  font-family: var(--font-display);
+  font-size: 13px;
+  letter-spacing: 2px;
   text-align: center;
-  padding: 20px;
+  padding: 24px;
 }}
 
-/* Close/clear button */
+/* ── Close button ───────────────────────────────────────────── */
 .detail-close {{
   position: absolute;
-  top: 12px;
-  right: 12px;
-  background: none;
-  border: 1px solid #444;
-  border-radius: 3px;
-  color: #888;
+  top: 16px;
+  right: 16px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  color: var(--text-dim);
   font-size: 11px;
-  padding: 2px 8px;
+  padding: 4px 12px;
   cursor: pointer;
-  font-family: inherit;
+  font-family: var(--font-body);
+  transition: all 0.2s var(--ease);
 }}
-.detail-close:hover {{ color: #ccc; border-color: #666; }}
+.detail-close:hover {{
+  color: var(--neon-pink);
+  border-color: rgba(255,45,120,0.3);
+  box-shadow: 0 0 12px rgba(255,45,120,0.1);
+}}
 
-/* Sidebar player */
+/* ── Sidebar player ─────────────────────────────────────────── */
 .sidebar-player {{
-  border-top: 1px solid #333;
-  background: #111;
+  border-top: 1px solid var(--glass-border);
+  background: var(--night-surface);
   padding: 0;
   min-height: 0;
 }}
 .sidebar-player .player-info {{
-  padding: 6px 12px 4px;
+  padding: 8px 18px 4px;
   font-size: 10px;
 }}
-.sidebar-player .player-ep {{ color: #666; }}
-.sidebar-player .player-artist {{ color: #ccc; font-weight: 600; }}
+.sidebar-player .player-ep {{ color: var(--text-ghost); }}
+.sidebar-player .player-artist {{ color: var(--text-bright); font-weight: 500; }}
 .sidebar-player iframe {{
   width: 100%;
   border: none;
@@ -832,7 +1025,7 @@ body {{
 <body>
 
 <div class="header">
-  <span class="title">RA GENRE NETWORK</span>
+  <span class="title" style="cursor:pointer" onclick="resetApp()">RA PODCAST MIXES</span>
   <span class="stat"><span>{total_mixes}</span> mixes</span>
   <span class="stat"><span>{total_genres}</span> genres</span>
   <span class="stat"><span>{total_edges}</span> connections</span>
@@ -1455,6 +1648,37 @@ function clearSelection() {{
   updateVisuals();
 }}
 
+function resetApp() {{
+  // Clear all filters
+  activeFilters = [];
+  expandedCats.clear();
+  renderActiveFilters();
+  renderFilterPanel();
+
+  // Clear selection
+  selectedMixId = null;
+  highlightedNodes = new Set();
+  directGenres = new Set();
+  highlightedEdges = new Set();
+  updateVisuals();
+
+  // Reset episode list and search
+  searchInput.value = '';
+  renderEpisodeList();
+
+  // Collapse detail panel
+  detailPanel.classList.add('collapsed');
+  detailContent.innerHTML = '<div class="detail-placeholder">Select an episode to see details</div>';
+
+  // Switch to Network Graph tab
+  document.querySelectorAll('.center-tab').forEach(t => t.classList.remove('active'));
+  document.querySelector('.center-tab[data-view="graph"]').classList.add('active');
+  document.getElementById('graphArea').style.display = '';
+  document.getElementById('labelFilterArea').style.display = 'none';
+
+  setTimeout(resizeGraph, 250);
+}}
+
 // ── D3 Graph (co-occurrence) ─────────────────────────────────────────────
 const svg = d3.select('#graph');
 const graphArea = document.getElementById('graphArea');
@@ -1535,9 +1759,9 @@ const linkG = gRoot.append('g');
 const links = linkG.selectAll('line')
   .data(simEdges)
   .join('line')
-  .attr('stroke', '#fff')
-  .attr('stroke-width', d => 0.5 + 3 * (d.weight / maxWeight))
-  .attr('stroke-opacity', d => 0.06 + 0.25 * (d.weight / maxWeight));
+  .attr('stroke', '#00e5ff')
+  .attr('stroke-width', d => 0.3 + 2 * (d.weight / maxWeight))
+  .attr('stroke-opacity', d => 0.03 + 0.15 * (d.weight / maxWeight));
 
 // Draw nodes
 const nodeG = gRoot.append('g');
@@ -1553,15 +1777,15 @@ const nodeGroups = nodeG.selectAll('g')
 
 // Glow circle (behind main node)
 nodeGroups.append('circle').attr('class', 'node-glow')
-  .attr('r', d => nodeRadius(d.count) + 6)
+  .attr('r', d => nodeRadius(d.count) + 10)
   .attr('fill', d => d.color || '#666')
-  .attr('opacity', 0.15)
+  .attr('opacity', 0.2)
   .attr('filter', 'url(#glow)');
 
 // Pulse ring
 nodeGroups.append('circle').attr('class', 'pulse-ring')
   .attr('r', d => nodeRadius(d.count) + 4)
-  .attr('fill', 'none').attr('stroke', '#fff')
+  .attr('fill', 'none').attr('stroke', '#00e5ff')
   .attr('stroke-opacity', 0).attr('stroke-width', 0);
 
 // Main circle
@@ -1572,10 +1796,10 @@ nodeGroups.append('circle').attr('class', 'node-circle')
 
 // Labels
 nodeGroups.append('text').attr('class', 'node-label')
-  .attr('dy', d => nodeRadius(d.count) + 12)
-  .attr('font-size', d => d.count > 50 ? 11 : d.count > 10 ? 9 : 8)
-  .attr('font-weight', d => d.count > 50 ? 700 : 400)
-  .attr('opacity', d => d.count >= 10 ? 1 : 0)
+  .attr('dy', d => nodeRadius(d.count) + 14)
+  .attr('font-size', d => d.count > 50 ? 12 : d.count > 10 ? 10 : 8)
+  .attr('font-weight', d => d.count > 50 ? 600 : 400)
+  .attr('opacity', d => d.count >= 10 ? 0.8 : 0)
   .text(d => d.id);
 
 // Tooltip
