@@ -426,6 +426,27 @@ body::after {{
   font-family: var(--font-body);
   background: var(--night);
 }}
+.label-search-box {{
+  margin-bottom: 14px;
+}}
+.label-search-box input {{
+  width: 100%;
+  padding: 10px 16px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--glass-border);
+  border-radius: 12px;
+  color: var(--text-bright);
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 300;
+  outline: none;
+  transition: all 0.3s var(--ease);
+}}
+.label-search-box input::placeholder {{ color: var(--text-dim); }}
+.label-search-box input:focus {{
+  border-color: var(--neon-cyan);
+  box-shadow: 0 0 0 3px rgba(0,229,255,0.08);
+}}
 
 /* Active filters */
 .active-filters {{
@@ -1018,7 +1039,7 @@ body::after {{
   display: block;
 }}
 .sidebar-player.sc iframe {{ height: 125px; }}
-.sidebar-player.mc iframe {{ height: 90px; }}
+.sidebar-player.mc iframe {{ height: 120px; }}
 .sidebar-player:empty {{ display: none; }}
 </style>
 </head>
@@ -1052,6 +1073,9 @@ body::after {{
       <div class="tooltip" id="tooltip"></div>
     </div>
     <div class="label-filter-area" id="labelFilterArea" style="display:none">
+      <div class="label-search-box">
+        <input type="text" id="labelSearch" placeholder="Search labels and genres...">
+      </div>
       <div class="active-filters" id="activeFilters"></div>
       <div class="genre-filter-section" id="genreFilterSection"></div>
       <div class="label-masonry" id="labelMasonry"></div>
@@ -1186,6 +1210,10 @@ function computeFilteredCounts(filteredMixes) {{
   return {{ labelCounts, genreCounts }};
 }}
 
+function chipFontSize(count) {{
+  return Math.round(9 + Math.log2(Math.max(count, 1)) * 1.1);
+}}
+
 function renderGenreFilterSection() {{
   const container = document.getElementById('genreFilterSection');
   container.innerHTML = '';
@@ -1195,7 +1223,8 @@ function renderGenreFilterSection() {{
     ? computeFilteredCounts(filteredMixes).genreCounts
     : GENRE_COUNTS;
 
-  const entries = Object.entries(displayCounts).sort((a, b) => b[1] - a[1]);
+  let entries = Object.entries(displayCounts).sort((a, b) => b[1] - a[1]);
+  if (labelSearchQuery) entries = entries.filter(([g]) => g.toLowerCase().includes(labelSearchQuery));
   if (!entries.length) return;
 
   const expanded = expandedCats.has('genre');
@@ -1216,6 +1245,7 @@ function renderGenreFilterSection() {{
     const node = nodeMap.get(genre);
     const color = node ? node.color : '#666';
     chip.style.background = color;
+    chip.style.fontSize = chipFontSize(count) + 'px';
     chip.innerHTML = `${{genre}}<span class="chip-count">${{count}}</span>`;
     if (activeFilters.some(f => f.category === 'genre' && f.label === genre)) {{
       chip.classList.add('selected');
@@ -1249,8 +1279,9 @@ function renderLabelMasonry() {{
     : LABEL_COUNTS;
 
   CAT_ORDER.forEach(cat => {{
-    const entries = Object.entries(displayCounts[cat] || {{}})
+    let entries = Object.entries(displayCounts[cat] || {{}})
       .sort((a, b) => b[1] - a[1]);
+    if (labelSearchQuery) entries = entries.filter(([l]) => l.toLowerCase().includes(labelSearchQuery));
     if (!entries.length) return;
 
     const expanded = expandedCats.has(cat);
@@ -1273,6 +1304,7 @@ function renderLabelMasonry() {{
       const chip = document.createElement('span');
       chip.className = 'filter-label-chip label-chip';
       chip.setAttribute('data-cat', cat);
+      chip.style.fontSize = chipFontSize(count) + 'px';
       chip.innerHTML = `${{label}}<span class="chip-count">${{count}}</span>`;
       if (activeFilters.some(f => f.category === cat && f.label === label)) {{
         chip.classList.add('selected');
@@ -1299,9 +1331,20 @@ function renderLabelMasonry() {{
   }});
 }}
 
+let labelSearchQuery = '';
+
 function renderFilterPanel() {{
   renderGenreFilterSection();
   renderLabelMasonry();
+}}
+
+// Label search input
+const labelSearchInput = document.getElementById('labelSearch');
+if (labelSearchInput) {{
+  labelSearchInput.addEventListener('input', (e) => {{
+    labelSearchQuery = e.target.value.toLowerCase();
+    renderFilterPanel();
+  }});
 }}
 
 function renderActiveFilters() {{
@@ -1402,6 +1445,8 @@ function applyLabelFilters() {{
 function clearAllFilters() {{
   activeFilters = [];
   expandedCats.clear();
+  labelSearchQuery = '';
+  if (labelSearchInput) labelSearchInput.value = '';
   onFiltersChanged();
 }}
 
@@ -1652,6 +1697,8 @@ function resetApp() {{
   // Clear all filters
   activeFilters = [];
   expandedCats.clear();
+  labelSearchQuery = '';
+  if (labelSearchInput) labelSearchInput.value = '';
   renderActiveFilters();
   renderFilterPanel();
 
@@ -1897,7 +1944,7 @@ function getEmbedInfo(streamingUrl) {{
     const path = new URL(streamingUrl).pathname;
     return {{
       type: 'mc',
-      url: `https://www.mixcloud.com/widget/iframe/?feed=${{encodeURIComponent(path)}}&autoplay=1&light=0`
+      url: `https://www.mixcloud.com/widget/iframe/?feed=${{encodeURIComponent(path)}}&autoplay=1&mini=0&hide_cover=1&light=1`
     }};
   }}
   return null;
