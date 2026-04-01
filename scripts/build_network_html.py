@@ -3,7 +3,7 @@ build_network_html.py — generates self-contained ra_genre_network.html.
 
 Reads:
   data/ra_full_export.xlsx  (Episodes + Genre Edges sheets)
-  data/genre_hierarchy.json (nodes + edges DAG)
+  data/genre_musicology.json (musicological genre relationships)
 
 Output:
   ra_genre_network.html     (single-file D3 visualization)
@@ -169,12 +169,22 @@ def check_gaps(mixes, hierarchy):
 
 def build_html(mixes, graph):
     nodes_json = json.dumps(graph["nodes"], ensure_ascii=False)
-    edges_json = json.dumps(graph["edges"], ensure_ascii=False)
+    # Map musicology 'strength' (1-5) to 'weight' for JS compatibility
+    edges_for_js = []
+    for e in graph["edges"]:
+        ejs = {"source": e["source"], "target": e["target"], "weight": e.get("strength", e.get("weight", 1))}
+        if "note" in e:
+            ejs["note"] = e["note"]
+        if "type" in e:
+            ejs["type"] = e["type"]
+        edges_for_js.append(ejs)
+    edges_json = json.dumps(edges_for_js, ensure_ascii=False)
     mixes_json = json.dumps(mixes, ensure_ascii=False)
 
     total_mixes = len(mixes)
     total_genres = len(graph["nodes"])
     total_edges = len(graph["edges"])
+    total_artists = len(set(m.get("artist", "") for m in mixes if m.get("artist")))
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -264,7 +274,6 @@ body::after {{
   font-size: 16px;
   color: var(--text-bright);
   letter-spacing: 4px;
-  text-transform: uppercase;
   text-shadow: 0 0 30px rgba(255,45,120,0.3);
 }}
 .header .title:hover {{
@@ -299,12 +308,28 @@ body::after {{
   overflow: hidden;
 }}
 .search-box {{
+  position: relative;
   padding: 16px;
   border-bottom: 1px solid var(--glass-border);
 }}
+.search-clear {{
+  position: absolute;
+  right: 28px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 2px 4px;
+  line-height: 1;
+  transition: color 0.2s;
+}}
+.search-clear:hover {{ color: var(--text-bright); }}
 .search-box input {{
   width: 100%;
-  padding: 11px 16px;
+  padding: 11px 36px 11px 16px;
   background: rgba(255,255,255,0.03);
   border: 1px solid var(--glass-border);
   border-radius: 12px;
@@ -417,6 +442,15 @@ body::after {{
     var(--night);
 }}
 .graph-area svg {{ width: 100%; height: 100%; }}
+/* ── Family district labels (in SVG) ───────────────────────── */
+.family-label {{
+  font-family: var(--font-display);
+  font-weight: 700;
+  text-anchor: middle;
+  pointer-events: none;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}}
 
 /* ── Label filter area ──────────────────────────────────────── */
 .label-filter-area {{
@@ -427,11 +461,27 @@ body::after {{
   background: var(--night);
 }}
 .label-search-box {{
+  position: relative;
   margin-bottom: 14px;
 }}
+.label-search-clear {{
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 2px 4px;
+  line-height: 1;
+  transition: color 0.2s;
+}}
+.label-search-clear:hover {{ color: var(--text-bright); }}
 .label-search-box input {{
   width: 100%;
-  padding: 10px 16px;
+  padding: 10px 36px 10px 16px;
   background: rgba(255,255,255,0.03);
   border: 1px solid var(--glass-border);
   border-radius: 12px;
@@ -593,6 +643,7 @@ body::after {{
 .label-cat-section[data-cat="style"]::before     {{ background: linear-gradient(90deg, transparent, #6bb5ff, transparent); }}
 .label-cat-section[data-cat="era"]::before       {{ background: linear-gradient(90deg, transparent, #ffd93d, transparent); }}
 .label-cat-section[data-cat="vibe"]::before      {{ background: linear-gradient(90deg, transparent, #ff6b9d, transparent); }}
+.label-cat-section[data-cat="__kw__"]::before   {{ background: linear-gradient(90deg, transparent, #888888, transparent); }}
 
 /* Glow shadow */
 .label-cat-section[data-cat="mood"]      {{ box-shadow: 0 -2px 16px rgba(184,126,230,0.08); }}
@@ -602,6 +653,7 @@ body::after {{
 .label-cat-section[data-cat="style"]     {{ box-shadow: 0 -2px 16px rgba(107,181,255,0.08); }}
 .label-cat-section[data-cat="era"]       {{ box-shadow: 0 -2px 16px rgba(255,217,61,0.08); }}
 .label-cat-section[data-cat="vibe"]      {{ box-shadow: 0 -2px 16px rgba(255,107,157,0.08); }}
+.label-cat-section[data-cat="__kw__"]    {{ box-shadow: 0 -2px 16px rgba(136,136,136,0.08); }}
 
 .label-cat-title {{
   font-family: var(--font-display);
@@ -722,17 +774,28 @@ body::after {{
 
 /* ── Node labels ────────────────────────────────────────────── */
 .node-label {{
-  fill: var(--text-mid);
+  fill: var(--text-bright);
   text-anchor: middle;
   pointer-events: none;
   font-family: var(--font-display);
   font-weight: 500;
+  paint-order: stroke;
+  stroke: var(--night);
+  stroke-width: 3px;
+  stroke-linejoin: round;
 }}
 
 /* ── Pulse animation ────────────────────────────────────────── */
 @keyframes pulse-ring {{
   0% {{ stroke-opacity: 0.7; stroke-width: 3; }}
   100% {{ stroke-opacity: 0; stroke-width: 12; }}
+}}
+@keyframes idle-pulse {{
+  0%, 100% {{ opacity: 0.08; }}
+  50% {{ opacity: 0.25; }}
+}}
+.idle-pulse {{
+  animation: idle-pulse 4s ease-in-out infinite;
 }}
 .pulse {{ animation: pulse-ring 1.5s ease-out infinite; }}
 
@@ -890,6 +953,7 @@ body::after {{
 .label-chip[data-cat="style"]     {{ background: rgba(107,181,255,0.08); border-color: rgba(107,181,255,0.25); color: #98c8ff; }}
 .label-chip[data-cat="era"]       {{ background: rgba(255,217,61,0.08);  border-color: rgba(255,217,61,0.25);  color: #ffe580; }}
 .label-chip[data-cat="vibe"]      {{ background: rgba(255,107,157,0.08); border-color: rgba(255,107,157,0.25); color: #ff98bc; }}
+.label-chip[data-cat="__kw__"]    {{ background: rgba(136,136,136,0.08); border-color: rgba(136,136,136,0.25); color: #b8b8b8; }}
 .label-cat-group {{ display: contents; }}
 .label-cat-dot {{
   display: inline-block;
@@ -1030,6 +1094,11 @@ body::after {{
 .sidebar-player .player-info {{
   padding: 8px 18px 4px;
   font-size: 10px;
+  cursor: pointer;
+  transition: color 0.2s;
+}}
+.sidebar-player .player-info:hover .player-artist {{
+  color: var(--neon-cyan);
 }}
 .sidebar-player .player-ep {{ color: var(--text-ghost); }}
 .sidebar-player .player-artist {{ color: var(--text-bright); font-weight: 500; }}
@@ -1046,10 +1115,10 @@ body::after {{
 <body>
 
 <div class="header">
-  <span class="title" style="cursor:pointer" onclick="resetApp()">RA PODCAST MIXES</span>
+  <span class="title" style="cursor:pointer" onclick="resetApp()">RA Podcast Mixes</span>
   <span class="stat"><span>{total_mixes}</span> mixes</span>
+  <span class="stat"><span>{total_artists}</span> artists</span>
   <span class="stat"><span>{total_genres}</span> genres</span>
-  <span class="stat"><span>{total_edges}</span> connections</span>
 </div>
 
 <div class="container">
@@ -1057,6 +1126,7 @@ body::after {{
   <div class="sidebar">
     <div class="search-box">
       <input type="text" id="search" placeholder="Search episodes...">
+      <button class="search-clear" id="searchClear" style="display:none">✕</button>
     </div>
     <div class="episode-list" id="episodeList"></div>
     <div class="sidebar-player" id="sidebarPlayer"></div>
@@ -1065,8 +1135,8 @@ body::after {{
   <!-- Center: tabs + views -->
   <div class="center-panel">
     <div class="center-tabs">
-      <button class="center-tab active" data-view="graph">Network Graph</button>
-      <button class="center-tab" data-view="labels">Labels</button>
+      <button class="center-tab active" data-view="graph">Genre Map</button>
+      <button class="center-tab" data-view="labels">Explore</button>
     </div>
     <div class="graph-area" id="graphArea">
       <svg id="graph"></svg>
@@ -1075,6 +1145,7 @@ body::after {{
     <div class="label-filter-area" id="labelFilterArea" style="display:none">
       <div class="label-search-box">
         <input type="text" id="labelSearch" placeholder="Search labels and genres...">
+        <button class="label-search-clear" id="labelSearchClear" style="display:none">✕</button>
       </div>
       <div class="active-filters" id="activeFilters"></div>
       <div class="genre-filter-section" id="genreFilterSection"></div>
@@ -1148,13 +1219,25 @@ function renderEpisodeListByGenres(genreSet) {{
   }});
 }}
 
-searchInput.addEventListener('input', e => renderEpisodeList(e.target.value));
+const searchClear = document.getElementById('searchClear');
+searchInput.addEventListener('input', e => {{
+  searchClear.style.display = e.target.value ? 'block' : 'none';
+  renderEpisodeList(e.target.value);
+}});
+if (searchClear) {{
+  searchClear.addEventListener('click', () => {{
+    searchInput.value = '';
+    searchClear.style.display = 'none';
+    renderEpisodeList('');
+    searchInput.focus();
+  }});
+}}
 renderEpisodeList();
 
 // ── Label & Genre Filter Panel ─────────────────────────────────────────────
 const CAT_ORDER = ['mood','energy','vibe','style','geography','setting','era'];
 const CAT_NAMES = {{ mood:'Mood', energy:'Energy', vibe:'Vibe', style:'Style', geography:'Geography', setting:'Setting', era:'Era' }};
-const DEFAULT_SHOW = 50;
+const DEFAULT_SHOW = 80;
 
 // Precompute label counts per category
 const LABEL_COUNTS = {{}};
@@ -1165,6 +1248,15 @@ MIXES.forEach(m => {{
     (m.label_categories[cat] || []).forEach(l => {{
       LABEL_COUNTS[cat][l] = (LABEL_COUNTS[cat][l] || 0) + 1;
     }});
+  }});
+}});
+
+// Precompute RA keyword counts
+const KW_COUNTS = {{}};
+MIXES.forEach(m => {{
+  if (!m.keywords) return;
+  m.keywords.split(',').map(k => k.trim()).filter(Boolean).forEach(k => {{
+    KW_COUNTS[k] = (KW_COUNTS[k] || 0) + 1;
   }});
 }});
 
@@ -1186,6 +1278,7 @@ function getFilteredMixes() {{
     const cats = m.label_categories || {{}};
     return activeFilters.every(f => {{
       if (f.category === 'genre') return (m.genres || []).includes(f.label);
+      if (f.category === '__kw__') return m.keywords ? m.keywords.split(',').map(k => k.trim()).includes(f.label) : false;
       return (cats[f.category] || []).includes(f.label);
     }});
   }});
@@ -1195,6 +1288,7 @@ function computeFilteredCounts(filteredMixes) {{
   const labelCounts = {{}};
   CAT_ORDER.forEach(cat => {{ labelCounts[cat] = {{}}; }});
   const genreCounts = {{}};
+  const kwCounts = {{}};
   filteredMixes.forEach(m => {{
     if (m.label_categories) {{
       CAT_ORDER.forEach(cat => {{
@@ -1206,8 +1300,13 @@ function computeFilteredCounts(filteredMixes) {{
     (m.genres || []).forEach(g => {{
       genreCounts[g] = (genreCounts[g] || 0) + 1;
     }});
+    if (m.keywords) {{
+      m.keywords.split(',').map(k => k.trim()).filter(Boolean).forEach(k => {{
+        kwCounts[k] = (kwCounts[k] || 0) + 1;
+      }});
+    }}
   }});
-  return {{ labelCounts, genreCounts }};
+  return {{ labelCounts, genreCounts, kwCounts }};
 }}
 
 function chipFontSize(count) {{
@@ -1329,6 +1428,59 @@ function renderLabelMasonry() {{
 
     container.appendChild(section);
   }});
+
+  // RA Tags section at the bottom
+  const displayKwCounts = activeFilters.length > 0
+    ? computeFilteredCounts(filteredMixes).kwCounts
+    : KW_COUNTS;
+  let kwEntries = Object.entries(displayKwCounts).sort((a, b) => b[1] - a[1]);
+  if (labelSearchQuery) kwEntries = kwEntries.filter(([k]) => k.toLowerCase().includes(labelSearchQuery));
+  if (kwEntries.length > 0) {{
+    const expanded = expandedCats.has('__kw__');
+    const visible = expanded ? kwEntries : kwEntries.slice(0, DEFAULT_SHOW);
+    const hasMore = kwEntries.length > DEFAULT_SHOW;
+
+    const section = document.createElement('div');
+    section.className = 'label-cat-section';
+    section.setAttribute('data-cat', '__kw__');
+
+    const title = document.createElement('div');
+    title.className = 'label-cat-title';
+    title.textContent = `RA Tags (${{kwEntries.length}})`;
+    section.appendChild(title);
+
+    const items = document.createElement('div');
+    items.className = 'label-cat-items';
+
+    visible.forEach(([kw, count]) => {{
+      const chip = document.createElement('span');
+      chip.className = 'filter-label-chip label-chip';
+      chip.setAttribute('data-cat', '__kw__');
+      chip.style.fontSize = chipFontSize(count) + 'px';
+      chip.innerHTML = `${{kw}}<span class="chip-count">${{count}}</span>`;
+      if (activeFilters.some(f => f.category === '__kw__' && f.label === kw)) {{
+        chip.classList.add('selected');
+      }}
+      chip.addEventListener('click', () => toggleLabelFilter('__kw__', kw));
+      items.appendChild(chip);
+    }});
+
+    section.appendChild(items);
+
+    if (hasMore) {{
+      const btn = document.createElement('button');
+      btn.className = 'show-more-btn';
+      btn.textContent = expanded ? 'Show less' : `Show all ${{kwEntries.length}}`;
+      btn.addEventListener('click', () => {{
+        if (expanded) expandedCats.delete('__kw__');
+        else expandedCats.add('__kw__');
+        renderFilterPanel();
+      }});
+      section.appendChild(btn);
+    }}
+
+    container.appendChild(section);
+  }}
 }}
 
 let labelSearchQuery = '';
@@ -1340,10 +1492,21 @@ function renderFilterPanel() {{
 
 // Label search input
 const labelSearchInput = document.getElementById('labelSearch');
+const labelSearchClear = document.getElementById('labelSearchClear');
 if (labelSearchInput) {{
   labelSearchInput.addEventListener('input', (e) => {{
     labelSearchQuery = e.target.value.toLowerCase();
+    labelSearchClear.style.display = labelSearchQuery ? 'block' : 'none';
     renderFilterPanel();
+  }});
+}}
+if (labelSearchClear) {{
+  labelSearchClear.addEventListener('click', () => {{
+    labelSearchInput.value = '';
+    labelSearchQuery = '';
+    labelSearchClear.style.display = 'none';
+    renderFilterPanel();
+    labelSearchInput.focus();
   }});
 }}
 
@@ -1734,21 +1897,33 @@ let height = graphArea.clientHeight;
 
 svg.attr('viewBox', [0, 0, width, height]);
 
-// Glow filter
 const defs = svg.append('defs');
-const glowFilter = defs.append('filter').attr('id', 'glow');
-glowFilter.append('feGaussianBlur').attr('stdDeviation', '3').attr('result', 'blur');
-glowFilter.append('feComposite').attr('in', 'SourceGraphic').attr('in2', 'blur').attr('operator', 'over');
+
+// Helper: blend two hex colors
+function blendColors(c1, c2) {{
+  const r1 = parseInt(c1.slice(1,3),16), g1 = parseInt(c1.slice(3,5),16), b1 = parseInt(c1.slice(5,7),16);
+  const r2 = parseInt(c2.slice(1,3),16), g2 = parseInt(c2.slice(3,5),16), b2 = parseInt(c2.slice(5,7),16);
+  const r = Math.round((r1+r2)/2), g = Math.round((g1+g2)/2), b = Math.round((b1+b2)/2);
+  return `rgb(${{r}},${{g}},${{b}})`;
+}}
 
 const gRoot = svg.append('g');
 
+let currentZoomK = 0.9;
 const zoom = d3.zoom()
   .scaleExtent([0.2, 5])
-  .on('zoom', (event) => gRoot.attr('transform', event.transform));
+  .on('zoom', (event) => {{
+    gRoot.attr('transform', event.transform);
+    currentZoomK = event.transform.k;
+    updateSemanticZoom();
+  }});
 svg.call(zoom);
 
 // Family gravity centers — arranged in a ring (hoisted for resizeGraph)
 const families = [...new Set(GRAPH_NODES.map(n => n.family))];
+const familyColor = {{}};
+families.forEach(f => {{ familyColor[f] = GRAPH_NODES.find(n => n.family === f)?.color || '#666'; }});
+
 const familyCenter = {{}};
 
 function resizeGraph() {{
@@ -1765,6 +1940,12 @@ function resizeGraph() {{
     familyCenter[f] = {{ x: newCx + newRingR * Math.cos(angle), y: newCy + newRingR * Math.sin(angle) }};
   }});
   simulation.alpha(0.15).restart();
+  // Update family district label positions
+  if (typeof familyLabels !== 'undefined') {{
+    familyLabels
+      .attr('x', f => familyLabelPos(f).x)
+      .attr('y', f => familyLabelPos(f).y);
+  }}
 }}
 
 // Prepare simulation data
@@ -1779,12 +1960,12 @@ families.forEach((f, i) => {{
   familyCenter[f] = {{ x: cx + ringR * Math.cos(angle), y: cy + ringR * Math.sin(angle) }};
 }});
 
-// Simulation — co-occurrence links + soft family gravity
+// Simulation — musicological links + soft family gravity
 const simulation = d3.forceSimulation(simNodes)
   .force('link', d3.forceLink(simEdges)
     .id(d => d.id)
-    .distance(d => 30 + 120 * (1 - d.weight / maxWeight))
-    .strength(d => 0.1 + 0.6 * (d.weight / maxWeight))
+    .distance(d => 40 + 100 * (1 - d.weight / maxWeight))
+    .strength(d => 0.15 + 0.5 * (d.weight / maxWeight))
   )
   .force('charge', d3.forceManyBody()
     .strength(d => -30 - 100 * Math.sqrt(d.count / maxCount))
@@ -1799,16 +1980,41 @@ const simulation = d3.forceSimulation(simNodes)
     return fc ? fc.y : cy;
   }}).strength(0.08))
   .force('collide', d3.forceCollide().radius(d => nodeRadius(d.count) + 4))
-  .alphaDecay(0.015);
+  .alphaDecay(0.03);
 
-// Draw edges
+// Family district labels — positioned at familyCenter, behind everything
+// Family district labels — pushed outward past the node clusters
+const familyLabelG = gRoot.append('g').attr('class', 'family-labels-layer');
+function familyLabelPos(f) {{
+  const fc = familyCenter[f];
+  if (!fc) return {{ x: cx, y: cy }};
+  // Push 60% further from center
+  const dx = fc.x - cx, dy = fc.y - cy;
+  return {{ x: fc.x + dx * 0.6, y: fc.y + dy * 0.6 }};
+}}
+const familyLabels = familyLabelG.selectAll('text')
+  .data(families)
+  .join('text')
+  .attr('class', 'family-label')
+  .attr('x', f => familyLabelPos(f).x)
+  .attr('y', f => familyLabelPos(f).y)
+  .attr('fill', f => familyColor[f])
+  .attr('opacity', 0.2)
+  .attr('font-size', 26)
+  .text(f => f);
+
+// Draw edges — color blended from source/target family, brightness scales with strength
 const linkG = gRoot.append('g');
 const links = linkG.selectAll('line')
   .data(simEdges)
   .join('line')
-  .attr('stroke', '#00e5ff')
-  .attr('stroke-width', d => 0.3 + 2 * (d.weight / maxWeight))
-  .attr('stroke-opacity', d => 0.03 + 0.15 * (d.weight / maxWeight));
+  .attr('stroke', d => {{
+    const sc = (nodeMap.get(d.source.id || d.source) || {{}}).color || '#00e5ff';
+    const tc = (nodeMap.get(d.target.id || d.target) || {{}}).color || '#00e5ff';
+    return sc === tc ? sc : blendColors(sc, tc);
+  }})
+  .attr('stroke-width', d => 0.5 + 3.5 * (d.weight / maxWeight))
+  .attr('stroke-opacity', d => 0.08 + 0.3 * (d.weight / maxWeight));
 
 // Draw nodes
 const nodeG = gRoot.append('g');
@@ -1822,12 +2028,17 @@ const nodeGroups = nodeG.selectAll('g')
     .on('end', (event, d) => {{ if (!event.active) simulation.alphaTarget(0); d.fx = null; d.fy = null; }})
   );
 
-// Glow circle (behind main node)
+// Glow circle — intensity scales with node importance
 nodeGroups.append('circle').attr('class', 'node-glow')
-  .attr('r', d => nodeRadius(d.count) + 10)
+  .attr('r', d => nodeRadius(d.count) + 6 + 8 * Math.sqrt(d.count / maxCount))
   .attr('fill', d => d.color || '#666')
-  .attr('opacity', 0.2)
-  .attr('filter', 'url(#glow)');
+  .attr('opacity', d => 0.08 + 0.2 * Math.sqrt(d.count / maxCount));
+
+// Idle pulse on top nodes
+const idleThreshold = [...simNodes].sort((a,b) => b.count - a.count)[4]?.count || 50;
+nodeGroups.each(function(d) {{
+  if (d.count >= idleThreshold) d3.select(this).select('.node-glow').classed('idle-pulse', true);
+}});
 
 // Pulse ring
 nodeGroups.append('circle').attr('class', 'pulse-ring')
@@ -1854,6 +2065,8 @@ const tooltip = document.getElementById('tooltip');
 nodeGroups.on('mouseover', function(event, d) {{
   d3.select(this).select('.node-label').attr('opacity', 1);
   d3.select(this).select('.node-glow').attr('opacity', 0.4);
+  // Brighten family district label
+  familyLabels.attr('opacity', f => f === d.family ? 0.45 : 0.08);
   // Build tooltip with top connections
   const neighbors = adjacency.get(d.id);
   let conns = '';
@@ -1861,12 +2074,12 @@ nodeGroups.on('mouseover', function(event, d) {{
     const top = GRAPH_EDGES
       .filter(e => e.source.id === d.id || e.target.id === d.id)
       .sort((a, b) => b.weight - a.weight)
-      .slice(0, 3)
+      .slice(0, 5)
       .map(e => {{
         const other = e.source.id === d.id ? e.target.id : e.source.id;
-        return `${{other}} (${{e.weight}})`;
+        return other;
       }});
-    if (top.length) conns = ' | ' + top.join(', ');
+    if (top.length) conns = ' → ' + top.join(', ');
   }}
   tooltip.style.display = 'block';
   tooltip.textContent = `${{d.id}} — ${{d.count}} mixes${{conns}}`;
@@ -1879,7 +2092,8 @@ nodeGroups.on('mouseover', function(event, d) {{
   if (!highlightedNodes.has(d.id) && d.count < 10) {{
     d3.select(this).select('.node-label').attr('opacity', 0);
   }}
-  d3.select(this).select('.node-glow').attr('opacity', 0.15);
+  d3.select(this).select('.node-glow').attr('opacity', 0.08 + 0.2 * Math.sqrt(d.count / maxCount));
+  familyLabels.attr('opacity', 0.2);
   tooltip.style.display = 'none';
 }})
 .on('click', function(event, d) {{
@@ -1908,26 +2122,61 @@ function updateVisuals() {{
       : isDirect ? 1
       : isNeighbor ? 0.4
       : 0.06;
-    el.select('.node-circle').transition().duration(300).attr('opacity', nodeOpacity);
-    el.select('.node-glow').transition().duration(300)
-      .attr('opacity', isDirect && has ? 0.5 : has ? 0.03 : 0.15);
+    el.select('.node-circle').attr('opacity', nodeOpacity);
+    const defaultGlow = 0.08 + 0.2 * Math.sqrt(d.count / maxCount);
+    el.select('.node-glow')
+      .attr('opacity', isDirect && has ? 0.5 : has ? 0.03 : defaultGlow);
 
     el.select('.pulse-ring')
       .classed('pulse', isDirect && has)
       .attr('stroke-opacity', isDirect && has ? 0.8 : 0);
+    // Pause idle pulse during highlight
+    el.select('.node-glow').classed('idle-pulse', !has && d.count >= idleThreshold);
 
     const labelOpacity = !has ? (d.count >= 10 ? 1 : 0)
       : isDirect ? 1
       : isNeighbor ? 0.4
       : 0;
-    el.select('.node-label').transition().duration(300).attr('opacity', labelOpacity);
+    el.select('.node-label').attr('opacity', labelOpacity);
   }});
 
-  links.transition().duration(300)
-    .attr('stroke-opacity', (d, i) => {{
-      if (!has) return 0.06 + 0.25 * (d.weight / maxWeight);
-      return highlightedEdges.has(i) ? 0.15 + 0.5 * (d.weight / maxWeight) : 0.02;
+  // Family district labels
+  const directFamily = has ? [...directGenres].map(id => nodeMap.get(id)?.family).filter(Boolean) : [];
+  familyLabels.attr('opacity', f => {{
+    if (!has) return 0.2;
+    return directFamily.includes(f) ? 0.45 : 0.06;
+  }});
+
+  if (!has) {{
+    updateSemanticZoom();
+  }} else {{
+    links.attr('stroke-opacity', (d, i) => {{
+      return highlightedEdges.has(i) ? 0.3 + 0.5 * (d.weight / maxWeight) : 0.02;
     }});
+  }}
+}}
+
+// ── Semantic Zoom ────────────────────────────────────────────────────────
+function updateSemanticZoom() {{
+  if (highlightedNodes.size > 0) return;
+
+  const k = currentZoomK;
+
+  // Labels: threshold drops as you zoom in
+  const countThreshold = k < 0.5 ? 999
+    : k < 0.8 ? 50
+    : k < 1.2 ? 10
+    : k < 2 ? 3
+    : 0;
+
+  nodeGroups.each(function(d) {{
+    const show = d.count >= countThreshold;
+    d3.select(this).select('.node-label').attr('opacity', show ? 0.8 : 0);
+  }});
+
+  // Links: opacity grows with zoom
+  const linkBoost = Math.max(0.3, Math.min(1.5, k / 1.5));
+  links.attr('stroke-opacity', d => (0.08 + 0.25 * (d.weight / maxWeight)) * linkBoost);
 }}
 
 // ── Player (in detail panel) ─────────────────────────────────────────────
@@ -1950,7 +2199,9 @@ function getEmbedInfo(streamingUrl) {{
   return null;
 }}
 
+let currentlyPlayingMix = null;
 function playMix(mix) {{
+  currentlyPlayingMix = mix;
   const info = getEmbedInfo(mix.streamingUrl);
   const el = document.getElementById('sidebarPlayer');
   if (!info || !el) {{
@@ -1958,7 +2209,7 @@ function playMix(mix) {{
     return;
   }}
   el.className = `sidebar-player ${{info.type}}`;
-  el.innerHTML = `<div class="player-info"><span class="player-ep">RA.${{mix.mix_number.padStart(3,'0')}}</span> <span class="player-artist">${{mix.artist}}</span></div>` +
+  el.innerHTML = `<div class="player-info" style="cursor:pointer" onclick="if(currentlyPlayingMix) selectEpisode(currentlyPlayingMix)"><span class="player-ep">RA.${{mix.mix_number.padStart(3,'0')}}</span> <span class="player-artist">${{mix.artist}}</span></div>` +
     `<iframe src="${{info.url}}" allow="autoplay"></iframe>`;
 }}
 
@@ -2006,8 +2257,8 @@ def main():
     mixes = load_mixes()
     print(f"  {len(mixes)} episodes loaded")
 
-    print("Loading genre co-occurrence graph...")
-    with open(DATA_DIR / "genre_cooccurrence.json") as f:
+    print("Loading genre musicology graph...")
+    with open(DATA_DIR / "genre_musicology.json") as f:
         graph = json.load(f)
     print(f"  {len(graph['nodes'])} nodes, {len(graph['edges'])} edges")
 
