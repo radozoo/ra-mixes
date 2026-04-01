@@ -12,14 +12,14 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 # ── L1 Families ──────────────────────────────────────────────────────────────
 
 FAMILIES = {
-    "Techno": "#e63946",
-    "House": "#f4a261",
-    "Bass": "#2a9d8f",
-    "Disco & Soul": "#e9c46a",
-    "Experimental": "#8ecae6",
-    "Global": "#06d6a0",
-    "Industrial & Wave": "#b5838d",
-    "Downtempo": "#7678ed",
+    "Techno": "#f2355b",
+    "House": "#f59e42",
+    "Bass": "#00c9a7",
+    "Disco & Soul": "#ffc857",
+    "Experimental": "#c77dff",
+    "Global": "#45e89d",
+    "Industrial & Wave": "#7eb8d4",
+    "Downtempo": "#a78bfa",
 }
 
 # ── Hierarchy: family → { L2: [L3, ...] } ───────────────────────────────────
