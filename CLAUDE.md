@@ -50,6 +50,14 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
   - Node glow intenzita viazaná na count
   - Idle pulse na top 5 nodoch
   - Klikací názov mixu nad prehrávačom → otvorí detail
+  - **Search box** (bottom-right corner) — autocomplete dropdown, keyboard nav (↑↓/Enter/Esc), zoom-to-node s highlight neighbors
+- **Explore tab features**:
+  - Label categories v 3 columns: **Col1**: Mood, Setting, Era, RA Tags | **Col2**: Energy, Geography | **Col3**: Vibe, Style
+  - `display: flex` s 3 rovnaký stĺpcami (flex: 1) — presný kontrola poradia
+  - Visual hierarchy: Primary group (Mood, Energy, Vibe) so silnejším neon glow (box-shadow 0.18 alpha, 3px top bar); metadata group (Era, RA Tags) muted (75% opacity, hover→100%)
+  - RA Tags (keywords) — **normalized**: case to title case, HTML entities decoded, deduplicated
+  - Detail panel chips order: genres → LLM labels → RA Tags
+  - Genre chip tooltips — hover → glassmorphism tooltip s popisom žánru + family label
 
 ## Skills
 
