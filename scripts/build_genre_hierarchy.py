@@ -12,14 +12,14 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 # ── L1 Families ──────────────────────────────────────────────────────────────
 
 FAMILIES = {
-    "Techno": "#f2355b",
+    "Techno": "#d41d4a",
     "House": "#f59e42",
-    "Bass": "#00c9a7",
-    "Disco & Soul": "#ffc857",
+    "Groove": "#fceba5",
+    "Bass Culture": "#06b6d4",
     "Experimental": "#c77dff",
-    "Global": "#45e89d",
-    "Industrial & Wave": "#7eb8d4",
-    "Downtempo": "#a78bfa",
+    "Industrial": "#94a3b8",
+    "Global Roots": "#22c55e",
+    "Hip Hop": "#fb7eb8",
 }
 
 # ── Hierarchy: family → { L2: [L3, ...] } ───────────────────────────────────
@@ -28,7 +28,7 @@ HIERARCHY = {
     "Techno": {
         "Techno": ["Minimal Techno", "Detroit Techno", "Berlin Techno",
                     "Melodic Techno", "Dub Techno", "Ambient Techno",
-                    "Acid Techno", "Industrial Techno", "Hard Techno",
+                    "Acid Techno", "Hard Techno", "Microhouse",
                     "Abstract Techno", "Broken Techno", "Experimental Techno",
                     "Percussive Techno", "Psychedelic Techno", "Hardgroove"],
         "Trance": ["Goa Trance", "Psychedelic", "Eurodance"],
@@ -37,55 +37,59 @@ HIERARCHY = {
     },
     "House": {
         "House": ["Deep House", "Tech House", "Chicago House", "Acid House",
-                  "Garage House", "Microhouse", "Electro House",
+                  "Garage House", "Electro House", "Electrohouse",
                   "Progressive House", "Organic House", "Afro House",
-                  "Ambient House", "Dream House", "Jackin House",
+                  "Dream House", "Jackin House",
                   "Minimal House", "Tribal House", "Latin House"],
     },
-    "Bass": {
+    "Groove": {
+        "Disco": ["Italo Disco", "Cosmic Disco", "Disco House", "Boogie"],
+        "Nu-Disco": ["Balearic"],
+        "Funk": [],
+        "Soul": [],
+    },
+    "Bass Culture": {
         "Drum and Bass": ["Jungle", "Liquid Funk", "Techstep"],
         "Dubstep": ["Bassline"],
         "Bass Music": ["Future Bass", "UK Bass"],
         "UK Garage": ["2-step", "UK Funky", "Jersey Club"],
-        "Grime": ["Drill"],
-        "Breakbeat": ["Footwork", "Broken Beat", "Baltimore Club"],
+        "Grime": [],
+        "Breakbeat": ["Footwork", "Juke", "Broken Beat", "Baltimore Club"],
         "Ghetto House": ["Ghetto Tech", "Booty Bass", "Miami Bass"],
-    },
-    "Disco & Soul": {
-        "Disco": ["Italo Disco", "Cosmic Disco", "Disco House", "Boogie"],
-        "Nu-Disco": ["Balearic"],
-        "Funk": [],
-        "Soul": ["R&B"],
-        "Hip Hop": ["Club Rap", "Trap", "Chopped and Screwed"],
     },
     "Experimental": {
         "Ambient": ["Drone", "Chillout", "Dark Ambient"],
         "Experimental": ["Electroacoustic", "Glitch", "Minimalism",
-                         "Electronica", "Exotica", "Percussion"],
+                         "Electronica", "Percussion"],
         "Noise": [],
         "IDM": [],
-        "Krautrock": ["Kosmische", "Psychedelic Rock"],
+        "Downtempo": ["Trip Hop", "Lo-Fi"],
+        "Ambient House": [],
     },
-    "Global": {
+    "Industrial": {
+        "Industrial": ["EBM", "Industrial Techno"],
+        "New Wave": ["Synth Pop", "Post Punk"],
+        "Wave": ["Dark Wave", "Cold Wave", "Minimal Wave", "Minimal Synth"],
+    },
+    "Global Roots": {
         "Afrobeats": ["Amapiano", "Gqom", "Highlife", "Afrobeat",
                       "Afrofuturism", "Singeli"],
         "Latin": ["Cumbia", "Reggaeton", "Baile Funk", "Dembow", "Guaracha"],
         "Reggae": ["Dub", "Dancehall", "Ragga"],
         "Tropical": ["Kuduro", "Batida"],
-        "World Music": ["Folk", "Desert Blues"],
-    },
-    "Industrial & Wave": {
-        "Industrial": ["EBM"],
-        "New Wave": ["Synth Pop", "Post Punk"],
-        "Wave": ["Dark Wave", "Cold Wave", "Minimal Wave", "Minimal Synth"],
-    },
-    "Downtempo": {
-        "Downtempo": ["Trip Hop", "Lo-Fi"],
-        "Spoken Word": [],
+        "World Music": ["World", "Folk", "Desert Blues"],
         "Jazz": [],
+        "R&B": [],
+        "Tribal": [],
+        "Krautrock": ["Kosmische", "Psychedelic Rock"],
         "Classical": [],
         "Pop": [],
+        "Exotica": [],
+        "Spoken Word": [],
         "Ballroom": [],
+    },
+    "Hip Hop": {
+        "Hip Hop": ["Club Rap", "Trap", "Drill", "Chopped and Screwed"],
     },
 }
 

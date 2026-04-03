@@ -1,10 +1,13 @@
 """
 llm_genre_extract.py — LLM-based genre extraction using Claude API.
 
+Uses tool_use for structured output, per-track analysis for tracklist-based
+episodes, and temperature=0 for deterministic results.
+
 Usage:
-  python scripts/llm_genre_extract.py --episodes 1037,1015,1,200    # specific episodes
-  python scripts/llm_genre_extract.py                                # all uncached
-  python scripts/llm_genre_extract.py --force                        # re-extract all
+  python scripts/llm_genre_extract.py --episodes 1037,1040    # specific episodes
+  python scripts/llm_genre_extract.py                          # all uncached
+  python scripts/llm_genre_extract.py --force                  # re-extract all
 
 Output: data/llm_genre_cache.jsonl
 """
@@ -23,74 +26,159 @@ ROOT = Path(__file__).parent.parent
 DATA_DIR = ROOT / "data"
 CACHE_PATH = DATA_DIR / "llm_genre_cache.jsonl"
 
-sys.path.insert(0, str(ROOT))
-from parser.genre_extractor import GENRE_VOCAB
-
-GENRE_LIST = sorted(GENRE_VOCAB.keys())
-
-SYSTEM_PROMPT = """You are a music expert specializing in electronic and dance music.
+SYSTEM_PROMPT = """You are a music expert specializing in electronic, dance, and underground music.
 You will receive information about a DJ mix from the Resident Advisor (RA) podcast series.
-Your task is to classify the mix by genres AND descriptive labels."""
-
-PROMPT_WITH_TRACKLIST = """Analyze this RA podcast mix and provide two things:
-
-1. **genres**: Choose 2-6 genres from this vocabulary:
-{genres}
-The tracklist is a strong signal — use the track artists and titles to identify genres.
-Combine with editorial context from the blurb and article.
-
-2. **labels**: Free-form descriptive tags (3-10) that capture non-genre characteristics of this mix. Examples of label categories (use your own words, not limited to these):
-- Mood/energy: hypnotic, euphoric, dark, introspective, high-energy, melancholic, dreamy
-- Setting: club, festival, afterhours, home listening, sunrise, warehouse
-- Era/influence: 90s, classic, contemporary, futuristic, retro
-- Geography: Detroit, Berlin, UK, Chicago, Tokyo, Caribbean, West Africa
-- Tempo/style: slow-burn, fast, vinyl-only, live, sample-heavy, vocal, instrumental
-- Vibe: underground, leftfield, peak-time, warm-up, eclectic, psychedelic
+Your task is to classify the mix by genres and descriptive labels.
 
 IMPORTANT:
-- For genres: only tag a genre if the music is actually that style, not because the word appears in English text.
-- For labels: be specific and evocative, based on the actual content. Avoid generic tags.
-- If the music's primary genre is NOT in the vocabulary, include it in "genres" anyway alongside the closest vocabulary matches. Real accuracy matters more than staying in the list.
+- Use the TRACKLIST as the primary signal. Analyze each track's artist to determine genres.
+- The editorial blurb/article is supplementary context only — do NOT let it override what the tracklist tells you.
+- Include ANY genre that is genuinely represented, even obscure, regional, or emerging genres (e.g. Budots, Amapiano, Kuduro, Singeli).
+- Do NOT force-fit into well-known genres. If the music is Budots, say Budots — not "Juke" or "Footwork"."""
+
+# --- Tool schemas for structured output ---
+
+TRACK_ANALYSIS_ITEM = {
+    "type": "object",
+    "properties": {
+        "artist": {"type": "string"},
+        "genre_signals": {
+            "type": "array",
+            "items": {"type": "string"},
+            "description": "1-3 genres this artist/track represents. Use the actual genre name — any genre is valid, not limited to a vocabulary.",
+        },
+    },
+    "required": ["artist", "genre_signals"],
+}
+
+DISCOVERED_GENRE_ITEM = {
+    "type": "object",
+    "properties": {
+        "name": {"type": "string", "description": "Genre name"},
+        "description": {
+            "type": "string",
+            "description": "Brief description of the genre (1-2 sentences)",
+        },
+        "closest_known": {
+            "type": "string",
+            "description": "Nearest well-known genre (e.g. Baile Funk, Footwork, Dancehall)",
+        },
+        "family": {
+            "type": "string",
+            "enum": [
+                "Techno",
+                "House",
+                "Groove",
+                "Bass Culture",
+                "Experimental",
+                "Industrial",
+                "Global Roots",
+                "Hip Hop",
+            ],
+            "description": "Which genre family this belongs to",
+        },
+    },
+    "required": ["name", "description", "closest_known", "family"],
+}
+
+CLASSIFY_TOOL_WITH_TRACKS = [
+    {
+        "name": "classify_mix",
+        "description": "Submit genre classification for a DJ mix based on track-by-track analysis",
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "track_analysis": {
+                    "type": "array",
+                    "items": TRACK_ANALYSIS_ITEM,
+                    "description": "Genre analysis for each track in the tracklist. Analyze every track.",
+                },
+                "mix_genres": {
+                    "type": "array",
+                    "items": {"type": "string"},
+                    "description": "2-8 overall genres for this mix, synthesized from the track analysis. Include ANY genre that is genuinely represented, even obscure or regional.",
+                },
+                "discovered_genres": {
+                    "type": "array",
+                    "items": DISCOVERED_GENRE_ITEM,
+                    "description": "Genres not in the standard electronic music vocabulary (regional, emerging, niche). Leave empty if all genres are well-known.",
+                },
+                "labels": {
+                    "type": "array",
+                    "items": {"type": "string"},
+                    "description": "3-10 free-form descriptive tags: mood, setting, era, geography, tempo, vibe.",
+                },
+                "notes": {
+                    "type": "string",
+                    "description": "Brief notes on the classification rationale.",
+                },
+            },
+            "required": ["track_analysis", "mix_genres", "labels"],
+        },
+    }
+]
+
+CLASSIFY_TOOL_NO_TRACKS = [
+    {
+        "name": "classify_mix",
+        "description": "Submit genre classification for a DJ mix based on editorial content and artist knowledge",
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "mix_genres": {
+                    "type": "array",
+                    "items": {"type": "string"},
+                    "description": "2-6 overall genres for this mix. Include ANY genre that is genuinely represented, even obscure or regional.",
+                },
+                "discovered_genres": {
+                    "type": "array",
+                    "items": DISCOVERED_GENRE_ITEM,
+                    "description": "Genres not in the standard electronic music vocabulary. Leave empty if all genres are well-known.",
+                },
+                "labels": {
+                    "type": "array",
+                    "items": {"type": "string"},
+                    "description": "3-10 free-form descriptive tags: mood, setting, era, geography, tempo, vibe.",
+                },
+                "notes": {
+                    "type": "string",
+                    "description": "Brief notes on the classification rationale.",
+                },
+            },
+            "required": ["mix_genres", "labels"],
+        },
+    }
+]
+
+# --- Prompts ---
+
+PROMPT_WITH_TRACKLIST = """Analyze this DJ mix. First, identify the genre(s) each track/artist represents.
+Then synthesize the overall genre profile of the mix.
 
 Artist: {artist}
-Blurb: {blurb}
 
 Tracklist:
 {tracklist}
 
-Editorial content:
-{content}
+---
+Editorial blurb (supplementary — the tracklist above is the primary signal):
+{blurb}
 
-Return valid JSON only, no other text:
-{{"genres": ["Genre1", "Genre2"], "labels": ["label1", "label2", "label3"], "notes": "optional"}}"""
+Editorial article (supplementary context only):
+{content}"""
 
-PROMPT_WITHOUT_TRACKLIST = """Analyze this RA podcast mix and provide two things:
+PROMPT_WITHOUT_TRACKLIST = """Analyze this DJ mix and classify its genres based on the editorial content
+and the artist's known style.
 
-1. **genres**: Choose 2-6 genres from this vocabulary:
-{genres}
-No tracklist is available. Use the editorial content and the artist's known style.
-
-2. **labels**: Free-form descriptive tags (3-10) that capture non-genre characteristics of this mix. Examples of label categories (use your own words, not limited to these):
-- Mood/energy: hypnotic, euphoric, dark, introspective, high-energy, melancholic, dreamy
-- Setting: club, festival, afterhours, home listening, sunrise, warehouse
-- Era/influence: 90s, classic, contemporary, futuristic, retro
-- Geography: Detroit, Berlin, UK, Chicago, Tokyo, Caribbean, West Africa
-- Tempo/style: slow-burn, fast, vinyl-only, live, sample-heavy, vocal, instrumental
-- Vibe: underground, leftfield, peak-time, warm-up, eclectic, psychedelic
-
-IMPORTANT:
-- For genres: only tag a genre if the music is actually that style, not because the word appears in English text.
-- For labels: be specific and evocative, based on the actual content. Avoid generic tags.
-- If the music's primary genre is NOT in the vocabulary, include it in "genres" anyway alongside the closest vocabulary matches. Real accuracy matters more than staying in the list.
+No tracklist is available — use the editorial content and artist knowledge.
 
 Artist: {artist}
-Blurb: {blurb}
 
-Editorial content:
-{content}
+Editorial blurb:
+{blurb}
 
-Return valid JSON only, no other text:
-{{"genres": ["Genre1", "Genre2"], "labels": ["label1", "label2", "label3"], "notes": "optional"}}"""
+Editorial article:
+{content}"""
 
 
 def load_cache():
@@ -124,14 +212,13 @@ def load_episode(podcast_id):
 
 
 def extract_one(client, podcast_id, model="claude-haiku-4-5-20251001"):
-    """Extract genres for one episode via Claude API."""
+    """Extract genres for one episode via Claude API with tool_use."""
     raw = load_episode(podcast_id)
     if not raw:
         print(f"  EP {podcast_id}: raw file not found, skipping")
         return None
 
     title = raw.get("title", "")
-    # Artist from title: "RA.1018 DJ Love..." → "DJ Love..."
     artist = re.sub(r'^RA\.\d+\s*', '', title).strip()
     if not artist:
         artist = (raw.get("artist") or {}).get("name") or "Unknown"
@@ -144,43 +231,39 @@ def extract_one(client, podcast_id, model="claude-haiku-4-5-20251001"):
     if len(content) > 1500:
         content = content[:1500] + "..."
 
-    if tracklist:
+    has_tracklist = bool(tracklist)
+
+    if has_tracklist:
         user_msg = PROMPT_WITH_TRACKLIST.format(
-            genres=", ".join(GENRE_LIST),
-            artist=artist,
-            blurb=blurb,
-            tracklist=tracklist,
-            content=content,
+            artist=artist, blurb=blurb, tracklist=tracklist, content=content,
         )
+        tools = CLASSIFY_TOOL_WITH_TRACKS
     else:
         user_msg = PROMPT_WITHOUT_TRACKLIST.format(
-            genres=", ".join(GENRE_LIST),
-            artist=artist,
-            blurb=blurb,
-            content=content,
+            artist=artist, blurb=blurb, content=content,
         )
+        tools = CLASSIFY_TOOL_NO_TRACKS
 
     response = client.messages.create(
         model=model,
-        max_tokens=300,
+        max_tokens=8192,
+        temperature=0,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_msg}],
+        tools=tools,
+        tool_choice={"type": "tool", "name": "classify_mix"},
     )
 
-    # Parse response
-    text = response.content[0].text.strip()
-    try:
-        result = json.loads(text)
-    except json.JSONDecodeError:
-        # Try to extract JSON from response
-        m = re.search(r'\{.*\}', text, re.DOTALL)
-        if m:
-            result = json.loads(m.group())
-        else:
-            print(f"  EP {podcast_id}: failed to parse response: {text[:100]}")
-            return None
+    # Parse tool_use response
+    tool_block = next(
+        (b for b in response.content if b.type == "tool_use"), None
+    )
+    if not tool_block:
+        print(f"  EP {podcast_id}: no tool_use block in response")
+        return None
 
-    # Token usage
+    result = tool_block.input
+
     usage = {
         "input_tokens": response.usage.input_tokens,
         "output_tokens": response.usage.output_tokens,
@@ -188,12 +271,18 @@ def extract_one(client, podcast_id, model="claude-haiku-4-5-20251001"):
 
     entry = {
         "podcast_id": str(podcast_id),
-        "genres": result.get("genres", []),
+        "genres": result.get("mix_genres", []),
         "labels": result.get("labels", []),
         "notes": result.get("notes", ""),
         "model": model,
         "usage": usage,
     }
+
+    if has_tracklist and "track_analysis" in result:
+        entry["track_analysis"] = result["track_analysis"]
+
+    if result.get("discovered_genres"):
+        entry["discovered_genres"] = result["discovered_genres"]
 
     return entry
 
@@ -212,7 +301,6 @@ def main():
     if args.episodes:
         episode_ids = [e.strip() for e in args.episodes.split(",")]
     else:
-        # All episodes
         episode_ids = []
         for f in sorted(glob.glob(str(DATA_DIR / "raw" / "episode_*.json")),
                         key=lambda x: int(x.split("_")[-1].replace(".json", ""))):
@@ -239,11 +327,12 @@ def main():
                 save_to_cache(entry)
                 total_input += entry["usage"]["input_tokens"]
                 total_output += entry["usage"]["output_tokens"]
-                print(f"→ genres={entry['genres']}"
-                      f"\n         labels={entry['labels']}"
-                      f" ({entry['usage']['input_tokens']}+{entry['usage']['output_tokens']} tok)"
-                      f"{' [' + entry['notes'] + ']' if entry['notes'] else ''}")
-            # Rate limit: ~50 req/min for haiku
+                discovered = entry.get("discovered_genres", [])
+                disc_str = f" | discovered: {[d['name'] for d in discovered]}" if discovered else ""
+                print(f"-> genres={entry['genres']}"
+                      f"\n         labels={entry['labels']}{disc_str}"
+                      f" ({entry['usage']['input_tokens']}+{entry['usage']['output_tokens']} tok)")
+            # Rate limit
             if i < len(episode_ids) - 1:
                 time.sleep(0.5)
         except Exception as e:
@@ -251,10 +340,6 @@ def main():
 
     print(f"\nDone. Total tokens: {total_input} input + {total_output} output = {total_input + total_output}")
     print(f"Estimated cost (Haiku): ${total_input * 0.80 / 1_000_000 + total_output * 4.0 / 1_000_000:.4f}")
-    print(f"Extrapolated for 1046 episodes: "
-          f"~{total_input * 1046 / len(episode_ids):.0f} input + "
-          f"~{total_output * 1046 / len(episode_ids):.0f} output tokens, "
-          f"~${(total_input * 1046 / len(episode_ids)) * 0.80 / 1_000_000 + (total_output * 1046 / len(episode_ids)) * 4.0 / 1_000_000:.2f}")
 
 
 if __name__ == "__main__":
