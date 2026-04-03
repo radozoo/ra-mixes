@@ -13,6 +13,7 @@ Output:
 import json
 import glob
 import re
+import html
 from pathlib import Path
 import openpyxl
 
@@ -42,6 +43,24 @@ def _split_content(html_str):
         article = re.sub(r'\s*(<br\s*/?>|\n)+\s*$', '', article)
         return article or None, qa or None
     return html_str, None
+
+
+def _normalize_keywords(raw):
+    """Normalize RA keywords: decode HTML entities, title case, deduplicate."""
+    if not raw:
+        return None
+    seen = {}
+    result = []
+    for kw in raw.split(','):
+        kw = html.unescape(kw).strip()
+        if not kw:
+            continue
+        normalized = kw.title()
+        key = normalized.lower()
+        if key not in seen:
+            seen[key] = True
+            result.append(normalized)
+    return ','.join(result) if result else None
 
 
 def load_mixes():
@@ -74,7 +93,7 @@ def load_mixes():
             "imageUrl": d.get("imageUrl"),
             "streamingUrl": d.get("streamingUrl") or None,
             "url": d.get("url"),
-            "keywords": d.get("keywords") or None,
+            "keywords": _normalize_keywords(d.get("keywords")),
         }
         sanitized = _sanitize_html(trans.get("content"))
         article, qa = _split_content(sanitized)
@@ -451,6 +470,111 @@ body::after {{
     var(--night);
 }}
 .graph-area svg {{ width: 100%; height: 100%; }}
+
+/* ── Graph search ──────────────────────────────────────────── */
+.graph-search {{
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 20;
+  width: min(280px, calc(100% - 40px));
+}}
+.graph-search-input {{
+  width: 100%;
+  padding: 10px 36px 10px 38px;
+  background: var(--glass);
+  backdrop-filter: blur(24px);
+  border: 1px solid var(--glass-border);
+  border-radius: 14px;
+  color: var(--text-bright);
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 300;
+  outline: none;
+  transition: all 0.3s var(--ease);
+}}
+.graph-search-input::placeholder {{ color: var(--text-dim); }}
+.graph-search-input:focus {{
+  border-color: var(--neon-cyan);
+  box-shadow: 0 0 0 3px rgba(0,229,255,0.08), 0 8px 32px rgba(0,0,0,0.3);
+}}
+.graph-search-icon {{
+  position: absolute;
+  left: 13px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-dim);
+  font-size: 13px;
+  pointer-events: none;
+  transition: color 0.2s;
+}}
+.graph-search:focus-within .graph-search-icon {{ color: var(--neon-cyan); }}
+.graph-search-clear {{
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 2px 4px;
+  line-height: 1;
+  display: none;
+  transition: color 0.2s;
+}}
+.graph-search-clear:hover {{ color: var(--text-bright); }}
+.graph-search-dropdown {{
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  background: var(--glass);
+  backdrop-filter: blur(24px);
+  border: 1px solid var(--glass-border);
+  border-radius: 12px;
+  max-height: 260px;
+  overflow-y: auto;
+  display: none;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.5);
+}}
+.graph-search-dropdown::-webkit-scrollbar {{ width: 4px; }}
+.graph-search-dropdown::-webkit-scrollbar-thumb {{ background: var(--glass-border); border-radius: 2px; }}
+.graph-search-item {{
+  padding: 9px 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background 0.15s;
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--text-main);
+}}
+.graph-search-item:first-child {{ border-radius: 12px 12px 0 0; }}
+.graph-search-item:last-child {{ border-radius: 0 0 12px 12px; }}
+.graph-search-item:hover, .graph-search-item.active {{
+  background: rgba(255,255,255,0.06);
+  color: var(--text-bright);
+}}
+.graph-search-item .gs-dot {{
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}}
+.graph-search-item .gs-count {{
+  margin-left: auto;
+  font-family: var(--font-data);
+  font-size: 11px;
+  color: var(--text-dim);
+}}
+.graph-search-item .gs-family {{
+  font-size: 11px;
+  color: var(--text-dim);
+}}
+
 /* ── Family district labels (in SVG) ───────────────────────── */
 .family-label {{
   font-family: var(--font-display);
@@ -619,16 +743,27 @@ body::after {{
 
 /* Masonry */
 .label-masonry {{
-  columns: 2;
-  column-gap: 16px;
+  display: flex;
+  gap: 12px;
 }}
-@media (min-width: 1200px) {{
-  .label-masonry {{ columns: 3; }}
+
+.label-column {{
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}}
+
+/* Group separator line */
+.label-cat-group-sep {{
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.07), transparent);
+  margin: 0;
+  border: none;
 }}
 
 /* Category tile — top neon glow line */
 .label-cat-section {{
-  break-inside: avoid;
   margin-bottom: 16px;
   padding: 14px 16px 10px;
   background: var(--night-surface);
@@ -636,6 +771,7 @@ body::after {{
   border-radius: 14px;
   position: relative;
   overflow: hidden;
+  flex-shrink: 0;
 }}
 .label-cat-section::before {{
   content: '';
@@ -645,6 +781,9 @@ body::after {{
   right: 0;
   height: 2px;
 }}
+.label-cat-section[data-cat="mood"]::before,
+.label-cat-section[data-cat="energy"]::before,
+.label-cat-section[data-cat="vibe"]::before {{ height: 3px; }}
 .label-cat-section[data-cat="mood"]::before      {{ background: linear-gradient(90deg, transparent, #b87ee6, transparent); }}
 .label-cat-section[data-cat="energy"]::before    {{ background: linear-gradient(90deg, transparent, #ff9f43, transparent); }}
 .label-cat-section[data-cat="setting"]::before   {{ background: linear-gradient(90deg, transparent, #45b7d1, transparent); }}
@@ -654,14 +793,16 @@ body::after {{
 .label-cat-section[data-cat="vibe"]::before      {{ background: linear-gradient(90deg, transparent, #ff6b9d, transparent); }}
 .label-cat-section[data-cat="__kw__"]::before   {{ background: linear-gradient(90deg, transparent, #888888, transparent); }}
 
-/* Glow shadow */
-.label-cat-section[data-cat="mood"]      {{ box-shadow: 0 -2px 16px rgba(184,126,230,0.08); }}
-.label-cat-section[data-cat="energy"]    {{ box-shadow: 0 -2px 16px rgba(255,159,67,0.08); }}
+/* Glow shadow — primary group (mood, energy, vibe) */
+.label-cat-section[data-cat="mood"]      {{ box-shadow: 0 -2px 20px rgba(184,126,230,0.18); }}
+.label-cat-section[data-cat="energy"]    {{ box-shadow: 0 -2px 20px rgba(255,159,67,0.18); }}
+.label-cat-section[data-cat="vibe"]      {{ box-shadow: 0 -2px 20px rgba(255,107,157,0.18); }}
+/* Context group (geography, setting, style) */
 .label-cat-section[data-cat="setting"]   {{ box-shadow: 0 -2px 16px rgba(69,183,209,0.08); }}
 .label-cat-section[data-cat="geography"] {{ box-shadow: 0 -2px 16px rgba(38,222,129,0.08); }}
 .label-cat-section[data-cat="style"]     {{ box-shadow: 0 -2px 16px rgba(107,181,255,0.08); }}
+/* Metadata group (era, __kw__) */
 .label-cat-section[data-cat="era"]       {{ box-shadow: 0 -2px 16px rgba(255,217,61,0.08); }}
-.label-cat-section[data-cat="vibe"]      {{ box-shadow: 0 -2px 16px rgba(255,107,157,0.08); }}
 .label-cat-section[data-cat="__kw__"]    {{ box-shadow: 0 -2px 16px rgba(136,136,136,0.08); }}
 
 .label-cat-title {{
@@ -673,6 +814,17 @@ body::after {{
   letter-spacing: 3px;
   font-weight: 600;
 }}
+/* Metadata group opacity (era, __kw__) */
+.label-cat-section[data-cat="era"],
+.label-cat-section[data-cat="__kw__"] {{
+  opacity: 0.75;
+  transition: opacity 0.2s var(--ease);
+}}
+.label-cat-section[data-cat="era"]:hover,
+.label-cat-section[data-cat="__kw__"]:hover {{
+  opacity: 1;
+}}
+
 .label-cat-items {{
   display: flex;
   flex-wrap: wrap;
@@ -779,6 +931,20 @@ body::after {{
   white-space: nowrap;
   display: none;
   box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 0 1px rgba(255,45,120,0.3);
+  z-index: 9999;
+  max-width: 320px;
+}}
+.tooltip.has-desc {{
+  white-space: normal;
+  line-height: 1.4;
+}}
+.tooltip .tt-title {{
+  font-weight: 600;
+  margin-bottom: 4px;
+}}
+.tooltip .tt-desc {{
+  opacity: 0.8;
+  font-size: 11px;
 }}
 
 /* ── Node labels ────────────────────────────────────────────── */
@@ -1149,8 +1315,14 @@ body::after {{
     </div>
     <div class="graph-area" id="graphArea">
       <svg id="graph"></svg>
-      <div class="tooltip" id="tooltip"></div>
+      <div class="graph-search" id="graphSearch">
+        <span class="graph-search-icon">⌕</span>
+        <input type="text" class="graph-search-input" id="graphSearchInput" placeholder="Search genres..." autocomplete="off">
+        <button class="graph-search-clear" id="graphSearchClear">✕</button>
+        <div class="graph-search-dropdown" id="graphSearchDropdown"></div>
+      </div>
     </div>
+    <div class="tooltip" id="tooltip"></div>
     <div class="label-filter-area" id="labelFilterArea" style="display:none">
       <div class="label-search-box">
         <input type="text" id="labelSearch" placeholder="Search labels and genres...">
@@ -1244,8 +1416,13 @@ if (searchClear) {{
 renderEpisodeList();
 
 // ── Label & Genre Filter Panel ─────────────────────────────────────────────
-const CAT_ORDER = ['mood','energy','vibe','style','geography','setting','era'];
+const CAT_ORDER = ['mood','setting','era','energy','geography','vibe','style'];
 const CAT_NAMES = {{ mood:'Mood', energy:'Energy', vibe:'Vibe', style:'Style', geography:'Geography', setting:'Setting', era:'Era' }};
+const CAT_GROUPS = [
+  ['mood', 'energy', 'vibe'],
+  ['geography', 'setting', 'style'],
+  ['era'],
+];
 const DEFAULT_SHOW = 80;
 
 // Precompute label counts per category
@@ -1359,6 +1536,22 @@ function renderGenreFilterSection() {{
       chip.classList.add('selected');
     }}
     chip.addEventListener('click', () => toggleLabelFilter('genre', genre));
+    const desc = node && node.description ? node.description : '';
+    if (desc) {{
+      chip.addEventListener('mouseenter', (e) => {{
+        const tt = document.getElementById('tooltip');
+        tt.innerHTML = `<div class="tt-title">${{genre}}</div><div class="tt-desc">${{desc}}</div>`;
+        tt.classList.add('has-desc');
+        tt.style.display = 'block';
+        requestAnimationFrame(() => positionTooltip(e));
+      }});
+      chip.addEventListener('mousemove', (e) => positionTooltip(e));
+      chip.addEventListener('mouseleave', () => {{
+        const tt = document.getElementById('tooltip');
+        tt.style.display = 'none';
+        tt.classList.remove('has-desc');
+      }});
+    }}
     items.appendChild(chip);
   }});
 
@@ -1381,64 +1574,80 @@ function renderLabelMasonry() {{
   const container = document.getElementById('labelMasonry');
   container.innerHTML = '';
 
+  // Create 3 columns
+  const col1 = document.createElement('div');
+  col1.className = 'label-column';
+  const col2 = document.createElement('div');
+  col2.className = 'label-column';
+  const col3 = document.createElement('div');
+  col3.className = 'label-column';
+
+  // Column mapping: mood, setting, era, __kw__ → col1; energy, geography → col2; vibe, style → col3
+  const columnMap = {{
+    mood: col1, setting: col1, era: col1,
+    energy: col2, geography: col2,
+    vibe: col3, style: col3
+  }};
+
   const filteredMixes = getFilteredMixes();
   const displayCounts = activeFilters.length > 0
     ? computeFilteredCounts(filteredMixes).labelCounts
     : LABEL_COUNTS;
 
+  // Render categories into their assigned columns
   CAT_ORDER.forEach(cat => {{
-    let entries = Object.entries(displayCounts[cat] || {{}})
-      .sort((a, b) => b[1] - a[1]);
-    if (labelSearchQuery) entries = entries.filter(([l]) => l.toLowerCase().includes(labelSearchQuery));
-    if (!entries.length) return;
+      let entries = Object.entries(displayCounts[cat] || {{}})
+        .sort((a, b) => b[1] - a[1]);
+      if (labelSearchQuery) entries = entries.filter(([l]) => l.toLowerCase().includes(labelSearchQuery));
+      if (!entries.length) return;
 
-    const expanded = expandedCats.has(cat);
-    const visible = expanded ? entries : entries.slice(0, DEFAULT_SHOW);
-    const hasMore = entries.length > DEFAULT_SHOW;
+      const expanded = expandedCats.has(cat);
+      const visible = expanded ? entries : entries.slice(0, DEFAULT_SHOW);
+      const hasMore = entries.length > DEFAULT_SHOW;
 
-    const section = document.createElement('div');
-    section.className = 'label-cat-section';
-    section.setAttribute('data-cat', cat);
+      const section = document.createElement('div');
+      section.className = 'label-cat-section';
+      section.setAttribute('data-cat', cat);
 
-    const title = document.createElement('div');
-    title.className = 'label-cat-title';
-    title.textContent = `${{CAT_NAMES[cat]}} (${{entries.length}})`;
-    section.appendChild(title);
+      const title = document.createElement('div');
+      title.className = 'label-cat-title';
+      title.textContent = `${{CAT_NAMES[cat]}} (${{entries.length}})`;
+      section.appendChild(title);
 
-    const items = document.createElement('div');
-    items.className = 'label-cat-items';
+      const items = document.createElement('div');
+      items.className = 'label-cat-items';
 
-    visible.forEach(([label, count]) => {{
-      const chip = document.createElement('span');
-      chip.className = 'filter-label-chip label-chip';
-      chip.setAttribute('data-cat', cat);
-      chip.style.fontSize = chipFontSize(count) + 'px';
-      chip.innerHTML = `${{label}}<span class="chip-count">${{count}}</span>`;
-      if (activeFilters.some(f => f.category === cat && f.label === label)) {{
-        chip.classList.add('selected');
-      }}
-      chip.addEventListener('click', () => toggleLabelFilter(cat, label));
-      items.appendChild(chip);
-    }});
-
-    section.appendChild(items);
-
-    if (hasMore) {{
-      const btn = document.createElement('button');
-      btn.className = 'show-more-btn';
-      btn.textContent = expanded ? 'Show less' : `Show all ${{entries.length}}`;
-      btn.addEventListener('click', () => {{
-        if (expanded) expandedCats.delete(cat);
-        else expandedCats.add(cat);
-        renderFilterPanel();
+      visible.forEach(([label, count]) => {{
+        const chip = document.createElement('span');
+        chip.className = 'filter-label-chip label-chip';
+        chip.setAttribute('data-cat', cat);
+        chip.style.fontSize = chipFontSize(count) + 'px';
+        chip.innerHTML = `${{label}}<span class="chip-count">${{count}}</span>`;
+        if (activeFilters.some(f => f.category === cat && f.label === label)) {{
+          chip.classList.add('selected');
+        }}
+        chip.addEventListener('click', () => toggleLabelFilter(cat, label));
+        items.appendChild(chip);
       }});
-      section.appendChild(btn);
-    }}
 
-    container.appendChild(section);
+      section.appendChild(items);
+
+      if (hasMore) {{
+        const btn = document.createElement('button');
+        btn.className = 'show-more-btn';
+        btn.textContent = expanded ? 'Show less' : `Show all ${{entries.length}}`;
+        btn.addEventListener('click', () => {{
+          if (expanded) expandedCats.delete(cat);
+          else expandedCats.add(cat);
+          renderFilterPanel();
+        }});
+        section.appendChild(btn);
+      }}
+
+      columnMap[cat].appendChild(section);
   }});
 
-  // RA Tags section at the bottom
+  // RA Tags section → col1
   const displayKwCounts = activeFilters.length > 0
     ? computeFilteredCounts(filteredMixes).kwCounts
     : KW_COUNTS;
@@ -1488,8 +1697,12 @@ function renderLabelMasonry() {{
       section.appendChild(btn);
     }}
 
-    container.appendChild(section);
+    col1.appendChild(section);
   }}
+
+  container.appendChild(col1);
+  container.appendChild(col2);
+  container.appendChild(col3);
 }}
 
 let labelSearchQuery = '';
@@ -1786,8 +1999,8 @@ function showEpisodeDetail(mix) {{
         </div>
         ${{linksHtml}}
         <div class="genre-chips">${{chips}}</div>
-        ${{kwHtml ? `<div class="kw-chips">${{kwHtml}}</div>` : ''}}
         ${{labelsHtml ? `<div class="label-chips">${{labelsHtml}}</div>` : ''}}
+        ${{kwHtml ? `<div class="kw-chips">${{kwHtml}}</div>` : ''}}
       </div>
     </div>
     ${{mix.blurb ? `<div class="detail-blurb">${{mix.blurb}}</div>` : ''}}
@@ -2099,7 +2312,8 @@ nodeGroups.append('text').attr('class', 'node-label')
 // Tooltip
 const tooltip = document.getElementById('tooltip');
 function positionTooltip(event) {{
-  const tt = tooltip.getBoundingClientRect();
+  const tip = document.getElementById('tooltip');
+  const tt = tip.getBoundingClientRect();
   const vw = window.innerWidth;
   const vh = window.innerHeight;
   let x = event.clientX + 12;
@@ -2108,8 +2322,8 @@ function positionTooltip(event) {{
   if (x < 8) x = 8;
   if (y + tt.height > vh - 8) y = event.clientY - tt.height - 10;
   if (y < 8) y = 8;
-  tooltip.style.left = x + 'px';
-  tooltip.style.top = y + 'px';
+  tip.style.left = x + 'px';
+  tip.style.top = y + 'px';
 }}
 nodeGroups.on('mouseover', function(event, d) {{
   d3.select(this).select('.node-label').attr('opacity', 1);
@@ -2130,6 +2344,7 @@ nodeGroups.on('mouseover', function(event, d) {{
       }});
     if (top.length) conns = ' → ' + top.join(', ');
   }}
+  tooltip.classList.remove('has-desc');
   tooltip.textContent = `${{d.id}} — ${{d.count}} mixes${{conns}}`;
   tooltip.style.display = 'block';
   const ev = event;
@@ -2152,6 +2367,107 @@ nodeGroups.on('mouseover', function(event, d) {{
 }});
 
 svg.on('click', () => clearSelection());
+
+// ── Graph Search ──────────────────────────────────────────────
+(function() {{
+  const gsInput = document.getElementById('graphSearchInput');
+  const gsClear = document.getElementById('graphSearchClear');
+  const gsDropdown = document.getElementById('graphSearchDropdown');
+  let gsActiveIdx = -1;
+
+  function gsFilter(q) {{
+    if (!q) return [];
+    const lower = q.toLowerCase();
+    return simNodes
+      .filter(n => n.id.toLowerCase().includes(lower))
+      .sort((a, b) => {{
+        const aStarts = a.id.toLowerCase().startsWith(lower) ? 0 : 1;
+        const bStarts = b.id.toLowerCase().startsWith(lower) ? 0 : 1;
+        if (aStarts !== bStarts) return aStarts - bStarts;
+        return b.count - a.count;
+      }})
+      .slice(0, 12);
+  }}
+
+  function gsRender(results) {{
+    if (!results.length) {{ gsDropdown.style.display = 'none'; return; }}
+    gsDropdown.innerHTML = results.map((n, i) =>
+      `<div class="graph-search-item${{i === gsActiveIdx ? ' active' : ''}}" data-id="${{n.id}}">` +
+      `<span class="gs-dot" style="background:${{n.color}}"></span>` +
+      `<span>${{n.id}}</span>` +
+      `<span class="gs-family">${{n.family}}</span>` +
+      `<span class="gs-count">${{n.count}}</span>` +
+      `</div>`
+    ).join('');
+    gsDropdown.style.display = 'block';
+    gsDropdown.querySelectorAll('.graph-search-item').forEach(item => {{
+      item.addEventListener('click', () => gsSelect(item.dataset.id));
+    }});
+  }}
+
+  function gsSelect(nodeId) {{
+    gsInput.value = '';
+    gsClear.style.display = 'none';
+    gsDropdown.style.display = 'none';
+    gsActiveIdx = -1;
+    gsInput.blur();
+
+    // Zoom to node + select
+    const node = simNodes.find(n => n.id === nodeId);
+    if (node) {{
+      const svgEl = document.getElementById('graph');
+      const w = svgEl.clientWidth;
+      const h = svgEl.clientHeight;
+      const scale = 2.5;
+      const tx = w / 2 - node.x * scale;
+      const ty = h / 2 - node.y * scale;
+      svg.transition().duration(600).call(
+        zoom.transform,
+        d3.zoomIdentity.translate(tx, ty).scale(scale)
+      );
+    }}
+    setTimeout(() => selectGenreNode(nodeId), 150);
+  }}
+
+  gsInput.addEventListener('input', () => {{
+    const q = gsInput.value.trim();
+    gsClear.style.display = q ? 'block' : 'none';
+    gsActiveIdx = -1;
+    gsRender(gsFilter(q));
+  }});
+
+  gsInput.addEventListener('keydown', (e) => {{
+    const items = gsDropdown.querySelectorAll('.graph-search-item');
+    if (!items.length) return;
+    if (e.key === 'ArrowDown') {{
+      e.preventDefault();
+      gsActiveIdx = Math.min(gsActiveIdx + 1, items.length - 1);
+      gsRender(gsFilter(gsInput.value.trim()));
+    }} else if (e.key === 'ArrowUp') {{
+      e.preventDefault();
+      gsActiveIdx = Math.max(gsActiveIdx - 1, 0);
+      gsRender(gsFilter(gsInput.value.trim()));
+    }} else if (e.key === 'Enter' && gsActiveIdx >= 0) {{
+      e.preventDefault();
+      gsSelect(items[gsActiveIdx].dataset.id);
+    }} else if (e.key === 'Escape') {{
+      gsDropdown.style.display = 'none';
+      gsInput.blur();
+    }}
+  }});
+
+  gsClear.addEventListener('click', () => {{
+    gsInput.value = '';
+    gsClear.style.display = 'none';
+    gsDropdown.style.display = 'none';
+    gsActiveIdx = -1;
+    gsInput.focus();
+  }});
+
+  document.addEventListener('click', (e) => {{
+    if (!e.target.closest('.graph-search')) gsDropdown.style.display = 'none';
+  }});
+}})();
 
 simulation.on('tick', () => {{
   links.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
