@@ -1,344 +1,2337 @@
 {
   "nodes": [
-    {"id": "Techno", "count": 653, "family": "Techno", "color": "#f2355b"},
-    {"id": "Minimal Techno", "count": 145, "family": "Techno", "color": "#f2355b"},
-    {"id": "Detroit Techno", "count": 37, "family": "Techno", "color": "#f2355b"},
-    {"id": "Berlin Techno", "count": 4, "family": "Techno", "color": "#f2355b"},
-    {"id": "Melodic Techno", "count": 13, "family": "Techno", "color": "#f2355b"},
-    {"id": "Dub Techno", "count": 26, "family": "Techno", "color": "#f2355b"},
-    {"id": "Ambient Techno", "count": 9, "family": "Techno", "color": "#f2355b"},
-    {"id": "Acid Techno", "count": 3, "family": "Techno", "color": "#f2355b"},
-    {"id": "Industrial Techno", "count": 3, "family": "Techno", "color": "#f2355b"},
-    {"id": "Hard Techno", "count": 9, "family": "Techno", "color": "#f2355b"},
-    {"id": "Abstract Techno", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Broken Techno", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Experimental Techno", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Percussive Techno", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Psychedelic Techno", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Hardgroove", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Trance", "count": 81, "family": "Techno", "color": "#f2355b"},
-    {"id": "Goa Trance", "count": 5, "family": "Techno", "color": "#f2355b"},
-    {"id": "Psychedelic", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Eurodance", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Electro", "count": 138, "family": "Techno", "color": "#f2355b"},
-    {"id": "Hardcore", "count": 61, "family": "Techno", "color": "#f2355b"},
-    {"id": "Gabber", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Breakcore", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "Hi-NRG", "count": 0, "family": "Techno", "color": "#f2355b"},
-    {"id": "House", "count": 653, "family": "House", "color": "#f59e42"},
-    {"id": "Deep House", "count": 95, "family": "House", "color": "#f59e42"},
-    {"id": "Tech House", "count": 48, "family": "House", "color": "#f59e42"},
-    {"id": "Chicago House", "count": 25, "family": "House", "color": "#f59e42"},
-    {"id": "Acid House", "count": 20, "family": "House", "color": "#f59e42"},
-    {"id": "Garage House", "count": 1, "family": "House", "color": "#f59e42"},
-    {"id": "Microhouse", "count": 7, "family": "House", "color": "#f59e42"},
-    {"id": "Electro House", "count": 4, "family": "House", "color": "#f59e42"},
-    {"id": "Progressive House", "count": 11, "family": "House", "color": "#f59e42"},
-    {"id": "Organic House", "count": 2, "family": "House", "color": "#f59e42"},
-    {"id": "Afro House", "count": 11, "family": "House", "color": "#f59e42"},
-    {"id": "Ambient House", "count": 0, "family": "House", "color": "#f59e42"},
-    {"id": "Dream House", "count": 0, "family": "House", "color": "#f59e42"},
-    {"id": "Jackin House", "count": 0, "family": "House", "color": "#f59e42"},
-    {"id": "Minimal House", "count": 0, "family": "House", "color": "#f59e42"},
-    {"id": "Tribal House", "count": 0, "family": "House", "color": "#f59e42"},
-    {"id": "Latin House", "count": 0, "family": "House", "color": "#f59e42"},
-    {"id": "Drum and Bass", "count": 121, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Jungle", "count": 84, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Liquid Funk", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Techstep", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Dubstep", "count": 99, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Bassline", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Bass Music", "count": 37, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Future Bass", "count": 1, "family": "Bass", "color": "#00c9a7"},
-    {"id": "UK Bass", "count": 18, "family": "Bass", "color": "#00c9a7"},
-    {"id": "UK Garage", "count": 49, "family": "Bass", "color": "#00c9a7"},
-    {"id": "2-step", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "UK Funky", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Jersey Club", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Grime", "count": 47, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Drill", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Breakbeat", "count": 189, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Footwork", "count": 45, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Broken Beat", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Baltimore Club", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Ghetto House", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Ghetto Tech", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Booty Bass", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Miami Bass", "count": 0, "family": "Bass", "color": "#00c9a7"},
-    {"id": "Disco", "count": 0, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Italo Disco", "count": 23, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Cosmic Disco", "count": 0, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Disco House", "count": 0, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Boogie", "count": 0, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Nu-Disco", "count": 182, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Balearic", "count": 28, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Funk", "count": 111, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Soul", "count": 129, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "R&B", "count": 52, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Hip Hop", "count": 130, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Club Rap", "count": 0, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Trap", "count": 0, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Chopped and Screwed", "count": 0, "family": "Disco & Soul", "color": "#ffc857"},
-    {"id": "Ambient", "count": 173, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Drone", "count": 17, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Chillout", "count": 10, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Dark Ambient", "count": 0, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Experimental", "count": 145, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Electroacoustic", "count": 5, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Glitch", "count": 7, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Minimalism", "count": 0, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Electronica", "count": 0, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Exotica", "count": 0, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Percussion", "count": 0, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Noise", "count": 71, "family": "Experimental", "color": "#c77dff"},
-    {"id": "IDM", "count": 40, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Krautrock", "count": 10, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Kosmische", "count": 4, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Psychedelic Rock", "count": 0, "family": "Experimental", "color": "#c77dff"},
-    {"id": "Afrobeats", "count": 9, "family": "Global", "color": "#45e89d"},
-    {"id": "Amapiano", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Gqom", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Highlife", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Afrobeat", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Afrofuturism", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Singeli", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Latin", "count": 37, "family": "Global", "color": "#45e89d"},
-    {"id": "Cumbia", "count": 6, "family": "Global", "color": "#45e89d"},
-    {"id": "Reggaeton", "count": 9, "family": "Global", "color": "#45e89d"},
-    {"id": "Baile Funk", "count": 13, "family": "Global", "color": "#45e89d"},
-    {"id": "Dembow", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Guaracha", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Reggae", "count": 26, "family": "Global", "color": "#45e89d"},
-    {"id": "Dub", "count": 123, "family": "Global", "color": "#45e89d"},
-    {"id": "Dancehall", "count": 24, "family": "Global", "color": "#45e89d"},
-    {"id": "Ragga", "count": 4, "family": "Global", "color": "#45e89d"},
-    {"id": "Tropical", "count": 11, "family": "Global", "color": "#45e89d"},
-    {"id": "Kuduro", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Batida", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "World Music", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Folk", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Desert Blues", "count": 0, "family": "Global", "color": "#45e89d"},
-    {"id": "Industrial", "count": 67, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "EBM", "count": 29, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "New Wave", "count": 39, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "Synth Pop", "count": 14, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "Post Punk", "count": 27, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "Wave", "count": 96, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "Dark Wave", "count": 0, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "Cold Wave", "count": 0, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "Minimal Wave", "count": 0, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "Minimal Synth", "count": 0, "family": "Industrial & Wave", "color": "#7eb8d4"},
-    {"id": "Downtempo", "count": 52, "family": "Downtempo", "color": "#a78bfa"},
-    {"id": "Trip Hop", "count": 8, "family": "Downtempo", "color": "#a78bfa"},
-    {"id": "Lo-Fi", "count": 16, "family": "Downtempo", "color": "#a78bfa"},
-    {"id": "Spoken Word", "count": 7, "family": "Downtempo", "color": "#a78bfa"},
-    {"id": "Jazz", "count": 130, "family": "Downtempo", "color": "#a78bfa"},
-    {"id": "Classical", "count": 39, "family": "Downtempo", "color": "#a78bfa"},
-    {"id": "Pop", "count": 0, "family": "Downtempo", "color": "#a78bfa"},
-    {"id": "Ballroom", "count": 0, "family": "Downtempo", "color": "#a78bfa"}
+    {
+      "id": "Techno",
+      "description": "Repetitive electronic music built on a machine-driven 4/4 beat, synthetic sounds, and minimal melody. Born in mid-1980s Detroit as a futuristic response to the city's industrial decline — Juan Atkins, Derrick May, and Kevin Saunderson are considered the founding trio. After the fall of the Berlin Wall, it was adopted and reshaped by Germany's club scene into harder, more industrial forms. Typically 125–150 BPM.",
+      "count": 653,
+      "family": "Techno",
+      "color": "#d41d4a"
+    },
+    {
+      "id": "Minimal Techno",
+      "count": 145,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "A stripped-down form of techno that reduces elements to the bare essentials — sparse beats, subtle tonal shifts, and hypnotic repetition. Emerged in the mid-1990s from artists like Robert Hood and Richie Hawtin. The focus is on micro-level changes over long stretches rather than dramatic builds or drops. Typically 125–135 BPM."
+    },
+    {
+      "id": "Detroit Techno",
+      "count": 37,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "The original form of techno, created in mid-1980s Detroit by Juan Atkins, Derrick May, and Kevin Saunderson. Blends electronic synthesizers with funk, electro, and sci-fi futurism. Warmer and more melodic than its European descendants, with lush pads and driving rhythms. The sound of a post-industrial city imagining its future."
+    },
+    {
+      "id": "Berlin Techno",
+      "count": 4,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "The hard, stripped-back techno sound that emerged from Berlin's reunification-era club scene in the early 1990s. Darker, faster, and more industrial than its Detroit origins. Defined by venues like Tresor and Berghain, and producers like Ben Klock, Marcel Dettmann, and Surgeon. Typically 130–140+ BPM."
+    },
+    {
+      "id": "Melodic Techno",
+      "count": 13,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "A more accessible, emotional strain of techno that foregrounds melody, pads, and atmospheric textures alongside the standard 4/4 kick. Popularized in the 2010s by artists like Tale Of Us, Âme, and Stephan Bodzin. Often associated with Afterlife and Innervisions labels. Around 120–130 BPM."
+    },
+    {
+      "id": "Dub Techno",
+      "count": 26,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "A fusion of techno's repetitive structures with dub's echo-heavy production techniques — deep reverbs, delay chains, and filtered chords that seem to dissolve into space. Pioneered by Basic Channel and Maurizio in early 1990s Berlin. Meditative and immersive, typically 120–130 BPM."
+    },
+    {
+      "id": "Ambient Techno",
+      "count": 9,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Techno with the dancefloor energy removed, leaving atmospheric textures, slow-evolving pads, and subtle rhythmic pulses. Sits between ambient and techno — more structured than pure ambient, but too gentle for peak-time play. Artists like Biosphere, Global Communication, and The Orb define the space."
+    },
+    {
+      "id": "Acid Techno",
+      "count": 3,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Techno centered around the squelchy, resonant sound of the Roland TB-303 bass synthesizer. Faster and more abrasive than acid house, with distorted 303 lines layered over pounding kicks. Strong in the UK and European free party scene since the early 1990s. Typically 135–150 BPM."
+    },
+    {
+      "id": "Industrial Techno",
+      "count": 3,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "The heaviest, most abrasive end of the techno spectrum. Combines techno's 4/4 structure with industrial music's metallic textures, distortion, and confrontational energy. Artists like Regis, Ansome, and Perc. Often associated with concrete venues and pitch-dark rooms. 130–145 BPM."
+    },
+    {
+      "id": "Hard Techno",
+      "count": 9,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Fast, aggressive techno with distorted kicks, pounding basslines, and relentless energy. Sits between standard techno and hardcore — harder than peak-time techno but more structured than gabber. Experienced a major revival in the early 2020s. Typically 140–155 BPM."
+    },
+    {
+      "id": "Abstract Techno",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "An experimental offshoot that prioritizes unusual sound design, complex rhythmic structures, and unconventional arrangements over dancefloor functionality. Artists like Autechre and Actress operate in this space. Often blurs the line between techno, IDM, and electroacoustic composition."
+    },
+    {
+      "id": "Broken Techno",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Techno that abandons the standard straight 4/4 kick pattern in favor of syncopated, fractured, or shuffled rhythms. Retains techno's textures and atmosphere but with an unpredictable, off-grid feel. Artists like Objekt, Blawan, and Call Super are key figures."
+    },
+    {
+      "id": "Experimental Techno",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "A broad category for techno that pushes beyond conventional structures — unusual time signatures, noise elements, extended sound design, or unconventional arrangements. Less about a specific sound and more about an adventurous approach to the techno framework."
+    },
+    {
+      "id": "Percussive Techno",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Techno built primarily around complex, layered percussion rather than melodic elements. Drum patterns are the main event, often polyrhythmic and drawing from African, Latin, or industrial percussion traditions. Artists like Surgeon, Randomer, and Shackleton. Typically 128–138 BPM."
+    },
+    {
+      "id": "Psychedelic Techno",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Techno designed to create trance-like, altered states through hypnotic repetition, spiraling synth patterns, and long evolving tracks. Shares DNA with Goa trance but stays rooted in techno's minimal framework. Often heard at outdoor festivals and afterhours."
+    },
+    {
+      "id": "Hardgroove",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "A groove-oriented strain of hard techno that emphasizes rolling, percussive loops rather than sheer aggression. Emerged from the late 1990s/early 2000s. More funky than industrial techno, more driving than minimal. Artists like Ben Sims, Gayle San, and Umek. Around 135–145 BPM."
+    },
+    {
+      "id": "Trance",
+      "count": 81,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Melodic, euphoric electronic dance music built on long builds, breakdowns, and emotional climaxes. Emerged in the early 1990s from German and Dutch scenes. Characterized by arpeggiated synths, layered pads, and driving 4/4 beats. Typically 130–150 BPM, with many subgenres from progressive to psy."
+    },
+    {
+      "id": "Goa Trance",
+      "count": 5,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Psychedelic trance music originating from the Goa party scene in India during the late 1980s and early 1990s. Layered, spiraling synth lines, heavy use of delay and flanger effects, and a distinctly psychedelic atmosphere. Often played at outdoor full-moon parties. Around 140–150 BPM."
+    },
+    {
+      "id": "Psychedelic",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "A broad umbrella for music designed to evoke or enhance altered states of consciousness. In electronic context, refers to swirling textures, spiraling synth patterns, and immersive sound design that create a hallucinatory listening experience. Crosses many genres from rock to trance."
+    },
+    {
+      "id": "Eurodance",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "High-energy European pop-dance music from the early to mid-1990s. Combines catchy synth melodies, rapped male verses, sung female choruses, and a fast 4/4 beat. Acts like 2 Unlimited, Snap!, and La Bouche. Massively commercial, typically 130–150 BPM."
+    },
+    {
+      "id": "Electro",
+      "count": 138,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Electronic music built on drum machines (especially the Roland TR-808) with robotic vocals, funk basslines, and a syncopated, non-4/4 feel. Originated in early 1980s New York and Detroit — Kraftwerk-influenced but with hip-hop energy. Distinct from electro house. Artists like Drexciya, Aux 88, and DJ Stingray."
+    },
+    {
+      "id": "Hardcore",
+      "count": 61,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "An umbrella term for the fastest, most intense forms of electronic dance music — typically 160+ BPM. Emerged from the early 1990s rave scene, branching into gabber, happy hardcore, speedcore, and more. Pounding kicks, distorted synths, and relentless energy."
+    },
+    {
+      "id": "Gabber",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "The most extreme form of hardcore, originating in Rotterdam in the early 1990s. Characterized by heavily distorted kick drums, extremely fast tempos (160–200+ BPM), and aggressive, industrial energy. Named after the Yiddish word for 'friend.' Rotterdam Terror Corps and Neophyte are classic acts."
+    },
+    {
+      "id": "Breakcore",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "A chaotic, high-speed genre that chops and rearranges breakbeats at extreme tempos, often layered with noise, samples from any source, and aggressive digital processing. Emerged in the mid-1990s from the intersection of jungle, hardcore, and noise. Venetian Snares and Igorrr are key names."
+    },
+    {
+      "id": "Hi-NRG",
+      "count": 0,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "High-energy electronic dance music from the late 1970s and 1980s, closely tied to gay club culture. Fast, synth-driven, and euphoric, with pounding 4/4 beats and dramatic vocals. A bridge between disco and Eurobeat. Patrick Cowley, Bobby Orlando, and Divine are defining artists. Around 130–145 BPM."
+    },
+    {
+      "id": "House",
+      "count": 653,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "Four-on-the-floor electronic dance music that originated in 1980s Chicago. Built on a steady kick drum, syncopated hi-hats, and basslines — often with soulful vocals, piano chords, or synthesizer stabs. The foundational genre of modern club culture. Typically 118–130 BPM."
+    },
+    {
+      "id": "Deep House",
+      "description": "A softer, soulful branch of Chicago house. Built on warm chords, jazzy harmonies, and deep bass — less euphoric than classic house, more atmospheric and introspective. Larry Heard's 'Can You Feel It' (1986) is often cited as the genre's blueprint. Around 118–125 BPM, with a strong emphasis on mood over energy.",
+      "count": 95,
+      "family": "House",
+      "color": "#f59e42"
+    },
+    {
+      "id": "Tech House",
+      "count": 48,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "A hybrid of techno's rolling rhythms and house's groove and warmth. Less raw than techno, less soulful than deep house — occupying a middle ground that dominates many club floors. Emerged in the mid-1990s. Typically 124–130 BPM, with a focus on percussive loops and subtle bass."
+    },
+    {
+      "id": "Chicago House",
+      "count": 25,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "The original house music from mid-1980s Chicago. Raw drum machine patterns (TR-808, TR-909), simple basslines, and a direct, unpolished energy. Born in clubs like the Warehouse and the Music Box. Frankie Knuckles, Ron Hardy, and Marshall Jefferson defined the sound."
+    },
+    {
+      "id": "Acid House",
+      "count": 20,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "House music built around the squelchy, resonant sound of the Roland TB-303 bass synthesizer. DJ Pierre's 'Acid Tracks' (1987) started the movement. Became the soundtrack of the late 1980s UK rave explosion. Hypnotic, repetitive, and designed to be physically felt. Around 120–130 BPM."
+    },
+    {
+      "id": "Garage House",
+      "count": 1,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "A soulful, vocal-driven form of house music rooted in New York's Paradise Garage club. Larry Levan's DJ sets blending disco, soul, and electronic production defined the aesthetic. Warmer and more song-oriented than Chicago house. A precursor to UK garage."
+    },
+    {
+      "id": "Microhouse",
+      "count": 7,
+      "family": "Techno",
+      "color": "#d41d4a",
+      "description": "Extremely minimal house music using tiny, glitchy sounds — clicks, pops, crackles, and micro-samples as rhythmic and melodic elements. Emerged in the late 1990s from labels like Perlon and Kompakt. Akufen's 'My Way' is a defining track. Cerebral and playful, around 120–128 BPM."
+    },
+    {
+      "id": "Electro House",
+      "count": 4,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "A big, brash form of house music with heavy basslines, distorted synth leads, and aggressive energy. Peaked in the mid-2000s with artists like Justice, Boys Noize, and Erol Alkan. More abrasive than classic house, more structured than electro. Around 125–135 BPM."
+    },
+    {
+      "id": "Progressive House",
+      "count": 11,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "House music that emphasizes gradual, layered builds over long tracks rather than quick payoffs. Emerged in the early 1990s UK scene with Sasha, John Digweed, and Hernan Cattaneo. Rich in atmospheric pads and slow-burning tension. Around 122–130 BPM."
+    },
+    {
+      "id": "Organic House",
+      "count": 2,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "A warm, downtempo-leaning form of house incorporating natural sounds, world music instruments, and earthy textures alongside electronic beats. Associated with labels like Sol Selectas and artists like Hraach and Viken Arman. Softer and more meditative than standard house."
+    },
+    {
+      "id": "Afro House",
+      "count": 11,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "House music infused with African rhythms, percussion, and vocal traditions. Combines the 4/4 house framework with conga patterns, djembe sounds, and call-and-response vocals. Strong scenes in South Africa, Angola, and across the African diaspora. Artists like Black Coffee and Culoe De Song."
+    },
+    {
+      "id": "Ambient House",
+      "count": 0,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "A fusion of house music's gentle pulse with ambient's spacious, atmospheric textures. Chill, dreamy, and often beatless or with barely perceptible rhythms. The KLF's 'Chill Out' and The Orb's work are touchstones. Perfect for comedown rooms and sunrise sets."
+    },
+    {
+      "id": "Dream House",
+      "count": 0,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "A shimmering, hypnotic subgenre blending house rhythms with washed-out, reverb-heavy melodies and ethereal vocals. Dreamy and nostalgic, sitting between deep house and ambient. The lo-fi, emotional end of house music."
+    },
+    {
+      "id": "Jackin House",
+      "count": 0,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "A raw, groove-heavy style of house that emphasizes funky, jacking rhythms — tight loops, chopped vocals, and a relentless dancefloor energy. Rooted in Chicago's booty-shaking tradition. More physical and less cerebral than deep house. Around 122–128 BPM."
+    },
+    {
+      "id": "Minimal House",
+      "count": 0,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "House music reduced to its essential elements — a kick, a hi-hat, a bassline, and maybe one or two additional sounds. Related to microhouse but less glitchy, more groove-oriented. Labels like Perlon and M_nus. Repetitive and hypnotic, around 120–128 BPM."
+    },
+    {
+      "id": "Tribal House",
+      "count": 0,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "House music driven by percussion — congas, bongos, djembes, and layered drum patterns create a polyrhythmic, ritualistic energy. Danny Tenaglia and DJ Gregory are key names. Strong Latin and African influences, designed to create a communal, trance-like dancefloor experience."
+    },
+    {
+      "id": "Latin House",
+      "count": 0,
+      "family": "House",
+      "color": "#f59e42",
+      "description": "House music with Latin American rhythmic elements — salsa piano, reggaeton percussion, and Spanish vocals over a 4/4 house framework. Bridging club culture with Latin dance traditions. Masters At Work (Louie Vega & Kenny Dope) are central figures."
+    },
+    {
+      "id": "Drum and Bass",
+      "count": 121,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "Fast-tempo electronic music (160–180 BPM) built on breakbeats and heavy bass. Evolved from jungle in the mid-1990s, becoming more refined and varied. Ranges from liquid funk's smooth melodies to techstep's dark aggression. A cornerstone of UK club culture with a massive global following."
+    },
+    {
+      "id": "Jungle",
+      "description": "Breakbeat-driven electronic music from early 1990s Britain, born out of the rave scene. Combines sped-up funk breaks, heavy sub-bass, and ragga vocals or MC chatter. Fast tempo (155–170 BPM) but a slow, rolling bassline creates a characteristic double-speed contrast. Emerged from UK warehouse parties and pirate radio, and is the direct precursor to drum and bass.",
+      "count": 84,
+      "family": "Bass Culture",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "Liquid Funk",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "The melodic, soulful side of drum and bass. Smooth basslines, lush pads, vocal samples, and jazz-influenced harmonies over fast breaks. Emerged in the early 2000s with artists like Calibre, High Contrast, and London Elektricity. Around 170–176 BPM but feels more relaxed than other DnB styles."
+    },
+    {
+      "id": "Techstep",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "The dark, aggressive side of drum and bass. Industrial textures, distorted bass, sci-fi sound design, and a menacing atmosphere. Pioneered in the mid-1990s by Ed Rush, Optical, and No U-Turn Records. Influenced by science fiction and urban paranoia. Around 170–176 BPM."
+    },
+    {
+      "id": "Dubstep",
+      "description": "Bass-heavy electronic music from South London, built on a half-time rhythm around 140 BPM. Defined by deep sub-bass, lots of empty space, and delayed snare hits — distinctly different from straight 4/4 beats. Evolved from UK garage and grime around 2003, with early nights at FWD>> and producers like Mala, Skream, and Hatcha shaping the sound.",
+      "count": 99,
+      "family": "Bass Culture",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "Bassline",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "UK dance music centered on heavy, prominent basslines — often wobbling or warping — over 4/4 or breakbeat rhythms. Emerged from UK garage and speed garage in Sheffield and the North of England. Faster and bassier than garage, more accessible than dubstep. Around 130–140 BPM."
+    },
+    {
+      "id": "Bass Music",
+      "count": 37,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A broad umbrella term for electronic music where the bass frequency is the primary focus. Covers dubstep, grime, UK bass, trap, and anything else where the sub-bass defines the track. Not a single genre but a shared sonic emphasis across many UK-rooted styles."
+    },
+    {
+      "id": "Future Bass",
+      "count": 1,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A polished, synth-heavy electronic style that emerged in the early 2010s. Characterized by lush chord progressions, pitched-up vocal chops, and wobbly supersaws. Sits between EDM and UK bass. Artists like Flume, Rustie, and Cashmere Cat. Typically 130–150 BPM."
+    },
+    {
+      "id": "UK Bass",
+      "count": 18,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A catch-all term for the continuum of bass-heavy electronic music from the UK — connecting garage, grime, dubstep, and everything in between. Not one genre but a lineage defined by heavy low-end, syncopated rhythms, and a distinctly British approach to sound system culture."
+    },
+    {
+      "id": "UK Garage",
+      "count": 49,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A smooth, swinging form of electronic dance music from mid-1990s London. Shuffled 2-step rhythms, pitched-up vocal samples, and warm sub-bass. Born from US garage house but with a distinctly British twist. Clubs like Twice As Nice and Ayia Napa defined the scene. Around 130 BPM."
+    },
+    {
+      "id": "2-step",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A subgenre of UK garage defined by its skippy, syncopated drum pattern — the kick and snare avoid landing on every beat, creating a shuffling, unpredictable groove. MJ Cole, Zed Bias, and Artful Dodger are key names. Evolved into grime and dubstep in the early 2000s."
+    },
+    {
+      "id": "UK Funky",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A percussive, rhythm-driven offshoot of UK garage that emerged around 2008. Incorporates African and Latin percussion patterns into a UK bass framework. More tribal and polyrhythmic than standard garage. Artists like Roska, Cooly G, and Funky Dee. Around 130 BPM."
+    },
+    {
+      "id": "Jersey Club",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "Fast, sample-heavy dance music from Newark, New Jersey. Built on chopped vocal samples, bed-squeaking sounds, and rapid-fire kick patterns at 130–145 BPM. Designed for quick, energetic dance moves. DJ Sliink and DJ Tameil are founding figures. Influenced by Baltimore club."
+    },
+    {
+      "id": "Grime",
+      "count": 47,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A raw, aggressive UK electronic genre that emerged from East London around 2002. Sparse, dark production with jagged synths, heavy bass, and rapid-fire MC vocals. Typically 140 BPM. Dizzee Rascal, Wiley, and Skepta brought it from pirate radio to mainstream. Rooted in UK garage, jungle, and dancehall."
+    },
+    {
+      "id": "Drill",
+      "count": 0,
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "description": "Dark, bass-heavy rap music with ominous, sliding 808 bass and staccato hi-hats. Originated in Chicago's South Side around 2011, then mutated into a distinct UK variant with faster flows over darker, more minimal beats. Chief Keef pioneered the US sound; the UK scene centers on South London."
+    },
+    {
+      "id": "Breakbeat",
+      "count": 189,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "Electronic music built on sampled or programmed breaks — syncopated drum patterns that don't follow a straight 4/4 grid. A foundational element of hip-hop, jungle, and big beat. In club context, refers to mid-tempo tracks with funky, chopped-up drum loops. Around 120–140 BPM."
+    },
+    {
+      "id": "Footwork",
+      "count": 45,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "Ultra-fast, syncopated dance music from Chicago's South Side, evolved from juke and ghetto house. Built on rapid-fire percussion, vocal chops, and triplet patterns at 155–165 BPM. Designed for competitive footwork dancing. RP Boo invented the genre; DJ Rashad and DJ Spinn brought it global recognition."
+    },
+    {
+      "id": "Budots",
+      "description": "Filipino dance music from Davao City, emerging in the early 2000s. Built on bouncy looped rhythms, clipped vocal samples, and catchy pitched-up synth hooks. Produced on cheap FL Studio setups for street sound systems and neighbourhood block parties, not clubs. DJ Love, DJ Danz, and DJ Ericnem are considered the genre's core architects.",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "Broken Beat",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A jazzy, syncopated offshoot of house and soul that emerged from West London in the early 2000s. Skips and stutters rhythmically while maintaining a warm, soulful feel. IG Culture, Bugz in the Attic, and Dego are central figures. Around 120–130 BPM."
+    },
+    {
+      "id": "Baltimore Club",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "Fast, sample-heavy dance music from Baltimore. Built on chopped vocal samples, call-and-response chants, and rapid percussion at 130–140 BPM. Designed for energetic club dancing. Shares DNA with Jersey club and ghetto house. Rod Lee and DJ Technics are key figures."
+    },
+    {
+      "id": "Ghetto House",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "Raw, stripped-down house music from Chicago's South Side. Minimal production, explicit vocals, and a relentless, bouncing 4/4 beat. Emerged in the late 1980s as a grittier alternative to mainstream house. DJ Deeon, DJ Funk, and Dance Mania Records are defining names. Around 140–155 BPM."
+    },
+    {
+      "id": "Ghetto Tech",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "A high-energy hybrid from Detroit that merges ghetto house's raw bounce with electro's robotic edge and techno's machine rhythms. Fast, sample-heavy, and designed for maximum dancefloor impact. DJ Assault and DJ Godfather are key figures. Around 145–160 BPM."
+    },
+    {
+      "id": "Booty Bass",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "Bass-heavy party music from the American South and Midwest, focused on thumping 808 bass, explicit lyrics, and uptempo bounce. Related to Miami bass and ghetto house. Designed to make people dance — nothing subtle about it. 2 Live Crew and DJ Assault are touchstones."
+    },
+    {
+      "id": "Miami Bass",
+      "count": 0,
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "description": "Heavy 808 bass and rapid-fire rhythms from 1980s Miami. The original bass music — deep, trunk-rattling sub-bass with electro-influenced drum machine patterns and often explicit, party-oriented vocals. 2 Live Crew, DJ Magic Mike, and Bass Mekanik defined the sound."
+    },
+    {
+      "id": "Disco",
+      "count": 0,
+      "family": "Groove",
+      "color": "#fceba5",
+      "description": "Dance music from the 1970s built on a steady four-on-the-floor beat, lush string arrangements, funky basslines, and soulful vocals. Born in New York's underground gay and Black clubs, it became a global phenomenon. The direct ancestor of house music. Typically 110–130 BPM."
+    },
+    {
+      "id": "Italo Disco",
+      "count": 23,
+      "family": "Groove",
+      "color": "#fceba5",
+      "description": "Synth-heavy, European-produced disco from the early 1980s — catchy melodies, drum machines, and often charmingly accented English vocals. More electronic and less orchestral than American disco. Giorgio Moroder paved the way; labels like ZYX and Italian producers carried it forward."
+    },
+    {
+      "id": "Cosmic Disco",
+      "count": 0,
+      "family": "Groove",
+      "color": "#fceba5",
+      "description": "A spacey, psychedelic style of DJing and disco from late 1970s Italy. Long mixes, unexpected transitions between genres, and a trippy, anything-goes approach. Named after Daniele Baldelli's legendary sets at Cosmic Club in Lazise. More of a mixing philosophy than a production style."
+    },
+    {
+      "id": "Disco House",
+      "count": 0,
+      "family": "Groove",
+      "color": "#fceba5",
+      "description": "House music that samples or draws heavily from disco — string stabs, funky basslines, and filtered grooves over a modern 4/4 framework. Daft Punk's 'Discovery' is a landmark. Labels like Glitterbox. Feels nostalgic and celebratory. Around 120–128 BPM."
+    },
+    {
+      "id": "Boogie",
+      "count": 0,
+      "family": "Groove",
+      "color": "#fceba5",
+      "description": "Synth-funk and electro-soul from the early 1980s — groovy, bass-heavy dance music sitting between disco and early house. Drum machines, synth basslines, and soulful vocals. Emerged from New York's post-disco scene. Acts like D-Train, Kashif, and Mtume. The missing link between disco and house."
+    },
+    {
+      "id": "Nu-Disco",
+      "count": 182,
+      "family": "Groove",
+      "color": "#fceba5",
+      "description": "A 2000s revival and reinterpretation of disco using modern production techniques. Ranges from faithful edits of classic tracks to original productions with disco's groove and house's punch. Labels like Permanent Vacation and DFA Records. Around 115–128 BPM."
+    },
+    {
+      "id": "Balearic",
+      "description": "An eclectic DJ style named after the Balearic Islands. Mixes Italo disco, reggae, new wave, and ambient — no genre boundaries, only mood and moment matter. Defined by DJ Alfredo's sunset sets at Ibiza's Amnesia in the late 1980s. The core idea is that any record can work if it fits the atmosphere, making it more of a philosophy than a strict genre.",
+      "count": 28,
+      "family": "Groove",
+      "color": "#fceba5"
+    },
+    {
+      "id": "Funk",
+      "count": 111,
+      "family": "Groove",
+      "color": "#fceba5",
+      "description": "Rhythm-driven Black American music from the late 1960s and 1970s. Built on syncopated basslines, tight drum patterns, and horn sections — everything serves the groove. James Brown, Parliament-Funkadelic, and Sly Stone defined it. The rhythmic foundation for hip-hop, house, and countless electronic genres."
+    },
+    {
+      "id": "Soul",
+      "count": 129,
+      "family": "Groove",
+      "color": "#fceba5",
+      "description": "Emotionally expressive Black American music combining gospel's vocal intensity with R&B's rhythmic foundation. Emerged in the late 1950s with Ray Charles and Sam Cooke. Ranges from the raw energy of Stax to the polished production of Motown. A primary source for house and deep house vocal sampling."
+    },
+    {
+      "id": "R&B",
+      "count": 52,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Rhythm and blues — broadly, Black American popular music emphasizing vocal performance, groove, and emotional expression. Has evolved from 1940s blues-derived music through Motown, quiet storm, and new jack swing to today's electronic-influenced contemporary R&B. A perennial source of samples and vocal style for dance music."
+    },
+    {
+      "id": "Hip Hop",
+      "count": 130,
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "description": "Music and culture originating from 1970s South Bronx, built on breakbeats, MCing, DJing, and sampling. Musically defined by drum machine patterns, sampled loops, and rap vocals. Massively influential on electronic dance music — from breakbeat to grime to drill. Ranges from boom-bap to trap and beyond."
+    },
+    {
+      "id": "Club Rap",
+      "count": 0,
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "description": "Rap music designed specifically for club play — heavy 808 bass, uptempo rhythms, and repetitive hooks built for dancefloor energy rather than lyrical depth. Bridges hip-hop and electronic dance music. Includes crunk, snap music, and modern club-oriented trap. Around 125–145 BPM."
+    },
+    {
+      "id": "Trap",
+      "count": 0,
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "description": "Hip-hop subgenre from the early 2000s American South, defined by booming 808 kick drums, rapid hi-hat rolls, dark synths, and lyrics about street life. T.I., Jeezy, and Gucci Mane originated the style. The electronic 'trap' variant has become a dominant force in EDM. Around 130–170 BPM."
+    },
+    {
+      "id": "Chopped and Screwed",
+      "count": 0,
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "description": "A Houston, Texas DJ technique created by DJ Screw in the early 1990s. Slows tracks to 60–70 BPM and 'chops' them with record scratching and skipping. Creates a syrupy, disorienting, almost psychedelic listening experience. Deeply influential on vaporwave and slowed+reverb culture."
+    },
+    {
+      "id": "Ambient",
+      "count": 173,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Music that emphasizes atmosphere, texture, and tone over rhythm or melody. Can be beatless or with very subtle pulses. Brian Eno coined the term with 'Ambient 1: Music for Airports' (1978). Ranges from serene soundscapes to dark, unsettling drones. Designed to be as listenable at low volume as high."
+    },
+    {
+      "id": "Drone",
+      "count": 17,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Music built on sustained tones held for long durations — minimal change, maximum immersion. Can be meditative or overwhelming. Rooted in La Monte Young's minimalism and amplified by artists like Sunn O))), Stars of the Lid, and Tim Hecker. Focuses on timbre and overtones rather than rhythm or melody."
+    },
+    {
+      "id": "Chillout",
+      "count": 10,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "A broad term for relaxed, downtempo electronic music designed for recovery and decompression. Originally associated with the chill-out rooms at raves — a space to cool down between dancefloor sessions. Encompasses ambient, downtempo, and trip hop. Typified by compilations like Café del Mar."
+    },
+    {
+      "id": "Dark Ambient",
+      "count": 0,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "The unsettling, atmospheric end of ambient music. Drones, noise textures, and ominous soundscapes that evoke dread, isolation, or otherworldliness. Artists like Lustmord, Atrium Carceri, and Raison d'être. Often connected to horror, industrial culture, and ritual aesthetics."
+    },
+    {
+      "id": "Experimental",
+      "count": 145,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "A catch-all term for music that prioritizes exploration and unconventional approaches over genre conventions. In electronic context, covers everything from harsh noise to algorithmic composition to genre-defying hybrid work. Defined more by intention — pushing boundaries — than by a specific sound."
+    },
+    {
+      "id": "Electroacoustic",
+      "count": 5,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Music that combines electronic processing with acoustic sound sources — field recordings, instrumental performances, and found sounds manipulated through electronic means. Rooted in musique concrète and academic composition. Artists like Pierre Schaeffer, Bernard Parmegiani, and Fennesz."
+    },
+    {
+      "id": "Glitch",
+      "count": 7,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Electronic music that uses digital artifacts — clicks, cuts, errors, and processing glitches — as primary sonic material. Emerged in the mid-1990s from artists like Oval, Ryoji Ikeda, and Alva Noto. Turns technological malfunction into aesthetic choice. Related to microsound and digital minimalism."
+    },
+    {
+      "id": "Minimalism",
+      "count": 0,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "A compositional approach based on repetition, gradual change, and sustained focus on a limited set of elements. In music, pioneered by Steve Reich, Philip Glass, and Terry Riley in the 1960s. Deeply influential on techno, ambient, and electronic music's use of loops and slow evolution."
+    },
+    {
+      "id": "Electronica",
+      "count": 0,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "A broad, somewhat dated term for electronic music intended for home listening rather than the dancefloor. Covers everything from Boards of Canada's nostalgic warmth to Aphex Twin's intricate beats. More varied and eclectic than strict genre labels suggest. Peaked as a marketing term in the late 1990s."
+    },
+    {
+      "id": "Exotica",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Mid-20th century lounge music evoking tropical or 'exotic' locales through lush orchestration, unusual instruments, and nature sounds. Martin Denny and Les Baxter defined the genre. Has been rediscovered and sampled by electronic producers for its kitschy, dreamy atmosphere."
+    },
+    {
+      "id": "Percussion",
+      "count": 0,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Music centered primarily on percussive instruments and rhythmic patterns, with little or no melodic content. In electronic music context, refers to tracks driven by complex, layered drum programming. Connects to tribal house, percussive techno, and African/Latin percussion traditions."
+    },
+    {
+      "id": "Noise",
+      "count": 71,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Music built from harsh, abrasive, non-musical sound — feedback, distortion, static, and extreme volume. A confrontational art form that challenges the boundary between music and sound. Japanoise (Merzbow, Masonna), power electronics, and harsh noise wall are key subgenres."
+    },
+    {
+      "id": "IDM",
+      "count": 40,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Intelligent Dance Music — a controversial label for experimental electronic music that's too complex or abstract for typical dancefloors. Intricate rhythms, unusual sound design, and compositional ambition. Aphex Twin, Autechre, and Squarepusher are canonical. Originated from Warp Records and the early 1990s UK scene."
+    },
+    {
+      "id": "Krautrock",
+      "description": "West German experimental rock from the 1970s. Defined by motorik rhythm — a steady, hypnotic beat that feels like driving an endless highway — analogue synths, and long repetitive compositions. Bands like Can, Kraftwerk, Tangerine Dream, and Neu! rejected Anglo-American rock conventions and laid the groundwork for techno, ambient, and synth pop.",
+      "count": 10,
+      "family": "Global Roots",
+      "color": "#22c55e"
+    },
+    {
+      "id": "Kosmische",
+      "count": 4,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "German for 'cosmic' — the more ambient, synthesizer-focused side of Krautrock. Long, spacey compositions using analogue synths and sequencers. Tangerine Dream, Klaus Schulze, and Ash Ra Tempel are key artists. A direct ancestor of ambient, new age, and Berlin-school electronic music."
+    },
+    {
+      "id": "Psychedelic Rock",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Rock music from the 1960s designed to replicate or enhance the psychedelic experience. Extended jams, feedback, studio experimentation, and Eastern influences. Jimi Hendrix, Pink Floyd, and The 13th Floor Elevators. Its experimental spirit and use of effects influenced electronic music's approach to sound."
+    },
+    {
+      "id": "Afrobeats",
+      "count": 9,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Contemporary West African pop music blending Afrobeat, highlife, hip-hop, and dancehall. Led by Nigerian and Ghanaian artists like Burna Boy, Wizkid, and Davido. Not to be confused with Fela Kuti's Afrobeat (no 's'). Globally dominant since the mid-2010s, with infectious rhythms and melodic vocal hooks."
+    },
+    {
+      "id": "Amapiano",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A South African electronic genre that emerged from Johannesburg townships around 2012. Combines deep house, jazz, and lounge music with log drums, wide bass pads, and percussive shakers. Smoother and more melodic than gqom. Artists like Kabza De Small and DJ Maphorisa. Around 110–120 BPM."
+    },
+    {
+      "id": "Gqom",
+      "description": "A minimalist electronic genre from Durban, South Africa, emerging around 2010. Built on hypnotic repetition of simple drum patterns, dark basslines, and lots of empty space — far less melodic and more percussive than house or techno. Has a raw, almost ritualistic character. Originally spread through taxi culture and local DJs like DJ Lag before reaching international clubs. Around 120–130 BPM.",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e"
+    },
+    {
+      "id": "Highlife",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A West African popular music genre that originated in Ghana in the early 20th century. Combines local melodies and rhythms with Western instruments — brass, guitar, and eventually keyboards. Infectious, danceable, and joyful. A foundational genre for modern Afrobeats and Afro house."
+    },
+    {
+      "id": "Afrobeat",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A genre created by Nigerian musician Fela Kuti in the late 1960s, fusing Yoruba music, jazz, highlife, and funk into politically charged, extended compositions. Large bands with horn sections, complex polyrhythms, and long grooves. Distinct from the modern 'Afrobeats' (with an 's')."
+    },
+    {
+      "id": "Afrofuturism",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Not a genre but a cultural and aesthetic movement that reimagines Black identity through science fiction, technology, and African mythology. Musically manifested in Sun Ra, Parliament-Funkadelic, Drexciya, and Detroit techno's sci-fi imagery. A conceptual thread connecting jazz, funk, and electronic music."
+    },
+    {
+      "id": "Singeli",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Ultra-fast electronic music from Dar es Salaam, Tanzania. Built on frenetic percussion and uptempo rhythms at 200+ BPM, making it one of the fastest dance genres in the world. Originally associated with street-level dance competitions. Artists like DJ Bamba and Jay Mitta. Brought to global attention through Nyege Nyege label."
+    },
+    {
+      "id": "Latin",
+      "count": 37,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A broad umbrella for dance music rooted in Latin American and Caribbean rhythmic traditions — salsa, cumbia, reggaeton, and more. In electronic context, refers to tracks that incorporate Latin percussion patterns, melodies, or vocal styles into club-ready productions."
+    },
+    {
+      "id": "Cumbia",
+      "count": 6,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A Colombian folk rhythm that has spread across Latin America and mutated into countless regional forms. Built on a distinctive shuffling rhythm, accordion or synth melodies, and call-and-response vocals. Digital cumbia and cumbia villera have brought it into electronic and club contexts."
+    },
+    {
+      "id": "Reggaeton",
+      "count": 9,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Latin urban music built on the 'Dem Bow' riddim — a syncopated, bouncing rhythm pattern derived from Jamaican dancehall. Emerged from Puerto Rico in the 1990s. Combines hip-hop flow with Latin percussion and electronic production. Daddy Yankee's 'Gasolina' brought it worldwide. Around 85–100 BPM."
+    },
+    {
+      "id": "Baile Funk",
+      "count": 13,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Brazilian electronic dance music from Rio de Janeiro's favelas. Heavy 808 bass, rapid-fire Portuguese rap, and sample-heavy production over a driving beat. Also called funk carioca. Emerged in the 1980s, influenced by Miami bass and freestyle. Raw, high-energy, and deeply rooted in working-class culture."
+    },
+    {
+      "id": "Funk Carioca",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "The Rio de Janeiro variant of baile funk — the terms are often used interchangeably. Named after the 'carioca' demonym for Rio residents. Fast, bass-heavy party music with Portuguese-language MC vocals, often produced in favela studios. A street-level cultural force with massive influence on global bass music."
+    },
+    {
+      "id": "Dembow",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A Dominican Republic dance music genre built on a variation of reggaeton's Dem Bow riddim, but faster and more percussive. Stripped-down production with heavy emphasis on rhythm over melody. El Alfa is the most prominent figure. Around 115–125 BPM. Has influenced reggaeton, baile funk, and club music globally."
+    },
+    {
+      "id": "Guaracha",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A high-energy electronic dance music style popular in Latin American clubs, built on tribal percussion, airy synth leads, and a driving beat. Modern guaracha (also called guaracha electronica or tribal guaracha) differs significantly from the traditional Cuban genre of the same name. Around 128–132 BPM."
+    },
+    {
+      "id": "Reggae",
+      "count": 26,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Jamaican music that emerged in the late 1960s, defined by its offbeat rhythmic pattern (the 'skank'), heavy bass, and socially conscious or spiritual lyrics. Bob Marley brought it worldwide. Its production techniques — particularly dub's use of reverb and delay — became foundational for electronic music."
+    },
+    {
+      "id": "Dub",
+      "count": 123,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A production technique and genre born from Jamaican reggae in the late 1960s. Strips songs to their rhythmic and bass elements, then drenches them in reverb, delay, and echo. King Tubby and Lee 'Scratch' Perry pioneered the approach. Arguably the first producer-as-artist genre, and a massive influence on electronic music."
+    },
+    {
+      "id": "Dancehall",
+      "count": 24,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Jamaican popular music that emerged in the late 1970s as a more digital, DJ-focused evolution of reggae. Electronic riddims, toasting (rapping), and high-energy performance. From Yellowman and Shabba Ranks to modern artists like Vybz Kartel. Its rhythms have influenced UK garage, grime, and global pop."
+    },
+    {
+      "id": "Ragga",
+      "count": 4,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Short for raggamuffin — a digital, electronic-driven form of dancehall that emerged in the mid-1980s when live instrumentation was replaced by synthesizers and drum machines. Faster and more aggressive than roots dancehall. Shabba Ranks, Buju Banton, and Cutty Ranks are key figures."
+    },
+    {
+      "id": "Tropical",
+      "count": 11,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A loose category for electronic music incorporating sounds associated with tropical regions — steel drums, Caribbean rhythms, Latin percussion, and warm, bright production. More of a marketing label than a strict genre, encompassing tropical house, moombahton, and various Caribbean-electronic fusions."
+    },
+    {
+      "id": "Kuduro",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Fast, percussive electronic dance music from Angola, emerging in the late 1980s. Combines African rhythms with electronic production — rapid percussion, distorted synths, and energetic vocals. The name means 'hard ass' in Portuguese slang. Deeply tied to street dance culture in Luanda. Around 130–140 BPM."
+    },
+    {
+      "id": "Batida",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Portuguese for 'beat' — an electronic music style from Lisbon's African diaspora communities, blending Angolan kuduro, kizomba, and semba with house and techno production. Labels like Príncipe Discos are central. Raw, bass-heavy, and rhythmically complex. Connects African and European club traditions."
+    },
+    {
+      "id": "World Music",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "A broad, often-criticized umbrella term for non-Western or culturally hybrid music. In electronic context, refers to productions that incorporate traditional instruments, rhythms, or vocal styles from diverse global cultures into electronic frameworks. The term itself is debated for its homogenizing implications."
+    },
+    {
+      "id": "Folk",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Traditional or traditionally-inspired acoustic music rooted in specific cultural communities. In electronic context, refers to artists who blend folk instruments (acoustic guitar, fiddle, hurdy-gurdy) and folk song structures with electronic production techniques. A growing area of crossover and experimentation."
+    },
+    {
+      "id": "Desert Blues",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Music from the Saharan and Sahelian regions of West Africa — hypnotic, repetitive electric guitar patterns over traditional rhythms. Artists like Tinariwen, Bombino, and Mdou Moctar. Often described as 'blues of the desert' — the pentatonic scales and repetitive structures naturally connect to both blues and electronic music's minimalism."
+    },
+    {
+      "id": "Industrial",
+      "count": 67,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "Confrontational, abrasive music using noise, found sounds, and electronic processing to challenge conventional aesthetics. Originated in the late 1970s with Throbbing Gristle and Cabaret Voltaire. Ranges from rhythmic (industrial dance, EBM) to completely non-musical noise. A major influence on hard techno and dark electronic music."
+    },
+    {
+      "id": "EBM",
+      "description": "Electronic Body Music — aggressive dance electronics from the mid-1980s, sitting between industrial and techno. Hard 4/4 beat, sequenced basslines, and shouted or chanted vocals. Emerged from the Belgian and German scenes, with Front 242, Nitzer Ebb, and DAF as defining acts. Heavily influenced the later development of hard techno and industrial techno.",
+      "count": 29,
+      "family": "Industrial",
+      "color": "#94a3b8"
+    },
+    {
+      "id": "New Wave",
+      "count": 39,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "Post-punk-adjacent music from the late 1970s and early 1980s that embraced synthesizers, drum machines, and pop song structures. More accessible than punk, more experimental than mainstream pop. Depeche Mode, New Order, and Talking Heads. A crucial bridge between rock and electronic music."
+    },
+    {
+      "id": "Synth Pop",
+      "count": 14,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "Pop music built primarily on synthesizers and drum machines, emerging in the late 1970s and peaking in the early 1980s. Catchy melodies over electronic arrangements. Depeche Mode, Kraftwerk (as pop crossover), Gary Numan, and Erasure. Proved synthesizers could be commercially viable and emotionally resonant."
+    },
+    {
+      "id": "Post Punk",
+      "count": 27,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "The experimental aftermath of punk rock in the late 1970s — incorporating electronics, funk, dub, and avant-garde ideas into a darker, more atmospheric framework. Joy Division, Siouxsie and the Banshees, and Wire. Its use of drum machines, sequencers, and effects anticipated many electronic genres."
+    },
+    {
+      "id": "Wave",
+      "count": 96,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "A contemporary dark electronic genre blending synth pop, EBM, and post-punk influences with modern production. Cold, atmospheric, and often danceable. Emerged in the 2010s from labels like Minimal Wave and L.I.E.S. Related to dark wave but more current and less tied to 1980s aesthetics."
+    },
+    {
+      "id": "Dark Wave",
+      "count": 0,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "A brooding subgenre of post-punk and new wave from the 1980s. Combines cold synths, gothic atmospheres, and melancholic vocals. Sits between goth rock and synth pop. Clan of Xymox, Cocteau Twins, and Lebanon Hanover. Has experienced a strong revival since the 2010s."
+    },
+    {
+      "id": "Cold Wave",
+      "count": 0,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "A minimal, stark form of post-punk from late 1970s and early 1980s France. Drum machines, cold synthesizers, and detached, often French-language vocals. More austere and less melodic than synth pop. Martin Dupont, Kas Product, and Trisomie 21 are key names. Influenced minimal wave and EBM."
+    },
+    {
+      "id": "Minimal Wave",
+      "count": 0,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "Lo-fi, DIY synthesizer music from the late 1970s and early 1980s — often bedroom-produced on cheap equipment with raw, unpolished results. Sits between synth pop, post-punk, and industrial. Rediscovered and compiled by Veronica Vasicka's Minimal Wave label in the 2000s."
+    },
+    {
+      "id": "Minimal Synth",
+      "count": 0,
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "description": "Closely related to minimal wave — stripped-down electronic music made with basic synthesizers, drum machines, and minimal production. Often home-recorded and self-released on cassette in the early 1980s. Raw, lo-fi, and hauntingly simple. The DIY ethos predates and anticipates bedroom electronic production."
+    },
+    {
+      "id": "Downtempo",
+      "count": 52,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Relaxed, mid-tempo electronic music designed for listening rather than dancing. Combines elements of hip-hop, ambient, and world music at around 80–110 BPM. Thievery Corporation, Bonobo, and Kruder & Dorfmeister. Often associated with lounge bars, café culture, and late-night headphone listening."
+    },
+    {
+      "id": "Trip Hop",
+      "description": "Slow, atmospheric electronic music from Bristol, emerging in the early 1990s. Combines hip-hop breakbeats, dub bass, and cinematic samples into a dark, melancholic mood. Around 80–100 BPM, with a strong emphasis on texture and space over danceability. Key names: Massive Attack, Portishead, Tricky — collectively known as the Bristol sound.",
+      "count": 8,
+      "family": "Experimental",
+      "color": "#c77dff"
+    },
+    {
+      "id": "Lo-Fi",
+      "count": 16,
+      "family": "Experimental",
+      "color": "#c77dff",
+      "description": "Music that embraces or deliberately uses low-fidelity recording quality as an aesthetic choice — tape hiss, vinyl crackle, and imperfect production. In electronic context, refers to beatmakers and producers who use degraded textures for warmth and nostalgia. Connects to lo-fi hip-hop, chillwave, and cassette culture."
+    },
+    {
+      "id": "Spoken Word",
+      "count": 7,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Performance art combining poetry, storytelling, or spoken text with musical accompaniment. In electronic context, refers to tracks featuring voice-as-instrument — monologues, poetry readings, or narrative over ambient, downtempo, or experimental production. Gil Scott-Heron is a foundational figure."
+    },
+    {
+      "id": "Jazz",
+      "count": 130,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "An improvisational music form originating from early 20th century Black American communities. In electronic context, jazz's harmonic complexity, improvisation, and rhythmic sophistication have been endlessly sampled and incorporated — from acid jazz to nu-jazz to the jazzy chords that define deep house."
+    },
+    {
+      "id": "Classical",
+      "count": 39,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Western art music from the broader tradition of orchestral, chamber, and solo instrumental composition. In electronic context, classical's sense of structure, dynamics, and orchestration influences ambient, electroacoustic, and modern classical-electronic crossover artists like Max Richter, Nils Frahm, and Ólafur Arnalds."
+    },
+    {
+      "id": "Pop",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Commercially oriented popular music emphasizing catchy melodies, hooks, and accessible song structures. In electronic dance context, refers to the crossover between club production and mainstream pop — from synth pop to EDM-pop to hyperpop. The boundary between pop and electronic music has been dissolving since the 1980s."
+    },
+    {
+      "id": "Ballroom",
+      "count": 0,
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "description": "Dance music and culture originating from New York's Black and Latino LGBTQ+ ballroom scene. Built on voguing, runway walks, and competitive dance categories. Musically features chopped vocal commands, hard-hitting beats, and rapid tempo changes. Kevin JZ Prodigy, Kevin Aviance, and MikeQ are key figures. Around 120–130 BPM."
+    }
   ],
   "edges": [
-    {"source": "Disco", "target": "House", "type": "evolved_from", "strength": 5, "note": "House music emerged directly from Chicago disco in the early 1980s (Frankie Knuckles, Warehouse)"},
-    {"source": "Disco", "target": "Chicago House", "type": "evolved_from", "strength": 5, "note": "Chicago House is the direct descendant of disco — born in the same city's clubs"},
-    {"source": "Chicago House", "target": "Acid House", "type": "evolved_from", "strength": 5, "note": "Acid House emerged from Chicago House with the addition of the Roland TB-303"},
-    {"source": "Acid House", "target": "Acid Techno", "type": "shares_elements", "strength": 5, "note": "Both defined by the Roland TB-303 acid squelch sound"},
-    {"source": "Funk", "target": "Disco", "type": "evolved_from", "strength": 5, "note": "Disco evolved directly from funk in the mid-1970s"},
-    {"source": "Funk", "target": "House", "type": "influenced_by", "strength": 3, "note": "House inherited funk's rhythmic sensibility and groove focus"},
-    {"source": "Funk", "target": "Electro", "type": "influenced_by", "strength": 4, "note": "Electro fused funk rhythms with electronic production (Kraftwerk + funk = Afrika Bambaataa)"},
-    {"source": "Soul", "target": "Funk", "type": "evolved_from", "strength": 4, "note": "Funk evolved from soul music (James Brown bridged both)"},
-    {"source": "Soul", "target": "Disco", "type": "influenced_by", "strength": 4, "note": "Disco inherited soul's vocal traditions and lush arrangements"},
-    {"source": "Soul", "target": "Deep House", "type": "influenced_by", "strength": 4, "note": "Deep House is built on soulful vocals, jazz chords, and emotional depth from soul music"},
-    {"source": "Soul", "target": "R&B", "type": "evolved_from", "strength": 5, "note": "R&B is the modern continuation of soul music"},
-    {"source": "R&B", "target": "Hip Hop", "type": "shares_elements", "strength": 4, "note": "R&B and Hip Hop have been deeply intertwined since the 1990s"},
-    {"source": "Disco", "target": "Nu-Disco", "type": "evolved_from", "strength": 5, "note": "Nu-Disco is a modern revival/reinterpretation of classic disco"},
-    {"source": "Disco", "target": "Boogie", "type": "shares_elements", "strength": 4, "note": "Boogie (post-disco/electro-funk) emerged as disco evolved in the early 80s"},
-    {"source": "Disco", "target": "Italo Disco", "type": "regional_variant", "strength": 4, "note": "Italian producers created their own synthesizer-heavy version of disco"},
-    {"source": "Disco", "target": "Cosmic Disco", "type": "evolved_from", "strength": 4, "note": "Cosmic disco (Daniele Baldelli) — eclectic, spacey reimagining of disco"},
-    {"source": "Disco House", "target": "House", "type": "shares_elements", "strength": 4, "note": "Disco House fuses classic disco samples with house production"},
-    {"source": "Disco House", "target": "Disco", "type": "shares_elements", "strength": 4, "note": "Disco House directly samples and references disco"},
-    {"source": "Nu-Disco", "target": "Balearic", "type": "shares_elements", "strength": 3, "note": "Balearic beat shares the eclectic, sun-drenched aesthetic with nu-disco"},
-    {"source": "Balearic", "target": "Ambient House", "type": "shares_elements", "strength": 3, "note": "Both emerged from Ibiza's chill-out culture (Café del Mar era)"},
-    {"source": "Boogie", "target": "Electro", "type": "shares_elements", "strength": 3, "note": "Both emerged from post-disco electronic funk in the early 80s"},
-    {"source": "Italo Disco", "target": "Hi-NRG", "type": "shares_elements", "strength": 4, "note": "Both are high-energy, synth-driven evolutions of disco"},
-    {"source": "Italo Disco", "target": "Eurodance", "type": "influenced_by", "strength": 3, "note": "Italo Disco's synth-pop approach influenced later Eurodance"},
-    {"source": "Italo Disco", "target": "Synth Pop", "type": "shares_elements", "strength": 3, "note": "Both rely heavily on synthesizers and share a similar era/aesthetic"},
-
-    {"source": "Techno", "target": "House", "type": "shares_elements", "strength": 4, "note": "Techno and House share the four-on-the-floor kick and emerged in parallel (Detroit/Chicago)"},
-    {"source": "Detroit Techno", "target": "Techno", "type": "regional_variant", "strength": 5, "note": "Detroit is the birthplace of techno (Belleville Three)"},
-    {"source": "Berlin Techno", "target": "Techno", "type": "regional_variant", "strength": 5, "note": "Berlin became techno's European capital post-reunification (Tresor, Berghain)"},
-    {"source": "Detroit Techno", "target": "Electro", "type": "shares_elements", "strength": 4, "note": "Detroit Techno and Electro share roots in Kraftwerk + funk (Juan Atkins was in Cybotron)"},
-    {"source": "Electro", "target": "Hip Hop", "type": "shares_elements", "strength": 4, "note": "Electro and Hip Hop emerged together in NYC (Afrika Bambaataa's Planet Rock)"},
-    {"source": "Electro", "target": "Electro House", "type": "shares_elements", "strength": 3, "note": "Electro House borrows the aggressive synth stabs from electro"},
-    {"source": "Techno", "target": "Tech House", "type": "shares_elements", "strength": 4, "note": "Tech House fuses techno's precision with house's groove"},
-    {"source": "House", "target": "Tech House", "type": "shares_elements", "strength": 4, "note": "Tech House bridges house warmth with techno minimalism"},
-    {"source": "Techno", "target": "Trance", "type": "evolved_from", "strength": 3, "note": "Trance evolved from techno in the early 90s, adding melodic/euphoric elements"},
-    {"source": "Trance", "target": "Goa Trance", "type": "regional_variant", "strength": 4, "note": "Goa Trance emerged from the Goa/India psytrance scene"},
-    {"source": "Goa Trance", "target": "Psychedelic", "type": "shares_elements", "strength": 4, "note": "Psychedelic trance is Goa Trance's direct evolution"},
-    {"source": "Trance", "target": "Progressive House", "type": "shares_elements", "strength": 3, "note": "Progressive House and Trance share melodic builds and euphoric breakdowns"},
-    {"source": "Trance", "target": "Melodic Techno", "type": "shares_elements", "strength": 3, "note": "Melodic Techno borrows trance's emotionality while keeping techno's structure"},
-    {"source": "Techno", "target": "Minimal Techno", "type": "subgenre_of", "strength": 5, "note": "Minimal Techno strips techno to its essential elements (Richie Hawtin, Robert Hood)"},
-    {"source": "Minimal Techno", "target": "Microhouse", "type": "shares_elements", "strength": 4, "note": "Microhouse applies minimal techno's reductionism to house music"},
-    {"source": "Minimal Techno", "target": "Minimal House", "type": "shares_elements", "strength": 4, "note": "Both share the minimal aesthetic — stripped-back, micro-edited sounds"},
-    {"source": "Techno", "target": "Dub Techno", "type": "subgenre_of", "strength": 4, "note": "Dub Techno merges techno structure with dub's spatial effects"},
-    {"source": "Dub", "target": "Dub Techno", "type": "influenced_by", "strength": 5, "note": "Basic Channel brought Jamaican dub's reverb/delay techniques into techno"},
-    {"source": "Techno", "target": "Ambient Techno", "type": "subgenre_of", "strength": 4, "note": "Ambient Techno is techno slowed down and immersed in atmosphere"},
-    {"source": "Ambient", "target": "Ambient Techno", "type": "influenced_by", "strength": 4, "note": "Ambient Techno borrows ambient's textural, immersive approach"},
-    {"source": "Ambient", "target": "Ambient House", "type": "influenced_by", "strength": 4, "note": "The KLF's Chill Out and The Orb pioneered ambient house"},
-    {"source": "Techno", "target": "Industrial Techno", "type": "subgenre_of", "strength": 4, "note": "Industrial Techno adds industrial's aggression to techno (Surgeon, Regis)"},
-    {"source": "Industrial", "target": "Industrial Techno", "type": "influenced_by", "strength": 5, "note": "Industrial Techno directly borrows industrial music's harsh, mechanical textures"},
-    {"source": "Techno", "target": "Hard Techno", "type": "subgenre_of", "strength": 4, "note": "Hard Techno pushes techno's tempo and intensity higher"},
-    {"source": "Hard Techno", "target": "Hardcore", "type": "shares_elements", "strength": 4, "note": "Both push tempo and intensity to extremes, blurred boundary"},
-    {"source": "Hardcore", "target": "Gabber", "type": "subgenre_of", "strength": 5, "note": "Gabber is hardcore's most extreme Dutch variant (150+ BPM distorted kicks)"},
-    {"source": "Hardcore", "target": "Breakcore", "type": "subgenre_of", "strength": 4, "note": "Breakcore mixes hardcore's intensity with chopped breakbeats"},
-    {"source": "Hi-NRG", "target": "Eurodance", "type": "evolved_from", "strength": 3, "note": "Eurodance built on Hi-NRG's energetic synth-driven approach"},
-    {"source": "Techno", "target": "Experimental Techno", "type": "subgenre_of", "strength": 4, "note": "Experimental Techno pushes techno into abstract, deconstructed territory"},
-    {"source": "Techno", "target": "Abstract Techno", "type": "subgenre_of", "strength": 4, "note": "Abstract Techno deconstructs techno's grid into non-linear forms"},
-    {"source": "Techno", "target": "Broken Techno", "type": "subgenre_of", "strength": 4, "note": "Broken Techno replaces the four-on-the-floor with broken, syncopated rhythms"},
-    {"source": "Broken Techno", "target": "Breakbeat", "type": "shares_elements", "strength": 3, "note": "Both use non-four-on-the-floor broken rhythmic patterns"},
-    {"source": "Techno", "target": "Percussive Techno", "type": "subgenre_of", "strength": 4, "note": "Percussive Techno foregrounds complex polyrhythmic percussion"},
-    {"source": "Techno", "target": "Psychedelic Techno", "type": "subgenre_of", "strength": 3, "note": "Psychedelic Techno uses modulation and repetition for hypnotic/psychedelic effects"},
-    {"source": "Techno", "target": "Hardgroove", "type": "subgenre_of", "strength": 4, "note": "Hardgroove is groove-heavy techno with tribal/funky percussion"},
-    {"source": "Techno", "target": "Melodic Techno", "type": "subgenre_of", "strength": 4, "note": "Melodic Techno adds lush melodies and emotional pads to techno"},
-
-    {"source": "Krautrock", "target": "Techno", "type": "influenced_by", "strength": 4, "note": "Krautrock's motorik rhythms and electronic experimentation (Kraftwerk, Tangerine Dream, Can) directly inspired techno"},
-    {"source": "Krautrock", "target": "Ambient", "type": "influenced_by", "strength": 3, "note": "Tangerine Dream and Klaus Schulze pioneered ambient-like electronic music"},
-    {"source": "Krautrock", "target": "Kosmische", "type": "subgenre_of", "strength": 5, "note": "Kosmische Musik is the spacey/cosmic branch of Krautrock (Tangerine Dream, Ash Ra Tempel)"},
-    {"source": "Kosmische", "target": "Ambient", "type": "influenced_by", "strength": 4, "note": "Kosmische pioneered the textural, drifting approach that became ambient"},
-    {"source": "Psychedelic Rock", "target": "Krautrock", "type": "influenced_by", "strength": 4, "note": "Krautrock emerged partly as a German response to psychedelic rock"},
-    {"source": "Psychedelic Rock", "target": "Psychedelic", "type": "shares_elements", "strength": 3, "note": "Both explore altered states through repetition, modulation, and sonic exploration"},
-
-    {"source": "Dub", "target": "Dubstep", "type": "influenced_by", "strength": 4, "note": "Dubstep inherited dub's sub-bass emphasis and spatial production techniques"},
-    {"source": "UK Garage", "target": "Dubstep", "type": "evolved_from", "strength": 5, "note": "Dubstep emerged directly from UK Garage in South London (late 90s/early 2000s)"},
-    {"source": "UK Garage", "target": "Grime", "type": "evolved_from", "strength": 5, "note": "Grime evolved from UK Garage's MC culture (Wiley, Dizzee Rascal)"},
-    {"source": "UK Garage", "target": "2-step", "type": "subgenre_of", "strength": 5, "note": "2-step is the skippy, syncopated variant of UK Garage"},
-    {"source": "UK Garage", "target": "UK Funky", "type": "evolved_from", "strength": 4, "note": "UK Funky is a post-garage evolution with African/Latin percussion influences"},
-    {"source": "UK Garage", "target": "Bassline", "type": "evolved_from", "strength": 4, "note": "Bassline (speed garage/niche) evolved from UK Garage in the North of England"},
-    {"source": "House", "target": "UK Garage", "type": "evolved_from", "strength": 4, "note": "UK Garage evolved from US garage house filtered through London's club scene"},
-    {"source": "Garage House", "target": "UK Garage", "type": "evolved_from", "strength": 5, "note": "UK Garage is a direct evolution of New York/New Jersey garage house"},
-    {"source": "Grime", "target": "Drill", "type": "evolved_from", "strength": 3, "note": "UK Drill evolved from Chicago Drill but inherited grime's MC culture and London context"},
-    {"source": "Grime", "target": "Hip Hop", "type": "shares_elements", "strength": 3, "note": "Grime shares MC culture and flow patterns with hip hop"},
-    {"source": "Hip Hop", "target": "Trap", "type": "subgenre_of", "strength": 4, "note": "Trap music emerged from Southern US hip hop (T.I., Gucci Mane, Lex Luger)"},
-    {"source": "Hip Hop", "target": "Club Rap", "type": "subgenre_of", "strength": 4, "note": "Club Rap is hip hop optimized for club/dance settings"},
-    {"source": "Hip Hop", "target": "Chopped and Screwed", "type": "subgenre_of", "strength": 4, "note": "DJ Screw invented this slowed-down, chopped Houston hip hop style"},
-    {"source": "Hip Hop", "target": "Drill", "type": "shares_elements", "strength": 3, "note": "Drill emerged from Chicago hip hop (Chief Keef) before spreading to UK and beyond"},
-    {"source": "Trap", "target": "Drill", "type": "shares_elements", "strength": 3, "note": "Drill shares trap's 808-heavy production but with darker, more aggressive energy"},
-    {"source": "Trap", "target": "Future Bass", "type": "influenced_by", "strength": 3, "note": "Future Bass borrowed trap's 808 sub-bass and syncopated hi-hats"},
-
-    {"source": "Jungle", "target": "Drum and Bass", "type": "evolved_from", "strength": 5, "note": "Drum and Bass evolved directly from Jungle (mid-90s), becoming more streamlined"},
-    {"source": "Breakbeat", "target": "Jungle", "type": "evolved_from", "strength": 4, "note": "Jungle was built on sped-up breakbeats (Amen break) from the rave scene"},
-    {"source": "Dub", "target": "Jungle", "type": "influenced_by", "strength": 4, "note": "Jungle's heavy bass, reverb, and reggae/ragga samples come directly from dub/soundsystem culture"},
-    {"source": "Ragga", "target": "Jungle", "type": "influenced_by", "strength": 4, "note": "Ragga vocals and dancehall rhythms are essential ingredients of jungle"},
-    {"source": "Drum and Bass", "target": "Liquid Funk", "type": "subgenre_of", "strength": 4, "note": "Liquid Funk is DnB's melodic, soulful side (Calibre, High Contrast)"},
-    {"source": "Drum and Bass", "target": "Techstep", "type": "subgenre_of", "strength": 4, "note": "Techstep is DnB's dark, industrial-influenced variant (Ed Rush & Optical)"},
-    {"source": "Breakbeat", "target": "Broken Beat", "type": "shares_elements", "strength": 4, "note": "Broken Beat applies broken rhythms to jazz-influenced electronic music"},
-    {"source": "Broken Beat", "target": "Jazz", "type": "shares_elements", "strength": 3, "note": "Broken Beat is deeply rooted in jazz harmony and musicianship"},
-    {"source": "Breakbeat", "target": "Breakcore", "type": "shares_elements", "strength": 3, "note": "Breakcore takes breakbeats to extreme speeds and chaos"},
-    {"source": "Footwork", "target": "Ghetto House", "type": "evolved_from", "strength": 4, "note": "Footwork evolved from Chicago's Ghetto House/juke scene (RP Boo, DJ Rashad)"},
-    {"source": "Ghetto House", "target": "Chicago House", "type": "evolved_from", "strength": 3, "note": "Ghetto House is a raw, stripped-down mutation of Chicago House"},
-    {"source": "Ghetto House", "target": "Ghetto Tech", "type": "evolved_from", "strength": 4, "note": "Ghetto Tech fuses Ghetto House with Detroit electro/techno"},
-    {"source": "Ghetto Tech", "target": "Electro", "type": "shares_elements", "strength": 3, "note": "Ghetto Tech merges ghetto house with electro's machine funk"},
-    {"source": "Miami Bass", "target": "Ghetto House", "type": "shares_elements", "strength": 3, "note": "Both share the 808-heavy, bass-focused club aesthetic"},
-    {"source": "Miami Bass", "target": "Booty Bass", "type": "shares_elements", "strength": 4, "note": "Booty Bass is Miami Bass's party/dance variant"},
-    {"source": "Baltimore Club", "target": "Ghetto House", "type": "shares_elements", "strength": 3, "note": "Baltimore Club parallels Ghetto House — regional club music built on breakbeats and samples"},
-    {"source": "Jersey Club", "target": "Baltimore Club", "type": "shares_elements", "strength": 4, "note": "Jersey Club evolved alongside Baltimore Club — both are East Coast bass-heavy club music"},
-    {"source": "UK Bass", "target": "Dubstep", "type": "shares_elements", "strength": 4, "note": "UK Bass is a broader umbrella encompassing post-dubstep bass music"},
-    {"source": "UK Bass", "target": "UK Garage", "type": "shares_elements", "strength": 3, "note": "UK Bass carries forward the UK Garage/soundsystem lineage"},
-    {"source": "UK Funky", "target": "Afro House", "type": "shares_elements", "strength": 3, "note": "UK Funky borrowed heavily from African and Latin percussion patterns"},
-    {"source": "Dubstep", "target": "Bass Music", "type": "shares_elements", "strength": 4, "note": "Post-dubstep scene evolved into the broader 'Bass Music' umbrella"},
-
-    {"source": "House", "target": "Deep House", "type": "subgenre_of", "strength": 5, "note": "Deep House is house music's soulful, jazzy, deeper variant (Larry Heard)"},
-    {"source": "House", "target": "Garage House", "type": "subgenre_of", "strength": 5, "note": "Garage House (Paradise Garage, Larry Levan) — gospel-influenced, soulful house"},
-    {"source": "Deep House", "target": "Organic House", "type": "evolved_from", "strength": 3, "note": "Organic House adds live/acoustic elements to deep house's warm aesthetic"},
-    {"source": "House", "target": "Jackin House", "type": "subgenre_of", "strength": 4, "note": "Jackin House is raw, funk-driven, groove-heavy house"},
-    {"source": "Jackin House", "target": "Ghetto House", "type": "shares_elements", "strength": 3, "note": "Both share a raw, stripped-back, groove-first approach"},
-    {"source": "House", "target": "Tribal House", "type": "subgenre_of", "strength": 4, "note": "Tribal House adds complex African/Latin percussion to house"},
-    {"source": "Tribal House", "target": "Afro House", "type": "shares_elements", "strength": 4, "note": "Both foreground African rhythmic patterns in a house context"},
-    {"source": "House", "target": "Afro House", "type": "subgenre_of", "strength": 4, "note": "Afro House fuses house with African rhythms and instrumentation"},
-    {"source": "Afro House", "target": "Afrobeats", "type": "shares_elements", "strength": 3, "note": "Both draw from African musical traditions in a modern electronic context"},
-    {"source": "House", "target": "Latin House", "type": "subgenre_of", "strength": 4, "note": "Latin House infuses house with Latin percussion and melodies"},
-    {"source": "Latin House", "target": "Latin", "type": "shares_elements", "strength": 3, "note": "Latin House draws rhythmic elements from broader Latin music"},
-    {"source": "House", "target": "Progressive House", "type": "subgenre_of", "strength": 4, "note": "Progressive House extends house into long-form, building arrangements (Sasha & Digweed)"},
-    {"source": "House", "target": "Dream House", "type": "subgenre_of", "strength": 3, "note": "Dream House emphasizes dreamy pads and ethereal textures"},
-    {"source": "House", "target": "Electro House", "type": "subgenre_of", "strength": 3, "note": "Electro House combines house's structure with electro's aggressive synths"},
-    {"source": "House", "target": "Minimal House", "type": "subgenre_of", "strength": 4, "note": "Minimal House strips house to its most essential rhythmic and harmonic elements"},
-
-    {"source": "Reggae", "target": "Dub", "type": "evolved_from", "strength": 5, "note": "Dub is reggae deconstructed — King Tubby and Lee Perry stripped vocals, amplified bass and effects"},
-    {"source": "Reggae", "target": "Dancehall", "type": "evolved_from", "strength": 5, "note": "Dancehall emerged from reggae in the late 70s/80s with digital riddims"},
-    {"source": "Dancehall", "target": "Ragga", "type": "subgenre_of", "strength": 5, "note": "Ragga is dancehall's digital/electronic variant"},
-    {"source": "Dancehall", "target": "Reggaeton", "type": "influenced_by", "strength": 4, "note": "Reggaeton's Dem Bow riddim comes directly from Dancehall (Shabba Ranks)"},
-    {"source": "Dancehall", "target": "Baile Funk", "type": "influenced_by", "strength": 3, "note": "Baile Funk borrowed dancehall's riddim patterns and vocal style"},
-    {"source": "Reggaeton", "target": "Dembow", "type": "shares_elements", "strength": 4, "note": "Dembow is the Dominican variant of reggaeton's rhythmic foundation"},
-    {"source": "Latin", "target": "Cumbia", "type": "subgenre_of", "strength": 4, "note": "Cumbia is Colombia's foundational dance music rhythm"},
-    {"source": "Latin", "target": "Guaracha", "type": "subgenre_of", "strength": 4, "note": "Guaracha is a Cuban-origin high-energy Latin dance style"},
-    {"source": "Tropical", "target": "Kuduro", "type": "subgenre_of", "strength": 4, "note": "Kuduro is Angola's high-energy electronic dance music"},
-    {"source": "Tropical", "target": "Batida", "type": "subgenre_of", "strength": 4, "note": "Batida is Portuguese-Angolan electronic music fusing kuduro, house, and kizomba"},
-    {"source": "Kuduro", "target": "Batida", "type": "shares_elements", "strength": 4, "note": "Batida is heavily influenced by Kuduro's rhythms and energy"},
-    {"source": "Afrobeats", "target": "Afrobeat", "type": "evolved_from", "strength": 4, "note": "Modern Afrobeats evolved from Fela Kuti's Afrobeat via Nigerian pop"},
-    {"source": "Afrobeats", "target": "Amapiano", "type": "shares_elements", "strength": 3, "note": "Amapiano (South Africa) is sometimes grouped with Afrobeats in the global music scene"},
-    {"source": "Afrobeats", "target": "Highlife", "type": "influenced_by", "strength": 3, "note": "Highlife is a foundational West African genre that influenced Afrobeats"},
-    {"source": "Afrobeat", "target": "Funk", "type": "shares_elements", "strength": 3, "note": "Fela Kuti's Afrobeat fused Yoruba music with James Brown's funk"},
-    {"source": "Afrofuturism", "target": "Detroit Techno", "type": "shares_elements", "strength": 3, "note": "Detroit Techno shares Afrofuturist themes (Drexciya, Underground Resistance)"},
-    {"source": "Gqom", "target": "Afrobeats", "type": "shares_elements", "strength": 2, "note": "Gqom is South Africa's raw, minimal club music — adjacent to Afrobeats scene"},
-    {"source": "Singeli", "target": "Gqom", "type": "shares_elements", "strength": 2, "note": "Both are high-energy African electronic dance forms"},
-    {"source": "World Music", "target": "Folk", "type": "shares_elements", "strength": 3, "note": "Folk traditions form the foundation of many world music expressions"},
-    {"source": "Desert Blues", "target": "World Music", "type": "subgenre_of", "strength": 3, "note": "Desert Blues (Tinariwen, Bombino) is Saharan guitar music rooted in Tuareg tradition"},
-
-    {"source": "Industrial", "target": "EBM", "type": "evolved_from", "strength": 5, "note": "EBM is industrial's dancefloor variant (Front 242, Nitzer Ebb)"},
-    {"source": "Industrial", "target": "Noise", "type": "shares_elements", "strength": 4, "note": "Industrial and Noise share harsh, confrontational sonic textures (Throbbing Gristle)"},
-    {"source": "EBM", "target": "Techno", "type": "influenced_by", "strength": 3, "note": "EBM's mechanical rhythms influenced the harder end of techno"},
-    {"source": "Post Punk", "target": "Industrial", "type": "shares_elements", "strength": 3, "note": "Post Punk and Industrial emerged in parallel and often overlapped (Joy Division, Cabaret Voltaire)"},
-    {"source": "Post Punk", "target": "New Wave", "type": "shares_elements", "strength": 4, "note": "Post Punk and New Wave are deeply intertwined (both post-punk rock movements)"},
-    {"source": "New Wave", "target": "Synth Pop", "type": "evolved_from", "strength": 4, "note": "Synth Pop emerged from New Wave's embrace of synthesizers (Depeche Mode, OMD)"},
-    {"source": "Synth Pop", "target": "Techno", "type": "influenced_by", "strength": 3, "note": "Kraftwerk and Depeche Mode were key influences on Detroit Techno's founders"},
-    {"source": "Synth Pop", "target": "Electro", "type": "influenced_by", "strength": 3, "note": "Synth Pop and Electro share synthesizer-centric production"},
-    {"source": "Wave", "target": "New Wave", "type": "shares_elements", "strength": 4, "note": "Wave is a modern revival/continuation of the New Wave aesthetic"},
-    {"source": "Wave", "target": "Dark Wave", "type": "subgenre_of", "strength": 5, "note": "Dark Wave is the darker, gothic end of the wave spectrum"},
-    {"source": "Wave", "target": "Cold Wave", "type": "subgenre_of", "strength": 5, "note": "Cold Wave is French-origin, austere, minimal synthesizer music"},
-    {"source": "Wave", "target": "Minimal Wave", "type": "subgenre_of", "strength": 5, "note": "Minimal Wave is lo-fi, DIY synth music (rediscovered via Minimal Wave Records label)"},
-    {"source": "Wave", "target": "Minimal Synth", "type": "subgenre_of", "strength": 5, "note": "Minimal Synth is essentially synonymous with Minimal Wave"},
-    {"source": "Minimal Wave", "target": "Minimal Synth", "type": "shares_elements", "strength": 5, "note": "These are largely the same genre under different names"},
-    {"source": "Dark Wave", "target": "EBM", "type": "shares_elements", "strength": 3, "note": "Dark Wave and EBM share dark aesthetics and often overlap in the goth/industrial scene"},
-    {"source": "Cold Wave", "target": "Post Punk", "type": "shares_elements", "strength": 4, "note": "Cold Wave is essentially French Post Punk with heavy synth use"},
-    {"source": "Dark Wave", "target": "Dark Ambient", "type": "shares_elements", "strength": 2, "note": "Both explore dark, foreboding atmospheres through different approaches"},
-
-    {"source": "Ambient", "target": "Drone", "type": "subgenre_of", "strength": 4, "note": "Drone uses sustained tones as its primary material — ambient's most extreme reduction"},
-    {"source": "Ambient", "target": "Chillout", "type": "shares_elements", "strength": 3, "note": "Chillout is ambient's listener-friendly, melodic variant"},
-    {"source": "Ambient", "target": "Dark Ambient", "type": "subgenre_of", "strength": 4, "note": "Dark Ambient explores oppressive, unsettling atmospheres"},
-    {"source": "Ambient", "target": "Downtempo", "type": "shares_elements", "strength": 3, "note": "Downtempo and Ambient share a slow, atmospheric quality but downtempo has beats"},
-    {"source": "Downtempo", "target": "Trip Hop", "type": "subgenre_of", "strength": 5, "note": "Trip Hop is downtempo's most iconic form (Massive Attack, Portishead, Tricky)"},
-    {"source": "Downtempo", "target": "Lo-Fi", "type": "shares_elements", "strength": 3, "note": "Both share a slow, textured, introspective quality"},
-    {"source": "Downtempo", "target": "Chillout", "type": "shares_elements", "strength": 4, "note": "Chillout and Downtempo are closely related relaxed electronic styles"},
-    {"source": "Trip Hop", "target": "Hip Hop", "type": "shares_elements", "strength": 4, "note": "Trip Hop borrows hip hop's breakbeats and sampling, slowing them down"},
-    {"source": "Trip Hop", "target": "Dub", "type": "influenced_by", "strength": 3, "note": "Massive Attack and others drew on dub's spatial production techniques"},
-    {"source": "Jazz", "target": "Deep House", "type": "influenced_by", "strength": 3, "note": "Deep House uses jazz chords, improvisation concepts, and harmonic sophistication"},
-    {"source": "Jazz", "target": "Broken Beat", "type": "influenced_by", "strength": 4, "note": "Broken Beat is deeply jazz-influenced (West London scene, 4hero, IG Culture)"},
-    {"source": "Jazz", "target": "Liquid Funk", "type": "influenced_by", "strength": 3, "note": "Liquid Funk borrows jazz's melodic warmth and musicianship"},
-    {"source": "Jazz", "target": "Trip Hop", "type": "influenced_by", "strength": 3, "note": "Trip Hop often samples and references jazz (Portishead, DJ Shadow)"},
-    {"source": "Classical", "target": "Minimalism", "type": "shares_elements", "strength": 4, "note": "Minimalism (Steve Reich, Philip Glass) bridged classical and electronic music"},
-    {"source": "Classical", "target": "Ambient", "type": "influenced_by", "strength": 2, "note": "Brian Eno cited Erik Satie's furniture music as ambient's precursor"},
-    {"source": "Classical", "target": "Electroacoustic", "type": "shares_elements", "strength": 4, "note": "Electroacoustic music comes from the classical/academic tradition (musique concrète)"},
-    {"source": "Minimalism", "target": "Minimal Techno", "type": "influenced_by", "strength": 3, "note": "Minimal Techno shares the repetition-as-transformation philosophy of musical minimalism"},
-
-    {"source": "IDM", "target": "Techno", "type": "shares_elements", "strength": 3, "note": "IDM emerged from techno/electronic listening culture (Warp Records, Aphex Twin)"},
-    {"source": "IDM", "target": "Glitch", "type": "shares_elements", "strength": 4, "note": "IDM and Glitch share experimental digital aesthetics (Autechre, Oval)"},
-    {"source": "IDM", "target": "Ambient", "type": "shares_elements", "strength": 3, "note": "IDM often merges ambient textures with complex rhythmic programming (Boards of Canada)"},
-    {"source": "IDM", "target": "Experimental", "type": "shares_elements", "strength": 4, "note": "IDM is inherently experimental electronic music"},
-    {"source": "Glitch", "target": "Experimental", "type": "subgenre_of", "strength": 4, "note": "Glitch uses digital errors as musical material — inherently experimental"},
-    {"source": "Glitch", "target": "Microhouse", "type": "shares_elements", "strength": 3, "note": "Microhouse often uses glitch techniques in a house context (Akufen)"},
-    {"source": "Noise", "target": "Experimental", "type": "shares_elements", "strength": 4, "note": "Noise is one of experimental music's most extreme expressions"},
-    {"source": "Noise", "target": "Drone", "type": "shares_elements", "strength": 3, "note": "Noise and Drone intersect in harsh sustained textures (Merzbow, Earth)"},
-    {"source": "Electroacoustic", "target": "Experimental", "type": "subgenre_of", "strength": 4, "note": "Electroacoustic music is experimental by definition — academic electronic music"},
-    {"source": "Electronica", "target": "IDM", "type": "shares_elements", "strength": 3, "note": "Electronica is a broad label that encompasses IDM-adjacent listener-oriented electronic music"},
-    {"source": "Percussion", "target": "Percussive Techno", "type": "shares_elements", "strength": 3, "note": "Both foreground percussion as the primary musical element"},
-    {"source": "Exotica", "target": "Balearic", "type": "shares_elements", "strength": 2, "note": "Both embrace eclecticism and exotic/escapist aesthetics"},
-
-    {"source": "Dub", "target": "Bass Music", "type": "influenced_by", "strength": 3, "note": "Dub's emphasis on heavy bass and spatial effects is foundational to all bass music"},
-    {"source": "Dub", "target": "Trip Hop", "type": "influenced_by", "strength": 3, "note": "Bristol's trip hop scene was deeply influenced by its soundsystem/dub culture"},
-    {"source": "Pop", "target": "Synth Pop", "type": "shares_elements", "strength": 3, "note": "Synth Pop is pop music made primarily with synthesizers"},
-    {"source": "Pop", "target": "Eurodance", "type": "shares_elements", "strength": 3, "note": "Eurodance is pop-oriented, accessible electronic dance music"},
-    {"source": "Ballroom", "target": "House", "type": "shares_elements", "strength": 3, "note": "Ballroom culture and house music are deeply intertwined (New York, voguing)"},
-    {"source": "Ballroom", "target": "Ghetto House", "type": "shares_elements", "strength": 2, "note": "Ballroom and Ghetto House share raw, vocal-heavy, high-energy club aesthetics"},
-    {"source": "Spoken Word", "target": "Hip Hop", "type": "shares_elements", "strength": 2, "note": "Both center the voice — spoken word as art, hip hop as rhythmic speech"},
-    {"source": "Spoken Word", "target": "Experimental", "type": "shares_elements", "strength": 2, "note": "Spoken Word in electronic music context often intersects with experimental approaches"}
+    {
+      "source": "Disco",
+      "target": "House",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "House music emerged directly from Chicago disco in the early 1980s (Frankie Knuckles, Warehouse)"
+    },
+    {
+      "source": "Disco",
+      "target": "Chicago House",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Chicago House is the direct descendant of disco — born in the same city's clubs"
+    },
+    {
+      "source": "Chicago House",
+      "target": "Acid House",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Acid House emerged from Chicago House with the addition of the Roland TB-303"
+    },
+    {
+      "source": "Acid House",
+      "target": "Acid Techno",
+      "type": "shares_elements",
+      "strength": 5,
+      "note": "Both defined by the Roland TB-303 acid squelch sound"
+    },
+    {
+      "source": "Funk",
+      "target": "Disco",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Disco evolved directly from funk in the mid-1970s"
+    },
+    {
+      "source": "Funk",
+      "target": "House",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "House inherited funk's rhythmic sensibility and groove focus"
+    },
+    {
+      "source": "Funk",
+      "target": "Electro",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Electro fused funk rhythms with electronic production (Kraftwerk + funk = Afrika Bambaataa)"
+    },
+    {
+      "source": "Soul",
+      "target": "Funk",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "Funk evolved from soul music (James Brown bridged both)"
+    },
+    {
+      "source": "Soul",
+      "target": "Disco",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Disco inherited soul's vocal traditions and lush arrangements"
+    },
+    {
+      "source": "Soul",
+      "target": "Deep House",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Deep House is built on soulful vocals, jazz chords, and emotional depth from soul music"
+    },
+    {
+      "source": "Soul",
+      "target": "R&B",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "R&B is the modern continuation of soul music"
+    },
+    {
+      "source": "R&B",
+      "target": "Hip Hop",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "R&B and Hip Hop have been deeply intertwined since the 1990s"
+    },
+    {
+      "source": "Disco",
+      "target": "Nu-Disco",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Nu-Disco is a modern revival/reinterpretation of classic disco"
+    },
+    {
+      "source": "Disco",
+      "target": "Boogie",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Boogie (post-disco/electro-funk) emerged as disco evolved in the early 80s"
+    },
+    {
+      "source": "Disco",
+      "target": "Italo Disco",
+      "type": "regional_variant",
+      "strength": 4,
+      "note": "Italian producers created their own synthesizer-heavy version of disco"
+    },
+    {
+      "source": "Disco",
+      "target": "Cosmic Disco",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "Cosmic disco (Daniele Baldelli) — eclectic, spacey reimagining of disco"
+    },
+    {
+      "source": "Disco House",
+      "target": "House",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Disco House fuses classic disco samples with house production"
+    },
+    {
+      "source": "Disco House",
+      "target": "Disco",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Disco House directly samples and references disco"
+    },
+    {
+      "source": "Nu-Disco",
+      "target": "Balearic",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Balearic beat shares the eclectic, sun-drenched aesthetic with nu-disco"
+    },
+    {
+      "source": "Balearic",
+      "target": "Ambient House",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both emerged from Ibiza's chill-out culture (Café del Mar era)"
+    },
+    {
+      "source": "Boogie",
+      "target": "Electro",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both emerged from post-disco electronic funk in the early 80s"
+    },
+    {
+      "source": "Italo Disco",
+      "target": "Hi-NRG",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Both are high-energy, synth-driven evolutions of disco"
+    },
+    {
+      "source": "Italo Disco",
+      "target": "Eurodance",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Italo Disco's synth-pop approach influenced later Eurodance"
+    },
+    {
+      "source": "Italo Disco",
+      "target": "Synth Pop",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both rely heavily on synthesizers and share a similar era/aesthetic"
+    },
+    {
+      "source": "Techno",
+      "target": "House",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Techno and House share the four-on-the-floor kick and emerged in parallel (Detroit/Chicago)"
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Techno",
+      "type": "regional_variant",
+      "strength": 5,
+      "note": "Detroit is the birthplace of techno (Belleville Three)"
+    },
+    {
+      "source": "Berlin Techno",
+      "target": "Techno",
+      "type": "regional_variant",
+      "strength": 5,
+      "note": "Berlin became techno's European capital post-reunification (Tresor, Berghain)"
+    },
+    {
+      "source": "Detroit Techno",
+      "target": "Electro",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Detroit Techno and Electro share roots in Kraftwerk + funk (Juan Atkins was in Cybotron)"
+    },
+    {
+      "source": "Electro",
+      "target": "Hip Hop",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Electro and Hip Hop emerged together in NYC (Afrika Bambaataa's Planet Rock)"
+    },
+    {
+      "source": "Electro",
+      "target": "Electro House",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Electro House borrows the aggressive synth stabs from electro"
+    },
+    {
+      "source": "Techno",
+      "target": "Tech House",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Tech House fuses techno's precision with house's groove"
+    },
+    {
+      "source": "House",
+      "target": "Tech House",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Tech House bridges house warmth with techno minimalism"
+    },
+    {
+      "source": "Techno",
+      "target": "Trance",
+      "type": "evolved_from",
+      "strength": 3,
+      "note": "Trance evolved from techno in the early 90s, adding melodic/euphoric elements"
+    },
+    {
+      "source": "Trance",
+      "target": "Goa Trance",
+      "type": "regional_variant",
+      "strength": 4,
+      "note": "Goa Trance emerged from the Goa/India psytrance scene"
+    },
+    {
+      "source": "Goa Trance",
+      "target": "Psychedelic",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Psychedelic trance is Goa Trance's direct evolution"
+    },
+    {
+      "source": "Trance",
+      "target": "Progressive House",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Progressive House and Trance share melodic builds and euphoric breakdowns"
+    },
+    {
+      "source": "Trance",
+      "target": "Melodic Techno",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Melodic Techno borrows trance's emotionality while keeping techno's structure"
+    },
+    {
+      "source": "Techno",
+      "target": "Minimal Techno",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Minimal Techno strips techno to its essential elements (Richie Hawtin, Robert Hood)"
+    },
+    {
+      "source": "Minimal Techno",
+      "target": "Microhouse",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Microhouse applies minimal techno's reductionism to house music"
+    },
+    {
+      "source": "Minimal Techno",
+      "target": "Minimal House",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Both share the minimal aesthetic — stripped-back, micro-edited sounds"
+    },
+    {
+      "source": "Techno",
+      "target": "Dub Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Dub Techno merges techno structure with dub's spatial effects"
+    },
+    {
+      "source": "Dub",
+      "target": "Dub Techno",
+      "type": "influenced_by",
+      "strength": 5,
+      "note": "Basic Channel brought Jamaican dub's reverb/delay techniques into techno"
+    },
+    {
+      "source": "Techno",
+      "target": "Ambient Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Ambient Techno is techno slowed down and immersed in atmosphere"
+    },
+    {
+      "source": "Ambient",
+      "target": "Ambient Techno",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Ambient Techno borrows ambient's textural, immersive approach"
+    },
+    {
+      "source": "Ambient",
+      "target": "Ambient House",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "The KLF's Chill Out and The Orb pioneered ambient house"
+    },
+    {
+      "source": "Techno",
+      "target": "Industrial Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Industrial Techno adds industrial's aggression to techno (Surgeon, Regis)"
+    },
+    {
+      "source": "Industrial",
+      "target": "Industrial Techno",
+      "type": "influenced_by",
+      "strength": 5,
+      "note": "Industrial Techno directly borrows industrial music's harsh, mechanical textures"
+    },
+    {
+      "source": "Techno",
+      "target": "Hard Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Hard Techno pushes techno's tempo and intensity higher"
+    },
+    {
+      "source": "Hard Techno",
+      "target": "Hardcore",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Both push tempo and intensity to extremes, blurred boundary"
+    },
+    {
+      "source": "Hardcore",
+      "target": "Gabber",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Gabber is hardcore's most extreme Dutch variant (150+ BPM distorted kicks)"
+    },
+    {
+      "source": "Hardcore",
+      "target": "Breakcore",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Breakcore mixes hardcore's intensity with chopped breakbeats"
+    },
+    {
+      "source": "Hi-NRG",
+      "target": "Eurodance",
+      "type": "evolved_from",
+      "strength": 3,
+      "note": "Eurodance built on Hi-NRG's energetic synth-driven approach"
+    },
+    {
+      "source": "Techno",
+      "target": "Experimental Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Experimental Techno pushes techno into abstract, deconstructed territory"
+    },
+    {
+      "source": "Techno",
+      "target": "Abstract Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Abstract Techno deconstructs techno's grid into non-linear forms"
+    },
+    {
+      "source": "Techno",
+      "target": "Broken Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Broken Techno replaces the four-on-the-floor with broken, syncopated rhythms"
+    },
+    {
+      "source": "Broken Techno",
+      "target": "Breakbeat",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both use non-four-on-the-floor broken rhythmic patterns"
+    },
+    {
+      "source": "Techno",
+      "target": "Percussive Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Percussive Techno foregrounds complex polyrhythmic percussion"
+    },
+    {
+      "source": "Techno",
+      "target": "Psychedelic Techno",
+      "type": "subgenre_of",
+      "strength": 3,
+      "note": "Psychedelic Techno uses modulation and repetition for hypnotic/psychedelic effects"
+    },
+    {
+      "source": "Techno",
+      "target": "Hardgroove",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Hardgroove is groove-heavy techno with tribal/funky percussion"
+    },
+    {
+      "source": "Techno",
+      "target": "Melodic Techno",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Melodic Techno adds lush melodies and emotional pads to techno"
+    },
+    {
+      "source": "Krautrock",
+      "target": "Techno",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Krautrock's motorik rhythms and electronic experimentation (Kraftwerk, Tangerine Dream, Can) directly inspired techno"
+    },
+    {
+      "source": "Krautrock",
+      "target": "Ambient",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Tangerine Dream and Klaus Schulze pioneered ambient-like electronic music"
+    },
+    {
+      "source": "Krautrock",
+      "target": "Kosmische",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Kosmische Musik is the spacey/cosmic branch of Krautrock (Tangerine Dream, Ash Ra Tempel)"
+    },
+    {
+      "source": "Kosmische",
+      "target": "Ambient",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Kosmische pioneered the textural, drifting approach that became ambient"
+    },
+    {
+      "source": "Psychedelic Rock",
+      "target": "Krautrock",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Krautrock emerged partly as a German response to psychedelic rock"
+    },
+    {
+      "source": "Psychedelic Rock",
+      "target": "Psychedelic",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both explore altered states through repetition, modulation, and sonic exploration"
+    },
+    {
+      "source": "Dub",
+      "target": "Dubstep",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Dubstep inherited dub's sub-bass emphasis and spatial production techniques"
+    },
+    {
+      "source": "UK Garage",
+      "target": "Dubstep",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Dubstep emerged directly from UK Garage in South London (late 90s/early 2000s)"
+    },
+    {
+      "source": "UK Garage",
+      "target": "Grime",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Grime evolved from UK Garage's MC culture (Wiley, Dizzee Rascal)"
+    },
+    {
+      "source": "UK Garage",
+      "target": "2-step",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "2-step is the skippy, syncopated variant of UK Garage"
+    },
+    {
+      "source": "UK Garage",
+      "target": "UK Funky",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "UK Funky is a post-garage evolution with African/Latin percussion influences"
+    },
+    {
+      "source": "UK Garage",
+      "target": "Bassline",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "Bassline (speed garage/niche) evolved from UK Garage in the North of England"
+    },
+    {
+      "source": "House",
+      "target": "UK Garage",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "UK Garage evolved from US garage house filtered through London's club scene"
+    },
+    {
+      "source": "Garage House",
+      "target": "UK Garage",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "UK Garage is a direct evolution of New York/New Jersey garage house"
+    },
+    {
+      "source": "Grime",
+      "target": "Drill",
+      "type": "evolved_from",
+      "strength": 3,
+      "note": "UK Drill evolved from Chicago Drill but inherited grime's MC culture and London context"
+    },
+    {
+      "source": "Grime",
+      "target": "Hip Hop",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Grime shares MC culture and flow patterns with hip hop"
+    },
+    {
+      "source": "Hip Hop",
+      "target": "Trap",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Trap music emerged from Southern US hip hop (T.I., Gucci Mane, Lex Luger)"
+    },
+    {
+      "source": "Hip Hop",
+      "target": "Club Rap",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Club Rap is hip hop optimized for club/dance settings"
+    },
+    {
+      "source": "Hip Hop",
+      "target": "Chopped and Screwed",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "DJ Screw invented this slowed-down, chopped Houston hip hop style"
+    },
+    {
+      "source": "Hip Hop",
+      "target": "Drill",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Drill emerged from Chicago hip hop (Chief Keef) before spreading to UK and beyond"
+    },
+    {
+      "source": "Trap",
+      "target": "Drill",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Drill shares trap's 808-heavy production but with darker, more aggressive energy"
+    },
+    {
+      "source": "Trap",
+      "target": "Future Bass",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Future Bass borrowed trap's 808 sub-bass and syncopated hi-hats"
+    },
+    {
+      "source": "Jungle",
+      "target": "Drum and Bass",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Drum and Bass evolved directly from Jungle (mid-90s), becoming more streamlined"
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Jungle",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "Jungle was built on sped-up breakbeats (Amen break) from the rave scene"
+    },
+    {
+      "source": "Dub",
+      "target": "Jungle",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Jungle's heavy bass, reverb, and reggae/ragga samples come directly from dub/soundsystem culture"
+    },
+    {
+      "source": "Ragga",
+      "target": "Jungle",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Ragga vocals and dancehall rhythms are essential ingredients of jungle"
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Liquid Funk",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Liquid Funk is DnB's melodic, soulful side (Calibre, High Contrast)"
+    },
+    {
+      "source": "Drum and Bass",
+      "target": "Techstep",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Techstep is DnB's dark, industrial-influenced variant (Ed Rush & Optical)"
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Broken Beat",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Broken Beat applies broken rhythms to jazz-influenced electronic music"
+    },
+    {
+      "source": "Broken Beat",
+      "target": "Jazz",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Broken Beat is deeply rooted in jazz harmony and musicianship"
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Breakcore",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Breakcore takes breakbeats to extreme speeds and chaos"
+    },
+    {
+      "source": "Footwork",
+      "target": "Ghetto House",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "Footwork evolved from Chicago's Ghetto House/juke scene (RP Boo, DJ Rashad)"
+    },
+    {
+      "source": "Budots",
+      "target": "Footwork",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Budots shares bouncy, hyperactive rhythmic patterns with footwork but developed independently in Davao City"
+    },
+    {
+      "source": "Budots",
+      "target": "Dancehall",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Budots borrows dancehall's riddim-style looping and vocal sample techniques"
+    },
+    {
+      "source": "Ghetto House",
+      "target": "Chicago House",
+      "type": "evolved_from",
+      "strength": 3,
+      "note": "Ghetto House is a raw, stripped-down mutation of Chicago House"
+    },
+    {
+      "source": "Ghetto House",
+      "target": "Ghetto Tech",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "Ghetto Tech fuses Ghetto House with Detroit electro/techno"
+    },
+    {
+      "source": "Ghetto Tech",
+      "target": "Electro",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Ghetto Tech merges ghetto house with electro's machine funk"
+    },
+    {
+      "source": "Miami Bass",
+      "target": "Ghetto House",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both share the 808-heavy, bass-focused club aesthetic"
+    },
+    {
+      "source": "Miami Bass",
+      "target": "Booty Bass",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Booty Bass is Miami Bass's party/dance variant"
+    },
+    {
+      "source": "Baltimore Club",
+      "target": "Ghetto House",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Baltimore Club parallels Ghetto House — regional club music built on breakbeats and samples"
+    },
+    {
+      "source": "Jersey Club",
+      "target": "Baltimore Club",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Jersey Club evolved alongside Baltimore Club — both are East Coast bass-heavy club music"
+    },
+    {
+      "source": "UK Bass",
+      "target": "Dubstep",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "UK Bass is a broader umbrella encompassing post-dubstep bass music"
+    },
+    {
+      "source": "UK Bass",
+      "target": "UK Garage",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "UK Bass carries forward the UK Garage/soundsystem lineage"
+    },
+    {
+      "source": "UK Funky",
+      "target": "Afro House",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "UK Funky borrowed heavily from African and Latin percussion patterns"
+    },
+    {
+      "source": "Dubstep",
+      "target": "Bass Music",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Post-dubstep scene evolved into the broader 'Bass Music' umbrella"
+    },
+    {
+      "source": "House",
+      "target": "Deep House",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Deep House is house music's soulful, jazzy, deeper variant (Larry Heard)"
+    },
+    {
+      "source": "House",
+      "target": "Garage House",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Garage House (Paradise Garage, Larry Levan) — gospel-influenced, soulful house"
+    },
+    {
+      "source": "Deep House",
+      "target": "Organic House",
+      "type": "evolved_from",
+      "strength": 3,
+      "note": "Organic House adds live/acoustic elements to deep house's warm aesthetic"
+    },
+    {
+      "source": "House",
+      "target": "Jackin House",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Jackin House is raw, funk-driven, groove-heavy house"
+    },
+    {
+      "source": "Jackin House",
+      "target": "Ghetto House",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both share a raw, stripped-back, groove-first approach"
+    },
+    {
+      "source": "House",
+      "target": "Tribal House",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Tribal House adds complex African/Latin percussion to house"
+    },
+    {
+      "source": "Tribal House",
+      "target": "Afro House",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Both foreground African rhythmic patterns in a house context"
+    },
+    {
+      "source": "House",
+      "target": "Afro House",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Afro House fuses house with African rhythms and instrumentation"
+    },
+    {
+      "source": "Afro House",
+      "target": "Afrobeats",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both draw from African musical traditions in a modern electronic context"
+    },
+    {
+      "source": "House",
+      "target": "Latin House",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Latin House infuses house with Latin percussion and melodies"
+    },
+    {
+      "source": "Latin House",
+      "target": "Latin",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Latin House draws rhythmic elements from broader Latin music"
+    },
+    {
+      "source": "House",
+      "target": "Progressive House",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Progressive House extends house into long-form, building arrangements (Sasha & Digweed)"
+    },
+    {
+      "source": "House",
+      "target": "Dream House",
+      "type": "subgenre_of",
+      "strength": 3,
+      "note": "Dream House emphasizes dreamy pads and ethereal textures"
+    },
+    {
+      "source": "House",
+      "target": "Electro House",
+      "type": "subgenre_of",
+      "strength": 3,
+      "note": "Electro House combines house's structure with electro's aggressive synths"
+    },
+    {
+      "source": "House",
+      "target": "Minimal House",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Minimal House strips house to its most essential rhythmic and harmonic elements"
+    },
+    {
+      "source": "Reggae",
+      "target": "Dub",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Dub is reggae deconstructed — King Tubby and Lee Perry stripped vocals, amplified bass and effects"
+    },
+    {
+      "source": "Reggae",
+      "target": "Dancehall",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "Dancehall emerged from reggae in the late 70s/80s with digital riddims"
+    },
+    {
+      "source": "Dancehall",
+      "target": "Ragga",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Ragga is dancehall's digital/electronic variant"
+    },
+    {
+      "source": "Dancehall",
+      "target": "Reggaeton",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Reggaeton's Dem Bow riddim comes directly from Dancehall (Shabba Ranks)"
+    },
+    {
+      "source": "Dancehall",
+      "target": "Baile Funk",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Baile Funk borrowed dancehall's riddim patterns and vocal style"
+    },
+    {
+      "source": "Baile Funk",
+      "target": "Funk Carioca",
+      "type": "regional_variant",
+      "strength": 5,
+      "note": "Funk Carioca is the Rio de Janeiro variant of Baile Funk"
+    },
+    {
+      "source": "Reggaeton",
+      "target": "Dembow",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Dembow is the Dominican variant of reggaeton's rhythmic foundation"
+    },
+    {
+      "source": "Latin",
+      "target": "Cumbia",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Cumbia is Colombia's foundational dance music rhythm"
+    },
+    {
+      "source": "Latin",
+      "target": "Guaracha",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Guaracha is a Cuban-origin high-energy Latin dance style"
+    },
+    {
+      "source": "Tropical",
+      "target": "Kuduro",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Kuduro is Angola's high-energy electronic dance music"
+    },
+    {
+      "source": "Tropical",
+      "target": "Batida",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Batida is Portuguese-Angolan electronic music fusing kuduro, house, and kizomba"
+    },
+    {
+      "source": "Kuduro",
+      "target": "Batida",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Batida is heavily influenced by Kuduro's rhythms and energy"
+    },
+    {
+      "source": "Afrobeats",
+      "target": "Afrobeat",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "Modern Afrobeats evolved from Fela Kuti's Afrobeat via Nigerian pop"
+    },
+    {
+      "source": "Afrobeats",
+      "target": "Amapiano",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Amapiano (South Africa) is sometimes grouped with Afrobeats in the global music scene"
+    },
+    {
+      "source": "Afrobeats",
+      "target": "Highlife",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Highlife is a foundational West African genre that influenced Afrobeats"
+    },
+    {
+      "source": "Afrobeat",
+      "target": "Funk",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Fela Kuti's Afrobeat fused Yoruba music with James Brown's funk"
+    },
+    {
+      "source": "Afrofuturism",
+      "target": "Detroit Techno",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Detroit Techno shares Afrofuturist themes (Drexciya, Underground Resistance)"
+    },
+    {
+      "source": "Gqom",
+      "target": "Afrobeats",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Gqom is South Africa's raw, minimal club music — adjacent to Afrobeats scene"
+    },
+    {
+      "source": "Singeli",
+      "target": "Gqom",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Both are high-energy African electronic dance forms"
+    },
+    {
+      "source": "World Music",
+      "target": "Folk",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Folk traditions form the foundation of many world music expressions"
+    },
+    {
+      "source": "Desert Blues",
+      "target": "World Music",
+      "type": "subgenre_of",
+      "strength": 3,
+      "note": "Desert Blues (Tinariwen, Bombino) is Saharan guitar music rooted in Tuareg tradition"
+    },
+    {
+      "source": "Industrial",
+      "target": "EBM",
+      "type": "evolved_from",
+      "strength": 5,
+      "note": "EBM is industrial's dancefloor variant (Front 242, Nitzer Ebb)"
+    },
+    {
+      "source": "Industrial",
+      "target": "Noise",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Industrial and Noise share harsh, confrontational sonic textures (Throbbing Gristle)"
+    },
+    {
+      "source": "EBM",
+      "target": "Techno",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "EBM's mechanical rhythms influenced the harder end of techno"
+    },
+    {
+      "source": "Post Punk",
+      "target": "Industrial",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Post Punk and Industrial emerged in parallel and often overlapped (Joy Division, Cabaret Voltaire)"
+    },
+    {
+      "source": "Post Punk",
+      "target": "New Wave",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Post Punk and New Wave are deeply intertwined (both post-punk rock movements)"
+    },
+    {
+      "source": "New Wave",
+      "target": "Synth Pop",
+      "type": "evolved_from",
+      "strength": 4,
+      "note": "Synth Pop emerged from New Wave's embrace of synthesizers (Depeche Mode, OMD)"
+    },
+    {
+      "source": "Synth Pop",
+      "target": "Techno",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Kraftwerk and Depeche Mode were key influences on Detroit Techno's founders"
+    },
+    {
+      "source": "Synth Pop",
+      "target": "Electro",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Synth Pop and Electro share synthesizer-centric production"
+    },
+    {
+      "source": "Wave",
+      "target": "New Wave",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Wave is a modern revival/continuation of the New Wave aesthetic"
+    },
+    {
+      "source": "Wave",
+      "target": "Dark Wave",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Dark Wave is the darker, gothic end of the wave spectrum"
+    },
+    {
+      "source": "Wave",
+      "target": "Cold Wave",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Cold Wave is French-origin, austere, minimal synthesizer music"
+    },
+    {
+      "source": "Wave",
+      "target": "Minimal Wave",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Minimal Wave is lo-fi, DIY synth music (rediscovered via Minimal Wave Records label)"
+    },
+    {
+      "source": "Wave",
+      "target": "Minimal Synth",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Minimal Synth is essentially synonymous with Minimal Wave"
+    },
+    {
+      "source": "Minimal Wave",
+      "target": "Minimal Synth",
+      "type": "shares_elements",
+      "strength": 5,
+      "note": "These are largely the same genre under different names"
+    },
+    {
+      "source": "Dark Wave",
+      "target": "EBM",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Dark Wave and EBM share dark aesthetics and often overlap in the goth/industrial scene"
+    },
+    {
+      "source": "Cold Wave",
+      "target": "Post Punk",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Cold Wave is essentially French Post Punk with heavy synth use"
+    },
+    {
+      "source": "Dark Wave",
+      "target": "Dark Ambient",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Both explore dark, foreboding atmospheres through different approaches"
+    },
+    {
+      "source": "Ambient",
+      "target": "Drone",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Drone uses sustained tones as its primary material — ambient's most extreme reduction"
+    },
+    {
+      "source": "Ambient",
+      "target": "Chillout",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Chillout is ambient's listener-friendly, melodic variant"
+    },
+    {
+      "source": "Ambient",
+      "target": "Dark Ambient",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Dark Ambient explores oppressive, unsettling atmospheres"
+    },
+    {
+      "source": "Ambient",
+      "target": "Downtempo",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Downtempo and Ambient share a slow, atmospheric quality but downtempo has beats"
+    },
+    {
+      "source": "Downtempo",
+      "target": "Trip Hop",
+      "type": "subgenre_of",
+      "strength": 5,
+      "note": "Trip Hop is downtempo's most iconic form (Massive Attack, Portishead, Tricky)"
+    },
+    {
+      "source": "Downtempo",
+      "target": "Lo-Fi",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both share a slow, textured, introspective quality"
+    },
+    {
+      "source": "Downtempo",
+      "target": "Chillout",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Chillout and Downtempo are closely related relaxed electronic styles"
+    },
+    {
+      "source": "Trip Hop",
+      "target": "Hip Hop",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Trip Hop borrows hip hop's breakbeats and sampling, slowing them down"
+    },
+    {
+      "source": "Trip Hop",
+      "target": "Dub",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Massive Attack and others drew on dub's spatial production techniques"
+    },
+    {
+      "source": "Jazz",
+      "target": "Deep House",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Deep House uses jazz chords, improvisation concepts, and harmonic sophistication"
+    },
+    {
+      "source": "Jazz",
+      "target": "Broken Beat",
+      "type": "influenced_by",
+      "strength": 4,
+      "note": "Broken Beat is deeply jazz-influenced (West London scene, 4hero, IG Culture)"
+    },
+    {
+      "source": "Jazz",
+      "target": "Liquid Funk",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Liquid Funk borrows jazz's melodic warmth and musicianship"
+    },
+    {
+      "source": "Jazz",
+      "target": "Trip Hop",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Trip Hop often samples and references jazz (Portishead, DJ Shadow)"
+    },
+    {
+      "source": "Classical",
+      "target": "Minimalism",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Minimalism (Steve Reich, Philip Glass) bridged classical and electronic music"
+    },
+    {
+      "source": "Classical",
+      "target": "Ambient",
+      "type": "influenced_by",
+      "strength": 2,
+      "note": "Brian Eno cited Erik Satie's furniture music as ambient's precursor"
+    },
+    {
+      "source": "Classical",
+      "target": "Electroacoustic",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Electroacoustic music comes from the classical/academic tradition (musique concrète)"
+    },
+    {
+      "source": "Minimalism",
+      "target": "Minimal Techno",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Minimal Techno shares the repetition-as-transformation philosophy of musical minimalism"
+    },
+    {
+      "source": "IDM",
+      "target": "Techno",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "IDM emerged from techno/electronic listening culture (Warp Records, Aphex Twin)"
+    },
+    {
+      "source": "IDM",
+      "target": "Glitch",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "IDM and Glitch share experimental digital aesthetics (Autechre, Oval)"
+    },
+    {
+      "source": "IDM",
+      "target": "Ambient",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "IDM often merges ambient textures with complex rhythmic programming (Boards of Canada)"
+    },
+    {
+      "source": "IDM",
+      "target": "Experimental",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "IDM is inherently experimental electronic music"
+    },
+    {
+      "source": "Glitch",
+      "target": "Experimental",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Glitch uses digital errors as musical material — inherently experimental"
+    },
+    {
+      "source": "Glitch",
+      "target": "Microhouse",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Microhouse often uses glitch techniques in a house context (Akufen)"
+    },
+    {
+      "source": "Noise",
+      "target": "Experimental",
+      "type": "shares_elements",
+      "strength": 4,
+      "note": "Noise is one of experimental music's most extreme expressions"
+    },
+    {
+      "source": "Noise",
+      "target": "Drone",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Noise and Drone intersect in harsh sustained textures (Merzbow, Earth)"
+    },
+    {
+      "source": "Electroacoustic",
+      "target": "Experimental",
+      "type": "subgenre_of",
+      "strength": 4,
+      "note": "Electroacoustic music is experimental by definition — academic electronic music"
+    },
+    {
+      "source": "Electronica",
+      "target": "IDM",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Electronica is a broad label that encompasses IDM-adjacent listener-oriented electronic music"
+    },
+    {
+      "source": "Percussion",
+      "target": "Percussive Techno",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Both foreground percussion as the primary musical element"
+    },
+    {
+      "source": "Exotica",
+      "target": "Balearic",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Both embrace eclecticism and exotic/escapist aesthetics"
+    },
+    {
+      "source": "Dub",
+      "target": "Bass Music",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Dub's emphasis on heavy bass and spatial effects is foundational to all bass music"
+    },
+    {
+      "source": "Dub",
+      "target": "Trip Hop",
+      "type": "influenced_by",
+      "strength": 3,
+      "note": "Bristol's trip hop scene was deeply influenced by its soundsystem/dub culture"
+    },
+    {
+      "source": "Pop",
+      "target": "Synth Pop",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Synth Pop is pop music made primarily with synthesizers"
+    },
+    {
+      "source": "Pop",
+      "target": "Eurodance",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Eurodance is pop-oriented, accessible electronic dance music"
+    },
+    {
+      "source": "Ballroom",
+      "target": "House",
+      "type": "shares_elements",
+      "strength": 3,
+      "note": "Ballroom culture and house music are deeply intertwined (New York, voguing)"
+    },
+    {
+      "source": "Ballroom",
+      "target": "Ghetto House",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Ballroom and Ghetto House share raw, vocal-heavy, high-energy club aesthetics"
+    },
+    {
+      "source": "Spoken Word",
+      "target": "Hip Hop",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Both center the voice — spoken word as art, hip hop as rhythmic speech"
+    },
+    {
+      "source": "Spoken Word",
+      "target": "Experimental",
+      "type": "shares_elements",
+      "strength": 2,
+      "note": "Spoken Word in electronic music context often intersects with experimental approaches"
+    }
   ]
 }

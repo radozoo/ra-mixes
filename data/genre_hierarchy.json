@@ -5,7 +5,7 @@
       "label": "Techno",
       "level": "L1",
       "family": "Techno",
-      "color": "#f2355b"
+      "color": "#d41d4a"
     },
     {
       "id": "House_family",
@@ -15,18 +15,18 @@
       "color": "#f59e42"
     },
     {
-      "id": "Bass_family",
-      "label": "Bass",
+      "id": "Groove_family",
+      "label": "Groove",
       "level": "L1",
-      "family": "Bass",
-      "color": "#00c9a7"
+      "family": "Groove",
+      "color": "#fceba5"
     },
     {
-      "id": "Disco & Soul_family",
-      "label": "Disco & Soul",
+      "id": "Bass Culture_family",
+      "label": "Bass Culture",
       "level": "L1",
-      "family": "Disco & Soul",
-      "color": "#ffc857"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Experimental_family",
@@ -36,32 +36,32 @@
       "color": "#c77dff"
     },
     {
-      "id": "Global_family",
-      "label": "Global",
+      "id": "Industrial_family",
+      "label": "Industrial",
       "level": "L1",
-      "family": "Global",
-      "color": "#45e89d"
+      "family": "Industrial",
+      "color": "#94a3b8"
     },
     {
-      "id": "Industrial & Wave_family",
-      "label": "Industrial & Wave",
+      "id": "Global Roots_family",
+      "label": "Global Roots",
       "level": "L1",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
-      "id": "Downtempo_family",
-      "label": "Downtempo",
+      "id": "Hip Hop_family",
+      "label": "Hip Hop",
       "level": "L1",
-      "family": "Downtempo",
-      "color": "#a78bfa"
+      "family": "Hip Hop",
+      "color": "#fb7eb8"
     },
     {
       "id": "Techno",
       "label": "Techno",
       "level": "L2",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "episode_count": 460
     },
     {
@@ -69,7 +69,7 @@
       "label": "Minimal Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 282
     },
@@ -78,7 +78,7 @@
       "label": "Detroit Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 143
     },
@@ -87,7 +87,7 @@
       "label": "Berlin Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 36
     },
@@ -96,7 +96,7 @@
       "label": "Melodic Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 37
     },
@@ -105,7 +105,7 @@
       "label": "Dub Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 109
     },
@@ -114,7 +114,7 @@
       "label": "Ambient Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 159
     },
@@ -123,25 +123,25 @@
       "label": "Acid Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 54
-    },
-    {
-      "id": "Industrial Techno",
-      "label": "Industrial Techno",
-      "level": "L3",
-      "family": "Techno",
-      "color": "#f2355b",
-      "parent": "Techno",
-      "episode_count": 129
     },
     {
       "id": "Hard Techno",
       "label": "Hard Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
+      "parent": "Techno",
+      "episode_count": 30
+    },
+    {
+      "id": "Microhouse",
+      "label": "Microhouse",
+      "level": "L3",
+      "family": "Techno",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 30
     },
@@ -150,7 +150,7 @@
       "label": "Abstract Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 1
     },
@@ -159,7 +159,7 @@
       "label": "Broken Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 1
     },
@@ -168,7 +168,7 @@
       "label": "Experimental Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 1
     },
@@ -177,7 +177,7 @@
       "label": "Percussive Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 1
     },
@@ -186,7 +186,7 @@
       "label": "Psychedelic Techno",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 2
     },
@@ -195,7 +195,7 @@
       "label": "Hardgroove",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Techno",
       "episode_count": 1
     },
@@ -204,7 +204,7 @@
       "label": "Trance",
       "level": "L2",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "episode_count": 23
     },
     {
@@ -212,7 +212,7 @@
       "label": "Goa Trance",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Trance",
       "episode_count": 3
     },
@@ -221,7 +221,7 @@
       "label": "Psychedelic",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Trance",
       "episode_count": 6
     },
@@ -230,7 +230,7 @@
       "label": "Eurodance",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Trance",
       "episode_count": 1
     },
@@ -239,7 +239,7 @@
       "label": "Electro",
       "level": "L2",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "episode_count": 139
     },
     {
@@ -247,7 +247,7 @@
       "label": "Hardcore",
       "level": "L2",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "episode_count": 15
     },
     {
@@ -255,7 +255,7 @@
       "label": "Gabber",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Hardcore",
       "episode_count": 1
     },
@@ -264,7 +264,7 @@
       "label": "Breakcore",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Hardcore",
       "episode_count": 3
     },
@@ -273,7 +273,7 @@
       "label": "Hi-NRG",
       "level": "L3",
       "family": "Techno",
-      "color": "#f2355b",
+      "color": "#d41d4a",
       "parent": "Hardcore",
       "episode_count": 1
     },
@@ -331,15 +331,6 @@
       "episode_count": 28
     },
     {
-      "id": "Microhouse",
-      "label": "Microhouse",
-      "level": "L3",
-      "family": "House",
-      "color": "#f59e42",
-      "parent": "House",
-      "episode_count": 30
-    },
-    {
       "id": "Electro House",
       "label": "Electro House",
       "level": "L3",
@@ -347,6 +338,15 @@
       "color": "#f59e42",
       "parent": "House",
       "episode_count": 10
+    },
+    {
+      "id": "Electrohouse",
+      "label": "Electrohouse",
+      "level": "L3",
+      "family": "House",
+      "color": "#f59e42",
+      "parent": "House",
+      "episode_count": 0
     },
     {
       "id": "Progressive House",
@@ -374,15 +374,6 @@
       "color": "#f59e42",
       "parent": "House",
       "episode_count": 18
-    },
-    {
-      "id": "Ambient House",
-      "label": "Ambient House",
-      "level": "L3",
-      "family": "House",
-      "color": "#f59e42",
-      "parent": "House",
-      "episode_count": 2
     },
     {
       "id": "Dream House",
@@ -430,219 +421,19 @@
       "episode_count": 1
     },
     {
-      "id": "Drum and Bass",
-      "label": "Drum and Bass",
-      "level": "L2",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "episode_count": 122
-    },
-    {
-      "id": "Jungle",
-      "label": "Jungle",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Drum and Bass",
-      "episode_count": 38
-    },
-    {
-      "id": "Liquid Funk",
-      "label": "Liquid Funk",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Drum and Bass",
-      "episode_count": 2
-    },
-    {
-      "id": "Techstep",
-      "label": "Techstep",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Drum and Bass",
-      "episode_count": 1
-    },
-    {
-      "id": "Dubstep",
-      "label": "Dubstep",
-      "level": "L2",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "episode_count": 61
-    },
-    {
-      "id": "Bassline",
-      "label": "Bassline",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Dubstep",
-      "episode_count": 5
-    },
-    {
-      "id": "Bass Music",
-      "label": "Bass Music",
-      "level": "L2",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "episode_count": 27
-    },
-    {
-      "id": "Future Bass",
-      "label": "Future Bass",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Bass Music",
-      "episode_count": 2
-    },
-    {
-      "id": "UK Bass",
-      "label": "UK Bass",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Bass Music",
-      "episode_count": 32
-    },
-    {
-      "id": "UK Garage",
-      "label": "UK Garage",
-      "level": "L2",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "episode_count": 70
-    },
-    {
-      "id": "2-step",
-      "label": "2-step",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "UK Garage",
-      "episode_count": 1
-    },
-    {
-      "id": "UK Funky",
-      "label": "UK Funky",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "UK Garage",
-      "episode_count": 2
-    },
-    {
-      "id": "Jersey Club",
-      "label": "Jersey Club",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "UK Garage",
-      "episode_count": 1
-    },
-    {
-      "id": "Grime",
-      "label": "Grime",
-      "level": "L2",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "episode_count": 44
-    },
-    {
-      "id": "Drill",
-      "label": "Drill",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Grime",
-      "episode_count": 1
-    },
-    {
-      "id": "Breakbeat",
-      "label": "Breakbeat",
-      "level": "L2",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "episode_count": 73
-    },
-    {
-      "id": "Footwork",
-      "label": "Footwork",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Breakbeat",
-      "episode_count": 57
-    },
-    {
-      "id": "Broken Beat",
-      "label": "Broken Beat",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Breakbeat",
-      "episode_count": 1
-    },
-    {
-      "id": "Baltimore Club",
-      "label": "Baltimore Club",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Breakbeat",
-      "episode_count": 3
-    },
-    {
-      "id": "Ghetto House",
-      "label": "Ghetto House",
-      "level": "L2",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "episode_count": 4
-    },
-    {
-      "id": "Ghetto Tech",
-      "label": "Ghetto Tech",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Ghetto House",
-      "episode_count": 3
-    },
-    {
-      "id": "Booty Bass",
-      "label": "Booty Bass",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Ghetto House",
-      "episode_count": 1
-    },
-    {
-      "id": "Miami Bass",
-      "label": "Miami Bass",
-      "level": "L3",
-      "family": "Bass",
-      "color": "#00c9a7",
-      "parent": "Ghetto House",
-      "episode_count": 2
-    },
-    {
       "id": "Disco",
       "label": "Disco",
       "level": "L2",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "episode_count": 68
     },
     {
       "id": "Italo Disco",
       "label": "Italo Disco",
       "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "parent": "Disco",
       "episode_count": 13
     },
@@ -650,8 +441,8 @@
       "id": "Cosmic Disco",
       "label": "Cosmic Disco",
       "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "parent": "Disco",
       "episode_count": 1
     },
@@ -659,8 +450,8 @@
       "id": "Disco House",
       "label": "Disco House",
       "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "parent": "Disco",
       "episode_count": 1
     },
@@ -668,8 +459,8 @@
       "id": "Boogie",
       "label": "Boogie",
       "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "parent": "Disco",
       "episode_count": 2
     },
@@ -677,16 +468,16 @@
       "id": "Nu-Disco",
       "label": "Nu-Disco",
       "level": "L2",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "episode_count": 16
     },
     {
       "id": "Balearic",
       "label": "Balearic",
       "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "parent": "Nu-Disco",
       "episode_count": 23
     },
@@ -694,61 +485,217 @@
       "id": "Funk",
       "label": "Funk",
       "level": "L2",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "episode_count": 62
     },
     {
       "id": "Soul",
       "label": "Soul",
       "level": "L2",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
+      "family": "Groove",
+      "color": "#fceba5",
       "episode_count": 50
     },
     {
-      "id": "R&B",
-      "label": "R&B",
-      "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
-      "parent": "Soul",
-      "episode_count": 6
-    },
-    {
-      "id": "Hip Hop",
-      "label": "Hip Hop",
+      "id": "Drum and Bass",
+      "label": "Drum and Bass",
       "level": "L2",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
-      "episode_count": 30
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "episode_count": 122
     },
     {
-      "id": "Club Rap",
-      "label": "Club Rap",
+      "id": "Jungle",
+      "label": "Jungle",
       "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
-      "parent": "Hip Hop",
-      "episode_count": 7
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Drum and Bass",
+      "episode_count": 38
     },
     {
-      "id": "Trap",
-      "label": "Trap",
+      "id": "Liquid Funk",
+      "label": "Liquid Funk",
       "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
-      "parent": "Hip Hop",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Drum and Bass",
       "episode_count": 2
     },
     {
-      "id": "Chopped and Screwed",
-      "label": "Chopped and Screwed",
+      "id": "Techstep",
+      "label": "Techstep",
       "level": "L3",
-      "family": "Disco & Soul",
-      "color": "#ffc857",
-      "parent": "Hip Hop",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Drum and Bass",
       "episode_count": 1
+    },
+    {
+      "id": "Dubstep",
+      "label": "Dubstep",
+      "level": "L2",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "episode_count": 61
+    },
+    {
+      "id": "Bassline",
+      "label": "Bassline",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Dubstep",
+      "episode_count": 5
+    },
+    {
+      "id": "Bass Music",
+      "label": "Bass Music",
+      "level": "L2",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "episode_count": 27
+    },
+    {
+      "id": "Future Bass",
+      "label": "Future Bass",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Bass Music",
+      "episode_count": 2
+    },
+    {
+      "id": "UK Bass",
+      "label": "UK Bass",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Bass Music",
+      "episode_count": 32
+    },
+    {
+      "id": "UK Garage",
+      "label": "UK Garage",
+      "level": "L2",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "episode_count": 70
+    },
+    {
+      "id": "2-step",
+      "label": "2-step",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "UK Garage",
+      "episode_count": 1
+    },
+    {
+      "id": "UK Funky",
+      "label": "UK Funky",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "UK Garage",
+      "episode_count": 2
+    },
+    {
+      "id": "Jersey Club",
+      "label": "Jersey Club",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "UK Garage",
+      "episode_count": 1
+    },
+    {
+      "id": "Grime",
+      "label": "Grime",
+      "level": "L2",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "episode_count": 44
+    },
+    {
+      "id": "Breakbeat",
+      "label": "Breakbeat",
+      "level": "L2",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "episode_count": 73
+    },
+    {
+      "id": "Footwork",
+      "label": "Footwork",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Breakbeat",
+      "episode_count": 57
+    },
+    {
+      "id": "Juke",
+      "label": "Juke",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Breakbeat",
+      "episode_count": 0
+    },
+    {
+      "id": "Broken Beat",
+      "label": "Broken Beat",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Breakbeat",
+      "episode_count": 1
+    },
+    {
+      "id": "Baltimore Club",
+      "label": "Baltimore Club",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Breakbeat",
+      "episode_count": 3
+    },
+    {
+      "id": "Ghetto House",
+      "label": "Ghetto House",
+      "level": "L2",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "episode_count": 4
+    },
+    {
+      "id": "Ghetto Tech",
+      "label": "Ghetto Tech",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Ghetto House",
+      "episode_count": 3
+    },
+    {
+      "id": "Booty Bass",
+      "label": "Booty Bass",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Ghetto House",
+      "episode_count": 1
+    },
+    {
+      "id": "Miami Bass",
+      "label": "Miami Bass",
+      "level": "L3",
+      "family": "Bass Culture",
+      "color": "#06b6d4",
+      "parent": "Ghetto House",
+      "episode_count": 2
     },
     {
       "id": "Ambient",
@@ -830,15 +777,6 @@
       "episode_count": 2
     },
     {
-      "id": "Exotica",
-      "label": "Exotica",
-      "level": "L3",
-      "family": "Experimental",
-      "color": "#c77dff",
-      "parent": "Experimental",
-      "episode_count": 1
-    },
-    {
       "id": "Percussion",
       "label": "Percussion",
       "level": "L3",
@@ -864,334 +802,19 @@
       "episode_count": 83
     },
     {
-      "id": "Krautrock",
-      "label": "Krautrock",
-      "level": "L2",
-      "family": "Experimental",
-      "color": "#c77dff",
-      "episode_count": 7
-    },
-    {
-      "id": "Kosmische",
-      "label": "Kosmische",
-      "level": "L3",
-      "family": "Experimental",
-      "color": "#c77dff",
-      "parent": "Krautrock",
-      "episode_count": 18
-    },
-    {
-      "id": "Psychedelic Rock",
-      "label": "Psychedelic Rock",
-      "level": "L3",
-      "family": "Experimental",
-      "color": "#c77dff",
-      "parent": "Krautrock",
-      "episode_count": 1
-    },
-    {
-      "id": "Afrobeats",
-      "label": "Afrobeats",
-      "level": "L2",
-      "family": "Global",
-      "color": "#45e89d",
-      "episode_count": 8
-    },
-    {
-      "id": "Amapiano",
-      "label": "Amapiano",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Afrobeats",
-      "episode_count": 4
-    },
-    {
-      "id": "Gqom",
-      "label": "Gqom",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Afrobeats",
-      "episode_count": 11
-    },
-    {
-      "id": "Highlife",
-      "label": "Highlife",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Afrobeats",
-      "episode_count": 1
-    },
-    {
-      "id": "Afrobeat",
-      "label": "Afrobeat",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Afrobeats",
-      "episode_count": 1
-    },
-    {
-      "id": "Afrofuturism",
-      "label": "Afrofuturism",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Afrobeats",
-      "episode_count": 1
-    },
-    {
-      "id": "Singeli",
-      "label": "Singeli",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Afrobeats",
-      "episode_count": 1
-    },
-    {
-      "id": "Latin",
-      "label": "Latin",
-      "level": "L2",
-      "family": "Global",
-      "color": "#45e89d",
-      "episode_count": 16
-    },
-    {
-      "id": "Cumbia",
-      "label": "Cumbia",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Latin",
-      "episode_count": 6
-    },
-    {
-      "id": "Reggaeton",
-      "label": "Reggaeton",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Latin",
-      "episode_count": 7
-    },
-    {
-      "id": "Baile Funk",
-      "label": "Baile Funk",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Latin",
-      "episode_count": 12
-    },
-    {
-      "id": "Dembow",
-      "label": "Dembow",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Latin",
-      "episode_count": 2
-    },
-    {
-      "id": "Guaracha",
-      "label": "Guaracha",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Latin",
-      "episode_count": 2
-    },
-    {
-      "id": "Reggae",
-      "label": "Reggae",
-      "level": "L2",
-      "family": "Global",
-      "color": "#45e89d",
-      "episode_count": 10
-    },
-    {
-      "id": "Dub",
-      "label": "Dub",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Reggae",
-      "episode_count": 46
-    },
-    {
-      "id": "Dancehall",
-      "label": "Dancehall",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Reggae",
-      "episode_count": 18
-    },
-    {
-      "id": "Ragga",
-      "label": "Ragga",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Reggae",
-      "episode_count": 2
-    },
-    {
-      "id": "Tropical",
-      "label": "Tropical",
-      "level": "L2",
-      "family": "Global",
-      "color": "#45e89d",
-      "episode_count": 3
-    },
-    {
-      "id": "Kuduro",
-      "label": "Kuduro",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Tropical",
-      "episode_count": 3
-    },
-    {
-      "id": "Batida",
-      "label": "Batida",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "Tropical",
-      "episode_count": 3
-    },
-    {
-      "id": "World Music",
-      "label": "World Music",
-      "level": "L2",
-      "family": "Global",
-      "color": "#45e89d",
-      "episode_count": 3
-    },
-    {
-      "id": "Folk",
-      "label": "Folk",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "World Music",
-      "episode_count": 1
-    },
-    {
-      "id": "Desert Blues",
-      "label": "Desert Blues",
-      "level": "L3",
-      "family": "Global",
-      "color": "#45e89d",
-      "parent": "World Music",
-      "episode_count": 1
-    },
-    {
-      "id": "Industrial",
-      "label": "Industrial",
-      "level": "L2",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "episode_count": 25
-    },
-    {
-      "id": "EBM",
-      "label": "EBM",
-      "level": "L3",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "parent": "Industrial",
-      "episode_count": 26
-    },
-    {
-      "id": "New Wave",
-      "label": "New Wave",
-      "level": "L2",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "episode_count": 13
-    },
-    {
-      "id": "Synth Pop",
-      "label": "Synth Pop",
-      "level": "L3",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "parent": "New Wave",
-      "episode_count": 4
-    },
-    {
-      "id": "Post Punk",
-      "label": "Post Punk",
-      "level": "L3",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "parent": "New Wave",
-      "episode_count": 17
-    },
-    {
-      "id": "Wave",
-      "label": "Wave",
-      "level": "L2",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "episode_count": 0
-    },
-    {
-      "id": "Dark Wave",
-      "label": "Dark Wave",
-      "level": "L3",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "parent": "Wave",
-      "episode_count": 1
-    },
-    {
-      "id": "Cold Wave",
-      "label": "Cold Wave",
-      "level": "L3",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "parent": "Wave",
-      "episode_count": 1
-    },
-    {
-      "id": "Minimal Wave",
-      "label": "Minimal Wave",
-      "level": "L3",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "parent": "Wave",
-      "episode_count": 1
-    },
-    {
-      "id": "Minimal Synth",
-      "label": "Minimal Synth",
-      "level": "L3",
-      "family": "Industrial & Wave",
-      "color": "#7eb8d4",
-      "parent": "Wave",
-      "episode_count": 1
-    },
-    {
       "id": "Downtempo",
       "label": "Downtempo",
       "level": "L2",
-      "family": "Downtempo",
-      "color": "#a78bfa",
+      "family": "Experimental",
+      "color": "#c77dff",
       "episode_count": 43
     },
     {
       "id": "Trip Hop",
       "label": "Trip Hop",
       "level": "L3",
-      "family": "Downtempo",
-      "color": "#a78bfa",
+      "family": "Experimental",
+      "color": "#c77dff",
       "parent": "Downtempo",
       "episode_count": 3
     },
@@ -1199,50 +822,459 @@
       "id": "Lo-Fi",
       "label": "Lo-Fi",
       "level": "L3",
-      "family": "Downtempo",
-      "color": "#a78bfa",
+      "family": "Experimental",
+      "color": "#c77dff",
       "parent": "Downtempo",
       "episode_count": 3
     },
     {
-      "id": "Spoken Word",
-      "label": "Spoken Word",
+      "id": "Ambient House",
+      "label": "Ambient House",
       "level": "L2",
-      "family": "Downtempo",
-      "color": "#a78bfa",
+      "family": "Experimental",
+      "color": "#c77dff",
+      "episode_count": 2
+    },
+    {
+      "id": "Industrial",
+      "label": "Industrial",
+      "level": "L2",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "episode_count": 25
+    },
+    {
+      "id": "EBM",
+      "label": "EBM",
+      "level": "L3",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "parent": "Industrial",
+      "episode_count": 26
+    },
+    {
+      "id": "Industrial Techno",
+      "label": "Industrial Techno",
+      "level": "L3",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "parent": "Industrial",
+      "episode_count": 129
+    },
+    {
+      "id": "New Wave",
+      "label": "New Wave",
+      "level": "L2",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "episode_count": 13
+    },
+    {
+      "id": "Synth Pop",
+      "label": "Synth Pop",
+      "level": "L3",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "parent": "New Wave",
+      "episode_count": 4
+    },
+    {
+      "id": "Post Punk",
+      "label": "Post Punk",
+      "level": "L3",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "parent": "New Wave",
+      "episode_count": 17
+    },
+    {
+      "id": "Wave",
+      "label": "Wave",
+      "level": "L2",
+      "family": "Industrial",
+      "color": "#94a3b8",
       "episode_count": 0
+    },
+    {
+      "id": "Dark Wave",
+      "label": "Dark Wave",
+      "level": "L3",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "parent": "Wave",
+      "episode_count": 1
+    },
+    {
+      "id": "Cold Wave",
+      "label": "Cold Wave",
+      "level": "L3",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "parent": "Wave",
+      "episode_count": 1
+    },
+    {
+      "id": "Minimal Wave",
+      "label": "Minimal Wave",
+      "level": "L3",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "parent": "Wave",
+      "episode_count": 1
+    },
+    {
+      "id": "Minimal Synth",
+      "label": "Minimal Synth",
+      "level": "L3",
+      "family": "Industrial",
+      "color": "#94a3b8",
+      "parent": "Wave",
+      "episode_count": 1
+    },
+    {
+      "id": "Afrobeats",
+      "label": "Afrobeats",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 8
+    },
+    {
+      "id": "Amapiano",
+      "label": "Amapiano",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Afrobeats",
+      "episode_count": 4
+    },
+    {
+      "id": "Gqom",
+      "label": "Gqom",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Afrobeats",
+      "episode_count": 11
+    },
+    {
+      "id": "Highlife",
+      "label": "Highlife",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Afrobeats",
+      "episode_count": 1
+    },
+    {
+      "id": "Afrobeat",
+      "label": "Afrobeat",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Afrobeats",
+      "episode_count": 1
+    },
+    {
+      "id": "Afrofuturism",
+      "label": "Afrofuturism",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Afrobeats",
+      "episode_count": 1
+    },
+    {
+      "id": "Singeli",
+      "label": "Singeli",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Afrobeats",
+      "episode_count": 1
+    },
+    {
+      "id": "Latin",
+      "label": "Latin",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 16
+    },
+    {
+      "id": "Cumbia",
+      "label": "Cumbia",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Latin",
+      "episode_count": 6
+    },
+    {
+      "id": "Reggaeton",
+      "label": "Reggaeton",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Latin",
+      "episode_count": 7
+    },
+    {
+      "id": "Baile Funk",
+      "label": "Baile Funk",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Latin",
+      "episode_count": 12
+    },
+    {
+      "id": "Dembow",
+      "label": "Dembow",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Latin",
+      "episode_count": 2
+    },
+    {
+      "id": "Guaracha",
+      "label": "Guaracha",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Latin",
+      "episode_count": 2
+    },
+    {
+      "id": "Reggae",
+      "label": "Reggae",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 10
+    },
+    {
+      "id": "Dub",
+      "label": "Dub",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Reggae",
+      "episode_count": 46
+    },
+    {
+      "id": "Dancehall",
+      "label": "Dancehall",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Reggae",
+      "episode_count": 18
+    },
+    {
+      "id": "Ragga",
+      "label": "Ragga",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Reggae",
+      "episode_count": 2
+    },
+    {
+      "id": "Tropical",
+      "label": "Tropical",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 3
+    },
+    {
+      "id": "Kuduro",
+      "label": "Kuduro",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Tropical",
+      "episode_count": 3
+    },
+    {
+      "id": "Batida",
+      "label": "Batida",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Tropical",
+      "episode_count": 3
+    },
+    {
+      "id": "World Music",
+      "label": "World Music",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 3
+    },
+    {
+      "id": "World",
+      "label": "World",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "World Music",
+      "episode_count": 0
+    },
+    {
+      "id": "Folk",
+      "label": "Folk",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "World Music",
+      "episode_count": 1
+    },
+    {
+      "id": "Desert Blues",
+      "label": "Desert Blues",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "World Music",
+      "episode_count": 1
     },
     {
       "id": "Jazz",
       "label": "Jazz",
       "level": "L2",
-      "family": "Downtempo",
-      "color": "#a78bfa",
+      "family": "Global Roots",
+      "color": "#22c55e",
       "episode_count": 33
+    },
+    {
+      "id": "R&B",
+      "label": "R&B",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 6
+    },
+    {
+      "id": "Tribal",
+      "label": "Tribal",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 0
+    },
+    {
+      "id": "Krautrock",
+      "label": "Krautrock",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 7
+    },
+    {
+      "id": "Kosmische",
+      "label": "Kosmische",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Krautrock",
+      "episode_count": 18
+    },
+    {
+      "id": "Psychedelic Rock",
+      "label": "Psychedelic Rock",
+      "level": "L3",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "parent": "Krautrock",
+      "episode_count": 1
     },
     {
       "id": "Classical",
       "label": "Classical",
       "level": "L2",
-      "family": "Downtempo",
-      "color": "#a78bfa",
+      "family": "Global Roots",
+      "color": "#22c55e",
       "episode_count": 2
     },
     {
       "id": "Pop",
       "label": "Pop",
       "level": "L2",
-      "family": "Downtempo",
-      "color": "#a78bfa",
+      "family": "Global Roots",
+      "color": "#22c55e",
       "episode_count": 2
+    },
+    {
+      "id": "Exotica",
+      "label": "Exotica",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 1
+    },
+    {
+      "id": "Spoken Word",
+      "label": "Spoken Word",
+      "level": "L2",
+      "family": "Global Roots",
+      "color": "#22c55e",
+      "episode_count": 0
     },
     {
       "id": "Ballroom",
       "label": "Ballroom",
       "level": "L2",
-      "family": "Downtempo",
-      "color": "#a78bfa",
+      "family": "Global Roots",
+      "color": "#22c55e",
       "episode_count": 4
+    },
+    {
+      "id": "Hip Hop",
+      "label": "Hip Hop",
+      "level": "L2",
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "episode_count": 30
+    },
+    {
+      "id": "Club Rap",
+      "label": "Club Rap",
+      "level": "L3",
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "parent": "Hip Hop",
+      "episode_count": 7
+    },
+    {
+      "id": "Trap",
+      "label": "Trap",
+      "level": "L3",
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "parent": "Hip Hop",
+      "episode_count": 2
+    },
+    {
+      "id": "Drill",
+      "label": "Drill",
+      "level": "L3",
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "parent": "Hip Hop",
+      "episode_count": 1
+    },
+    {
+      "id": "Chopped and Screwed",
+      "label": "Chopped and Screwed",
+      "level": "L3",
+      "family": "Hip Hop",
+      "color": "#fb7eb8",
+      "parent": "Hip Hop",
+      "episode_count": 1
     }
   ],
   "edges": [
@@ -1288,12 +1320,12 @@
     },
     {
       "source": "Techno",
-      "target": "Industrial Techno",
+      "target": "Hard Techno",
       "edge_type": "hierarchical"
     },
     {
       "source": "Techno",
-      "target": "Hard Techno",
+      "target": "Microhouse",
       "edge_type": "hierarchical"
     },
     {
@@ -1403,12 +1435,12 @@
     },
     {
       "source": "House",
-      "target": "Microhouse",
+      "target": "Electro House",
       "edge_type": "hierarchical"
     },
     {
       "source": "House",
-      "target": "Electro House",
+      "target": "Electrohouse",
       "edge_type": "hierarchical"
     },
     {
@@ -1424,11 +1456,6 @@
     {
       "source": "House",
       "target": "Afro House",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "House",
-      "target": "Ambient House",
       "edge_type": "hierarchical"
     },
     {
@@ -1457,122 +1484,7 @@
       "edge_type": "hierarchical"
     },
     {
-      "source": "Bass_family",
-      "target": "Drum and Bass",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Drum and Bass",
-      "target": "Jungle",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Drum and Bass",
-      "target": "Liquid Funk",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Drum and Bass",
-      "target": "Techstep",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Bass_family",
-      "target": "Dubstep",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Dubstep",
-      "target": "Bassline",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Bass_family",
-      "target": "Bass Music",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Bass Music",
-      "target": "Future Bass",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Bass Music",
-      "target": "UK Bass",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Bass_family",
-      "target": "UK Garage",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "UK Garage",
-      "target": "2-step",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "UK Garage",
-      "target": "UK Funky",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "UK Garage",
-      "target": "Jersey Club",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Bass_family",
-      "target": "Grime",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Grime",
-      "target": "Drill",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Bass_family",
-      "target": "Breakbeat",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Breakbeat",
-      "target": "Footwork",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Breakbeat",
-      "target": "Broken Beat",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Breakbeat",
-      "target": "Baltimore Club",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Bass_family",
-      "target": "Ghetto House",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Ghetto House",
-      "target": "Ghetto Tech",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Ghetto House",
-      "target": "Booty Bass",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Ghetto House",
-      "target": "Miami Bass",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Disco & Soul_family",
+      "source": "Groove_family",
       "target": "Disco",
       "edge_type": "hierarchical"
     },
@@ -1597,7 +1509,7 @@
       "edge_type": "hierarchical"
     },
     {
-      "source": "Disco & Soul_family",
+      "source": "Groove_family",
       "target": "Nu-Disco",
       "edge_type": "hierarchical"
     },
@@ -1607,38 +1519,128 @@
       "edge_type": "hierarchical"
     },
     {
-      "source": "Disco & Soul_family",
+      "source": "Groove_family",
       "target": "Funk",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Disco & Soul_family",
+      "source": "Groove_family",
       "target": "Soul",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Soul",
-      "target": "R&B",
+      "source": "Bass Culture_family",
+      "target": "Drum and Bass",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Disco & Soul_family",
-      "target": "Hip Hop",
+      "source": "Drum and Bass",
+      "target": "Jungle",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Hip Hop",
-      "target": "Club Rap",
+      "source": "Drum and Bass",
+      "target": "Liquid Funk",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Hip Hop",
-      "target": "Trap",
+      "source": "Drum and Bass",
+      "target": "Techstep",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Hip Hop",
-      "target": "Chopped and Screwed",
+      "source": "Bass Culture_family",
+      "target": "Dubstep",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Dubstep",
+      "target": "Bassline",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Bass Culture_family",
+      "target": "Bass Music",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Bass Music",
+      "target": "Future Bass",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Bass Music",
+      "target": "UK Bass",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Bass Culture_family",
+      "target": "UK Garage",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "UK Garage",
+      "target": "2-step",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "UK Garage",
+      "target": "UK Funky",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "UK Garage",
+      "target": "Jersey Club",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Bass Culture_family",
+      "target": "Grime",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Bass Culture_family",
+      "target": "Breakbeat",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Footwork",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Juke",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Broken Beat",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Baltimore Club",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Bass Culture_family",
+      "target": "Ghetto House",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Ghetto House",
+      "target": "Ghetto Tech",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Ghetto House",
+      "target": "Booty Bass",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Ghetto House",
+      "target": "Miami Bass",
       "edge_type": "hierarchical"
     },
     {
@@ -1688,11 +1690,6 @@
     },
     {
       "source": "Experimental",
-      "target": "Exotica",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Experimental",
       "target": "Percussion",
       "edge_type": "hierarchical"
     },
@@ -1708,21 +1705,81 @@
     },
     {
       "source": "Experimental_family",
-      "target": "Krautrock",
+      "target": "Downtempo",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Krautrock",
-      "target": "Kosmische",
+      "source": "Downtempo",
+      "target": "Trip Hop",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Krautrock",
-      "target": "Psychedelic Rock",
+      "source": "Downtempo",
+      "target": "Lo-Fi",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Global_family",
+      "source": "Experimental_family",
+      "target": "Ambient House",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Industrial_family",
+      "target": "Industrial",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Industrial",
+      "target": "EBM",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Industrial",
+      "target": "Industrial Techno",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Industrial_family",
+      "target": "New Wave",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "New Wave",
+      "target": "Synth Pop",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "New Wave",
+      "target": "Post Punk",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Industrial_family",
+      "target": "Wave",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Wave",
+      "target": "Dark Wave",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Wave",
+      "target": "Cold Wave",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Wave",
+      "target": "Minimal Wave",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Wave",
+      "target": "Minimal Synth",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Global Roots_family",
       "target": "Afrobeats",
       "edge_type": "hierarchical"
     },
@@ -1757,7 +1814,7 @@
       "edge_type": "hierarchical"
     },
     {
-      "source": "Global_family",
+      "source": "Global Roots_family",
       "target": "Latin",
       "edge_type": "hierarchical"
     },
@@ -1787,7 +1844,7 @@
       "edge_type": "hierarchical"
     },
     {
-      "source": "Global_family",
+      "source": "Global Roots_family",
       "target": "Reggae",
       "edge_type": "hierarchical"
     },
@@ -1807,7 +1864,7 @@
       "edge_type": "hierarchical"
     },
     {
-      "source": "Global_family",
+      "source": "Global Roots_family",
       "target": "Tropical",
       "edge_type": "hierarchical"
     },
@@ -1822,8 +1879,13 @@
       "edge_type": "hierarchical"
     },
     {
-      "source": "Global_family",
+      "source": "Global Roots_family",
       "target": "World Music",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "World Music",
+      "target": "World",
       "edge_type": "hierarchical"
     },
     {
@@ -1837,93 +1899,83 @@
       "edge_type": "hierarchical"
     },
     {
-      "source": "Industrial & Wave_family",
-      "target": "Industrial",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Industrial",
-      "target": "EBM",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Industrial & Wave_family",
-      "target": "New Wave",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "New Wave",
-      "target": "Synth Pop",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "New Wave",
-      "target": "Post Punk",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Industrial & Wave_family",
-      "target": "Wave",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Wave",
-      "target": "Dark Wave",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Wave",
-      "target": "Cold Wave",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Wave",
-      "target": "Minimal Wave",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Wave",
-      "target": "Minimal Synth",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Downtempo_family",
-      "target": "Downtempo",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Downtempo",
-      "target": "Trip Hop",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Downtempo",
-      "target": "Lo-Fi",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Downtempo_family",
-      "target": "Spoken Word",
-      "edge_type": "hierarchical"
-    },
-    {
-      "source": "Downtempo_family",
+      "source": "Global Roots_family",
       "target": "Jazz",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Downtempo_family",
+      "source": "Global Roots_family",
+      "target": "R&B",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Global Roots_family",
+      "target": "Tribal",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Global Roots_family",
+      "target": "Krautrock",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Krautrock",
+      "target": "Kosmische",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Krautrock",
+      "target": "Psychedelic Rock",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Global Roots_family",
       "target": "Classical",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Downtempo_family",
+      "source": "Global Roots_family",
       "target": "Pop",
       "edge_type": "hierarchical"
     },
     {
-      "source": "Downtempo_family",
+      "source": "Global Roots_family",
+      "target": "Exotica",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Global Roots_family",
+      "target": "Spoken Word",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Global Roots_family",
       "target": "Ballroom",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Hip Hop_family",
+      "target": "Hip Hop",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Hip Hop",
+      "target": "Club Rap",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Hip Hop",
+      "target": "Trap",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Hip Hop",
+      "target": "Drill",
+      "edge_type": "hierarchical"
+    },
+    {
+      "source": "Hip Hop",
+      "target": "Chopped and Screwed",
       "edge_type": "hierarchical"
     },
     {

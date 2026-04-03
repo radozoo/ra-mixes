@@ -168,6 +168,14 @@ def check_gaps(mixes, hierarchy):
 
 
 def build_html(mixes, graph):
+    # Recalculate node counts from actual mixes data
+    genre_counts = {}
+    for m in mixes:
+        for g in m.get("genres", []):
+            genre_counts[g] = genre_counts.get(g, 0) + 1
+    for node in graph["nodes"]:
+        node["count"] = genre_counts.get(node["id"], 0)
+
     nodes_json = json.dumps(graph["nodes"], ensure_ascii=False)
     # Map musicology 'strength' (1-5) to 'weight' for JS compatibility
     edges_for_js = []
@@ -407,7 +415,8 @@ body::after {{
   background: var(--glass);
   backdrop-filter: blur(16px);
   border-radius: 24px;
-  border: 1px solid var(--glass-border);
+  border: 1px solid rgba(212,29,74,0.45);
+  box-shadow: 0 0 12px 2px rgba(212,29,74,0.18), 0 0 32px 4px rgba(6,182,212,0.10);
   padding: 4px;
 }}
 .center-tab {{
@@ -757,7 +766,7 @@ body::after {{
 
 /* ── Tooltip ────────────────────────────────────────────────── */
 .tooltip {{
-  position: absolute;
+  position: fixed;
   pointer-events: none;
   background: var(--glass);
   backdrop-filter: blur(20px);
@@ -1573,6 +1582,7 @@ function applyLabelFilters() {{
   }}
 
   const filtered = getFilteredMixes();
+  detailHistory = [{{ type: 'filters' }}];
 
   // Show filtered mixes in right detail panel (like genre detail)
   detailPanel.classList.remove('collapsed');
@@ -1614,6 +1624,7 @@ function clearAllFilters() {{
 }}
 
 function showLabelMixes(cat, label) {{
+  detailHistory = [{{ type: 'label', cat: cat, label: label }}];
   // Find all mixes with this label in this category
   const matches = MIXES.filter(m => {{
     const cats = m.label_categories || {{}};
@@ -1667,6 +1678,7 @@ let directGenres = new Set();
 let highlightedEdges = new Set();
 let activeFilter = 'all';
 let selectedMixId = null;
+let detailHistory = [];  // navigation stack for detail panel
 
 function selectEpisode(mix) {{
   // Toggle: if already selected, clear
@@ -1703,6 +1715,9 @@ function selectEpisode(mix) {{
 }}
 
 function showEpisodeDetail(mix) {{
+  if (detailHistory.length > 0) {{
+    detailHistory.push({{ type: 'episode', id: mix.id }});
+  }}
   detailPanel.classList.remove('collapsed');
 
   const dur = mix.duration || '';
@@ -1756,10 +1771,11 @@ function showEpisodeDetail(mix) {{
     tracklistHtml = '<div class="no-tracklist">No tracklist available</div>';
   }}
 
+  const hasHistory = detailHistory.length > 1;
   detailContent.innerHTML = `
     ${{mix.imageUrl ? `<div class="detail-cover"><img src="${{mix.imageUrl}}" alt="${{mix.artist}}"></div>` : ''}}
     <div style="position:relative">
-      <button class="detail-close" onclick="clearSelection()">Close</button>
+      <button class="detail-close" onclick="${{hasHistory ? 'goBack()' : 'clearSelection()'}}">${{hasHistory ? '\u2190 Back' : 'Close'}}</button>
       <div class="detail-header">
         <div class="ep-title">RA.${{mix.mix_number.padStart(3,'0')}}</div>
         <div class="ep-artist">${{mix.artist}}</div>
@@ -1785,13 +1801,15 @@ function showEpisodeDetail(mix) {{
   setTimeout(resizeGraph, 250);
 }}
 
-function showGenreDetail(nodeId) {{
+function showGenreDetail(nodeId, pushHistory = true) {{
+  if (pushHistory) detailHistory = [{{ type: 'genre', id: nodeId }}];
   detailPanel.classList.remove('collapsed');
 
   const n = nodeMap.get(nodeId);
   const count = n ? (n.count || 0) : 0;
   const family = n ? n.family : '';
   const color = n ? n.color : '#666';
+  const desc = n && n.description ? n.description : '';
 
   // Find episodes with this genre
   const eps = MIXES.filter(m => m.genres.includes(nodeId));
@@ -1812,6 +1830,7 @@ function showGenreDetail(nodeId) {{
           <div class="meta-item"><span class="meta-val">${{count}} episodes</span></div>
         </div>
       </div>
+      ${{desc ? `<div class="detail-blurb">${{desc}}</div>` : ''}}
     </div>
     <div class="tracklist-section">
       <div class="tracklist-header">Episodes (${{eps.length}})</div>
@@ -1844,8 +1863,25 @@ function selectGenreNode(nodeId) {{
   updateVisuals();
 }}
 
+function goBack() {{
+  detailHistory.pop();  // remove current
+  const prev = detailHistory[detailHistory.length - 1];
+  if (!prev) {{ clearSelection(); return; }}
+  selectedMixId = null;
+  if (prev.type === 'genre') {{
+    showGenreDetail(prev.id, false);
+  }} else if (prev.type === 'label') {{
+    showLabelMixes(prev.cat, prev.label);
+  }} else if (prev.type === 'filters') {{
+    applyLabelFilters();
+  }} else {{
+    clearSelection();
+  }}
+}}
+
 function clearSelection() {{
   selectedMixId = null;
+  detailHistory = [];
   highlightedNodes = new Set();
   directGenres = new Set();
   highlightedEdges = new Set();
@@ -2062,6 +2098,19 @@ nodeGroups.append('text').attr('class', 'node-label')
 
 // Tooltip
 const tooltip = document.getElementById('tooltip');
+function positionTooltip(event) {{
+  const tt = tooltip.getBoundingClientRect();
+  const vw = window.innerWidth;
+  const vh = window.innerHeight;
+  let x = event.clientX + 12;
+  let y = event.clientY - 10;
+  if (x + tt.width > vw - 8) x = event.clientX - tt.width - 12;
+  if (x < 8) x = 8;
+  if (y + tt.height > vh - 8) y = event.clientY - tt.height - 10;
+  if (y < 8) y = 8;
+  tooltip.style.left = x + 'px';
+  tooltip.style.top = y + 'px';
+}}
 nodeGroups.on('mouseover', function(event, d) {{
   d3.select(this).select('.node-label').attr('opacity', 1);
   d3.select(this).select('.node-glow').attr('opacity', 0.4);
@@ -2081,12 +2130,13 @@ nodeGroups.on('mouseover', function(event, d) {{
       }});
     if (top.length) conns = ' → ' + top.join(', ');
   }}
-  tooltip.style.display = 'block';
   tooltip.textContent = `${{d.id}} — ${{d.count}} mixes${{conns}}`;
+  tooltip.style.display = 'block';
+  const ev = event;
+  requestAnimationFrame(() => positionTooltip(ev));
 }})
 .on('mousemove', function(event) {{
-  tooltip.style.left = (event.clientX + 12) + 'px';
-  tooltip.style.top = (event.clientY - 10) + 'px';
+  positionTooltip(event);
 }})
 .on('mouseout', function(event, d) {{
   if (!highlightedNodes.has(d.id) && d.count < 10) {{
@@ -2261,6 +2311,8 @@ def main():
     with open(DATA_DIR / "genre_musicology.json") as f:
         graph = json.load(f)
     print(f"  {len(graph['nodes'])} nodes, {len(graph['edges'])} edges")
+
+    check_gaps(mixes, graph)
 
     print("Building HTML...")
     html = build_html(mixes, graph)
