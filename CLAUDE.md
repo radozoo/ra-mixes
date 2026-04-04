@@ -59,6 +59,16 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
   - Detail panel chips order: genres → LLM labels → RA Tags
   - Genre chip tooltips — hover → glassmorphism tooltip s popisom žánru + family label
 
+### Mobile Optimizations (2026-04-04)
+- **Bottom tab bar**: 3-tab navigation (Mixes | Genre Map | Explore) — mobile-only, hidden on desktop
+- **Mixes tab**: Kompaktný list view (RA.1032 · Artist · Date), in-tab detail view s Back tlačidlom
+- **Detail panel**: Bottom sheet pattern — default 50vh, expandable na 90vh on swipe
+- **Touch targets**: Minimum 44px (iOS HIG), 8px 14px padding na chips, buttons
+- **D3 graph mobile**: Dekoratívny element (opacity 0.4, pointer-events: none), search box skrytý
+- **Interactive states**: `:hover` → `:active` + `:focus-visible` na všetkých tapovateľných elementoch
+- **Safe area support**: `env(safe-area-inset-top/bottom)` na header + tab bar pre notch devices
+- **Tap count**: Discover & play mix → 3 tapy (Mixes → select → Listen)
+
 ## Skills
 
 - **frontend-design**: See [skills/frontend-design-skill.md](skills/frontend-design-skill.md) — use when building or modifying web UI components.
