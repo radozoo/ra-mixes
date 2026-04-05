@@ -1285,6 +1285,264 @@ body::after {{
 .sidebar-player.sc iframe {{ height: 125px; }}
 .sidebar-player.mc iframe {{ height: 120px; }}
 .sidebar-player:empty {{ display: none; }}
+
+/* ══════════════════════════════════════════════════════════════════
+   MOBILE — max-width 768px
+   ══════════════════════════════════════════════════════════════════ */
+@media (max-width: 768px) {{
+  /* Hide desktop-only elements */
+  .sidebar {{ display: none; }}
+  .center-tabs {{ display: none; }}
+
+  .container {{
+    flex-direction: column;
+    height: calc(100vh - 56px);
+    height: calc(100dvh - 56px);
+    padding-bottom: 56px; /* space for fixed tab bar */
+    padding-bottom: calc(56px + max(0px, env(safe-area-inset-bottom)));
+  }}
+
+  .center-panel {{
+    width: 100%;
+    flex: 1;
+    min-height: 0; /* allow flex shrink */
+  }}
+
+  /* ── Graph area — full available space ──────────────────────── */
+  #graphArea {{
+    opacity: 1.0;
+  }}
+  #graph {{
+    pointer-events: auto;
+  }}
+
+  /* Hide tooltip on mobile */
+  #tooltip {{
+    display: none !important;
+  }}
+
+  /* Node tap feedback */
+  #graph circle:active {{
+    filter: brightness(1.3) drop-shadow(0 0 8px rgba(255, 255, 255, 0.5));
+  }}
+
+  /* ── Graph search — repositioned for mobile ────────────────── */
+  .graph-search {{
+    bottom: auto;
+    top: 12px;
+    right: 12px;
+    left: 12px;
+    width: auto;
+    z-index: 20;
+  }}
+  .graph-search.hidden-by-panel {{
+    opacity: 0;
+    pointer-events: none;
+  }}
+
+  /* ── Detail panel → bottom sheet ───────────────────────────── */
+  .detail-panel {{
+    position: fixed;
+    bottom: 56px;
+    left: 0;
+    right: 0;
+    width: 100% !important;
+    min-width: 0 !important;
+    height: 50vh;
+    border-left: none;
+    border-top: 1px solid rgba(255, 45, 120, 0.3);
+    border-radius: 20px 20px 0 0;
+    transform: translateY(100%);
+    transition: transform 0.35s var(--ease);
+    z-index: 200;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }}
+  .detail-panel.expanded {{
+    height: 90vh;
+  }}
+  #detailContent {{
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex: 1;
+  }}
+  .detail-panel.collapsed {{
+    transform: translateY(100%);
+    width: 100% !important;
+  }}
+  .detail-panel:not(.collapsed) {{
+    transform: translateY(0);
+  }}
+
+  /* Drag handle */
+  .sheet-handle {{
+    width: 36px;
+    height: 4px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 2px;
+    margin: 12px auto 8px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }}
+
+  /* ── Mobile bottom tab bar ─────────────────────────────────── */
+  .mobile-tab-bar {{
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 56px;
+    padding-bottom: max(0px, env(safe-area-inset-bottom));
+    background: rgba(8, 10, 24, 0.95);
+    backdrop-filter: blur(20px);
+    border-top: 1px solid rgba(212, 29, 74, 0.3);
+    z-index: 300;
+  }}
+  .mobile-tab {{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    color: rgba(255, 255, 255, 0.4);
+    font-family: var(--font-display);
+    font-size: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: color 0.2s;
+    padding: 0;
+  }}
+  .mobile-tab.active {{
+    color: var(--neon-pink);
+  }}
+  .mobile-tab svg {{
+    width: 20px;
+    height: 20px;
+    stroke: currentColor;
+    fill: none;
+    stroke-width: 1.5;
+  }}
+
+  /* Header — safe area + hide stats */
+  .header {{
+    padding: max(0px, env(safe-area-inset-top)) 16px 0 16px;
+  }}
+  .header .stat {{
+    display: none;
+  }}
+
+  /* ── Explore — single column ───────────────────────────────── */
+  .label-masonry {{
+    flex-direction: column;
+  }}
+
+  /* ── Mixes Tab ─────────────────────────────────────────────── */
+  #mixesArea {{
+    display: none;
+    flex: 1;
+    flex-direction: column;
+    overflow: hidden;
+  }}
+  #mixesArea.active-view {{
+    display: flex;
+  }}
+  #mixesList {{
+    flex: 1;
+    overflow-y: auto;
+    padding: 8px 0;
+  }}
+  .mix-row {{
+    display: flex;
+    align-items: center;
+    padding: 12px 18px;
+    cursor: pointer;
+    border-bottom: 1px solid var(--glass-border);
+    transition: background 0.15s;
+    gap: 0;
+  }}
+  .mix-row:active {{
+    background: rgba(255, 45, 120, 0.08);
+  }}
+  .mix-row-num {{
+    font-family: var(--font-data);
+    font-size: 10px;
+    color: var(--neon-pink);
+    min-width: 56px;
+    flex-shrink: 0;
+  }}
+  .mix-row-artist {{
+    flex: 1;
+    font-size: 13px;
+    color: var(--text-bright);
+    font-weight: 400;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-right: 8px;
+  }}
+  .mix-row-date {{
+    font-family: var(--font-data);
+    font-size: 10px;
+    color: var(--text-dim);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }}
+  #mixesDetail {{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }}
+  .mixes-detail-header {{
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--glass-border);
+    background: var(--glass);
+    backdrop-filter: blur(16px);
+    flex-shrink: 0;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+  }}
+  .mixes-back-btn {{
+    background: none;
+    border: none;
+    color: var(--neon-pink);
+    font-family: var(--font-display);
+    font-size: 13px;
+    cursor: pointer;
+    padding: 4px 0;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    letter-spacing: 0.5px;
+  }}
+  .mixes-detail-content {{
+    flex: 1;
+    overflow: visible;
+  }}
+}}
+
+/* Desktop: hide mobile elements */
+@media (min-width: 769px) {{
+  .mobile-tab-bar {{
+    display: none;
+  }}
+  .sheet-handle {{
+    display: none;
+  }}
+  #mixesArea {{
+    display: none !important;
+  }}
+}}
 </style>
 </head>
 <body>
@@ -1332,15 +1590,49 @@ body::after {{
       <div class="genre-filter-section" id="genreFilterSection"></div>
       <div class="label-masonry" id="labelMasonry"></div>
     </div>
+    <div id="mixesArea">
+      <div id="mixesList"></div>
+      <div id="mixesDetail" style="display:none"></div>
+    </div>
   </div>
 
   <!-- Right: episode detail -->
   <div class="detail-panel collapsed" id="detailPanel">
+    <div class="sheet-handle"></div>
     <div id="detailContent">
       <div class="detail-placeholder">Select an episode to see details</div>
     </div>
   </div>
 </div>
+
+<!-- Mobile bottom tab bar -->
+<nav class="mobile-tab-bar" id="mobileTabBar">
+  <button class="mobile-tab" data-view="mixes">
+    <svg viewBox="0 0 24 24">
+      <line x1="4" y1="6" x2="20" y2="6"/>
+      <line x1="4" y1="12" x2="20" y2="12"/>
+      <line x1="4" y1="18" x2="20" y2="18"/>
+    </svg>
+    <span>Mixes</span>
+  </button>
+  <button class="mobile-tab active" data-view="graph">
+    <svg viewBox="0 0 24 24">
+      <circle cx="6" cy="6" r="1.5"/><circle cx="18" cy="6" r="1.5"/><circle cx="12" cy="12" r="1.5"/>
+      <circle cx="6" cy="18" r="1.5"/><circle cx="18" cy="18" r="1.5"/>
+      <line x1="6" y1="6" x2="12" y2="12"/><line x1="18" y1="6" x2="12" y2="12"/>
+      <line x1="6" y1="18" x2="12" y2="12"/><line x1="18" y1="18" x2="12" y2="12"/>
+    </svg>
+    <span>Genre Map</span>
+  </button>
+  <button class="mobile-tab" data-view="labels">
+    <svg viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="9"/>
+      <circle cx="12" cy="12" r="5"/>
+      <circle cx="12" cy="12" r="1"/>
+    </svg>
+    <span>Explore</span>
+  </button>
+</nav>
 
 <script>
 // ── Embedded Data ───────────────────────────────────────────────────────────
@@ -1799,6 +2091,7 @@ function applyLabelFilters() {{
 
   // Show filtered mixes in right detail panel (like genre detail)
   detailPanel.classList.remove('collapsed');
+  document.getElementById('graphSearch')?.classList.add('hidden-by-panel');
 
   const filterDesc = activeFilters.map(f => f.label).join(' + ');
   const epList = filtered.slice(0, 50).map(m =>
@@ -1845,6 +2138,7 @@ function showLabelMixes(cat, label) {{
   }});
 
   detailPanel.classList.remove('collapsed');
+  document.getElementById('graphSearch')?.classList.add('hidden-by-panel');
 
   const epList = matches.slice(0, 50).map(m =>
     `<div class="track-item" style="cursor:pointer" onclick="selectEpisode(mixMap.get('${{m.id}}'))">` +
@@ -1872,17 +2166,26 @@ function showLabelMixes(cat, label) {{
   detailPanel.scrollTop = 0;
 }}
 
-// Tab switching
+// Tab switching (unified for desktop + mobile)
+function switchTab(view) {{
+  document.querySelectorAll('.center-tab').forEach(t => t.classList.toggle('active', t.dataset.view === view));
+  document.querySelectorAll('.mobile-tab').forEach(t => t.classList.toggle('active', t.dataset.view === view));
+  document.getElementById('graphArea').style.display = view === 'graph' ? '' : 'none';
+  document.getElementById('labelFilterArea').style.display = view === 'labels' ? '' : 'none';
+  const mixesArea = document.getElementById('mixesArea');
+  if (mixesArea) mixesArea.classList.toggle('active-view', view === 'mixes');
+  if (view === 'labels') renderFilterPanel();
+  if (view === 'graph') setTimeout(resizeGraph, 100);
+  if (view === 'mixes') renderMixesList();
+}}
+
 document.querySelectorAll('.center-tab').forEach(tab => {{
-  tab.addEventListener('click', () => {{
-    document.querySelectorAll('.center-tab').forEach(t => t.classList.remove('active'));
-    tab.classList.add('active');
-    const view = tab.dataset.view;
-    document.getElementById('graphArea').style.display = view === 'graph' ? '' : 'none';
-    document.getElementById('labelFilterArea').style.display = view === 'labels' ? '' : 'none';
-    if (view === 'labels') renderFilterPanel();
-    if (view === 'graph') setTimeout(resizeGraph, 100);
-  }});
+  tab.addEventListener('click', () => switchTab(tab.dataset.view));
+}});
+
+// Mobile tab bar switching
+document.querySelectorAll('.mobile-tab').forEach(tab => {{
+  tab.addEventListener('click', () => switchTab(tab.dataset.view));
 }});
 
 // ── Selection State ─────────────────────────────────────────────────────────
@@ -1932,6 +2235,7 @@ function showEpisodeDetail(mix) {{
     detailHistory.push({{ type: 'episode', id: mix.id }});
   }}
   detailPanel.classList.remove('collapsed');
+  document.getElementById('graphSearch')?.classList.add('hidden-by-panel');
 
   const dur = mix.duration || '';
   const chips = mix.genres.map(g => {{
@@ -2017,6 +2321,7 @@ function showEpisodeDetail(mix) {{
 function showGenreDetail(nodeId, pushHistory = true) {{
   if (pushHistory) detailHistory = [{{ type: 'genre', id: nodeId }}];
   detailPanel.classList.remove('collapsed');
+  document.getElementById('graphSearch')?.classList.add('hidden-by-panel');
 
   const n = nodeMap.get(nodeId);
   const count = n ? (n.count || 0) : 0;
@@ -2100,6 +2405,7 @@ function clearSelection() {{
   highlightedEdges = new Set();
   renderEpisodeList(searchInput.value);
   detailPanel.classList.add('collapsed');
+  document.getElementById('graphSearch')?.classList.remove('hidden-by-panel');
   detailContent.innerHTML = '<div class="detail-placeholder">Select an episode to see details</div>';
   setTimeout(resizeGraph, 250);
   updateVisuals();
@@ -2127,13 +2433,11 @@ function resetApp() {{
 
   // Collapse detail panel
   detailPanel.classList.add('collapsed');
+  document.getElementById('graphSearch')?.classList.remove('hidden-by-panel');
   detailContent.innerHTML = '<div class="detail-placeholder">Select an episode to see details</div>';
 
   // Switch to Network Graph tab
-  document.querySelectorAll('.center-tab').forEach(t => t.classList.remove('active'));
-  document.querySelector('.center-tab[data-view="graph"]').classList.add('active');
-  document.getElementById('graphArea').style.display = '';
-  document.getElementById('labelFilterArea').style.display = 'none';
+  switchTab('graph');
 
   setTimeout(resizeGraph, 250);
 }}
@@ -2272,10 +2576,17 @@ const nodeGroups = nodeG.selectAll('g')
   .join('g')
   .attr('cursor', 'pointer')
   .call(d3.drag()
+    .filter(event => event.pointerType === 'mouse')
     .on('start', (event, d) => {{ if (!event.active) simulation.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; }})
     .on('drag', (event, d) => {{ d.fx = event.x; d.fy = event.y; }})
     .on('end', (event, d) => {{ if (!event.active) simulation.alphaTarget(0); d.fx = null; d.fy = null; }})
   );
+
+// Invisible touch hit area — ensures min 22px radius (44px target) on mobile
+nodeGroups.append('circle').attr('class', 'node-hit')
+  .attr('r', d => Math.max(22, nodeRadius(d.count) + 6))
+  .attr('fill', 'transparent')
+  .attr('stroke', 'none');
 
 // Glow circle — intensity scales with node importance
 nodeGroups.append('circle').attr('class', 'node-glow')
@@ -2366,7 +2677,19 @@ nodeGroups.on('mouseover', function(event, d) {{
   selectGenreNode(d.id);
 }});
 
-svg.on('click', () => clearSelection());
+// Clear selection on background click — but NOT after pan/drag
+let svgPointerDown = null;
+svg.on('pointerdown', (event) => {{
+  svgPointerDown = {{ x: event.clientX, y: event.clientY }};
+}});
+svg.on('click', (event) => {{
+  if (svgPointerDown) {{
+    const dx = Math.abs(event.clientX - svgPointerDown.x);
+    const dy = Math.abs(event.clientY - svgPointerDown.y);
+    if (dx > 5 || dy > 5) return; // was a drag, not a tap
+  }}
+  clearSelection();
+}});
 
 // ── Graph Search ──────────────────────────────────────────────
 (function() {{
@@ -2527,13 +2850,24 @@ function updateSemanticZoom() {{
   if (highlightedNodes.size > 0) return;
 
   const k = currentZoomK;
+  const isMobile = window.innerWidth <= 768;
 
-  // Labels: threshold drops as you zoom in
-  const countThreshold = k < 0.5 ? 999
-    : k < 0.8 ? 50
-    : k < 1.2 ? 10
-    : k < 2 ? 3
-    : 0;
+  // Labels: threshold drops as you zoom in (mobile-aware thresholds)
+  let countThreshold;
+  if (isMobile) {{
+    countThreshold = k < 0.3 ? 999
+      : k < 0.5 ? 100
+      : k < 0.8 ? 30
+      : k < 1.2 ? 8
+      : k < 2 ? 3
+      : 0;
+  }} else {{
+    countThreshold = k < 0.5 ? 999
+      : k < 0.8 ? 50
+      : k < 1.2 ? 10
+      : k < 2 ? 3
+      : 0;
+  }}
 
   nodeGroups.each(function(d) {{
     const show = d.count >= countThreshold;
@@ -2607,10 +2941,182 @@ document.addEventListener('keydown', (e) => {{
   }}
 }});
 
-// Initial zoom
-setTimeout(() => {{
-  svg.call(zoom.transform, d3.zoomIdentity.translate(width * 0.05, height * 0.05).scale(0.9));
-}}, 2000);
+
+// ── Mobile: Mixes Tab ──────────────────────────────────────────────────────
+function formatMixDate(dateStr) {{
+  const d = new Date(dateStr);
+  return d.toLocaleDateString('en-GB', {{ day: 'numeric', month: 'short' }});
+}}
+
+function renderMixesList() {{
+  const list = document.getElementById('mixesList');
+  const detail = document.getElementById('mixesDetail');
+  if (!list) return;
+  if (detail) detail.style.display = 'none';
+  list.style.display = '';
+
+  const sorted = [...MIXES].sort((a, b) => {{
+    if (!a.date) return 1;
+    if (!b.date) return -1;
+    return b.date.localeCompare(a.date);
+  }});
+
+  list.innerHTML = sorted.map(m => {{
+    const num = `RA.${{m.mix_number.padStart(3, '0')}}`;
+    const date = m.date ? formatMixDate(m.date) : '';
+    return `<div class="mix-row" data-id="${{m.id}}">
+      <span class="mix-row-num">${{num}}</span>
+      <span class="mix-row-artist">${{m.artist}}</span>
+      <span class="mix-row-date">${{date}}</span>
+    </div>`;
+  }}).join('');
+
+  list.querySelectorAll('.mix-row').forEach(row => {{
+    row.addEventListener('click', () => {{
+      const mix = mixMap.get(row.dataset.id);
+      if (mix) showMixesDetail(mix);
+    }});
+  }});
+}}
+
+function showMixesDetail(mix) {{
+  const mixesList = document.getElementById('mixesList');
+  let mixesDetail = document.getElementById('mixesDetail');
+  const mixesArea = document.getElementById('mixesArea');
+  if (!mixesList || !mixesDetail || !mixesArea) return;
+
+  mixesList.style.display = 'none';
+
+  // Reset scroll on parent container
+  mixesDetail.scrollTop = 0;
+
+  // Create detail header + content
+  const newHTML = `
+    <div class="mixes-detail-header">
+      <button class="mixes-back-btn" onclick="backToMixesList()">\u2190 Back</button>
+    </div>
+    <div class="mixes-detail-content"></div>
+  `;
+
+  mixesDetail.innerHTML = newHTML;
+
+  // Get the content div
+  const container = mixesDetail.querySelector('.mixes-detail-content');
+
+  // Reset scroll again
+  mixesDetail.scrollTop = 0;
+  // Build the same detail content as showEpisodeDetail
+  const dur = mix.duration || '';
+  const chips = mix.genres.map(g => {{
+    const node = nodeMap.get(g);
+    const color = node ? node.color : '#666';
+    return `<span class="genre-chip" style="background:${{color}}" onclick="selectGenreNode('${{g}}')">${{g}}</span>`;
+  }}).join('');
+
+  const kwHtml = mix.keywords ? mix.keywords.split(',').map(k => k.trim()).filter(Boolean)
+    .map(k => `<span class="kw-chip">${{k}}</span>`).join('') : '';
+
+  let labelsHtml = '';
+  if (mix.label_categories && Object.keys(mix.label_categories).length > 0) {{
+    const lchips = [];
+    CAT_ORDER.forEach(cat => {{
+      const items = mix.label_categories[cat];
+      if (items && items.length) {{
+        items.forEach(l => lchips.push(`<span class="label-chip" data-cat="${{cat}}" style="cursor:pointer" onclick="showLabelMixes('${{cat}}','${{l.replace(/'/g, "\\\\'")}}' )">${{l}}</span>`));
+      }}
+    }});
+    labelsHtml = lchips.join('');
+  }}
+
+  const links = [];
+  if (mix.streamingUrl) links.push(`<a href="${{mix.streamingUrl}}" target="_blank" rel="noopener" class="detail-link">Listen</a>`);
+  if (mix.url) links.push(`<a href="${{mix.url}}" target="_blank" rel="noopener noreferrer" class="detail-link">RA page</a>`);
+  if (mix.artist_id) links.push(`<a href="https://ra.co/dj/${{mix.artist_id}}" target="_blank" rel="noopener noreferrer" class="detail-link">Artist</a>`);
+  const linksHtml = links.length ? `<div class="detail-links">${{links.join('')}}</div>` : '';
+
+  let tracklistHtml = '';
+  if (mix.tracks && mix.tracks.length > 0) {{
+    const tracks = mix.tracks.map((t, i) => {{
+      const num = `<span class="track-num">${{i + 1}}</span>`;
+      const artist = t.artist ? `<span class="track-artist">${{t.artist}}</span> ` : '';
+      const title = t.title ? `<span class="track-title">${{artist ? '- ' : ''}}${{t.title}}</span>` : '';
+      const label = t.label ? ` <span class="track-label">[${{t.label}}]</span>` : '';
+      return `<div class="track-item">${{num}}${{artist}}${{title}}${{label}}</div>`;
+    }}).join('');
+    tracklistHtml = `<div class="tracklist-header">Tracklist (${{mix.tracks.length}})</div>${{tracks}}`;
+  }} else {{
+    tracklistHtml = '<div class="no-tracklist">No tracklist available</div>';
+  }}
+
+  container.innerHTML = `
+    ${{mix.imageUrl ? `<div class="detail-cover"><img src="${{mix.imageUrl}}" alt="${{mix.artist}}"></div>` : ''}}
+    <div class="detail-header" style="padding: 16px">
+      <div class="ep-title">RA.${{mix.mix_number.padStart(3,'0')}}</div>
+      <div class="ep-artist">${{mix.artist}}</div>
+      <div class="detail-meta">
+        ${{mix.date ? `<div class="meta-item"><span class="meta-val">${{mix.date}}</span></div>` : ''}}
+        ${{dur ? `<div class="meta-item"><span class="meta-val">${{dur}}</span></div>` : ''}}
+        <div class="meta-item"><span class="meta-val">${{mix.tracks ? mix.tracks.length : 0}} tracks</span></div>
+      </div>
+      ${{linksHtml}}
+      <div class="genre-chips">${{chips}}</div>
+      ${{labelsHtml ? `<div class="label-chips">${{labelsHtml}}</div>` : ''}}
+      ${{kwHtml ? `<div class="kw-chips">${{kwHtml}}</div>` : ''}}
+    </div>
+    ${{mix.blurb ? `<div class="detail-blurb">${{mix.blurb}}</div>` : ''}}
+    ${{mix.article ? `<div class="detail-section-header">About</div><div class="detail-article">${{mix.article}}</div>` : ''}}
+    ${{mix.qa ? `<div class="detail-section-header">Q&A</div><div class="detail-article detail-qa">${{mix.qa}}</div>` : ''}}
+    ${{tracklistHtml}}
+  `;
+
+}}
+
+function backToMixesList() {{
+  const mixesList = document.getElementById('mixesList');
+  const mixesDetail = document.getElementById('mixesDetail');
+  if (mixesList) mixesList.style.display = '';
+  if (mixesDetail) mixesDetail.style.display = 'none';
+}}
+
+// ── Mobile: Sheet handle swipe to expand/collapse ──────────────────────────
+(function() {{
+  const handle = detailPanel.querySelector('.sheet-handle');
+  if (!handle) return;
+  let startY = 0;
+  handle.addEventListener('touchstart', (e) => {{
+    startY = e.touches[0].clientY;
+  }});
+  handle.addEventListener('touchmove', (e) => {{
+    e.preventDefault();
+  }});
+  handle.addEventListener('touchend', (e) => {{
+    const endY = e.changedTouches[0].clientY;
+    const dy = startY - endY;
+    if (dy > 40) {{
+      // Swipe up → expand
+      detailPanel.classList.add('expanded');
+    }} else if (dy < -40) {{
+      // Swipe down → collapse or close
+      if (detailPanel.classList.contains('expanded')) {{
+        detailPanel.classList.remove('expanded');
+      }} else {{
+        clearSelection();
+      }}
+    }}
+  }});
+}})();
+
+// ── Mobile: open streaming URL directly instead of embed ───────────────────
+(function() {{
+  const origPlayMix = playMix;
+  playMix = function(mix) {{
+    if (window.innerWidth <= 768) {{
+      if (mix.streamingUrl) window.open(mix.streamingUrl, '_blank');
+      return;
+    }}
+    origPlayMix(mix);
+  }};
+}})();
 </script>
 </body>
 </html>"""
