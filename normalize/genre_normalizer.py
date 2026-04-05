@@ -4,8 +4,9 @@ genre_normalizer.py — filtruje a normalizuje genre_edges.jsonl.
 Stratégia (bez LLM, čistý filter):
 1. Načítaj genre_edges.jsonl
 2. Ponechaj iba riadky kde genre_canonical je v GENRE_VOCAB (reálny žáner)
-3. Odstrán "Club Music" (príliš generické — matchuje každé "club" v texte)
-4. Zapíše genre_edges_clean.jsonl + genre_map.json (report mapovania)
+3. Odstrán blacklistované žánre (príliš generické)
+4. Pre LLM-sourced žánre: povolí aj discovered genres s closest_known mapovaním
+5. Zapíše genre_edges_clean.jsonl + genre_map.json (report mapovania)
 
 Výstup:
   data/genre_edges_clean.jsonl  — čisté hrany pre D3
@@ -35,14 +36,43 @@ MERGE: dict[str, str] = {
 }
 
 
+def load_musicology_nodes():
+    """Load genre node IDs from musicology graph."""
+    path = DATA_DIR / "genre_musicology.json"
+    if not path.exists():
+        return set()
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    return {n["id"] for n in data["nodes"]}
+
+
+def load_discovered_genres():
+    """Load discovered genres and build mapping to closest_known.
+    Skip genres that already exist as musicology nodes — they don't need remapping."""
+    path = DATA_DIR / "discovered_genres.json"
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    musicology_nodes = load_musicology_nodes()
+    mapping = {}
+    for name, meta in data.items():
+        if name in musicology_nodes:
+            continue  # genre is a proper node now, don't remap
+        closest = meta.get("closest_known", "")
+        if closest:
+            mapping[name] = closest
+    return mapping
+
+
 def normalize(input_path: Path = DATA_DIR / "genre_edges.jsonl",
               output_path: Path = DATA_DIR / "genre_edges_clean.jsonl") -> dict:
     """
     Filtruje a normalizuje genre_edges. Vracia report.
     """
     valid_genres = set(GENRE_VOCAB.keys()) - BLACKLIST
-    # Po blackliste aplikuj merge
-    merge_map = MERGE
+    discovered_map = load_discovered_genres()
+    merge_map = {**MERGE, **discovered_map}
 
     rows_in = 0
     rows_out = 0
@@ -76,11 +106,19 @@ def normalize(input_path: Path = DATA_DIR / "genre_edges.jsonl",
                 skipped_not_genre += 1
                 continue
 
-            # Merge: nahraď canonical podľa merge_map
+            # Merge: nahraď canonical podľa merge_map (includes discovered genres)
             if canonical in merge_map:
-                obj["genre_canonical"] = merge_map[canonical]
+                mapped = merge_map[canonical]
+                # closest_known môže byť comma-separated → rozdeliť na viac edges
+                targets = [t.strip() for t in mapped.split(",")]
                 obj["genre_raw"] = obj.get("genre_raw", canonical)
                 merged += 1
+                for target in targets:
+                    row = {**obj, "genre_canonical": target}
+                    genre_counts[target] = genre_counts.get(target, 0) + 1
+                    fout.write(json.dumps(row, ensure_ascii=False) + "\n")
+                    rows_out += 1
+                continue
 
             final = obj["genre_canonical"]
             genre_counts[final] = genre_counts.get(final, 0) + 1

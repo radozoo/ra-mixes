@@ -1,0 +1,2797 @@
+{
+  "Budots": {
+    "description": "A Filipino dance music genre originating in Davao City in the early 2000s, characterized by bouncy rhythms, clipped vocal samples, pitched-up synth hooks, and tightly looped beats. Developed outside formal club infrastructure using basic FL Studio setups, designed to accompany street dancing and neighborhood sound systems.",
+    "closest_known": "Footwork, Dancehall, Ghetto House",
+    "family": "Bass Culture",
+    "episodes": [
+      "1037"
+    ],
+    "status": "review"
+  },
+  "Deconstructed Club": {
+    "description": "Post-2010s experimental electronic style that fragments and reassembles club music tropes — distorted kicks, chopped vocals, shattered rhythms — into disorienting, often abrasive compositions. Associated with labels like PAN, Janus, and NON Worldwide.",
+    "closest_known": "IDM, Glitch, Footwork",
+    "family": "Experimental",
+    "episodes": [
+      "900",
+      "719"
+    ],
+    "status": "review"
+  },
+  "Electro-Rock": {
+    "description": "Hybrid of electronic production and rock instrumentation, featuring distorted guitars over sequenced beats. More guitar-forward than synth-rock, with punk and garage rock energy.",
+    "closest_known": "New Wave, Krautrock, Industrial",
+    "family": "Industrial",
+    "episodes": [
+      "12"
+    ],
+    "status": "review"
+  },
+  "Post-Punk Funk": {
+    "description": "Late 1970s/early 1980s fusion of post-punk's angular guitars and minimalist aesthetics with funk's rhythmic groove. Acts like A Certain Ratio, ESG, and Liquid Liquid epitomize the style.",
+    "closest_known": "Post Punk, Funk, New Wave",
+    "family": "Groove",
+    "episodes": [
+      "15"
+    ],
+    "status": "review"
+  },
+  "Indie Dance": {
+    "description": "Guitar-driven dance music merging indie rock sensibility with four-on-the-floor rhythms. Emerged in the mid-2000s from blog-house and electroclash scenes, characterized by reverbed vocals, jangly synths, and festival-friendly energy.",
+    "closest_known": "Nu-Disco, Balearic, Electro",
+    "family": "House",
+    "episodes": [
+      "15",
+      "171"
+    ],
+    "status": "review"
+  },
+  "Synth-Punk": {
+    "description": "Aggressive fusion of punk rock attitude with analog synthesizers, replacing guitars with raw oscillators and distorted sequences. Inherits DIY ethos from punk while embracing electronic abrasion and minimalist arrangements.",
+    "closest_known": "New Wave, EBM, Post Punk",
+    "family": "Industrial",
+    "episodes": [
+      "15",
+      "85"
+    ],
+    "status": "review"
+  },
+  "Progressive Techno": {
+    "description": "Techno subgenre featuring extended track structures with gradual layering, hypnotic builds, and melodic progression. Emerged in the mid-1990s bridging Detroit techno's depth with trance's emotional arc.",
+    "closest_known": "Minimal Techno, Melodic Techno, Trance",
+    "family": "Techno",
+    "episodes": [
+      "16",
+      "949",
+      "983"
+    ],
+    "status": "review"
+  },
+  "Leftfield Electronic": {
+    "description": "Catch-all term for experimental electronic music that defies easy genre classification. Characterized by unconventional structures, eclectic sound palettes, and an art-school approach to electronic production.",
+    "closest_known": "IDM, Electronica, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "20",
+      "689"
+    ],
+    "status": "review"
+  },
+  "American House": {
+    "description": "Broad descriptor for house music rooted in US traditions — Chicago, New York, Detroit — as distinct from European variants. Emphasizes soulful vocals, gospel-tinged chords, and raw drum machine programming.",
+    "closest_known": "Chicago House, Deep House, Garage House",
+    "family": "House",
+    "episodes": [
+      "27"
+    ],
+    "status": "review"
+  },
+  "Goth-House": {
+    "description": "Dark, brooding fusion of gothic aesthetics with house music rhythms. Combines deep basslines and four-on-the-floor kicks with dark wave synths, reverbed vocals, and shadowy atmospherics.",
+    "closest_known": "Dark Wave, Deep House, Cold Wave",
+    "family": "House",
+    "episodes": [
+      "29"
+    ],
+    "status": "review"
+  },
+  "Dubtronica": {
+    "description": "Electronic music blending dub reggae's echo-laden production techniques with modern electronic textures. Heavy use of delay, reverb, and sub-bass within ambient or downtempo frameworks.",
+    "closest_known": "Dub, Dub Techno, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "36"
+    ],
+    "status": "review"
+  },
+  "Electro-Jazz": {
+    "description": "Fusion of jazz improvisation and harmony with electronic production, synthesizers, and programmed beats. Spans from 1970s fusion experiments to contemporary broken beat and nu-jazz.",
+    "closest_known": "Jazz, IDM, Broken Beat",
+    "family": "Groove",
+    "episodes": [
+      "45"
+    ],
+    "status": "review"
+  },
+  "B-Club": {
+    "description": "Underground club music from Lisbon's Bairro Alto scene, blending kuduro, batida, and kizomba with techno and house. Raw, percussive, and deeply tied to Afro-Portuguese diaspora communities.",
+    "closest_known": "Kuduro, Batida, Afro House",
+    "family": "Global Roots",
+    "episodes": [
+      "61"
+    ],
+    "status": "review"
+  },
+  "Ghetto Pop": {
+    "description": "Lo-fi, sample-heavy electronic pop drawing from hip hop, R&B, and ghetto house traditions. Characterized by pitched vocal samples, minimal production, and a raw, unpolished aesthetic.",
+    "closest_known": "Ghetto House, Hip Hop, Pop",
+    "family": "Hip Hop",
+    "episodes": [
+      "61"
+    ],
+    "status": "review"
+  },
+  "Euro-Techno": {
+    "description": "Broad term for European techno variants from the 1990s, typically harder and more mechanical than Detroit originals. Often associated with Belgian, Dutch, and German rave scenes.",
+    "closest_known": "Hard Techno, Berlin Techno, Trance",
+    "family": "Techno",
+    "episodes": [
+      "90"
+    ],
+    "status": "review"
+  },
+  "Tool Techno": {
+    "description": "Stripped-down, functional techno designed as DJ tools — loop-based tracks with isolated elements (kicks, hats, percussion) meant for layering and mixing rather than standalone listening.",
+    "closest_known": "Minimal Techno, Percussive Techno, Tech House",
+    "family": "Techno",
+    "episodes": [
+      "92"
+    ],
+    "status": "review"
+  },
+  "Bassline House": {
+    "description": "UK-originated style combining house tempo with heavy sub-bass wobbles and garage-influenced rhythmic patterns. Emerged from Sheffield and the Midlands in the mid-2000s as a bridge between speed garage and dubstep.",
+    "closest_known": "UK Garage, Bassline, UK Bass",
+    "family": "House",
+    "episodes": [
+      "99",
+      "217"
+    ],
+    "status": "review"
+  },
+  "Analog Techno": {
+    "description": "Techno produced exclusively or primarily with analog hardware — drum machines, synthesizers, and sequencers. Valued for warm tonal character, imperfect timing, and hands-on sonic manipulation.",
+    "closest_known": "Detroit Techno, Berlin Techno, Minimal Techno",
+    "family": "Techno",
+    "episodes": [
+      "101"
+    ],
+    "status": "review"
+  },
+  "Lounge": {
+    "description": "Relaxed, sophisticated easy-listening music evoking mid-century cocktail culture. Features lush orchestration, bossa nova influences, and smooth jazz inflections, designed for ambient social spaces.",
+    "closest_known": "Chillout, Downtempo, Exotica",
+    "family": "Groove",
+    "episodes": [
+      "104",
+      "154"
+    ],
+    "status": "review"
+  },
+  "Cabaret": {
+    "description": "Theatrical musical performance tradition rooted in European nightlife culture. Features dramatic vocal delivery, piano accompaniment, and darkly humorous or politically provocative content.",
+    "closest_known": "Exotica, Pop, Spoken Word",
+    "family": "Global Roots",
+    "episodes": [
+      "106"
+    ],
+    "status": "review"
+  },
+  "Tropicália": {
+    "description": "Late 1960s Brazilian cultural movement fusing bossa nova, psychedelic rock, African rhythms, and avant-garde art. Pioneered by Caetano Veloso and Gilberto Gil as a politically charged reimagining of Brazilian identity.",
+    "closest_known": "World Music, Psychedelic Rock, Folk",
+    "family": "Global Roots",
+    "episodes": [
+      "109",
+      "695"
+    ],
+    "status": "review"
+  },
+  "Disco Pop": {
+    "description": "Pop music incorporating disco's four-on-the-floor beat, string arrangements, and dancefloor sensibility. More radio-friendly and vocal-driven than pure disco, bridging mainstream pop with club culture.",
+    "closest_known": "Disco, Pop, Nu-Disco",
+    "family": "Groove",
+    "episodes": [
+      "114"
+    ],
+    "status": "review"
+  },
+  "Synth-Funk": {
+    "description": "Funk music driven primarily by synthesizers and drum machines rather than live instrumentation. Emerged in the early 1980s from artists like Zapp, Cameo, and early Prince, bridging P-funk with electro.",
+    "closest_known": "Funk, Boogie, Electro",
+    "family": "Groove",
+    "episodes": [
+      "118",
+      "759"
+    ],
+    "status": "review"
+  },
+  "Mashup/Edit Culture": {
+    "description": "Practice of combining elements from multiple existing recordings into new compositions. Ranges from bootleg party edits to sophisticated audio collage, emphasizing recontextualization and DJ creativity.",
+    "closest_known": "Disco, Breakbeat, Hip Hop",
+    "family": "Groove",
+    "episodes": [
+      "119"
+    ],
+    "status": "review"
+  },
+  "Film Score": {
+    "description": "Composed music for cinema, ranging from orchestral to electronic. In RA context, refers to DJs and producers drawing on cinematic scoring techniques — sweeping strings, tension builds, and narrative arcs.",
+    "closest_known": "Classical, Ambient, Downtempo",
+    "family": "Experimental",
+    "episodes": [
+      "121"
+    ],
+    "status": "review"
+  },
+  "Hi-Tech Jazz": {
+    "description": "Detroit-originated fusion of techno precision with jazz harmony and improvisation. Coined by Galaxy 2 Galaxy/Underground Resistance, featuring lush jazz chords over sequenced electronic rhythms.",
+    "closest_known": "Detroit Techno, Jazz, IDM",
+    "family": "Techno",
+    "episodes": [
+      "123"
+    ],
+    "status": "review"
+  },
+  "Yacht Rock": {
+    "description": "Smooth, polished soft rock from the late 1970s/early 1980s characterized by jazz-influenced harmonies, pristine studio production, and nautical-leisure aesthetics. Artists include Steely Dan, Toto, and Michael McDonald.",
+    "closest_known": "Soul, Jazz, Pop",
+    "family": "Groove",
+    "episodes": [
+      "131"
+    ],
+    "status": "review"
+  },
+  "80s Pop": {
+    "description": "Synth-driven pop music of the 1980s defined by drum machines, gated reverb, and bright synthesizer melodies. Encompasses new wave pop, synth-pop, and early digital production aesthetics.",
+    "closest_known": "Synth Pop, New Wave, Pop",
+    "family": "Groove",
+    "episodes": [
+      "131"
+    ],
+    "status": "review"
+  },
+  "Electronic Rock": {
+    "description": "Broad hybrid blending rock instrumentation with electronic production — synths, sequencers, drum machines. Spans from Krautrock pioneers through industrial rock to modern synth-rock acts.",
+    "closest_known": "New Wave, Krautrock, Industrial",
+    "family": "Industrial",
+    "episodes": [
+      "134",
+      "140"
+    ],
+    "status": "review"
+  },
+  "Electro Funk": {
+    "description": "Early 1980s fusion of Roland TR-808 beats with funk basslines and vocoder vocals. Bridge between P-funk and hip hop, exemplified by Afrika Bambaataa, Egyptian Lover, and Mantronix.",
+    "closest_known": "Electro, Funk, Boogie",
+    "family": "Groove",
+    "episodes": [
+      "141",
+      "614"
+    ],
+    "status": "review"
+  },
+  "Funk Techno": {
+    "description": "Techno variant emphasizing funk-derived grooves — syncopated basslines, swinging hi-hats, and rhythmic bounce. Bridges Detroit techno's funk heritage with European four-on-the-floor structures.",
+    "closest_known": "Detroit Techno, Funk, Hardgroove",
+    "family": "Techno",
+    "episodes": [
+      "143"
+    ],
+    "status": "review"
+  },
+  "Post-Industrial": {
+    "description": "Evolution of industrial music moving beyond harsh noise toward more atmospheric, electronic, and experimental territory. Retains industrial's dystopian themes while incorporating ambient, techno, and dark wave elements.",
+    "closest_known": "Industrial, EBM, Dark Ambient",
+    "family": "Industrial",
+    "episodes": [
+      "143"
+    ],
+    "status": "review"
+  },
+  "Beatdown House": {
+    "description": "Deep, stripped-back house variant with heavy emphasis on sub-bass, sparse percussion, and hypnotic repetition. Slower and more minimal than typical house, designed for late-night dancefloor immersion.",
+    "closest_known": "Deep House, Minimal House, Microhouse",
+    "family": "House",
+    "episodes": [
+      "148"
+    ],
+    "status": "review"
+  },
+  "Brazilian Funk": {
+    "description": "Umbrella term for Brazilian bass-heavy electronic dance music rooted in Rio de Janeiro's favela sound systems. Distinct from US funk — features rapid-fire MC vocals, Miami bass influences, and tamborzão rhythms.",
+    "closest_known": "Baile Funk, Miami Bass, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "151"
+    ],
+    "status": "review"
+  },
+  "Psychedelic Soul": {
+    "description": "Late 1960s/early 1970s fusion of soul vocal traditions with psychedelic rock's experimental production — phasing, distortion, sitars, and extended arrangements. Exemplified by Sly Stone, Shuggie Otis, and Rotary Connection.",
+    "closest_known": "Soul, Psychedelic, Funk",
+    "family": "Groove",
+    "episodes": [
+      "151",
+      "270"
+    ],
+    "status": "review"
+  },
+  "Reggae Dub": {
+    "description": "Instrumental, effects-heavy reimagining of reggae recordings. Producers strip vocals, isolate elements, and process them through heavy echo, reverb, and filtering. Pioneered by King Tubby and Lee 'Scratch' Perry.",
+    "closest_known": "Dub, Reggae, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "153"
+    ],
+    "status": "review"
+  },
+  "Indie Rock": {
+    "description": "Guitar-driven rock music released independently of major labels, characterized by lo-fi aesthetics, angular melodies, and DIY ethos. In RA context, references DJs incorporating indie rock sensibility into electronic sets.",
+    "closest_known": "Post Punk, New Wave, Psychedelic Rock",
+    "family": "Industrial",
+    "episodes": [
+      "156",
+      "283"
+    ],
+    "status": "review"
+  },
+  "Latin Techno": {
+    "description": "Techno infused with Latin American percussion patterns, clave rhythms, and tropical instrumentation. Rooted in Mexico City, São Paulo, and Bogotá club scenes, blending four-on-the-floor kicks with congas, timbales, and guiro.",
+    "closest_known": "Tribal House, Latin House, Percussive Techno",
+    "family": "Techno",
+    "episodes": [
+      "163",
+      "861",
+      "867"
+    ],
+    "status": "review"
+  },
+  "Jazz-Funk": {
+    "description": "1970s fusion of jazz improvisation with funk rhythms, featuring wah-wah guitars, clavinet, electric bass grooves, and extended solos. Bridges jazz sophistication with funk's dancefloor physicality.",
+    "closest_known": "Jazz, Funk, Boogie",
+    "family": "Groove",
+    "episodes": [
+      "164"
+    ],
+    "status": "review"
+  },
+  "Cuban Music": {
+    "description": "Umbrella term for Cuba's rich musical traditions including son, rumba, mambo, and guaguancó. Characterized by clave-based rhythmic patterns, call-and-response vocals, and Afro-Caribbean percussion.",
+    "closest_known": "Latin, World Music, Cumbia",
+    "family": "Global Roots",
+    "episodes": [
+      "164"
+    ],
+    "status": "review"
+  },
+  "2-Step Garage": {
+    "description": "UK garage subgenre from the late 1990s featuring a skippy, syncopated rhythm that removes the kick from every other beat. Smoother and more R&B-inflected than speed garage, gateway to the 2-step sound.",
+    "closest_known": "UK Garage, 2-step, UK Funky",
+    "family": "House",
+    "episodes": [
+      "170"
+    ],
+    "status": "review"
+  },
+  "Electro-Disco": {
+    "description": "Late 1970s/early 1980s fusion of disco's dancefloor formula with synthesizers and electronic production. Transitional sound between classic disco and Italo disco/Hi-NRG.",
+    "closest_known": "Disco, Italo Disco, Hi-NRG",
+    "family": "Groove",
+    "episodes": [
+      "176"
+    ],
+    "status": "review"
+  },
+  "Sähkö": {
+    "description": "Named after the Finnish label Sähkö Recordings, denotes a stark, minimalist strain of techno and electro from Finland. Cold, sparse, and dystopian, with Pan Sonic and Mika Vainio as key figures.",
+    "closest_known": "Minimal Techno, Electro, Noise",
+    "family": "Techno",
+    "episodes": [
+      "177"
+    ],
+    "status": "review"
+  },
+  "Synthesizer Music": {
+    "description": "Broad term for music where synthesizers are the primary instrument and focal point. Encompasses everything from Berlin School sequencing to modular experimentation and kosmische textures.",
+    "closest_known": "Kosmische, Ambient, Electronica",
+    "family": "Experimental",
+    "episodes": [
+      "182"
+    ],
+    "status": "review"
+  },
+  "Neo-Soul": {
+    "description": "Late 1990s/2000s revival of classic soul with contemporary R&B, jazz, and hip hop production. Warm, organic sound with socially conscious lyrics, exemplified by D'Angelo, Erykah Badu, and J Dilla's production.",
+    "closest_known": "Soul, R&B, Hip Hop",
+    "family": "Groove",
+    "episodes": [
+      "185"
+    ],
+    "status": "review"
+  },
+  "Electronic Disco": {
+    "description": "Disco produced with predominantly electronic instrumentation — synthesizers, drum machines, and sequencers replacing live orchestration. Overlaps with Italo disco, space disco, and Hi-NRG.",
+    "closest_known": "Disco, Italo Disco, Nu-Disco",
+    "family": "Groove",
+    "episodes": [
+      "187"
+    ],
+    "status": "review"
+  },
+  "Acoustic-Electro Ambient": {
+    "description": "Ambient music blending acoustic instruments (piano, strings, field recordings) with electronic processing and synthesis. Creates textured soundscapes bridging organic warmth with digital manipulation.",
+    "closest_known": "Ambient, Electroacoustic, Downtempo",
+    "family": "Experimental",
+    "episodes": [
+      "188"
+    ],
+    "status": "review"
+  },
+  "Remix Culture": {
+    "description": "Practice of reimagining existing tracks through re-production, extending, and recontextualizing original material. Central to dance music's ecosystem, where official and unofficial remixes transform songs across genre boundaries.",
+    "closest_known": "Disco, House, Breakbeat",
+    "family": "Groove",
+    "episodes": [
+      "188"
+    ],
+    "status": "review"
+  },
+  "Nu-Jazz": {
+    "description": "Late 1990s/2000s electronic jazz fusion combining live jazz instrumentation with programmed beats, samples, and club-oriented production. Labels like Compost and Blue Note's remix series epitomize the sound.",
+    "closest_known": "Jazz, Broken Beat, Downtempo",
+    "family": "Groove",
+    "episodes": [
+      "189"
+    ],
+    "status": "review"
+  },
+  "Sacred Music": {
+    "description": "Devotional music traditions spanning gospel, choral, Islamic, Hindu, and Buddhist sonic practices. In electronic context, refers to producers sampling or channeling sacred musical forms for transcendent dancefloor experiences.",
+    "closest_known": "Folk, Classical, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "192"
+    ],
+    "status": "review"
+  },
+  "Wonky": {
+    "description": "Late 2000s UK electronic style characterized by detuned synths, off-grid rhythms, and unstable pitch manipulation. Emerged from the intersection of dubstep, hip hop, and IDM, with a deliberately skewed, psychedelic aesthetic.",
+    "closest_known": "IDM, Glitch, Bass Music",
+    "family": "Experimental",
+    "episodes": [
+      "196",
+      "284",
+      "858"
+    ],
+    "status": "review"
+  },
+  "Funky House": {
+    "description": "House music with pronounced funk and disco influences — punchy basslines, chopped vocal samples, brass stabs, and an upbeat, party-oriented energy. Peak popularity in the early 2000s UK club scene.",
+    "closest_known": "Disco House, Jackin House, Garage House",
+    "family": "House",
+    "episodes": [
+      "201"
+    ],
+    "status": "review"
+  },
+  "Street Bass": {
+    "description": "Raw, bass-heavy electronic music drawing from Southern hip hop, Miami bass, crunk, and Baltimore club. Lo-fi production with trunk-rattling sub-bass, call-and-response chants, and strip club energy.",
+    "closest_known": "Miami Bass, Booty Bass, Baltimore Club",
+    "family": "Bass Culture",
+    "episodes": [
+      "204"
+    ],
+    "status": "review"
+  },
+  "Experimental Beats": {
+    "description": "Umbrella term for beat-driven electronic music pushing beyond conventional hip hop or electronic frameworks. Incorporates glitch, IDM, and world music influences into head-nodding rhythmic structures.",
+    "closest_known": "IDM, Hip Hop, Glitch",
+    "family": "Experimental",
+    "episodes": [
+      "206"
+    ],
+    "status": "review"
+  },
+  "Live Electronic": {
+    "description": "Electronic music performed live with hardware — synthesizers, drum machines, effects — rather than DJ playback. Emphasizes real-time improvisation, human error, and the physicality of manipulating machines on stage.",
+    "closest_known": "Electronica, IDM, Experimental",
+    "family": "Experimental",
+    "episodes": [
+      "212",
+      "240"
+    ],
+    "status": "review"
+  },
+  "Congotronics": {
+    "description": "Electrified traditional Congolese music blending indigenous instruments with electronic processing and distortion. Pioneered by Konono N°1, it represents a fusion of African roots with experimental electronic techniques.",
+    "closest_known": "World Music, Afrobeat, Experimental",
+    "family": "Global Roots",
+    "episodes": [
+      "216"
+    ],
+    "status": "review"
+  },
+  "Cologne Techno": {
+    "description": "Minimal, clicking microhouse and techno style originating from Cologne, Germany in the late 1990s. Associated with Kompakt label, featuring warm pads, precise rhythms, and pop-inflected melodic sensibility.",
+    "closest_known": "Microhouse, Minimal Techno, Minimal House",
+    "family": "Techno",
+    "episodes": [
+      "223"
+    ],
+    "status": "review"
+  },
+  "Detroit Beatdown": {
+    "description": "Soulful, jazzy deep house strain from Detroit blending Motor City techno heritage with warm chords, broken beats, and R&B-tinged atmospherics. Associated with Theo Parrish, Moodymann, and Rick Wilhite.",
+    "closest_known": "Deep House, Detroit Techno, Broken Beat",
+    "family": "House",
+    "episodes": [
+      "227",
+      "914"
+    ],
+    "status": "review"
+  },
+  "Soundtrack": {
+    "description": "Music composed for film, television, or video games. In RA context, DJs incorporating cinematic and score-like elements — orchestral swells, tension, narrative structure — into electronic sets.",
+    "closest_known": "Classical, Ambient, Downtempo",
+    "family": "Experimental",
+    "episodes": [
+      "230",
+      "475"
+    ],
+    "status": "review"
+  },
+  "Synth": {
+    "description": "Generic shorthand for synthesizer-based electronic music, usually referring to analog synth-driven productions with vintage character. Overlaps with synth-pop, kosmische, and minimal synth traditions.",
+    "closest_known": "Synth Pop, Minimal Synth, Kosmische",
+    "family": "Industrial",
+    "episodes": [
+      "230"
+    ],
+    "status": "review"
+  },
+  "Horror Film Score": {
+    "description": "Dark, atmospheric scoring techniques from horror cinema — dissonant strings, unsettling drones, sudden stabs, and eerie textures. Sampled and referenced extensively in industrial, dark ambient, and witch house.",
+    "closest_known": "Dark Ambient, Industrial, Noise",
+    "family": "Industrial",
+    "episodes": [
+      "230"
+    ],
+    "status": "review"
+  },
+  "Autonomic": {
+    "description": "Spacious, atmospheric drum and bass subgenre pioneered by dBridge and Instra:mental on the Autonomic podcast series. Half-time rhythms, ambient textures, and cinematic depth at 170 BPM.",
+    "closest_known": "Drum and Bass, Ambient, Liquid Funk",
+    "family": "Bass Culture",
+    "episodes": [
+      "233"
+    ],
+    "status": "review"
+  },
+  "Edits": {
+    "description": "Re-edits of existing recordings — extending breaks, restructuring arrangements, or enhancing elements for DJ use. A foundational practice from disco era (Walter Gibbons, Larry Levan) continuing through modern re-edit culture.",
+    "closest_known": "Disco, Nu-Disco, Balearic",
+    "family": "Groove",
+    "episodes": [
+      "239",
+      "300"
+    ],
+    "status": "review"
+  },
+  "Hardware Improvisation": {
+    "description": "Live, unscripted electronic music performed on hardware synthesizers, drum machines, and effects without pre-programmed sequences. Emphasizes spontaneity, happy accidents, and direct physical interaction with machines.",
+    "closest_known": "Experimental, Electroacoustic, Noise",
+    "family": "Experimental",
+    "episodes": [
+      "240"
+    ],
+    "status": "review"
+  },
+  "Indie Pop": {
+    "description": "Melodic, guitar-based pop music with independent label aesthetics — jangly guitars, introspective lyrics, and lo-fi production values. In RA context, DJs blending indie pop sensibility with electronic textures.",
+    "closest_known": "Pop, New Wave, Synth Pop",
+    "family": "Global Roots",
+    "episodes": [
+      "249"
+    ],
+    "status": "review"
+  },
+  "Detroit Electro": {
+    "description": "Electro variant rooted in Detroit's techno lineage, featuring robotic funk, vocoder vocals, and Kraftwerk-influenced machine aesthetics. Key figures include Drexciya, DJ Stingray, and Aux 88.",
+    "closest_known": "Electro, Detroit Techno, Ghetto Tech",
+    "family": "Techno",
+    "episodes": [
+      "250",
+      "536"
+    ],
+    "status": "review"
+  },
+  "Chillwave": {
+    "description": "Late 2000s lo-fi electronic pop characterized by hazy synths, reverbed vocals, nostalgic 1980s references, and tape-saturated production. Blog-era genre associated with Washed Out, Toro y Moi, and Neon Indian.",
+    "closest_known": "Synth Pop, Downtempo, Lo-Fi",
+    "family": "Experimental",
+    "episodes": [
+      "256"
+    ],
+    "status": "review"
+  },
+  "Indie Electronic": {
+    "description": "Electronic music with indie rock sensibility — songwriting structures, lo-fi aesthetics, and DIY ethos applied to synth-based production. Bridges bedroom producers with indie label ecosystems.",
+    "closest_known": "Electronica, Synth Pop, IDM",
+    "family": "Experimental",
+    "episodes": [
+      "256",
+      "285"
+    ],
+    "status": "review"
+  },
+  "Warped Electronic Pop": {
+    "description": "Experimental pop run through heavy electronic processing — pitch manipulation, granular synthesis, and glitched-out production creating surreal, uncanny versions of pop song structures.",
+    "closest_known": "Glitch, Pop, IDM",
+    "family": "Experimental",
+    "episodes": [
+      "266"
+    ],
+    "status": "review"
+  },
+  "Beat Music": {
+    "description": "Instrumental hip hop-adjacent electronic music centered on inventive beat construction. Encompasses LA beat scene (Flying Lotus, Gaslamp Killer), UK beats, and experimental sample-based production.",
+    "closest_known": "Hip Hop, IDM, Glitch",
+    "family": "Hip Hop",
+    "episodes": [
+      "270"
+    ],
+    "status": "review"
+  },
+  "Bass House": {
+    "description": "High-energy house variant with prominent wobble bass, aggressive drops, and UK bass music influence. Bridges the energy of dubstep with house tempo, popular in festival and main room contexts.",
+    "closest_known": "UK Bass, Electro House, Bassline",
+    "family": "House",
+    "episodes": [
+      "271",
+      "340"
+    ],
+    "status": "review"
+  },
+  "Experimental Electroacoustic": {
+    "description": "Composition combining acoustic instruments and electronic processing, rooted in academic electroacoustic tradition. Extends musique concrète and tape music into digital domains with granular synthesis and spectral processing.",
+    "closest_known": "Electroacoustic, Experimental, Drone",
+    "family": "Experimental",
+    "episodes": [
+      "276"
+    ],
+    "status": "review"
+  },
+  "Experimental Rock": {
+    "description": "Rock music pushing beyond conventional structures through unconventional instrumentation, extended techniques, noise elements, and avant-garde compositional approaches. Spans no wave, math rock, and post-rock.",
+    "closest_known": "Noise, Krautrock, Post Punk",
+    "family": "Industrial",
+    "episodes": [
+      "279",
+      "383"
+    ],
+    "status": "review"
+  },
+  "Progressive Rock": {
+    "description": "Ambitious 1970s rock movement featuring complex arrangements, virtuoso musicianship, concept albums, and classical/jazz influences. Key acts: Pink Floyd, King Crimson, Yes.",
+    "closest_known": "Krautrock, Psychedelic Rock, Classical",
+    "family": "Global Roots",
+    "episodes": [
+      "279"
+    ],
+    "status": "review"
+  },
+  "Drone Techno": {
+    "description": "Hypnotic techno variant emphasizing sustained tones, static frequencies, and minimal rhythmic variation. Creates immersive, trance-like states through repetition and slowly evolving harmonic textures.",
+    "closest_known": "Drone, Dub Techno, Ambient Techno",
+    "family": "Techno",
+    "episodes": [
+      "282"
+    ],
+    "status": "review"
+  },
+  "Experimental Drum and Bass": {
+    "description": "Drum and bass pushing beyond conventional structures with complex sound design, unconventional rhythmic patterns, and abstract textures. Bridges D&B energy with IDM experimentation.",
+    "closest_known": "Drum and Bass, IDM, Breakcore",
+    "family": "Bass Culture",
+    "episodes": [
+      "288",
+      "910"
+    ],
+    "status": "review"
+  },
+  "Chicago Footwork": {
+    "description": "Hyperactive dance music from Chicago's South and West sides, characterized by 160 BPM tempos, rapid-fire vocal samples, syncopated percussion, and intricate footwork dance choreography. Evolution of juke.",
+    "closest_known": "Footwork, Ghetto House, Jungle",
+    "family": "Bass Culture",
+    "episodes": [
+      "289"
+    ],
+    "status": "review"
+  },
+  "New York House": {
+    "description": "House music rooted in New York City's club tradition — Paradise Garage, The Loft, Sound Factory. Characterized by gospel-influenced vocals, lush piano chords, and Latin percussion influences.",
+    "closest_known": "Garage House, Deep House, Disco House",
+    "family": "House",
+    "episodes": [
+      "293",
+      "941"
+    ],
+    "status": "review"
+  },
+  "Soul House": {
+    "description": "House music with heavy soul and gospel vocal influences — powerful singing, emotive chord progressions, and warm, organic production. Celebrates the spiritual lineage from church to dancefloor.",
+    "closest_known": "Deep House, Garage House, Soul",
+    "family": "House",
+    "episodes": [
+      "293",
+      "986"
+    ],
+    "status": "review"
+  },
+  "LA Techno": {
+    "description": "Techno from Los Angeles, often darker and more industrial-leaning than Detroit counterparts. Influenced by the city's goth, industrial, and rave scenes, with labels like Sandwell District and artists like Silent Servant.",
+    "closest_known": "Industrial Techno, Berlin Techno, Dark Ambient",
+    "family": "Techno",
+    "episodes": [
+      "302"
+    ],
+    "status": "review"
+  },
+  "UK Bass Techno": {
+    "description": "British techno hybrid incorporating UK bass music's sub-bass weight and rhythmic complexity. Merges the precision of Berlin techno with the low-end pressure of dubstep and grime.",
+    "closest_known": "UK Bass, Industrial Techno, Grime",
+    "family": "Techno",
+    "episodes": [
+      "308"
+    ],
+    "status": "review"
+  },
+  "Ambient Garage": {
+    "description": "Ethereal UK garage variant stripping the genre to atmospheric pads, ghostly vocal fragments, and minimal 2-step rhythms. Spacious and meditative reworking of garage's rhythmic template.",
+    "closest_known": "UK Garage, Ambient, 2-step",
+    "family": "House",
+    "episodes": [
+      "314"
+    ],
+    "status": "review"
+  },
+  "Lo-Fi Hip-Hop": {
+    "description": "Instrumental hip hop with deliberately degraded audio quality — vinyl crackle, tape hiss, warm saturation. Jazzy sample-based beats designed for background listening and study sessions.",
+    "closest_known": "Hip Hop, Lo-Fi, Trip Hop",
+    "family": "Hip Hop",
+    "episodes": [
+      "320"
+    ],
+    "status": "review"
+  },
+  "Experimental Hip-Hop": {
+    "description": "Hip hop pushing beyond conventional boom-bap and trap structures through avant-garde production, unconventional sampling, abstract lyricism, and electronic music influences.",
+    "closest_known": "Hip Hop, IDM, Glitch",
+    "family": "Hip Hop",
+    "episodes": [
+      "329",
+      "352"
+    ],
+    "status": "review"
+  },
+  "Pop Ambient": {
+    "description": "Warm, melodic ambient subgenre associated with Kompakt's annual compilations. Lush synthesizer washes, gentle harmonic movement, and accessible emotional depth — ambient with pop sensibility.",
+    "closest_known": "Ambient, Chillout, Downtempo",
+    "family": "Experimental",
+    "episodes": [
+      "335"
+    ],
+    "status": "review"
+  },
+  "Neurofunk": {
+    "description": "Dark, technically complex drum and bass subgenre originating in the late 1990s. Defined by intricate bass design, clinical precision, sci-fi textures, and relentless rolling breakbeats at 170+ BPM.",
+    "closest_known": "Drum and Bass, Techstep, Breakcore",
+    "family": "Bass Culture",
+    "episodes": [
+      "358",
+      "393",
+      "910"
+    ],
+    "status": "review"
+  },
+  "UK House": {
+    "description": "British interpretation of house music encompassing various regional styles — from London's soulful deep house to Sheffield's bass-heavy variants. Generally warmer and more sample-based than continental European house.",
+    "closest_known": "Deep House, UK Garage, Garage House",
+    "family": "House",
+    "episodes": [
+      "365"
+    ],
+    "status": "review"
+  },
+  "Improvisation": {
+    "description": "Free, unscripted musical performance without predetermined structure. In electronic context, refers to live manipulation of synthesizers, effects, and processing in real-time, emphasizing spontaneity and risk.",
+    "closest_known": "Experimental, Jazz, Noise",
+    "family": "Experimental",
+    "episodes": [
+      "370"
+    ],
+    "status": "review"
+  },
+  "Afrobeat House": {
+    "description": "House music incorporating Afrobeat's polyrhythmic percussion, horn sections, and West African groove patterns. Bridges Fela Kuti's legacy with contemporary four-on-the-floor club production.",
+    "closest_known": "Afro House, Afrobeat, Tribal House",
+    "family": "House",
+    "episodes": [
+      "371"
+    ],
+    "status": "review"
+  },
+  "Intelligent Drum and Bass": {
+    "description": "Mid-1990s drum and bass variant emphasizing musicality, jazz influences, and atmospheric production over dancefloor aggression. Associated with LTJ Bukem's Good Looking Records and the term 'intelligent jungle'.",
+    "closest_known": "Drum and Bass, Liquid Funk, Ambient",
+    "family": "Bass Culture",
+    "episodes": [
+      "372"
+    ],
+    "status": "review"
+  },
+  "New Beat": {
+    "description": "Late 1980s Belgian electronic genre characterized by slowed-down EBM and acid house records played at 33 RPM. Dark, hypnotic, and druggy, bridging industrial and rave culture.",
+    "closest_known": "EBM, Acid House, Industrial",
+    "family": "Industrial",
+    "episodes": [
+      "373",
+      "804"
+    ],
+    "status": "review"
+  },
+  "Noise Rock": {
+    "description": "Abrasive rock music incorporating feedback, distortion, and dissonance as primary compositional elements. From Sonic Youth and Swans through to Lightning Bolt, embracing volume and texture over melody.",
+    "closest_known": "Noise, Post Punk, Industrial",
+    "family": "Industrial",
+    "episodes": [
+      "383"
+    ],
+    "status": "review"
+  },
+  "Experimental Bass Music": {
+    "description": "Bass-heavy electronic music pushing beyond dubstep, grime, and trap conventions through abstract sound design, unconventional structures, and avant-garde production techniques.",
+    "closest_known": "Bass Music, Dubstep, IDM",
+    "family": "Bass Culture",
+    "episodes": [
+      "400"
+    ],
+    "status": "review"
+  },
+  "Middle Eastern": {
+    "description": "Umbrella term for traditional and contemporary music from the Middle East and North Africa — Arabic maqam scales, oud, darbuka percussion, and quarter-tone melodies informing electronic reinterpretations.",
+    "closest_known": "World Music, Folk, Latin",
+    "family": "Global Roots",
+    "episodes": [
+      "402"
+    ],
+    "status": "review"
+  },
+  "Ambient Electronic": {
+    "description": "Electronic music prioritizing atmosphere, texture, and space over rhythm. Synthesizer-based ambient compositions creating immersive sonic environments for contemplative or spatial listening.",
+    "closest_known": "Ambient, Electronica, Downtempo",
+    "family": "Experimental",
+    "episodes": [
+      "405"
+    ],
+    "status": "review"
+  },
+  "Experimental Grime": {
+    "description": "Grime deconstructed and reimagined through experimental production — fractured rhythms, abstract sound design, and avant-garde textures while retaining grime's aggressive 140 BPM energy and MC culture.",
+    "closest_known": "Grime, IDM, Dubstep",
+    "family": "Bass Culture",
+    "episodes": [
+      "407",
+      "488"
+    ],
+    "status": "review"
+  },
+  "Groove House": {
+    "description": "House music emphasizing rhythmic groove and dancefloor functionality — tight percussion programming, funky basslines, and a focus on the physical sensation of movement over melody or atmosphere.",
+    "closest_known": "Tech House, Jackin House, Disco House",
+    "family": "House",
+    "episodes": [
+      "412",
+      "923"
+    ],
+    "status": "review"
+  },
+  "Boom Bap": {
+    "description": "Classic East Coast hip hop production style defined by hard-hitting drum breaks, vinyl sampling, and raw, unquantized swing. The foundational sound of 1990s New York hip hop.",
+    "closest_known": "Hip Hop, Trip Hop, Breakbeat",
+    "family": "Hip Hop",
+    "episodes": [
+      "420"
+    ],
+    "status": "review"
+  },
+  "Cloud Rap": {
+    "description": "Hazy, atmospheric rap subgenre featuring ethereal synth pads, reverbed vocals, and dreamlike production. Emerged from internet culture in the early 2010s with artists like Clams Casino and A$AP Rocky.",
+    "closest_known": "Trap, Hip Hop, Ambient",
+    "family": "Hip Hop",
+    "episodes": [
+      "432",
+      "434"
+    ],
+    "status": "review"
+  },
+  "PC Music": {
+    "description": "London-based collective/label creating hyperreal, glossy electronic pop that exaggerates and deconstructs pop conventions. Characterized by pitched-up vocals, saccharine synths, and ironic maximalism.",
+    "closest_known": "Pop, Electronica, Glitch",
+    "family": "Experimental",
+    "episodes": [
+      "434",
+      "869"
+    ],
+    "status": "review"
+  },
+  "Instrumental Grime": {
+    "description": "Grime productions without MC vocals, emphasizing the genre's icy synths, aggressive bass, and skippy 140 BPM rhythms as standalone compositions. Often more experimental than vocal grime.",
+    "closest_known": "Grime, Dubstep, UK Bass",
+    "family": "Bass Culture",
+    "episodes": [
+      "436",
+      "488"
+    ],
+    "status": "review"
+  },
+  "Ambient Electronics": {
+    "description": "Textural electronic music focused on evolving sonic environments rather than rhythm or melody. Overlaps with ambient but implies more active electronic processing and synthesis.",
+    "closest_known": "Ambient, Electronica, Drone",
+    "family": "Experimental",
+    "episodes": [
+      "439"
+    ],
+    "status": "review"
+  },
+  "Bacardi House": {
+    "description": "UK party house term from the early 2010s describing upbeat, percussive house music with Latin-tinged samples, congas, and summer party energy. Named tongue-in-cheek after the rum brand's association with good times.",
+    "closest_known": "UK Funky, Latin House, Tribal House",
+    "family": "House",
+    "episodes": [
+      "440"
+    ],
+    "status": "review"
+  },
+  "Township House": {
+    "description": "South African house variant rooted in township communities, blending local vocal traditions, percussion, and marimba with four-on-the-floor beats. Precursor and sibling to amapiano.",
+    "closest_known": "Amapiano, Afro House, Gqom",
+    "family": "Global Roots",
+    "episodes": [
+      "440"
+    ],
+    "status": "review"
+  },
+  "Deep Electronic": {
+    "description": "Broad descriptor for electronic music with introspective, contemplative qualities — deep pads, sub-bass, and immersive textures. Spans deep house, deep techno, and atmospheric electronica.",
+    "closest_known": "Deep House, Ambient Techno, Electronica",
+    "family": "Experimental",
+    "episodes": [
+      "449"
+    ],
+    "status": "review"
+  },
+  "Weightless": {
+    "description": "A deconstructed approach to grime and UK bass that strips away traditional club energy to emphasize space, silence, and ambience. Pioneered by Logos and Mumdance, it blurs the boundary between club and ambient music.",
+    "closest_known": "Grime",
+    "family": "Bass Culture",
+    "episodes": [
+      "456"
+    ],
+    "status": "review"
+  },
+  "Lovers Rock": {
+    "description": "Romantic, soulful reggae subgenre that emerged in London's Black British community in the late 1970s. Gentle rhythms, sweet vocal harmonies, and love-themed lyrics distinct from roots reggae's militancy.",
+    "closest_known": "Reggae, Soul, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "463",
+      "632"
+    ],
+    "status": "review"
+  },
+  "Spiritual/Esoteric": {
+    "description": "Electronic music drawing from mystical, spiritual, and esoteric traditions — new age, meditation, ritual, and transcendental themes channeled through ambient, drone, and cosmic electronic production.",
+    "closest_known": "Ambient, Drone, World Music",
+    "family": "Experimental",
+    "episodes": [
+      "465"
+    ],
+    "status": "review"
+  },
+  "Synthesizer": {
+    "description": "Music centered on the synthesizer as primary creative instrument, spanning from vintage analog to modern digital synthesis. Genre-agnostic term emphasizing the instrument itself rather than a specific style.",
+    "closest_known": "Kosmische, Synth Pop, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "475"
+    ],
+    "status": "review"
+  },
+  "Tape Music": {
+    "description": "Music created through tape manipulation — splicing, speed variation, looping, and overdubbing. Historical practice from musique concrète and early electronic music, now revived by cassette culture and lo-fi producers.",
+    "closest_known": "Electroacoustic, Noise, Experimental",
+    "family": "Experimental",
+    "episodes": [
+      "475"
+    ],
+    "status": "review"
+  },
+  "Outsider House": {
+    "description": "Lo-fi, intentionally rough house music made by producers outside mainstream dance music circles. Raw drum machines, tape-saturated textures, and naive charm — associated with labels like L.I.E.S. and Lobster Theremin.",
+    "closest_known": "Lo-Fi, Deep House, Acid House",
+    "family": "House",
+    "episodes": [
+      "490",
+      "508"
+    ],
+    "status": "review"
+  },
+  "Lo-Fi House": {
+    "description": "House music with deliberately degraded production quality — VHS-warped visuals, tape saturation, dusty samples, and warm analog distortion. Internet-era aesthetic peaking in the mid-2010s.",
+    "closest_known": "Lo-Fi, Deep House, Acid House",
+    "family": "House",
+    "episodes": [
+      "490",
+      "616"
+    ],
+    "status": "review"
+  },
+  "Freestyle": {
+    "description": "1980s Latin-American electronic dance music from New York and Miami, combining synth melodies, drum machine rhythms, and emotive vocals. Predates and influenced house music, rooted in Latino club culture.",
+    "closest_known": "Hi-NRG, Electro, Eurodance",
+    "family": "Groove",
+    "episodes": [
+      "497"
+    ],
+    "status": "review"
+  },
+  "Bounce": {
+    "description": "High-energy hip hop style from New Orleans defined by call-and-response chants, Triggerman beat samples, and twerk-oriented rhythms. Foundational to Southern US club culture.",
+    "closest_known": "Hip Hop, Miami Bass, Dancehall",
+    "family": "Hip Hop",
+    "episodes": [
+      "497",
+      "838"
+    ],
+    "status": "review"
+  },
+  "African Jazz": {
+    "description": "Jazz traditions from across the African continent, blending Western jazz harmony with indigenous rhythms, instruments, and vocal styles. Encompasses South African jazz, Ethiopian jazz, and West African fusions.",
+    "closest_known": "Jazz, Highlife, Afrobeat",
+    "family": "Global Roots",
+    "episodes": [
+      "501"
+    ],
+    "status": "review"
+  },
+  "Mathcore": {
+    "description": "Extreme subgenre combining hardcore punk and metal with complex, irregular time signatures, dissonant riffs, and chaotic song structures. Associated with Dillinger Escape Plan and Converge.",
+    "closest_known": "Noise, Industrial, Hardcore",
+    "family": "Industrial",
+    "episodes": [
+      "509"
+    ],
+    "status": "review"
+  },
+  "Video Game Music": {
+    "description": "Music composed for or inspired by video games — from chiptune and 8-bit aesthetics to orchestral scores and electronic soundtracks. In RA context, producers incorporating gaming sonics into club-oriented productions.",
+    "closest_known": "Electronica, Lo-Fi, Synth Pop",
+    "family": "Experimental",
+    "episodes": [
+      "511",
+      "925"
+    ],
+    "status": "review"
+  },
+  "Downtempo House": {
+    "description": "House music at reduced tempos (100-115 BPM), emphasizing laid-back grooves, warm pads, and chill atmospherics. Blends house's four-on-the-floor structure with downtempo's contemplative mood.",
+    "closest_known": "Deep House, Downtempo, Balearic",
+    "family": "House",
+    "episodes": [
+      "514"
+    ],
+    "status": "review"
+  },
+  "Hip-Hop Instrumental": {
+    "description": "Beat-driven productions in hip hop tradition without vocal performances. Sample-based or synthesized compositions emphasizing groove, texture, and rhythm — from boom-bap instrumentals to abstract beat tapes.",
+    "closest_known": "Hip Hop, Trip Hop, Lo-Fi",
+    "family": "Hip Hop",
+    "episodes": [
+      "514"
+    ],
+    "status": "review"
+  },
+  "Griot Music": {
+    "description": "West African oral tradition where griots (hereditary musicians/storytellers) perform with kora, balafon, and vocal narration. Preserves history, genealogy, and cultural knowledge through music.",
+    "closest_known": "Folk, World Music, Highlife",
+    "family": "Global Roots",
+    "episodes": [
+      "517"
+    ],
+    "status": "review"
+  },
+  "South African Township": {
+    "description": "Music traditions from South Africa's townships encompassing mbaqanga, township jive, kwaito, and gospel-influenced styles. Rich rhythmic heritage that feeds into contemporary amapiano and gqom.",
+    "closest_known": "Amapiano, Gqom, Highlife",
+    "family": "Global Roots",
+    "episodes": [
+      "517"
+    ],
+    "status": "review"
+  },
+  "Malian Blues": {
+    "description": "West African guitar tradition from Mali, blending pentatonic desert blues with traditional griot music. Hypnotic, repetitive guitar figures associated with Ali Farka Touré and Tinariwen.",
+    "closest_known": "Desert Blues, Folk, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "517"
+    ],
+    "status": "review"
+  },
+  "Ghanaian Electronic": {
+    "description": "Contemporary electronic music from Ghana blending azonto, highlife, and hiplife rhythms with global electronic production. Includes producers fusing traditional Ghanaian percussion with house and techno.",
+    "closest_known": "Highlife, Afrobeats, Afro House",
+    "family": "Global Roots",
+    "episodes": [
+      "517"
+    ],
+    "status": "review"
+  },
+  "Mbalax": {
+    "description": "Senegalese popular music centered on sabar drum rhythms, blending traditional Wolof percussion with Cuban son, funk, and pop. Popularized internationally by Youssou N'Dour.",
+    "closest_known": "Afrobeat, World Music, Highlife",
+    "family": "Global Roots",
+    "episodes": [
+      "517"
+    ],
+    "status": "review"
+  },
+  "Kora Music": {
+    "description": "Music featuring the kora, a 21-string West African harp-lute. Creates cascading, harp-like melodic patterns central to Mandinka griot tradition. Played by masters like Toumani Diabaté and Ballaké Sissoko.",
+    "closest_known": "Folk, World Music, Highlife",
+    "family": "Global Roots",
+    "episodes": [
+      "517"
+    ],
+    "status": "review"
+  },
+  "Modular Synthesis": {
+    "description": "Electronic music practice centered on hardware modular synthesizers, emphasizing generative patches, unpredictable signal routing, and live improvisation. More a production methodology than genre, but carries a distinct raw, evolving sonic character.",
+    "closest_known": "Electroacoustic, Ambient, Noise",
+    "family": "Experimental",
+    "episodes": [
+      "519",
+      "652",
+      "689"
+    ],
+    "status": "review"
+  },
+  "Emotional Electronica": {
+    "description": "Electronic music prioritizing emotional expression and melodic beauty — soaring pads, bittersweet chord progressions, and cathartic builds. Spans ambient, IDM, and melodic techno territories.",
+    "closest_known": "Electronica, Ambient, Melodic Techno",
+    "family": "Experimental",
+    "episodes": [
+      "521"
+    ],
+    "status": "review"
+  },
+  "Hardcore Continuum": {
+    "description": "Simon Reynolds' theoretical framework describing the evolutionary lineage of UK bass music — from hardcore rave through jungle, drum and bass, UK garage, grime, dubstep, and beyond. More a critical concept than genre.",
+    "closest_known": "Jungle, UK Garage, Grime",
+    "family": "Bass Culture",
+    "episodes": [
+      "523"
+    ],
+    "status": "review"
+  },
+  "Loopy House": {
+    "description": "Hypnotic, repetition-focused house music built on short looped phrases that evolve subtly over extended durations. Minimal arrangement emphasizing the meditative quality of cyclical patterns.",
+    "closest_known": "Minimal House, Deep House, Microhouse",
+    "family": "House",
+    "episodes": [
+      "529",
+      "721"
+    ],
+    "status": "review"
+  },
+  "Machine Funk": {
+    "description": "A hybrid aesthetic blending mechanical, glitchy textures with funk-derived grooves and bass movements. Characterized by off-kilter loops, sloppy execution, and unconventional club production.",
+    "closest_known": "Techno",
+    "family": "Experimental",
+    "episodes": [
+      "534"
+    ],
+    "status": "review"
+  },
+  "Industrial Electronics": {
+    "description": "Broad term for electronic music rooted in industrial culture — harsh textures, mechanical rhythms, dystopian themes, and noise elements processed through electronic production techniques.",
+    "closest_known": "Industrial, EBM, Noise",
+    "family": "Industrial",
+    "episodes": [
+      "536"
+    ],
+    "status": "review"
+  },
+  "Leftfield Pop": {
+    "description": "Pop music with experimental or avant-garde production touches — unconventional arrangements, art-school aesthetics, and electronic experimentation beneath catchy melodies and song structures.",
+    "closest_known": "Pop, Synth Pop, Electronica",
+    "family": "Experimental",
+    "episodes": [
+      "540"
+    ],
+    "status": "review"
+  },
+  "UK Bleep": {
+    "description": "Early 1990s UK electronic style from Sheffield and Leeds, characterized by deep sub-bass, sparse arrangements, and distinctive bleeping synth stabs. Pioneered by LFO, Nightmares on Wax, and Unique 3 on Warp Records.",
+    "closest_known": "Bassline, UK Bass, Electro",
+    "family": "Bass Culture",
+    "episodes": [
+      "541"
+    ],
+    "status": "review"
+  },
+  "Balearic House": {
+    "description": "House music with Balearic beat's eclectic, sun-drenched sensibility — drawing from Ibiza's tradition of mixing genres freely. Warm, emotional, and open-minded in its musical references.",
+    "closest_known": "Balearic, Deep House, Cosmic Disco",
+    "family": "House",
+    "episodes": [
+      "544"
+    ],
+    "status": "review"
+  },
+  "South African House": {
+    "description": "A distinctly South African variant of house music that draws from indigenous local music traditions and township culture. Characterized by joyful, overt positivity and emotional depth rather than dark atmospherics.",
+    "closest_known": "House",
+    "family": "House",
+    "episodes": [
+      "551",
+      "1011"
+    ],
+    "status": "review"
+  },
+  "Art Pop": {
+    "description": "Pop music infused with avant-garde artistic ambition — conceptual themes, experimental production, and visual art sensibility. From Bowie and Roxy Music to Björk and FKA twigs.",
+    "closest_known": "Pop, Synth Pop, New Wave",
+    "family": "Experimental",
+    "episodes": [
+      "553"
+    ],
+    "status": "review"
+  },
+  "Fourth World": {
+    "description": "Term coined by Jon Hassell for music blending indigenous world music traditions with ambient electronics and advanced studio techniques. Creates imaginary ethnographies of cultures that don't exist.",
+    "closest_known": "Ambient, World Music, Electronica",
+    "family": "Experimental",
+    "episodes": [
+      "560"
+    ],
+    "status": "review"
+  },
+  "Concrète": {
+    "description": "Short for musique concrète — composition using recorded sounds as raw material, manipulated through editing, processing, and spatialization. Pioneered by Pierre Schaeffer in 1940s Paris.",
+    "closest_known": "Electroacoustic, Experimental, Noise",
+    "family": "Experimental",
+    "episodes": [
+      "560"
+    ],
+    "status": "review"
+  },
+  "Japanese Electronic": {
+    "description": "Electronic music from Japan spanning ambient (Hiroshi Yoshimura), noise (Merzbow), techno (Ken Ishii), and city pop-tinged synth works. Known for meticulous production and unique aesthetic sensibility.",
+    "closest_known": "Ambient, Electronica, Noise",
+    "family": "Experimental",
+    "episodes": [
+      "560"
+    ],
+    "status": "review"
+  },
+  "City Pop": {
+    "description": "Late 1970s/1980s Japanese pop genre characterized by lush production, jazz-funk harmonies, and urban sophistication. Recently rediscovered globally through internet culture and sampling in vaporwave and future funk.",
+    "closest_known": "Pop, Boogie, Soul",
+    "family": "Groove",
+    "episodes": [
+      "566"
+    ],
+    "status": "review"
+  },
+  "Psychedelic Pop": {
+    "description": "Pop music incorporating psychedelic production techniques — phasing, backwards tapes, sitar, and surreal arrangements. From 1960s Beatles experiments to modern neo-psychedelia.",
+    "closest_known": "Psychedelic, Pop, Psychedelic Rock",
+    "family": "Global Roots",
+    "episodes": [
+      "566"
+    ],
+    "status": "review"
+  },
+  "Sophisti-pop": {
+    "description": "Polished, jazz-influenced 1980s pop featuring sophisticated chord progressions, horn sections, and smooth production. Associated with Sade, Everything but the Girl, and Style Council.",
+    "closest_known": "Pop, Soul, Jazz",
+    "family": "Groove",
+    "episodes": [
+      "570"
+    ],
+    "status": "review"
+  },
+  "Soul Pop": {
+    "description": "Pop music with prominent soul music influences — emotive vocals, R&B chord progressions, and warm production. Bridges mainstream pop accessibility with soul's emotional depth.",
+    "closest_known": "Soul, Pop, R&B",
+    "family": "Groove",
+    "episodes": [
+      "570"
+    ],
+    "status": "review"
+  },
+  "New Wave Pop": {
+    "description": "Synth-driven pop emerging from the new wave movement — catchy melodies, electronic production, and post-punk attitude packaged for mainstream appeal. Depeche Mode, OMD, and Duran Duran era.",
+    "closest_known": "New Wave, Synth Pop, Pop",
+    "family": "Industrial",
+    "episodes": [
+      "570"
+    ],
+    "status": "review"
+  },
+  "Glam Rock": {
+    "description": "Early 1970s British rock movement characterized by flamboyant fashion, theatrical performance, and catchy riff-driven songs. Bowie, T. Rex, and Roxy Music pioneered its androgynous aesthetics.",
+    "closest_known": "Pop, Psychedelic Rock, New Wave",
+    "family": "Global Roots",
+    "episodes": [
+      "570"
+    ],
+    "status": "review"
+  },
+  "Motown Soul": {
+    "description": "Soul music from Detroit's Motown Records — polished, accessible, and crossover-oriented with tight arrangements, orchestral sweetening, and irresistible pop hooks. The Supremes, Temptations, Marvin Gaye.",
+    "closest_known": "Soul, R&B, Funk",
+    "family": "Groove",
+    "episodes": [
+      "570"
+    ],
+    "status": "review"
+  },
+  "Dutch Rap": {
+    "description": "Hip hop from the Netherlands featuring Dutch and Surinamese-influenced linguistic styles, blending local cultural identity with global hip hop production trends including drill and trap.",
+    "closest_known": "Hip Hop, Trap, Drill",
+    "family": "Hip Hop",
+    "episodes": [
+      "571"
+    ],
+    "status": "review"
+  },
+  "Bossa Nova": {
+    "description": "Brazilian musical genre blending samba rhythms with jazz harmony, characterized by gentle guitar strumming, soft vocals, and sophisticated chord progressions. Pioneered by João Gilberto and Tom Jobim in the late 1950s.",
+    "closest_known": "Jazz, Latin, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "576",
+      "759"
+    ],
+    "status": "review"
+  },
+  "Breakbeat Techno": {
+    "description": "Techno variant replacing the standard four-on-the-floor kick with breakbeat patterns — syncopated, chopped-up drum breaks within techno's electronic framework. Bridges rave energy with rhythmic complexity.",
+    "closest_known": "Breakbeat, Techno, Jungle",
+    "family": "Techno",
+    "episodes": [
+      "581",
+      "767"
+    ],
+    "status": "review"
+  },
+  "Bass Techno": {
+    "description": "Techno emphasizing heavy sub-bass frequencies and low-end power. Merges techno's mechanical precision with bass music's physical weight, designed for large sound systems.",
+    "closest_known": "Industrial Techno, Bass Music, UK Bass",
+    "family": "Techno",
+    "episodes": [
+      "581"
+    ],
+    "status": "review"
+  },
+  "Gospel": {
+    "description": "African-American sacred vocal music tradition rooted in spirituals, hymns, and call-and-response. Characterized by powerful group harmonies, organ accompaniment, and emotionally intense vocal delivery.",
+    "closest_known": "Soul, R&B, Folk",
+    "family": "Global Roots",
+    "episodes": [
+      "583",
+      "796",
+      "830"
+    ],
+    "status": "review"
+  },
+  "Modern Composition": {
+    "description": "Contemporary classical and post-classical composition employing extended techniques, unconventional instrumentation, and electronic elements. From minimalism to spectral music and beyond.",
+    "closest_known": "Classical, Minimalism, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "594"
+    ],
+    "status": "review"
+  },
+  "Deconstructed": {
+    "description": "Shorthand for deconstructed club and related experimental electronic music that dismantles conventional dance music structures into fragmented, challenging compositions.",
+    "closest_known": "IDM, Glitch, Experimental",
+    "family": "Experimental",
+    "episodes": [
+      "595"
+    ],
+    "status": "review"
+  },
+  "Hyperactive Techno": {
+    "description": "Frantic, high-energy techno with rapid percussion, stuttering rhythms, and relentless intensity. Pushes techno's tempo and density to extremes while maintaining dancefloor functionality.",
+    "closest_known": "Hard Techno, Gabber, Breakcore",
+    "family": "Techno",
+    "episodes": [
+      "595"
+    ],
+    "status": "review"
+  },
+  "Brazilian Soul": {
+    "description": "Brazilian music incorporating soul, funk, and R&B influences — from Tim Maia and Jorge Ben's 1970s innovations to contemporary MPB artists blending soul warmth with Brazilian rhythm.",
+    "closest_known": "Soul, Funk, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "597"
+    ],
+    "status": "review"
+  },
+  "Funk Soul": {
+    "description": "Music at the intersection of funk's rhythmic drive and soul's emotive vocals — tight horn sections, syncopated bass, and passionate singing. Classic 1970s crossover territory.",
+    "closest_known": "Funk, Soul, Boogie",
+    "family": "Groove",
+    "episodes": [
+      "597"
+    ],
+    "status": "review"
+  },
+  "Psychedelic Electronics": {
+    "description": "Electronic music employing psychedelic production techniques — swirling delays, phasing, modulation, and hallucinatory textures to create altered-consciousness sonic experiences.",
+    "closest_known": "Psychedelic, IDM, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "609"
+    ],
+    "status": "review"
+  },
+  "Novelty/Comedy Electronic": {
+    "description": "Electronic music with humorous, absurdist, or parodic intent — exaggerated sound effects, comedic samples, and tongue-in-cheek production subverting electronic music conventions.",
+    "closest_known": "Electronica, Pop, Glitch",
+    "family": "Experimental",
+    "episodes": [
+      "610"
+    ],
+    "status": "review"
+  },
+  "Industrial Hardcore": {
+    "description": "Extreme fusion of industrial music's harsh textures with hardcore techno's relentless BPM. Distorted kicks, metallic percussion, and aggressive noise at 160+ BPM.",
+    "closest_known": "Hardcore, Industrial Techno, Gabber",
+    "family": "Industrial",
+    "episodes": [
+      "612"
+    ],
+    "status": "review"
+  },
+  "Dark Hardcore": {
+    "description": "Hardcore techno variant emphasizing dark atmospherics, menacing bass, and dystopian themes. Slower and more atmospheric than gabber, with horror and industrial influences.",
+    "closest_known": "Hardcore, Industrial, Gabber",
+    "family": "Industrial",
+    "episodes": [
+      "612"
+    ],
+    "status": "review"
+  },
+  "East Coast Club": {
+    "description": "Club music traditions from the US East Coast — encompassing New York house, Jersey club, Baltimore club, and their various evolutions. Characterized by vocal chops, breakbeats, and high energy.",
+    "closest_known": "Jersey Club, Baltimore Club, Garage House",
+    "family": "House",
+    "episodes": [
+      "615"
+    ],
+    "status": "review"
+  },
+  "Soca": {
+    "description": "Trinidadian dance music evolved from calypso, featuring up-tempo rhythms, call-and-response vocals, and brass sections. Central to Caribbean carnival culture and designed for road marching and wining.",
+    "closest_known": "Dancehall, Reggae, Tropical",
+    "family": "Global Roots",
+    "episodes": [
+      "615"
+    ],
+    "status": "review"
+  },
+  "Drumfunk": {
+    "description": "Drum and bass subgenre centered on intricate, chopped-up breakbeat programming — complex edits of classic breaks into new rhythmic patterns. Minimal basslines, maximum rhythmic invention.",
+    "closest_known": "Drum and Bass, Jungle, Breakcore",
+    "family": "Bass Culture",
+    "episodes": [
+      "620"
+    ],
+    "status": "review"
+  },
+  "Experimental Drum & Bass": {
+    "description": "Drum and bass pushing into experimental territory with unconventional sound design, abstract textures, and challenging structures while maintaining the genre's rhythmic energy.",
+    "closest_known": "Drum and Bass, IDM, Breakcore",
+    "family": "Bass Culture",
+    "episodes": [
+      "620"
+    ],
+    "status": "review"
+  },
+  "Ambient Folk": {
+    "description": "Acoustic folk instrumentation processed through ambient production techniques — guitar drones, field recordings, and reverb-drenched strings creating pastoral, contemplative soundscapes.",
+    "closest_known": "Ambient, Folk, Downtempo",
+    "family": "Experimental",
+    "episodes": [
+      "621"
+    ],
+    "status": "review"
+  },
+  "Sacred Choral": {
+    "description": "Choral music from religious traditions — from Gregorian chant to Orthodox liturgy to gospel choirs. In electronic context, sampled and recontextualized for spiritual or atmospheric effect.",
+    "closest_known": "Classical, Folk, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "621"
+    ],
+    "status": "review"
+  },
+  "West African": {
+    "description": "Umbrella term for music traditions of West Africa — highlife, Afrobeat, mbalax, griot music, and their contemporary evolutions. Rich polyrhythmic percussion, call-and-response vocals, and communal function.",
+    "closest_known": "Afrobeat, Highlife, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "625",
+      "636"
+    ],
+    "status": "review"
+  },
+  "Juju": {
+    "description": "Yoruba popular music from Nigeria featuring talking drums, pedal steel guitar, and layered percussion. Pioneered by King Sunny Ade and Ebenezer Obey, blending traditional with modern amplification.",
+    "closest_known": "Highlife, Afrobeat, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "625"
+    ],
+    "status": "review"
+  },
+  "Turkish Psych": {
+    "description": "1960s-70s Turkish rock movement (Anadolu rock) fusing psychedelic rock with traditional Turkish folk music — bağlama saz, microtonal scales, and Anatolian melodies over distorted guitars and wah-wah.",
+    "closest_known": "Psychedelic Rock, World Music, Folk",
+    "family": "Global Roots",
+    "episodes": [
+      "626"
+    ],
+    "status": "review"
+  },
+  "Russian Techno": {
+    "description": "Techno from Russia's electronic scene, often characterized by raw, industrial-leaning aesthetics reflecting post-Soviet urban landscapes. Labels like Trip and artists like Nina Kraviz represent the scene.",
+    "closest_known": "Berlin Techno, Industrial Techno, Hard Techno",
+    "family": "Techno",
+    "episodes": [
+      "631"
+    ],
+    "status": "review"
+  },
+  "Zouk": {
+    "description": "Dance music from the French Caribbean (Guadeloupe and Martinique) featuring syncopated rhythms, creole vocals, and lush keyboard arrangements. Pioneered by Kassav' in the 1980s, influential across Africa and Brazil.",
+    "closest_known": "Dancehall, Tropical, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "636"
+    ],
+    "status": "review"
+  },
+  "Caribbean": {
+    "description": "Umbrella term for music traditions from the Caribbean islands — reggae, dancehall, calypso, soca, zouk, compas, and their electronic evolutions. United by African-derived rhythmic foundations and creole cultures.",
+    "closest_known": "Dancehall, Reggae, Tropical",
+    "family": "Global Roots",
+    "episodes": [
+      "636"
+    ],
+    "status": "review"
+  },
+  "Acid Jazz": {
+    "description": "Late 1980s/1990s UK movement fusing jazz improvisation with funk, soul, and hip hop beats. DJs and live bands creating dancefloor-oriented jazz — Brand New Heavies, Jamiroquai, and the Acid Jazz label.",
+    "closest_known": "Jazz, Funk, Broken Beat",
+    "family": "Groove",
+    "episodes": [
+      "639"
+    ],
+    "status": "review"
+  },
+  "Congolese Polyrhythm": {
+    "description": "Complex, interlocking rhythmic patterns from Congolese musical traditions — soukous, rumba Congolaise, and traditional percussion ensembles. Multiple rhythmic cycles creating dense, danceable groove matrices.",
+    "closest_known": "World Music, Afrobeat, Highlife",
+    "family": "Global Roots",
+    "episodes": [
+      "660"
+    ],
+    "status": "review"
+  },
+  "Algorithmic Techno": {
+    "description": "Techno generated or informed by algorithmic processes — generative sequencing, probability-based pattern creation, and computational composition. Merges computer science methodology with club music.",
+    "closest_known": "Experimental Techno, IDM, Minimal Techno",
+    "family": "Techno",
+    "episodes": [
+      "668"
+    ],
+    "status": "review"
+  },
+  "Ambient Dub": {
+    "description": "Fusion of dub reggae's echo-chamber production with ambient music's atmospheric focus. Spacious, reverb-drenched, and bass-heavy soundscapes pioneered by The Orb and Pole.",
+    "closest_known": "Dub, Ambient, Dub Techno",
+    "family": "Experimental",
+    "episodes": [
+      "672",
+      "836"
+    ],
+    "status": "review"
+  },
+  "Sound Design": {
+    "description": "Practice of creating and manipulating audio for specific purposes — sound effects, foley, synthesis, and sonic branding. In RA context, producers emphasizing sonic texture and timbre over conventional musical structure.",
+    "closest_known": "Experimental, Electroacoustic, Noise",
+    "family": "Experimental",
+    "episodes": [
+      "680",
+      "955"
+    ],
+    "status": "review"
+  },
+  "Sound Art": {
+    "description": "Interdisciplinary practice blending composed sound, installation, and performance art. Emphasizes listening, spatial acoustics, and non-musical sonic exploration, often blurring boundaries between music, sculpture, and architecture.",
+    "closest_known": "Electroacoustic, Drone, Noise",
+    "family": "Experimental",
+    "episodes": [
+      "683",
+      "706",
+      "772",
+      "903"
+    ],
+    "status": "review"
+  },
+  "Arabic Techno": {
+    "description": "Techno incorporating Arabic musical elements — maqam scales, dabke rhythms, oud samples, and Middle Eastern percussion. Bridges Berlin/European techno with MENA sonic traditions.",
+    "closest_known": "Techno, World Music, Tribal House",
+    "family": "Techno",
+    "episodes": [
+      "684"
+    ],
+    "status": "review"
+  },
+  "Global Club": {
+    "description": "Catch-all for club music drawing from non-Western musical traditions worldwide — blending local rhythms, instruments, and vocal styles with electronic production for international dancefloors.",
+    "closest_known": "World Music, Tropical, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "684",
+      "814"
+    ],
+    "status": "review"
+  },
+  "Belgian New Beat": {
+    "description": "Late 1980s Belgian genre created by slowing acid house and EBM records to ~100 BPM, producing dark, hypnotic, and bass-heavy grooves. Key transitional sound between industrial and rave culture.",
+    "closest_known": "EBM, Acid House, Industrial",
+    "family": "Industrial",
+    "episodes": [
+      "685"
+    ],
+    "status": "review"
+  },
+  "Brazilian Electronic": {
+    "description": "Contemporary electronic music from Brazil incorporating local rhythms — baile funk, samba, maracatu, forró — with global electronic production. Vibrant, rhythmically diverse, and culturally rooted.",
+    "closest_known": "Baile Funk, Tropical, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "690",
+      "692"
+    ],
+    "status": "review"
+  },
+  "Dark Electronics": {
+    "description": "Umbrella term for dark-toned electronic music — encompassing dark ambient, dark wave, witch house, and industrial-adjacent productions. Emphasizes ominous atmospherics and unsettling sonic textures.",
+    "closest_known": "Dark Ambient, Dark Wave, Industrial",
+    "family": "Industrial",
+    "episodes": [
+      "692"
+    ],
+    "status": "review"
+  },
+  "Middle Eastern Electronic": {
+    "description": "Electronic music incorporating Middle Eastern and North African musical elements — Arabic scales, traditional percussion, and regional instrumentation fused with contemporary production.",
+    "closest_known": "World Music, Techno, Tribal House",
+    "family": "Global Roots",
+    "episodes": [
+      "694"
+    ],
+    "status": "review"
+  },
+  "Midwest House": {
+    "description": "House music from the American Midwest beyond Chicago — Minneapolis, Detroit suburbs, Columbus — often blending Chicago house's raw energy with local funk and soul influences.",
+    "closest_known": "Chicago House, Deep House, Ghetto House",
+    "family": "House",
+    "episodes": [
+      "696"
+    ],
+    "status": "review"
+  },
+  "Indian Classical": {
+    "description": "Ancient musical traditions of India — Hindustani (North) and Carnatic (South) systems featuring raga melodic frameworks, tala rhythmic cycles, and extensive improvisation on sitar, tabla, and voice.",
+    "closest_known": "Classical, World Music, Folk",
+    "family": "Global Roots",
+    "episodes": [
+      "706"
+    ],
+    "status": "review"
+  },
+  "Kenyan electronic": {
+    "description": "Contemporary electronic music from Kenya blending local genres like benga, genge, and kapuka with global electronic production. Nairobi's growing scene bridges East African traditions with club culture.",
+    "closest_known": "Singeli, Afrobeats, Gqom",
+    "family": "Global Roots",
+    "episodes": [
+      "708"
+    ],
+    "status": "review"
+  },
+  "East African club music": {
+    "description": "Club-oriented electronic music from East Africa — Kenya, Tanzania, Uganda — incorporating singeli, bongo flava, gengetone, and local dance traditions into high-energy dancefloor productions.",
+    "closest_known": "Singeli, Gqom, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "708"
+    ],
+    "status": "review"
+  },
+  "Coupé-décalé": {
+    "description": "Ivorian electronic dance music from Abidjan, characterized by fast tempos, zouglou-derived rhythms, flashy aesthetics, and call-and-response vocals. Emerged in the early 2000s in Parisian diaspora clubs.",
+    "closest_known": "Afrobeats, Kuduro, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "708"
+    ],
+    "status": "review"
+  },
+  "Eclectic/World": {
+    "description": "Catch-all descriptor for DJ sets and mixes drawing freely from global musical traditions without adhering to single genre conventions. Emphasizes open-minded curation and cross-cultural musical dialogue.",
+    "closest_known": "World Music, Balearic, Tropical",
+    "family": "Global Roots",
+    "episodes": [
+      "712"
+    ],
+    "status": "review"
+  },
+  "Latin Trap": {
+    "description": "Spanish-language trap music originating in Puerto Rico and spreading across Latin America. Heavy 808 bass, hi-hat rolls, and autotuned vocals fused with reggaeton and Latin urban influences.",
+    "closest_known": "Trap, Reggaeton, Hip Hop",
+    "family": "Hip Hop",
+    "episodes": [
+      "713"
+    ],
+    "status": "review"
+  },
+  "Industrial Dub": {
+    "description": "Fusion of industrial music's harsh, mechanical textures with dub's echo-laden, bass-heavy production. Creates dark, cavernous soundscapes with metallic delays and distorted sub-frequencies.",
+    "closest_known": "Industrial, Dub, Dub Techno",
+    "family": "Industrial",
+    "episodes": [
+      "718",
+      "1019"
+    ],
+    "status": "review"
+  },
+  "Digger House": {
+    "description": "House music by producers known as crate diggers — emphasizing rare sample sources, obscure disco/boogie/soul cuts, and deep musical knowledge channeled into dancefloor-ready house productions.",
+    "closest_known": "Deep House, Disco House, Nu-Disco",
+    "family": "House",
+    "episodes": [
+      "721"
+    ],
+    "status": "review"
+  },
+  "Ambient Hardcore": {
+    "description": "Paradoxical fusion of ambient music's spacious textures with hardcore's intensity. Extended, atmospheric passages punctuated by breakbeat surges — associated with early 1990s ambient jungle and Aphex Twin's work.",
+    "closest_known": "Ambient, Jungle, IDM",
+    "family": "Bass Culture",
+    "episodes": [
+      "723"
+    ],
+    "status": "review"
+  },
+  "4x4": {
+    "description": "Generic term for any dance music with a four-on-the-floor kick drum pattern — house, techno, trance, and their variants. Used as shorthand to distinguish from broken-beat or syncopated styles.",
+    "closest_known": "House, Techno, Trance",
+    "family": "House",
+    "episodes": [
+      "724"
+    ],
+    "status": "review"
+  },
+  "Reggae Fusion": {
+    "description": "Reggae blended with other genres — hip hop, rock, electronic, pop — creating crossover appeal while maintaining reggae's rhythmic foundation and cultural identity.",
+    "closest_known": "Reggae, Dancehall, Dub",
+    "family": "Global Roots",
+    "episodes": [
+      "725"
+    ],
+    "status": "review"
+  },
+  "Juke Bounce Werk": {
+    "description": "Chicago-based collective and label at the intersection of juke, footwork, and booty house. High-energy, sample-heavy club music designed for competitive footwork dancing.",
+    "closest_known": "Footwork, Ghetto House, Booty Bass",
+    "family": "Bass Culture",
+    "episodes": [
+      "732"
+    ],
+    "status": "review"
+  },
+  "Spiritual Music": {
+    "description": "Music with transcendent, devotional, or meditative intent — spanning sacred traditions and secular productions seeking spiritual elevation through sound. In club context, music aiming for collective transcendence.",
+    "closest_known": "Ambient, World Music, Folk",
+    "family": "Global Roots",
+    "episodes": [
+      "733"
+    ],
+    "status": "review"
+  },
+  "Healing Music": {
+    "description": "Music intentionally composed and performed for therapeutic, wellness, and spiritual purposes, often incorporating binaural beats, natural frequencies, and meditative instrumentation.",
+    "closest_known": "Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "733"
+    ],
+    "status": "review"
+  },
+  "Global Roots": {
+    "description": "Music rooted in traditional and folk forms from around the world — field recordings, indigenous instruments, and ancestral practices presented in contemporary contexts or preserved in original form.",
+    "closest_known": "World Music, Folk, Tropical",
+    "family": "Global Roots",
+    "episodes": [
+      "734",
+      "704"
+    ],
+    "status": "review"
+  },
+  "Post-Punk Electronics": {
+    "description": "Electronic music rooted in post-punk and no wave aesthetics, combining confrontational sound design with avant-garde sensibilities. Influenced by bands like Suicide.",
+    "closest_known": "Industrial",
+    "family": "Industrial",
+    "episodes": [
+      "736"
+    ],
+    "status": "review"
+  },
+  "Dubplate Culture": {
+    "description": "Practice of cutting exclusive acetate recordings (dubplates) for DJ use — unreleased tracks, custom versions, and sound system specials. Central to Jamaican sound system and UK bass music traditions.",
+    "closest_known": "Dub, Dancehall, Reggae",
+    "family": "Bass Culture",
+    "episodes": [
+      "737"
+    ],
+    "status": "review"
+  },
+  "Field Recording": {
+    "description": "Practice of recording environmental and natural sounds outside the studio — wildlife, urban soundscapes, industrial noise, weather. Used as compositional material in ambient, electroacoustic, and sound art.",
+    "closest_known": "Electroacoustic, Ambient, Experimental",
+    "family": "Experimental",
+    "episodes": [
+      "740",
+      "772"
+    ],
+    "status": "review"
+  },
+  "Filter House": {
+    "description": "Late 1990s French house variant featuring heavily filtered disco samples — low-pass sweeps creating dramatic builds and releases. Epitomized by Daft Punk's 'Homework' and the French touch movement.",
+    "closest_known": "Disco House, Electro House, Nu-Disco",
+    "family": "House",
+    "episodes": [
+      "746"
+    ],
+    "status": "review"
+  },
+  "Bleep": {
+    "description": "Early 1990s UK electronic style from Sheffield, named after LFO's 'Bleep' track. Sparse, bass-heavy productions with distinctive bleeping synthesizer tones over minimal beats. Foundational Warp Records sound.",
+    "closest_known": "Bassline, UK Bass, Electro",
+    "family": "Bass Culture",
+    "episodes": [
+      "746"
+    ],
+    "status": "review"
+  },
+  "Future Bounce": {
+    "description": "EDM subgenre combining future house's metallic leads with bouncy, elastic basslines and cheerful melodies. Popularized in the mid-2010s festival circuit with polished, high-energy production.",
+    "closest_known": "Electro House, Future Bass, UK Bass",
+    "family": "House",
+    "episodes": [
+      "748"
+    ],
+    "status": "review"
+  },
+  "Industrial Bass": {
+    "description": "Heavy electronic music merging industrial's harsh textures with bass music's low-end weight. Distorted, aggressive productions blending noise, techno, and dubstep elements.",
+    "closest_known": "Industrial Techno, Bass Music, Dubstep",
+    "family": "Industrial",
+    "episodes": [
+      "749"
+    ],
+    "status": "review"
+  },
+  "Ethio-Jazz": {
+    "description": "Ethiopian jazz fusion from the 1960s-70s 'golden age' combining jazz harmony, funk rhythms, and Ethiopian pentatonic scales. Mulatu Astatke's arrangements define the genre's unique modal character.",
+    "closest_known": "Jazz, World Music, Funk",
+    "family": "Global Roots",
+    "episodes": [
+      "754"
+    ],
+    "status": "review"
+  },
+  "Ethiopian Electronic": {
+    "description": "Contemporary electronic music from Ethiopia incorporating traditional scales, instruments (masinko, krar), and vocal styles with modern production. Bridges Ethio-jazz heritage with global club culture.",
+    "closest_known": "World Music, Afro House, Electronica",
+    "family": "Global Roots",
+    "episodes": [
+      "754"
+    ],
+    "status": "review"
+  },
+  "Ethiopian Hip Hop": {
+    "description": "Hip hop from Ethiopia blending Amharic and other local languages with global hip hop production, incorporating Ethiopian musical scales and cultural references.",
+    "closest_known": "Hip Hop, Afrobeats, World Music",
+    "family": "Hip Hop",
+    "episodes": [
+      "754"
+    ],
+    "status": "review"
+  },
+  "East African Hip Hop": {
+    "description": "Hip hop from East Africa — Kenya, Tanzania, Uganda — blending local languages, bongo flava influences, and regional musical traditions with global hip hop production styles.",
+    "closest_known": "Hip Hop, Afrobeats, Dancehall",
+    "family": "Hip Hop",
+    "episodes": [
+      "754"
+    ],
+    "status": "review"
+  },
+  "Uplifting Trance": {
+    "description": "Euphoric trance subgenre characterized by soaring melodies, dramatic breakdowns, and emotional builds designed for peak-time festival moments. Anthemic and optimistic in tone.",
+    "closest_known": "Trance, Goa Trance, Progressive House",
+    "family": "Techno",
+    "episodes": [
+      "756"
+    ],
+    "status": "review"
+  },
+  "Psychedelic Trance": {
+    "description": "High-energy trance variant with twisted acid lines, rapid arpeggiated synths, and psychedelic textures at 140-150 BPM. Rooted in Goa party culture, emphasizing altered states and extended DJ sets.",
+    "closest_known": "Goa Trance, Trance, Acid Techno",
+    "family": "Techno",
+    "episodes": [
+      "756",
+      "843"
+    ],
+    "status": "review"
+  },
+  "Experimental Jungle": {
+    "description": "Jungle music pushed into experimental territory — fractured breakbeats, abstract sampling, and avant-garde sound design while maintaining jungle's rhythmic intensity and sub-bass pressure.",
+    "closest_known": "Jungle, Breakcore, IDM",
+    "family": "Bass Culture",
+    "episodes": [
+      "757"
+    ],
+    "status": "review"
+  },
+  "Latin Jazz": {
+    "description": "Jazz incorporating Latin American and Caribbean rhythmic elements — Afro-Cuban clave patterns, bossa nova, samba, and salsa rhythms fused with jazz improvisation and harmony.",
+    "closest_known": "Jazz, Latin, World Music",
+    "family": "Global Roots",
+    "episodes": [
+      "759",
+      "895"
+    ],
+    "status": "review"
+  },
+  "Samba": {
+    "description": "Iconic Brazilian dance music genre rooted in Afro-Brazilian communities, characterized by syncopated rhythms, call-and-response singing, and percussion-heavy ensembles including surdo, tamborim, and pandeiro.",
+    "closest_known": "World Music, Latin, Funk",
+    "family": "Global Roots",
+    "episodes": [
+      "759"
+    ],
+    "status": "review"
+  },
+  "Wonky House": {
+    "description": "House music with intentionally off-kilter, detuned, or pitch-bent elements — wobbly synths, skewed samples, and unstable tonalities adding psychedelic character to house grooves.",
+    "closest_known": "Deep House, IDM, Minimal House",
+    "family": "House",
+    "episodes": [
+      "763"
+    ],
+    "status": "review"
+  },
+  "Illbient": {
+    "description": "Late 1990s Brooklyn-based genre combining ambient textures with hip hop, dub, and noise elements. Dark, urban soundscapes pioneered by DJ Spooky, We, and the Wordsound label.",
+    "closest_known": "Ambient, Trip Hop, Dub",
+    "family": "Experimental",
+    "episodes": [
+      "773"
+    ],
+    "status": "review"
+  },
+  "experimental club": {
+    "description": "Broad term for club music that challenges conventional dancefloor formats through avant-garde production, unconventional structures, and boundary-pushing sound design while retaining some club functionality.",
+    "closest_known": "IDM, Footwork, Glitch",
+    "family": "Experimental",
+    "episodes": [
+      "775"
+    ],
+    "status": "review"
+  },
+  "dark electronic": {
+    "description": "Generic descriptor for electronic music with dark, brooding aesthetics — minor keys, ominous pads, industrial textures, and dystopian atmospherics spanning multiple subgenres.",
+    "closest_known": "Dark Ambient, Industrial, EBM",
+    "family": "Industrial",
+    "episodes": [
+      "775"
+    ],
+    "status": "review"
+  },
+  "Cumbia Electronica": {
+    "description": "Digital evolution of traditional Colombian/Peruvian cumbia, blending acoustic regional instruments and rhythmic traditions with contemporary electronic production, synths, and club-oriented sound design.",
+    "closest_known": "Cumbia, Tropical, Electronica",
+    "family": "Global Roots",
+    "episodes": [
+      "778"
+    ],
+    "status": "review"
+  },
+  "Peruvian Digital Cumbia": {
+    "description": "Specifically Peruvian variant of cumbia electronica, often incorporating Afro-Peruvian and Andean musical elements, pioneered by artists like Dengue Dengue Dengue and Los Wemblers de Iquitos collaborators.",
+    "closest_known": "Cumbia, Tropical, Latin",
+    "family": "Global Roots",
+    "episodes": [
+      "778"
+    ],
+    "status": "review"
+  },
+  "Latin Club": {
+    "description": "Club-oriented music incorporating Latin American rhythms — reggaeton, dembow, cumbia, and Latin house fused with contemporary electronic production for global dancefloors.",
+    "closest_known": "Reggaeton, Latin House, Dembow",
+    "family": "Global Roots",
+    "episodes": [
+      "778",
+      "930"
+    ],
+    "status": "review"
+  },
+  "UK Bass Culture": {
+    "description": "Broad term for the interconnected web of UK bass music genres — dubstep, grime, UK garage, jungle, drum and bass — sharing emphasis on sub-bass weight and rhythmic innovation.",
+    "closest_known": "UK Bass, Grime, Dubstep",
+    "family": "Bass Culture",
+    "episodes": [
+      "782"
+    ],
+    "status": "review"
+  },
+  "Big Beat": {
+    "description": "High-energy electronic genre peaking in the mid-to-late 1990s, combining heavy breakbeats with rock guitars, acid squelches, and sample-heavy production. Pioneered by The Chemical Brothers, Fatboy Slim, and The Prodigy.",
+    "closest_known": "Breakbeat, Electro, Acid House",
+    "family": "Bass Culture",
+    "episodes": [
+      "784",
+      "852",
+      "1051"
+    ],
+    "status": "review"
+  },
+  "Clicks-and-Cuts": {
+    "description": "Early 2000s micro-electronic style using glitchy digital artifacts — clicks, pops, static, and granular fragments — as primary compositional material. Named after the Mille Plateaux compilation series.",
+    "closest_known": "Glitch, Microhouse, IDM",
+    "family": "Experimental",
+    "episodes": [
+      "785"
+    ],
+    "status": "review"
+  },
+  "Experimental Percussion": {
+    "description": "Percussion-focused compositions pushing beyond conventional drumming through extended techniques, found objects, electronic processing, and unconventional rhythmic structures.",
+    "closest_known": "Percussion, Experimental, Electroacoustic",
+    "family": "Experimental",
+    "episodes": [
+      "788",
+      "903"
+    ],
+    "status": "review"
+  },
+  "Tropical Bass": {
+    "description": "Electronic bass music incorporating tropical rhythms — cumbia, dancehall, kuduro, baile funk — with heavy sub-bass, digital production, and global South party energy.",
+    "closest_known": "Tropical, Bass Music, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "788"
+    ],
+    "status": "review"
+  },
+  "Global Percussion": {
+    "description": "Percussion traditions from around the world — West African djembe, Brazilian batucada, Indian tabla, Middle Eastern darbuka — presented in traditional or electronic-hybrid contexts.",
+    "closest_known": "Percussion, World Music, Tribal House",
+    "family": "Global Roots",
+    "episodes": [
+      "788"
+    ],
+    "status": "review"
+  },
+  "Tuareg music": {
+    "description": "Music of the Tuareg people of the Sahara — hypnotic electric guitar lines, call-and-response vocals, and hand percussion. Desert blues/rock pioneered by Tinariwen and Bombino.",
+    "closest_known": "Desert Blues, World Music, Folk",
+    "family": "Global Roots",
+    "episodes": [
+      "789"
+    ],
+    "status": "review"
+  },
+  "Electronic Tuareg": {
+    "description": "Contemporary electronic reinterpretation of Tuareg musical traditions — desert blues guitar patterns, Saharan rhythms, and nomadic themes fused with electronic production.",
+    "closest_known": "World Music, Electronica, Desert Blues",
+    "family": "Global Roots",
+    "episodes": [
+      "789"
+    ],
+    "status": "review"
+  },
+  "Saharan music": {
+    "description": "Music traditions from the Sahara and Sahel regions — Tuareg guitar, Gnawa trance, Malian griot traditions, and their contemporary electronic fusions. Characterized by repetitive, trance-inducing patterns.",
+    "closest_known": "Desert Blues, World Music, Folk",
+    "family": "Global Roots",
+    "episodes": [
+      "789"
+    ],
+    "status": "review"
+  },
+  "Chicago Techno": {
+    "description": "Techno originating from Chicago, distinct from the city's house legacy. Harder, more industrial-leaning than Detroit techno, influenced by the city's acid house and warehouse rave traditions.",
+    "closest_known": "Acid House, Detroit Techno, Industrial Techno",
+    "family": "Techno",
+    "episodes": [
+      "794"
+    ],
+    "status": "review"
+  },
+  "Dig & Edit": {
+    "description": "DJ practice combining crate digging (finding rare records) with re-editing them for dancefloor use — extending breaks, restructuring arrangements, and enhancing grooves from obscure source material.",
+    "closest_known": "Disco, Nu-Disco, Balearic",
+    "family": "Groove",
+    "episodes": [
+      "796"
+    ],
+    "status": "review"
+  },
+  "Club": {
+    "description": "Generic shorthand for functional, dancefloor-oriented electronic music without specific genre affiliation. Implies music designed for club sound systems and late-night contexts.",
+    "closest_known": "House, Techno, UK Bass",
+    "family": "House",
+    "episodes": [
+      "800",
+      "921"
+    ],
+    "status": "review"
+  },
+  "Hard House": {
+    "description": "High-energy house variant with harder kicks, aggressive basslines, and hoover synths at 140+ BPM. Peak popularity in late 1990s/early 2000s UK rave scene, bridging house with hardcore.",
+    "closest_known": "Electro House, Hard Techno, Hardcore",
+    "family": "House",
+    "episodes": [
+      "806",
+      "944"
+    ],
+    "status": "review"
+  },
+  "Hardstyle": {
+    "description": "Dutch-originated hard dance genre featuring reverse bass kicks, euphoric melodies, and pitched vocals at 150+ BPM. Massive festival culture, bridging hardcore techno with trance emotionality.",
+    "closest_known": "Hardcore, Gabber, Trance",
+    "family": "Industrial",
+    "episodes": [
+      "806"
+    ],
+    "status": "review"
+  },
+  "Hardtrance": {
+    "description": "Aggressive trance variant with harder kicks, acid lines, and industrial elements at 140-155 BPM. Bridges melodic trance with harder rave styles, popular in 1990s European club scenes.",
+    "closest_known": "Trance, Hard Techno, Acid Techno",
+    "family": "Techno",
+    "episodes": [
+      "808"
+    ],
+    "status": "review"
+  },
+  "Voguing": {
+    "description": "Dance and music culture from Black and Latino LGBTQ+ ballroom scene. Characterized by dramatic poses, runway walks, and house music — specifically ballroom house with MC commentary and rhythmic chanting.",
+    "closest_known": "Ballroom, Garage House, Hi-NRG",
+    "family": "House",
+    "episodes": [
+      "810"
+    ],
+    "status": "review"
+  },
+  "Rominimal": {
+    "description": "Romanian minimal techno/house characterized by long, hypnotic tracks with subtle groove variations, micro-percussion, and patient builds. Associated with [a]pe:ro and artists like Rhadoo, Petre Inspirescu, and Raresh.",
+    "closest_known": "Minimal Techno, Microhouse, Minimal House",
+    "family": "Techno",
+    "episodes": [
+      "819"
+    ],
+    "status": "review"
+  },
+  "Sacred/Ceremonial music": {
+    "description": "Music serving ritual, spiritual, or ceremonial functions across world cultures — from Sufi qawwali to Amazonian icaros to Buddhist chanting. In electronic context, sampling or channeling these traditions.",
+    "closest_known": "World Music, Folk, Ambient",
+    "family": "Global Roots",
+    "episodes": [
+      "821"
+    ],
+    "status": "review"
+  },
+  "Avant-Garde Jazz": {
+    "description": "Free jazz and experimental jazz pushing beyond conventional harmony, melody, and rhythm. From Ornette Coleman and Sun Ra through to modern European improvisers, emphasizing spontaneity and sonic exploration.",
+    "closest_known": "Jazz, Experimental, Noise",
+    "family": "Global Roots",
+    "episodes": [
+      "823"
+    ],
+    "status": "review"
+  },
+  "Folktronica": {
+    "description": "Fusion of folk music instrumentation and songwriting with electronic production — acoustic guitars, banjos, and field recordings processed through beats, synths, and digital effects.",
+    "closest_known": "Folk, Electronica, Downtempo",
+    "family": "Experimental",
+    "episodes": [
+      "824"
+    ],
+    "status": "review"
+  },
+  "Bhangra": {
+    "description": "Punjabi folk dance music featuring dhol drums, tumbi, and energetic vocals. Modern bhangra blends traditional elements with hip hop, electronic, and pop production for diaspora club scenes.",
+    "closest_known": "World Music, Dancehall, Hip Hop",
+    "family": "Global Roots",
+    "episodes": [
+      "825",
+      "1020"
+    ],
+    "status": "review"
+  },
+  "Perreo": {
+    "description": "Puerto Rican dance-oriented reggaeton style defined by aggressive dembow riddims, provocative lyrical content, and high-BPM energy. Named after the signature grinding dance style, central to underground Latin club culture.",
+    "closest_known": "Reggaeton, Dembow, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "833",
+      "912",
+      "930"
+    ],
+    "status": "review"
+  },
+  "Latin Techno Fusion": {
+    "description": "Techno productions explicitly fusing Latin American musical elements — cumbia, salsa, reggaeton rhythms — with techno's four-on-the-floor framework and European electronic aesthetics.",
+    "closest_known": "Latin House, Tribal House, Percussive Techno",
+    "family": "Techno",
+    "episodes": [
+      "833"
+    ],
+    "status": "review"
+  },
+  "Spiritual House": {
+    "description": "House music with transcendent, devotional quality — gospel-influenced vocals, uplifting chord progressions, and spiritual themes seeking collective elevation on the dancefloor.",
+    "closest_known": "Deep House, Garage House, Soul",
+    "family": "House",
+    "episodes": [
+      "839",
+      "986"
+    ],
+    "status": "review"
+  },
+  "Digital Hardcore": {
+    "description": "Extreme electronic genre fusing hardcore punk energy with digital production — distorted breakbeats, screaming vocals, and noise. Pioneered by Atari Teenage Riot and Digital Hardcore Recordings in 1990s Berlin.",
+    "closest_known": "Breakcore, Hardcore, Industrial",
+    "family": "Industrial",
+    "episodes": [
+      "867"
+    ],
+    "status": "review"
+  },
+  "Polish Hip Hop": {
+    "description": "Hip hop from Poland blending Polish-language lyrics with both boom-bap and contemporary trap production. One of Europe's most developed hip hop scenes with distinct linguistic and cultural identity.",
+    "closest_known": "Hip Hop, Trap, Drill",
+    "family": "Hip Hop",
+    "episodes": [
+      "869"
+    ],
+    "status": "review"
+  },
+  "Global Electronic": {
+    "description": "Electronic music drawing from diverse world music traditions — a broad category for producers blending non-Western musical elements with contemporary electronic production for international audiences.",
+    "closest_known": "World Music, Electronica, Tropical",
+    "family": "Global Roots",
+    "episodes": [
+      "871"
+    ],
+    "status": "review"
+  },
+  "Metal": {
+    "description": "Heavy, amplified rock music characterized by distorted guitars, powerful drumming, and intense energy. In RA context, electronic producers incorporating metal's aggression, blast beats, or guitar samples.",
+    "closest_known": "Industrial, Noise, Hardcore",
+    "family": "Industrial",
+    "episodes": [
+      "874"
+    ],
+    "status": "review"
+  },
+  "Breakbeat House": {
+    "description": "House music replacing the standard four-on-the-floor kick with breakbeat patterns — syncopated, funk-derived rhythmic foundations beneath house's melodic and harmonic language.",
+    "closest_known": "Breakbeat, UK Funky, Garage House",
+    "family": "House",
+    "episodes": [
+      "875"
+    ],
+    "status": "review"
+  },
+  "Psychedelic House": {
+    "description": "House music with psychedelic production elements — swirling effects, hallucinatory textures, acid-tinged synths, and trippy atmospherics designed for altered-state dancefloor experiences.",
+    "closest_known": "Acid House, Psychedelic Techno, Deep House",
+    "family": "House",
+    "episodes": [
+      "876",
+      "927"
+    ],
+    "status": "review"
+  },
+  "Techno Soul": {
+    "description": "Detroit-rooted fusion of techno's electronic precision with soul music's emotional warmth. Lush chords, soulful pads, and human feeling within machine-generated rhythmic frameworks.",
+    "closest_known": "Detroit Techno, Deep House, Soul",
+    "family": "Techno",
+    "episodes": [
+      "877"
+    ],
+    "status": "review"
+  },
+  "Deep Dub": {
+    "description": "Dub music emphasizing depth, space, and sub-bass immersion — cavernous reverbs, slow tempos, and meditative atmospherics. More introspective than dancehall-oriented dub.",
+    "closest_known": "Dub, Dub Techno, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "879"
+    ],
+    "status": "review"
+  },
+  "Dub Reggae": {
+    "description": "Instrumental reggae remixes emphasizing studio effects — heavy echo, reverb, and drop-out mixing techniques. The original dub tradition pioneered by King Tubby, Lee Perry, and Scientist.",
+    "closest_known": "Dub, Reggae, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "879"
+    ],
+    "status": "review"
+  },
+  "Soulful Techno": {
+    "description": "Techno infused with soul music's emotional warmth — lush pads, gospel-tinged chords, and human vocal elements softening techno's mechanical precision with organic feeling.",
+    "closest_known": "Detroit Techno, Deep House, Soul",
+    "family": "Techno",
+    "episodes": [
+      "881"
+    ],
+    "status": "review"
+  },
+  "Nyege Nyege": {
+    "description": "Music associated with Uganda's Nyege Nyege festival and label — a hub for East African experimental electronic music including singeli, electronic Congolese, and avant-garde club sounds.",
+    "closest_known": "Singeli, Experimental, Footwork",
+    "family": "Global Roots",
+    "episodes": [
+      "883"
+    ],
+    "status": "review"
+  },
+  "Global Club Music": {
+    "description": "Internationally-minded club music blending rhythms and sounds from multiple world music traditions. Similar to Global Club — emphasizes cultural hybridity and dancefloor functionality.",
+    "closest_known": "World Music, Tropical, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "883"
+    ],
+    "status": "review"
+  },
+  "Hip-House": {
+    "description": "Late 1980s/early 1990s fusion of hip hop rapping with house music beats. MC vocals over four-on-the-floor house rhythms, bridging hip hop culture with club dancefloors.",
+    "closest_known": "Hip Hop, House, Ghetto House",
+    "family": "Hip Hop",
+    "episodes": [
+      "894"
+    ],
+    "status": "review"
+  },
+  "Gospel House": {
+    "description": "House music with prominent gospel vocal influences — choirs, call-and-response, spiritual lyrics, and uplifting chord progressions channeling church music's communal ecstasy into club settings.",
+    "closest_known": "Garage House, Deep House, Soul",
+    "family": "House",
+    "episodes": [
+      "895"
+    ],
+    "status": "review"
+  },
+  "Tribal Techno": {
+    "description": "Techno variant driven by polyrhythmic, tribal-influenced percussion patterns — layered congas, bongos, djembe, and synthetic percussion creating hypnotic, ritualistic groove frameworks.",
+    "closest_known": "Tribal House, Percussive Techno, Afro House",
+    "family": "Techno",
+    "episodes": [
+      "901",
+      "985"
+    ],
+    "status": "review"
+  },
+  "Mutant Techno": {
+    "description": "Deliberately warped, genre-defying techno that mutates conventional forms through extreme processing, unexpected sample sources, and hybrid structures. Unpredictable and anti-purist.",
+    "closest_known": "Experimental Techno, IDM, Glitch",
+    "family": "Techno",
+    "episodes": [
+      "903"
+    ],
+    "status": "review"
+  },
+  "Bristol Techno": {
+    "description": "Techno from Bristol, UK, informed by the city's rich heritage of trip hop, dubstep, and sound system culture. Darker, bass-heavy, and more atmospheric than Berlin-centric techno.",
+    "closest_known": "Industrial Techno, Trip Hop, Dubstep",
+    "family": "Techno",
+    "episodes": [
+      "908"
+    ],
+    "status": "review"
+  },
+  "Reggae Drum and Bass": {
+    "description": "Drum and bass incorporating reggae and ragga elements — dancehall vocals, dub bass, and Jamaican patois over jungle-speed breakbeats. Continuation of jungle's original ragga influences.",
+    "closest_known": "Jungle, Ragga, Drum and Bass",
+    "family": "Bass Culture",
+    "episodes": [
+      "910"
+    ],
+    "status": "review"
+  },
+  "Avant-Garde Club": {
+    "description": "Experimental, boundary-pushing club music that challenges conventions while maintaining some dancefloor relevance. Embraces dissonance, unusual structures, and conceptual approaches to club culture.",
+    "closest_known": "IDM, Experimental, Footwork",
+    "family": "Experimental",
+    "episodes": [
+      "913"
+    ],
+    "status": "review"
+  },
+  "Clicks & Cuts": {
+    "description": "Micro-electronic style using digital glitches and artifacts as musical material. Synonymous with Clicks-and-Cuts — named after Mille Plateaux's influential compilation series from the early 2000s.",
+    "closest_known": "Glitch, Microhouse, IDM",
+    "family": "Experimental",
+    "episodes": [
+      "917"
+    ],
+    "status": "review"
+  },
+  "Trap Latino": {
+    "description": "Spanish-language trap music blending heavy 808s, hi-hat rolls, and autotune with Latin urban and reggaeton influences. Dominant force in contemporary Latin American popular music.",
+    "closest_known": "Trap, Reggaeton, Hip Hop",
+    "family": "Hip Hop",
+    "episodes": [
+      "921"
+    ],
+    "status": "review"
+  },
+  "Dark Garage": {
+    "description": "UK garage variant with darker, moodier atmospherics — minor keys, shadowy pads, and ominous bass. Bridges garage's rhythmic sophistication with dubstep's brooding intensity.",
+    "closest_known": "UK Garage, Dubstep, 2-step",
+    "family": "Bass Culture",
+    "episodes": [
+      "929"
+    ],
+    "status": "review"
+  },
+  "Afrotech": {
+    "description": "Techno and tech house infused with African rhythmic patterns, percussion, and vocal elements. Bridges Afro house's accessibility with techno's darker, more driving energy.",
+    "closest_known": "Afro House, Tech House, Tribal House",
+    "family": "House",
+    "episodes": [
+      "936"
+    ],
+    "status": "review"
+  },
+  "Dubby House": {
+    "description": "House music incorporating dub production techniques — deep reverb, echo delays, bass drops, and spacious mixing. Atmospheric and hypnotic, with dub's studio-as-instrument philosophy.",
+    "closest_known": "Deep House, Dub Techno, Dub",
+    "family": "House",
+    "episodes": [
+      "936"
+    ],
+    "status": "review"
+  },
+  "Ragga Drum & Bass": {
+    "description": "Drum and bass featuring ragga/dancehall MC vocals, reggae bass patterns, and Jamaican musical influence over rapid breakbeats. Core fusion from jungle's original dancehall-electronic crossover.",
+    "closest_known": "Ragga, Jungle, Drum and Bass",
+    "family": "Bass Culture",
+    "episodes": [
+      "942"
+    ],
+    "status": "review"
+  },
+  "Percussion-driven Techno": {
+    "description": "Techno placing percussion at the compositional forefront — complex polyrhythmic patterns, layered drums, and minimal melodic content. Rhythmic complexity as the primary expressive element.",
+    "closest_known": "Percussive Techno, Tribal House, Minimal Techno",
+    "family": "Techno",
+    "episodes": [
+      "944"
+    ],
+    "status": "review"
+  },
+  "Latin Percussion Techno": {
+    "description": "Techno driven by Latin American percussion instruments — congas, timbales, bongos, claves — integrated into techno's electronic framework. Rhythmically rich and danceable.",
+    "closest_known": "Percussive Techno, Latin House, Tribal House",
+    "family": "Techno",
+    "episodes": [
+      "944"
+    ],
+    "status": "review"
+  },
+  "Raw Techno": {
+    "description": "Stripped-down, unpolished techno emphasizing grit, distortion, and analog rawness. Rejects clean digital production in favor of lo-fi textures, clipping, and imperfect sounds.",
+    "closest_known": "Industrial Techno, Hard Techno, Berlin Techno",
+    "family": "Techno",
+    "episodes": [
+      "945"
+    ],
+    "status": "review"
+  },
+  "Khaliji": {
+    "description": "High-energy dance music from the Arabian Gulf region, characterized by rapid hi-NRG beats, synthesizers, and traditional Arabic instrumentation. Often features call-and-response vocals and celebratory atmospheres.",
+    "closest_known": "Hi-NRG, House",
+    "family": "Global Roots",
+    "episodes": [
+      "946"
+    ],
+    "status": "review"
+  },
+  "Raï": {
+    "description": "Algerian popular music genre blending traditional Bedouin folk with modern instrumentation, known for emotional vocals and social commentary. Often adapted for dance contexts.",
+    "closest_known": "World Music, Pop",
+    "family": "Global Roots",
+    "episodes": [
+      "946"
+    ],
+    "status": "review"
+  },
+  "Khawa House": {
+    "description": "Sudanese house music that blends traditional Sudanese rhythms and instrumentation with contemporary house production. Emerging from Khartoum's underground scene.",
+    "closest_known": "House, Gqom",
+    "family": "Global Roots",
+    "episodes": [
+      "946"
+    ],
+    "status": "review"
+  },
+  "Speed Dembow": {
+    "description": "Accelerated dembow rhythms at higher BPMs, intensifying reggaeton's signature riddim into frenetic, high-energy club music. Part of the broader Latin club music acceleration trend.",
+    "closest_known": "Dembow, Reggaeton, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "948"
+    ],
+    "status": "review"
+  },
+  "Roots Reggae": {
+    "description": "Spiritually-rooted reggae emphasizing Rastafarian themes, social consciousness, and African identity. Characterized by deep bass, one-drop rhythm, and roots-conscious lyrics. Bob Marley, Burning Spear era.",
+    "closest_known": "Reggae, Dub, Dancehall",
+    "family": "Global Roots",
+    "episodes": [
+      "950",
+      "1019"
+    ],
+    "status": "review"
+  },
+  "Megatechno": {
+    "description": "Bombastic, large-scale techno designed for massive sound systems and festival stages. Maximal production, dramatic builds, and crowd-moving energy — techno at its most spectacle-oriented.",
+    "closest_known": "Hard Techno, Berlin Techno, Trance",
+    "family": "Techno",
+    "episodes": [
+      "953"
+    ],
+    "status": "review"
+  },
+  "Breakbeat Hardcore": {
+    "description": "Early 1990s UK rave music combining breakbeats with hardcore tempos, piano stabs, and hoover synths. The evolutionary bridge between acid house and jungle, before splits into happy hardcore and drum and bass.",
+    "closest_known": "Hardcore, Jungle, Breakbeat",
+    "family": "Bass Culture",
+    "episodes": [
+      "958"
+    ],
+    "status": "review"
+  },
+  "UK Club Culture": {
+    "description": "Broad descriptor for the UK's diverse club music ecosystem — encompassing garage, grime, dubstep, jungle, and their evolutions. Emphasizes the interconnected cultural lineage of British electronic dance music.",
+    "closest_known": "UK Garage, Grime, Jungle",
+    "family": "Bass Culture",
+    "episodes": [
+      "969"
+    ],
+    "status": "review"
+  },
+  "Experimental Vocal": {
+    "description": "Music centered on experimental vocal techniques — extended techniques, processing, granular manipulation, and unconventional vocal performance. Voice as primary instrument pushed beyond conventional singing.",
+    "closest_known": "Experimental, Electroacoustic, Noise",
+    "family": "Experimental",
+    "episodes": [
+      "979"
+    ],
+    "status": "review"
+  },
+  "Cyber-Singeli": {
+    "description": "A futuristic evolution of singeli pioneered by DJ Travella, pushing the genre into supersonic territory with gleaming, euphoric production and even faster tempos (170+ BPM). Unbound by traditional singeli constraints, it represents a new era of the genre.",
+    "closest_known": "Singeli",
+    "family": "Experimental",
+    "episodes": [
+      "984"
+    ],
+    "status": "review"
+  },
+  "Candombe Techno": {
+    "description": "Fusion of Uruguayan candombe percussion traditions with contemporary techno production. Candombe's syncopated rhythms and call-and-response drum patterns are integrated into club-ready beats.",
+    "closest_known": "Techno",
+    "family": "Techno",
+    "episodes": [
+      "985"
+    ],
+    "status": "review"
+  },
+  "Latin Percussion": {
+    "description": "Focus on Latin American percussion instruments and rhythmic patterns — congas, timbales, bongos, claves, güiro, and their role in both traditional and electronic music contexts.",
+    "closest_known": "Percussion, Latin, Tribal House",
+    "family": "Global Roots",
+    "episodes": [
+      "985"
+    ],
+    "status": "review"
+  },
+  "Calypso House": {
+    "description": "House music incorporating calypso and soca rhythms from Trinidad — steel pan melodies, Caribbean vocal styles, and carnival energy fused with four-on-the-floor house beats.",
+    "closest_known": "Tropical, Latin House, Afro House",
+    "family": "House",
+    "episodes": [
+      "986"
+    ],
+    "status": "review"
+  },
+  "Intelligent Drum & Bass": {
+    "description": "Alternative spelling/reference to Intelligent Drum and Bass — atmospheric, jazz-influenced D&B emphasizing musicality over aggression. LTJ Bukem's Good Looking Records aesthetic.",
+    "closest_known": "Drum and Bass, Liquid Funk, Ambient",
+    "family": "Bass Culture",
+    "episodes": [
+      "993"
+    ],
+    "status": "review"
+  },
+  "Cruise": {
+    "description": "An emerging Lagos-based dance music scene characterized by breakneck tempos, layered vocals, and DIY production aesthetics. Influenced by various African dance styles but with its own distinct internal logic.",
+    "closest_known": "Gqom",
+    "family": "Global Roots",
+    "episodes": [
+      "995"
+    ],
+    "status": "review"
+  },
+  "Hardgroove Techno": {
+    "description": "Techno variant emphasizing relentless, funky grooves with hard-hitting percussion and driving basslines. Bridges hardgroove's funk heritage with techno's mechanical intensity.",
+    "closest_known": "Hardgroove, Hard Techno, Percussive Techno",
+    "family": "Techno",
+    "episodes": [
+      "1004"
+    ],
+    "status": "review"
+  },
+  "Post-Punk Dub": {
+    "description": "Fusion of post-punk's angular aesthetics with dub production — echo, reverb, and bass weight applied to post-punk instrumentation. From Public Image Ltd to modern bass music producers.",
+    "closest_known": "Post Punk, Dub, Cold Wave",
+    "family": "Industrial",
+    "episodes": [
+      "1019"
+    ],
+    "status": "review"
+  },
+  "Electronic Dub": {
+    "description": "Dub production techniques applied to electronic music — heavy use of delay, reverb, bass drops, and spatial mixing within techno, ambient, or experimental electronic frameworks.",
+    "closest_known": "Dub Techno, Dub, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "1019"
+    ],
+    "status": "review"
+  },
+  "Experimental Reggae": {
+    "description": "Reggae pushed into experimental territory through unconventional production, electronic processing, and avant-garde approaches to the genre's rhythmic and harmonic foundations.",
+    "closest_known": "Dub, Reggae, Experimental",
+    "family": "Global Roots",
+    "episodes": [
+      "1019"
+    ],
+    "status": "review"
+  },
+  "Arabic House": {
+    "description": "House music incorporating Arabic musical elements — maqam scales, dabke rhythms, oud samples, and Middle Eastern vocal techniques fused with four-on-the-floor house production.",
+    "closest_known": "Latin House, Tribal House, Afro House",
+    "family": "House",
+    "episodes": [
+      "1020"
+    ],
+    "status": "review"
+  },
+  "Dubby Electronics": {
+    "description": "Electronic music heavily influenced by dub production aesthetics — cavernous reverb, tape delay, sub-bass emphasis, and the spacious mixing philosophy of Jamaican dub tradition.",
+    "closest_known": "Dub Techno, Dub, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "1028"
+    ],
+    "status": "review"
+  },
+  "Latin Fusion": {
+    "description": "Music blending Latin American traditions with other genres — jazz, rock, electronic, funk. Broad crossover category emphasizing cultural hybridization and rhythmic diversity.",
+    "closest_known": "Latin, World Music, Jazz",
+    "family": "Global Roots",
+    "episodes": [
+      "1029"
+    ],
+    "status": "review"
+  },
+  "Vogue": {
+    "description": "Music and dance culture from ballroom scene — fierce, dramatic, and competitive. Synonymous with voguing — runway-inspired poses and dance moves performed to pumping house and ballroom beats.",
+    "closest_known": "Ballroom, Garage House, Hi-NRG",
+    "family": "House",
+    "episodes": [
+      "1032"
+    ],
+    "status": "review"
+  },
+  "Sci-Fi Techno": {
+    "description": "Techno with science fiction-inspired aesthetics — futuristic synth textures, space-themed soundscapes, and cosmic narratives. From Drexciya's Afrofuturism to Model 500's cosmic techno.",
+    "closest_known": "Detroit Techno, Electro, Ambient Techno",
+    "family": "Techno",
+    "episodes": [
+      "1042"
+    ],
+    "status": "review"
+  },
+  "Post-Hip-Hop": {
+    "description": "Experimental music departing from hip hop conventions while retaining its influence — abstract beats, deconstructed sampling, and avant-garde approaches to rhythm and texture rooted in hip hop culture.",
+    "closest_known": "Hip Hop, IDM, Trip Hop",
+    "family": "Hip Hop",
+    "episodes": [
+      "1043"
+    ],
+    "status": "review"
+  },
+  "Gospel-Influenced Abstraction": {
+    "description": "Experimental electronic music channeling gospel music's emotional intensity and spiritual transcendence through abstract production — choral samples, church organ textures, and devotional energy processed into avant-garde forms.",
+    "closest_known": "Experimental, Soul, Ambient",
+    "family": "Experimental",
+    "episodes": [
+      "1043"
+    ],
+    "status": "review"
+  },
+  "Brazilian House": {
+    "description": "House music incorporating Brazilian musical elements — samba rhythms, bossa nova harmonies, percussão batucada, and Portuguese-language vocals fused with house's four-on-the-floor foundation.",
+    "closest_known": "Afro House, Latin House, Tribal House",
+    "family": "House",
+    "episodes": [
+      "1044"
+    ],
+    "status": "review"
+  }
+}
