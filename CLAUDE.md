@@ -52,22 +52,30 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
   - Klikací názov mixu nad prehrávačom → otvorí detail
   - **Search box** (bottom-right corner) — autocomplete dropdown, keyboard nav (↑↓/Enter/Esc), zoom-to-node s highlight neighbors
 - **Explore tab features**:
-  - Label categories v 3 columns: **Col1**: Mood, Setting, Era, RA Tags | **Col2**: Energy, Geography | **Col3**: Vibe, Style
-  - `display: flex` s 3 rovnaký stĺpcami (flex: 1) — presný kontrola poradia
-  - Visual hierarchy: Primary group (Mood, Energy, Vibe) so silnejším neon glow (box-shadow 0.18 alpha, 3px top bar); metadata group (Era, RA Tags) muted (75% opacity, hover→100%)
-  - RA Tags (keywords) — **normalized**: case to title case, HTML entities decoded, deduplicated
+  - Desktop: Label categories v 3 columns: **Col1**: Mood, Setting, Era | **Col2**: Energy, Geography | **Col3**: Vibe, Style
+  - Mobile: Single-column layout s poradím: Mood → Setting → Energy → Geography → Vibe → Era (bez Style)
+  - `display: flex` s rovnaký stĺpcami (flex: 1) — presný kontrola poradia
+  - Visual hierarchy: Primary group (Mood, Energy, Vibe) so silnejším neon glow (box-shadow 0.18 alpha, 3px top bar); metadata group (Era) muted (75% opacity, hover→100%)
+  - RA Tags (keywords) — **normalized**: case to title case, HTML entities decoded, deduplicated — zobrazujú sa na konci
   - Detail panel chips order: genres → LLM labels → RA Tags
   - Genre chip tooltips — hover → glassmorphism tooltip s popisom žánru + family label
 
-### Mobile Optimizations (2026-04-04)
+### Mobile Optimizations (2026-04-04/05)
 - **Bottom tab bar**: 3-tab navigation (Mixes | Genre Map | Explore) — mobile-only, hidden on desktop
 - **Mixes tab**: Kompaktný list view (RA.1032 · Artist · Date), in-tab detail view s Back tlačidlom
 - **Detail panel**: Bottom sheet pattern — default 50vh, expandable na 90vh on swipe
-- **Touch targets**: Minimum 44px (iOS HIG), 8px 14px padding na chips, buttons
-- **D3 graph mobile**: Dekoratívny element (opacity 0.4, pointer-events: none), search box skrytý
+- **Touch targets**: Minimum 44px (iOS HIG) — invisible hit circles on nodes (`node-hit`), 8px 14px padding na chips
+- **D3 graph mobile**: **Interactive** (opacity 1.0, pointer-events: auto), pinch-zoom native (D3), semantic zoom adjusted for mobile (lower thresholds)
+  - Node drag disabled on touch (`.filter(event => event.pointerType === 'mouse')`) — prioritizuje pan/zoom gestures
+  - 1 prst = pan graf, 2 prsty = pinch-zoom
+- **Graph search**: Repositioned to top (full-width), autocomplete keyboard nav
+- **Click vs pan**: Distinguish between tap and pan gesture (>5px = drag, don't trigger clearSelection)
+- **Tooltips**: Hidden on mobile (`display: none !important`)
+- **Clickable elements**: Genre chips, label chips have onclick handlers in all views
 - **Interactive states**: `:hover` → `:active` + `:focus-visible` na všetkých tapovateľných elementoch
-- **Safe area support**: `env(safe-area-inset-top/bottom)` na header + tab bar pre notch devices
-- **Tap count**: Discover & play mix → 3 tapy (Mixes → select → Listen)
+- **Safe area support**: `env(safe-area-inset-bottom)` na tab bar; header uses `env(safe-area-inset-top)`
+- **Fixed (5/4/2026)**: Mixes tab detail panel now displays correctly when mix is clicked (was hidden due to missing `display` style assignment). Pan/zoom on Genre Map now works smoothly on mobile (node drag disabled on touch).
+- **Known issue — Mixes detail scroll**: Detail view stays scrolled to previous mix's position instead of resetting to top (mobile only). Root cause unknown after extensive debugging (scrollTop, requestAnimationFrame, element recreation, CSS overflow changes all failed). May be browser behavior or CSS property interaction. Workaround: user can manually scroll to top.
 
 ## Skills
 
