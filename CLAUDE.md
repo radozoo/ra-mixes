@@ -7,6 +7,7 @@ Interaktívna D3.js vizualizácia žánrového grafu RA podcast mixov. Jeden sel
 
 ### Hlavné súbory
 - `ra_genre_network.html` — výstupný HTML (~6.8MB), generovaný build skriptom
+- `index.html` — alias pre GitHub Pages (`ra_genre_network.html` skopírovaný pre GitHub Pages publikáciu)
 - `scripts/build_network_html.py` — hlavný build skript, generuje HTML z dát
 - `data/genre_musicology.json` — **muzikologický knowledge graph** (136 nodes, 192 edges) — vzťahy medzi žánrami (evolved_from, influenced_by, shares_elements, regional_variant, subgenre_of) so strength 1-5
 - `data/genre_hierarchy.json` — hierarchia žánrov (L1 families → L2 → L3), 8 rodín
@@ -76,6 +77,13 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
 - **Safe area support**: `env(safe-area-inset-bottom)` na tab bar; header uses `env(safe-area-inset-top)`
 - **Fixed (5/4/2026)**: Mixes tab detail panel now displays correctly when mix is clicked (was hidden due to missing `display` style assignment). Pan/zoom on Genre Map now works smoothly on mobile (node drag disabled on touch).
 - **Known issue — Mixes detail scroll**: Detail view stays scrolled to previous mix's position instead of resetting to top (mobile only). Root cause unknown after extensive debugging (scrollTop, requestAnimationFrame, element recreation, CSS overflow changes all failed). May be browser behavior or CSS property interaction. Workaround: user can manually scroll to top.
+
+## Publikácia
+
+**GitHub Pages**: https://radozoo.github.io/ra-mixes/
+- Repo musí byť **public** (GitHub Pages na private repo vyžaduje GitHub Pro)
+- `index.html` je automatically servírovaný ako homepage
+- Po každom `git push origin main` sa stránka updatne (za ~30 sekúnd)
 
 ## Skills
 
