@@ -1708,11 +1708,13 @@ if (searchClear) {{
 renderEpisodeList();
 
 // ── Label & Genre Filter Panel ─────────────────────────────────────────────
-const CAT_ORDER = ['mood','setting','energy','geography','vibe','era'];
-const CAT_NAMES = {{ mood:'Mood', energy:'Energy', vibe:'Vibe', geography:'Geography', setting:'Setting', era:'Era' }};
+const CAT_ORDER = ['mood','setting','era','energy','geography','vibe','style'];
+const CAT_ORDER_MOBILE = ['mood','setting','energy','geography','vibe','era'];
+const CAT_NAMES = {{ mood:'Mood', energy:'Energy', vibe:'Vibe', style:'Style', geography:'Geography', setting:'Setting', era:'Era' }};
 const CAT_GROUPS = [
   ['mood', 'energy', 'vibe'],
-  ['setting', 'geography', 'era'],
+  ['geography', 'setting', 'style'],
+  ['era'],
 ];
 const DEFAULT_SHOW = 80;
 
@@ -1873,12 +1875,23 @@ function renderLabelMasonry() {{
   const col3 = document.createElement('div');
   col3.className = 'label-column';
 
-  // Column mapping: mood, setting → col1; energy, geography → col2; vibe, era → col3
-  const columnMap = {{
-    mood: col1, setting: col1,
-    energy: col2, geography: col2,
-    vibe: col3, era: col3
-  }};
+  // On mobile: single column with CAT_ORDER_MOBILE; on desktop: 3 columns with CAT_ORDER
+  const isMobile = window.innerWidth <= 768;
+  const effectiveCatOrder = isMobile ? CAT_ORDER_MOBILE : CAT_ORDER;
+
+  let columnMap;
+  if (isMobile) {{
+    // Single column on mobile
+    columnMap = {{}};
+    CAT_ORDER_MOBILE.forEach(cat => {{ columnMap[cat] = col1; }});
+  }} else {{
+    // 3 columns on desktop
+    columnMap = {{
+      mood: col1, setting: col1, era: col1,
+      energy: col2, geography: col2,
+      vibe: col3, style: col3
+    }};
+  }}
 
   const filteredMixes = getFilteredMixes();
   const displayCounts = activeFilters.length > 0
@@ -1886,7 +1899,7 @@ function renderLabelMasonry() {{
     : LABEL_COUNTS;
 
   // Render categories into their assigned columns
-  CAT_ORDER.forEach(cat => {{
+  effectiveCatOrder.forEach(cat => {{
       let entries = Object.entries(displayCounts[cat] || {{}})
         .sort((a, b) => b[1] - a[1]);
       if (labelSearchQuery) entries = entries.filter(([l]) => l.toLowerCase().includes(labelSearchQuery));
