@@ -4,607 +4,613 @@
       "id": "Techno",
       "count": 453,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "House",
-      "count": 408,
+      "count": 409,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Minimal Techno",
       "count": 281,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Deep House",
       "count": 265,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Experimental",
       "count": 241,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Ambient Techno",
       "count": 159,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Detroit Techno",
       "count": 142,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Electro",
       "count": 138,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Industrial Techno",
       "count": 129,
-      "family": "Techno",
-      "color": "#e63946"
+      "family": "Industrial",
+      "color": "#94a3b8"
     },
     {
       "id": "Drum and Bass",
-      "count": 121,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "count": 122,
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Tech House",
       "count": 114,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Dub Techno",
-      "count": 108,
+      "count": 109,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Ambient",
-      "count": 93,
+      "count": 94,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "IDM",
-      "count": 81,
+      "count": 82,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Breakbeat",
-      "count": 71,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "count": 72,
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "UK Garage",
       "count": 70,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Disco",
       "count": 68,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Groove",
+      "color": "#fceba5"
     },
     {
       "id": "Funk",
       "count": 61,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Groove",
+      "color": "#fceba5"
     },
     {
       "id": "Dubstep",
       "count": 60,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Electronic",
       "count": 54,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Acid Techno",
       "count": 54,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Soul",
       "count": 50,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Groove",
+      "color": "#fceba5"
     },
     {
       "id": "Acid House",
       "count": 47,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Glitch",
       "count": 44,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
+    },
+    {
+      "id": "Dub",
+      "count": 44,
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Grime",
       "count": 44,
-      "family": "Bass",
-      "color": "#2a9d8f"
-    },
-    {
-      "id": "Dub",
-      "count": 43,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Footwork",
       "count": 42,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Downtempo",
-      "count": 41,
-      "family": "Downtempo",
-      "color": "#7678ed"
+      "count": 42,
+      "family": "Experimental",
+      "color": "#c77dff"
     },
     {
       "id": "Electroacoustic",
       "count": 40,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Club Music",
       "count": 38,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Jungle",
       "count": 38,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Melodic Techno",
       "count": 37,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Berlin Techno",
       "count": 36,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Chicago House",
       "count": 35,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Organic House",
       "count": 33,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Jazz",
       "count": 32,
-      "family": "Downtempo",
-      "color": "#7678ed"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "UK Bass",
       "count": 31,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Microhouse",
       "count": 30,
-      "family": "House",
-      "color": "#f4a261"
+      "family": "Techno",
+      "color": "#d41d4a"
     },
     {
       "id": "Hard Techno",
       "count": 30,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Hip Hop",
-      "count": 28,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "count": 29,
+      "family": "Hip Hop",
+      "color": "#fb7eb8"
     },
     {
       "id": "Garage House",
       "count": 28,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Bass Music",
       "count": 27,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "EBM",
       "count": 26,
-      "family": "Industrial & Wave",
-      "color": "#b5838d"
+      "family": "Industrial",
+      "color": "#94a3b8"
     },
     {
       "id": "Industrial",
       "count": 25,
-      "family": "Industrial & Wave",
-      "color": "#b5838d"
+      "family": "Industrial",
+      "color": "#94a3b8"
     },
     {
       "id": "Balearic",
       "count": 23,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Groove",
+      "color": "#fceba5"
     },
     {
       "id": "Trance",
       "count": 23,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Drone",
       "count": 21,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Dancehall",
       "count": 18,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Afro House",
       "count": 18,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Kosmische",
       "count": 18,
-      "family": "Experimental",
-      "color": "#8ecae6"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Progressive House",
       "count": 17,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Post Punk",
       "count": 16,
-      "family": "Industrial & Wave",
-      "color": "#b5838d"
+      "family": "Industrial",
+      "color": "#94a3b8"
     },
     {
       "id": "Noise",
       "count": 16,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Juke",
       "count": 15,
-      "family": "Experimental",
-      "color": "#8ecae6"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Latin",
       "count": 15,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Hardcore",
       "count": 15,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Nu-Disco",
       "count": 14,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Groove",
+      "color": "#fceba5"
     },
     {
       "id": "Italo Disco",
       "count": 13,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Groove",
+      "color": "#fceba5"
     },
     {
       "id": "New Wave",
       "count": 13,
-      "family": "Industrial & Wave",
-      "color": "#b5838d"
+      "family": "Industrial",
+      "color": "#94a3b8"
     },
     {
       "id": "Baile Funk",
       "count": 12,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Gqom",
       "count": 11,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Electro House",
       "count": 10,
       "family": "House",
-      "color": "#f4a261"
+      "color": "#f59e42"
     },
     {
       "id": "Reggae",
       "count": 9,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Club Rap",
       "count": 7,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Hip Hop",
+      "color": "#fb7eb8"
     },
     {
       "id": "Krautrock",
       "count": 7,
-      "family": "Experimental",
-      "color": "#8ecae6"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Afrobeats",
       "count": 7,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Reggaeton",
       "count": 7,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "R&B",
       "count": 6,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Psychedelic",
       "count": 6,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Bassline",
       "count": 5,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Cumbia",
       "count": 5,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Rave",
       "count": 4,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Ghetto House",
       "count": 4,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Chillout",
       "count": 4,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Synth Pop",
       "count": 4,
-      "family": "Industrial & Wave",
-      "color": "#b5838d"
+      "family": "Industrial",
+      "color": "#94a3b8"
     },
     {
       "id": "Ballroom",
       "count": 4,
-      "family": "Downtempo",
-      "color": "#7678ed"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Amapiano",
       "count": 4,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Baltimore Club",
       "count": 3,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Kuduro",
       "count": 3,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Batida",
       "count": 3,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Ghetto Tech",
       "count": 3,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Lo-Fi",
       "count": 3,
-      "family": "Downtempo",
-      "color": "#7678ed"
+      "family": "Experimental",
+      "color": "#c77dff"
     },
     {
       "id": "Breakcore",
       "count": 3,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "World Music",
       "count": 3,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Trip Hop",
       "count": 3,
-      "family": "Downtempo",
-      "color": "#7678ed"
+      "family": "Experimental",
+      "color": "#c77dff"
     },
     {
       "id": "Tropical",
       "count": 3,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Percussion",
       "count": 3,
       "family": "Experimental",
-      "color": "#8ecae6"
+      "color": "#c77dff"
     },
     {
       "id": "Goa Trance",
       "count": 3,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Miami Bass",
       "count": 2,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Ragga",
       "count": 2,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Ambient House",
       "count": 2,
-      "family": "House",
-      "color": "#f4a261"
+      "family": "Experimental",
+      "color": "#c77dff"
     },
     {
       "id": "Classical",
       "count": 2,
-      "family": "Downtempo",
-      "color": "#7678ed"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Future Bass",
       "count": 2,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Trap",
       "count": 2,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Hip Hop",
+      "color": "#fb7eb8"
     },
     {
       "id": "Boogie",
       "count": 2,
-      "family": "Disco & Soul",
-      "color": "#e9c46a"
+      "family": "Groove",
+      "color": "#fceba5"
     },
     {
       "id": "Psychedelic Techno",
       "count": 2,
       "family": "Techno",
-      "color": "#e63946"
+      "color": "#d41d4a"
     },
     {
       "id": "Pop",
       "count": 2,
-      "family": "Downtempo",
-      "color": "#7678ed"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "UK Funky",
       "count": 2,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Dembow",
       "count": 2,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
     },
     {
       "id": "Liquid Funk",
       "count": 2,
-      "family": "Bass",
-      "color": "#2a9d8f"
+      "family": "Bass Culture",
+      "color": "#06b6d4"
     },
     {
       "id": "Guaracha",
       "count": 2,
-      "family": "Global",
-      "color": "#06d6a0"
+      "family": "Global Roots",
+      "color": "#22c55e"
+    },
+    {
+      "id": "Electronica",
+      "count": 2,
+      "family": "Experimental",
+      "color": "#c77dff"
     }
   ],
   "edges": [
@@ -645,12 +651,12 @@
     },
     {
       "source": "Deep House",
-      "target": "Minimal Techno",
+      "target": "Techno",
       "weight": 74
     },
     {
       "source": "Deep House",
-      "target": "Techno",
+      "target": "Minimal Techno",
       "weight": 74
     },
     {
@@ -874,6 +880,11 @@
       "weight": 27
     },
     {
+      "source": "Drum and Bass",
+      "target": "House",
+      "weight": 26
+    },
+    {
       "source": "Chicago House",
       "target": "House",
       "weight": 26
@@ -892,11 +903,6 @@
       "source": "Grime",
       "target": "UK Garage",
       "weight": 26
-    },
-    {
-      "source": "Drum and Bass",
-      "target": "House",
-      "weight": 25
     },
     {
       "source": "Deep House",
@@ -939,18 +945,23 @@
       "weight": 23
     },
     {
-      "source": "Deep House",
+      "source": "House",
       "target": "Organic House",
       "weight": 22
     },
     {
-      "source": "House",
+      "source": "Deep House",
       "target": "Organic House",
       "weight": 22
     },
     {
       "source": "Microhouse",
       "target": "Minimal Techno",
+      "weight": 21
+    },
+    {
+      "source": "Breakbeat",
+      "target": "House",
       "weight": 21
     },
     {
@@ -984,11 +995,6 @@
       "weight": 21
     },
     {
-      "source": "Breakbeat",
-      "target": "House",
-      "weight": 20
-    },
-    {
       "source": "Electro",
       "target": "Industrial Techno",
       "weight": 20
@@ -996,6 +1002,11 @@
     {
       "source": "House",
       "target": "Jazz",
+      "weight": 20
+    },
+    {
+      "source": "Ambient",
+      "target": "Downtempo",
       "weight": 20
     },
     {
@@ -1029,11 +1040,6 @@
       "weight": 19
     },
     {
-      "source": "Ambient",
-      "target": "Downtempo",
-      "weight": 19
-    },
-    {
       "source": "Dub Techno",
       "target": "House",
       "weight": 19
@@ -1064,6 +1070,11 @@
       "weight": 18
     },
     {
+      "source": "Hip Hop",
+      "target": "House",
+      "weight": 18
+    },
+    {
       "source": "Chicago House",
       "target": "Deep House",
       "weight": 18
@@ -1084,23 +1095,18 @@
       "weight": 18
     },
     {
+      "source": "Breakbeat",
+      "target": "Drum and Bass",
+      "weight": 18
+    },
+    {
       "source": "Melodic Techno",
       "target": "Techno",
       "weight": 17
     },
     {
-      "source": "Hip Hop",
-      "target": "House",
-      "weight": 17
-    },
-    {
       "source": "Dubstep",
       "target": "Grime",
-      "weight": 17
-    },
-    {
-      "source": "Breakbeat",
-      "target": "Drum and Bass",
       "weight": 17
     },
     {
@@ -1132,6 +1138,11 @@
       "source": "Techno",
       "target": "Trance",
       "weight": 16
+    },
+    {
+      "source": "Ambient",
+      "target": "IDM",
+      "weight": 15
     },
     {
       "source": "Detroit Techno",
@@ -1181,11 +1192,6 @@
     {
       "source": "House",
       "target": "Melodic Techno",
-      "weight": 14
-    },
-    {
-      "source": "Ambient",
-      "target": "IDM",
       "weight": 14
     },
     {
@@ -1304,6 +1310,11 @@
       "weight": 13
     },
     {
+      "source": "Dub Techno",
+      "target": "IDM",
+      "weight": 12
+    },
+    {
       "source": "Acid Techno",
       "target": "Experimental",
       "weight": 12
@@ -1379,11 +1390,6 @@
       "weight": 11
     },
     {
-      "source": "Dub Techno",
-      "target": "IDM",
-      "weight": 11
-    },
-    {
       "source": "Downtempo",
       "target": "Experimental",
       "weight": 11
@@ -1436,6 +1442,11 @@
     {
       "source": "Bass Music",
       "target": "Techno",
+      "weight": 10
+    },
+    {
+      "source": "Ambient",
+      "target": "Dub Techno",
       "weight": 10
     },
     {
@@ -1529,11 +1540,6 @@
       "weight": 10
     },
     {
-      "source": "Ambient",
-      "target": "Dub Techno",
-      "weight": 9
-    },
-    {
       "source": "EBM",
       "target": "Electro",
       "weight": 9
@@ -1554,12 +1560,12 @@
       "weight": 9
     },
     {
-      "source": "Electronic",
+      "source": "Experimental",
       "target": "Kosmische",
       "weight": 9
     },
     {
-      "source": "Experimental",
+      "source": "Electronic",
       "target": "Kosmische",
       "weight": 9
     },
@@ -1614,8 +1620,8 @@
       "weight": 9
     },
     {
-      "source": "Dancehall",
-      "target": "Techno",
+      "source": "Club Music",
+      "target": "Dancehall",
       "weight": 8
     },
     {
@@ -1624,8 +1630,8 @@
       "weight": 8
     },
     {
-      "source": "Club Music",
-      "target": "Dancehall",
+      "source": "Dancehall",
+      "target": "Techno",
       "weight": 8
     },
     {
@@ -1755,12 +1761,17 @@
     },
     {
       "source": "Balearic",
-      "target": "Disco",
+      "target": "Techno",
       "weight": 7
     },
     {
       "source": "Balearic",
-      "target": "Techno",
+      "target": "Disco",
+      "weight": 7
+    },
+    {
+      "source": "Ambient",
+      "target": "Dub",
       "weight": 7
     },
     {
@@ -1909,11 +1920,6 @@
       "weight": 6
     },
     {
-      "source": "Detroit Techno",
-      "target": "Disco",
-      "weight": 6
-    },
-    {
       "source": "Funk",
       "target": "Hip Hop",
       "weight": 6
@@ -1925,17 +1931,22 @@
     },
     {
       "source": "Detroit Techno",
-      "target": "Melodic Techno",
+      "target": "Disco",
       "weight": 6
     },
     {
-      "source": "Dancehall",
-      "target": "Grime",
+      "source": "Detroit Techno",
+      "target": "Melodic Techno",
       "weight": 6
     },
     {
       "source": "Baile Funk",
       "target": "Dancehall",
+      "weight": 6
+    },
+    {
+      "source": "Dancehall",
+      "target": "Grime",
       "weight": 6
     },
     {
@@ -1959,7 +1970,7 @@
       "weight": 6
     },
     {
-      "source": "Ambient",
+      "source": "Downtempo",
       "target": "Dub",
       "weight": 6
     },
@@ -1996,6 +2007,11 @@
     {
       "source": "Soul",
       "target": "Techno",
+      "weight": 6
+    },
+    {
+      "source": "Downtempo",
+      "target": "IDM",
       "weight": 6
     },
     {
@@ -2045,12 +2061,12 @@
     },
     {
       "source": "Club Music",
-      "target": "Grime",
+      "target": "UK Garage",
       "weight": 6
     },
     {
       "source": "Club Music",
-      "target": "UK Garage",
+      "target": "Grime",
       "weight": 6
     },
     {
@@ -2094,18 +2110,13 @@
       "weight": 5
     },
     {
-      "source": "Electro",
-      "target": "Italo Disco",
-      "weight": 5
-    },
-    {
       "source": "Chicago House",
       "target": "Electro",
       "weight": 5
     },
     {
-      "source": "Electro House",
-      "target": "Tech House",
+      "source": "Electro",
+      "target": "Italo Disco",
       "weight": 5
     },
     {
@@ -2114,12 +2125,17 @@
       "weight": 5
     },
     {
-      "source": "Organic House",
+      "source": "Electro House",
       "target": "Tech House",
       "weight": 5
     },
     {
       "source": "Melodic Techno",
+      "target": "Tech House",
+      "weight": 5
+    },
+    {
+      "source": "Organic House",
       "target": "Tech House",
       "weight": 5
     },
@@ -2164,8 +2180,8 @@
       "weight": 5
     },
     {
-      "source": "Downtempo",
-      "target": "Dub",
+      "source": "Dub",
+      "target": "Dub Techno",
       "weight": 5
     },
     {
@@ -2206,11 +2222,6 @@
     {
       "source": "House",
       "target": "UK Bass",
-      "weight": 5
-    },
-    {
-      "source": "Downtempo",
-      "target": "IDM",
       "weight": 5
     },
     {
@@ -2349,13 +2360,18 @@
       "weight": 5
     },
     {
-      "source": "Breakbeat",
-      "target": "Grime",
+      "source": "Downtempo",
+      "target": "Dub Techno",
       "weight": 5
     },
     {
       "source": "Gqom",
       "target": "House",
+      "weight": 5
+    },
+    {
+      "source": "Breakbeat",
+      "target": "Grime",
       "weight": 5
     },
     {
