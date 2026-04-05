@@ -1708,12 +1708,11 @@ if (searchClear) {{
 renderEpisodeList();
 
 // ── Label & Genre Filter Panel ─────────────────────────────────────────────
-const CAT_ORDER = ['mood','setting','era','energy','geography','vibe','style'];
-const CAT_NAMES = {{ mood:'Mood', energy:'Energy', vibe:'Vibe', style:'Style', geography:'Geography', setting:'Setting', era:'Era' }};
+const CAT_ORDER = ['mood','setting','energy','geography','vibe','era'];
+const CAT_NAMES = {{ mood:'Mood', energy:'Energy', vibe:'Vibe', geography:'Geography', setting:'Setting', era:'Era' }};
 const CAT_GROUPS = [
   ['mood', 'energy', 'vibe'],
-  ['geography', 'setting', 'style'],
-  ['era'],
+  ['setting', 'geography', 'era'],
 ];
 const DEFAULT_SHOW = 80;
 
@@ -1874,11 +1873,11 @@ function renderLabelMasonry() {{
   const col3 = document.createElement('div');
   col3.className = 'label-column';
 
-  // Column mapping: mood, setting, era, __kw__ → col1; energy, geography → col2; vibe, style → col3
+  // Column mapping: mood, setting → col1; energy, geography → col2; vibe, era → col3
   const columnMap = {{
-    mood: col1, setting: col1, era: col1,
+    mood: col1, setting: col1,
     energy: col2, geography: col2,
-    vibe: col3, style: col3
+    vibe: col3, era: col3
   }};
 
   const filteredMixes = getFilteredMixes();
