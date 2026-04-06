@@ -3001,6 +3001,7 @@ function showMixesDetail(mix) {{
   if (!mixesList || !mixesDetail || !mixesArea) return;
 
   mixesList.style.display = 'none';
+  mixesDetail.style.display = '';
 
   // Reset scroll on parent container
   mixesDetail.scrollTop = 0;
