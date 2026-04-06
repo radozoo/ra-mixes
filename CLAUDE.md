@@ -80,6 +80,10 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
 - **Safe area support**: `env(safe-area-inset-bottom)` na tab bar; header uses `env(safe-area-inset-top)`
 - **Fixed (5/4/2026)**: Mixes tab detail panel now displays correctly when mix is clicked (was hidden due to missing `display` style assignment). Pan/zoom on Genre Map now works smoothly on mobile (node drag disabled on touch).
 - **Fixed (6/4/2026)**: Years added to all date displays. Listen button fixed for old SoundCloud API URLs (RA.635 now plays correctly). Mixes search box added with real-time filtering. Search box hides when detail view opens.
+- **Fixed (6/4/2026)** — **Build & sorting fixes**: 
+  - Build script now sorts mixes by **date DESC** (newest first), not podcast_id DESC. This is critical for proper chronological ordering.
+  - Mobile Mixes tab now correctly uses `detailPanel` (bottom sheet) via `selectEpisode()`, while desktop uses `mixesDetail()`. Viewport detection: `window.innerWidth < 768`.
+  - When adding new mixes, ensure raw JSON (`data/raw/episode_NNNN.json`) and `episodes.jsonl` have **correct dates** — mismatched dates cause mixes to appear in wrong positions.
 - **Known issue — Mixes detail scroll**: Detail view stays scrolled to previous mix's position instead of resetting to top (mobile only). Root cause unknown after extensive debugging (scrollTop, requestAnimationFrame, element recreation, CSS overflow changes all failed). May be browser behavior or CSS property interaction. Workaround: user can manually scroll to top.
 
 ## Publikácia
