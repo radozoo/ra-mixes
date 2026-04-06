@@ -2989,7 +2989,14 @@ function renderMixesList() {{
   list.querySelectorAll('.mix-row').forEach(row => {{
     row.addEventListener('click', () => {{
       const mix = mixMap.get(row.dataset.id);
-      if (mix) showMixesDetail(mix);
+      if (mix) {{
+        // On mobile, use detailPanel; on desktop, use mixesDetail
+        if (window.innerWidth < 768) {{
+          selectEpisode(mix);
+        }} else {{
+          showMixesDetail(mix);
+        }}
+      }}
     }});
   }});
 }}
