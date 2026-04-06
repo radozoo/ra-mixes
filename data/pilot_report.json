@@ -1,17 +1,17 @@
 {
-  "run_at": "2026-03-30T11:57:53.251657+00:00",
+  "run_at": "2026-04-06T12:48:49.943611+00:00",
   "podcast_ids": [
-    "1051"
+    "1033"
   ],
   "total": 1,
   "scraped": 1,
   "failed": 0,
   "has_tracklist": 1,
-  "total_tracks": 13,
-  "total_genre_edges": 4,
+  "total_tracks": 34,
+  "total_genre_edges": 7,
   "scrape_quality": {
     "full": 1
   },
   "tracklist_rate": "100.0%",
-  "avg_tracks_per_episode": 13.0
+  "avg_tracks_per_episode": 34.0
 }

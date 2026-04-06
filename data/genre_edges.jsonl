@@ -4765,3 +4765,10 @@
 {"entity_type": "episode", "entity_id": "1014", "genre_raw": "UK Bass", "genre_canonical": "UK Bass", "source": "llm", "confidence": 0.85}
 {"entity_type": "episode", "entity_id": "1014", "genre_raw": "House", "genre_canonical": "House", "source": "llm", "confidence": 0.85}
 {"entity_type": "episode", "entity_id": "1014", "genre_raw": "Dembow", "genre_canonical": "Dembow", "source": "llm", "confidence": 0.85}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "Techno", "genre_canonical": "Techno", "source": "llm", "confidence": 0.85}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "House", "genre_canonical": "House", "source": "llm", "confidence": 0.85}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "Dub Techno", "genre_canonical": "Dub Techno", "source": "llm", "confidence": 0.85}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "Progressive House", "genre_canonical": "Progressive House", "source": "llm", "confidence": 0.85}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "Minimal Techno", "genre_canonical": "Minimal Techno", "source": "llm", "confidence": 0.85}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "Tribal House", "genre_canonical": "Tribal House", "source": "llm", "confidence": 0.85}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "Ambient Techno", "genre_canonical": "Ambient Techno", "source": "llm", "confidence": 0.85}
