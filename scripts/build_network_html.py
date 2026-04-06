@@ -162,6 +162,9 @@ def load_mixes():
         ep["id"] = pid
         mixes.append(ep)
 
+    # ── Sort by date DESC (newest first) for proper chronological display ────
+    mixes.sort(key=lambda m: m.get("date") or "", reverse=True)
+
     return mixes
 
 
