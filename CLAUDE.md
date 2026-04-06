@@ -61,9 +61,12 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
   - Detail panel chips order: genres → LLM labels → RA Tags
   - Genre chip tooltips — hover → glassmorphism tooltip s popisom žánru + family label
 
-### Mobile Optimizations (2026-04-04/05)
+### Mobile Optimizations (2026-04-04/05/06)
 - **Bottom tab bar**: 3-tab navigation (Mixes | Genre Map | Explore) — mobile-only, hidden on desktop
-- **Mixes tab**: Kompaktný list view (RA.1032 · Artist · Date), in-tab detail view s Back tlačidlom
+- **Mixes tab**: Kompaktný list view (RA.1032 · Artist · Date with year), in-tab detail view s Back tlačidlom, search box (hides during detail view)
+  - **Search box** (top of list) — real-time filter by artist name or mix number (e.g., "TC80", "635", "RA.635")
+  - **Date display**: Shows year (e.g., "29 Mar 2018") — formatted via `formatMixDate()`
+  - **Listen button**: Uses `playMix()` which converts `api.soundcloud.com/tracks/ID` → proper embed URL via `getEmbedInfo()` (fixes old mixes like RA.635)
 - **Detail panel**: Bottom sheet pattern — default 50vh, expandable na 90vh on swipe
 - **Touch targets**: Minimum 44px (iOS HIG) — invisible hit circles on nodes (`node-hit`), 8px 14px padding na chips
 - **D3 graph mobile**: **Interactive** (opacity 1.0, pointer-events: auto), pinch-zoom native (D3), semantic zoom adjusted for mobile (lower thresholds)
@@ -76,14 +79,21 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
 - **Interactive states**: `:hover` → `:active` + `:focus-visible` na všetkých tapovateľných elementoch
 - **Safe area support**: `env(safe-area-inset-bottom)` na tab bar; header uses `env(safe-area-inset-top)`
 - **Fixed (5/4/2026)**: Mixes tab detail panel now displays correctly when mix is clicked (was hidden due to missing `display` style assignment). Pan/zoom on Genre Map now works smoothly on mobile (node drag disabled on touch).
+- **Fixed (6/4/2026)**: Years added to all date displays. Listen button fixed for old SoundCloud API URLs (RA.635 now plays correctly). Mixes search box added with real-time filtering. Search box hides when detail view opens.
 - **Known issue — Mixes detail scroll**: Detail view stays scrolled to previous mix's position instead of resetting to top (mobile only). Root cause unknown after extensive debugging (scrollTop, requestAnimationFrame, element recreation, CSS overflow changes all failed). May be browser behavior or CSS property interaction. Workaround: user can manually scroll to top.
 
 ## Publikácia
 
 **GitHub Pages**: https://radozoo.github.io/ra-mixes/
 - Repo musí byť **public** (GitHub Pages na private repo vyžaduje GitHub Pro)
-- `index.html` je automatically servírovaný ako homepage
-- Po každom `git push origin main` sa stránka updatne (za ~30 sekúnd)
+- `index.html` je automatically servírovaný ako homepage (GitHub Pages serves `index.html`, NOT `ra_genre_network.html`)
+- **CRITICAL**: Po každej úprave `ra_genre_network.html` musíš synchronizovať `index.html`:
+  ```bash
+  cp ra_genre_network.html index.html
+  git add index.html && git commit -m "sync: Update index.html ..."
+  git push origin main
+  ```
+- Po `git push origin main` sa stránka updatne za ~30 sekúnd
 
 ## Skills
 
