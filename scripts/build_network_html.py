@@ -375,6 +375,44 @@ body::after {{
   border-color: var(--neon-cyan);
   box-shadow: 0 0 0 3px rgba(0,229,255,0.08), inset 0 0 20px rgba(0,229,255,0.03);
 }}
+
+/* Mixes tab search box */
+.mixes-search-box {{
+  position: relative;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--glass-border);
+}}
+.mixes-search-input {{
+  width: 100%;
+  padding: 9px 36px 9px 12px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  color: var(--text-bright);
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 300;
+  outline: none;
+  transition: all 0.3s var(--ease);
+}}
+.mixes-search-input::placeholder {{ color: var(--text-dim); }}
+.mixes-search-input:focus {{
+  border-color: var(--neon-cyan);
+  box-shadow: 0 0 0 3px rgba(0,229,255,0.08), inset 0 0 20px rgba(0,229,255,0.03);
+}}
+.mixes-search-box .search-icon {{
+  position: absolute;
+  right: 24px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  stroke: var(--text-dim);
+  stroke-width: 2;
+  fill: none;
+  pointer-events: none;
+}}
+
 .episode-list {{
   flex: 1;
   overflow-y: auto;
@@ -2976,7 +3014,15 @@ function renderMixesList() {{
     return b.date.localeCompare(a.date);
   }});
 
-  list.innerHTML = sorted.map(m => {{
+  // Build search box + list
+  const searchBoxHtml = `
+    <div class="mixes-search-box">
+      <input type="text" id="mixesSearchInput" placeholder="Search artist or RA.number..." class="mixes-search-input" />
+      <svg class="search-icon" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6"/><line x1="14" y1="14" x2="20" y2="20"/></svg>
+    </div>
+  `;
+
+  const listHtml = sorted.map(m => {{
     const num = `RA.${{m.mix_number.padStart(3, '0')}}`;
     const date = m.date ? formatMixDate(m.date) : '';
     return `<div class="mix-row" data-id="${{m.id}}">
@@ -2986,6 +3032,24 @@ function renderMixesList() {{
     </div>`;
   }}).join('');
 
+  // Set HTML with search box + list
+  list.innerHTML = searchBoxHtml + listHtml;
+
+  // Setup search filtering
+  const searchInput = document.getElementById('mixesSearchInput');
+  if (searchInput) {{
+    searchInput.addEventListener('input', (e) => {{
+      const query = e.target.value.toLowerCase();
+      list.querySelectorAll('.mix-row').forEach(row => {{
+        const artist = row.querySelector('.mix-row-artist').textContent.toLowerCase();
+        const num = row.querySelector('.mix-row-num').textContent.toLowerCase();
+        const matches = artist.includes(query) || num.includes(query);
+        row.style.display = matches ? '' : 'none';
+      }});
+    }});
+  }}
+
+  // Setup click handlers
   list.querySelectorAll('.mix-row').forEach(row => {{
     row.addEventListener('click', () => {{
       const mix = mixMap.get(row.dataset.id);
