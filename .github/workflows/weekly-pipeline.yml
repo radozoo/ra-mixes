@@ -64,7 +64,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "$COMMIT_MSG"
-            git push origin main
+            git push origin HEAD:${{ github.ref_name }}
           fi
 
       - name: Report on failure
