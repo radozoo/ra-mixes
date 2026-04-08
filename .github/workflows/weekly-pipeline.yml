@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * 1'  # Monday 1:00 UTC (= 2:00 CET winter, 3:00 CEST summer)
   workflow_dispatch:     # Allow manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   pipeline:
     runs-on: ubuntu-latest
@@ -20,6 +23,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Install Playwright browsers
+        run: playwright install
 
       - name: Fetch latest episode ID
         id: latest
@@ -61,7 +67,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "$COMMIT_MSG"
-            git push origin main
+            git push origin HEAD:${{ github.ref_name }}
           fi
 
       - name: Report on failure
