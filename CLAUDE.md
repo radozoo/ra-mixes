@@ -100,6 +100,75 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
   ```
 - Po `git push origin main` sa stránka updatne za ~30 sekúnd
 
+## Automatizácia — Weekly Pipeline (Automatické pondelky)
+
+**GitHub Actions workflow** automaticky aktualizuje stránku každý pondelok bez manuálnej intervencie.
+
+### Ako funguje
+
+**Trigger**: Každý pondelok o **1:00 UTC** (= 2:00 CET zimou, 3:00 CEST letom)
+- Cron: `.github/workflows/weekly-pipeline.yml` — `0 0 * * 1` UTC
+
+**Pipeline sekvenčne:**
+1. **Fetch latest episode** — `scripts/get_latest_episode_id.py` parsuje `ra.co/podcast`, extrahuje posledný mix ID
+2. **Scrape + Parse** — `run_pilot.py` fetchne raw JSON, parsuje metadata + tracklist
+3. **LLM genre extraction** — `scripts/llm_genre_extract.py` (vyžaduje `CLAUDE_API_KEY` secret)
+   - **Fallback**: Ak LLM API zlyhá, workflow pokračuje s regex-based genres
+4. **Normalize** — `normalize_labels.py`, `genre_normalizer.py` — kategorizácia a filtering
+5. **Build HTML** — `scripts/build_network_html.py` — generates `ra_genre_network.html` (6.8MB)
+6. **Sync + Publish** — kopíruje na `index.html`, commitne a pushne na `main`
+7. **GitHub Pages live** — aktualizuje sa za ~30 sekúnd
+
+### Setup
+
+**Sekret** (už nastavené):
+- `CLAUDE_API_KEY` — Claude API kľúč (Settings → Secrets and variables → Actions)
+
+**Workflow file**:
+- `.github/workflows/weekly-pipeline.yml` — kompletný orchestration
+
+**Helper script**:
+- `scripts/get_latest_episode_id.py` — parsuje `__NEXT_DATA__` z `ra.co/podcast`
+
+### Monitoring
+
+**GitHub Actions**: https://github.com/radozoo/ra-mixes/actions
+- Workflow logs viditeľné v "Weekly RA Pipeline" — check každý pondelok
+- **Failure notifications**: GitHub email ak workflow zlyhá
+
+**Troubleshooting**:
+- Ak workflow zlyhá: Check logs v Actions tab, možné príčiny:
+  - RA.co HTML/API changed → adjust parser v `get_latest_episode_id.py`
+  - Claude API rate limit → workflow sa retry-ne (LLM fallback funguje)
+  - Network timeout → workflow má retry logic
+
+**Manual trigger** (na testovanie):
+```
+GitHub → Actions → "Weekly RA Pipeline" → "Run workflow" → monitor logs
+```
+
+### Prípadný manuálny run
+
+Ak potrebuješ fetchnúť mix mimo pondelka:
+```bash
+# Fetch latest
+python3 scripts/get_latest_episode_id.py  # → returns ID (e.g., 1052)
+
+# Run pipeline
+python3 run_pilot.py --ids 1052
+python3 scripts/llm_genre_extract.py
+python3 scripts/normalize_labels.py
+python3 normalize/genre_normalizer.py
+python3 export/excel_exporter.py
+python3 scripts/build_network_html.py
+
+# Publish
+cp ra_genre_network.html index.html
+git add index.html ra_genre_network.html
+git commit -m "build: Manual pipeline update (YYYY-MM-DD)"
+git push origin main
+```
+
 ## Skills
 
 - **frontend-design**: See [skills/frontend-design-skill.md](skills/frontend-design-skill.md) — use when building or modifying web UI components.
