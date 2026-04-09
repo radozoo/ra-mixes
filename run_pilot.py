@@ -137,9 +137,16 @@ async def run_pilot(
     tracks_path = DATA_DIR / "tracks.jsonl"
     genres_path = DATA_DIR / "genre_edges.jsonl"
 
-    # Append mode (pro incremental runs)
-    with jsonlines.open(episodes_path, mode="a") as w:
-        for ep in episodes:
+    # Overwrite mode: if podcast_id already exists, replace it (dedup guard)
+    existing: dict[str, dict] = {}
+    if episodes_path.exists():
+        with jsonlines.open(episodes_path) as r:
+            for ep in r:
+                existing[ep["podcast_id"]] = ep
+    for ep in episodes:
+        existing[ep["podcast_id"]] = ep  # overwrite if already present
+    with jsonlines.open(episodes_path, mode="w") as w:
+        for ep in existing.values():
             w.write(ep)
 
     with jsonlines.open(tracks_path, mode="a") as w:

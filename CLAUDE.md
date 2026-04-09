@@ -13,6 +13,14 @@ Interaktívna D3.js vizualizácia žánrového grafu RA podcast mixov. Jeden sel
 - `data/genre_hierarchy.json` — hierarchia žánrov (L1 families → L2 → L3), 8 rodín
 - `data/genre_cooccurrence.json` — staré co-occurrence dáta (NEPOUŽÍVA SA v grafe, nahradené musicology)
 
+### Frontend architektúra (po refaktore 2026-04-09)
+- **`src/js/main.js`** — JavaScript zdrojový kód (D3 graf, UI, search, mobile)
+- **`src/css/style.css`** — Tokyo Night CSS téma
+- **`dist/main.js`** — Parcel bundle (generovaný, nie commitnutý)
+- **Parcel bundler** — `npm run build` bundluje `src/js/main.js` → `dist/main.js`
+- **Dátová injekcia** — `window.__RA_DATA__ = {nodes, edges, mixes}` injektovaná pred bundle
+- Ak meníš JS/CSS: edituj súbory v `src/`, nie priamo v HTML
+
 ### Dátový pipeline (pridanie nového mixu)
 1. `python3 scripts/fetch_missing_httpx.py` — fetch raw JSON
 2. `python3 run_pilot.py --ids {podcast_id}` — parse
@@ -20,8 +28,8 @@ Interaktívna D3.js vizualizácia žánrového grafu RA podcast mixov. Jeden sel
 4. `python3 scripts/normalize_llm_cache.py` — normalize
 5. `python3 scripts/normalize_labels.py` — label kategorizácia (7 kategórií)
 6. `python3 normalize/genre_normalizer.py` — genre edges normalize
-7. `python3 export/excel_exporter.py` — Excel export
-8. `python3 scripts/build_network_html.py` — **finálny build**
+7. `python3 python/consolidated_exporter.py` — konsoliduje všetky JSONL do jedného pohľadu (bez Excelu)
+8. `python3 scripts/build_network_html.py` — **finálny build** (spustí Parcel, injektuje dáta)
 
 ### Genre family farby (Rain-Soaked Reflections paleta)
 | Family | Color |
@@ -115,9 +123,10 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
 3. **LLM genre extraction** — `scripts/llm_genre_extract.py` (vyžaduje `CLAUDE_API_KEY` secret)
    - **Fallback**: Ak LLM API zlyhá, workflow pokračuje s regex-based genres
 4. **Normalize** — `normalize_labels.py`, `genre_normalizer.py` — kategorizácia a filtering
-5. **Build HTML** — `scripts/build_network_html.py` — generates `ra_genre_network.html` (6.8MB)
-6. **Sync + Publish** — kopíruje na `index.html`, commitne a pushne na `main`
-7. **GitHub Pages live** — aktualizuje sa za ~30 sekúnd
+5. **Consolidated export** — `python/consolidated_exporter.py` — číta všetky JSONL, bez Excelu
+6. **Build HTML** — `scripts/build_network_html.py` — spustí Parcel (Node.js 20), injektuje dáta, generuje `ra_genre_network.html`
+7. **Sync + Publish** — kopíruje na `index.html`, commitne a pushne na `main`
+8. **GitHub Pages live** — aktualizuje sa za ~30 sekúnd
 
 ### Setup
 
@@ -159,14 +168,19 @@ python3 run_pilot.py --ids 1052
 python3 scripts/llm_genre_extract.py
 python3 scripts/normalize_labels.py
 python3 normalize/genre_normalizer.py
-python3 export/excel_exporter.py
-python3 scripts/build_network_html.py
+python3 python/consolidated_exporter.py
+python3 scripts/build_network_html.py  # spustí Parcel interne (vyžaduje npm install)
 
 # Publish
 cp ra_genre_network.html index.html
 git add index.html ra_genre_network.html
 git commit -m "build: Manual pipeline update (YYYY-MM-DD)"
 git push origin main
+```
+
+**Prvý run po klone** (Node.js dependencies):
+```bash
+npm install  # nainštaluje Parcel (raz, po klone)
 ```
 
 ## Skills

@@ -1,0 +1,16 @@
+{
+  "name": "ra-genre-network",
+  "version": "2.0.0",
+  "description": "RA Podcast Genre Network Visualization",
+  "private": true,
+  "scripts": {
+    "build": "parcel build src/js/main.js --dist-dir dist --no-source-maps",
+    "dev": "parcel watch src/js/main.js --dist-dir dist"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

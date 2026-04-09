@@ -21,8 +21,15 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Python dependencies
         run: pip install -r requirements.txt
+
+      - name: Install Node dependencies
+        run: npm install
 
       - name: Install Playwright browsers
         run: playwright install
@@ -49,7 +56,7 @@ jobs:
         run: |
           python scripts/normalize_labels.py
           python normalize/genre_normalizer.py
-          python export/excel_exporter.py
+          python python/consolidated_exporter.py
 
       - name: Build HTML visualization
         run: python scripts/build_network_html.py
