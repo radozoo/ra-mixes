@@ -2,8 +2,11 @@
 build_network_html.py — generates self-contained ra_genre_network.html.
 
 Reads:
-  data/ra_full_export.xlsx  (Episodes + Genre Edges sheets)
-  data/genre_musicology.json (musicological genre relationships)
+  data/raw/episode_*.json      (raw episode data with article/qa content)
+  data/genre_edges_clean.jsonl (clean genre assignments per episode)
+  data/tracks.jsonl            (parsed tracklist data)
+  data/llm_genre_cache_with_categories.jsonl (LLM labels + categories)
+  data/genre_musicology.json   (musicological genre relationships)
 
 Output:
   ra_genre_network.html     (single-file D3 visualization)
@@ -15,7 +18,6 @@ import glob
 import re
 import html
 from pathlib import Path
-import openpyxl
 
 ROOT = Path(__file__).parent.parent
 DATA_DIR = ROOT / "data"
@@ -100,41 +102,33 @@ def load_mixes():
         raw_map[pid]["article"] = article
         raw_map[pid]["qa"] = qa
 
-    # ── Genre edges from Excel ───────────────────────────────────────────
-    wb = openpyxl.load_workbook(DATA_DIR / "ra_full_export.xlsx", read_only=True)
-
-    ws_ge = wb["Genre Edges"]
-    ge_rows = list(ws_ge.iter_rows(values_only=True))
-    ge_headers = ge_rows[0]
-    eid_col = ge_headers.index("entity_id")
-    gc_col = ge_headers.index("genre_canonical")
-
+    # ── Genre edges from genre_edges_clean.jsonl ────────────────────────
+    import jsonlines as _jsonlines
     genre_map = {}
-    for row in ge_rows[1:]:
-        pid = str(row[eid_col])
-        genre = row[gc_col]
-        if pid not in genre_map:
-            genre_map[pid] = []
-        if genre not in genre_map[pid]:
-            genre_map[pid].append(genre)
+    ge_path = DATA_DIR / "genre_edges_clean.jsonl"
+    if ge_path.exists():
+        with _jsonlines.open(ge_path) as reader:
+            for edge in reader:
+                pid = str(edge["entity_id"])
+                genre = edge["genre_canonical"]
+                if pid not in genre_map:
+                    genre_map[pid] = []
+                if genre not in genre_map[pid]:
+                    genre_map[pid].append(genre)
 
-    # ── Parsed tracks from Excel ─────────────────────────────────────────
-    ws_tr = wb["Tracks"]
-    tr_rows = list(ws_tr.iter_rows(values_only=True))
-    tr_headers = tr_rows[0]
-    tc = {h: i for i, h in enumerate(tr_headers)}
-
+    # ── Parsed tracks from tracks.jsonl ─────────────────────────────────
     tracks_map = {}
-    for row in tr_rows[1:]:
-        pid = str(row[tc["podcast_id"]])
-        if pid not in tracks_map:
-            tracks_map[pid] = []
-        t = {"artist": row[tc["artist"]], "title": row[tc["title"]]}
-        if row[tc["label"]]:
-            t["label"] = row[tc["label"]]
-        tracks_map[pid].append(t)
-
-    wb.close()
+    tr_path = DATA_DIR / "tracks.jsonl"
+    if tr_path.exists():
+        with _jsonlines.open(tr_path) as reader:
+            for row in reader:
+                pid = str(row["podcast_id"])
+                if pid not in tracks_map:
+                    tracks_map[pid] = []
+                t = {"artist": row.get("artist", ""), "title": row.get("title", "")}
+                if row.get("label"):
+                    t["label"] = row["label"]
+                tracks_map[pid].append(t)
 
     # ── LLM cache (labels + genres) ─────────────────────────────────────
     llm_cache = {}
@@ -3212,7 +3206,7 @@ function backToMixesList() {{
 
 
 def main():
-    print("Loading mixes from Excel...")
+    print("Loading mixes (from JSONL, no Excel)...")
     mixes = load_mixes()
     print(f"  {len(mixes)} episodes loaded")
 

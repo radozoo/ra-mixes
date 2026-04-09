@@ -49,7 +49,7 @@ jobs:
         run: |
           python scripts/normalize_labels.py
           python normalize/genre_normalizer.py
-          python export/excel_exporter.py
+          python python/consolidated_exporter.py
 
       - name: Build HTML visualization
         run: python scripts/build_network_html.py
