@@ -7881,6 +7881,12 @@
       "canonical": "groovy"
     }
   ],
+  "slow-burn": [
+    {
+      "category": "energy",
+      "canonical": "slow-burn"
+    }
+  ],
   "slow-burning": [
     {
       "category": "energy",
@@ -24087,6 +24093,12 @@
       "canonical": "piano-driven"
     }
   ],
+  "pleasure-packed": [
+    {
+      "category": "other",
+      "canonical": "pleasure-packed"
+    }
+  ],
   "polyrhythmic": [
     {
       "category": "other",
@@ -25233,6 +25245,12 @@
       "canonical": "uncompromising"
     }
   ],
+  "understated": [
+    {
+      "category": "other",
+      "canonical": "understated"
+    }
+  ],
   "unexpected elements": [
     {
       "category": "other",
@@ -25249,6 +25267,12 @@
     {
       "category": "other",
       "canonical": "unhinged"
+    }
+  ],
+  "unhurried": [
+    {
+      "category": "other",
+      "canonical": "unhurried"
     }
   ],
   "unpolished": [
