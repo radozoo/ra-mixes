@@ -1277,6 +1277,7 @@ function getEmbedInfo(streamingUrl) {
 let currentlyPlayingMix = null;
 function playMix(mix) {
   currentlyPlayingMix = mix;
+  window.currentlyPlayingMix = mix;
   const info = getEmbedInfo(mix.streamingUrl);
   const el = document.getElementById('sidebarPlayer');
   if (!info || !el) {
@@ -1526,3 +1527,15 @@ function backToMixesList() {
     origPlayMix(mix);
   };
 })();
+
+// Expose functions needed by inline onclick handlers (Parcel bundles in module scope)
+window.goBack = goBack;
+window.clearSelection = clearSelection;
+window.clearAllFilters = clearAllFilters;
+window.selectGenreNode = selectGenreNode;
+window.showLabelMixes = showLabelMixes;
+window.selectEpisode = selectEpisode;
+window.playMix = playMix;
+window.backToMixesList = backToMixesList;
+window.resetApp = resetApp;
+window.mixMap = mixMap;
