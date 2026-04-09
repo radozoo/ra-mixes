@@ -1,0 +1,12 @@
+# Node.js / Parcel
+node_modules/
+dist/
+.parcel-cache/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# macOS
+.DS_Store
