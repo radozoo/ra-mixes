@@ -21,14 +21,52 @@ Interaktívna D3.js vizualizácia žánrového grafu RA podcast mixov. Jeden sel
 - **Dátová injekcia** — `window.__RA_DATA__ = {nodes, edges, mixes}` injektovaná pred bundle
 - Ak meníš JS/CSS: edituj súbory v `src/`, nie priamo v HTML
 
+### podcast_id ↔ RA.XXXX — Dôležitý vzťah
+
+**KRITICKÉ**: `podcast_id` (interné ID) ≠ `RA.XXXX` (displajové číslo). Sú to rôzne veci.
+
+| | Príklad | Popis |
+|---|---|---|
+| `podcast_id` | `1033` | Interné ID scraperu — číslo v názve súboru `data/raw/episode_XXXX.json` |
+| `RA.XXXX` | `RA.1014` | Displajové číslo — extrahované z `title` poľa v raw JSON |
+
+**Aktuálny offset pre nedávne epizódy (RA.1030+): +19**
+```
+podcast_id=1033 → RA.1014 (Wax'o Paradiso)
+podcast_id=1052 → RA.1033 (Isaac Carter)
+podcast_id=1053 → RA.1034 (RamonPang)
+```
+Offset sa historicky menil — **single source of truth** je vždy `title` pole v raw JSON:
+```bash
+python3 -c "import json; d=json.load(open('data/raw/episode_1033.json')); print(d.get('title'))"
+# → RA.1014 Wax'o Paradiso
+```
+
+**⚠️ VAROVANIE — Nikdy nemaž `data/raw/episode_XXXX.json` bez overenia obsahu!**
+- Raw súbory sú primárny zdroj dát pre každý mix
+- Zmazanie = mix zmizne zo stránky úplne (episodes.jsonl, genres, labels — všetko sa stráca)
+- `episode_1033.json` ≠ RA.1033 — súbor môže obsahovať úplne iný mix!
+- Obnova z gitu: `git show {commit}:data/raw/episode_{pid}.json > data/raw/episode_{pid}.json`
+- Detailný postup: [`docs/solutions/logic-errors/podcast-id-ra-number-mapping.md`](docs/solutions/logic-errors/podcast-id-ra-number-mapping.md)
+
+### normalize_llm_cache.py — úloha v pipeline
+
+`scripts/normalize_llm_cache.py` je povinný medzikrok medzi LLM extrakciou a label kategorizáciou:
+```
+llm_genre_extract.py  →  data/llm_genre_cache.jsonl          (raw LLM output)
+normalize_llm_cache.py →  data/llm_genre_cache_normalized.jsonl  (fuzzy matching + renames)
+normalize_labels.py   →  data/llm_genre_cache_with_categories.jsonl  (7 kategórií)
+```
+**DÔLEŽITÉ**: Manuálne cache záznamy vždy pridávaj do `llm_genre_cache.jsonl` (raw), NIE do `_normalized.jsonl` — normalize skript `_normalized.jsonl` prepíše pri každom behu.
+
 ### Dátový pipeline (pridanie nového mixu)
 1. `python3 scripts/fetch_missing_httpx.py` — fetch raw JSON
-2. `python3 run_pilot.py --ids {podcast_id}` — parse
-3. Claude Code — LLM extrakcia žánrov + labels (bez API kľúča)
-4. `python3 scripts/normalize_llm_cache.py` — normalize
-5. `python3 scripts/normalize_labels.py` — label kategorizácia (7 kategórií)
-6. `python3 normalize/genre_normalizer.py` — genre edges normalize
-7. `python3 python/consolidated_exporter.py` — konsoliduje všetky JSONL do jedného pohľadu (bez Excelu)
+2. `python3 run_pilot.py --ids {podcast_id}` — parse (výstup: `episodes.jsonl`, `tracks.jsonl`)
+3. `python3 scripts/llm_genre_extract.py --episodes {podcast_id}` — LLM extrakcia žánrov + labels (vyžaduje `ANTHROPIC_API_KEY`)
+4. `python3 scripts/normalize_llm_cache.py` — fuzzy matching, renames → `llm_genre_cache_normalized.jsonl`
+5. `python3 scripts/normalize_labels.py` — label kategorizácia (7 kategórií: mood, energy, vibe, setting, geography, era, style)
+6. `python3 normalize/genre_normalizer.py` — genre edges normalize (filtruje na vocabulary z `genre_musicology.json`)
+7. `python3 python/consolidated_exporter.py` — konsoliduje všetky JSONL do `data/consolidated.json`
 8. `python3 scripts/build_network_html.py` — **finálny build** (spustí Parcel, injektuje dáta)
 
 ### Genre family farby (Rain-Soaked Reflections paleta)
@@ -120,18 +158,20 @@ Farby sú definované v 3 miestach: `build_genre_hierarchy.py`, `build_cooccurre
 **Pipeline sekvenčne:**
 1. **Fetch latest episode** — `scripts/get_latest_episode_id.py` parsuje `ra.co/podcast`, extrahuje posledný mix ID
 2. **Scrape + Parse** — `run_pilot.py` fetchne raw JSON, parsuje metadata + tracklist
-3. **LLM genre extraction** — `scripts/llm_genre_extract.py` (vyžaduje `CLAUDE_API_KEY` secret)
+3. **LLM genre extraction** — `scripts/llm_genre_extract.py` (vyžaduje GitHub secret `CLAUDE_API_KEY`, exponovaný ako env var `ANTHROPIC_API_KEY`)
    - **Fallback**: Ak LLM API zlyhá, workflow pokračuje s regex-based genres
-4. **Normalize** — `normalize_labels.py`, `genre_normalizer.py` — kategorizácia a filtering
-5. **Consolidated export** — `python/consolidated_exporter.py` — číta všetky JSONL, bez Excelu
-6. **Build HTML** — `scripts/build_network_html.py` — spustí Parcel (Node.js 20), injektuje dáta, generuje `ra_genre_network.html`
-7. **Sync + Publish** — kopíruje na `index.html`, commitne a pushne na `main`
-8. **GitHub Pages live** — aktualizuje sa za ~30 sekúnd
+4. **Normalize LLM cache** — `scripts/normalize_llm_cache.py` — fuzzy matching raw LLM output → normalized cache
+5. **Normalize labels/genres** — `normalize_labels.py`, `genre_normalizer.py` — kategorizácia a filtering
+6. **Consolidated export** — `python/consolidated_exporter.py` — číta všetky JSONL, výstup: `data/consolidated.json`
+7. **Build HTML** — `scripts/build_network_html.py` — spustí Parcel (Node.js 20), injektuje dáta, generuje `ra_genre_network.html`
+8. **Sync + Publish** — kopíruje na `index.html`, commitne (vrátane JSONL dát) a pushne na `main`
+9. **GitHub Pages live** — aktualizuje sa za ~30 sekúnd
 
 ### Setup
 
 **Sekret** (už nastavené):
-- `CLAUDE_API_KEY` — Claude API kľúč (Settings → Secrets and variables → Actions)
+- `CLAUDE_API_KEY` — Anthropic API kľúč (Settings → Secrets and variables → Actions)
+  - Workflow ho exponuje ako `ANTHROPIC_API_KEY` (to vyžaduje `anthropic.Anthropic()`)
 
 **Workflow file**:
 - `.github/workflows/weekly-pipeline.yml` — kompletný orchestration
@@ -165,7 +205,8 @@ python3 scripts/get_latest_episode_id.py  # → returns ID (e.g., 1052)
 
 # Run pipeline
 python3 run_pilot.py --ids 1052
-python3 scripts/llm_genre_extract.py
+python3 scripts/llm_genre_extract.py --episodes 1052
+python3 scripts/normalize_llm_cache.py
 python3 scripts/normalize_labels.py
 python3 normalize/genre_normalizer.py
 python3 python/consolidated_exporter.py
