@@ -47,10 +47,11 @@ jobs:
 
       - name: Parse and extract genres
         env:
-          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
         run: |
           python run_pilot.py --ids ${{ steps.latest.outputs.episode_id }}
           python scripts/llm_genre_extract.py || echo "LLM extraction skipped, continuing with regex genres..."
+          python scripts/normalize_llm_cache.py || echo "Cache normalization skipped"
 
       - name: Normalize labels and genres
         run: |
@@ -68,7 +69,12 @@ jobs:
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "GitHub Actions"
-          git add index.html ra_genre_network.html
+          git add index.html ra_genre_network.html \
+            data/raw/ \
+            data/episodes.jsonl data/tracks.jsonl \
+            data/genre_edges.jsonl data/genre_edges_clean.jsonl data/genre_map.json \
+            data/llm_genre_cache.jsonl data/llm_genre_cache_normalized.jsonl \
+            data/llm_genre_cache_with_categories.jsonl
           COMMIT_MSG="build: Weekly pipeline update ($(date '+%Y-%m-%d'))"
           if git diff --cached --quiet; then
             echo "No changes to commit"

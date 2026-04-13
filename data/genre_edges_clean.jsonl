@@ -4763,3 +4763,7 @@
 {"entity_id": "1052", "entity_type": "podcast", "genre_raw": "Chicago House", "genre_canonical": "Chicago House", "confidence": 0.9, "source": "llm"}
 {"entity_id": "1052", "entity_type": "podcast", "genre_raw": "Deep House", "genre_canonical": "Deep House", "confidence": 0.9, "source": "llm"}
 {"entity_id": "1052", "entity_type": "podcast", "genre_raw": "Minimal House", "genre_canonical": "Minimal House", "confidence": 0.9, "source": "llm"}
+{"entity_type": "episode", "entity_id": "1053", "genre_raw": "UK garage", "genre_canonical": "UK Garage", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1053", "genre_raw": "electro", "genre_canonical": "Electro", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1053", "genre_raw": "breaks", "genre_canonical": "Breakbeat", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1053", "genre_raw": "IDM", "genre_canonical": "IDM", "source": "description", "confidence": 0.5}
