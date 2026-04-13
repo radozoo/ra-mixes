@@ -4767,3 +4767,6 @@
 {"entity_type": "episode", "entity_id": "1053", "genre_raw": "electro", "genre_canonical": "Electro", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1053", "genre_raw": "breaks", "genre_canonical": "Breakbeat", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1053", "genre_raw": "IDM", "genre_canonical": "IDM", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "house", "genre_canonical": "House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "tech house", "genre_canonical": "Tech House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1033", "genre_raw": "Balearic", "genre_canonical": "Balearic", "source": "description", "confidence": 0.5}

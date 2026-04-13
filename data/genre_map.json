@@ -88,7 +88,7 @@
   },
   "genre_counts": {
     "Techno": 533,
-    "House": 397,
+    "House": 398,
     "Experimental": 303,
     "Minimal Techno": 297,
     "Ambient": 213,
@@ -113,8 +113,8 @@
     "IDM": 53,
     "Footwork": 50,
     "Hip Hop": 46,
+    "Tech House": 42,
     "Jazz": 42,
-    "Tech House": 41,
     "Glitch": 41,
     "Minimal House": 39,
     "UK Bass": 36,
@@ -143,8 +143,8 @@
     "Italo Disco": 14,
     "Minimalism": 14,
     "Liquid Funk": 14,
+    "Balearic": 13,
     "Dark Ambient": 13,
-    "Balearic": 12,
     "Reggaeton": 12,
     "Kuduro": 12,
     "Psychedelic": 11,
@@ -220,10 +220,10 @@
     "Funk Carioca": 1
   },
   "stats": {
-    "rows_in": 4771,
-    "rows_out": 4769,
+    "rows_in": 4775,
+    "rows_out": 4772,
     "skipped_not_genre": 0,
-    "skipped_blacklist": 2,
+    "skipped_blacklist": 3,
     "merged_edges": 0,
     "unique_genres_kept": 131
   }
