@@ -4770,3 +4770,14 @@
 {"entity_type": "episode", "entity_id": "1033", "genre_raw": "house", "genre_canonical": "House", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1033", "genre_raw": "tech house", "genre_canonical": "Tech House", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1033", "genre_raw": "Balearic", "genre_canonical": "Balearic", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "techno", "genre_canonical": "Techno", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "dub", "genre_canonical": "Dub", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "breakbeat", "genre_canonical": "Breakbeat", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "trance", "genre_canonical": "Trance", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "funk", "genre_canonical": "Funk", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "rap", "genre_canonical": "Hip Hop", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "dubstep", "genre_canonical": "Dubstep", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "Latin", "genre_canonical": "Latin", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "baile funk", "genre_canonical": "Baile Funk", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "reggaeton", "genre_canonical": "Reggaeton", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1054", "genre_raw": "dancehall", "genre_canonical": "Dancehall", "source": "description", "confidence": 0.5}
