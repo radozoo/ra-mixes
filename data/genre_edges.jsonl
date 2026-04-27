@@ -4797,3 +4797,8 @@
 {"entity_type": "episode", "entity_id": "1054", "genre_raw": "baile funk", "genre_canonical": "Baile Funk", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1054", "genre_raw": "reggaeton", "genre_canonical": "Reggaeton", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1054", "genre_raw": "dancehall", "genre_canonical": "Dancehall", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1055", "genre_raw": "house music", "genre_canonical": "House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1055", "genre_raw": "garage house", "genre_canonical": "Garage House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1055", "genre_raw": "funk", "genre_canonical": "Funk", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1055", "genre_raw": "Soul", "genre_canonical": "Soul", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1055", "genre_raw": "club", "genre_canonical": "Club Music", "source": "description", "confidence": 0.5}

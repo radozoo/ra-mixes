@@ -1,0 +1,27 @@
+{
+  "source": "graphql",
+  "podcast_id": "1055",
+  "url": "https://ra.co/podcast/1055",
+  "id": "1055",
+  "title": "RA.1036 Tony Humphries",
+  "date": "2026-04-26T22:30:44.000Z",
+  "fileSize": 0,
+  "duration": "01:01:02",
+  "imageUrl": "https://static.ra.co/images/podcast/ra.1036-1x1-mix-tonyhumphries-socialra1000_1x1.jpg",
+  "contentUrl": "/podcast/1055",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1036-tony-humphries",
+  "keywords": "",
+  "artist": {
+    "id": "185",
+    "name": "Tony Humphries",
+    "__typename": "Artist"
+  },
+  "translation": {
+    "content": "Finding constants across club culture—across geographies and decades—you'll notice one near-universal truth: Friday and Saturday night are reserved for the club. But Tony Humphries showed devotion in a different way. Every Friday and Saturday night, for over a decade, he checked in to KISS FM, bringing the club to the airwaves.\n\nAlongside a residency at New Jersey's answer to Paradise Garage, Club Zanzibar, Humphries helped define the sound of garage house on the New York–New Jersey axis. Like Larry Levan, you simply can’t think of the city’s scene without him. After contributing to <a href=\"https://ra.co/reviews/21528\" target=\"_blank\">the 15th anniversary</a> of Gerd Janson's Mastermix series, he returns to Running Back with an ode to the era that shaped him—and house music itself.\n\nFor Humphries' long overdue debut on the RA Mix series, we publish an original, unedited radio recording from 1986, during Humphries' glorious reign over KISS FM's airwaves at the right hand of Shep Pettibone. It was from unearthed tapes like these that Running Back's latest gem sprang, another essential move for a label that has made a habit of spotlighting house music's lineage. Drawn from Humphries' own archives, the release captures the breadth of his reach at a time when he was breaking records week in, week out—bridging New Jersey talent, European imports and the emerging Chicago sound in a single sweep.\n\nThe hour-long mix shivers with spectral vocals and solar-plexus grooves alike, a document of Humphries's knack for connecting  various funk-forward tributaries the world over. 40 years ago might feel hard to quantify when you think of dance music’s infancy, but it was sets like these upon which Humphries' legend was forged. A mastermix, indeed <i>– Aaron Gonsher </i>.  \n\n<b>What have you been up to lately?</b>\n\nI have been very busy with my Le Bain monthly residency going strong in Manhattan and Refuge once a month on Sundays in Brooklyn, which has an amazing sound system. Traveling just as much as ever—last weekend was on the west coast with Salted anniversary in SF and then Seattle at Monkey Loft. Hard times at MoS was a big night over in London. Southport Weekender was another special trip over to the UK, with a stop at Mi-Soul radio and a night at Soho House. I try to keep time open for projects like the Running Back Mastermix. This is a real labor of love—really appreciate all the thought and work Gerd [Janson] and Oliver put into it.\n\n<b>How and where was this mix recorded and can you tell us the idea behind it?</b>\n\nThis is a DAT archived from my 1986 Kiss FM radio show that was originally selected by Running Back for this project. We spent time going through the 15 years of archived Kiss FM shows and Gerd selected this mix. I would get so much new music, some unreleased that would never come out, some of which will now be featured on the Running Back compilation.\n\n<b>What are you looking forward to in the near future?</b>\n\nI look forward to a continued consistency performing diverse live sets and recordings in quality clubs.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nCancer research. So many people lost to cancer. We need a cure now.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\nDavid Mancuso's Loft, 99 Prince St. NYC. The Loft showcased the ultimate party atmosphere of diversity, gender equality, status level, and most importantly, pure musical freedom. Beat mixing, effects were frowned upon. Quality choices played from the beginning to the end.",
+    "blurb": "A rare snapshot of house music's early days, captured through an unheard 1986 broadcast from the East Coast pioneer. ",
+    "__typename": "PodcastContent"
+  },
+  "__typename": "Podcast"
+}
