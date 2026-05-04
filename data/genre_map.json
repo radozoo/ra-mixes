@@ -87,8 +87,8 @@
     "Juke": "Footwork"
   },
   "genre_counts": {
-    "Techno": 535,
-    "House": 399,
+    "Techno": 536,
+    "House": 400,
     "Experimental": 303,
     "Minimal Techno": 297,
     "Ambient": 213,
@@ -96,11 +96,11 @@
     "Industrial Techno": 129,
     "Funk": 121,
     "Experimental Techno": 120,
-    "Electro": 118,
+    "Electro": 119,
     "Dub Techno": 107,
     "Detroit Techno": 105,
     "Industrial": 94,
-    "Dubstep": 89,
+    "Dubstep": 90,
     "Dub": 85,
     "Drum and Bass": 82,
     "Ambient Techno": 82,
@@ -113,7 +113,7 @@
     "IDM": 53,
     "Footwork": 50,
     "Hip Hop": 48,
-    "Tech House": 42,
+    "Tech House": 43,
     "Jazz": 42,
     "Glitch": 41,
     "Minimal House": 39,
@@ -220,10 +220,10 @@
     "Funk Carioca": 1
   },
   "stats": {
-    "rows_in": 4804,
-    "rows_out": 4798,
+    "rows_in": 4811,
+    "rows_out": 4803,
     "skipped_not_genre": 0,
-    "skipped_blacklist": 6,
+    "skipped_blacklist": 8,
     "merged_edges": 0,
     "unique_genres_kept": 131
   }

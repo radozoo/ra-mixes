@@ -4796,3 +4796,8 @@
 {"entity_type": "episode", "entity_id": "1055", "genre_raw": "garage house", "genre_canonical": "Garage House", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1055", "genre_raw": "funk", "genre_canonical": "Funk", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1055", "genre_raw": "Soul", "genre_canonical": "Soul", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "techno", "genre_canonical": "Techno", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "house", "genre_canonical": "House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "tech house", "genre_canonical": "Tech House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "electro", "genre_canonical": "Electro", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "dubstep", "genre_canonical": "Dubstep", "source": "description", "confidence": 0.5}

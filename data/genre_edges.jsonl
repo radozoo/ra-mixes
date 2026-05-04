@@ -4802,3 +4802,10 @@
 {"entity_type": "episode", "entity_id": "1055", "genre_raw": "funk", "genre_canonical": "Funk", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1055", "genre_raw": "Soul", "genre_canonical": "Soul", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1055", "genre_raw": "club", "genre_canonical": "Club Music", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "techno", "genre_canonical": "Techno", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "house", "genre_canonical": "House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "tech house", "genre_canonical": "Tech House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "electro", "genre_canonical": "Electro", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "dubstep", "genre_canonical": "Dubstep", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "club", "genre_canonical": "Club Music", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1056", "genre_raw": "electronic music", "genre_canonical": "Electronic", "source": "description", "confidence": 0.5}

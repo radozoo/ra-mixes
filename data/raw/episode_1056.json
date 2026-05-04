@@ -1,0 +1,27 @@
+{
+  "source": "graphql",
+  "podcast_id": "1056",
+  "url": "https://ra.co/podcast/1056",
+  "id": "1056",
+  "title": "RA.1037 Lola Haro",
+  "date": "2026-05-03T23:00:45.000Z",
+  "fileSize": 0,
+  "duration": "01:19:17",
+  "imageUrl": "https://static.ra.co/images/podcast/lolaharo.jpg",
+  "contentUrl": "/podcast/1056",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1037-lola-haro",
+  "keywords": "",
+  "artist": {
+    "id": "91943",
+    "name": "Lola Haro",
+    "__typename": "Artist"
+  },
+  "translation": {
+    "content": "Lola Haro has clubbing in her DNA. The Belgian DJ grew up with headsy parents: both were regulars at Antwerp's legendary Café d'Anvers, one of Europe's longest running house clubs, and Haro has recalled a childhood surrounded by was soundtracked by electronic music: from hanging out at the beloved local record store Wally's Groove World and her dad slinging through household tasks with Villalobos's mixes in the backdrop. \n\nSince starting out in the late 2010s, Haro has quickly established herself as a key figure in the Belgian underground. Now based in Brussels, Haro moves within a loose network of DJs sometimes labelled \"diggers,\" a dated but a useful shorthand, alongside names like Sugar Free and Vera. The common thread is a taste for the obscure: records that slip past easy identification, tracing lines through electro, techno, house and the less-charted corners of Discogs. \n\nThis world can sometimes skew conservative, but Haro brings a welcome eccentricity, and you can hear that clearly on RA.1037. For her <i>RA Mix</i>, we find her deep in a kind of fever dream.  Take one standout moment, a quarter of the way in—negative space and bass pressure lap at the edges of a spacious tech house groove, like daylight seeping into deep REM sleep. Then, as things start to stabilize, she pulls you back under—a jagged, alien banger lands moments later, hovering somewhere between dubstep and electro. \n\nRather than genre, it's mood that binds RA.1037 together: a slow-creeping unease, as if everything is poised on the brink of paranoia. As she notes in her Q&A, it draws on the atmosphere of a recent warehouse set in Melbourne, and it's a testament to Haro's deft control behind the decks, where shifts feel almost imperceptible, guided by subtle changes in tone and texture. At times, the blends are so seamless it's hard to tell which kick belongs to which track. Follow her all the way to the final stretch, where taut, high-wire arpeggios spill over like acid rain, dissolving any last sense of ground beneath your feet. -<i> Henry Ivry</i> \n\n<b>What have you been up to recently?</b>\n\nI just got back from a tour through parts of Asia and Australia. It was my first time playing in Australia, and also my first time visiting. I had the best time at the festivals I played, and I met so many great people along the way, some of whom I deeply connected with. I came back from the tour tired, but mentally recharged, and it left me inspired by all the moments I experienced. It really made me look forward to summer, experiencing more of these kinds of moments in new places, with both old and new friends.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nI had been thinking for a while about what I wanted this mix to be. I knew I wanted it to reflect a club set, but I found it difficult to recreate that feeling at home. I brought all the records I wanted to include in the mix on tour thinking I could get inspired with it. One of the gigs of the tour was Moniker Festival, which was originally planned as a bush doof (an outdoor party in the forest) but it got cancelled due to permit issues.\n\nInstead, they organized a night in a warehouse in Melbourne. The vibe of that night was just perfect. It was one of those sets where everything just flows the way you want and you feel truly connected with the crowd. I remember feeling emotional at some point, being grateful for being so far away from home, playing the music I love at a party organized by such dedicated people. When I got home I knew what I wanted to present in this mix and reworked my set from the warehouse party. It's recorded on two Technics turntables, two XDJs and a Xone:92.\n\n",
+    "blurb": "80 minutes of spectral techno, electro and leftfield obscurities from an emergent star of the Belgian underground.",
+    "__typename": "PodcastContent"
+  },
+  "__typename": "Podcast"
+}
