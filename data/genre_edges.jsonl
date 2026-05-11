@@ -4809,3 +4809,7 @@
 {"entity_type": "episode", "entity_id": "1056", "genre_raw": "dubstep", "genre_canonical": "Dubstep", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1056", "genre_raw": "club", "genre_canonical": "Club Music", "source": "description", "confidence": 0.5}
 {"entity_type": "episode", "entity_id": "1056", "genre_raw": "electronic music", "genre_canonical": "Electronic", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1057", "genre_raw": "house", "genre_canonical": "House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1057", "genre_raw": "tech house", "genre_canonical": "Tech House", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1057", "genre_raw": "trance", "genre_canonical": "Trance", "source": "description", "confidence": 0.5}
+{"entity_type": "episode", "entity_id": "1057", "genre_raw": "club", "genre_canonical": "Club Music", "source": "description", "confidence": 0.5}

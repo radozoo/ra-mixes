@@ -88,7 +88,7 @@
   },
   "genre_counts": {
     "Techno": 536,
-    "House": 400,
+    "House": 401,
     "Experimental": 303,
     "Minimal Techno": 297,
     "Ambient": 213,
@@ -113,7 +113,7 @@
     "IDM": 53,
     "Footwork": 50,
     "Hip Hop": 48,
-    "Tech House": 43,
+    "Tech House": 44,
     "Jazz": 42,
     "Glitch": 41,
     "Minimal House": 39,
@@ -131,8 +131,8 @@
     "Electroacoustic": 23,
     "Post Punk": 23,
     "Baile Funk": 23,
+    "Trance": 22,
     "Chicago House": 21,
-    "Trance": 21,
     "Synth Pop": 18,
     "Krautrock": 18,
     "Afrobeat": 18,
@@ -220,10 +220,10 @@
     "Funk Carioca": 1
   },
   "stats": {
-    "rows_in": 4811,
-    "rows_out": 4803,
+    "rows_in": 4815,
+    "rows_out": 4806,
     "skipped_not_genre": 0,
-    "skipped_blacklist": 8,
+    "skipped_blacklist": 9,
     "merged_edges": 0,
     "unique_genres_kept": 131
   }

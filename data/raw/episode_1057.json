@@ -1,0 +1,27 @@
+{
+  "source": "graphql",
+  "podcast_id": "1057",
+  "url": "https://ra.co/podcast/1057",
+  "id": "1057",
+  "title": "RA.1038 The Trip",
+  "date": "2026-05-10T22:30:26.000Z",
+  "fileSize": 0,
+  "duration": "01:28:32",
+  "imageUrl": "https://static.ra.co/images/podcast/ra.1038-1x1-mix-thetrip-socialra1000_1x1.jpg",
+  "contentUrl": "/podcast/1057",
+  "tracklist": "",
+  "archived": false,
+  "streamingUrl": "https://soundcloud.com/resident-advisor/ra-1038-the-trip",
+  "keywords": "",
+  "artist": {
+    "id": "98743",
+    "name": "The Trip",
+    "__typename": "Artist"
+  },
+  "translation": {
+    "content": "For a certain type of DJ, a record from The Trip is a buy-on-sight proposition. Since their first release in 2020, Oliver Hiam and Max van Dijk have locked into a very particular sweet spot: big, emotional dance music with enough drive to snap a festival crowd into focus, but still carrying the nuance and emotional pull of the best '90s club records. Even if this is your first time hearing the name, chances are you've already heard one of their tracks in a set from Job Jobse, Shanti Celeste, Avalon Emerson or any number of today's sharpest touring DJs.\n\nTake, for example \"<a href=\"https://thetriplondon.bandcamp.com/track/fantazia\" target=\"_blank\">Fantazia</a>.\" Released in 2023, it plays like a lost terrace anthem from Space Ibiza circa '99: rolling piano lines, featherlight trance vox and huge, glowing pads, all swept into a five-minute rush that lands somewhere between prog house, tech house and trance. Sweep through their catalogue, and you'll find plenty more with the same effect: functional club records with real emotional range, equally at home on a <a href=\"http://youtube.com/watch?v=dG0F31guIYY\" target=\"_blank\">Pitch Music & Arts</a> stage or in fabric Room 2.\n\nThe key to this is decidedly old-fashion: clocking hours on the dance floor. Long before they became a hot-shot producer duo, Hiam and van Dijk were promoters first. For more than a decade, they hosted parties and DJed at Corsica Studios under the Tessellate banner, bringing artists like DJ Sprinkles, Mr. Ties and Octo Octa to London. That foundation still underpins everything they do, even as DJ bookings rack up and studio collaborations multiply, including recent work with Demi Riquísimo and Eliza Rose.\n\nThink of RA.1038 as a marker for the start of summer: packed with bongo drums, piano breakdowns, and the occasional surprise (at one point, you might even hear what sounds like a dolphin sample). It hits that sweet spot for outdoor dancing: light, playful and just euphoric enough. As they note in their Q&A, it traces a line through the deeper corners of their taste, ducking pure peak-time pressure to show off a real feel for tension and release—honed over years of reading the floor from both sides of the booth. -<i> Bella Aquilina</i>\n\n\n<b>What have you been up to recently?</b>\n\nWe've been locked away working on our <a href=\"https://thetriplondon.bandcamp.com/album/clubdance2026\" target=\"_blank\">Clubdance</a> mixtape, which recently came out, as well as a bit of touring, including a great run across Australia and New Zealand.\n\n<b>How and where was the mix recorded? And can you tell us the idea behind it?</b>\n\nWe recorded a rough version of the mix live on CDJs at a studio we use in Hackney, then tidied it up at home. It's mainly made up of vinyl rips from old records we've collected over the years. The idea was to showcase music we've played in our sets, have sampled or have influenced our tracks.\n\n<b>What are you looking forward to in the near future?</b>\n\nProduction-wise, we're feeling inspired and have been exploring some new influences that we're excited to bring into future releases. We've also got some nice dates coming up, including our Panorama Bar debut.\n\n<b>What's one social or political cause you want the world to pay more attention to?</b>\n\nClass privilege is a real issue in music. Creative work is becoming harder to access unless you come from a certain socioeconomic background, and there's a strain of class-based snobbery in parts of dance music culture that is damaging to the health of the scene.\n\n<b>What's one club or party that had a major impact on you as an artist?</b>\n\n<a href=\"https://ra.co/features/4496\" target=\"_blank\">Corsica Studios</a>, where we held our party Tessellate for over ten years. It was the ideal platform to develop our musical identity, and we feel very lucky to have been part of that chapter in London's clubbing history. Tessellate eventually grew into a label, which in turn led to The Trip, so it's safe to say we wouldn't be where we are now without Corsica.           \n\n",
+    "blurb": "90 minutes of blissful, sun-soaked house from the essential UK producer duo.",
+    "__typename": "PodcastContent"
+  },
+  "__typename": "Podcast"
+}
